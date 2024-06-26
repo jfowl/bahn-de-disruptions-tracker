@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "46c8ce8a-a844-4057-9bcf-e4a757accf5e",
+      "disruptionId": "34c46757-1f89-4f23-8dc1-4103987a615b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung bei Eschweiler (Köln - Aachen",
+      "summary": "Auf Grund einer Oberleitungsstörung sind im Bahnhof Eschweiler auf der Strecke zwischen Köln und Aachen derzeit keine Zugfahrten möglich.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge (Berlin – Hannover –&nbsp;Aachen) &nbsp;einzelne Züge&nbsp;fallen zwischen Köln Hbf und Aachen Hbf aus. Ausfall des Verkehrshalts Aachen Hbf</li><li>Züge &nbsp;(Hamburg – Münster – Essen – Köln –&nbsp;Aachen)&nbsp;einzelne Züge&nbsp;fallen zwischen Köln Hbf und Aachen Hbf aus Ausfall der Verkehrshalte Düren und Aachen Hbf</li><li>Züge (Frankfurt (M) – Köln – Aachen – Bruxelles-Midi) werden umgeleitet, zu erwartende Umleitungsverspätung ca. 45 Minuten</li></ul><p>NJ 424 (Berlin – Erfurt – Frankfurt (M) Süd – Mannheim – Köln – Bruxelles) und&nbsp;NJ 40468 (Wien – Salzburg – München Ost – Mannheim – Köln - Bruxelles)&nbsp; wird umgeleitet, zu erwartende Umleitungsverspätung ca. 45 Minuten</p><ul><li>NJ 425 (Bruxelles – Köln – Mannheim – Frankfurt (M) Süd – Erfurt – Berlin) und&nbsp;NJ 40425 (Bruxelles – Köln – Mannheim – München Ost – Salzburg – Wien)&nbsp;wird umgeleitet, zu erwartende Umleitungsverspätung ca. 45 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.06.2024",
+      "durationEnd": "26.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.06.2024 16:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "2c5d575b-0b3b-4e59-bc37-6a8cb0355c00",
       "disruptionId": "973aea0e-a363-41d7-be94-1a312a86e7f1",
       "author": "FERNVERKEHR_AG",
@@ -536,6 +573,39 @@
       ],
       "lastModified": "18.04.2024 13:07",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f092c7cd-6d5d-4134-b6bc-6172ddc9c6c9",
+      "disruptionId": "cc840f3e-f904-4e25-beda-cb3f82ebc270",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Einschränkung der Infrastruktur in Folge einer Entgleisung in Nordhausen",
+      "summary": "Am 18.06. kam es bei Rangierarbeiten in Nordhausen zu einer Zugentgleisung. In der Folge dieses Unfalls wurde die Infrastruktur so stark beschädigt, dass das betroffene Gleis nicht mehr befahren werden kann.  Somit stehen nur noch eingeschränkte Kapazitäten zur Verfügung  und es können im Abschnitt Nordhausen - Wolkramshausen nicht mehr alle Züge der Linien RE 55/56 verkehren.",
+      "text": "<p>Die Linien RE 55/56 Richtung Sonderhausen müssen daher bis auf einzelne Ausnahmen in diesem Abschnitt entfallen. Als Ersatz konnte für die Wochentage Montag bis Freitag ein Busersatzverkehr eingerichtet werden, an den Tagen Samstag und Sonntag konnte bisher noch kein Unternehmen beauftragt werden. Es besteht zudem die Möglichkeit in dem Abschnitt die Züge der hier verkehrenden Abellio Linien zu benutzen. </p><p>Nach Information des Infrastrukturbetreibers wird die Beseitigung der Unfallfolgen noch bis mind. Montag, den 01.07.2024 andauern. Wir informieren an dieser Stelle erneut wenn die Einschränkungen weiter anhalten sollten.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 030/2970 zu informieren.</p>",
+      "durationBegin": "26.06.2024",
+      "durationEnd": "01.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.06.2024 16:49",
+      "expand": true,
       "topDisruption": false
     },
     {
