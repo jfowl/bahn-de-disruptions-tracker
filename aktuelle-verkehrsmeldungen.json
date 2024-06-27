@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "48a6dcc2-9e96-484e-a6a5-0def5419cea9",
+      "disruptionId": "549cb095-b250-416c-85aa-993670fd7fed",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Unwetterauswirkungen im Raum Hamburg",
+      "summary": "Aktuell kommt aufgrund eines Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Betroffen sind die Strecken zwischen Hamburg und Berlin bzw. Rostock sowie Hamburg und Nordrhein-Westfalen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge zwischen Hamburg und <strong>Berlin</strong> werden umgeleitet und verspäten sich um zusätzlich etwa 30 Minuten. Die Halte in Hamburg-Bergedorf, Büchen, Ludwigslust und Wittenberge <strong>entfallen</strong>. Ersatzhalt in Stendal Hbf.</li><li>IC/ICE-Züge zwischen Hamburg und <strong>Nordrhein-Westfalen</strong> werden umgeleitet und verspäten sich um zusätzlich etwa 30 Minuten. Die Halte in Bremen Hbf, Diepholz, Osnabrück Hbf, Münster(Westf)Hbf <strong>entfallen</strong>. Ersatzhlte in Hannover Hbf, Herford und Hamm(Westf)Hbf.</li><li>IC/ICE-Züge zwischen Hamburg und <strong>Rostock/Ostseebad Binz</strong> fallen aus.</li><li>ÖBB-NJ 470/60470/471/60471 werden umgeleitet und halten <strong>nicht</strong> in Bremen Hbf, Verden(Aller) und Nienburg(Weser)</li></ul><p>IC/ICE-Züge zwischen Hamburg und Berlin sowie Hamburg und Nordrhein-Westfalen, welche <strong>nicht</strong> <strong>umgeleitet</strong> werden können, müssen leider <strong>ausfallen</strong>.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "SH",
+        "NW",
+        "MV",
+        "HB"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.06.2024 21:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -602,38 +639,6 @@
       "topDisruption": false
     },
     {
-      "id": "cbf14962-3b70-4e70-85a4-f6b6b3a75c1d",
-      "disruptionId": "1369e50b-5751-4aba-9239-d7feaade73fe",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen Frankfurt(M) Hbf",
-      "summary": "Aufgrund von Bauarbeiten in Frankfurt(M) Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Stralsund - Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Karlsruhe werden umgeleitet ohne Halt Frankfurt(M) Hbf Ersatzhalt Frankfurt(M) Süd.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.06.2024 12:03",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "9fe044a1-b1dc-427f-9f86-076b5598adcb",
       "disruptionId": "a5a0b776-cdc7-48f5-bd54-b5555e5672cb",
       "author": "FERNVERKEHR_AG",
@@ -869,6 +874,46 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f5860fc3-752b-42cf-ac9f-12ce62e3f7b6",
+      "disruptionId": "e2e6123a-3e04-469d-af31-b8c29b776351",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Unwetterschäden zwischen Sigmaringen und Aulendorf",
+      "summary": "⁠Der Streckenabschnitt zwischen Herbertingen und Aulendorf ist gesperrt. Dauer der Beeinträchtigung bis voraussichtlich 29.06.24. Der Grund sind Unwetterauswirkungen. Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt möglich. Wir haben einen Ersatzverkehr mit Bus zwischen Aulendorf und Herbertingen im Pendel für Sie eingerichtet. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>IRE6: Stuttgart Hbf - Aulendorf - Tübingen Hbf</li><li>RB53: Sigmaringen - Aulendorf</li><li>RB91: Sigmaringen - Friedrichshafen Stadt</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-27/7fc0a46f-9091-41fb-b45a-a97379c68df3reisendenkarte_20240627-210040.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-27/7fc0a46f-9091-41fb-b45a-a97379c68df3reisendenkarte_20240627-210040.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.06.2024 21:00:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.06.2024 21:03",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -1246,38 +1291,6 @@
       "topDisruption": false
     },
     {
-      "id": "c6020a26-50c7-4a66-88ab-c1e2a64ffafe",
-      "disruptionId": "182c6b0c-4fe3-41a2-a3d8-098450da5f34",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen München und Ingolstadt",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen München und Ingolstadt verspäten sich um zusätzlich etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.06.2024 05:11",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "009a306c-eae0-49c0-877d-4ce30931286c",
       "disruptionId": "685919c7-dfc5-4150-8335-2eb2ab786c3a",
       "author": "REGIO_SUEDOST",
@@ -1308,39 +1321,6 @@
       ],
       "lastModified": "14.06.2024 18:31",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "2114c903-87cd-4f00-a3d2-13a1708d7740",
-      "disruptionId": "277fe4c1-c2af-4bef-b61a-4c3655f7cbab",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) Hbf und Frankfurt(M) Flughafen",
-      "summary": "Aufgrund von Aufgleisarbeiten ist die Strecke zwischen Frankfurt(M) Hbf und Frankfurt(M) Flughafen derzeit gesperrt. Dadurch kommt es zu Ausfällen und Umleitungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Dortmund - Köln Frankfurt(M) fallen aus.</li><li>ICE-Züge Kiel/Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Mannheim – Basel SBB – Chur werden umgeleitet Es fällt der Halt Frankfurt(M) Hbf aus Ersatzhalt Frankfurt(M) Süd</li><li>ICE-Züge Kiel/Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Mannheim – Stuttgart werden umgeleitet. Es fällt der Halt Frankfurt(M) Hbf aus Ersatzhalt Frankfurt(M) Süd</li><li>IC-Züge Hamburg – Bremen – Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau/München werden von Mainz-Mombach bis Frankfurt (M) Hbf umgeleitet. Es fällt der Halt Mainz und Frankfurt(M) Flughafen aus Ersatzhalt Bingen. Es ist keine Verspätung zu erwarten.</li><li>ICE Linie Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau – Wien wird umgeleitet.  Es fällt der Halt Mainz und Frankfurt(M) Flughafen aus Ersatzhalt Bingen. Es ist keine Verspätung zu erwarten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.06.2024",
-      "durationEnd": "27.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.06.2024 20:47",
-      "expand": true,
       "topDisruption": false
     },
     {
