@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "48a6dcc2-9e96-484e-a6a5-0def5419cea9",
+      "disruptionId": "549cb095-b250-416c-85aa-993670fd7fed",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Unwetterauswirkungen zwischen Hamburg und Bremen",
+      "summary": "Aktuell kommt aufgrund eines Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge zwischen Hamburg und Bremen verspäten sich um zusätzlich etwa 15 Minuten.</li><li>einzelne IC/ICE-Züge entfallen zwischen Hamburg und Nordrhein-Westfalen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.06.2024 05:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -338,40 +372,6 @@
       "topDisruption": false
     },
     {
-      "id": "2c5d575b-0b3b-4e59-bc37-6a8cb0355c00",
-      "disruptionId": "973aea0e-a363-41d7-be94-1a312a86e7f1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Sonstiges"
-      },
-      "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Hanau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Züge im Fernverkehr:</strong></strong><p><strong>Am 26.06.2024:</strong></p><ul><li>ICE 526 München Hbf - Dortmund Hbf</li><li>ICE 821 Essen Hbf - München Hbf</li><li>ICE 524 München Hbf - Dortmund Hbf</li></ul><p><strong>Am 27.06.2024:</strong></p><ul><li>ICE 821 Essen Hbf - München Hbf</li><li>ICE 524 München Hbf - Dortmund Hbf</li></ul><p>Die Züge werden umgeleitet und verspäten sich um <strong>zusätzlich </strong>etwa <strong>20 Minuten</strong>.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.06.2024",
-      "durationEnd": "28.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "26.06.2024 21:10",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -534,6 +534,39 @@
       ],
       "lastModified": "18.04.2024 13:07",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "9fe044a1-b1dc-427f-9f86-076b5598adcb",
+      "disruptionId": "a5a0b776-cdc7-48f5-bd54-b5555e5672cb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Zürich",
+      "summary": "Aufgrund eines Unwetters auf der Strecke zwischen Stuttgart und Singen(Htw) ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Stuttgart - Singen(Htw) - Zürich) enden/beginnen aus/in Richtung Stuttgart in Tuttlingen. Teilausfälle zwischen Tuttlingen und Singen(Htw) bzw. Zürich.</li></ul><p><strong>Ein Busnotverkehr zwischen Tuttlingen und Singen(Htw) ist eingerichtet. </strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.06.2024",
+      "durationEnd": "29.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.06.2024 05:18",
+      "expand": true,
       "topDisruption": false
     },
     {
