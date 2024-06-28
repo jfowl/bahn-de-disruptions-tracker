@@ -873,6 +873,79 @@
       "topDisruption": false
     },
     {
+      "id": "bd607170-e467-4a2f-bde5-b9cac024ed50",
+      "disruptionId": "81c30fed-8c57-4fde-85dc-99f94ae6c4c0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 47: Ersatzloser Ausfall RB 47 zwischen Traunstein und Mühldorf",
+      "summary": "von 01.07.24 bis 01.07.24",
+      "text": "<p>Die RB 27422 von Traunstein (ab 16:20 Uhr) nach Mühldorf (an 17:27 Uhr) entfällt wegen einer Reparatur am Zug ersatzlos. Reisende nutzen bitte den nächsten Takt.</p>",
+      "durationBegin": "28.06.2024",
+      "durationEnd": "01.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.06.2024 22:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f5860fc3-752b-42cf-ac9f-12ce62e3f7b6",
+      "disruptionId": "e2e6123a-3e04-469d-af31-b8c29b776351",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Kein Zugverkehr zwischen Herbertingen und Aulendorf möglich",
+      "summary": "Dauer der Sperrung bis mindestens 9. Juli. Ersatzverkehr mit einem Bus im Pendelverkehr ist für heute eingerichtet. Für Samstag, den 29. Juni können wir leider keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>IRE6: Stuttgart Hbf - Tübingen Hbf - Aulendorf</li><li>RB53: Sigmaringen - Aulendorf</li><li>RB91: Sigmaringen - Friedrichshafen Stadt</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-28/f8837c69-764c-496c-a394-edc0447d081dreisendenkarte_20240627-210040.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-28/f8837c69-764c-496c-a394-edc0447d081dreisendenkarte_20240627-210040.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.06.2024 21:00:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.06.2024 21:55",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c6c1fb4d-ac77-4323-aaf8-22b6e1c653ba",
       "disruptionId": "9a68880d-92c6-43ff-902c-0bd4c6fc41a9",
       "author": "REGIO_BW",
@@ -1121,46 +1194,6 @@
         }
       ],
       "lastModified": "28.06.2024 16:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f5860fc3-752b-42cf-ac9f-12ce62e3f7b6",
-      "disruptionId": "e2e6123a-3e04-469d-af31-b8c29b776351",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Kein Zugverkehr zwischen Herbertingen und Aulendorf möglich",
-      "summary": "Dauer der Sperrung bis mindestens 9. Juli. Ersatzverkehr mit einem Bus im Pendelverkehr ist eingerichtet. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>IRE6: Stuttgart Hbf - Tübingen Hbf - Aulendorf</li><li>RB53: Sigmaringen - Aulendorf</li><li>RB91: Sigmaringen - Friedrichshafen Stadt</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-28/6a901b29-b0a1-4878-90b4-88d6fc416983reisendenkarte_20240627-210040.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-28/6a901b29-b0a1-4878-90b4-88d6fc416983reisendenkarte_20240627-210040.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.06.2024 21:00:40",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.06.2024 14:30",
       "expand": true,
       "topDisruption": false
     },
