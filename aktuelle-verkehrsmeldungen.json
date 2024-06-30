@@ -2,43 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "d6655926-b035-47de-8d41-af07e15e3501",
-      "disruptionId": "4c7c68a2-9f4c-42c3-80e8-24bbfe85c0cd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Beeinträchtigungen aufgrund Unwetterfolgen in Lindhorst",
-      "summary": "Aktuell kommt es in Lindhorst aufgrund des Unwetters zu Beeinträchtigungen im ICE und IC Verkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hannover und Köln</li><li>ICE/IC Züge zwischen Hannover und Minden(W)</li><li>IC Züge zwischen Berlin und Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "NW",
-        "SN",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.06.2024 06:43",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -804,6 +767,38 @@
       "topDisruption": false
     },
     {
+      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
+      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Zürich",
+      "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p><strong>Zwischen München </strong>(ZOB Hackerbrücke) <strong>und Lindau-Reutin ist ein Busersatzverkehr eingerichtet.</strong></p><p>Die Ersatzbusse starten in München 30 Minuten früher gegenüber den Zeiten der ECE-Züge. In Lindau-Reutin besteht Anschluss vom Ersatzbus auf den ECE-Zug in Richtung Zürich, sowie in der Gegenrichtung vom ECE-Zug auf den Ersatzbus in Richtung München. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p><strong>Ab Montag, 01.07.2024 verkehren die Züge wieder durchgehend zwischen München und Zürich.</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.06.2024 12:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f5860fc3-752b-42cf-ac9f-12ce62e3f7b6",
       "disruptionId": "e2e6123a-3e04-469d-af31-b8c29b776351",
       "author": "REGIO_BW",
@@ -1008,38 +1003,6 @@
         }
       ],
       "lastModified": "28.06.2024 21:40",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
-      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Beeinträchtigungen zwischen München und Zürich",
-      "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p><strong>Zwischen München </strong>(ZOB Hackerbrücke) <strong>und Lindau-Reutin ist ein Busersatzverkehr eingerichtet.</strong></p><p>Die Ersatzbusse starten in München 30 Minuten früher gegenüber den Zeiten der ECE-Züge. In Lindau-Reutin besteht Anschluss vom Ersatzbus auf den ECE-Zug in Richtung Zürich, sowie in der Gegenrichtung vom ECE-Zug auf den Ersatzbus in Richtung München. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.06.2024 21:33",
       "expand": true,
       "topDisruption": false
     },
