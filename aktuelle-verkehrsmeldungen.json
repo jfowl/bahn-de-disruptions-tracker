@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "95ecf7a8-46f9-44f3-8f79-478a70b47eff",
-      "disruptionId": "182755eb-93a6-4764-9fa0-b5ef10e2c2ff",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Bonn und Köln",
-      "summary": "Aufgrund einer Reparatur an der Weiche bei Brühl, zwischen Bonn und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge aus Richtung Köln mit Fahrtende in Bonn entfallen in Einzelfallregelung zwischen Köln und Bonn. Es kommt zu zusätzlichen Verspätungen von etwa 25 Minuten. Einzelne Züge werden umgeleitet und verspäten sich dann ebenfalls zusätzlich um etwa 25 Minuten. Haltausfälle in Bonn Hbf, Remagen und Andernach. Ersatzhalt in Bonn-Beuel.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC und EC Züge zwischen Bonn und Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.07.2024",
-      "durationEnd": "03.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "NW",
-        "NI",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.07.2024 10:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "f86f7a24-cc4f-419d-85ff-2f87ab382035",
       "disruptionId": "6443ad85-43ac-40f3-b37e-a1e49c0b33c1",
       "author": "FERNVERKEHR_AG",
@@ -113,6 +75,48 @@
       "topDisruption": false
     },
     {
+      "id": "d4f16564-0244-40be-b677-c231f9a6c904",
+      "disruptionId": "bd3ec07f-2d91-447d-a6ac-d56449fb436f",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Verlängerungen Baumaßnahme RE3",
+      "summary": "Sehr geehrte Fahrgäste, \n\nwegen einer Verlängerung der Baumaßnahme zwischen Gera und Greiz wird es auch im Zeitraum bis 18.08. zu Ersatzverkehren kommen. SEV-Fahrpläne werden in Kürze an dieser Stelle bereitgestellt. Wir möchten uns für die Unannehmlichkeiten entschuldigen.",
+      "text": "<p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 030/2970 zu informieren.</p>",
+      "durationBegin": "13.07.2024",
+      "durationEnd": "18.08.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de/Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.07.2024 08:09",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -128,26 +132,38 @@
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-02/e38324cf-1668-4e74-a7e2-758e6fdf412cKahlgrundbahn_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/1dde8ef9-b157-4738-a1c3-67f522fc7efeTauberbahn_Ersatzverkehr_Mo_bis_%2BFr.pdf",
+          "label": "Tauberbahn Ersatzverkehr bis 12. Juli (montags bis freitags)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/25b7e38f-07fc-4eed-b9c2-5628f59a33c4Tauberbahn_Ersatzverkehr_an_einzelnen_%2BSonn_und_Feiertagen.pdf",
+          "label": "Tauberbahn_Ersatzverkehr_an_einzelnen_ Sonn_und_Feiertagen.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/61d190e3-a98c-4b8b-8ce9-02fa8b78b1ebTauberbahn_Ersatzverkehr_an_Samstagen_06.07.24.pdf",
+          "label": "Tauberbahn Ersatzverkehr am Samstag, den 6. Juli",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/41e8b78c-e9f1-41e9-95fc-6126f73b24f5Kahlgrundbahn_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
           "label": "Kahlgrundbahn Ersatzverkehr bis  24. Juli 2024",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-02/eda7f1b6-6d27-4b8e-a4ae-fd9c129d72c0Tauberbahn_Ersatzverkehr%252Bbis%252B%252B24.%252BJuli%252B2024.pdf",
-          "label": "Ersatzverkehr Tauberbahn ab bis 24. Juli 2024",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-02/c54ca71d-feae-4316-a572-a2998c055dfdMadonnenland_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024%2B%25281%2529.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/9f7af997-c2ba-45c4-bc63-8b0d56868a52Madonnenland_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024%2B%25281%2529.pdf",
           "label": "Madonnenland Ersatzverkehr bis  24. Juli 2024",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-02/2a29f6ac-a349-4027-b9b3-33b90b9e1c25Tauberbahn_Ersatzverkehr%252Ban%252Beinzelnen%252BSonn-%252Bund%252BFeiertagen_aktualisiert.pdf",
-          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonn- und Feiertagen bis Oktober 2024",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-03/94602529-c1ad-437b-857f-adfb5b82ebe9Tauberbahn_Ersatzverkehr%252Bbis%252B%252B24.%252BJuli%252B2024.pdf",
+          "label": "Ersatzverkehr Tauberbahn bis 24. Juli 2024",
           "info": "",
           "openInNewTab": true
         }
@@ -175,7 +191,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.07.2024 23:47",
+      "lastModified": "03.07.2024 11:03",
       "expand": true,
       "topDisruption": false
     },
@@ -643,39 +659,6 @@
       ],
       "lastModified": "06.06.2024 17:25",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "1768f843-c5c9-4e71-b9d1-73547f4d416c",
-      "disruptionId": "f73a981f-abd8-414e-93a7-ea4775a22639",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Singen und Schaffhausen",
-      "summary": "Wegen einem Baum auf der Strecke zwischen Singen und Schaffhausen sind in beiden Richtungen keine Zugfahrten für elektrische Züge möglich. Fernverkehrszüge im Teilausfall zwischen Singen und Schaffhausen. Vereinzelt muss auch mit größeren Teilausfällen gerechnet werden.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Züge Stuttgart - Zürich</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.07.2024",
-      "durationEnd": "03.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.07.2024 09:48",
-      "expand": true,
       "topDisruption": false
     },
     {
