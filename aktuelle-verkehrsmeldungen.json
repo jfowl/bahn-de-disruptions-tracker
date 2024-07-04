@@ -74,7 +74,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "04.07.2024 06:14",
+      "lastModified": "04.07.2024 09:05",
       "expand": true,
       "topDisruption": false
     },
@@ -663,6 +663,54 @@
       "topDisruption": false
     },
     {
+      "id": "4b162115-b7e9-4d9d-a3c0-caef82934961",
+      "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Erdrutsch"
+      },
+      "headline": "Streckensperrung zwischen Titisee und Seebrugg",
+      "summary": "Wir haben einen Ersatzverkehr mit Bus zwischen Titisee und Seebrugg für Sie eingerichtet. Dauer der Beeinträchtigung bis mindestens Sonntag, 7. Juli 2024. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen. Den Fahrplan zum Ersatzverkehr finden Sie weiter unten.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>S1 Titisee - Seebrugg</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.05.2024",
+      "durationEnd": "07.07.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-04/8c0661b8-4dfd-4030-961a-e765823801cbreisendenkarte_20240525-113438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-04/8c0661b8-4dfd-4030-961a-e765823801cbreisendenkarte_20240525-113438.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.05.2024 11:34:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-07-04/088313c0-256f-485c-a732-da0b79b08900Titisee-Seebrugg%2BNEU%2Bab%2B10.6..pdf",
+          "label": "Titisee-Seebrugg Fahrplan für Ersatzverkehrbus S1 NEU ab 10.6..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.07.2024 09:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "95b52c20-db8b-4e74-8c8c-ccd504d25922",
       "disruptionId": "01ef324f-2934-4857-88ff-9a36af224dbd",
       "author": "S_BAHN_S",
@@ -923,21 +971,28 @@
       "topDisruption": false
     },
     {
-      "id": "1e0b7e34-47d3-4c9c-81e3-cc5eac108373",
-      "disruptionId": "7c251fb0-25f0-45b5-8304-d94020bb396c",
-      "author": "SUEDOSTBAYERNBAHN",
+      "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
+      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
+      "author": "REGIO_BY",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
       },
-      "headline": "RB 48 / Ausfall RB RB 27341 / Grafing Bhf (ab 08:33 Uhr) - Ebersberg (an 08:41 Uhr)",
-      "summary": "Ausfall RB RB 27341 am 04.07.2024, Alternative: S-Bahn",
-      "text": "<p>Die RB RB 27341 entfällt am 04.07.2024 zwischen Grafing Bhf (ab 08:33 Uhr) und Ebersberg (an 08:41 Uhr) wegen einer Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "04.07.2024",
-      "durationEnd": "04.07.2024",
+      "headline": "Zugausfälle im Dieselnetz Allgäu",
+      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen.\nDie Züge der Linien RE 79 Kempten (Allg) Hbf Augsburg Hbf und RE 75 Ulm Hbf - Oberstdorf verkehren wieder ohne Einschränkungen.",
+      "text": "<p>Bei den Linien RE 7 Nürnberg Hbf - Lindau Hbf und RB 94 Kempten (Allg) Hbf - Hergatz wird es auch ab dem 10.06.24 weiterhin zu den genannten Einschränkungen kommen.</p><p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "02.02.2024",
+      "durationEnd": "31.07.2024",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -951,41 +1006,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "04.07.2024 08:38",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "2d3a4a4e-9bd1-4a15-b9bf-04318228ecdc",
-      "disruptionId": "6f95885a-4291-4054-9efb-2084bb368b69",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 48 / Ausfall RB 27342 / Ebersberg (ab 08:09 Uhr) - Grafing Bhf (an 08:18 Uhr)",
-      "summary": "Ausfall RB 27342 am 04.07.2024, Alternative: S-Bahn",
-      "text": "<p>Die RB 27342 entfällt am 04.07.2024 zwischen Ebersberg (ab 08:09 Uhr) und Grafing Bhf (an 08:18 Uhr) wegen einer Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "04.07.2024",
-      "durationEnd": "04.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.07.2024 08:31",
-      "expand": true,
+      "lastModified": "04.07.2024 09:12",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -1128,46 +1150,6 @@
       ],
       "lastModified": "28.06.2024 21:40",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
-      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Zugausfälle im Dieselnetz Allgäu",
-      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen.\nAb dem 10.06.24 verkehren die Züge der Linien RE 79 Kempten (Allg) Hbf Augsburg Hbf und RE 75 Ulm Hbf - Oberstdorf wieder ohne Einschränkungen.",
-      "text": "<p>Bei den Linien RE 7 Nürnberg Hbf - Lindau Hbf und RB 94 Kempten (Allg) Hbf - Hergatz wird es auch ab dem 10.06.24 weiterhin zu den genannten Einschränkungen kommen.</p><p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
-      "durationBegin": "02.02.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 06:44",
-      "expand": false,
       "topDisruption": false
     },
     {
