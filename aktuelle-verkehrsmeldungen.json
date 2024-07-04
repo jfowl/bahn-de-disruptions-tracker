@@ -42,44 +42,6 @@
       "topDisruption": false
     },
     {
-      "id": "dfba72c5-eda9-4bd6-adf8-80f3f115daf6",
-      "disruptionId": "579c8afd-2297-4eeb-988e-7ad9a03aab36",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Bamberg und Erfurt",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Massetal zwischen Bamberg und Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zum Ausfall der Verkehrshalte Bamberg, Erlangen und Coburg. Ersatzhalt ist Würzburg. Züge erhalten etwa 90 Min Verspätung\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Erfurt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.07.2024",
-      "durationEnd": "04.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "TH",
-        "BY",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.07.2024 06:23",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "3cc7720c-e1f9-4102-b5ea-313228b8b7da",
       "disruptionId": "e50e909c-52b3-4a38-90a2-25f7c4948b61",
       "author": "FERNVERKEHR_AG",
@@ -382,6 +344,58 @@
         }
       ],
       "lastModified": "02.07.2024 15:06",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "76452317-d2a2-4bc4-b1f2-de889d0e0cfd",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Streckensperrung zwischen Mainz Bhf -Bodenheim",
+      "summary": "Wegen einer Bombenentsch&auml;rfung im Raum Mainz Hbf kommt es am 04.07.2024 zu Beeintr&auml;chtigungen im Zugverkehr.<br />\nIn der Zeit von 11:30 Uhr bis voraussichtlich 15 Uhr kann das Stellwerk in Mainz nicht besetzt werden, da es sich im Evakuierungsgebiet befindet.<br />\nIn diesem Zeitraum wird der Zugverkehr zwischen Mainz und Bodenheim eingestellt.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S6 - Bensheim - Mannheim - Frankental - Mainz</strong><br />\n\tF&auml;llt ab 11:30 Uhr zwischen Mainz und Bodenheim aus. Ersatzverkehr ist eingerichtet.<br />\n\t&nbsp;</li>\n\t<li><strong>RE4/14 - Frankfurt - Mainz - Karlsruhe/Mannheim</strong><br />\n\tEntf&auml;llt ganzt&auml;gig auf dem gesamten Fahrweg. Unsere Empfehlung: Nutzen Sie die S-Bahnen und den Ersatzverkehr zw. Frankfurt, Mainz und Karlsruhe/Mannheim.</li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bussen zwischen Mainz Hbf und Bodenheim f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;<br />\n<br />\nBitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.<br />\n<br />\nBitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "04.07.2024",
+      "durationEnd": "04.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.07.2024 06:53",
       "expand": false,
       "topDisruption": false
     },
