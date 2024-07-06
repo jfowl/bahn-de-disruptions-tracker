@@ -2,16 +2,16 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "1f9de56d-db09-46b4-a03f-0250b2619ee7",
-      "disruptionId": "0768b6db-3921-43cd-87a1-1ea6fca65246",
+      "id": "62459d5a-8a9c-45d2-9f03-2698cf01c04f",
+      "disruptionId": "9f2b9a20-2426-460f-b3e1-6f44f8923980",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
-      "summary": "Aufgrund einer Oberleitungsstörung ist die Strecke zwischen Mainz und Koblenz derzeit gesperrt. Dadurch kommt es zu Umleitungen mit Zusatzverspätung von 20 Min und Haltausfällen, im Fernverkehr der Deutschen Bahn. Es entfallen die Halte in Bingen(Rhein) und Boppard. In Einzelfällen kommt es zu Ausfällen und Teillausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge (Berlin – Hannover – Hamm (W) – Köln – Bonn – Koblenz - Stuttgart) </li><li>IC Züge (Dortmund – Köln – Mannheim – Stuttgart – Ulm) </li><li>IC Züge (Norddeich Mole – Emden – Münster (W) – Köln – Koblenz – Stuttgart/Konstanz) </li><li>IC Züge (Hamburg – Bremen – Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau)</li><li>IC Züge (Hamburg – Dortmund – Köln – Frankfurt (M) Flugh – Mannheim – Basel SBB) </li><li>ICE Züge (Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau – Wien) </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Erfurt und Bamberg",
+      "summary": "Aufgrund einer Reparatur an einem Signal kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von 10 Min.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE Züge (Berlin – Halle – Erfurt – Nürnberg – München)</li><li>ICE Züge (Hamburg – Berlin – Halle (S) – Erfurt – München)</li><li>ICE Züge (Hamburg – Berlin – Leipzig – Erfurt – München)</li><li>ICE Züge (Hamburg – Berlin – Halle (S) – Erfurt – München)</li><li>IC Züge (Karlsruhe – Stuttgart – Nürnberg – Leipzig)&nbsp;</li><li>ICE Züge (Dortmund – Köln – Frankfurt (M) – Würzburg – Nürnberg – Passau – Wien)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis [Prognose]. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "06.07.2024",
       "durationEnd": "06.07.2024",
       "images": [],
@@ -21,12 +21,13 @@
         "LONG_DISTANCE"
       ],
       "states": [
+        "BB",
+        "ST",
+        "BE",
+        "TH",
         "BW",
         "BY",
-        "NW",
-        "NI",
-        "HE",
-        "RP"
+        "SN"
       ],
       "lines": [
         {
@@ -35,7 +36,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "06.07.2024 10:49",
+      "lastModified": "06.07.2024 12:26",
       "expand": true,
       "topDisruption": false
     },
