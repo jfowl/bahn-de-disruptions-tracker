@@ -157,6 +157,70 @@
       "topDisruption": false
     },
     {
+      "id": "38dc1c3d-aec3-4503-ae8a-8377154bc067",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen im Regionalverkehr der DB Regio Schleswig-Holstein zwischen Husum und Heide(Holst)",
+      "summary": "Aufgrund einer besch&auml;digten Klappbr&uuml;cke im Raum Friedrichstadt kommt es im Streckenverlauf der Linie RE 6 zwischen Husum und Heide(Holst) bis vsl. Dienstag, den 09.07.2024 zu Versp&auml;tungen und ggf. zu Teilausf&auml;llen von Z&uuml;gen.",
+      "text": "<p><strong><u>Betroffene Linie:</u></strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge versp&auml;ten sich zwischen Heide(Holst) und Westerland(Sylt) aktuell um bis zu 45 Minuten in beide Richtungen.&nbsp;</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "08.07.2024",
+      "durationEnd": "09.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.07.2024 19:29",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7bd507ec-bac4-46f5-b2a1-04b23691d9fc",
       "author": "REGIO_MITTE",
       "cause": {
@@ -835,6 +899,39 @@
       "topDisruption": false
     },
     {
+      "id": "92e40e6b-c528-4616-a1ce-47ed2325c0dd",
+      "disruptionId": "cb143c80-303f-489c-9b88-d401bc841f35",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 47 / Ausfall RB 27431 / Mühldorf (ab 17:34 Uhr) - Traunreut (an 18:44 Uhr)",
+      "summary": "Ersatzloser Ausfall am 09.07.24",
+      "text": "<p>RB 47: Die RB 27431 entfällt am 09.07.24 ersatzlos zwischen Mühldorf (ab 17:34 Uhr) und Traunreut (an 18:44 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "09.07.2024",
+      "durationEnd": "09.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.07.2024 19:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "47ebbf0d-74b8-4d46-914e-fb46c2f51573",
       "disruptionId": "985ad163-645b-4526-9d6f-51a2f5d2ad07",
       "author": "SUEDOSTBAYERNBAHN",
@@ -930,39 +1027,6 @@
         }
       ],
       "lastModified": "08.07.2024 18:40",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "8004c4ec-6783-4d7e-9a72-030989d7dcaa",
-      "disruptionId": "1f2b9a9d-7245-4995-87e8-5757c811821c",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verzögerung im Betriebsablauf"
-      },
-      "headline": "RB 40 / Ausfall RB 27052 / München Ost (ab 18:45 Uhr) - München Hbf (an 18:54 Uhr)",
-      "summary": "Ausfall RB 27052 am 08.07.24, Alternative: S-Bahn",
-      "text": "<p>Die RB 27052 entfällt am 08.07.24 zwischen München Ost (ab 18:45 Uhr) und München Hbf (an 18:54 Uhr) wegen Verspätung eines anderen Zuges. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "08.07.2024",
-      "durationEnd": "08.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.07.2024 18:29",
       "expand": true,
       "topDisruption": false
     },
