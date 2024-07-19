@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ac620eb3-29f8-4644-a3f6-ff79fc985056",
+      "disruptionId": "e90b3b3b-9a01-4687-8419-39cbcdbb3b3c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hanau und Fulda",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hanau und Fulda  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 40 Minuten und einzelnen Ausfällen zwischen Frankfurt(M) und Wiesbaden sowie zu einzelnen Ausfällen zwischen Fulda und Frankfurt(M).\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Sprinter Züge zwischen Berlin und Frankfurt(M)</li><li>ICE Züge zwischen Kassel und Frankfurt(M)</li><li>ICE Züge zwischen Fulda und Frankfurt(M)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "TH",
+        "BW",
+        "NI",
+        "SN",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.07.2024 11:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d4f16564-0244-40be-b677-c231f9a6c904",
       "disruptionId": "bd3ec07f-2d91-447d-a6ac-d56449fb436f",
       "author": "REGIO_SUEDOST",
@@ -423,13 +462,13 @@
       },
       "headline": "S4 wird zwischen Marbach (N) und Backnang durch Busse ersetzt. ",
       "summary": "S4 wird zwischen Marbach (N) und Backnang durch Busse ersetzt.",
-      "text": "<p>Die Züge der <strong>S4 </strong>fahren bis auf Weiteres im <strong>Abschnitt Stuttgart Schwabstraße - Marbach.</strong> Die DB setzt zwischen den Bahnhöfen <strong>Marbach und Backnang Busse als Ersatz</strong> für die S-Bahnen der Linie S4 ein. Die als <strong>Linie S4E gekennzeichneten Busse</strong> fahren im Halbstundentakt und halten in Erdmannhausen, Kirchberg und Burgstall. Die Busse fahren in Backnang früher ab als die S-Bahnen und kommen in der anderen Richtung dort später an.</p><p>Ein Hangrutsch nach Unwetter hat am 26. Juni die Gleisanlagen im Bahnhof Kirchberg (M) erheblich zerstört, weshalb zwischen Marbach (N) und Backnang bis auf Weiteres kein Zugverkehr mehr möglich ist. Aufgrund der örtlich instabilen Böden ist ein Gutachten von Geologen und Hydrologen erforderlich. Nach Auswertung des Gutachtens, voraussichtlich Mitte September 2024 informiert die DB über die notwendigen Maßnahmen und Arbeiten bis zur Wiederaufnahme des Zugbetriebs.</p><p>Bitte informieren Sie sich vor Fahrtantritt und planen die längere Fahrzeit der Busse mit ein.</p>",
+      "text": "<p>Die Züge der <strong>S4 </strong>fahren bis auf Weiteres im <strong>Abschnitt Stuttgart Schwabstraße - Marbach.</strong> Die DB setzt zwischen den Bahnhöfen <strong>Marbach und Backnang Busse als Ersatz</strong> für die S-Bahnen der Linie S4 ein. Die als <strong>Linie S4E gekennzeichneten Busse</strong> fahren im Halbstundentakt und halten in </p><ul><li>Marbach(N), Bahnhof</li><li>Erdmannhausen, Schweissbrücke</li><li>Kirchberg (M), Marbacher Str.</li><li>Kirchberg (M), Rathaus</li><li>Burgstall (M), Bahnhof</li><li>Backnang, ZOB</li></ul><p>Ab Montag, 22. Juli halten die Busse zusätzlich an der Haltestelle Erbstetten-Ortsmitte.</p><p>Die Busse fahren in Backnang früher ab als die S-Bahnen und kommen in der anderen Richtung dort später an.</p><p>Ein Hangrutsch nach Unwetter hat am 26. Juni die Gleisanlagen im Bahnhof Kirchberg (M) erheblich zerstört, weshalb zwischen Marbach (N) und Backnang bis auf Weiteres kein Zugverkehr mehr möglich ist. Aufgrund der örtlich instabilen Böden ist ein Gutachten von Geologen und Hydrologen erforderlich. Nach Auswertung des Gutachtens, voraussichtlich Mitte September 2024 informiert die DB über die notwendigen Maßnahmen und Arbeiten bis zur Wiederaufnahme des Zugbetriebs.</p><p>Bitte informieren Sie sich vor Fahrtantritt und planen die längere Fahrzeit der Busse mit ein.</p>",
       "durationBegin": "26.06.2024",
       "durationEnd": "09.09.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-11/4a57cca2-d5ae-43d0-8f91-860936a1f252reisendenkarte_20240628-002555.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-11/4a57cca2-d5ae-43d0-8f91-860936a1f252reisendenkarte_20240628-002555.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-19/1c841a0a-6939-4886-92a2-db706c14331dreisendenkarte_20240628-002555.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-19/1c841a0a-6939-4886-92a2-db706c14331dreisendenkarte_20240628-002555.png",
           "info": "",
           "alt": "Reisendenkarte 28.06.2024 00:25:55",
           "openInNewTab": true
@@ -437,7 +476,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-11/a70ad015-6933-4113-ab96-994f25080a8cFahrplan-Ersatzverkehr-S4E-Backnang-Marbach-data.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-19/f9358563-8e1b-40b9-9616-6ae136deb070Fahrplan-Ersatzverkehr-S4E-Backnang-Marbach-data.pdf",
           "label": "Fahrplan-Ersatzverkehr-S4E-Backnang-Marbach-data.pdf",
           "info": "",
           "openInNewTab": true
@@ -470,7 +509,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "11.07.2024 14:41",
+      "lastModified": "19.07.2024 10:48",
       "expand": true,
       "topDisruption": false
     },
