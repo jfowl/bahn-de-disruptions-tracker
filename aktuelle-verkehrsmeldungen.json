@@ -45,42 +45,6 @@
       "topDisruption": false
     },
     {
-      "id": "34a77da5-3046-4470-a6a8-5af2e2d08899",
-      "disruptionId": "978b112e-ad83-4707-bf84-5fd224b86179",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Kiel",
-      "summary": "Aufgrund von Bauarbeiten zwischen Hamburg und Kiel kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC-/IC- und ICE-Züge entfallen zwischen Hamburg und Kiel</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: RE-Linien 70 und 7 zwischen Hamburg Hbf und Kiel Hbf.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.07.2024",
-      "durationEnd": "22.07.2024",
-      "mapHref": "https://karte.bahn.de/detail/978b112e-ad83-4707-bf84-5fd224b86179",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.07.2024 09:59",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -161,6 +125,47 @@
       "topDisruption": false
     },
     {
+      "id": "9ecfa202-2e1c-48a7-bf72-ef2b5ac6b14f",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Kein Zugverkehr zwischen Heidelberg Hbf und Mosbach (Baden)",
+      "summary": "Aufgrund einer&nbsp;Reparatur an der Strecke ist der Zugverkehr zwischen Heidelberg Hbf und Mosbach, am Montag, den 22.07.2024 von 21:00 Uhr - 23.07.2024 23:59 Uhr eingestellt.<br />\n<br />\n<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>S1 - Homburg (Saar) - Kaiserslautern - Ludwigshafen - Mannheim - Heidelberg - Osterburken</strong></li>\n\t<li><strong>S2 - Kaiserslautern - Ludwigshafen - Mannheim - Heideberg - Mosbach</strong></li>\n\t<li><strong>S4 - Germersheim - Speyer - Mannheim - Heidelberg - Bruchsal</strong></li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bussen zwischen Heidelberg Hbf und Mosbach f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Die Ersatzfahrpl&auml;ne zu den oben genannten Linien finden Sie im Anhang, sowie in den digitalen Fahrplanmedien.&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n\n<p>&nbsp;</p>\n",
+      "durationBegin": "22.07.2024",
+      "durationEnd": "23.07.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:bcefa8d0-fa91-4a0d-afbd-466dbf86daf7/Fahrplan%20(Heidelberg%20-%20Mosbach%20-%20Heidelberg).pdf",
+          "label": "Ersatzfahrplan Heidelberg - Mosbach (PDF, 69 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.07.2024 11:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "2bbcc129-672c-4c9b-90b7-159ba815c878",
       "author": "REGIO_MITTE",
       "cause": {
@@ -173,7 +178,14 @@
       "durationBegin": "22.07.2024",
       "durationEnd": "23.07.2024",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:bcefa8d0-fa91-4a0d-afbd-466dbf86daf7/Fahrplan%20(Heidelberg%20-%20Mosbach%20-%20Heidelberg).pdf",
+          "label": "Ersatzfahrplan Heidelberg - Mosbach (PDF, 69 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "SBAHN",
@@ -546,69 +558,6 @@
         }
       ],
       "lastModified": "18.04.2024 13:07",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "4c2a4776-e05e-4429-9696-a93b82e11321",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten auf der Strecke zwischen Neumünster und Hamburg Hbf abgeschlossen",
-      "summary": "Die Bauarbeiten zwischen Elmshorn und Dauenhof wurden abgeschlossen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 7 / RE 70 (Flensburg / Kiel Hbf - Hamburg Hbf): Zugverkehr wird wieder vollumf&auml;nglich aufgenommen. Z&uuml;ge der Linie RE 70 halten zus&auml;tzlich in Horst(Holst) und Dauenhof.&nbsp;</li>\n</ul>\n\n<p>Bitte rechnen Sie in der Folge noch mit Versp&auml;tungen.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "22.07.2024",
-      "durationEnd": "22.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.07.2024 10:24",
       "expand": false,
       "topDisruption": false
     },
