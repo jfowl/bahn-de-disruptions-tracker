@@ -539,8 +539,8 @@
       "mapHref": "https://karte.bahn.de/detail/01ef324f-2934-4857-88ff-9a36af224dbd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-22/404f1297-72d1-447b-9718-fa75c96a35f0reisendenkarte_20240628-002555.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-22/404f1297-72d1-447b-9718-fa75c96a35f0reisendenkarte_20240628-002555.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-23/4968c4da-e75d-4cfe-afe6-384d36990743reisendenkarte_20240628-002555.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-23/4968c4da-e75d-4cfe-afe6-384d36990743reisendenkarte_20240628-002555.png",
           "info": "",
           "alt": "Reisendenkarte 28.06.2024 00:25:55",
           "openInNewTab": true
@@ -548,7 +548,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-22/28664da0-733a-4a14-a45a-84933df317e3Fahrplan-Ersatzverkehr-S4E-inkl-Erbstetten-ab-22-7-data.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-23/70528fb0-7cdc-403b-81c9-fda6ca055b08Fahrplan-Ersatzverkehr-S4E-inkl-Erbstetten-ab-22-7-data.pdf",
           "label": "Fahrplan-Ersatzverkehr-S4E-inkl-Erbstetten-ab-22-7-data.pdf",
           "info": "",
           "openInNewTab": true
@@ -569,6 +569,7 @@
         }
       ],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -576,12 +577,17 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "22.07.2024 06:14",
+      "lastModified": "23.07.2024 09:23",
       "expand": true,
       "topDisruption": false
     },
