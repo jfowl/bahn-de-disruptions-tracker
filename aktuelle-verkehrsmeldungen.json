@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "d103aef9-1ca2-42b3-a1c5-204365bcd742",
-      "disruptionId": "dc2aad6c-6035-45ef-b056-3067ad249a1b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung im Raum Oberhausen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Oberhausen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Dadurch kommt es zu Zugausfällen, Halteausfällen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Köln und Amsterdam werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 60 Minuten. Die Halte Düsseldorf Hbf, Duisburg Hbf, Oberhausen Hbf und Arnhem entfallen. Ersatzhalt Mönchengladbach.</li><li>Alle ICE/IC-Züge der Relation Koblenz - Norddeich fallen zwischen Münster( Westf) Hbf und Koblenz Hbf aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis die Nachmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.07.2024",
-      "durationEnd": "24.07.2024",
-      "mapHref": "https://karte.bahn.de/detail/dc2aad6c-6035-45ef-b056-3067ad249a1b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.07.2024 14:40",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "1d5a1d33-6eb7-4ceb-8a7a-4c509decdbcc",
       "author": "REGIO_MITTE",
       "cause": {
@@ -50,12 +14,6 @@
       "durationBegin": "27.07.2024",
       "durationEnd": "28.07.2024",
       "images": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:2de6bef0-6ad2-41f3-81dc-c886a3350e67/Fahrplan%20RB71%20RE1.pdf",
-          "label": "Fahrplan RB71 RE1.pdf (PDF, 252 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
         {
           "href": "https://assets.static-bahn.de/dam/jcr:2de6bef0-6ad2-41f3-81dc-c886a3350e67/Fahrplan%20RB71%20RE1.pdf",
           "label": "Fahrplan RB71 RE1.pdf (PDF, 252 KB)",
@@ -81,7 +39,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.07.2024 10:39",
+      "lastModified": "24.07.2024 16:21",
       "expand": false,
       "topDisruption": false
     },
@@ -370,6 +328,40 @@
       ],
       "lastModified": "18.04.2024 12:39",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c068648f-b026-4c91-8a36-c85b380fb444",
+      "disruptionId": "1b80c12c-8b83-4efc-8b34-93103c1699fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen in Berlin-Südkreuz",
+      "summary": "Aufgrund einer Reparatur an der Strecke im Bereich Berlin-Südkreuz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich um etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge mit Halt in Berlin-Südkreuz.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Morgenstunden am Donnerstag, 25.07.2024, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.07.2024",
+      "mapHref": "https://karte.bahn.de/detail/1b80c12c-8b83-4efc-8b34-93103c1699fd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.07.2024 16:05",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -974,8 +966,9 @@
       },
       "headline": "Beeinträchtigung zwischen Treuchtlingen und Augsburg",
       "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Treuchtlingen und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden zwischen Würzburg und München umgeleitet. Die Halte in München-Pasing, Augsburg Hbf. und Donauwörth entfallen. Ersatzhalt ist in Ingolstadt Hbf. Es kommt zu Verspätungen von etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge auf dem Abschnitt zwischen München - Augsburg - Nürnberg/Würzburg</li><li>NJ 420 Innsbruck – Amsterdam &amp; NJ 421 Amsterdam – Innsbruck</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Zwischen Ingolstadt und Augsburg verkehren die Züge des Nahverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge auf dem Abschnitt zwischen München - Augsburg - Nürnberg/Würzburg</li><li>NJ 420 Innsbruck – Amsterdam &amp; NJ 421 Amsterdam – Innsbruck</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Zwischen Ingolstadt und Augsburg verkehren die Züge des Nahverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Störung soll vsl. bis Freitag, 26.07.2024 (Tagesende) andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "18.07.2024",
+      "durationEnd": "26.07.2024",
       "mapHref": "https://karte.bahn.de/detail/db91f23c-94e5-4d43-943a-01ff06b5442a",
       "images": [],
       "downloads": [],
@@ -993,7 +986,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "22.07.2024 10:09",
+      "lastModified": "24.07.2024 16:20",
       "expand": true,
       "topDisruption": false
     },
