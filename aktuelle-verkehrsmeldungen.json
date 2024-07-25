@@ -149,27 +149,34 @@
       "topDisruption": false
     },
     {
-      "id": "34fde59a-d1ee-44c6-99d9-848442ad91c5",
-      "disruptionId": "7c7dbe0e-b178-4ba2-b6d9-2ee6f2097d44",
+      "id": "427d651e-99f2-43e5-9376-1c8d7645b3bf",
+      "disruptionId": "c81431fd-a834-4018-9cb4-69bb792aedf9",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigung zwischen Bonn und Mainz",
-      "summary": "Aufgrund von Reparaturen an der Strecke zwischen Bonn und Mainz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Verbindung Köln - Bonn - Koblenz - Mainz</li><li>NJ-Züge der Verbindung Amsterdam - Köln - Frankfurt/M - Zürich</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Morgenstunden am 26.07.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigung zwischen Köln und Koblenz",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Köln und Bonn  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden zwischen Köln und Koblenz umgeleitet und verspäten sich um etwa 50 Minuten. Die Halte in Bonn, Remagen, Andernach und Bingen entfallen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln – Bonn – Koblenz – Mainz</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Zwischen Koblenz und Andernach – Remagen –  Bonn verkehren die Züge des Nahverkehrs.</p><p>Zwischen Bonn-Beuel und Bonn Hbf verkehren Stadtbahnen und -busse der Stadtwerke Bonn (SWB). Die Fahrzeit beträgt etwa 12 Minuten.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.07.2024",
-      "mapHref": "https://karte.bahn.de/detail/7c7dbe0e-b178-4ba2-b6d9-2ee6f2097d44",
+      "mapHref": "https://karte.bahn.de/detail/c81431fd-a834-4018-9cb4-69bb792aedf9",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.swb-busundbahn.de/",
+          "label": "SWB",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "LONG_DISTANCE"
       ],
       "states": [
         "NW",
-        "HE",
+        "NI",
         "RP"
       ],
       "lines": [
@@ -179,7 +186,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "25.07.2024 16:00",
+      "lastModified": "25.07.2024 16:39",
       "expand": true,
       "topDisruption": false
     },
@@ -987,6 +994,40 @@
         }
       ],
       "lastModified": "18.04.2024 12:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ef7c6aa1-e7b8-4345-b6d0-4974376710e6",
+      "disruptionId": "d1d22f63-d710-4913-bfa4-6f08c8c6d7bb",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Einschränkungen im Raum Stendal",
+      "summary": "Aufgrund einer kurzfristigen Baumaßnahme im Knoten Stendal verkehren am Wochenende des 03. und 04. August 2024 die Züge der Linien RE 20, RE 19 und S 1 nur bis Tangerhütte.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 19/ RE 20 Magdeburg Hbf - Stendal - Salzwedel - Uelzen</li><li>S 1 Schönebeck-Bad Salzelmen - Magdeburg Hbf - Zielitz Ort - Stendal - Wittenberge</li></ul><p>In den Abschnitten Tangerhütte – Uelzen (RE20, RE19) und Tangerhütte – Wittenberge (S1) wird ein begrenztes Angebot an Ersatzverkehren mit Bussen eingerichtet. Da die Buskapazitäten nicht ausreichend sein werden, nutzen Sie bitte in/aus Richtung Uelzen alternative Reiseverbindungen über Braunschweig Hbf (RB 40/ erx RB 47).</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "03.08.2024",
+      "durationEnd": "04.08.2024",
+      "mapHref": "https://karte.bahn.de/detail/d1d22f63-d710-4913-bfa4-6f08c8c6d7bb",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.07.2024 16:38",
       "expand": false,
       "topDisruption": false
     },
