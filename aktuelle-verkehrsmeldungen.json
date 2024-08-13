@@ -2,6 +2,55 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8949d435-0da0-426e-98a9-5a2f214a4785",
+      "disruptionId": "69585a6c-8e11-4ba8-81d3-2ea24d6560b7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verspätungen von Siegburg/Bonn nach Köln Hbf",
+      "summary": "Aufgrund der Reparatur an einer Weiche in Köln-Kalk Vingst ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge aus Richtung Siegburg/Bonn kommend nach Köln Hbf werden umgeleitet und verspäten sich dadurch um etwa 15 Minuten.</li></ul><p>Die ICE-Züge den Gegenrichtung und ICE-Züge mit Halt in Köln Messe/Deutz (tief) sind nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. am heutigen Tagesende beendet sein.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.08.2024",
+      "durationEnd": "13.08.2024",
+      "mapHref": "https://karte.bahn.de/detail/69585a6c-8e11-4ba8-81d3-2ea24d6560b7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.08.2024 03:24",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d4f16564-0244-40be-b677-c231f9a6c904",
       "disruptionId": "bd3ec07f-2d91-447d-a6ac-d56449fb436f",
       "author": "REGIO_SUEDOST",
@@ -431,7 +480,7 @@
       },
       "headline": "Beeinträchtigung zwischen Herrenberg und Böblingen",
       "summary": "Aufgrund einer Reparatur an der Weiche zwischen Gärtringen und Horb kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 20 Minuten in beide Fahrtrichtungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge auf dem Abschnitt zwischen Böblingen und Herrenberg bzw. Horb</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge auf dem Abschnitt zwischen Böblingen und Herrenberg bzw. Horb</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Arbeiten sollen vsl. am Tagesende am 13.08.2024 beendet sein.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "12.08.2024",
       "durationEnd": "13.08.2024",
       "mapHref": "https://karte.bahn.de/detail/8fd383d1-38e4-4f15-b045-8c01181ba72d",
@@ -451,7 +500,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "12.08.2024 17:05",
+      "lastModified": "13.08.2024 02:43",
       "expand": true,
       "topDisruption": false
     },
