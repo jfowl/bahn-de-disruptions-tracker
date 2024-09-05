@@ -2,54 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "5ec36158-29e5-418f-9133-edd98b32afbf",
-      "disruptionId": "8c2ba263-f34a-4a9d-924a-1018d79d185f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamm (Westfalen) und Hannover",
-      "summary": "Aufgrund von Unwetterauswirkungen ist die Strecke im Bereich Soest derzeit gesperrt. Dadurch kommt es zu Zugausfällen und Umleitungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge (Koblenz – Bonn –) Köln/Düsseldorf – Hannover – Berlin fallen aus. Verkehrende Züge werden zwischen Hamm (W) und Hannover umgeleitet und verspäten sich um etwa 10 Minuten.</li><li>Einzelne ICE-Züge Stuttgart – Köln – Hannover – Magdeburg – Berlin werden zwischen Hamm (W) und Hannover umgeleitet und verspäten sich um etwa 10 Minuten.</li><li>IC-Züge Köln – Hamm(W) – Kassel-Wilhelmshöhe – Eisenach fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis zum Tagesende am Sonntag, 08.09.2024, erfolgen.&nbsp;</p><p>Wir empfehlen folgende Reisealternativen:&nbsp;Reisende ab Hamm Richtung Kassel-Wilhelmshöhe und Kassel-Wilhelmshöhe Richtung Hamm nutzen bitte RE 11</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/8c2ba263-f34a-4a9d-924a-1018d79d185f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.09.2024 17:51",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "3e12b2f8-2780-49d8-a6ef-861a63fea127",
       "disruptionId": "ace7cb12-b30a-48e3-8fcc-abd9be023430",
       "author": "FERNVERKEHR_AG",
@@ -146,6 +98,41 @@
       ],
       "lastModified": "19.08.2024 07:33",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "5ec36158-29e5-418f-9133-edd98b32afbf",
+      "disruptionId": "8c2ba263-f34a-4a9d-924a-1018d79d185f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamm (Westfalen) und Hannover",
+      "summary": "Aufgrund von Beeinträchtigungen durch Vandalismus ist die Kapazität der Strecke im Bereich Soest derzeit stark eingeschränkt. Dadurch kommt es zu Zugausfällen und Umleitungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge (Koblenz – Bonn –) Köln/Düsseldorf – Hannover – Berlin fallen aus. Verkehrende Züge werden zwischen Hamm (W) und Hannover umgeleitet und verspäten sich um etwa 10 Minuten.</li><li>Einzelne ICE-Züge Stuttgart – Köln – Hannover – Magdeburg – Berlin werden zwischen Hamm (W) und Hannover umgeleitet und verspäten sich um etwa 10 Minuten.</li><li>IC-Züge Köln – Hamm(W) – Kassel-Wilhelmshöhe – Eisenach fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis zum Tagesende am Sonntag, 08.09.2024, erfolgen.&nbsp;</p><p><strong>Wir empfehlen folgende Reisealternativen:&nbsp;</strong>Reisende ab Hamm Richtung Kassel-Wilhelmshöhe und Kassel-Wilhelmshöhe Richtung Hamm nutzen bitte den Regionalverkehr der Linie RE 11.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.09.2024",
+      "durationEnd": "08.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/8c2ba263-f34a-4a9d-924a-1018d79d185f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.09.2024 06:22",
+      "expand": true,
       "topDisruption": false
     },
     {
