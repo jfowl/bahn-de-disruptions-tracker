@@ -2,6 +2,69 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "6ffec72f-9a55-4bd6-951e-07dc984edb7d",
+      "disruptionId": "3e6ff7af-6890-484e-a34e-5ae174a179f1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Feuerwehreinsatz in Elmshorn: Bahnverkehr ist in Schleswig-Holstein bis einschl. 06.09. massiv beeinträchtigt",
+      "summary": "Aufgrund von Feuerwehreinsatz in Elmshorn kommt es bis einschl. 06.09. in Schleswig-Holstein zu massiven Beeinträchtigungen. Die Strecke ist bei Elmshorn voll gesperrt. Wir empfehlen auf nicht notwendige Reisen zu verzichten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge Kiel - Hamburg Züge beginnen und enden in Hamburg</li><li>Züge Westerland - Hamburg beginnen und enden in Hamburg</li><li>Züge Hamburg - Koebenhaven fallen zwischen Hamburg und Padborg aus. Ausfall der Halte Hamburg Hbf, Neumünster und Schleswig.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Busersatzverkehr. Die Behebung der Störung soll vsl. bis in die <strong>Abendstunden des 06.09.2024 </strong>andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/3e6ff7af-6890-484e-a34e-5ae174a179f1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-05/3a574beb-e58a-4c66-814e-2212944f6e11reisendenkarte_20240905-234001.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-05/3a574beb-e58a-4c66-814e-2212944f6e11reisendenkarte_20240905-234001.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.09.2024 23:40:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Allgemeine Informationen zur Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.09.2024 23:47",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "2fd774a7-f3e1-41e6-aa38-8ddab2827a3b",
       "disruptionId": "835df238-e91a-4fec-8133-0d6d2b21c091",
       "author": "FERNVERKEHR_AG",
@@ -124,8 +187,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.09.2024 23:27",
-      "expand": false,
+      "lastModified": "05.09.2024 23:33",
+      "expand": true,
       "topDisruption": false
     },
     {
