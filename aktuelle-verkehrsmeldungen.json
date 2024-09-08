@@ -215,6 +215,38 @@
       "topDisruption": false
     },
     {
+      "id": "3b307441-3e18-4bfb-857a-ab7acbf6d2d7",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Berlin Jungfernheide und Berlin Spandau",
+      "text": "<p>Aufgrund einer Weichenst&ouml;rung kommt es zu Zugausf&auml;llen zwischen Berlin Jungfernheide und Berlin Spandau in beide Richtungen auf den Linien: RB10, RB14 und RB21.</p>\n\n<p>Die Z&uuml;ge der Linie RE6 beginnen und enden in Hennigsdorf(b Berlin).</p>\n\n<p>Die Z&uuml;ge der Linie RE2 beginnen und enden in Berlin Ostbahnhof.</p>\n\n<p>Bitte nutzen Sie die S-Bahn oder andere Verkehrsmittel.</p>\n\n<p>Weitere aktuelle Informationen folgen.</p>\n\n<p>Bitte informieren Sie sich vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft, in der VBB-Fahrinfo, in der App DB-Navigator oder in der VBB-App Bus &amp; Bahn.</p>\n\n<p>&nbsp;</p>\n",
+      "durationBegin": "08.09.2024",
+      "durationEnd": "08.09.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.09.2024 13:00",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c6a04a2a-a95f-46b6-a3ac-04638b640e7f",
       "author": "REGIO_SH",
       "cause": {
@@ -901,6 +933,39 @@
       ],
       "lastModified": "04.07.2024 09:12",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "cc571a1d-fc30-49e0-b7c1-976b170019d4",
+      "disruptionId": "ad8740d1-3947-4c99-8029-070908840d16",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung in Berlin-Spandau",
+      "summary": "Aufgrund einer Reparatur an der Weiche im Raum Berlin-Spandau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge mit <strong>planmäßigem</strong> Halt in Berlin-Spandau werden umgeleitet und <strong>verspäten</strong> sich um zusätzlich etwa <strong>30 Minuten</strong>. Der Halt in Berlin-Spandau <strong>entfällt</strong>.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/ad8740d1-3947-4c99-8029-070908840d16",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "08.09.2024 13:03",
+      "expand": true,
       "topDisruption": false
     },
     {
