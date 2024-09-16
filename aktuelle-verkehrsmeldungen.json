@@ -91,40 +91,6 @@
       "topDisruption": false
     },
     {
-      "id": "e1975479-29e8-4637-a9ee-10a4277a8333",
-      "disruptionId": "f22239b2-f036-4577-ac0f-4ab02fdf6460",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "Beeinträchtigungen zwischen Oberhausen und Arnhem (NL)",
-      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Oberhausen und Arnhem derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und die Halte in Köln Messe/Deutz, Düsseldorf, Duisburg, Oberhausen und Arnhem (NL) entfallen. Ersatzhalte sind in Köln Hbf, Mönchengladbach und 's-Hertogenbosch (NL).",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Verbindung Frankfurt/Main - Köln - Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/f22239b2-f036-4577-ac0f-4ab02fdf6460",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.09.2024 15:50",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -311,6 +277,47 @@
       "topDisruption": false
     },
     {
+      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
+      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
+      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
+      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "04.09.2024",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://havag.com/",
+          "label": "Öffentlicher Nahverkehr in Halle (Saale)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.09.2024 18:24",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -366,40 +373,6 @@
       ],
       "lastModified": "09.09.2024 10:17",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
-      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
-      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
-      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "04.09.2024",
-      "durationEnd": "14.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.09.2024 17:46",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -640,7 +613,7 @@
         "label": "Bauarbeiten"
       },
       "headline": "Bauarbeiten auf der Linie S 1/ S 10",
-      "summary": "Es kommt zum Ausfall der S 10 uns Bahnsteigänderungen der S 1",
+      "summary": "Es kommt zum Ausfall der S 10 und Bahnsteigänderungen der S 1",
       "text": "<p>Aufgrund der Bauarbeiten verkehrt die S 10 bis 25.10.2024 nicht.</p><p>Die S 1 verkehrt teilweise auf geänderten Abfahrtsgleisen:</p><p><strong>Leipzig-Plagwitz</strong></p><p>S1  nach Leipzig Hbf oder Leipzig Miltitzer Allee nur auf <strong>Gleis 2</strong></p><p><strong>Leipzig Grünauer Allee </strong></p><p>S1  nach Leipzig Hbf oder Leipzig Miltitzer Allee nur auf <strong>Gleis 1</strong></p><p><strong>Leipzig Allee-Center</strong></p><p>S1  nach Leipzig Hbf oder Leipzig Miltitzer Allee nur auf <strong>Gleis 1</strong></p><p><strong>Leipzig Karlsruher Str </strong></p><p>S1  nach Leipzig Hbf oder Leipzig Miltitzer Allee nur auf G<strong>leis 1</strong></p><p></p>",
       "durationBegin": "03.09.2024",
       "durationEnd": "25.10.2024",
@@ -661,8 +634,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.09.2024 17:01",
-      "expand": true,
+      "lastModified": "16.09.2024 18:00",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -695,7 +668,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.08.2024 12:03",
+      "lastModified": "16.09.2024 18:12",
       "expand": false,
       "topDisruption": false
     },
