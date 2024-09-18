@@ -2,6 +2,48 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
+      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
+      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
+      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "04.09.2024",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://havag.com/",
+          "label": "Öffentlicher Nahverkehr in Halle (Saale)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.09.2024 15:56",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "9c22c8be-fefc-4c50-a1e5-c039ce94ba6d",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -248,6 +290,70 @@
       "topDisruption": false
     },
     {
+      "id": "35f5d50d-8fe7-4f4c-80af-a673a4b12a11",
+      "disruptionId": "3290e546-a1b5-4fc5-80e1-43dffd89daee",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Oberleitungsstörung: Es kommt bei allen S-Bahn-Linien zu Einschränkungen",
+      "summary": "Oberleitungsstörung: Es kommt bei allen S-Bahn-Linien zu Einschränkungen",
+      "text": "<p>Infolge einer Störung an der Oberleitung, kommt aktuell zu folgenden Einschränkungen im S-Bahnverkehr: </p><p><strong>S1, S2, S3 </strong>: Kein S-Bahnverkehr zwischen Stuttgart Bad-Cannstatt und S-Vaihingen. </p><p><strong>S4, S5:</strong> Kein S-Bahnverkehr zwischen Kornwestheim und S-Schwabstrasse. </p><p><strong>S6, S60: </strong>Kein S-Bahnverkehr zwischen Korntal und S-Schwabstrasse. </p><p><strong>Linie S62 fällt komplett aus.</strong> </p><p>Fahrgästen wird empfohlen, im Stadtzentrum auf alternative Verkehrsmittel umzusteigen. Bitte beachten Sie, dass es aufgrund der Störung in den alternativen Verkehrsmitteln zu Kapazitätsengpässen kommen kann. </p><p>Weitere Informationen folgen sobald bekannt.</p>",
+      "durationBegin": "18.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/3290e546-a1b5-4fc5-80e1-43dffd89daee",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2024 16:10",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "60c4ebda-c367-48ef-8bf3-c139dfad9d7a",
       "disruptionId": "0e570798-8a4b-48a0-9403-90e583e3e5db",
       "author": "FERNVERKEHR_AG",
@@ -331,47 +437,6 @@
         }
       ],
       "lastModified": "17.09.2024 13:26",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
-      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
-      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
-      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "04.09.2024",
-      "durationEnd": "14.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://havag.com/",
-          "label": "Öffentlicher Nahverkehr in Halle (Saale)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.09.2024 18:24",
       "expand": false,
       "topDisruption": false
     },
