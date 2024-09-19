@@ -395,6 +395,46 @@
       "topDisruption": false
     },
     {
+      "id": "664c6575-908c-4f77-a34f-2f52e51f1806",
+      "disruptionId": "a3e19b83-a13e-40ac-9af6-4dd2734d204c",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Hochwasser"
+      },
+      "headline": "Hochwasser im Bereich Oberelbe",
+      "summary": "Aufgrund der aktuellen Hochwassersituation ist das Elbtal aktuell nur mit geringer Geschwindigkeit und abschnittweise eingleisig befahrbar (behördliche Anweisung). Dadurch sind Verspätungen bis zu bis 30 Minuten möglich. Anschlüsse werden ggf. nicht erreicht. Betroffen sind die Verbindungen der S-Bahn Dresden:",
+      "text": "<p>- S1 Schöna - Bad Schandau - Pirna - Dresden - Coswig (- Ersatzverkehr Meißen)</p><p>- S2 Pirna - Heidenau - Dresden Hbf - Dresden Flughafen.</p><p>Zudem sind die Elbfähren außer Betrieb. Weitere Informationen zu Einschränkungen des ÖPNV Verkehrsverbund Oberelbe finden Sie unter vvo-online.de.</p>",
+      "durationBegin": "17.09.2024",
+      "durationEnd": "20.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/a3e19b83-a13e-40ac-9af6-4dd2734d204c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Dresden",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Dresden",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.09.2024 15:59",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "60c4ebda-c367-48ef-8bf3-c139dfad9d7a",
       "disruptionId": "0e570798-8a4b-48a0-9403-90e583e3e5db",
       "author": "FERNVERKEHR_AG",
@@ -439,46 +479,6 @@
       ],
       "lastModified": "18.09.2024 13:12",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "664c6575-908c-4f77-a34f-2f52e51f1806",
-      "disruptionId": "a3e19b83-a13e-40ac-9af6-4dd2734d204c",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Hochwasser"
-      },
-      "headline": "Hochwasser im Bereich Oberelbe",
-      "summary": "Aufgrund der aktuellen Hochwassersituation ist das Elbtal aktuell nur mit geringer Geschwindigkeit und abschnittweise eingleisig befahrbar (behördliche Anweisung). Dadurch sind Verspätungen bis zu bis 30 Minuten möglich. Anschlüsse werden ggf. nicht erreicht. Betroffen sind die Verbindungen der S-Bahn Dresden:",
-      "text": "<p>- S1 Schöna - Bad Schandau - Pirna - Dresden - Coswig (- Ersatzverkehr Meißen)</p><p>- S2 Pirna - Heidenau - Dresden Hbf - Dresden Flughafen.</p><p>Zudem sind die Elbfähren außer Betrieb. Weitere Informationen zu Einschränkungen des ÖPNV Verkehrsverbund Oberelbe finden Sie unter vvo-online.de.</p>",
-      "durationBegin": "17.09.2024",
-      "durationEnd": "20.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/a3e19b83-a13e-40ac-9af6-4dd2734d204c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Dresden",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Dresden",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.09.2024 13:26",
-      "expand": false,
       "topDisruption": false
     },
     {
