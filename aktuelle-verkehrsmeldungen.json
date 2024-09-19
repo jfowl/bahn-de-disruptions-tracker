@@ -2,28 +2,57 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "df10be88-5e42-44df-b0f0-1063e99c77f5",
-      "disruptionId": "bcd75179-01f9-464c-a827-d968707db89a",
+      "id": "256d94ec-76ad-4342-aa8d-a41cd22f045c",
+      "disruptionId": "a0922fa6-144d-45ff-8742-20fff16e6958",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigungen zwischen Karlsruhe und Mannheim",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Karlsruhe und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC/TGV/NJ/ECE Züge zwischen Karlsruhe und Mannheim</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/bcd75179-01f9-464c-a827-d968707db89a",
-      "images": [],
+      "headline": "Bauarbeiten im Raum Köln",
+      "summary": "Aufgrund von Bauarbeiten im Raum Köln kommt es vom 23.09. bis 29.09.2024 zu Fahrplananpassungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<p>Der angepasste Fahrplan ist bereits auf bahn.de und im DB Navigator abrufbar. Zudem können Sie sich über die telefonische Reiseauskunft 030/2970 über Ihre Verbindung informieren.</p><strong>Die Fahrplananpassungen:</strong><ul><li>Züge in bzw. aus Richtung Norddeutschland starten bzw. enden größtenteils bereits in Düsseldorf. Der Halt Köln Hbf entfällt.</li><li>Die ICE-Züge von bzw. nach Brüssel&nbsp;enden bzw. starten in Köln-Ehrenfeld. Der Halt Köln Hbf entfällt.</li><li>Einige Züge halten abweichend in Köln Messe/Deutz. Der Halt Köln Hbf entfällt.</li><li>Teilweise entfallen zudem ICE-Züge zwischen Köln und Frankfurt.</li><li>In der Nacht von&nbsp;Freitag, 27. September, auf Samstag, 28. September,&nbsp;ist der Kölner Hauptbahnhof und der Bahnhof Köln Messe/Deutz für&nbsp;sämtlichen&nbsp;Zugverkehr vollgesperrt. Dies betrifft auch die S-Bahn. Es ist ein umfangreicher Ersatzverkehr mit Bussen eingerichtet.</li></ul>",
+      "durationBegin": "23.09.2024",
+      "durationEnd": "27.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/a0922fa6-144d-45ff-8742-20fff16e6958",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/abaabf75-2273-456e-980e-6a04093c98ebreisendenkarte_20240918-135353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/abaabf75-2273-456e-980e-6a04093c98ebreisendenkarte_20240918-135353.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.09.2024 13:53:53",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-duesseldorf-de/presseinformationen-regional/Drei-neue-Stellwerke-fuer-den-Knoten-Koeln-Bauarbeiten-laufen-auf-Hochtouren-13004630?",
+          "label": "Hintergründe zur Baustelle / Pressemitteilung",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "LONG_DISTANCE"
       ],
       "states": [
         "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
         "HE",
-        "RP"
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
       ],
       "lines": [
         {
@@ -32,7 +61,44 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.09.2024 07:05",
+      "lastModified": "19.09.2024 10:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "628c01b8-6d83-4aaa-895b-c14c59b6eb73",
+      "disruptionId": "97bc632b-7736-44b7-873a-a8489a773b75",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Bielefeld",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 19.09.2024 kommt es in Bielefeld ab ca. 12 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 30 Min. Die Halte Herford, Bielefeld und Gütersloh entfallen dadurch.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Sprinter Züge zwischen Berlin und Köln</li><li>ICE Züge zwischen Hannover und Hamm(W)</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/97bc632b-7736-44b7-873a-a8489a773b75",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.09.2024 10:52",
       "expand": true,
       "topDisruption": false
     },
@@ -454,14 +520,14 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Ulm und Sigmaringen",
-      "summary": "Ein defektes Stellwerk im Raum Blaubeuren beeinträchtigt den Zugverkehr. Die Strecke ist gesperrt. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge aus Richtung Sigmaringen enden und beginnen in Schelklingen. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "summary": "Ein defektes Stellwerk im Raum Blaubeuren beeinträchtigt den Zugverkehr. Die Strecke ist gesperrt. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge aus Richtung Sigmaringen enden und beginnen in Schelklingen. Wir haben einen Ersatzverkehr mit Bussen zwischen Ulm Hbf und Schelklingen mit Zwischenhalt in Blaubeuren für Sie eingerichtet. Die Busse starten jeweils um ca. 11 Uhr in Ulm und Schelklingen im Pendelverkehr. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE55 Ulm - Sigmaringen - Donaueschingen</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.<strong>﻿</strong></p>",
       "durationBegin": "19.09.2024",
       "mapHref": "https://karte.bahn.de/detail/06250138-ffc2-431e-aea5-4271d70a9591",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-09-19/1ddb1441-0e3d-4c2d-9551-2bcc8c05465areisendenkarte_20240919-101043.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-09-19/1ddb1441-0e3d-4c2d-9551-2bcc8c05465areisendenkarte_20240919-101043.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-09-19/89605161-f882-43eb-81a3-db4b8abc5f5dreisendenkarte_20240919-101043.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-09-19/89605161-f882-43eb-81a3-db4b8abc5f5dreisendenkarte_20240919-101043.png",
           "info": "",
           "alt": "Reisendenkarte 19.09.2024 10:10:43",
           "openInNewTab": true
@@ -487,7 +553,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "19.09.2024 10:28",
+      "lastModified": "19.09.2024 10:50",
       "expand": true,
       "topDisruption": false
     },
