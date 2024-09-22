@@ -2,41 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bba96672-30e0-4981-808a-ea72c9ccfdd0",
-      "disruptionId": "52c976e6-cdc3-4793-9a15-674260ca8612",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Hannover/Hildesheim und Göttingen",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Hannover/Hildesheim und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 30 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hannover und Göttingen</li><li>ICE Züge zwischen Hildesheim und Göttingen</li><li>ICE Züge zwischen Berlin und Frankfurt(M)</li></ul><p>Die Züge der Gegenrichtung sind von der Störung nicht betroffen.</p><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/52c976e6-cdc3-4793-9a15-674260ca8612",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.09.2024 05:25",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -131,6 +96,40 @@
       ],
       "lastModified": "13.09.2024 16:57",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "bba96672-30e0-4981-808a-ea72c9ccfdd0",
+      "disruptionId": "52c976e6-cdc3-4793-9a15-674260ca8612",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover/Hildesheim und Göttingen",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Hannover bzw. Hildesheim und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es in beiden Richtungen zu Verspätungen von etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hannover und Göttingen</li><li>ICE-Züge zwischen Hildesheim und Göttingen</li><li>ICE-Züge zwischen Berlin und Frankfurt(M)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/52c976e6-cdc3-4793-9a15-674260ca8612",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.09.2024 05:50",
+      "expand": true,
       "topDisruption": false
     },
     {
