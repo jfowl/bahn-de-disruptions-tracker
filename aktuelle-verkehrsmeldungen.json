@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5f3288c4-04ee-4654-99fc-4ad1d4e7d3c1",
+      "disruptionId": "f9c0da03-9632-4ca0-9683-e831e17850f9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Hannover bzw. Braunschweig",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Oebisfelde kommt es am heutigen Dienstag, 24.09.2024 in der Zeit von 16:00 Uhr bis 20:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Berlin und Hannover werden über Magdeburg umgeleitet und erhalten bis zu 80 Min Verspätung</li><li>einzelne ICE- und IC-Züge fallen auf dem Gesamtweg oder zwischen Hannover und Berlin aus</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/f9c0da03-9632-4ca0-9683-e831e17850f9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.09.2024 14:24",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -703,6 +739,39 @@
       ],
       "lastModified": "16.09.2024 18:46",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "45ae0228-a8d9-45d9-929a-9ac4ea4be344",
+      "disruptionId": "6a3bf51f-bc1f-45ec-91a1-5ccc26031462",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in [Ort]",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 24.09.2024 ab vsl. 16:30 Uhr kommt es zwischen Oberhausen und Amsterdam zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 60 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Frankfurt (Main)/Dortmund/Köln und Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/6a3bf51f-bc1f-45ec-91a1-5ccc26031462",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.09.2024 14:36",
+      "expand": true,
       "topDisruption": false
     },
     {
