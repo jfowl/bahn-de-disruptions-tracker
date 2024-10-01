@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "456c63aa-f528-4692-a46f-cfc3ec81459f",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Keine Zugfahrten zwischen Konz und Schweich",
+      "summary": "Die Strecke zwischen Konz und Schweich ist gesperrt.<br />\nDer Grund ist eine Reparatur an der Oberleitung.<br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich, es kommt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nDauer der Sperrung bis Betriebsschluss.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>RE1&nbsp;Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong>(Z&uuml;ge wenden in Trier und Schweich)</p>\n\n<p><strong>RB71&nbsp;Homburg (Saar) &ndash; Saarbr&uuml;cken &ndash; Dillingen &ndash; Merzig &ndash; Trier&nbsp;</strong>(Z&uuml;ge wenden in Trier und Schweich)</p>\n\n<p><strong>RB81&nbsp;Homburg (Saar) &ndash; Saarbr&uuml;cken &ndash; Dillingen &ndash; Merzig &ndash; Trier </strong>(Z&uuml;ge wenden in Schweich und Wellen)</p>\n\n<p><strong>RB82&nbsp;Trier &ndash; Perl&nbsp;</strong>(Z&uuml;ge wenden in Schweich und Wellen)</p>\n\n<p>Wir arbeiten an der Einrichtung eines <strong>Ersatzverkehrs mit Bussen,</strong> warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "01.10.2024 21:42",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "83d3fbef-96f5-485d-9440-c9af2f0240c2",
       "author": "REGIO_MITTE",
       "cause": {
@@ -47,7 +97,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "01.10.2024 15:02",
+      "lastModified": "01.10.2024 21:33",
       "expand": false,
       "topDisruption": false
     },
