@@ -436,6 +436,47 @@
       "topDisruption": false
     },
     {
+      "id": "d0d9ad9a-fdf3-4366-90f2-ca6b793c4132",
+      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Zugausfälle im Dieselnetz Allgäu",
+      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen.",
+      "text": "<p>Bis 14.12.2024:</p><p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg Hbf und Augsburg Hbf - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p>Bis 13.04.2025:</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "04.02.2024",
+      "durationEnd": "13.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2024 10:10",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "39b6ce10-4c78-4a89-981b-21fc19b6bcf6",
       "disruptionId": "b3f6c18a-e208-4b65-bcac-f379ed528dbb",
       "author": "REGIO_BW",
@@ -526,47 +567,6 @@
       ],
       "lastModified": "10.10.2024 15:44",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "d0d9ad9a-fdf3-4366-90f2-ca6b793c4132",
-      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Zugausfälle im Dieselnetz Allgäu",
-      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen.",
-      "text": "<p></p><p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg Hbf und Augsburg Hbf - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
-      "durationBegin": "04.02.2024",
-      "durationEnd": "01.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.10.2024 09:36",
-      "expand": false,
       "topDisruption": false
     },
     {
@@ -830,6 +830,39 @@
       ],
       "lastModified": "10.10.2024 14:13",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "6ba21971-a149-40ee-839a-292d2dae4c21",
+      "disruptionId": "87d15984-93ec-497c-9858-c3d812101ac2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Rosenheim",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen München und Rosenheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC/ICE/EC/RJ/RJX-Züge zwischen München und Rosenheim/Innsbruck/Salzburg verspäten sich um <strong>zusätzlich</strong> etwa <strong>10 Minuten</strong>.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/87d15984-93ec-497c-9858-c3d812101ac2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.10.2024 10:01",
+      "expand": true,
       "topDisruption": false
     },
     {
