@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ae4902c5-84b9-46ac-b13e-ebd14b248659",
+      "disruptionId": "1e62c14b-6c9f-42b8-b632-c42c729296ae",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Amsterdam und Hamm(W)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Bad Bentheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Derzeit ist der Fernverkehr zwischen Hengelo und Bad Bentheim eingestellt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>die IC-Züge zwischen Hengelo und Hamm(W) fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen Sie zwischen den Niederlanden und Deutschland Verbindungen über Arnhem und Duisburg. Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.10.2024",
+      "durationEnd": "14.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/1e62c14b-6c9f-42b8-b632-c42c729296ae",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.10.2024 14:39",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -652,53 +687,6 @@
         }
       ],
       "lastModified": "16.09.2024 18:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "ef3d111e-b667-4ba7-8824-fc9aa38b378a",
-      "disruptionId": "09aad351-7d08-4f5b-b52b-db04b43a5af5",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Karlsruhe ⇄ Offenburg:                                                              \nZug- und Haltausfälle sowie Ersatzverkehr mit Bus ",
-      "summary": "📅 Samstag, 23.11.2024, 0 Uhr bis Montag, 25.11.2024, 2:15 Uhr, jeweils 23 - 2:15 Uhr",
-      "text": "<p><strong>Betroffene Linie: </strong></p><p>• RE 7 (Karlsruhe - Basel)</p><p>Die Züge fallen zwischen Karlsruhe und Offenburg aus und werden durch Busse ersetzt. Ebenso entfallen Halte in diesem Abschnitt. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌</p><p><strong>Grund der Bauarbeiten: </strong>Gebündelte Arbeiten in unterschiedlichen Abschnitten auf der gesamten Rheintalbahn zwischen Karlsruhe Hbf und Offenburg.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p>",
-      "durationBegin": "23.11.2024",
-      "durationEnd": "25.11.2024",
-      "mapHref": "https://karte.bahn.de/detail/09aad351-7d08-4f5b-b52b-db04b43a5af5",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/service/ran_kontakt",
-          "label": "Noch Fragen? Unser regionaler Kundendialog hilft gerne weiter.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.10.2024 14:13",
       "expand": false,
       "topDisruption": false
     },
