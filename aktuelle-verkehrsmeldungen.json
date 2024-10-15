@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "85c1f324-04be-45f0-80f3-6f298358c320",
+      "disruptionId": "89367e99-4e31-4c36-b14a-f0aa712be975",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Fürth(Bay)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Nürnberg und Fürth(Bay) kommt es derzeit zu massiven Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch zwischen 30 und 100 Minuten. Einzelne Züge entfallen teilweise.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Erfurt und Nürnberg werden umgeleitet und verspäten sich bis zu 100 Minuten. Einzelzüge entfallen zwischen Erfurt und München. Die Halte Bamberg und Coburg entfallen.</li><li>ICE Züge zwischen Nürnberg und Würzburg werden umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/89367e99-4e31-4c36-b14a-f0aa712be975",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "TH",
+        "BY",
+        "SN",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.10.2024 10:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -96,6 +134,40 @@
       ],
       "lastModified": "05.10.2024 10:44",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "57f19c53-14e0-4a5e-b876-d6042bad80cd",
+      "disruptionId": "0c389629-1ddd-44d5-8563-aedefe79bf0e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Beeinträchtigungen zwischen Erfurt und Bamberg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Erfurt und Bamberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge mit Halt in Coburg verspäten sich dadurch um etwa 20 Minuten. Züge ohne Halt in Coburg sind nicht betroffen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Nürnberg und Erfurt</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/0c389629-1ddd-44d5-8563-aedefe79bf0e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.10.2024 10:35",
+      "expand": true,
       "topDisruption": false
     },
     {
