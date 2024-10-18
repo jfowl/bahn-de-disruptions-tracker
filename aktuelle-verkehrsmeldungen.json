@@ -2,6 +2,76 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4ea7826d-06b3-4d54-963b-634958cef667",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Streckenstörung zwischen Kiel Hbf und Neumünster",
+      "summary": "Aufgrund einer Reparatur an einer Oberleitung zwischen Kiel Hbf und Neum&uuml;nster ist der Zugverkehr beeintr&auml;chtigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge beginnen/enden in Neum&uuml;nster.&nbsp;</li>\n</ul>\n\n<p>Ein Ersatzverkehr zwischen Kiel Hbf und Neum&uuml;nster ist in Planung. Reisende von/nach Kiel Hbf in Richtung Hamburg Hbf nutzen bitte die Verbindungen RE83 und RB84 in Richtung L&uuml;beck Hbf und von dort die Linien RE8, RE8X, RE80 sowie RB81 nach Hamburg Hbf.&nbsp;</p>\n\n<p>Rechnen Sie bitte mit einer Reisezeitverl&auml;ngerung von 60 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "18.10.2024",
+      "durationEnd": "18.10.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.10.2024 16:44",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "2a55506a-c386-4fe9-bc1e-acc989a55e41",
       "disruptionId": "9da13539-c9e7-424a-8a05-ec05d42dadc1",
       "author": "FERNVERKEHR_AG",
