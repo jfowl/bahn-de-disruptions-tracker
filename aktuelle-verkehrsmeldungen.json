@@ -2,6 +2,59 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4b95566e-dd12-4d38-9a05-54d06dbdd363",
+      "disruptionId": "112b4e3a-09ad-4806-8a4b-c85bb04c405a",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Miltenberg",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Miltenberg und Seckach kommt es im Raum Miltenberg zu Verspätungen und Zugausfällen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB 84 (Walldürn - Miltenberg - Seckach)</li><li>RE 87 (Aschaffenburg - Miltenberg - Wertheim - Crailsheim)</li><li>RB 88 (Miltenberg - Aschaffenburg)</li></ul><p>Leider können wir momentan keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen.</p><p>Die Störung dauert voraussichtlich noch den restlichen Tag an. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "22.10.2024",
+      "durationEnd": "22.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/112b4e3a-09ad-4806-8a4b-c85bb04c405a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-10-22/a94a9ab8-a1b1-4146-b2ca-6e2de3f9ff41reisendenkarte_20241022-100653.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-10-22/a94a9ab8-a1b1-4146-b2ca-6e2de3f9ff41reisendenkarte_20241022-100653.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2024 10:06:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus 84",
+          "filterName": "Bus 84",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 84",
+          "filterName": "RB 84",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.10.2024 10:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "6ab71279-3b45-4336-b153-8c4f945560d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -223,6 +276,79 @@
         }
       ],
       "lastModified": "04.09.2024 17:33",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "5b023a0e-0d19-40d9-8cf6-c3493f18b730",
+      "disruptionId": "8a59b17d-402a-443f-9954-5bf37bf2e651",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S-Bahnen können wieder im S-Bahntunnel zwischen S-Hauptbahnhof (tief) und Schwabstraße / S-Vaihingen verkehren",
+      "summary": "Es kommt vorübergehend zu Folgeabweichungen",
+      "text": "<p>Die S-Bahnen der Linien S1, S2, S3, S4, S5, S6 und S60 können wieder auf der Stammstrecke zwischen S-Hauptbahnhof (tief) und Schwabstraße / S-Vaihingen verkehren. Die Sperrung infolge eines Feuerwehreinsatzes ist aufgehoben.</p><p></p><p>Aufgrund der vorangegangenen Unterbrechung kommt es vorübergehend zu Folgeverspätungen und -ausfällen, bis dass der S-Bahnverkehr sich wieder eingetaktet hat.</p><p></p><p>Bitte prüfen Sie weiterhin Ihre Reiseverbindung online und achten auch auf örtliche Lautsprecheransagen und Anzeigen an den Bahnsteigen.</p>",
+      "durationBegin": "22.10.2024",
+      "durationEnd": "22.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/8a59b17d-402a-443f-9954-5bf37bf2e651",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-22/4a98f8f6-a450-480e-bdd8-4bd7f15c6535reisendenkarte_20241022-095457.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-22/4a98f8f6-a450-480e-bdd8-4bd7f15c6535reisendenkarte_20241022-095457.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2024 09:54:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2024 09:56",
       "expand": false,
       "topDisruption": false
     },
