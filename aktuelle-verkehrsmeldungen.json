@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "56927807-fd54-4f4a-8fab-85e81b383233",
+      "disruptionId": "b33ea472-a0bf-4b11-a2bc-03f18a6f3864",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Münster",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Dortmund und Münster kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge werden umgeleitet und verspäten sich dadurch um bis zu 30 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE und IC Züge zwischen Dortmund und Münster</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.10.2024",
+      "durationEnd": "23.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/b33ea472-a0bf-4b11-a2bc-03f18a6f3864",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.10.2024 09:09",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "407524f1-790a-4200-b91e-c6e79b00d6e9",
       "disruptionId": "11d763ac-954b-41b7-acd8-284a735749cc",
       "author": "FERNVERKEHR_AG",
@@ -10,9 +47,10 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Leer (Ostfriesl) und Rheine",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Leer (Ostfriesl) und Rheine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 70 Min.",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Leer (Ostfriesl) und Rheine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 30 Min.",
       "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Linie Norddeich Mole – Münster (Westf) – Siegen – Frankfurt(M)</li><li>IC-Linie Norddeich Mole – Emden – Münster (W) – Köln – Koblenz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "22.10.2024",
+      "durationEnd": "23.10.2024",
       "mapHref": "https://karte.bahn.de/detail/11d763ac-954b-41b7-acd8-284a735749cc",
       "images": [],
       "downloads": [],
@@ -32,7 +70,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "22.10.2024 12:57",
+      "lastModified": "23.10.2024 09:11",
       "expand": false,
       "topDisruption": false
     },
