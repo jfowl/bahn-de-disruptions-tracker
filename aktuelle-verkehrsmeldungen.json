@@ -38,41 +38,6 @@
       "topDisruption": false
     },
     {
-      "id": "407524f1-790a-4200-b91e-c6e79b00d6e9",
-      "disruptionId": "11d763ac-954b-41b7-acd8-284a735749cc",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Leer (Ostfriesl) und Rheine",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Leer (Ostfriesl) und Rheine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 30 Minuten.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge Norddeich Mole – Münster (Westf) – Siegen – Frankfurt(M)</li><li>IC-Züge Norddeich Mole – Emden – Münster (W) – Köln – Koblenz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Störung wird vsl. bis in die Nachmittagsstunden am Donnerstag, 24.10.2024, andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/11d763ac-954b-41b7-acd8-284a735749cc",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.10.2024 20:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "6ab71279-3b45-4336-b153-8c4f945560d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -304,6 +269,49 @@
       "topDisruption": false
     },
     {
+      "id": "c0265474-8a52-4bba-866e-6f7ddc8f363c",
+      "disruptionId": "28726460-4358-4fb1-967a-3f92147d6ad5",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Stadtprozelten ⇄ Wertheim:                                                              \nErsatzverkehr aufgrund Bauarbeiten ",
+      "summary": "📅 Montag, 04.11.2024 bis Sonntag, 24.11.2024",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><p>• RE 87 Aschaffenburg – Miltenberg – Wertheim – Lauda – Crailsheim</p><p>•  RB 88 Aschaffenburg – Miltenberg</p><p>Die Züge fallen zwischen Stadtprozelten und Wertheim aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Stadtprozelten Bahnhof, Faulbach Bahnhof, Hasloch Faulbacher Straße, Wertheim Schule, Wertheim ZOB</p><p></p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅❌</p><p><strong>Grund der Bauarbeiten: </strong>Erneuerung der Eisenbahnüberführung</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p>",
+      "durationBegin": "04.11.2024",
+      "durationEnd": "24.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/28726460-4358-4fb1-967a-3f92147d6ad5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-10-24/e3789980-427f-45a5-837e-a069e91b8202reisendenkarte_20241024-143726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-10-24/e3789980-427f-45a5-837e-a069e91b8202reisendenkarte_20241024-143726.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.10.2024 14:37:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.10.2024 14:45",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -390,14 +398,14 @@
       },
       "headline": "S6: Malmsheim,Renningen,Weil der Stadt: Teilausfälle,Ausfälle aufgrund Oberleitungsstörung",
       "summary": "Oberleitungsstörung Malmsheim",
-      "text": "<p>Aufgrund einer Oberleitungsstörung im Bereich Malmsheim kommt es auf der Linie S6 zwischen Renningen und Weil der Stadt zu Zugausfällen. Informieren Sie sich vor Fahrtantritt und achten Sie auf Durchsagen und Anzeigetafeln.</p>",
+      "text": "<p>Bitte beachten Sie, dass die Oberleitungsstörung im Bereich Malmsheim weiterhin besteht. Die S6 ist im Abschnitt zwischen Renningen und Weil der Stadt unterbrochen. Unsere Techniker arbeiten mit Hochdruck an der Behebung der Störung.</p><p>Die Einrichtung eines Busnotverkehrs ist momentan leider nicht möglich</p><p></p><p>Die S-Bahnen der Linie S6 enden wahlweise in Renningen und Leonberg. Wir empfehlen Ihnen, sich vor Fahrtantritt zu informieren und auf die Anzeigetafeln sowie Ansagen zu achten.</p>",
       "durationBegin": "24.10.2024",
       "durationEnd": "24.10.2024",
       "mapHref": "https://karte.bahn.de/detail/a7c1c97a-2230-4579-acbf-d46425ba169e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-24/c60b233c-840e-4f1e-a376-435e1740d262reisendenkarte_20241024-125822.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-24/c60b233c-840e-4f1e-a376-435e1740d262reisendenkarte_20241024-125822.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-24/85c6c078-9f73-4e31-9f94-672648d420e2reisendenkarte_20241024-125822.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-24/85c6c078-9f73-4e31-9f94-672648d420e2reisendenkarte_20241024-125822.png",
           "info": "",
           "alt": "Reisendenkarte 24.10.2024 12:58:22",
           "openInNewTab": true
@@ -419,7 +427,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2024 12:59",
+      "lastModified": "24.10.2024 14:23",
       "expand": false,
       "topDisruption": false
     },
