@@ -2,43 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "8d862ed7-b168-4910-b9da-29a1c541c032",
-      "disruptionId": "03a54033-88b6-4179-8e19-d3e85f36cc43",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Fulda",
-      "summary": "Die Strecke zwischen Frankfurt(M) und Fulda ist nur eingeschränkt befahrbar. Dadurch kommt es zu Umleitungen im Fernverkehr der Deutschen Bahn. Züge von Frankfurt(Main) in Fahrtrichtung Fulda werden umgeleitet und erhalten 20 Min Zusatzverspätung.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge von Frankfurt(Main) Richtung Fulda.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.10.2024",
-      "durationEnd": "25.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/03a54033-88b6-4179-8e19-d3e85f36cc43",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NI",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "25.10.2024 08:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "c6bbee2e-8b25-4ba9-8140-ad44da4a5ebf",
       "disruptionId": "166a21ae-73d1-4211-9645-26d47aa3d7ab",
       "author": "FERNVERKEHR_AG",
@@ -381,6 +344,67 @@
         }
       ],
       "lastModified": "24.07.2024 09:37",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "dfce581c-1f34-4745-bf21-6c5e2f6ed137",
+      "disruptionId": "4598ad6e-a585-4f4b-b84b-9b2e39c3559a",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Auf der Linie S4 zwischen Marbach(N) und Backnang ist bis auf Weiteres kein S-Bahnverkehr möglich.",
+      "summary": "DB setzt zwischen den Bahnhöfen Marbach(N) und Backnang Busse als Ersatz für die S-Bahnen der Linie S4 ein.",
+      "text": "<p>Ein Hangrutsch nach Unwetter hat am Mittwoch, 26. Juni 2024, die Gleisanlangen im Bahnhof Kirchberg (Murr) erheblich zerstört. Zwischen Marbach (Neckar) und Backnang ist deshalb bis auf Weiteres kein Zugverkehr möglich. Die S-Bahnen der Linie S4 fahren nur im Abschnitt zwischen Stuttgart Schwabstraße und Marbach.</p><p><strong>Zwischen den Bahnhöfen Marbach und Backnang hat die DB einen&nbsp;Ersatzverkehr mit Bussen (S4E) im 30-Minuten-Takt eingerichtet.</strong>&nbsp;Die Busse des Ersatzverkehrs sind besonders gekennzeichnet und fahren an folgenden Stationen:</p><ul><li>Marbach(N), Bahnhof</li><li>Erdmannhausen, Rathaus</li><li>Erdmannhausen, Bahnhofstraße</li><li>Kirchberg(M), Marbacher Straße</li><li>Kirchberg(M), Rathaus</li><li>Burgstall(M), Bahnhof</li><li>Erbsteten, Ortsmitte</li><li>Backnang, ZOB</li></ul><p>Weitere Informationen erhalten Sie auch auf der Seite zur Verkehrsmeldung.</p><p>Bitte prüfen Sie Ihre Reiseverbindungen online vor Fahrtantritt und berücksichtigen die Fahrzeiten der Busse im Ersatzverkehr.</p>",
+      "durationBegin": "26.06.2024",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/4598ad6e-a585-4f4b-b84b-9b2e39c3559a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-25/7b0cdadb-0016-48c2-beb0-be8693c2c0e0reisendenkarte_20241025-103604.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-25/7b0cdadb-0016-48c2-beb0-be8693c2c0e0reisendenkarte_20241025-103604.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.10.2024 10:36:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "weitere Informationen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/aktuelles/Verkehrsmeldung-zur-S4-zwischen-Marbach-Neckar-und-Backnang-12936594#",
+          "label": "Verkehrsmeldung",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 24",
+          "filterName": "S 24 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.10.2024 10:39",
       "expand": false,
       "topDisruption": false
     },
@@ -887,47 +911,6 @@
       ],
       "lastModified": "22.10.2024 18:27",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "a0a97913-4705-430e-98e9-0609b7705ff0",
-      "disruptionId": "ca0d2e5c-1c88-4e3b-bf11-72a30015a329",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelle zu den Linien RE3",
-      "summary": "Fahrplanänderungen / Ersatzverkehr",
-      "text": "<p>Aufgrund von Bauarbeiten zwischen <strong>München Hbf - Passau Hbf</strong> kommt es im Zeitraum von <strong>Samstag, den 26. Oktober bis Sonntag, 03. November 2024</strong> zu Fahrplanänderungen und Ersatzverkehr mit Bussen im Regionalverkehr.</p><p><strong>Alle Informationen zu dieser Baustelle finden Sie auch im beigelegten PDF-Dokument.</strong></p>",
-      "durationBegin": "26.10.2024",
-      "durationEnd": "03.11.2024",
-      "mapHref": "https://karte.bahn.de/detail/ca0d2e5c-1c88-4e3b-bf11-72a30015a329",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2024-10-23/ed8505a5-2374-4c14-b1b8-15c08af1a8f4Baustelle%2BRE3%2B23.10.%2B-%2B03.11.2024.pdf",
-          "label": "Baustelle RE3 23.10. - 03.11.2024.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "23.10.2024 08:00",
-      "expand": true,
       "topDisruption": false
     },
     {
