@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "95c1339d-b623-4268-bc21-a5be69bc9e97",
+      "disruptionId": "65dff5cb-f647-41b1-97cb-1edea162afea",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 40 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC-Züge zwischen München und Ingolstadt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.10.2024",
+      "durationEnd": "25.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/65dff5cb-f647-41b1-97cb-1edea162afea",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BW",
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.10.2024 11:03",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c6bbee2e-8b25-4ba9-8140-ad44da4a5ebf",
       "disruptionId": "166a21ae-73d1-4211-9645-26d47aa3d7ab",
       "author": "FERNVERKEHR_AG",
@@ -10,7 +47,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigungen zwischen Oberhausen und Emmerich",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Oberhausen und Emmerich kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 45 Min.",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Oberhausen und Emmerich kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 60 Min.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge (Frankfurt(M) – Köln – Amsterdam)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.10.2024",
       "durationEnd": "25.10.2024",
@@ -33,7 +70,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "25.10.2024 08:55",
+      "lastModified": "25.10.2024 11:18",
       "expand": false,
       "topDisruption": false
     },
