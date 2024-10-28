@@ -2,6 +2,49 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
+      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
+      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
+      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "04.09.2024",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://havag.com/",
+          "label": "Öffentlicher Nahverkehr in Halle (Saale)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2024 19:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "6ab71279-3b45-4336-b153-8c4f945560d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -49,48 +92,6 @@
         }
       ],
       "lastModified": "15.10.2024 15:00",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
-      "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
-      "summary": "Aufgrund von Personalengpässen im Stellwerk müssen leider vier Fahrten der S-Bahn Linie S3 von und nach Halle-Nietleben ausfallen.",
-      "text": "<p>Betroffene Linie</p><p>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</p><p>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</p><p></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p></p><p>37376, Abfahrt 23:51 Uhr</p><p></p><p>37378, Abfahrt 01:01 Uhr</p><p></p><p><strong>Ab Halle-Nietleben</strong></p><p></p><p>37307, Abfahrt 04:26 Uhr</p><p></p><p>37309, Abfahrt 05:56 Uhr</p><p></p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p></p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p></p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "04.09.2024",
-      "durationEnd": "14.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://havag.com/",
-          "label": "Öffentlicher Nahverkehr in Halle (Saale)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.09.2024 15:56",
       "expand": false,
       "topDisruption": false
     },
@@ -193,6 +194,41 @@
       "topDisruption": false
     },
     {
+      "id": "91c3a21a-8f93-40f3-96bc-3bf9448880d2",
+      "disruptionId": "1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie S 47",
+      "summary": "Betriebsbedingte Fahrplananpassungen bis 14. Dezember 2024. ",
+      "text": "<p><strong>Vom 08. Januar bis 14. Dezember 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p>Mo - So verkehrt die Linie S 47 zwischen 06:00 Uhr und 22:00 Uhr ohne Einschränkungen.</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "24.07.2023",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "S 47",
+          "filterName": "S 47 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2024 19:29",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "dfce581c-1f34-4745-bf21-6c5e2f6ed137",
       "disruptionId": "4598ad6e-a585-4f4b-b84b-9b2e39c3559a",
       "author": "S_BAHN_S",
@@ -254,40 +290,6 @@
       "topDisruption": false
     },
     {
-      "id": "91c3a21a-8f93-40f3-96bc-3bf9448880d2",
-      "disruptionId": "1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie S 47",
-      "summary": "Betriebsbedingte Fahrplananpassungen bis 14. Dezember 2024. ",
-      "text": "<p><strong>Vom 08. Januar bis 14. Dezember 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p>Mo - So verkehrt die Linie S 47 zwischen 06:00 Uhr und 22:00 Uhr ohne Einschränkungen.</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "24.07.2023",
-      "durationEnd": "14.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.09.2024 17:33",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "870c1976-ef5d-4b8c-ad6a-e27d6b237eb7",
       "author": "REGIO_MITTE",
       "cause": {
@@ -341,6 +343,54 @@
         }
       ],
       "lastModified": "27.10.2024 14:15",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "607158aa-5a29-4259-a85e-affee73880c8",
+      "disruptionId": "48e903fe-98df-448e-9dcf-d9f73f4329fa",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S4,S5: Kornwestheim-Ludwigsburg: Verspätungen,Ausfälle aufgrund Signalstörung",
+      "summary": "Signalstörung Kornwestheim",
+      "text": "<p>Aufgrund einer Signalstörung im Bereich zwischen Kornwestheim und Ludwigsburg kommt es derzeit auf den Linien S4 und S5 zu Verspätungen und Zugausfällen. Informieren Sie sich im Internet und achten Sie auf die Durchsagen und Anzeigetafeln an den jeweiligen Bahnhöfen.</p>",
+      "durationBegin": "28.10.2024",
+      "durationEnd": "28.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/48e903fe-98df-448e-9dcf-d9f73f4329fa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-28/13532912-1352-40a7-ad2d-8ea20b624b63reisendenkarte_20241028-192418.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-28/13532912-1352-40a7-ad2d-8ea20b624b63reisendenkarte_20241028-192418.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.10.2024 19:24:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2024 19:26",
       "expand": false,
       "topDisruption": false
     },
@@ -578,41 +628,6 @@
         }
       ],
       "lastModified": "31.05.2023 09:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "9e916658-570f-4c2b-bcb2-3a8b6f21cecc",
-      "disruptionId": "ed91d7b7-0f67-4666-92c2-35370fcabdf1",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "S62 : Weil der Stadt - Zuffenhausen : Ausfälle aufgrund anhaltend hohen Krankenstandes bei der S-Bahn Stuttgart",
-      "summary": "S62 entfällt am Nachmittag des 28.10 ",
-      "text": "<p>Die Fahrten der Linie S62 zwischen Weil der Stadt und S-Zuffenhausen entfallen am Nachmittag des 28.10.2024. Bitte nutzen Sie alternativ die S-Bahnen der Linie S6 und S60. Grund hierfür, ist der anhaltend hohe Krankenstand beim Fahrpersonal. Für die entstehenden Unannehmlichkeiten bitten wir Sie um Entschuldigung.</p>",
-      "durationBegin": "28.10.2024",
-      "durationEnd": "29.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/ed91d7b7-0f67-4666-92c2-35370fcabdf1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 62",
-          "filterName": "S 62 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.10.2024 17:13",
       "expand": false,
       "topDisruption": false
     },
