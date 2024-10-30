@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "79227de8-cb9e-486b-8083-3876085e8bd1",
-      "disruptionId": "443449a8-9f60-4e7f-b951-b3b7326799a4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Hamburg und Bremen",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Hamburg und Bremen derzeit gesperrt. Einzelne Züge im Fernverkehr der Deutschen Bahn müssen weiträumig umgeleitet werden. Züge, die nicht umgeleitet werden können, warten die Dauer der Streckensperrung an geeigneten Bahnhöfen ab. Einzelne Züge fallen aus.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Hamburg – Bremen – Osnabrück – Münster (Westf) – Dortmund werden umgeleitet. Die Halte Bremen Hbf, Osnabrück Hbf und Münster (Westf) Hbf entfallen. Ersatzhalte werden in Hannover Hbf und Hamm (Westf) Hbf eingerichtet. Die Züge verspäten sich um etwa 60 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen Sie die Züge des Fern- bzw. Nahverkehrs zwischen Hannover und Osnabrück / Bremen. Zwischen  Hamm (Westf) und Münster (Westf) verkehren die Züge des Nahverkehrs.</p><p>Der Einsatz wird bis in die Nachmittagsstunden andauern. Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/443449a8-9f60-4e7f-b951-b3b7326799a4",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "NW",
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.10.2024 12:55",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -971,6 +935,39 @@
         }
       ],
       "lastModified": "30.10.2024 13:43",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3cacfb54-3836-43b9-8205-26f86651b6c1",
+      "disruptionId": "bd3403c2-50d1-4e03-94d1-5cbfd0d03889",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin-Spandau und Berlin Hbf",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen  Berlin-Spandau und Berlin Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich um bis zu 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Berlin-Spandau und Berlin Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachtstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.10.2024",
+      "mapHref": "https://karte.bahn.de/detail/bd3403c2-50d1-4e03-94d1-5cbfd0d03889",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.10.2024 19:05",
       "expand": false,
       "topDisruption": false
     },
