@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0ede0b2b-c917-4c83-ac66-5b7fa28ee543",
+      "disruptionId": "280beff2-51bb-420b-9071-b00c8c7a4845",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund einer Streckenstörung in Lippstadt ist die Strecke zwischen Hamm (Westf) und Altenbeken derzeit gesperrt. Dadurch kommt es zu Haltausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hamm (Westf) und Kassel werden umgeleitet, die Halte Soest, Lippstadt, Paderborn und Altenbeken entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Züge des Regionalverkehrs.</p><p>Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/280beff2-51bb-420b-9071-b00c8c7a4845",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.11.2024 23:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -563,65 +598,6 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c2a78931-6ae1-49c9-8136-78a92d894e17",
-      "disruptionId": "f478e8d2-1a74-42e9-a90c-4c4641edd58f",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Linien: RB 40 / RE 4 / RB 45 / RB 47 / 25.10. bis 03.11. / Erhöhtes Reisendenaufkommen / Begrenzte Fahrradmitnahme",
-      "summary": "25.10. bis 03.11.",
-      "text": "<p>Von Freitag, den 25. Oktober (ab 22:40 Uhr) bis Sonntag, den 3. November (bis 23:30 Uhr) entfallen die Züge zwischen Salzburg Hbf und Freilassing ersatzlos wegen Bauarbeiten. Bitte rechnen Sie daher auf den Strecken RB 40/RE 4 Mühldorf - München Hbf, RB 45 Mühldorf - Salzburg, sowie RB 47 Mühldorf - Traunstein mit einem stark erhöhten Fahrgastaufkommen und erwägen Sie alternative Reisetermine. Achten Sie auch darauf, dass die Fahrradmitnahme nur begrenzt möglich ist. Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
-      "durationBegin": "25.10.2024",
-      "durationEnd": "03.11.2024",
-      "mapHref": "https://karte.bahn.de/detail/f478e8d2-1a74-42e9-a90c-4c4641edd58f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RB40",
-          "filterName": "Bus RB40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus RB47",
-          "filterName": "Bus RB47",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 47",
-          "filterName": "RB 47",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 49",
-          "filterName": "RB 49",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.10.2024 10:38",
-      "expand": true,
       "topDisruption": false
     },
     {
