@@ -39,6 +39,42 @@
       "topDisruption": false
     },
     {
+      "id": "25647491-c500-40b9-9040-45f920bf508f",
+      "disruptionId": "00733cd5-773b-4b36-b7e0-9d1fc8a79033",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Hannover/Braunschweig",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Wolfsburg und Stendal ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Berlin und Hannover bzw. Braunschweig verspäten sich in beiden Fahrtrichtungen um etwa 20 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die späten Nachtstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.11.2024",
+      "durationEnd": "08.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/00733cd5-773b-4b36-b7e0-9d1fc8a79033",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.11.2024 19:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -335,49 +371,6 @@
         }
       ],
       "lastModified": "25.10.2024 10:39",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "08d6fe5e-b4f4-478e-87d1-6cf3780a7b2e",
-      "disruptionId": "a526c74a-eee8-49aa-8a0f-de79998c1415",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Signalstörung im Bereich zwischen Goldberg und S-Rohr. Abweichungen auf der Linie S1",
-      "summary": "Signalstörung mit Abweichungen auf der Linie S1",
-      "text": "<p>Aufgrund einer Signalstörung im Bereich zwischen Goldberg und Stuttgart Rohr kommt es auf der Linie S1 momentan zu Abweichungen vom regulären Fahrplan. Dies kann zu Verspätungen und Zugausfällen führen. Aktuelle Informationen finden Sie auf vvs.de oder bahn.de. Zudem empfehlen wir, die Anzeigetafeln und Ansagen an den Stationen zu beachten.</p>",
-      "durationBegin": "07.11.2024",
-      "durationEnd": "07.11.2024",
-      "mapHref": "https://karte.bahn.de/detail/a526c74a-eee8-49aa-8a0f-de79998c1415",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-11-07/e052c5b4-7628-4a40-ba7e-12ce1d53e6fareisendenkarte_20241107-171316.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-11-07/e052c5b4-7628-4a40-ba7e-12ce1d53e6fareisendenkarte_20241107-171316.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.11.2024 17:13:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.11.2024 18:02",
       "expand": false,
       "topDisruption": false
     },
