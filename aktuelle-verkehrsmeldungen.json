@@ -39,6 +39,41 @@
       "topDisruption": false
     },
     {
+      "id": "0c3beae8-9203-489a-bb77-dd7aa5b381e3",
+      "disruptionId": "677fe94d-f558-48e0-8c31-dc1b49d0ec55",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streikankündigung in den Niederlanden",
+      "summary": "In den Niederlanden wurden für Mittwoch, 13.11.2024 & Freitag, 15.11.2024 Streikmaßnahmen angekündigt. Dadurch kommt es im Fernverkehr der Deutschen Bahn zu Einschränkungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Linie Berlin - Amsterdam</li><li>ICE Linie Frankfurt(M) Amsterdam</li></ul><p>Einzelzüge entfallen am 13.11.2024 zwischen Amsterdam und Hannover bzw. zwischen Hannover und Amsterdam sowie zwischen Amsterdam und Frankfurt(M).</p><p>Einzelzüge entfallen am Freitag, 15.11.2024 zwischen Amsterdam und Frankfurt(M).</p><p>Die Züge sind in den elektronischen ersichtlich.</p><p>Bitte planen Sie für Reisen von und nach Amsterdam mehr Zeit ein.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/677fe94d-f558-48e0-8c31-dc1b49d0ec55",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.11.2024 09:09",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "658f4164-3ed3-4330-89d5-c5a3a7c60779",
       "author": "REGIO_MITTE",
       "cause": {
@@ -467,6 +502,49 @@
         }
       ],
       "lastModified": "25.10.2024 10:39",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "b1bcc4cd-1e53-4f3c-b157-ebf86da8a513",
+      "disruptionId": "375cae67-0b54-4611-9dd6-8a77e8672716",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S3 Waiblingen - Backnang.",
+      "summary": "Weichenstörung im Bahnhof Winnenden behoben",
+      "text": "Die Weichenstörung im Bahnhof Winnenden ist behoben, die Linie S3 verkehrt wieder störungsfrei zwischen Waiblingen und Backnang.Bitte beachten Sie, dass es nach der Störung noch vereinzelt zu Fahrplanabweichungen bei der Linie S3 kommen kann.Wir empfehlen Ihnen, Ihre Verbindungen vorab in der elektronischen Fahrplanauskunft zu prüfen.",
+      "durationBegin": "12.11.2024",
+      "durationEnd": "12.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/375cae67-0b54-4611-9dd6-8a77e8672716",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-11-12/5d2b5c55-5a13-4146-84d8-b18b0b1ba2a7reisendenkarte_20241112-065601.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-11-12/5d2b5c55-5a13-4146-84d8-b18b0b1ba2a7reisendenkarte_20241112-065601.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.11.2024 06:56:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2024 09:27",
       "expand": false,
       "topDisruption": false
     },
