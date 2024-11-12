@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "7ebcb892-dcf9-403a-a731-534a8a5c8f7e",
+      "disruptionId": "cbc7f8a7-98ef-454b-98f4-06743eeca4e4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "Streikankündigung in den Niederlanden",
+      "summary": "In den Niederlanden wurden für den 13. und 15.11.2024 Streikmaßnahmen jeweils für den Zeitraum von 06:00 bis 09:00 Uhr angekündigt. Dadurch kommt es im internationalen Fernverkehr der Deutschen Bahn zu Einschränkungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne internationale ICE/IC-Züge zwischen Deutschland und den Niederlanden fallen im genannten Zeitraum (teilweise) aus. Die Ausfälle sind in den Auskunftsmedien eingearbeitet.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.11.2024",
+      "durationEnd": "15.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/cbc7f8a7-98ef-454b-98f4-06743eeca4e4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.11.2024 18:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c49aa08e-8631-4750-b57c-cb9db81b0ce4",
       "disruptionId": "390906d8-5248-4df9-b344-a1fb2eb074e0",
       "author": "FERNVERKEHR_AG",
@@ -35,41 +72,6 @@
         }
       ],
       "lastModified": "12.11.2024 14:50",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "0c3beae8-9203-489a-bb77-dd7aa5b381e3",
-      "disruptionId": "677fe94d-f558-48e0-8c31-dc1b49d0ec55",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streikankündigung in den Niederlanden",
-      "summary": "In den Niederlanden wurden für Mittwoch, 13.11.2024 & Freitag, 15.11.2024 Streikmaßnahmen angekündigt. Dadurch kommt es im Fernverkehr der Deutschen Bahn zu Einschränkungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Linie Berlin - Amsterdam</li><li>ICE Linie Frankfurt(M) Amsterdam</li></ul><p>Einzelzüge entfallen am 13.11.2024 zwischen Amsterdam und Hannover bzw. zwischen Hannover und Amsterdam sowie zwischen Amsterdam und Frankfurt(M).</p><p>Einzelzüge entfallen am Freitag, 15.11.2024 zwischen Amsterdam und Frankfurt(M).</p><p>Die Züge sind in den elektronischen ersichtlich.</p><p>Bitte planen Sie für Reisen von und nach Amsterdam mehr Zeit ein.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.11.2024",
-      "mapHref": "https://karte.bahn.de/detail/677fe94d-f558-48e0-8c31-dc1b49d0ec55",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "12.11.2024 09:09",
       "expand": false,
       "topDisruption": false
     },
