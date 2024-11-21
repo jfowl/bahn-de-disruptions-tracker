@@ -636,6 +636,63 @@
       "topDisruption": false
     },
     {
+      "id": "4516d8c8-2cba-43c2-99ed-50f1b0bb2035",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Neumünster und Kiel Hbf",
+      "summary": "Aufgrund eines Notarzteinsatzes auf der Strecke zwischen Neum&uuml;nster und Kiel Hbf ist die Strecke in beide Richtungen vsl. bis 21:00 Uhr gesperrt. Es sind keine Zugfahrten m&ouml;glich.<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 7/RE 70 (Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge fallen zwischen Neum&uuml;nster und Kiel Hbf aus. Reisende ab Neum&uuml;nster nutzen den RE 7 nach Rendsburg und von dort die Nordbahn nach Kiel Hbf. Reisende ab Hamburg Hbf nutzen den RE 8 / RE 80 nach&nbsp;L&uuml;beck Hbf und von dort den erixx nach Kiel Hbf.</li>\n</ul>\n\n<p>Ein Ersatzverkehr ist in Planung.</p>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 043153440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "21.11.2024",
+      "durationEnd": "21.11.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "bahn.de",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator",
+          "info": "App DB Navigator",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "Regionaler Kundendialog Schleswig-Holstein ",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "bahn.de/fahrgastrechte ",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.11.2024 17:27",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "a0bb4549-961e-4c23-ae69-1d7985b8628f",
       "disruptionId": "b1b58542-96b8-4577-8549-b188d13173aa",
       "author": "FERNVERKEHR_AG",
@@ -1075,6 +1132,39 @@
       ],
       "lastModified": "10.10.2024 15:44",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "b99dec7f-5c4f-4917-ac88-dcb85e3ddf40",
+      "disruptionId": "a12759b2-8290-4154-97c1-36b975e7ba9a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Siegen",
+      "summary": "Aufgrund eines Brückenschadens ist die Strecke zwischen Dortmund und Altena derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Umleitungen und Verspätungen von ca. 20 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Dortmund/Münster(Westf) - Siegen - Frankfurt(M)</li></ul><p>Die Behebung der Störung soll vsl. bis 28.11.2024 erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/a12759b2-8290-4154-97c1-36b975e7ba9a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.11.2024 17:05",
+      "expand": false,
       "topDisruption": false
     },
     {
