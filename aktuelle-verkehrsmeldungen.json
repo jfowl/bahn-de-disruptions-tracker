@@ -33,7 +33,42 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "21.11.2024 20:36",
+      "lastModified": "22.11.2024 03:42",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c3bd6b3f-5c9d-42f8-80e6-ee29fdcf8ea4",
+      "disruptionId": "a328bda8-95dc-41fe-ba96-12d8174a87b2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Aachen",
+      "summary": "Aufgrund eines Unfalls bei Düren ist die Strecke zwischen Köln und Aachen derzeit gesperrt. Dadurch kommt es zu Zugausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln und Aachen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 90 Minuten. Einzelne ICE-Züge zwischen Köln und Aachen fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/a328bda8-95dc-41fe-ba96-12d8174a87b2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.11.2024 03:04",
       "expand": false,
       "topDisruption": false
     },
@@ -1188,6 +1223,63 @@
         }
       ],
       "lastModified": "21.11.2024 20:28",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "30bcaa88-f3ae-43e0-a77d-7bc249183195",
+      "disruptionId": "3fb6052d-419d-40b1-b9c6-9769bf6cbc14",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Eriskirch und Langenargen",
+      "summary": "Reparatur an einem Bahnübergang nach einem BÜ-Unfall in Langenargen. Ersatzverkehr mit Bus ist für die gesperrte Strecke eingerichtet. Voraussichtliche Dauer der Sperrung bis ca. 10:00 Uhr. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 5 (Stuttgart - Ulm - Friedrichshafen)&nbsp;</li><li>IRE 3 (Ulm - Lindau / Friedrichshafen - Basel Bad Bf)&nbsp;</li><li>RB 93 (Friedrichshafen - Lindau)&nbsp;</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "22.11.2024",
+      "durationEnd": "22.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/3fb6052d-419d-40b1-b9c6-9769bf6cbc14",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-11-22/cfa81155-4193-4581-80f2-b493df2b5cd6reisendenkarte_20241122-034215.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-11-22/cfa81155-4193-4581-80f2-b493df2b5cd6reisendenkarte_20241122-034215.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.11.2024 03:42:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "IRE 3",
+          "filterName": "IRE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 93",
+          "filterName": "RB 93",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.11.2024 03:44",
       "expand": false,
       "topDisruption": false
     },
