@@ -561,79 +561,6 @@
       "topDisruption": false
     },
     {
-      "id": "1bb62996-0ea7-4373-a399-3c7a02decb96",
-      "disruptionId": "a6ad4293-71f5-4f89-877c-0ef25a20d64a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "Endmeldung Stammstrecke/Gesamtnetz: Zugfolgeverspätungen",
-      "summary": "Im Gesamtnetz kommt es in beide Richtungen nur noch vereinzelt zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Durch vorzeitige Zugwenden kommt es noch zu Teilausfällen.</p><p>Grund war die hohe Zugfolge zwischen Pasing und Ostbahnhof.</p>",
-      "durationBegin": "03.12.2024",
-      "durationEnd": "03.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/a6ad4293-71f5-4f89-877c-0ef25a20d64a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-03/684e0ff8-45cb-43f0-8c99-024085e2586freisendenkarte_20241203-170534.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-03/684e0ff8-45cb-43f0-8c99-024085e2586freisendenkarte_20241203-170534.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.12.2024 17:05:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.12.2024 20:16",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "42b3648b-8c97-4875-ac6f-8d71c6b33292",
       "disruptionId": "41076a40-7006-4ca3-8992-350da2871508",
       "author": "S_BAHN_S",
@@ -1138,6 +1065,38 @@
       ],
       "lastModified": "10.10.2024 15:44",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "68e6e197-8731-4722-9f9d-d1d73512a060",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "! Diese Meldung kopieren und die Kopie aus diesem Ordner rausziehen ! Zugausfälle bei der S-Bahn Rhein-Main",
+      "summary": "Aufgrund der kurzfristigen Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong><br />\n&nbsp;</p>\n\n<ul>\n\t<li><strong>S5:</strong>&nbsp;<em>Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)S&uuml;d</em><br />\n\t&nbsp;</li>\n\t<li><strong>S6:<em>&nbsp;</em></strong><em>Friedberg(Hess) - Gro&szlig; Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)S&uuml;d</em><br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 04.12.2024</u> zwischen 06:00 Uhr und 18:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<p>Die S-Bahnen der Linien <strong>S5 </strong>und <strong>S6 </strong>verkehren im 30-Minuten-Takt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "04.12.2024",
+      "durationEnd": "04.12.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.12.2024 20:45",
+      "expand": false,
       "topDisruption": false
     },
     {
