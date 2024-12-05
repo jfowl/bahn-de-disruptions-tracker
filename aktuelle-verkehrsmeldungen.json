@@ -630,6 +630,40 @@
       "topDisruption": false
     },
     {
+      "id": "da2cf3a8-9a21-4630-9d25-307177f91ead",
+      "disruptionId": "d680f72d-1a63-4e2a-aa00-69e582dda9ef",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: Aktuell sind Fahrplanabweichungen auf der S1 möglich. ",
+      "summary": "Bitte beachten Sie die Ansagen und Anzeigen an den Bahnsteigen und Zügen.  Grund: Techn. Störung an der Strecke. ",
+      "text": "<p>Die S1 fährt aktuell wie folgt:</p><p>Othmarschen - Poppenbüttel ca. alle 10 Minuten mit allen sechs Wagen.</p><p>Wedel - Airport/Poppenbüttel ca. alle 10  Minuten. Ab 17:25 werden die Züge aus Richtung Wedel wieder in Ohlsdorf geteilt. Die ersten drei Wagen fahren zum Airport, die hinteren nach Poppenbüttel.</p>",
+      "durationBegin": "05.12.2024",
+      "durationEnd": "05.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/d680f72d-1a63-4e2a-aa00-69e582dda9ef",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.12.2024 17:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "eac35307-4132-48d8-80b0-ee1e38d5dcb3",
       "author": "REGIO_MITTE",
       "cause": {
@@ -1044,45 +1078,6 @@
       ],
       "lastModified": "10.10.2024 15:44",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "7797c3da-7d79-4074-85a9-d17d2396cff0",
-      "disruptionId": "2df885bb-dc4a-48eb-9f9e-320956832262",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": " ",
-      "text": "<p>Auf den Linien S3 und S5 kommt es aktuell noch zu größeren Verspätungen und Abweichungen vom Fahrplan.</p><p>Der Grund dafür ist ein vorangegangener Polizeieinsatz in der Station Veddel.</p>",
-      "durationBegin": "05.12.2024",
-      "durationEnd": "05.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/2df885bb-dc4a-48eb-9f9e-320956832262",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.12.2024 16:19",
-      "expand": false,
       "topDisruption": false
     },
     {
