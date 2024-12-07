@@ -125,42 +125,6 @@
       "topDisruption": false
     },
     {
-      "id": "1ac0433d-69b4-4dfe-9530-f8a5028f8014",
-      "disruptionId": "bbc05c93-bf49-4248-9cc0-a88845ce3705",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Wiesbaden und Mainz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Frankfurt(M) &gt; Mainz &gt; Mannheim &gt; Stuttgart &gt; München verspäten sich um etwa 10 Minuten.</li><li>ICE Züge zwischen Frankfurt(M) &gt; Mainz &gt; Mannheim &gt; Basel werden umgeleitet. Der<strong> Halt in Mainz Hbf entfällt</strong>.</li><li>ICE Züge zwischen <strong>Mannheim</strong> &gt; Mainz &gt; <strong>Frankfurt(M)</strong> sind <strong>nicht betroffen</strong>.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Nutzen Sie zwischen Frankfurt(M) Hbf und Mainz die Nahverkehrszüge der Linien RE 3, RB 31 und S 8.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.12.2024",
-      "durationEnd": "07.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/bbc05c93-bf49-4248-9cc0-a88845ce3705",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.12.2024 04:16",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
@@ -591,6 +555,40 @@
         }
       ],
       "lastModified": "13.11.2024 15:19",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "0ad02839-f2e0-4de8-9105-0209a2fd4bc9",
+      "disruptionId": "e5083985-628f-4c74-bc5d-dfc7572c7e17",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S2: Aktuell fahren keine S-Bahnen zwischen Berliner Tor und Billwerder-Moorfleet.",
+      "summary": "Der Zugverkehr wurde zwischen Berliner Tor und Billwerder-Moorfleet eingestellt. Der Grund ist ein Polizeieinsatz. ",
+      "text": "<p>Die S2 fährt aktuell in folgenden Teilbetrieben:</p><p>Altona &lt;&gt; Berliner Tor</p><p>Billwerder-Moorfleet &lt;&gt; Bergedorf / Aumühle</p><p>Zwischen Berliner Tor und Billwerder-Moorfleet wurde ein Ersatzverkehr eingerichtet.</p>",
+      "durationBegin": "07.12.2024",
+      "durationEnd": "07.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/e5083985-628f-4c74-bc5d-dfc7572c7e17",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.12.2024 05:11",
       "expand": false,
       "topDisruption": false
     },
