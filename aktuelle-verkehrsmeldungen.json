@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "11031095-a70b-454f-8399-ddc57ddd88f9",
+      "disruptionId": "5651574a-3a58-45a5-8835-6c30fa4e235e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Halle und Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich zwischen 10 - 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge von Berlin - Halle - Erfurt - München</li><li>Züge von Berlin - Halle - Erfurt - Frankfurt - Mannheim</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/5651574a-3a58-45a5-8835-6c30fa4e235e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.12.2024 16:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "b5633149-9284-4918-b14d-5e5c7af2bde6",
       "author": "REGIO_MITTE",
       "cause": {
@@ -410,10 +446,18 @@
       "durationBegin": "02.12.2024",
       "durationEnd": "31.03.2025",
       "mapHref": "https://karte.bahn.de/detail/3ef93a35-0239-4c7e-b95e-4489cc1de522",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-12-11/4f39b150-d789-4d40-b8fa-48cd07650ed3reisendenkarte_20241211-154301.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-12-11/4f39b150-d789-4d40-b8fa-48cd07650ed3reisendenkarte_20241211-154301.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.12.2024 15:43:01",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-12-09/6b83e57e-a694-4cb5-9d42-a023f45a457c2024_Liniennetzplakat%2BEilenburg-Halle%2B%2528Saale%2529%2BHbf%2BS%2B9.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-12-11/8f269804-e32c-428c-bacd-0d348e1b858c2024_Liniennetzplakat%2BEilenburg-Halle%2B%2528Saale%2529%2BHbf%2BS%2B9.pdf",
           "label": "Liniennetzplakat S 9 Eilenburg - Halle (Saale) Hbf ",
           "info": "",
           "openInNewTab": true
@@ -421,7 +465,7 @@
       ],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "ST",
@@ -429,12 +473,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 9",
+          "filterName": "S 9 Mitteldeutschland",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "09.12.2024 12:45",
+      "lastModified": "11.12.2024 16:02",
       "expand": false,
       "topDisruption": false
     },
@@ -980,16 +1024,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 2 Dachau Bahnhof ↔ Schwabhausen: Reparatur an einem Signal",
-      "summary": "Zwischen Dachau Bahnhof und Schwabhausen kommt es zu Verspätungen bis zu 30 Minuten.",
-      "text": "<p><strong>Zwischen Dachau Bahnhof und Altomünster kommt es auch zu vereinzelten Fahrtausfällen, sowie zu folgenden Ausfällen des 10-Minuten-Takts:</strong></p><ul><li>S2 München Ost Abfahrt 15:09 Uhr - Dachau Bahnhof Ankunft 15:41 Uhr</li><li>S2 München Ost Abfahrt 15:49 Uhr - Dachau Bahnhof Ankunft 16:21 Uhr</li><li>S2 München Ost Abfahrt 17:09 Uhr - Dachau Bahnhof Ankunft 17:41 Uhr</li></ul><p></p><ul><li>S2 Dachau Bahnhof Abfahrt 16:19 Uhr - München Ost Ankunft 16:50 Uhr</li><li>S2 Dachau Bahnhof Abfahrt 16:39 Uhr - München Ost Ankunft 17:10 Uhr</li><li>S2 Dachau Bahnhof Abfahrt 18:19 Uhr - München Ost Ankunft 18:50 Uhr</li></ul><p>Grund hierfür ist die Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung S 2 Dachau Bahnhof ↔ Schwabhausen: Reparatur an einem Signal",
+      "summary": "Zwischen Dachau Bahnhof und Schwabhausen kommt es nur noch vereinzelt zu Verspätungen bis zu 5 Minuten.",
+      "text": "<p><strong> Folgenden S-Bahnen des 10-Minuten-Takts entfallen.</strong></p><ul><li>S2 München Ost Abfahrt 15:09 Uhr - Dachau Bahnhof Ankunft 15:41 Uhr</li><li>S2 München Ost Abfahrt 15:49 Uhr - Dachau Bahnhof Ankunft 16:21 Uhr</li><li>S2 München Ost Abfahrt 17:09 Uhr - Dachau Bahnhof Ankunft 17:41 Uhr</li></ul><p></p><ul><li>S2 Dachau Bahnhof Abfahrt 16:19 Uhr - München Ost Ankunft 16:50 Uhr</li><li>S2 Dachau Bahnhof Abfahrt 16:39 Uhr - München Ost Ankunft 17:10 Uhr</li><li>S2 Dachau Bahnhof Abfahrt 18:19 Uhr - München Ost Ankunft 18:50 Uhr</li></ul><p>Grund hierfür war die Reparatur an einem Signal.</p>",
       "durationBegin": "11.12.2024",
       "durationEnd": "11.12.2024",
       "mapHref": "https://karte.bahn.de/detail/e9bf6ba1-6153-4508-a0f4-982f8efbc0e0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-11/059edfe2-8bee-4c9f-8c69-669bae7940f7reisendenkarte_20241211-142012.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-11/059edfe2-8bee-4c9f-8c69-669bae7940f7reisendenkarte_20241211-142012.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-11/4f8d314d-33c8-44f8-a62f-2d82ffdbcc45reisendenkarte_20241211-142012.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2024-12-11/4f8d314d-33c8-44f8-a62f-2d82ffdbcc45reisendenkarte_20241211-142012.png",
           "info": "",
           "alt": "Reisendenkarte 11.12.2024 14:20:12",
           "openInNewTab": true
@@ -1010,7 +1054,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.12.2024 15:11",
+      "lastModified": "11.12.2024 16:24",
       "expand": true,
       "topDisruption": false
     },
