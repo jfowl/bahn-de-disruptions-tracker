@@ -755,8 +755,8 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Verzögerungen und Abweichungen auf allen Linien. Grund: Polizeieinsatz am Hauptbahnhof",
-      "summary": "Aktuell kommt es auf allen Linien zu Verzögerungen und Abweichungen vom Fahrplan. Der Grund dafür ist ein Polizeieinsatz am Hauptbahnhof.",
+      "headline": "Polizeieinsatz am Hauptbahnhof beendet.",
+      "summary": "Es kommt als Folge noch eine gewisse Zeit zu Verzögerungen und Abweichungen vom Fahrplan.",
       "text": "<p>Informationen zu den einzelnen Linien werden ermittelt.</p>",
       "durationBegin": "13.12.2024",
       "durationEnd": "13.12.2024",
@@ -792,7 +792,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.12.2024 15:41",
+      "lastModified": "13.12.2024 16:18",
       "expand": false,
       "topDisruption": false
     },
@@ -1088,6 +1088,46 @@
       "topDisruption": false
     },
     {
+      "id": "4a86d4af-e70f-47a3-b408-7b40d906de4b",
+      "disruptionId": "05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamm(Westf) Hbf und Hagen Hbf",
+      "summary": "Aufgrund von Bauarbeiten zwischen Hamm(Westf) Hbf und Hagen Hbf kommt es zwischen dem 17.12.2024 und dem 01.02.2025 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu einzelnen Zugausfällen und Umleitungen mit Verspätungen von bis zu 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge auf der Verbindung Köln - Hagen - Hamm(Westf) - Hannover - Berlin</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/detail/05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
+          "label": "Störungskarte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.12.2024 15:52",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "f67dde8b-58f0-4c90-bca2-47f89a49c3e8",
       "disruptionId": "4a383b1a-0e1f-484c-81b1-59817ef2f501",
       "author": "S_BAHN_HH",
@@ -1123,46 +1163,6 @@
         }
       ],
       "lastModified": "13.12.2024 14:25",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "4a86d4af-e70f-47a3-b408-7b40d906de4b",
-      "disruptionId": "05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamm(Westf) Hbf und Hagen Hbf",
-      "summary": "Aufgrund von Bauarbeiten zwischen Hamm(Westf) Hbf und Hagen Hbf kommt es zwischen dem 17.12.2024 und dem 01.02.2025 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen, Haltausfällen und zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge zwischen Köln/Düsseldorf - Hamm(Westf) - Hannover - Berlin: diese Züge werden umgeleitet, dadurch entfallen die Halte Solingen, Wuppertal und Hagen</li><li>ICE-Züge zwischen Bonn - Köln - Hamm(Westf) - Hannover - Berlin: diese Züge werden zwischen Hamm(Westf) und Hagen umgeleitet; hier ist eine Verspätung von etwa 30 Minuten zu rechnen</li><li>ICE-Sprinterzüge zwischen Bonn - Köln - Berlin: diese Züge fallen im Zeitraum 17.12. - 19.12.2024 aus</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
-          "label": "Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.12.2024 11:19",
       "expand": false,
       "topDisruption": false
     },
