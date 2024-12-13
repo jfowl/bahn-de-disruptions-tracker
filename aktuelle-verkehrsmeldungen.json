@@ -712,9 +712,9 @@
         "category": "police_activity",
         "label": "Behördliche Maßnahme"
       },
-      "headline": "S2/S5: Aktuell fahren keine Züge über Dammtor. Grund: Polizeieinsatz",
-      "summary": "Aktuell fahren alle Züge über Jungfernstieg. Bitte U-Bahnen und Busse nutzen.",
-      "text": "<p>Die Station Dammtor erreichen Sie mit allen S-Bahnlinien bis zur Station Jungfernstieg und ab dort mit der U1 bis Stephansplatz.</p><p>Die Station Sternschanze erreichen Sie mit allen S-Bahnlinien bis zur Station Landungsbrücken und ab dort mit der U3.</p><p>Die Station Holstenstraße erreichen Sie mit allen S-Bahnlinien bis Altona, ab dort fahren die Buslinien 20 und 25 bis Holstenstraße.</p><p>Achten Sie auch auf Ansagen und Anzeigen an den Bahnsteigen und Zügen.</p>",
+      "headline": "S2/S5: Polizeieinsatz beendet, Züge fahren wieder über Dammtor. ",
+      "summary": "Der Polizeieinsatz wurde beendet, es ist kein Umstieg auf die U-Bahn und Busse mehr notwendig.",
+      "text": "<p></p>",
       "durationBegin": "13.12.2024",
       "durationEnd": "13.12.2024",
       "mapHref": "https://karte.bahn.de/detail/42fd861e-8df9-48ab-a312-76e1dc26b07a",
@@ -734,12 +734,12 @@
           "property": "SBAHN"
         },
         {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.12.2024 11:25",
+      "lastModified": "13.12.2024 11:42",
       "expand": false,
       "topDisruption": false
     },
@@ -789,40 +789,6 @@
         }
       ],
       "lastModified": "29.11.2024 17:15",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "8e6f7bbb-8c15-4d42-bdf3-708623089717",
-      "disruptionId": "21cff77c-3354-4fae-aaa7-442e21e84c98",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5: Aktuell sind Fahrplanabweichungen auf der S5 möglich. Grund: Technische Störung an der Strecke. ",
-      "summary": "Aktuell fahren die S-Bahnen zwischen Elbgaustraße <> Buxtehude / Stade regulär. Bitte beachten Sie weiterhin die Ansagen und Anzeigen an den Zügen und Bahnsteigen. ",
-      "text": "<p></p>",
-      "durationBegin": "13.12.2024",
-      "durationEnd": "13.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/21cff77c-3354-4fae-aaa7-442e21e84c98",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.12.2024 11:04",
       "expand": false,
       "topDisruption": false
     },
