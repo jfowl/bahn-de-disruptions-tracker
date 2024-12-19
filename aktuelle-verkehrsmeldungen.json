@@ -115,6 +115,40 @@
       "topDisruption": false
     },
     {
+      "id": "9483b1c6-a07e-477b-96ae-da752435e542",
+      "disruptionId": "34cc22d2-3aae-4766-b46a-a4d22e6224ce",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(Main) und Mannheim ",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung auf der Riedbahn zwischen Frankfurt(Main) und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV-Züge zwischen Frankfurt(Main) und Mannheim verspäten sich um zusätzlich etwa 30 Minuten.</li></ul><p><strong>IC/ICE-Züge zwischen Frankfurt(Main) und Mannheim / Heidelberg mit planmäßigem Halt in Darmstadt Hbf sind von dieser Störung nicht betroffen.</strong></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/34cc22d2-3aae-4766-b46a-a4d22e6224ce",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.12.2024 12:07",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -382,40 +416,6 @@
         }
       ],
       "lastModified": "18.12.2024 19:20",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "5d478561-3ba6-4491-ad22-455ee63ab402",
-      "disruptionId": "fb83dc3e-b4f7-4c83-8076-d6908d98b9f7",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S2: Behoben: Aktuell keine S-Bahnen zwischen Berliner Tor und Billwerder-Moorfleet.",
-      "summary": "Die S-Bahnen fahren wieder regulär, es sind noch einzelne Verspätungen möglich. Grund war ein Polizeieinsatz.",
-      "text": "<p></p>",
-      "durationBegin": "19.12.2024",
-      "durationEnd": "19.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/fb83dc3e-b4f7-4c83-8076-d6908d98b9f7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.12.2024 11:46",
       "expand": false,
       "topDisruption": false
     },
