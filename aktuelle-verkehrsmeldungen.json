@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "20689cb2-35d8-4e29-b37d-ab33244221b2",
+      "disruptionId": "5f1cd069-c816-4c7d-94ea-1345f8d000cc",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Wolfsburg/Hannover",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Berlin und Wolfsburg bzw. Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge zwischen <strong>Berlin</strong> und <strong>Wolfsburg</strong> (bzw. <strong>Hannover</strong>) verspäten sich um <strong>zusätzlich</strong> etwa <strong>15 Minuten</strong>.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.12.2024",
+      "durationEnd": "21.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/5f1cd069-c816-4c7d-94ea-1345f8d000cc",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.12.2024 17:57",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "b5633149-9284-4918-b14d-5e5c7af2bde6",
       "author": "REGIO_MITTE",
       "cause": {
@@ -90,6 +127,7 @@
       "summary": "Aufgrund eines Schadens an einer Straßenbrücke an der Strecke zwischen Berlin und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE/EC/RJ/NJ-Züge zwischen Berlin und Dresden <strong>verspäten</strong> sich um <strong>zusätzlich</strong> etwa <strong>15 Minuten</strong>.</li></ul><p>Die Behebung der Störung soll vsl. bis 23.12.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "19.12.2024",
+      "durationEnd": "23.12.2024",
       "mapHref": "https://karte.bahn.de/detail/dbaa01f6-ec06-497e-b4ba-d30f0a4a701e",
       "images": [],
       "downloads": [],
@@ -109,110 +147,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.12.2024 20:20",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "20689cb2-35d8-4e29-b37d-ab33244221b2",
-      "disruptionId": "5f1cd069-c816-4c7d-94ea-1345f8d000cc",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Wolfsburg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin und Stendal kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 15 Minuten und einzelnen Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE und IC-Züge auf dem Abschnitt zwischen Berlin - Stendal - Wolfsburg verspäten sich um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "18.12.2024",
-      "durationEnd": "21.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/5f1cd069-c816-4c7d-94ea-1345f8d000cc",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "18.12.2024 22:35",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c90c6130-d54f-4167-8acd-36a6ab86b2db",
-      "disruptionId": "77974454-a9e7-4d7c-9f85-6fd78c566e76",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen in Oldenburg(Oldb)",
-      "summary": "Aufgrund von einer Entgleisung (Betriebsfahrt) ist die Strecke zwischen Oldenburg(Oldb) und Bremen derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Verspätungen vom bis 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Norddeich Mole - Bremen</li><li>Züge von und nach Emden und Norddeich/Mole verkehren auf Regelweg.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/77974454-a9e7-4d7c-9f85-6fd78c566e76",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.12.2024 14:38",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "612ca3f8-3bbe-4101-bb62-f6ac17a7c461",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Sonstiges"
-      },
-      "headline": "Teilausfälle auf den Linien RE54/RE55",
-      "summary": "Aufgrund der kurzfristigen Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen im Regionalverkehr der Deutschen Bahn in Hessen und Bayern.<br />\n<br />\n&nbsp;",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE54:</strong>&nbsp;<em>Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - W&uuml;rzburg (- Bamberg)</em></li>\n\t<li><strong>RE55</strong>:&nbsp;<em>Frankfurt(Main)Hbf - Offenbach Hbf - Hanau Hbf - Aschaffenburg - W&uuml;rzburg (- Bamberg)</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am&nbsp;21.12.2024</u> zwischen 13:00 Uhr und 18:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>RE54:</strong><br />\n\tDie Z&uuml;ge werden zwischen Aschaffenburg Hbf und Hanau Hbf ohne Halt umgeleitet.<br />\n\t&nbsp;</li>\n\t<li><strong>RE55:</strong><br />\n\tDie Z&uuml;ge werden zwischen Aschaffenburg Hbf und Hanau Hbf ohne Halt umgeleitet.<br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong>Ersatzverkehr:</strong></p>\n\n<p><u>Wir haben f&uuml;r Sie folgende Ersatzverkehre mit insgesamt 4 Bussen der Firmen Aydin Reisen und Touring Tours mit allen Zwischenhalten eingerichtet:</u></p>\n\n<ul>\n\t<li>Mit jeweils zwei Bussen&nbsp;zwischen Aschaffenburg Hbf - Hanau Hbf. (Aydin Reisen)</li>\n\t<li>Mit jeweils zwei Bussen&nbsp;zwischen Aschaffenburg Hbf - Hanau Hbf. (Touring Tours)</li>\n</ul>\n\n<p><em>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</em><br />\n&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
-      "durationBegin": "21.12.2024",
-      "durationEnd": "21.12.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "20.12.2024 19:20",
+      "lastModified": "21.12.2024 18:11",
       "expand": false,
       "topDisruption": false
     },
@@ -439,19 +374,19 @@
       "topDisruption": false
     },
     {
-      "id": "075722a6-cd44-4165-b4d5-1c8556cceeeb",
-      "disruptionId": "b382a0fd-a73a-45ee-bd3c-d981ceb81ef8",
+      "id": "c90c6130-d54f-4167-8acd-36a6ab86b2db",
+      "disruptionId": "77974454-a9e7-4d7c-9f85-6fd78c566e76",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Beeinträchtigung in Großkrotzenburg",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Großkrotzenburg kommt es am 21.12.2024 zwischen 13:00 und 18:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn zwischen Frankfurt (Main) und Aschaffenburg.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Frankfurt und Würzburg werden&nbsp;umgeleitet und verspäten sich ca. 20 Minuten. Der Halt Hanau Hbf entfällt, Ersatzhalt ist Aschaffenburg.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen in Oldenburg(Oldb)",
+      "summary": "Aufgrund einer Reparatur im Bahnhof Oldenburg(Oldb)Hbf kommt es derzeit zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge mit Halt, Zugbeginn oder Zugende in <strong>Oldenburg(Old)Hbf verspäten</strong> sich um <strong>zusätzlich</strong> etwa <strong>10 Minuten</strong>.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "21.12.2024",
-      "durationEnd": "21.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/b382a0fd-a73a-45ee-bd3c-d981ceb81ef8",
+      "durationEnd": "23.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/77974454-a9e7-4d7c-9f85-6fd78c566e76",
       "images": [],
       "downloads": [],
       "links": [],
@@ -459,8 +394,8 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BY",
-        "HE"
+        "HB",
+        "NI"
       ],
       "lines": [
         {
@@ -469,7 +404,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.12.2024 16:56",
+      "lastModified": "21.12.2024 18:09",
       "expand": false,
       "topDisruption": false
     },
@@ -583,44 +518,6 @@
         }
       ],
       "lastModified": "18.12.2024 19:20",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "2afbe2ea-1175-4daa-a6c9-af7a7820282d",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Sonstiges"
-      },
-      "headline": "Teilausfälle auf der Linie RB34",
-      "summary": "Aufgrund der kurzfristigen Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen im Regionalverkehr der Deutschen Bahn in Hessen.<br />\n&nbsp;",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE34:</strong>&nbsp;<em>(Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 21.12.2024</u> zwischen 06:00 Uhr und 18:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>RB 34:</strong><br />\n\tDie Z&uuml;ge aus Richtung Glauburg-Stockheim enden vorzeitig in Bad-Vilbel und wenden dort.</li>\n</ul>\n\n<p><strong>Alternativen:</strong></p>\n\n<p>&rArr; <strong>S6&nbsp;</strong>zwischen Bad Vilbel - Frankfurt(Main)West&nbsp; - Frankfurt(Main)Hbf</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
-      "durationBegin": "21.12.2024",
-      "durationEnd": "21.12.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S-Bahn",
-          "filterName": "",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.12.2024 19:23",
       "expand": false,
       "topDisruption": false
     },
@@ -900,44 +797,6 @@
       "topDisruption": false
     },
     {
-      "id": "c05220cd-3b1b-4846-ba8a-f68e1cce7ac0",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teil- und Zugausfälle im Raum Frankfurt(Main)Hbf",
-      "summary": "Aufgrund der kurzfristigen Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>S1:&nbsp;</strong><em>Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - R&ouml;dermark-Ober Roden</em><br />\n\t&nbsp;</li>\n\t<li><strong>RE20:&nbsp;</strong><em>Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</em><br />\n\t&nbsp;</li>\n\t<li><strong>RB22:&nbsp;</strong><em>Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</em><br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 21.12.2024</u> zwischen 08:00 Uhr und 18:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S1</strong><br />\n\tDie Z&uuml;ge verkehren im 30-Minuten-Takt.<br />\n\t&nbsp;</li>\n\t<li><strong>RE20:</strong><br />\n\tDie Z&uuml;ge fallen zwischen Hofheim(Taunus) und Frankfurt(Main)Hbf aus.<br />\n\t&nbsp;</li>\n\t<li><strong>RB22:</strong><br />\n\tDie Z&uuml;ge fallen zwischen Hofheim(Taunus) und Frankfurt(Main)Hbf aus.<br />\n\t<br />\n\t<u><strong>Zur Beachtung:</strong></u><br />\n\tBeachten Sie, dass die Zugfahrten Abfahrt 12:19 Uhr ab Limburg(Lahn), Abfahrt 13:19 Uhr ab&nbsp;Limburg(Lahn), Abfahrt 16:19 Uhr ab Limburg(Lahn), Abfahrt 14:29 Uhr ab Frankfurt(Main)Hbf, Abfahrt 15:29 Uhr ab Frankfurt(Main)Hbf,&nbsp;&nbsp;Abfahrt 18:29 Uhr ab Frankfurt(Main)Hbf&nbsp;aufgrund des Heimspiels der Eintracht<strong> regul&auml;r verkehren</strong> k&ouml;nnen.</li>\n</ul>\n\n<p><strong>Empfehlung:</strong></p>\n\n<p>&rArr; F&uuml;r <strong>RE20/RB22:</strong><br />\nNutzen Sie die <strong>S2 </strong>zwischen&nbsp;Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt-H&ouml;chst - Frankfurt(Main)Hbf.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
-      "durationBegin": "20.12.2024",
-      "durationEnd": "21.12.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S-Bahn",
-          "filterName": "",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.12.2024 19:38",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "4a86d4af-e70f-47a3-b408-7b40d906de4b",
       "disruptionId": "05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
       "author": "FERNVERKEHR_AG",
@@ -945,10 +804,10 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigungen zwischen Hamm(Westf) Hbf und Hagen Hbf",
-      "summary": "Aufgrund von Bauarbeiten zwischen Hamm(Westf) Hbf und Hagen Hbf kommt es zwischen dem 17.12.2024 und dem 12.01.2025 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu einzelnen Zugausfällen und Umleitungen mit Verspätungen von bis zu 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge auf der Verbindung Bonn - Köln - Hagen - Hamm(Westf) - Hannover - Berlin</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2024",
+      "headline": "Beeinträchtigungen zwischen Hamm(Westf) und Hagen ",
+      "summary": "Aufgrund von Bauarbeiten zwischen Hamm(Westf) und Hagen kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge zwischen <strong>Hamm(Westf)</strong> und <strong>Hagen</strong> werden <strong>umgeleitet</strong> und <strong>verspäten</strong> sich um <strong>zusätzlich</strong> bis zu <strong>30 Minuten</strong>. Vereinzelt kommt es zusätzlich zu Ausfällen.</li></ul><p>DIe Bauarbeiten sind vsl. am 12.01.2025 abgeschlossen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.12.2024",
       "durationEnd": "12.01.2025",
       "mapHref": "https://karte.bahn.de/detail/05dd60c3-4c88-4c7d-b2e3-1c4e2462fe1c",
       "images": [],
@@ -974,7 +833,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "18.12.2024 18:27",
+      "lastModified": "21.12.2024 18:03",
       "expand": false,
       "topDisruption": false
     },
