@@ -158,7 +158,7 @@
         "label": "Streckensperrung"
       },
       "headline": "Beeinträchtigungen in Oldenburg(Oldb)",
-      "summary": "Aufgrund von einer Entgleisung (Betriebsfahrt) ist die Strecke zwischen Oldenburg(Oldb) und Bremen derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Verspätungen.",
+      "summary": "Aufgrund von einer Entgleisung (Betriebsfahrt) ist die Strecke zwischen Oldenburg(Oldb) und Bremen derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Verspätungen vom bis 10 Minuten.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Norddeich Mole - Bremen</li><li>Züge von und nach Emden und Norddeich/Mole verkehren auf Regelweg.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "21.12.2024",
       "mapHref": "https://karte.bahn.de/detail/77974454-a9e7-4d7c-9f85-6fd78c566e76",
@@ -179,7 +179,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "21.12.2024 14:33",
+      "lastModified": "21.12.2024 14:38",
       "expand": false,
       "topDisruption": false
     },
@@ -470,6 +470,70 @@
         }
       ],
       "lastModified": "20.12.2024 16:56",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a06bb56c-bc3d-486d-93a4-fdeae2a3c719",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Eingleisiger Betrieb auf der Strecke zwischen Bremen Hbf und Oldenburg(Oldb) Hbf am 21. Dezember 2024",
+      "summary": "Aufgrund einer Streckenst&ouml;rung zwischen Bremen Hbf und Oldenburg(Oldb) Hbf kann die Strecke derzeit nur eingleisig befahren werden. Es kommt zu Ausf&auml;llen und Versp&auml;tungen.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RE 1&nbsp;(Norddeich Mole&nbsp;&ndash; (Bremen Hbf) &ndash; Hannover Hbf):</strong>&nbsp;Erste durchfahrende Z&uuml;ge sind RE 4418 ab Bremen Hbf um 14:53 Uhr Richtung Norddeich-Mole und RE 4423 ab Oldenburg(Oldb) Hbf um 14:34 Uhr.</li>\n</ul>\n\n<p>Ersatzverkehr mit Bussen bleibt vorerst bestehen zwischen Bremen Hbf und Oldenburg(Oldb) Hbf.</p>\n\n<p>Es verkehrt je ein Bus im Pendel der Firma Omnibusbetrieb Torsten Peters, Hinrichs Uffen und Seidel &amp; Kuhnt.</p>\n\n<p>Es kommt hier zu einer Reisezeitverl&auml;ngerung von circa 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf Twitter.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "21.12.2024",
+      "durationEnd": "21.12.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://twitter.com/DBRegio_NDS",
+          "label": "Twitter",
+          "info": "https://twitter.com/DBRegio_NDS",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "DB Reiseauskunft",
+          "info": "https://www.bahn.de/",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "https://www.bahn.de/service/mobile/db-navigator",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "Lageplan des Ersatzverkehrs",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.12.2024 14:46",
       "expand": false,
       "topDisruption": false
     },
