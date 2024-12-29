@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "e4d9acfd-c6ef-4a46-9c14-d951c0999933",
+      "disruptionId": "c88ea56b-5567-4ae5-80af-ee8ba80b65d0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Braunschweig und Hannover / Hildesheim",
+      "summary": "Aufgrund einer Reparatur an einem Signal in Groß Gleidingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Haltausfällen und Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC / ICE-Züge zwischen Hannover und Braunschweig.<ul><li>Ausfall des Verkehrshalts Braunschweig Hbf</li></ul></li><li>IC / ICE-Züge zwischen Hildesheim und Braunschweig<ul><li>Ausfall der Verkehrshalte Braunschweig Hbf und Hildesheim Hbf, Ersatzhalte Wolfsburg Hbf und Hannover Messe/Laatzen</li><li>Verspätung von 10 Min</li></ul></li><li>IC / EC / ICE-Züge Magdeburg – Hannover<ul><li>Teilausfall zwischen Hannover und Dresden</li></ul></li><li>IC-Züge Norddeich Mole - Leipzig - Dresden/Cottbus <ul><li>Umleitung über Stendal</li><li>Verspätung ca. 45 Minuten</li><li><strong>Haltausfall Peine, Braunschweig, Helmstedt, Ersatzhalt Wolfsburg</strong></li></ul></li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/c88ea56b-5567-4ae5-80af-ee8ba80b65d0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.12.2024 10:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
