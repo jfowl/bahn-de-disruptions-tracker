@@ -52,64 +52,6 @@
       "topDisruption": false
     },
     {
-      "id": "78c67a0d-8edf-4988-b653-eadcc4b96e04",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Witterungsbedingte Beeinträchtigungen in Niedersachsen",
-      "summary": "Die Streckenst&ouml;rungen in Niedersachsen sind aufgehoben.&nbsp;",
-      "text": "<p>Der Ersatzverkehr mit Bussen wurde eingestellt.&nbsp;</p>\n\n<p>Es kann noch vereinzelt zu Versp&auml;tungen und Teilausf&auml;llen kommen.&nbsp;&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "09.01.2025",
-      "durationEnd": "10.01.2025",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "bahn.de",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://reional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt ",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "bahn.de/fahrgastrechte ",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS  ",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.01.2025 14:07",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5cc267e7-f7bd-40b3-9d23-14958323d471",
       "author": "REGIO_MITTE",
       "cause": {
@@ -486,6 +428,40 @@
       "topDisruption": false
     },
     {
+      "id": "63165927-5a90-49d4-ba88-c3cbaf2ed600",
+      "disruptionId": "82736a90-7ca5-45b7-a51b-80c483f84810",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Hamm",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Dortmund und Hamm kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von 15 Min.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC/ICE-Züge zwischen Dortmund und Hamm</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis zum 12.01.2025 um 00:00 Uhr an. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.01.2025",
+      "durationEnd": "12.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/82736a90-7ca5-45b7-a51b-80c483f84810",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.01.2025 16:21",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
       "disruptionId": "f65c800f-0d56-41ce-aec9-b9ba0a653a5c",
       "author": "REGIO_BY",
@@ -830,72 +806,6 @@
         }
       ],
       "lastModified": "10.01.2025 13:52",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "5a58d76c-8068-4401-93b5-78fc55b34949",
-      "disruptionId": "8da06f02-d32d-49e9-a281-441b7fc42ac0",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Stuttgart ⇄ Stuttgart-Vaihingen:                                                              \nFahrplanänderungen und Umleitungen",
-      "summary": "📅 In den Nächten Dienstag, 28.01.2025, 21:00 Uhr bis Donnerstag, 30.01.2025, 05:00 Uhr",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li></ul><p><strong>Zugausfälle: </strong>Stuttgart ⇄ Stuttgart-Vaihingen</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅</p><p><strong>Grund der Bauarbeiten: </strong>Bündelung von Instandhaltungsarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p>",
-      "durationBegin": "28.01.2025",
-      "durationEnd": "30.01.2025",
-      "mapHref": "https://karte.bahn.de/detail/8da06f02-d32d-49e9-a281-441b7fc42ac0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-01-09/7e3e0aad-ec14-4b31-afa1-f48996e2c6dfreisendenkarte_20250109-125425.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-01-09/7e3e0aad-ec14-4b31-afa1-f48996e2c6dfreisendenkarte_20250109-125425.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.01.2025 12:54:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/service/ran_kontakt",
-          "label": "Noch Fragen? Unser regionaler Kundendialog hilft gerne weiter.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 14a",
-          "filterName": "RB 14a",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14a",
-          "filterName": "RE 14a",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.01.2025 13:04",
       "expand": false,
       "topDisruption": false
     },
