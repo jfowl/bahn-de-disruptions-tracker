@@ -2,67 +2,38 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f3bd90b1-5185-45a7-8890-8f49a8e59d3c",
-      "author": "REGIO_NI_HB",
+      "id": "98080ceb-a509-4b6c-9ae1-1ecff1e757aa",
+      "disruptionId": "67b14530-42e2-47e1-a810-296cd8c3b78b",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Unwetterwarnung: keine Auswirkungen auf den Regionalverkehr in Niedersachsen und Bremen",
-      "summary": "Die Wetterlage in Niedersachsen und Bremen hat sich stabilisiert. Derzeit sind keine witterungsbedingten Einschr&auml;nkungen zu erwarten.",
-      "text": "<p>Wir bitten Sie weiterhin um Vorsicht beim Ein- und Ausstieg.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "13.01.2025",
-      "durationEnd": "14.01.2025",
+      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Mainz und Koblenz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden verspäten sich dadurch um ca. 15 - 20 Min. Der Halt Bingen(Rh) Hbf kann entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC Züge zwischen Mainz und Koblenz</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis 18 Uhr am 14.01.2025 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/67b14530-42e2-47e1-a810-296cd8c3b78b",
       "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "bahn.de",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "App DB Navigator",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS ",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "bahn.de/fahrgastrechte ",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HB",
-        "NI"
+        "NW",
+        "HE",
+        "RP"
       ],
       "lines": [
         {
-          "name": "RE/RB",
+          "name": "ICE/IC",
           "filterName": "",
-          "property": "REGIONAL"
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "14.01.2025 10:38",
-      "expand": true,
+      "lastModified": "14.01.2025 12:03",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -383,69 +354,6 @@
         }
       ],
       "lastModified": "13.01.2025 13:45",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "ee22ddb6-5207-4b72-bea9-31739fa607c9",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Unwetterwarnung: keine Auswirkungen auf den Regionalverkehr in Schleswig-Holstein",
-      "summary": "Die Wetterlage in Schleswig-Holstein hat sich stabilisiert. Derzeit sind keine witterungsbedingten Einschr&auml;nkungen zu erwarten.",
-      "text": "<p>Wir bitten Sie weiterhin um Vorsicht beim Ein- und Ausstieg.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "14.01.2025",
-      "durationEnd": "14.01.2025",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/dbregio_SH ",
-          "label": "X (ehemals Twitter) DB Regio Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.01.2025 10:44",
       "expand": false,
       "topDisruption": false
     },
