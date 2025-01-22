@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "40862415-bcb4-4000-a535-078c0a4731f1",
+      "disruptionId": "7cddc345-3973-4abf-80b8-b177b8d7730e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen in Aschaffenburg",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es in Aschaffenburg derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet, halten nicht in Aschaffenburg und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) und Aschaffenburg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/7cddc345-3973-4abf-80b8-b177b8d7730e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.01.2025 13:49",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -238,6 +272,40 @@
       "topDisruption": false
     },
     {
+      "id": "7fc949ec-f2e8-4c35-9f70-7f13fcc3c5a6",
+      "disruptionId": "aef24336-8cf7-48c7-9b38-5b6825b37b32",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) Flughafen und Limburg(Süd)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Frankfurt(M) Flughafen und Limburg(Süd) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 10 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln und Frankfurt(M) Flughafen Fernbahnhof</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/aef24336-8cf7-48c7-9b38-5b6825b37b32",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.01.2025 14:13",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "44047c5b-59d6-418c-bab9-1bbafca6919b",
       "disruptionId": "749bacbd-f7e2-43d1-acd9-e1c33a9e0e2e",
       "author": "FERNVERKEHR_AG",
@@ -268,40 +336,6 @@
         }
       ],
       "lastModified": "22.01.2025 13:21",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7fc949ec-f2e8-4c35-9f70-7f13fcc3c5a6",
-      "disruptionId": "aef24336-8cf7-48c7-9b38-5b6825b37b32",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) Flughafen und Limburg(Süd)",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Frankfurt(M) Flughafen und Limburg(Süd) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 10 Min.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln und Frankfurt(M) Flughafen Fernbahnhof</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.01.2025",
-      "mapHref": "https://karte.bahn.de/detail/aef24336-8cf7-48c7-9b38-5b6825b37b32",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.01.2025 11:17",
       "expand": false,
       "topDisruption": false
     },
