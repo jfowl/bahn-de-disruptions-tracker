@@ -10,7 +10,7 @@
       },
       "headline": "Reparatur an der Oberleitung zwischen Wunstorf und Nienburg(Weser)",
       "summary": "Aufgrund der Reparatur an der Oberleitung zwischen Wunstorf und Nienburg(Weser) ist derzeit nur ein Gleis befahrbar. Es kommt zu Versp&auml;tungen und Teilausf&auml;llen. Bitte &uuml;berpr&uuml;fen Sie Ihre Reiseverbindung vor Abfahrt des Zuges.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) &ndash; Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge beginnen/enden teilweise in Wunstorf. Reisende von/nach Hannover Hbf nutzen bitte die S-Bahn Linien S1 und&nbsp;S2.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf):&nbsp;Die Z&uuml;ge beginnen/enden teilweise in Wunstorf.&nbsp;Reisende von/nach Hannover Hbf nutzen bitte die S-Bahn Linien S1 und&nbsp;S2.&nbsp;</li>\n</ul>\n\n<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 40 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) &ndash; Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge verkehren auf Regelweg.&nbsp;Es kommt zu Versp&auml;tungen und Teilausf&auml;llen.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge verkehren auf Regelweg.&nbsp;Es kommt zu Versp&auml;tungen und Teilausf&auml;llen.</li>\n</ul>\n\n<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 40 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "durationBegin": "28.01.2025",
       "durationEnd": "28.01.2025",
       "images": [],
@@ -61,7 +61,41 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.01.2025 09:31",
+      "lastModified": "28.01.2025 10:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f4fa701a-2e07-4d97-92b6-8a78f8372324",
+      "disruptionId": "04bf45ff-a57d-4ad4-9a7b-3e05bbbb06e0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover und Bremen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Wunstorf zwischen Hannover und Bremen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt vereinzelt zu Zugausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Hannover und Bremen fallen aus</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Mittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/04bf45ff-a57d-4ad4-9a7b-3e05bbbb06e0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.01.2025 09:57",
       "expand": false,
       "topDisruption": false
     },
