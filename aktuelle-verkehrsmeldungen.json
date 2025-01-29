@@ -368,10 +368,10 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Aktuell Verspätungen und Abweichungen vom Fahrplan auf allen Linien. Grund: Polizeieinsatz am Hauptbahnhof",
-      "summary": "Aktuell kommt es auf allen S-Bahn-Linien zu größeren Verspätungen und Abweichungen vom Fahrplan. Einige S-Bahnen wenden möglicherweise auch vorzeitig, bevor sie ihr eigentlich geplantes Ziel erreichen. Der Grund ist ein am Hauptbahnhof nötiger Polizeieinsatz.",
+      "headline": "Aktuell Verspätungen und Abweichungen vom Fahrplan auf allen Linien. Grund: erneuter Polizeieinsatz am Hauptbahnhof",
+      "summary": "Aktuell kommt es auf allen S-Bahn-Linien zu größeren Verspätungen und Abweichungen vom Fahrplan. Die S-Bahnen warten die Sperrung ab und fahren dann weiter. Der Grund ist ein erneuter Polizeieinsatz am Hauptbahnhof.",
       "text": "<p>Weiter Infos werden ermittelt...</p>",
-      "durationBegin": "29.01.2025",
+      "durationBegin": "30.01.2025",
       "durationEnd": "30.01.2025",
       "mapHref": "https://karte.bahn.de/detail/5402ae68-55fd-48aa-82c4-826a2671b664",
       "images": [],
@@ -405,7 +405,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.01.2025 23:26",
+      "lastModified": "30.01.2025 00:10",
       "expand": false,
       "topDisruption": false
     },
@@ -440,39 +440,6 @@
         }
       ],
       "lastModified": "29.01.2025 23:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c5ab6aed-33c7-4b67-8499-a0c1696cd3a9",
-      "disruptionId": "39066694-0a44-49dc-9a2b-8c1b1f769e30",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Herrenberg und Böblingen",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Herrenberg und Böblingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 15 Minuten.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC Züge der Verbindung Stuttgart - Singen(Hohentw) - Zürich</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden am 30.01.2025 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.01.2025",
-      "mapHref": "https://karte.bahn.de/detail/39066694-0a44-49dc-9a2b-8c1b1f769e30",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "29.01.2025 23:39",
       "expand": false,
       "topDisruption": false
     },
@@ -954,6 +921,40 @@
         }
       ],
       "lastModified": "28.01.2025 09:31",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "8bcf4024-a1e0-43b8-b119-4139c3590a9a",
+      "disruptionId": "3f838a99-7106-46fe-bccc-d0946dcfd04c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S5: Keine S-Bahnen zwischen Buxtehude und Horneburg. Grund: Polizeieinsatz",
+      "summary": "Aktuell ist die Strecke zwischen Buxtehude und Horneburg wegen eines Polizeieinsatzes gesperrt. Die S-Bahnen warten die Sperrung ab und fahren dann weiter.",
+      "text": "<p>Keine weiteren Infos.</p>",
+      "durationBegin": "29.01.2025",
+      "durationEnd": "30.01.2025",
+      "mapHref": "https://karte.bahn.de/detail/3f838a99-7106-46fe-bccc-d0946dcfd04c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.01.2025 00:03",
       "expand": false,
       "topDisruption": false
     },
