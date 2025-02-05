@@ -662,9 +662,9 @@
         "category": "police_activity",
         "label": "Behördliche Maßnahme"
       },
-      "headline": "S1/S3: Aktuell Umleitung der Züge zw. Altona und Hauptbahnhof über Dammtor",
-      "summary": "Die Züge werden zwischen Altona und Hauptbahnhof über Sternschanze und Dammtor umgeleitet. Der Grund ist ein Feuerwehreinsatz.",
-      "text": "<p>Bitte beachten Sie folgende Alternativen:</p><p>Königstraße / Reeperbahn: Bitte weichen Sie auf Linienbusse aus</p><p>Landungsbrücken: Bitte nutzen Sie ab Sternschanze die U3 in Richtung Hauptbahnhof bis Landungsbrücken</p><p>Stadthausbrücke: Bitte nutzen Sie ab Sternschanze die U3 in Richtung Hauptbahnhof bis Baumwall</p><p>Jungfernstieg: Bitte nutzen Sie ab Dammtor / Stephansplatz die U1 in Richtung Hauptbahnhof</p>",
+      "headline": "S1/S3: Feuerwehreinsatz beendet, die Züge fahren wieder regulär.",
+      "summary": "Der Feuerwehreinsatz wurde beendet, die Züge fahren wieder regulär über Landungsbrücken und Jungfernstieg.",
+      "text": "<p></p>",
       "durationBegin": "05.02.2025",
       "durationEnd": "05.02.2025",
       "mapHref": "https://karte.bahn.de/detail/67459722-6618-40fc-9706-08b99a473c20",
@@ -672,19 +672,24 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "05.02.2025 05:21",
+      "lastModified": "05.02.2025 05:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
