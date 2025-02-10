@@ -2,6 +2,76 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "707006ec-9e80-44a3-b4cc-832b76041788",
+      "disruptionId": "a241f9d6-490e-4b50-90a1-2fa559d43572",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen im Regionalverkehr der DB Regio Niedersachsen und Bremen in Bremen Hbf",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Bremen Hbf kommt es aktuell zu Verspätungen, Umleitungen von Zügen und zu Zugausfällen im Regionalverkehr der Deutschen Bahn.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf)</strong>: Es kommt zu Verspätungen und Teilausfällen.</li><li><strong>RE 8 (Bremerhaven-Lehe – Hannover Hbf):</strong> Die Züge verkehren mit Verspätungen. Zugausfälle sind möglich.</li><li><strong>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe):</strong> Die Züge verkehren mit Verspätungen. Zugausfälle sind möglich.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "10.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/a241f9d6-490e-4b50-90a1-2fa559d43572",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 9",
+          "filterName": "RE 9",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.02.2025 12:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/707006ec-9e80-44a3-b4cc-832b76041788"
+    },
+    {
       "id": "6c46105c-75ff-4d0d-a005-df906db2d93e",
       "disruptionId": "13f819f2-0f26-43db-be4f-b621c62101a2",
       "author": "FERNVERKEHR_AG",
