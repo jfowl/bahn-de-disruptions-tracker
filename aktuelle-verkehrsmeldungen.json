@@ -10,8 +10,8 @@
         "label": "Streik"
       },
       "headline": "Streikankündigung in Belgien",
-      "summary": "In Belgien wurden für den Zeitraum 22.02.2025 bis zum 02.03.2025 Streikmaßnahmen angekündigt. Dadurch kann es im internationalen Fernverkehr der Deutschen Bahn zu Einschränkungen kommen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE Züge zwischen Frankfurt(M) - Köln - Aachen - Bruxelles-Midi</li></ul><p></p><p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Streikmaßnahmen . Dieses wird schnellstmöglich kommuniziert.</p>",
+      "summary": "In Belgien wurden für den Zeitraum 22.02.2025 bis 02.03.2025 Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr der Deutschen Bahn zwischen Deutschland und Belgien zu Einschränkungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li><strong>am 21.02.2025</strong><ul><li>ICE 12 Frankfurt (M) - Bruxelles fällt aus</li></ul></li></ul><p></p><ul><li><strong>am 22.02.2025</strong><ul><li>ICE 10 Frankfurt (M) - Bruxelles fällt aus</li><li>ICE 12 Frankfurt (M) - Bruxelles fällt aus</li><li>ICE 11 Bruxelles - Frankfurt (M) fällt aus</li><li>ICE 16 fällt zwischen Köln und Bruxelles aus</li><li>ICE 315 fällt zwischen Bruxelles und Köln aus</li></ul></li></ul><p></p><ul><li><strong>am 23.02.2025</strong><ul><li>ICE 10 Frankfurt (M) - Bruxelles fällt aus</li><li>ICE 11 Bruxelles - Frankfurt (M) fällt aus</li><li>ICE 16 Frankfurt (M) - Bruxelles fällt aus</li><li>ICE 17 Bruxelles - Frankfurt (M) fällt aus</li></ul></li></ul><p></p><p>Auf den Nachtreiseverkehr haben die Streikmaßnahmen derzeit keine Auswirkungen.</p><p>Die Einschränkungen für die nachfolgenden Tage werden nach Bekanntwerden hier veröffentlicht.</p>",
       "durationBegin": "20.02.2025",
       "mapHref": "https://karte.bahn.de/detail/288c1677-56dd-4375-a724-449059171a4a",
       "images": [],
@@ -22,7 +22,8 @@
       ],
       "states": [
         "NW",
-        "HE"
+        "HE",
+        "RP"
       ],
       "lines": [
         {
@@ -31,7 +32,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.02.2025 10:41",
+      "lastModified": "20.02.2025 17:10",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/113b1e3d-a3a9-4f8e-94b4-e990005a0954"
@@ -353,50 +354,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cdb1e852-8971-4566-bc72-2ddbe7416c9c"
-    },
-    {
-      "id": "5edeea6c-696c-4a79-ac07-8970aaee2d50",
-      "disruptionId": "9d5ec966-aede-44d6-9fb3-3132b1de9876",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung S1 Oberschleißheim: Reparatur an einem Signal ",
-      "summary": "Auf der Linie S1 kommt es zu keinen Einschränkungen mehr.",
-      "text": "<p></p><p>Die Reparatur an einem Signal in Oberschleißheim wurde beendet.</p>",
-      "durationBegin": "20.02.2025",
-      "durationEnd": "20.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/9d5ec966-aede-44d6-9fb3-3132b1de9876",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-20/b8d7efb5-42fb-4276-8c60-aa445e57bfc1reisendenkarte_20250220-144500.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-20/b8d7efb5-42fb-4276-8c60-aa445e57bfc1reisendenkarte_20250220-144500.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2025 14:45:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2025 16:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5edeea6c-696c-4a79-ac07-8970aaee2d50"
     },
     {
       "id": "93c5d6d6-ab79-4600-8a07-a1fdcccd9127",
