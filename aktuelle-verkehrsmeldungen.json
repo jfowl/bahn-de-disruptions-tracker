@@ -337,57 +337,6 @@
       "detailPagePath": "/service/fahrplaene/cdb1e852-8971-4566-bc72-2ddbe7416c9c"
     },
     {
-      "id": "4453c62d-48d0-4a6a-b014-b06fe17658ff",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Zugverkehr auf der Linie RB54 wird zwischen Bad Bergzabern und Winden(Pfalz) eingestellt",
-      "summary": "Wegen kurzfristigen Fahrzeugausfall, <strong>wird der Zugverkehr zwischen Bad Bergzabern und Winden(Pfalz) </strong>am 19.02.2025 ab15:30 Uhr eingestellt.<br />\n<br />\n<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 54 Bad Bergzabern - Barbelroth - Winden(Pfalz)</strong></li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bus zwischen Winden(Pfalz) und Bad Bergzabern f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen, kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "19.02.2025 15:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4453c62d-48d0-4a6a-b014-b06fe17658ff"
-    },
-    {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
       "disruptionId": "f65c800f-0d56-41ce-aec9-b9ba0a653a5c",
       "author": "REGIO_BY",
@@ -667,6 +616,50 @@
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc"
     },
     {
+      "id": "3bbfe50c-a745-4ba2-aac0-549b21d85c79",
+      "disruptionId": "6e0a7a17-36fe-4c65-abd4-0a08e1fd78e1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S20 Höllriegelskreuth - Geltendorf: Ausfall ganztägig am 20.02. und 21.02.2025",
+      "summary": "Am Donnerstag, den 20. Februar und am Freitag, 21.02.25, entfallen ganztägig alle Fahrten der Linie S20.",
+      "text": "<p>Grund dafür sind technische Defekte an mehreren Zügen.</p>",
+      "durationBegin": "20.02.2025",
+      "durationEnd": "21.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/6e0a7a17-36fe-4c65-abd4-0a08e1fd78e1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-20/d13f5709-c7fc-4e2a-acf4-6aed86fbc222reisendenkarte_20250219-203921.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-20/d13f5709-c7fc-4e2a-acf4-6aed86fbc222reisendenkarte_20250219-203921.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.02.2025 20:39:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2025 13:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3bbfe50c-a745-4ba2-aac0-549b21d85c79"
+    },
+    {
       "id": "037f3ceb-87d6-40e5-b5f5-5e595e530d73",
       "disruptionId": "832cb828-553b-408f-827b-d7acab54da32",
       "author": "S_BAHN_MUC",
@@ -709,50 +702,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/037f3ceb-87d6-40e5-b5f5-5e595e530d73"
-    },
-    {
-      "id": "3bbfe50c-a745-4ba2-aac0-549b21d85c79",
-      "disruptionId": "6e0a7a17-36fe-4c65-abd4-0a08e1fd78e1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "S20 Höllriegelskreuth - Geltendorf: Ausfall ganztägig am 20.02.25",
-      "summary": "Am Donnerstag, den 20. Februar 2025, entfallen ganztägig alle Fahrten der Linie S20.",
-      "text": "<p>Grund dafür sind technische Defekte an mehreren Zügen.</p>",
-      "durationBegin": "20.02.2025",
-      "durationEnd": "20.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/6e0a7a17-36fe-4c65-abd4-0a08e1fd78e1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-19/1e8b6fd6-a6cc-4209-b972-c95654f6e89areisendenkarte_20250219-203921.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-19/1e8b6fd6-a6cc-4209-b972-c95654f6e89areisendenkarte_20250219-203921.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.02.2025 20:39:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.02.2025 20:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3bbfe50c-a745-4ba2-aac0-549b21d85c79"
     },
     {
       "id": "6ed7875d-d755-41f5-bed3-5d39fdd48f33",
@@ -919,57 +868,6 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8b6d4897-7904-47c8-8875-c436dddf8b59"
-    },
-    {
-      "id": "03cefca2-966e-4552-8b64-6efe1a425fc4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Meldungen der S-Bahn München",
-      "summary": "​​​​​Meldungen &uuml;ber die&nbsp;<strong>aktuelle Betriebslage der S-Bahn M&uuml;nchen</strong>&nbsp;finden Sie auf folgenden Kan&auml;len",
-      "text": "<p>und im <strong>M&uuml;nchen Navigator</strong>.</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/streckenagent_M",
-          "label": "X",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-muenchen.de/service/muenchen-navigator-app",
-          "label": "München Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S-Bahn",
-          "filterName": "",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.06.2024 12:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/03cefca2-966e-4552-8b64-6efe1a425fc4"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
