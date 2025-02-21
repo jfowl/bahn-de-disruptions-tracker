@@ -86,7 +86,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigung zwischen Köln und Koblenz",
-      "summary": "Aufgrund einer Reparatur an der rechten Rheinstrecke zwischen Köln und Koblenz kommt es derzeit zu Umleitungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn.",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Köln und Koblenz kommt es derzeit zu Umleitungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung Köln - Koblenz - Mainz - Süddeutschland</li><li>EC-Züge der Verbindung Hamburg - Köln - Schweiz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "21.02.2025",
       "mapHref": "https://karte.bahn.de/detail/9a565ddc-5027-45da-b990-c84ed71b5cda",
@@ -108,10 +108,47 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "21.02.2025 10:33",
+      "lastModified": "21.02.2025 11:01",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/720cf5b5-77fd-4c05-909e-56bcfe7e7532"
+    },
+    {
+      "id": "436081e7-7539-473e-99ac-6b262ea5ee25",
+      "disruptionId": "2c0ce8e3-059c-4b2d-87fc-d2f04723778f",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verkehrsmeldung für die Linie RB10 - Nauen - Berlin-Südkreuz",
+      "summary": " bis vsl. Freitag, 21.02.2025 23:59 Uhr ",
+      "text": "<p>Aufgrund einer Weichenstörung kommt es bis vsl. Freitag, 21.02.2025 23:59 Uhr zu Fahrtausfällen zwischen Nauen - Berlin-Südkreuz.</p><p>Betroffene Linie: RB10</p><p><strong>Linie RB10</strong>: (Nauen - Berlin-Südkreuz)</p><p>Die Züge fallen auf dem gesamten Abschnitt aus. Nutzen Sie bitte alternativ die Züge der Linie RE2 und RB14, die S-Bahn oder andere Verkehrsmittel.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de, im DB Navigator oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "21.02.2025",
+      "durationEnd": "21.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/2c0ce8e3-059c-4b2d-87fc-d2f04723778f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 10",
+          "filterName": "RB 10",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.02.2025 11:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/436081e7-7539-473e-99ac-6b262ea5ee25"
     },
     {
       "id": "ae3cbef6-316f-4fec-bf73-a253ae5b900e",
@@ -389,6 +426,42 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
+    },
+    {
+      "id": "9b95612d-787a-48cb-8f85-869acbeb8691",
+      "disruptionId": "fce638ac-9c68-4c87-b3cf-0b65d915ed87",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen in Wuppertal",
+      "summary": "Aufgrund der Reparatur an einem Stellwerk in Wuppertal kommt es zwischen 22:30 Uhr am 21.02.2025 und 04:30 Uhr am 22.02.2025 zu Umleitungen im Fernverkehr der Deutschen Bahn. Die Halte in Hagen, Wuppertal und Solingen entfallen. Ersatzhalte sind ggf. in Dortmund und Düsseldorf.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><p></p><ul><li>Einzelne ICE-Züge zwischen Dortmund und Köln</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.02.2025",
+      "durationEnd": "22.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/fce638ac-9c68-4c87-b3cf-0b65d915ed87",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.02.2025 10:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9b95612d-787a-48cb-8f85-869acbeb8691"
     },
     {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
