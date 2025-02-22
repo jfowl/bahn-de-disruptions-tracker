@@ -40,6 +40,42 @@
       "detailPagePath": "/service/fahrplaene/57eec4b8-a620-4ebd-8c72-768ae05631f8"
     },
     {
+      "id": "e5d5a268-1d7e-4923-9c9c-ed778dbbdbb3",
+      "disruptionId": "23f0fce6-ff87-41d0-83ab-3b7e2b276e05",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg Hbf und Hamburg-Altona bzw. Elmshorn",
+      "summary": "Aufgrund einer technischen Störung an der Strecke im Bereich Hamburg Holstenstraße/Altona kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 45 Min.. Die Halte Hamburg-Altona und Hamburg-Dammtor entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC/EC Züge zwischen Hamburg Hbf und Hamburg-Altona</li><li>ICE/IC/EC Züge zwischen Hamburg Hbf und Elmshorn (Neumünster/Westerland(Sylt))</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: S-Bahn Linien S1 und S3 zwischen Hamburg-Altona und Hamburg Hbf. Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/23f0fce6-ff87-41d0-83ab-3b7e2b276e05",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.02.2025 16:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e5d5a268-1d7e-4923-9c9c-ed778dbbdbb3"
+    },
+    {
       "id": "113b1e3d-a3a9-4f8e-94b4-e990005a0954",
       "disruptionId": "288c1677-56dd-4375-a724-449059171a4a",
       "author": "FERNVERKEHR_AG",
@@ -74,6 +110,66 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/113b1e3d-a3a9-4f8e-94b4-e990005a0954"
+    },
+    {
+      "id": "45b9efbf-1b63-49aa-81cb-cb2a72bacc37",
+      "disruptionId": "5ea80406-b2dc-4ef8-9ad9-f49db25fca79",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Oberleitungsstörung  zwischen Hamburg Hbf und Hamburg-Rainweg",
+      "summary": "Aufgrund einer Oberleitungsstörung zwischen Hamburg Hbf und Hamburg-Rainweg ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf): Die Züge beginnen/ enden in Hamburg-Altona. Reisende nutzen innerhalb von Hamburg bitte die Züge der S-Bahn. </li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von 30 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>&nbsp;Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "22.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/5ea80406-b2dc-4ef8-9ad9-f49db25fca79",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.02.2025 16:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/45b9efbf-1b63-49aa-81cb-cb2a72bacc37"
     },
     {
       "id": "436081e7-7539-473e-99ac-6b262ea5ee25",
@@ -943,138 +1039,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cfec2eab-7f6f-49d2-a8d9-fe81f31deed0"
-    },
-    {
-      "id": "e47e27bd-0ce4-45fc-af8f-ddcdbe46d8e6",
-      "disruptionId": "9f359f9f-77b4-4b50-8f89-4488096d0382",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten auf der Stammstrecke am 22.02.. und 23.02. 2025 (jeweils von 04:00 Uhr bis 16:00 Uhr)",
-      "summary": "wegen Bauarbeiten zum neuen elektronischen Stellwerk am Ostbahnhof kommt es zwischen Ostbahnhof und Pasing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Schienenersatzverkehr.",
-      "text": "<p><strong>Hinweis:</strong></p><p><strong>Auf der Stammstrecke fährt nur eine Linie zwischen Ostbahnhof und Pasing. Die Linie S 7 fährt planmäßig.&nbsp;</strong></p><p><strong>Es besteht Schienenersatzverkehr zwischen Ostbahnhof und Trudering.</strong>&nbsp;</p><p>Die anderen Linien verkehren wie folgt:</p><p><strong>S 1:&nbsp;</strong></p><ul><li><ul><li>Züge beginnen/enden am Hauptbahnhof Gl. 27-35 und halten nicht an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li></ul></li></ul><p><strong>S 2:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof und fahren von/bis Riem ohne Halt&nbsp;</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li></ul></li></ul><p><strong>S 3:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing;&nbsp;Züge in/aus Richtung Mammendorf beginnen/enden in Pasing&nbsp;&nbsp;</li></ul></li></ul><p><strong>S 4:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus&nbsp;</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul></li></ul><p><strong>S 5:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing&nbsp;</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus&nbsp;</li></ul></li></ul><p><strong>S 6/S 8:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Schienenersatzverkehr zwischen Trudering und Ostbahnhof&nbsp;</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing&nbsp;</li><li>Züge aus Richtung Tutzing fahren zum Flughafen&nbsp;</li><li>Züge aus Richtung Flughafen fahren nach Tutzing&nbsp;</li></ul></li></ul><p><strong>S 7:&nbsp;</strong></p><ul><li><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen&nbsp;</li></ul></li></ul><p></p><p>Weitere Informationen zu dieser Baustelle finden Sie unter: https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "22.02.2025",
-      "durationEnd": "23.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/9f359f9f-77b4-4b50-8f89-4488096d0382",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/a9a4af1e-9416-4006-85d9-2b37a6eee852Fahrplan%2BS%2B8%2Bam%2B22.%2Bund%2B23.2.%2B25.pdf",
-          "label": "Fahrplan S 8 am 22. und 23.2. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/824d2c47-9037-4be8-a46b-ae9bf6fc50d4Fahrplan%2BS%2B5%2Bam%2B22.%2Bund%2B23.02.%2B25.pdf",
-          "label": "Fahrplan S 5 am 22. und 23.02. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/b531cee0-b36c-450f-b81c-7ad461e231a5Fahrplan%2BS%2B6%2Bund%2BS%2B8%2Bam%2B22.%2Bund%2B23.2.%2B25.pdf",
-          "label": "Fahrplan S 6 und S 8 am 22. und 23.2. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/b06613fe-c141-4f78-8876-ea40c21382e7Liniennetzplan%2BInnenraum%2B22.2.%2B-%2B23.2.25.pdf",
-          "label": "Alternativen während der Bauarbeiten 22.2. - 23.2.25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/d1b72615-b94f-4fb0-85a0-a41a23573ad9Fahrplan%2BErsatzverkehr%2BOstbahnhof%2B%25E2%2586%2594%2BTrudering%2Bam%2B22.%2Bund%2B23.2.%2B25.pdf",
-          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Trudering am 22. und 23.2. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/06565167-f454-4d05-8fcc-1eb5db086d2eFahrplan%2BS%2B6%2Bam%2B22.%2Bund%2B23.02.%2B25.pdf",
-          "label": "Fahrplan S 6 am 22. und 23.02. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/9f696bbd-44b6-485e-ae30-34a64fe9e1d5Fahrplan%2BS%2B4%2Bam%2B22.%2Bund%2B23.02.%2B25.pdf",
-          "label": "Fahrplan S 4 am 22. und 23.02. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/f88d0891-f631-4c1c-9ed9-8082a89e1aecFahrplan%2BS%2B3%2Bam%2B22.%2Bund%2B23.2.25.pdf",
-          "label": "Fahrplan S 3 am 22. und 23.2.25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/49ff6339-4ee6-4a1a-af3d-a85beda24461Fahrplan%2BS%2B2%2Bam%2B22.%2Bund%2B23.2.%2B25.pdf",
-          "label": "Fahrplan S 2 am 22. und 23.2. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-22/0075b527-6cde-4a9a-bea9-7c1dd4fc60b2Fahrplan%2BS%2B1%2Bam%2B22.%2Bund%2B23.2.%2B25.pdf",
-          "label": "Fahrplan S 1 am 22. und 23.2. 25.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.02.2025 04:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e47e27bd-0ce4-45fc-af8f-ddcdbe46d8e6"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
