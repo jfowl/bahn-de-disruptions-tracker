@@ -500,42 +500,6 @@
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc"
     },
     {
-      "id": "948a0a16-0b5c-4f55-932e-c5cf05f6a380",
-      "disruptionId": "14f5f783-82e4-4453-886a-6c83f52332c3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "S 3 Maisach ↔ Deisenhofen: Technischer Defekt an einem Zug",
-      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 3 Maisach → Deisenhofen</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:59 Uhr / Abfahrt 18:02 Uhr → Deisenhofen Ankunft 18:21 Uhr&nbsp;</li></ul><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58 Uhr&nbsp;&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:40 Uhr → Ostbahnhof Ankunft 18:55 Uhr / Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Grund ist ein technischer Defekt an einem Zug.</p>",
-      "durationBegin": "24.02.2025",
-      "durationEnd": "24.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/14f5f783-82e4-4453-886a-6c83f52332c3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.02.2025 15:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/948a0a16-0b5c-4f55-932e-c5cf05f6a380"
-    },
-    {
       "id": "5078c203-3ec4-47ed-a688-f7fb2f93e878",
       "disruptionId": "27a77589-7fef-459a-bade-494befb09917",
       "author": "S_BAHN_MUC",
@@ -627,6 +591,80 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/fc8ac34f-ff84-4451-a3a2-3f7a658ee04f"
+    },
+    {
+      "id": "90ab4150-eacf-4f3d-beb4-97c09df742a8",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)Hbf",
+      "summary": "Aufgrund der Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>S1:&nbsp;</strong><em>Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - R&ouml;dermark-Ober Roden</em><br />\n\t&nbsp;</li>\n\t<li><strong>S2:&nbsp;</strong><em>Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 25.02.2025</u>&nbsp;zwischen 16:00 Uhr und 20:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S1 und</strong>&nbsp;<strong>S2</strong><br />\n\tDie Z&uuml;ge verkehren im 30-Minuten-Takt.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "25.02.2025",
+      "durationEnd": "25.02.2025",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2025 19:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/90ab4150-eacf-4f3d-beb4-97c09df742a8"
+    },
+    {
+      "id": "ed8ce403-b582-4e1c-915c-927a9274290a",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt(Main)Hbf",
+      "summary": "Aufgrund der Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>S8:&nbsp;</strong><em>Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost&nbsp;</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;Am <u>24./25.02.2025</u>&nbsp;von <u>20:00 Uhr bis 06:00 Uhr</u><br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S8:</strong><br />\n\tDie Z&uuml;ge,&nbsp;die in Offenbach(Main)Ost enden und beginnen, werden zwischen Frankfurt(M)Ostendstra&szlig;e und Frankfurt(Main)S&uuml;d in beiden Richtungen mit Halt &uuml;ber Frankfurt(M)Lokalbahnhof umgeleitet.</li>\n</ul>\n\n<p><strong>Empfehlung:</strong></p>\n\n<p>&rArr; F&uuml;r <strong>S8:</strong><br />\n&nbsp;Nutzen Sie die Z&uuml;ge der <strong>S1</strong>, <strong>S2</strong> und <strong>S9</strong> zwischen Frankfurt(M)Ostendstra&szlig;e und Offenbach(Main)Ost.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "24.02.2025",
+      "durationEnd": "25.02.2025",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2025 19:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ed8ce403-b582-4e1c-915c-927a9274290a"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
