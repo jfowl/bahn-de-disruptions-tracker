@@ -180,6 +180,43 @@
       "detailPagePath": "/service/fahrplaene/6f4411eb-6ef1-45f9-bba6-a469cddd0377"
     },
     {
+      "id": "c2b31d7d-5e55-4b3d-87ec-9e6e2add7c9b",
+      "disruptionId": "d0b7b0f8-b7ee-46ef-991e-28a81e286856",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen in Berlin Südkreuz",
+      "summary": "Aufgrund von Bauarbeiten in Berlin Südkreuz kommt es zwischen 21:00 Uhr am 26.02.2025 und 05:00 Uhr am 27.02.2025 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen und Verspätungen von bis zu 20 Minuten, der Halt in Berlin Südkreuz kann entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung Berlin - Leipzig/Dresden</li><li>ICE-Züge der Verbindung Berlin - Erfurt - Süddeutschland</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.02.2025",
+      "durationEnd": "27.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/d0b7b0f8-b7ee-46ef-991e-28a81e286856",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.02.2025 18:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c2b31d7d-5e55-4b3d-87ec-9e6e2add7c9b"
+    },
+    {
       "id": "cc3031ca-705f-47bf-b3a7-d32eb5035768",
       "disruptionId": "5fb156d1-593d-491a-80d1-4ef8963bc4ec",
       "author": "FERNVERKEHR_AG",
@@ -262,6 +299,50 @@
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
     },
     {
+      "id": "755d91b3-028e-4960-8568-d45491a51a33",
+      "disruptionId": "0988b8b3-c2eb-47d5-b532-bbaebfc4e263",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S4 Leienfelsstraße: ",
+      "summary": "Derzeit kommt es auf der Linie S4 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Strecke im Bereich Leienfelsstraße. <strong>Die S-Bahnen fahren in diesem Bereich mit verminderter Geschwindigkeit.</strong></p>",
+      "durationBegin": "26.02.2025",
+      "durationEnd": "26.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/0988b8b3-c2eb-47d5-b532-bbaebfc4e263",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/0d267fa0-e77c-41a5-af6b-b7ce62a6b64breisendenkarte_20250226-184706.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/0d267fa0-e77c-41a5-af6b-b7ce62a6b64breisendenkarte_20250226-184706.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.02.2025 18:47:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.02.2025 18:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/755d91b3-028e-4960-8568-d45491a51a33"
+    },
+    {
       "id": "5429a11d-6ffd-4717-89e3-8dc0a7236ab1",
       "disruptionId": "4333c4d5-3b14-428f-ab55-4bcdbf645c65",
       "author": "S_BAHN_MUC",
@@ -270,22 +351,22 @@
         "label": "Verspätung eines vorausfahrenden Zuges"
       },
       "headline": "S3 Pasing - Mammendorf: Zugfolgeverspätung",
-      "summary": "Derzeit kommt es auf der Linie S3 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;sind Verspätungen von vorausfahrenden Zügen.</p>",
+      "summary": "Die S-Bahnen der Linie S3 fahren wieder ohne nennenswerte Einschränkungen.",
+      "text": "<p>Die Verspätungen von den vorausfahrenden Zügen wurden abgebaut.</p>",
       "durationBegin": "26.02.2025",
       "durationEnd": "26.02.2025",
       "mapHref": "https://karte.bahn.de/detail/4333c4d5-3b14-428f-ab55-4bcdbf645c65",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/ddb0804c-1bc1-4507-a498-efe1c7047967reisendenkarte_20250226-165021.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/ddb0804c-1bc1-4507-a498-efe1c7047967reisendenkarte_20250226-165021.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/01b1c1b1-db5b-4754-a2bb-be4ab3472853reisendenkarte_20250226-165021.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/01b1c1b1-db5b-4754-a2bb-be4ab3472853reisendenkarte_20250226-165021.png",
           "info": "",
           "alt": "Reisendenkarte 26.02.2025 16:50:21",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/9259f8a5-41a6-4f0b-a914-5d04e9f4b4aereisendenkarte_20250226-175127.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/9259f8a5-41a6-4f0b-a914-5d04e9f4b4aereisendenkarte_20250226-175127.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/193e12c7-fcfd-40ec-8159-868695586879reisendenkarte_20250226-175127.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-26/193e12c7-fcfd-40ec-8159-868695586879reisendenkarte_20250226-175127.png",
           "info": "",
           "alt": "Reisendenkarte 26.02.2025 17:51:27",
           "openInNewTab": true
@@ -306,7 +387,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.02.2025 17:52",
+      "lastModified": "26.02.2025 18:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
