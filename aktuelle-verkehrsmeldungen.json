@@ -695,7 +695,7 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 6 Grafing ↔ Ebersberg: Technische Störung an einem Bahnübergang",
+      "headline": "S 4 / S 6 Grafing ↔ Ebersberg: Technische Störung an einem Bahnübergang",
       "summary": "Zwischen Grafing und Ebersberg kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
       "text": "<p>Grund hierfür ist ein technische Störung an einem Bahnübergang.</p>",
       "durationBegin": "28.02.2025",
@@ -712,12 +712,17 @@
       ],
       "lines": [
         {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.02.2025 09:38",
+      "lastModified": "28.02.2025 10:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
