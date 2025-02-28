@@ -138,6 +138,41 @@
       "detailPagePath": "/service/fahrplaene/ad6013db-0e82-4790-8d26-a0269debe146"
     },
     {
+      "id": "77e4df18-25f0-4145-b0ab-208af34e8de6",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Ausfälle auf der S-Bahn-Linie S8 (Rhein-Main)",
+      "summary": "Aufgrund der kurzfristigen Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S8</strong>:&nbsp;<em>Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost</em><br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>► Am <u>02.03.2025</u>&nbsp;von ca. 06:00 Uhr bis 18:00 Uhr<br />\n&nbsp;</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S8:</strong><br />\n\tKein Betrieb der Linie m&ouml;glich.<br />\n\t&nbsp;</li>\n</ul>\n\n<p><strong>Unsere Empfehlungen:</strong></p>\n\n<p>&rArr; Nutzen Sie die <em><strong>S9</strong></em> zwischen Offenbach(Main)Ost - Frankfurt Hbf (tief) - Frankfurt(M) Flughafen Regionalbf - Mainz-Bischofsheim - Wiesbaden Hbf.</p>\n\n<p>&rArr; Pr&uuml;fen Sie in der Mainzer Innenstadt auch andere Verkehrsmittel wie beispielsweise Stra&szlig;enbahnen und Busse sowie die anderen Z&uuml;ge des Regional- und S-Bahn-Verkehrs, um die Stationen <em><u>Mainz-Gustavsburg, Mainz R&ouml;misches Theater, Mainz Hbf und Mainz Nord</u></em> zu erreichen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "02.03.2025",
+      "durationEnd": "02.03.2025",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.02.2025 17:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/77e4df18-25f0-4145-b0ab-208af34e8de6"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -686,6 +721,55 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/fc8ac34f-ff84-4451-a3a2-3f7a658ee04f"
+    },
+    {
+      "id": "a16986b0-9edb-4dcf-a652-b6944d6f1a33",
+      "disruptionId": "b3f2c0e8-b583-4359-aca9-d9168500dfb4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S1 / S8 Flughafen Terminal: Polizeieinsatz",
+      "summary": "Das Gleis 1 am Flughafen ist derzeit gesperrt.",
+      "text": "<p>Es kommt zu Verspätungen von bis zu 10 Minuten und zu vorzeitigen Zugwenden. </p><p>Grund hierfür ist ein Polizeieinsatz am Flughafen.</p>",
+      "durationBegin": "28.02.2025",
+      "durationEnd": "28.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/b3f2c0e8-b583-4359-aca9-d9168500dfb4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-28/68dde21b-035f-40c1-ac88-58aabc531a29reisendenkarte_20250228-165759.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-02-28/68dde21b-035f-40c1-ac88-58aabc531a29reisendenkarte_20250228-165759.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.02.2025 16:57:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.02.2025 16:59",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a16986b0-9edb-4dcf-a652-b6944d6f1a33"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
