@@ -137,79 +137,6 @@
       "detailPagePath": "/service/fahrplaene/c1b3974e-1f37-44d4-9112-c7872c8bc615"
     },
     {
-      "id": "bcd77be1-16d8-4cb7-963f-2749d68f39f2",
-      "disruptionId": "a35b8a81-b328-4ed5-aa75-8c272ce751f8",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Elmshorn und Neumünster aufgehoben",
-      "summary": "Die Streckensperrung zwischen Neumünster und Elmshorn wurde aufgehoben. ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 7 (Flensburg/Kiel Hbf – Hamburg Hbf): Züge verkehren wieder planmäßig.</li><li>RE 70 (Kiel Hbf – Hamburg Hbf): Züge verkehren wieder planmäßig.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>&nbsp;Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "01.03.2025",
-      "durationEnd": "01.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/a35b8a81-b328-4ed5-aa75-8c272ce751f8",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 70",
-          "filterName": "RE 70",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "01.03.2025 12:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bcd77be1-16d8-4cb7-963f-2749d68f39f2"
-    },
-    {
       "id": "77e4df18-25f0-4145-b0ab-208af34e8de6",
       "author": "S_BAHN_RM",
       "cause": {
@@ -419,6 +346,50 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
+    },
+    {
+      "id": "baaefd32-c3e8-45cc-b1a2-ced9c5597d1f",
+      "disruptionId": "0f8a8aa4-5545-4b00-881f-4bd9dab19241",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5  Neubiberg und Hohenbrunn: Reparatur an der Strecke ",
+      "summary": "Die S-Bahnen fahren zwischen Neubiberg und Hohenbrunn bis auf weiteres mit verminderter Geschwindigkeit.",
+      "text": "<p>Deswegen kommt es jetzt auf der Linie S5 zu Verspätungen von 5 bis 10 Minuten.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Strecke zwischen Neubiberg und Hohenbrunn.</p>",
+      "durationBegin": "01.03.2025",
+      "durationEnd": "01.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/0f8a8aa4-5545-4b00-881f-4bd9dab19241",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-01/31835551-e9b8-4470-9488-f53b3ed3ac70reisendenkarte_20250301-130324.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-01/31835551-e9b8-4470-9488-f53b3ed3ac70reisendenkarte_20250301-130324.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.03.2025 13:03:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.03.2025 13:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/baaefd32-c3e8-45cc-b1a2-ced9c5597d1f"
     },
     {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
