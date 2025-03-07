@@ -215,6 +215,42 @@
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
     },
     {
+      "id": "a10bdf67-a180-407a-8369-0a3e1781f278",
+      "disruptionId": "fb00f389-663c-4468-b998-5849cea5356a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Keine S-Bahnen zwischen Elbgaustraße und Pinneberg",
+      "summary": "Aktuell ist die Linie S3 zwischen Elbgaustraße und Pinneberg in beiden Richtungen unterbrochen. Weitere Informationen folgen so bald wie möglich. Grund: Polizeieinsatz",
+      "text": "<p>Bitte Ansagen am Bahnsteig beachten.</p>",
+      "durationBegin": "07.03.2025",
+      "durationEnd": "07.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/fb00f389-663c-4468-b998-5849cea5356a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.03.2025 09:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a10bdf67-a180-407a-8369-0a3e1781f278"
+    },
+    {
       "id": "14ec2071-61c5-48e0-82c4-318b6bd8f566",
       "disruptionId": "3d679077-1c2e-4b58-9968-8316084273f9",
       "author": "REGIO_BW",
@@ -555,19 +591,19 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "07.03.2025 09:23",
+      "lastModified": "07.03.2025 09:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -638,72 +674,6 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8398eeb7-f772-4819-98ef-a9fb8233c130"
-    },
-    {
-      "id": "09bfab08-d732-47b7-8c30-128d5c9dbbef",
-      "disruptionId": "db8fd509-5062-4739-baf8-59e48292885e",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Freiburg (Breisgau) ⇄ Basel Bad Bf\nZugausfälle und Ersatzverkehr mit Bus ",
-      "summary": "📅 Montag, 10.03.2025, 00:00 Uhr bis Montag, 17.03.2025, 23:59 Uhr",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 7 (Karlsruhe - Basel)</li><li>RB 26 (Offenburg - Freiburg (Brsg)/Müllheim i.M)&nbsp;</li><li>RB 27 (Freiburg (Brsg) - Basel Bad Bf/Neuenburg (Baden))&nbsp;</li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong> Freiburg(Breisgau) ⇄ Basel SBB (nur einzelne Züge in unterschiedlichen Abschnitten betroffen)</p><p>Am Sonntag, 16. März entfallen die meisten Züge zwischen Freiburg(Breisgau) – Müllheim im Markgräflerland/Neuenburg(Baden) (RB27) und auch die Züge zwischen Freiburg(Breisgau) –Mulhouse (RB 28)</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong></p><p>✅ Die Fahrplandaten am 10. und 11. März sind aktualisiert.</p><p>❌ Die Fahrplandaten ab 12. März werden von uns erst am Mittwoch, den 12. März aktualisiert</p><p><strong>Grund der Bauarbeiten: </strong>Bündelung diverser Baumaßnahmen zwischen Offenburg und Basel SBB / Mulhouse</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p>",
-      "durationBegin": "10.03.2025",
-      "durationEnd": "17.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/db8fd509-5062-4739-baf8-59e48292885e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-06/062e183f-f4ff-4ed3-97c0-91beda07e2a3reisendenkarte_20250306-101242.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-06/062e183f-f4ff-4ed3-97c0-91beda07e2a3reisendenkarte_20250306-101242.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.03.2025 10:12:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 26",
-          "filterName": "RB 26",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 27",
-          "filterName": "RB 27",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.03.2025 10:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/09bfab08-d732-47b7-8c30-128d5c9dbbef"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
