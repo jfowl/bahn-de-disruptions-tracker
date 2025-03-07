@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "22ba737e-613e-46d1-b603-fb5f8ebcaf10",
+      "disruptionId": "169fa535-8095-4a6d-83e2-6ce5a04d3ed7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen zwischen Karlsruhe und Basel / Strasbourg(Frankreich)",
+      "summary": "Derzeit ist der Bahnhof Rastatt gesperrt. Dadurch kommt es zu Teilausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>kein</strong> Fernverkehr zwischen <strong>Karlsruhe</strong> und <strong>Offenburg</strong> <strong>möglich. Es kommt zu Teilausfällen. </strong></li><li>ICE/TGV-Züge zwischen <strong>Karlsruhe</strong> und <strong>Paris</strong> werden nach Möglichkeit <strong>umgeleitet</strong>. Die Halte in <strong>Karlsruhe Hbf</strong> und <strong>Strasbourg entfallen</strong>. Es kommt zu <strong>zusätzlichen</strong> <strong>Verspätungen </strong>von etwa <strong>50 Minuten</strong>.</li></ul><p>Ein Ersatzverkehr mit Bussen zwischen Karlsruhe und Offenburg ist in Planung.</p><p>Es ist kurzfristig mit zusätzlichen Halt- und Zugausfällen zu rechnen. In den verbleibenden Fernverkehrszügen kommt es zu einer erhöhten Auslastung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte planen Sie mehr Reisezeit ein und informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/169fa535-8095-4a6d-83e2-6ce5a04d3ed7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.03.2025 10:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/22ba737e-613e-46d1-b603-fb5f8ebcaf10"
+    },
+    {
       "id": "653d26d6-92de-47cc-a21e-ffce40e197ce",
       "disruptionId": "7e13174c-c453-4fe8-a54a-f986ee968cde",
       "author": "S_BAHN_HH",
@@ -230,15 +266,28 @@
       "mapHref": "https://karte.bahn.de/detail/3d679077-1c2e-4b58-9968-8316084273f9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-07/4013cdc6-3256-4340-b2e7-26db9c1efed0reisendenkarte_20250307-083454.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-07/4013cdc6-3256-4340-b2e7-26db9c1efed0reisendenkarte_20250307-083454.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-07/3930b283-c7f0-436f-a70c-c85479ddf79dreisendenkarte_20250307-083454.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-03-07/3930b283-c7f0-436f-a70c-c85479ddf79dreisendenkarte_20250307-083454.png",
           "info": "",
           "alt": "Reisendenkarte 07.03.2025 08:34:54",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/service/ran_kontakt",
+          "label": "Noch Fragen? Unser regionaler Kundendialog hilft gerne weiter.",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -252,7 +301,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.03.2025 08:38",
+      "lastModified": "07.03.2025 10:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
