@@ -873,50 +873,6 @@
       "detailPagePath": "/service/fahrplaene/a4ca9ba6-abc4-4d2d-9deb-70e53efae52b"
     },
     {
-      "id": "936ab97c-7835-4f30-8e51-da1765c69dbc",
-      "disruptionId": "efb886d4-692e-4dd8-9bb4-63cafa48d3b9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S7  Hauptbahnhof: Polizeieinsatz",
-      "summary": "Die S-Bahnen der S7 beginnen/enden weiterhin am Gleis 31.",
-      "text": "<p>Bitte überprüfen Sie Ihre Verbindung auch wegen weiterer möglichen Gleisänderung kurz vor Fahrt unter www.s-bahn-muenchen.de oder im München Navigator.</p><p>Der Polizeieinsatz am Hauptbahnhof ist beendet.</p>",
-      "durationBegin": "08.03.2025",
-      "durationEnd": "08.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/efb886d4-692e-4dd8-9bb4-63cafa48d3b9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/a24dbeb8-e1ad-4ebd-9dc9-0256146c0866reisendenkarte_20250308-205203.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/a24dbeb8-e1ad-4ebd-9dc9-0256146c0866reisendenkarte_20250308-205203.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.03.2025 20:52:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.03.2025 21:45",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/936ab97c-7835-4f30-8e51-da1765c69dbc"
-    },
-    {
       "id": "cbd32a39-a476-451b-90a2-7e150bc27a87",
       "disruptionId": "23bfedb9-cb22-46fa-a8f4-928d2a05e29a",
       "author": "REGIO_BW",
@@ -988,6 +944,50 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cbd32a39-a476-451b-90a2-7e150bc27a87"
+    },
+    {
+      "id": "5204f9a9-4d36-40f8-a20f-e31cb950eff8",
+      "disruptionId": "43afb7fe-4047-48fa-bda3-fe9c8a17ee59",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S1 Pulling: Technischer Defekt an einem Bahnübergang",
+      "summary": "Die S-Bahnen der S1 erhalten in Richtung Freising Verspätungen von bis zu 20 Minuten. Es kommt zu vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Pulling.</p>",
+      "durationBegin": "08.03.2025",
+      "durationEnd": "08.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/43afb7fe-4047-48fa-bda3-fe9c8a17ee59",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/301250d7-01cf-48b5-9fa0-0933b2dcea2ereisendenkarte_20250308-221420.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/301250d7-01cf-48b5-9fa0-0933b2dcea2ereisendenkarte_20250308-221420.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.03.2025 22:14:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.03.2025 22:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5204f9a9-4d36-40f8-a20f-e31cb950eff8"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
