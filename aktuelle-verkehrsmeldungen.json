@@ -759,9 +759,9 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "S 4 Pasing ↔ Heimeranplatz: Technischer Defekt an einem Zug",
-      "summary": "Zwischen Pasing und Heimeranplatz sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Pasing.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "S 4 Pasing ↔ Heimeranplatz: Reparatur an der Oberleitung",
+      "summary": "Zwischen Pasing und Heimeranplatz sind nur eingeschränkt Zugfahrten möglich.\n",
+      "text": "<p>Die S-Bahnen werden Umgeleitet.</p><p>Es besteht ein 40-Minuten-Takt zwischen Pasing und Heimeranplatz.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p><p>Eine S-Bahn steht im Bereich der Oberleitungsstörung.</p>",
       "durationBegin": "08.03.2025",
       "durationEnd": "08.03.2025",
       "mapHref": "https://karte.bahn.de/detail/8ec26fe7-e793-4cf9-ab4e-729039ed0627",
@@ -781,7 +781,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.03.2025 13:27",
+      "lastModified": "08.03.2025 14:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -975,6 +975,42 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cbd32a39-a476-451b-90a2-7e150bc27a87"
+    },
+    {
+      "id": "e046adfe-5730-46a2-bce5-fdb83c389f70",
+      "disruptionId": "df1cb820-9af9-48ca-9eb4-0f7de9c2f39b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 7 Siemenswerke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Im Bereich Siemenswerke kommt es zu Verspätungen von bis zu 30 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "08.03.2025",
+      "durationEnd": "08.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/df1cb820-9af9-48ca-9eb4-0f7de9c2f39b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.03.2025 13:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e046adfe-5730-46a2-bce5-fdb83c389f70"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
