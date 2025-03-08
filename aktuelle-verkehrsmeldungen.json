@@ -52,6 +52,43 @@
       "detailPagePath": "/service/fahrplaene/049739be-8530-4d6a-a258-d10bea81703a"
     },
     {
+      "id": "653d26d6-92de-47cc-a21e-ffce40e197ce",
+      "disruptionId": "7e13174c-c453-4fe8-a54a-f986ee968cde",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Aktuelle Verkehrssituation auf der Linie S5",
+      "summary": "Zwischen Neugraben und Stade fährt die S5 im Stundentakt.\nAbfahrt in Neugraben Richtung Stade auf Minute xx:52 Uhr.\nAbfahrt in Stade Richtung Neugraben auf Minute xx:36 Uhr.\n\nZusätzlich fahren zwischen Neugraben und Buxtehude Busse.\n\nRE5 hält zwischen Stade und Neugraben an allen Bahnhöfen.",
+      "text": "<p></p>",
+      "durationBegin": "07.03.2025",
+      "durationEnd": "08.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/7e13174c-c453-4fe8-a54a-f986ee968cde",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.03.2025 10:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/653d26d6-92de-47cc-a21e-ffce40e197ce"
+    },
+    {
       "id": "ae3b2e01-5c5d-4726-9dd5-e7b81184c7a0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -102,43 +139,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ae3b2e01-5c5d-4726-9dd5-e7b81184c7a0"
-    },
-    {
-      "id": "653d26d6-92de-47cc-a21e-ffce40e197ce",
-      "disruptionId": "7e13174c-c453-4fe8-a54a-f986ee968cde",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Aktuelle Verkehrssituation auf der Linie S5",
-      "summary": "Die S-Bahnen zwischen Neugraben und Stade fahren im Stundentakt.\nAbfahrt in Neugraben Richtung Stade auf Minute xx:52 Uhr.\nAbfahrt in Stade Richtung Neugraben auf Minute xx:36 Uhr.\n\nZwischen Neugraben und Buxtehude fahren zusätzlich Busse.\nAbfahrt in Neugraben Richtung Buxtehude: 6:40 Uhr, 7:40 Uhr, 8:30 Uhr, 9:30 Uhr.\nAbfahrt in Buxtehude Richtung Neugraben: 7:30 Uhr, 8:30 Uhr, 9:30 Uhr.",
-      "text": "<p></p>",
-      "durationBegin": "07.03.2025",
-      "durationEnd": "08.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/7e13174c-c453-4fe8-a54a-f986ee968cde",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.03.2025 04:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/653d26d6-92de-47cc-a21e-ffce40e197ce"
     },
     {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
@@ -802,42 +802,6 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8398eeb7-f772-4819-98ef-a9fb8233c130"
-    },
-    {
-      "id": "0153c0ea-e239-4559-9ec8-5f5e696adc5a",
-      "disruptionId": "07d5585c-41c7-4017-aac6-d9c4ba238cf7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Endmeldung: S 7 Heimeranplatz",
-      "summary": "Im Bereich Heimeranplatz kommt es noch zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Technische Defekt an einem Zug wurde behoben.</p>",
-      "durationBegin": "08.03.2025",
-      "durationEnd": "08.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/07d5585c-41c7-4017-aac6-d9c4ba238cf7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.03.2025 09:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0153c0ea-e239-4559-9ec8-5f5e696adc5a"
     },
     {
       "id": "3f7db155-5a2a-487b-912f-a24ec5db85a8",
