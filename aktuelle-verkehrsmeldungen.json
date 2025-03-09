@@ -52,6 +52,43 @@
       "detailPagePath": "/service/fahrplaene/049739be-8530-4d6a-a258-d10bea81703a"
     },
     {
+      "id": "185e28e1-a693-4b46-9320-f5709c119fca",
+      "disruptionId": "962c41eb-e993-4876-862a-1c95cc400e78",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt (Main) und Aschaffenburg",
+      "summary": "Aufgrund eines unbesetzten Stellwerks ist die Strecke zwischen Aschaffenburg und Hanau in der Nacht 09./10.03.2025 von 18:00 Uhr bis 06:00 Uhr gesperrt. Es kommt zu Verspätungen und Haltausfällen Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) und Aschaffenburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Hanau Hbf entfällt bei diesen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Gäste von/nach Hanau nutzen bitte Verbindungen über Frankfurt(M).</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.03.2025",
+      "durationEnd": "10.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/962c41eb-e993-4876-862a-1c95cc400e78",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.03.2025 16:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/185e28e1-a693-4b46-9320-f5709c119fca"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -130,6 +167,45 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d30f83b9-4841-4cad-9b13-14d25cc60dd6"
+    },
+    {
+      "id": "1d9ac2fb-00ad-4e05-bdda-0ecc52dc5f44",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Haltausfälle im Raum Hanau Hbf",
+      "summary": "Aufgrund der Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen im Regionalverkehr der Deutschen Bahn in Hessen.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE54/55:&nbsp;</strong><em>Frankfurt(Main)Hbf - Maintal Ost/Offenbach Hbf - Hanau Hbf - Aschaffenburg - W&uuml;rzburg (- Bamberg)</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 9./10.03.2025&nbsp;zwischen 18:00 Uhr und 06:00 Uhr</u></p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>RE54/55:</strong><br />\n\tDie Z&uuml;ge halten nicht in Gro&szlig;auheim(Kr Hanau).&nbsp;</li>\n</ul>\n\n<p><strong>Empfehlung:</strong></p>\n\n<p>&rArr; F&uuml;r die <strong>RE54/55</strong>:<br />\nNutzen Sie die Busse des Nahverkehrs zwischen&nbsp;Gro&szlig;auheim(Kr Hanau) und&nbsp;Hanau Hbf.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.03.2025 16:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1d9ac2fb-00ad-4e05-bdda-0ecc52dc5f44"
     },
     {
       "id": "6f4411eb-6ef1-45f9-bba6-a469cddd0377",
@@ -514,16 +590,16 @@
         "category": "police_activity",
         "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "S 2 Dachau ↔ Altomünster/Petershausen: Feuerwehreinsatz auf der Strecke",
-      "summary": "Zwischen Dachau und Altomünster/Petershausen kommt es zu Verspätungen von bis zu 30 Minuten.",
-      "text": "<p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
+      "headline": "S 2 Dachau ↔ Altomünster: Feuerwehreinsatz auf der Strecke",
+      "summary": "Zwischen Dachau und Altomünster kommt es zu Verspätungen von bis zu 30 Minuten.",
+      "text": "<p>Wir haben für Sie zusätzlich einen Ersatzverkehr mit Großraumtaxis zwischen Dachau und Altomünster eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"SEV\" Beschilderung.</p><p>Zwischen Danach und Petershausen kommt es zu keinen Beeinträchtigungen mehr.</p><p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
       "durationBegin": "09.03.2025",
       "durationEnd": "09.03.2025",
       "mapHref": "https://karte.bahn.de/detail/45147373-86db-4c59-bddf-2db4779a6f60",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-09/45e12f51-ffb6-4a02-b45f-34adb6e71138reisendenkarte_20250309-143604.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-09/45e12f51-ffb6-4a02-b45f-34adb6e71138reisendenkarte_20250309-143604.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-09/ba271203-4529-43de-a0ab-645a751a0874reisendenkarte_20250309-143604.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-09/ba271203-4529-43de-a0ab-645a751a0874reisendenkarte_20250309-143604.png",
           "info": "",
           "alt": "Reisendenkarte 09.03.2025 14:36:04",
           "openInNewTab": true
@@ -544,153 +620,11 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2025 15:36",
+      "lastModified": "09.03.2025 15:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/781ea7cc-8ecd-4260-af79-62e0a0aa306b"
-    },
-    {
-      "id": "ec4a692c-0a05-43f5-a73c-8e00b7bda46d",
-      "disruptionId": "54917807-92c3-4097-97df-b141778fea9a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation auf der Stammstrecke  am 8. und 9. März 2025 jeweils von 04:00 Uhr bis 16:00 Uhr",
-      "summary": "wegen Bauarbeiten zum neuen elektronischen Stellwerk am Ostbahnhof kommt es zwischen Ostbahnhof und Pasing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Schienenersatzverkehr.",
-      "text": "<p><strong>Hinweise:</strong></p><ul><li>Auf der Stammstrecke fährt nur eine Linie zwischen Ostbahnhof und Pasing. Die Linie S 7 fährt planmäßig.</li><li>Es besteht ein Schienenersatzverkehr zwischen Ostbahnhof und Trudering.</li></ul><p><strong>Die anderen Linien verkehren wie folgt:</strong></p><p><strong>S 1: Leuchtenbergring ↔ Freising/Flughafen</strong></p><ul><li>Züge beginnen/enden am Hauptbahnhof Gl. 27-35 und halten nicht an der Hackerbrücke</li></ul><p><strong>S 2: Erding ↔ Petershausen/Altomünster</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li></ul><p><strong>S 3: Holzkirchen ↔ Mammendorf</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p><strong>S 4: Trudering ↔ Geltendorf</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S 5: Kreuzstraße ↔ Pasing</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus</li></ul><p><strong>S 6/S 8: Ebersberg ↔ Tutzing/ Flughafen ↔ Herrsching</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Schienenersatzverkehr zwischen Trudering und Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li><li>Züge aus Richtung Tutzing fahren zum Flughafen</li><li>Züge aus Richtung Flughafen fahren nach Tutzing</li></ul><p><strong>S 7: Hauptbahnhof ↔ Wolfratshausen\t</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p></p><p>Alle unsere Baustellen finden Sie unter: https://www.s-bahn-muenchen.de/fahren/baustellen</p>",
-      "durationBegin": "02.03.2025",
-      "durationEnd": "09.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/54917807-92c3-4097-97df-b141778fea9a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/1b2e8bab-05e5-4204-87ae-3136416aba1breisendenkarte_20250228-180603.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/1b2e8bab-05e5-4204-87ae-3136416aba1breisendenkarte_20250228-180603.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.02.2025 18:06:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/bb02a10d-1165-4d73-b61e-b5d50c1fc9e4Fahrplan%2BS%2B6%2BTrudering%2B%25E2%2586%2594%2BEbersberg.pdf",
-          "label": "Fahrplan S 6 Trudering ↔ Ebersberg.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/7c638602-3041-4ccd-a786-95bd71f2a000Fahrplan%2BS%2B1.pdf",
-          "label": "Fahrplan S 1.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/c268c5d8-3b52-4871-92a8-82730b9e94a9Fahrplan%2BS6%2526S8.pdf",
-          "label": "Fahrplan S6&S8.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/2ae0b97c-f95e-4089-8103-b8909fbe6a5bFahrplan%2BS%2B2.pdf",
-          "label": "Fahrplan S 2.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/44643c49-5c7c-47a8-966f-b72283557959Fahrplan%2BS%2B3.pdf",
-          "label": "Fahrplan S 3.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/42e13857-83a8-4806-8fd3-6686fff1fd04Linienplan%2BInnenraum%2Binkl.%2BZeitr%25C3%25A4ume%2B1.-9.3.25.pdf",
-          "label": "Linienplan Innenraum inkl. Zeiträume 1.-9.3.25.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/47d7bee2-b0e0-4cad-9e1b-a59b347e41c8Fahrplan%2BSEV%2BOstbahnhof%2B%25E2%2586%2594%2BTrudering%2B.pdf",
-          "label": "Fahrplan SEV Ostbahnhof ↔ Trudering .pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/3149efdd-1fd7-4da6-b3d8-4ae2bd116815Fahrplan%2BS%2B4.pdf",
-          "label": "Fahrplan S 4.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/eca4138d-68e4-4115-81b1-5ba359820965Fahrplan%2BS%2B8%2BPasing%2B%25E2%2586%2594%2BHerrsching.pdf",
-          "label": "Fahrplan S 8 Pasing ↔ Herrsching.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-08/deab1c82-43db-4d79-ad3f-8ce5b384f54fFahrplan%2BS%2B5.pdf",
-          "label": "Fahrplan S 5.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke",
-          "label": "S-Bahn-München/Baustellen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.03.2025 05:43",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ec4a692c-0a05-43f5-a73c-8e00b7bda46d"
     },
     {
       "id": "8398eeb7-f772-4819-98ef-a9fb8233c130",
