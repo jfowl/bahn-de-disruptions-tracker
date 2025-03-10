@@ -52,43 +52,6 @@
       "detailPagePath": "/service/fahrplaene/049739be-8530-4d6a-a258-d10bea81703a"
     },
     {
-      "id": "ad1428eb-afbb-4e7e-ba70-d90bd994b362",
-      "disruptionId": "c4fd638b-b467-449f-9132-f105fe33af91",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Leipzig / Halle (Saale)",
-      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Berlin und Leipzig bzw. Halle (Saale) ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge von Leipzig bzw. Halle (Saale) nach Berlin werden zwischen Bitterfeld und Berlin umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Der Halt Lutherstadt Wittenberg entfällt bei diesen. Ersatzhalt in Bitterfeld.</li><li>ICE-Züge der Gegenrichtung (von Berlin nach Leipzig / Halle (Saale)) verkehren auf ihrem planmäßigen Weg und verspäten sich etwa um 10 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Gäste aus Richtung Leipzig / Halle (Saale) nach Lutherstadt Wittenberg nutzen bitte den Halt Bitterfeld und ab Bitterfeld nach Lutherstadt Wittenberg die Nahverkehrszüge.</li><li>Gäste von Lutherstadt Wittenberg in Richtung Berlin nutzen bitte die Nahverkehrszüge bis Berlin.</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/c4fd638b-b467-449f-9132-f105fe33af91",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "BE",
-        "TH",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.03.2025 10:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ad1428eb-afbb-4e7e-ba70-d90bd994b362"
-    },
-    {
       "id": "13b95143-a3e2-42aa-bfeb-ede75a5fe288",
       "disruptionId": "9170fda6-9cfb-4220-addf-772f46faaea7",
       "author": "REGIO_NORD",
@@ -694,6 +657,40 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8398eeb7-f772-4819-98ef-a9fb8233c130"
+    },
+    {
+      "id": "080907ce-1043-4ce7-9499-751af4052341",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle auf der S1",
+      "summary": "Aufgrund der Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main.<br />\n<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>S1:&nbsp;</strong><em>Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - R&ouml;dermark-Ober Roden</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 10.03.2025</u>&nbsp;zwischen 15:00 Uhr und 20:00 Uhr</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S1</strong><strong>:</strong><br />\n\tDie Z&uuml;ge verkehren im 30-Minuten-Takt.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "10.03.2025",
+      "durationEnd": "10.03.2025",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.03.2025 14:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/080907ce-1043-4ce7-9499-751af4052341"
     },
     {
       "id": "a4ca9ba6-abc4-4d2d-9deb-70e53efae52b",
