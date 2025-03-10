@@ -607,40 +607,6 @@
       "detailPagePath": "/service/fahrplaene/8398eeb7-f772-4819-98ef-a9fb8233c130"
     },
     {
-      "id": "080907ce-1043-4ce7-9499-751af4052341",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle auf der S1",
-      "summary": "Aufgrund der Erkrankung von Stellwerkpersonal kommt es zu Einschr&auml;nkungen bei der S-Bahn Rhein-Main.<br />\n<br />\n&nbsp;",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>S1:&nbsp;</strong><em>Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - R&ouml;dermark-Ober Roden</em></li>\n</ul>\n\n<p><strong>Betroffener Zeitraum:</strong></p>\n\n<p>►&nbsp;<u>Am 10.03.2025</u>&nbsp;zwischen 15:00 Uhr und 20:00 Uhr</p>\n\n<p><strong>Beeintr&auml;chtigungen:</strong></p>\n\n<ul>\n\t<li><strong>S1</strong><strong>:</strong><br />\n\tDie Z&uuml;ge verkehren im 30-Minuten-Takt.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
-      "durationBegin": "10.03.2025",
-      "durationEnd": "10.03.2025",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S-Bahn",
-          "filterName": "",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.03.2025 14:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/080907ce-1043-4ce7-9499-751af4052341"
-    },
-    {
       "id": "a4ca9ba6-abc4-4d2d-9deb-70e53efae52b",
       "disruptionId": "fd12c7b1-76a6-4d92-a333-2f0b77aa7591",
       "author": "S_BAHN_HH",
@@ -756,6 +722,42 @@
       "detailPagePath": "/service/fahrplaene/cbd32a39-a476-451b-90a2-7e150bc27a87"
     },
     {
+      "id": "537c3c6b-6ea0-4e28-829a-1df015f876e6",
+      "disruptionId": "ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 1: Reparatur an der Strecke",
+      "summary": "Aktuell verkehren die Züge der Linie S 1 ab Neufahrn abwechselnd zum Flughafen und nach Freising.",
+      "text": "<p>Somit besteht auf beiden Streckenabschnitten ein 40-Minuten-Takt.</p><p>Fahrgäste zum Flughafen benutzen bitte alternativ die S 8.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p><p>Die ersten S-Bahnen die wieder planmäßig verkehren sind:</p><ul><li>S 1 Abfahrt Flughafen München um 23:55 Uhr</li><li>S 1 Abfahrt München Hbf Gl. 35 um 23:02 Uhr</li></ul><p><strong>Prognose:&nbsp;</strong>Die Reparatur wird jedoch erst heute Nacht, von Montag auf Dienstag (10. auf 11. März), durchgeführt.</p>",
+      "durationBegin": "10.03.2025",
+      "durationEnd": "11.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.03.2025 21:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/537c3c6b-6ea0-4e28-829a-1df015f876e6"
+    },
+    {
       "id": "31a1a531-91ec-4fe9-b3cf-b3c7cc5ebe12",
       "disruptionId": "340529bb-a656-4e5c-b144-b13cd1e53a92",
       "author": "S_BAHN_MUC",
@@ -798,42 +800,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/31a1a531-91ec-4fe9-b3cf-b3c7cc5ebe12"
-    },
-    {
-      "id": "537c3c6b-6ea0-4e28-829a-1df015f876e6",
-      "disruptionId": "ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 1: Reparatur an der Strecke",
-      "summary": "Aktuell verkehren die Züge der Linie S 1 ab Neufahrn abwechselnd zum Flughafen und nach Freising.",
-      "text": "<p>Somit besteht auf beiden Streckenabschnitten ein 40-Minuten-Takt.</p><p>Fahrgäste zum Flughafen benutzen bitte alternativ die S 8.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p><p><strong>Prognose: </strong>Die Reparatur wird heute Nacht, von Montag auf Dienstag (10. auf 11. März), durchgeführt.</p>",
-      "durationBegin": "10.03.2025",
-      "durationEnd": "11.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.03.2025 13:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/537c3c6b-6ea0-4e28-829a-1df015f876e6"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
