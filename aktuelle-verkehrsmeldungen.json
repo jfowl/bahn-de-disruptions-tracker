@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigungen zwischen Hannover und Bielefeld / Osnabrück",
-      "summary": "Aufgrund einer technischen Störung an der Strecke bei Löhne (Westf) zwischen Hannover und Bielefeld bzw. Osnabrück kommt es derzeit zu massiven Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Hannover - Hamm(W) Umleitung und Verspätung von etwa 75 Min. (Halte Minden (W), Herford (W) &amp; Gütersloh entfallen)</li><li>IC Züge Berlin - Hannover - Rheine (W) - Amsterdam entfallen zwischen Bad Bentheim und Berlin</li><li>IC Züge Köln - Hannover - Leipzig entfallen zwischen Köln und Leipzig</li></ul><p>Reisealternative von Berlin/Hannover - Amsterdam via Köln.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigung zwischen Hannover und Bielefeld bzw. Osnabrück",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Löhne ist der Fernverkehr der Deutschen Bahn sowohl zwischen Hannover und Bielefeld, als auch Hannover und Osnabrück beeinträchtigt. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Berlin - Hannover - NRW werden zwischen Hannover und Hamm (Westf) in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 75 Minuten. Die Halte Minden (Westf), Herford, Bielefeld Hbf und Gütersloh Hbf entfallen. Zusätzlich entfällt bei den Zügen, die in Hamm (Westf) planmäßig getrennt bzw. vereinigt werden, dieses. Die Züge verkehren vereinigt auf dem Abschnitt zwischen Hamm (Westf) und Düsseldorf. Es entfallen die Halte Hagen Hbf, Wuppertal Hbf und Köln Hbf.</li><li>IC-Züge Dresden/Leipzig - Hannover - Köln fallen in beiden Fahrtrichtungen zwischen Hannover und Köln aus. Einzelne Züge auch zwischen Leipzig und Köln.</li><li>IC-Züge Berlin - Hannover - Osnabrück - Amsterdam fallen in beiden Fahrtrichtungen im deutschen Abschnitt zwischen Berlin und Bad Bentheim aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Gäste zwischen Berlin/Hannover und Amsterdam nutzen bitte Verbindungen über Düsseldorf. Gäste zwischen Köln und Hamm (Westf) nutzen bitte die verbliebenen Fernverkehrszüge und die Nahverkehrszüge. Gäste von/nach Minden (Westf) nutzen bitte Verbindungen über Hannover, Gäste von/nach Herford, Bielefeld und Gütersloh nutzen bitte Verbindungen über Hamm (Westf).</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "11.03.2025",
       "mapHref": "https://karte.bahn.de/detail/a17284fd-659f-4aa5-9d86-90bdfcde711d",
       "images": [],
@@ -21,9 +21,11 @@
         "LONG_DISTANCE"
       ],
       "states": [
+        "BB",
         "ST",
         "BE",
         "NW",
+        "SN",
         "NI"
       ],
       "lines": [
@@ -33,7 +35,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.03.2025 05:51",
+      "lastModified": "11.03.2025 06:45",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1daefa19-c1d8-4ffa-aa46-e8cbc8520393"
@@ -798,15 +800,15 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "S 2 Altenerding ↔ Ottenhofen: Reparatur an einem Bahnübergang",
-      "summary": "Zwischen Altenerding und Ottenhofen kann es weiterhin sporadisch zu Verspätungen von bis zu 10 Minuten kommen.\n\nZugausfälle und vorzeitige Zugwenden sind kurzfristig möglich.",
-      "text": "<p>Grund hierfür ist eine Reparatur an einem Bahnübergang.</p><p>Prognose: Die Reparatur wird morgen Vormittag, 11. März, durchgeführt.</p>",
+      "summary": "Zwischen Altenerding und Ottenhofen kann es weiterhin sporadisch zu Verspätungen von bis zu 10 Minuten kommen. Zugausfälle und vorzeitige Zugwenden sind kurzfristig möglich.",
+      "text": "<p>Grund hierfür ist eine Reparatur an einem Bahnübergang.</p><p>Prognose: Die Reparatur wird heute Vormittag, 11. März, durchgeführt.</p>",
       "durationBegin": "10.03.2025",
       "durationEnd": "11.03.2025",
       "mapHref": "https://karte.bahn.de/detail/340529bb-a656-4e5c-b144-b13cd1e53a92",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-10/d540d43d-00e3-4fea-a526-f762a61de555reisendenkarte_20250310-070455.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-10/d540d43d-00e3-4fea-a526-f762a61de555reisendenkarte_20250310-070455.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-11/052ef680-4717-4716-aead-be68c91c2e76reisendenkarte_20250310-070455.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-11/052ef680-4717-4716-aead-be68c91c2e76reisendenkarte_20250310-070455.png",
           "info": "",
           "alt": "Reisendenkarte 10.03.2025 07:04:55",
           "openInNewTab": true
@@ -827,7 +829,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.03.2025 17:06",
+      "lastModified": "11.03.2025 06:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
