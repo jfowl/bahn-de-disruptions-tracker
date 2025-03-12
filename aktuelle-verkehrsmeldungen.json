@@ -17,8 +17,8 @@
       "mapHref": "https://karte.bahn.de/detail/052e9ce6-ea1f-47d3-81ef-90496d614602",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-12/658f11b8-e1bf-4e34-ad3e-3a7b4eb666b1reisendenkarte_20250311-002558.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-12/658f11b8-e1bf-4e34-ad3e-3a7b4eb666b1reisendenkarte_20250311-002558.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-12/ecad2564-87f6-49c2-af1d-3731d7cc46bcreisendenkarte_20250311-002558.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-12/ecad2564-87f6-49c2-af1d-3731d7cc46bcreisendenkarte_20250311-002558.png",
           "info": "",
           "alt": "Reisendenkarte 11.03.2025 00:25:58",
           "openInNewTab": true
@@ -27,32 +27,32 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
           "label": "Regionaler Kundendialog Niedersachsen und Bremen",
           "info": "",
           "openInNewTab": true
         },
         {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "bahn.de/fahrgastrechte  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://twitter.com/dbregio_NDS ",
           "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator  ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -76,7 +76,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.03.2025 07:42",
+      "lastModified": "12.03.2025 09:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -698,19 +698,19 @@
       "detailPagePath": "/service/fahrplaene/a4ca9ba6-abc4-4d2d-9deb-70e53efae52b"
     },
     {
-      "id": "f37912f0-596d-4c54-bf5c-271f33668d09",
-      "disruptionId": "a3714110-c78b-4d64-bda5-6f7e5e237cc7",
+      "id": "02059dc3-b5b4-476c-b51f-854957cf7628",
+      "disruptionId": "ad21d273-ee51-44bd-81f9-d8a4f15578f0",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "S 2 Markt Schwaben: Verspätung eines vorausfahrenden Zuges",
-      "summary": "Im Bereich Markt Schwaben kommt es in Richtung München zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist die Verspätung eines vorausfahrenden Zuges.</p>",
+      "headline": "Endmeldung: S 7, S 20 Mittersendling",
+      "summary": "Die Züge können wieder im Bereich Mittersendling fahren.",
+      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Folgeverspätungen von bis zu 20 Minuten und Teilausfällen.&nbsp;</p><p>Der Polizeieinsatz&nbsp;wurde&nbsp;beendet.</p>",
       "durationBegin": "12.03.2025",
       "durationEnd": "12.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/a3714110-c78b-4d64-bda5-6f7e5e237cc7",
+      "mapHref": "https://karte.bahn.de/detail/ad21d273-ee51-44bd-81f9-d8a4f15578f0",
       "images": [],
       "downloads": [],
       "links": [],
@@ -722,16 +722,21 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.03.2025 08:18",
+      "lastModified": "12.03.2025 09:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f37912f0-596d-4c54-bf5c-271f33668d09"
+      "detailPagePath": "/service/fahrplaene/02059dc3-b5b4-476c-b51f-854957cf7628"
     },
     {
       "id": "8a051a4e-9fcd-490e-8717-77aebeccaff6",
@@ -763,11 +768,47 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.03.2025 08:14",
+      "lastModified": "12.03.2025 09:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8a051a4e-9fcd-490e-8717-77aebeccaff6"
+    },
+    {
+      "id": "f37912f0-596d-4c54-bf5c-271f33668d09",
+      "disruptionId": "a3714110-c78b-4d64-bda5-6f7e5e237cc7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verspätung eines vorausfahrenden Zuges"
+      },
+      "headline": "S 2 Markt Schwaben: Verspätung eines vorausfahrenden Zuges",
+      "summary": "Im Bereich Markt Schwaben kommt es in Richtung München zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist die Verspätung eines vorausfahrenden Zuges.</p>",
+      "durationBegin": "12.03.2025",
+      "durationEnd": "12.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/a3714110-c78b-4d64-bda5-6f7e5e237cc7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.03.2025 09:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f37912f0-596d-4c54-bf5c-271f33668d09"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
