@@ -847,28 +847,20 @@
       "detailPagePath": "/service/fahrplaene/77fa4c2d-d160-4c5d-8b73-fcd526cbd8cf"
     },
     {
-      "id": "565ae5ca-740f-4cde-9028-58bfeb577e0f",
-      "disruptionId": "0c652c28-b34b-4d8a-b038-46fdd4234c36",
+      "id": "1a7aca7d-9884-4123-8814-2bde254032f0",
+      "disruptionId": "6a4b0d02-e481-426f-a5a1-4fedc2a6639f",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "S 6 Possenhofen ↔ Tutzing: Technischer Defekt am Bahnhof",
-      "summary": "Zwischen Possenhofen und Tutzing kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür ist eine Reparatur an einem Bahnübergang.</p>",
+      "headline": "Stammstrecke: Feuerwehreinsatz am Rosenheimer Platz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Rosenheimer Platz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Isartor oder Ostbahnhof.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Rosenheimer Platz.</p>",
       "durationBegin": "12.03.2025",
       "durationEnd": "12.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/0c652c28-b34b-4d8a-b038-46fdd4234c36",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-12/cc56c3de-b242-4a1d-bea9-b4852d9fd187reisendenkarte_20250312-122109.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-12/cc56c3de-b242-4a1d-bea9-b4852d9fd187reisendenkarte_20250312-122109.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.03.2025 12:21:09",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/6a4b0d02-e481-426f-a5a1-4fedc2a6639f",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -879,16 +871,46 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "12.03.2025 12:22",
+      "lastModified": "12.03.2025 13:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/565ae5ca-740f-4cde-9028-58bfeb577e0f"
+      "detailPagePath": "/service/fahrplaene/1a7aca7d-9884-4123-8814-2bde254032f0"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
