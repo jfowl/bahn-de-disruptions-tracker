@@ -42,42 +42,6 @@
       "detailPagePath": "/service/fahrplaene/3cd6997b-546b-4516-a339-cc0ad6e6ea28"
     },
     {
-      "id": "1bd1d96c-d55c-454a-a704-757429c6e81d",
-      "disruptionId": "eb9a0c1a-7c0b-4fd7-9de2-b7272dab6f99",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Münster und Dortmund",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Münster und Dortmund kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC- und ICE-Züge zwischen Dortmund und Hamburg</li><li>IC-Züge zwischen Dortmund und Hannover</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "13.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/eb9a0c1a-7c0b-4fd7-9de2-b7272dab6f99",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.03.2025 13:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1bd1d96c-d55c-454a-a704-757429c6e81d"
-    },
-    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -252,6 +216,50 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
+    },
+    {
+      "id": "5547f6b5-60b1-4abb-a58e-ff533ebc0e19",
+      "disruptionId": "748dc0b3-5a69-4350-9a67-e62df968148c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1 Neufahrn - Freising: Reparatur an einer Weiche",
+      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 20 bis 25 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Neufahrn.</p>",
+      "durationBegin": "13.03.2025",
+      "durationEnd": "13.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/748dc0b3-5a69-4350-9a67-e62df968148c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-13/0cd87c20-bf0e-491c-aa18-4101035d14ffreisendenkarte_20250313-205421.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-13/0cd87c20-bf0e-491c-aa18-4101035d14ffreisendenkarte_20250313-205421.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.03.2025 20:54:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.03.2025 21:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5547f6b5-60b1-4abb-a58e-ff533ebc0e19"
     },
     {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
