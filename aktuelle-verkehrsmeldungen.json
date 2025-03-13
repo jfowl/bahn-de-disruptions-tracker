@@ -42,6 +42,42 @@
       "detailPagePath": "/service/fahrplaene/3cd6997b-546b-4516-a339-cc0ad6e6ea28"
     },
     {
+      "id": "1bd1d96c-d55c-454a-a704-757429c6e81d",
+      "disruptionId": "eb9a0c1a-7c0b-4fd7-9de2-b7272dab6f99",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Münster und Dortmund",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Münster und Dortmund kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC- und ICE-Züge zwischen Dortmund und Hamburg</li><li>IC-Züge zwischen Dortmund und Hannover</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/eb9a0c1a-7c0b-4fd7-9de2-b7272dab6f99",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.03.2025 13:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1bd1d96c-d55c-454a-a704-757429c6e81d"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -216,46 +252,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
-    },
-    {
-      "id": "3839febd-8796-4bc3-83d2-eb5310ec8ea9",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Sonstiges"
-      },
-      "headline": "Sonderverkehr Spiel der Frankfurter Eintracht am 13.03.2025",
-      "summary": "Aufgrund des Streiks der VGF verkehren heute zwischen 21 Uhr und 23 Uhr zus&auml;ztliche Z&uuml;ge von Frankfurt(Main) Hbf nach Frankfurt am Main - Stadion.&nbsp;<br />\n<br />\n&nbsp;",
-      "text": "<p>Aufgrund des Streiks der VGF verkehren heute zwischen 21 Uhr und 23 Uhr zus&auml;ztliche Z&uuml;ge von Frankfurt(Main) Hbf nach Frankfurt am Main - Stadion.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
-      "durationBegin": "13.03.2025",
-      "durationEnd": "13.03.2025",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S-Bahn",
-          "filterName": "",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.03.2025 12:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3839febd-8796-4bc3-83d2-eb5310ec8ea9"
     },
     {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
@@ -761,6 +757,95 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/77fa4c2d-d160-4c5d-8b73-fcd526cbd8cf"
+    },
+    {
+      "id": "3839febd-8796-4bc3-83d2-eb5310ec8ea9",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Sonstiges"
+      },
+      "headline": "Zusätzliche Regionalzüge nach dem Spiel der Frankfurter Eintracht am 13.03.2025",
+      "summary": "<br />\n&nbsp;",
+      "text": "<p>Aufgrund des Streiks bei der VGF verkehren heute zwischen 21 Uhr und 23 Uhr zus&auml;ztliche Z&uuml;ge von Frankfurt am Main - Stadion ohne Zwischenhalt nach Frankfurt(Main) Hbf.</p>\n\n<p>&nbsp;</p>\n\n<p>Genaue Abfahrtszeiten befinden sich noch in der Abstimmung. Diese werden hier und in der Reiseauskunft erg&auml;nzt, sobald uns diese vorliegen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der DB Navigator-App.<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n<strong>+49 69 244 457 10</strong>.</p>\n",
+      "durationBegin": "13.03.2025",
+      "durationEnd": "13.03.2025",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S-Bahn",
+          "filterName": "",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.03.2025 12:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3839febd-8796-4bc3-83d2-eb5310ec8ea9"
+    },
+    {
+      "id": "640f8231-8b2c-4db8-8de9-76609febcffb",
+      "disruptionId": "79eb271c-1995-4f0e-a3fb-29494d8ef34a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 4, S 6 Zorneding ↔ Haar",
+      "summary": "Zwischen Zorneding und Haar kommt es noch zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Polizeieinsatz wurde beendet.</p>",
+      "durationBegin": "13.03.2025",
+      "durationEnd": "13.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/79eb271c-1995-4f0e-a3fb-29494d8ef34a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-13/e2eb6e70-4622-4957-9afd-21f895d83908reisendenkarte_20250313-130748.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-13/e2eb6e70-4622-4957-9afd-21f895d83908reisendenkarte_20250313-130748.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.03.2025 13:07:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.03.2025 13:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/640f8231-8b2c-4db8-8de9-76609febcffb"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
