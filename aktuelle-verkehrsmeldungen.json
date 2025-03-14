@@ -10,8 +10,8 @@
         "label": "Streik"
       },
       "headline": "Streikankündigung in Belgien",
-      "summary": "Für Belgien wurden für den 16.03. und 17.03.2025 Streikmaßnahmen angekündigt. Dadurch kann es im Fernverkehr der Deutschen Bahn zu Einschränkungen kommen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Frankfurt(M) - Brüssel</li><li>NJ- Züge 424 Berlin - Brüssel und NJ 425 Berlin - Brüssel</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Für Belgien wurden für den 16. und 17.03.2025 Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr zwischen Deutschland und Belgien zu Einschränkungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>in der Nacht 16./17.03.2025<ul><li>NJ- Züge 424 (Berlin - Bruxelles) fällt zwischen Köln und Bruxelles aus</li></ul></li></ul><p></p><ul><li>in der Nacht 17./18.03.2025<ul><li>NJ- Züge 425 (Bruxelles - Berlin) fällt zwischen Bruxelles und Köln aus</li></ul></li></ul><p></p><p>Nach aktuellen Informationen sind die ICE-Züge der Relation Frankfurt(M) - Köln - Bruxelles nicht von den Streikmaßnahmen betroffen.</p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "16.03.2025",
       "durationEnd": "17.03.2025",
       "mapHref": "https://karte.bahn.de/detail/10887ce6-0230-4d10-badd-04d402fab6df",
@@ -35,11 +35,47 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "12.03.2025 09:57",
+      "lastModified": "14.03.2025 12:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/3cd6997b-546b-4516-a339-cc0ad6e6ea28"
+    },
+    {
+      "id": "16649513-c153-4766-9e26-fc854e10c515",
+      "disruptionId": "f1e252ef-b37b-4143-9db0-ab25db8da948",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hamburg und Hannover",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Uelzen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Dadurch kommt es zu Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge von Hannover in Fahrtrichtung Hamburg werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.</li><li>ICE-Züge der Gegenrichtung (von Hamburg nach Hannover), bzw. mit planmäßigen Zwischenhalten, verkehren auf ihren planmäßigen Weg. Bei diesen kann es zu geringfügigen Verspätungen kommen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Abendstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/f1e252ef-b37b-4143-9db0-ab25db8da948",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.03.2025 12:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/16649513-c153-4766-9e26-fc854e10c515"
     },
     {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
@@ -279,16 +315,23 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an der Strecke",
-      "summary": "Die Stammstrecke ist zwischen Pasing und Ostbahnhof gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen und Teilausfällen. Der Grund dafür ist eine Reparatur an der Strecke am Isartor.",
-      "text": "<p>Die S-Bahnen fahren wie folgt:&nbsp;</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p>&nbsp;<strong>Alternativen: </strong>&nbsp;</p><ul><li><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong>&nbsp;</li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong>&nbsp;</li><li>Moosach ↔ Pasing: <strong>Bus 162</strong>&nbsp;</li><li>Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: <strong>U5</strong>; Ostbahnhof ↔ Flughafen: <strong>S8</strong>&nbsp;</li></ul></li></ul><p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 verkehrt nur <strong>Petershausen/Altomünster</strong> ↔ <strong>Heimeranplatz Gleis 11</strong>.</li><li>Die S2 verkehrt nur <strong>Erding </strong>↔ <strong>Ostbahnhof.</strong></li></ul><p>&nbsp;<strong>Alternativen: </strong>&nbsp;</p><ul><li><ul><li>Ostbahnhof/Karlsplatz/Hauptbahnhof ↔ Heimeranplatz: <strong>U5</strong>&nbsp;</li><li>Hauptbahnhof Gleis 36 ↔ Heimeranplatz<strong>: S 7</strong>&nbsp;</li></ul></li></ul><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Pasing</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S4 Geltendorf ↔ Trudering</strong></p><ul><li>Die S4 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Pasing.</strong></li></ul><p><strong>S5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 verkehrt nur <strong>Tutzing</strong> ↔ <strong>Pasing</strong>.</li><li>Die S6 verkehrt nur <strong>Ebersberg </strong>↔ <strong>Ostbahnhof Gleis 1-5</strong>.</li></ul><p><strong>Alternativen:</strong>&nbsp;</p><ul><li><ul><li>Berg am Laim ↔ Leuchtenbergring ↔ Ostbahnhof: <strong>S2</strong></li></ul></li></ul><p><strong>S7 Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></p><ul><li>Die S7 verkehrt auf dem Regelweg <strong>Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong> Pasing</strong> ↔<strong> Ostbahnhof Gleis 7-13 (Fernbahn)</strong> umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.</li></ul><p>&nbsp;<strong>Alternative:</strong>&nbsp;</p><ul><li><ul><li>Leuchtenbergring ↔ Ostbahnhof: <strong>S2, S6</strong></li></ul></li></ul><p></p><p><strong>Alternativen zwischen Pasing und Ostbahnhof für beide Richtungen:</strong>&nbsp;</p><ul><li><ul><li><strong>Tram 16 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor&nbsp;</li><li><strong>Tram 17 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 18 mit Halten</strong>: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Giesing&nbsp;</li><li><strong>Tram 19 mit Halten</strong>: Pasing ↔ Laim(Fürstenrieder Straße) ↔ Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Leuchtenbergring(Einsteinstraße) ↔ Berg am Laim&nbsp;</li><li><strong>Tram 20 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Ostbahnhof ↔ Leuchtenbergring(Ampfingstraße)&nbsp;</li><li><strong>U5 mit Halten</strong>: Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof ↔ Heimeranplatz ↔ Laimer Platz; <strong>Bus 57:</strong> Laimer Platz ↔ Pasing&nbsp;</li><li><strong>Bus 130/157 mit Halten</strong>: Pasing ↔ Laim ↔ Heimeranplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Ostbahnhof ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li></ul></li></ul><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</p><p>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</p><p>DB-Fahrscheine werden für die Dauer der Störung auch in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.&nbsp;</p>",
+      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an der Strecke beendet",
+      "summary": "Die Stammstrecke ist nicht mehr gesperrt. Bitte rechnen Sie mit Folgeverspätungen und Teilausfällen. Der Grund dafür war eine Reparatur an der Strecke am Isartor.",
+      "text": "<p>Bis auf weiteres bleiben Folgende Änderungen:</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p>&nbsp;<strong>Alternativen: </strong>&nbsp;</p><ul><li><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong>&nbsp;</li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong>&nbsp;</li><li>Moosach ↔ Pasing: <strong>Bus 162</strong>&nbsp;</li><li>Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: <strong>U5</strong>; Ostbahnhof ↔ Flughafen: <strong>S8</strong>&nbsp;</li></ul></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong> Pasing</strong> ↔<strong> Ostbahnhof Gleis 7-13 (Fernbahn)</strong> umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.</li></ul><p>&nbsp;<strong>Alternative:</strong>&nbsp;</p><ul><li><ul><li>Leuchtenbergring ↔ Ostbahnhof: <strong>S2, S6</strong></li></ul></li></ul><p></p>",
       "durationBegin": "14.03.2025",
       "durationEnd": "14.03.2025",
       "mapHref": "https://karte.bahn.de/detail/6f75a3fd-1e00-4120-9d85-1cedbccaabf8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/a33a72db-134f-4ac7-8986-dcdc541bb021reisendenkarte_20250314-120758.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/a33a72db-134f-4ac7-8986-dcdc541bb021reisendenkarte_20250314-120758.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/5649e76b-016f-4f1b-879c-6d3c3d4d9b37reisendenkarte_20250314-124311.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/5649e76b-016f-4f1b-879c-6d3c3d4d9b37reisendenkarte_20250314-124311.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.03.2025 12:43:11",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/93e8d39d-bd6c-45d4-94dc-e1ea41f0b8e9reisendenkarte_20250314-120758.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/93e8d39d-bd6c-45d4-94dc-e1ea41f0b8e9reisendenkarte_20250314-120758.png",
           "info": "",
           "alt": "Reisendenkarte 14.03.2025 12:07:58",
           "openInNewTab": true
@@ -339,7 +382,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.03.2025 12:11",
+      "lastModified": "14.03.2025 12:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
