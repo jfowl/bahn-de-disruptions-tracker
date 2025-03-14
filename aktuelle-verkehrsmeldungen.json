@@ -225,25 +225,25 @@
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
     },
     {
-      "id": "b0e4fbc5-70a9-4f85-aee6-92d57d207169",
-      "disruptionId": "c33afc8b-6319-4b60-8cbd-1d3a8fce4256",
+      "id": "aedfcde1-1f28-4aaa-b8cb-29b401b85b4e",
+      "disruptionId": "5f3f1d17-0585-4ac5-8764-033339e9ade2",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
       },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Auf der Stammstrecke in Richtung Pasing kommt es zu Folgeverspätungen von 5 bis 10 Minuten. ",
-      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kann es auch weiterhin zu Teilausfällen kommen.</p><p>Die ärztliche Versorgung eines Fahrgastes an der Hackerbrücke ist abgeschlossen.</p>",
+      "headline": "S3 / S5 Giesing: Technischer Defekt an einem Zug ",
+      "summary": "Derzeit kommt es auf den Linien S3 und S5 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;                       ist ein technischer Defekt an einer S-Bahn       in Giesing.</p>",
       "durationBegin": "14.03.2025",
       "durationEnd": "14.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/c33afc8b-6319-4b60-8cbd-1d3a8fce4256",
+      "mapHref": "https://karte.bahn.de/detail/5f3f1d17-0585-4ac5-8764-033339e9ade2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/2b87defb-95c6-47df-a716-9b071537c586reisendenkarte_20250314-170014.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/2b87defb-95c6-47df-a716-9b071537c586reisendenkarte_20250314-170014.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/d8c51228-1546-4b28-a5e8-85f3c2a5570areisendenkarte_20250314-181531.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/d8c51228-1546-4b28-a5e8-85f3c2a5570areisendenkarte_20250314-181531.png",
           "info": "",
-          "alt": "Reisendenkarte 14.03.2025 17:00:14",
+          "alt": "Reisendenkarte 14.03.2025 18:15:31",
           "openInNewTab": true
         }
       ],
@@ -257,46 +257,65 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 3",
           "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
           "property": "SBAHN"
         },
         {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
-        },
+        }
+      ],
+      "lastModified": "14.03.2025 18:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aedfcde1-1f28-4aaa-b8cb-29b401b85b4e"
+    },
+    {
+      "id": "58d31506-b0cc-4b2b-8f78-488e39a950f7",
+      "disruptionId": "a8b06314-30a4-4e75-a1f5-58f9a5987c9e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S8 Daglfing: Technischer Defekt an einem Bahnübergang",
+      "summary": "Derzeit kommt es auf der Linie S8 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                       ist ein technischer Defekt an einem Bahnübergang       in Daglfing.</p>",
+      "durationBegin": "14.03.2025",
+      "durationEnd": "14.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/a8b06314-30a4-4e75-a1f5-58f9a5987c9e",
+      "images": [
         {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/667e8fbb-f3a8-4939-a97d-6125c07c9dc9reisendenkarte_20250314-180623.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/667e8fbb-f3a8-4939-a97d-6125c07c9dc9reisendenkarte_20250314-180623.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.03.2025 18:06:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
         {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.03.2025 17:37",
+      "lastModified": "14.03.2025 18:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b0e4fbc5-70a9-4f85-aee6-92d57d207169"
+      "detailPagePath": "/service/fahrplaene/58d31506-b0cc-4b2b-8f78-488e39a950f7"
     },
     {
       "id": "235aa510-c986-4e36-811f-c453de1e8098",
@@ -307,15 +326,15 @@
         "label": "Unbefugte Personen auf der Strecke"
       },
       "headline": "S3 Olching - Gröbenzell: Unbefugte Person auf der Strecke",
-      "summary": "Die S-Bahnen fahren zwischen Olching und Gröbenzell bis auf weiteres mit verminderter Geschwindigkeit. ",
-      "text": "<p>Deswegen kommt es zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. </p><p>Grund für diese Beeinträchtigungen&nbsp;                       sind unbefugte Personen auf der Strecke       zwischen Olching und Gröbenzell.</p>",
+      "summary": "Die S-Bahnen fahren zwischen Olching und Gröbenzell wieder mit regulärer Geschwindigkeit. ",
+      "text": "<p>Es kommt zu Folgeverspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p>Die unbefugte Person auf der Strecke zwischen Olching und Gröbenzell hat den Gleisbereich verlassen.</p>",
       "durationBegin": "14.03.2025",
       "durationEnd": "14.03.2025",
       "mapHref": "https://karte.bahn.de/detail/0a1e680b-106f-4de0-a6f0-3bcd4e538bcb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/1b4a20af-53e1-4243-b279-5643a25de291reisendenkarte_20250314-174044.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/1b4a20af-53e1-4243-b279-5643a25de291reisendenkarte_20250314-174044.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/7c4416af-6f95-4a8c-bcf0-25063c6b33d9reisendenkarte_20250314-174044.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-14/7c4416af-6f95-4a8c-bcf0-25063c6b33d9reisendenkarte_20250314-174044.png",
           "info": "",
           "alt": "Reisendenkarte 14.03.2025 17:40:44",
           "openInNewTab": true
@@ -336,7 +355,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.03.2025 17:43",
+      "lastModified": "14.03.2025 17:59",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
