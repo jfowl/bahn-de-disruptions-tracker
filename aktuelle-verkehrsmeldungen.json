@@ -708,40 +708,78 @@
       "detailPagePath": "/service/fahrplaene/77fa4c2d-d160-4c5d-8b73-fcd526cbd8cf"
     },
     {
-      "id": "734cdb00-3984-403a-a23e-6098e35ec858",
-      "disruptionId": "3202839a-b68d-42e4-ac16-a124769e9ca9",
-      "author": "S_BAHN_HH",
+      "id": "ccb9bfd5-e47b-484b-9e5c-ad0949e3cb2f",
+      "disruptionId": "151095c6-894c-497b-a4e3-b8038a6f2434",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
       },
-      "headline": "Aktuell keine Züge zwischen  Buxtehude und Horneburg",
-      "summary": "Aktuell fahren zwischen Buxtehude und Horneburg keine S-Bahnen oder Regionalzüge. Ein Ersatzverkehr mit Bussen und Taxis befindet sich im Aufbau. Für weitere Infos bitte diese Meldung aufklappen >>>",
-      "text": "<p>Zur Zeit fahren die Züge zwischen Hamburg und Stade wie folgt:</p><p><strong>Linie S5: </strong>Zwischen Elbgaustraße &lt;-&gt; Buxtehude und zwischen Horneburg &lt;-&gt; Stade</p><p><strong>Linie RE5:</strong> (bitte hier die Informationen von START Unterelbe beachten)</p><p><strong>Zwischen Buxtehude und Horneburg fahren Busse und Taxis als Ersatz.</strong></p><p>Grund: Personenunfall</p>",
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Karlsplatz: Kurzzeitig Gegenstände auf der Strecke",
+      "summary": "Im Bereich Karlsplatz kommt es zu Verspätungen von bis zu 20 Minuten, Umleitungen und Teilausfällen..",
+      "text": "<p>Der Grund hierfür waren Gegenstände auf der Strecke, die geborgen werden mussten.</p>",
       "durationBegin": "18.03.2025",
       "durationEnd": "18.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/3202839a-b68d-42e4-ac16-a124769e9ca9",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/151095c6-894c-497b-a4e3-b8038a6f2434",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-18/3ac8218e-6198-43d2-8498-67f81db75c72reisendenkarte_20250318-120132.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-18/3ac8218e-6198-43d2-8498-67f81db75c72reisendenkarte_20250318-120132.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.03.2025 12:01:32",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.03.2025 10:41",
+      "lastModified": "18.03.2025 12:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/734cdb00-3984-403a-a23e-6098e35ec858"
+      "detailPagePath": "/service/fahrplaene/ccb9bfd5-e47b-484b-9e5c-ad0949e3cb2f"
     },
     {
       "id": "f7cd2193-7665-466d-8311-8b198ab2844e",
