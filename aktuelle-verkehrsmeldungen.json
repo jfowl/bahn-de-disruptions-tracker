@@ -13,7 +13,7 @@
       "summary": "Aufgrund eines Personalausfalles im Stellwerk Lünen kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden zwischen Münster (Westfalen) und Dortmund umgeleitet in der Zeit zwischen 18:00 Uhr bis 08:00 Uhr. Es kommt zu einer Zusatzverspätung von etwa 10 Minuten. Haltausfälle entstehen nicht.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC-Züge zwischen Münster und Dortmund.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.03.2025",
-      "durationEnd": "18.03.2025",
+      "durationEnd": "23.03.2025",
       "mapHref": "https://karte.bahn.de/detail/562d948e-f36f-47b0-9a4a-0fc64071058a",
       "images": [],
       "downloads": [],
@@ -35,7 +35,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.03.2025 07:10",
+      "lastModified": "19.03.2025 08:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -468,40 +468,48 @@
       "detailPagePath": "/service/fahrplaene/e4ef1439-6a0e-4a39-9d31-0ecefba057d7"
     },
     {
-      "id": "2242cc38-ae51-4afc-9154-0fd776131bf3",
-      "disruptionId": "e4968a1c-fd9f-4eca-8b53-3789630bae00",
-      "author": "S_BAHN_HH",
+      "id": "b62aa80d-ba10-4810-93d4-8d552d32dbdf",
+      "disruptionId": "033c529f-b560-49aa-8aca-6fb707901498",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Polizeieinsatz zwischen Bergedorf und Aumühle",
-      "summary": "Aktuell keine S-Bahnen zwischen Bergedorf und Aumühle. Grund: Polizeieinsatz",
-      "text": "<p>...</p>",
+      "headline": "S 2 Dachau Bahnhof: Unbefugte Person im Gleisbereich",
+      "summary": "Im Bereich Dachau Bahnhof kommt es zu Verspätungen von bis zu 10 Minuten. Die Verfügbarkeit der Gleise ist eingeschränkt. Bitte achten Sie auf kurzfristige Gleisänderungen vor Ort..",
+      "text": "<p>Grund ist eine unbefugte Person im Gleisbereich</p>",
       "durationBegin": "21.03.2025",
       "durationEnd": "21.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/e4968a1c-fd9f-4eca-8b53-3789630bae00",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/033c529f-b560-49aa-8aca-6fb707901498",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-21/c28356da-5821-4a27-8830-8ab5a25eddb3reisendenkarte_20250321-201514.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-21/c28356da-5821-4a27-8830-8ab5a25eddb3reisendenkarte_20250321-201514.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.03.2025 20:15:14",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
           "name": "S 2",
-          "filterName": "S 2 Hamburg",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.03.2025 19:21",
-      "expand": false,
+      "lastModified": "21.03.2025 20:19",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2242cc38-ae51-4afc-9154-0fd776131bf3"
+      "detailPagePath": "/service/fahrplaene/b62aa80d-ba10-4810-93d4-8d552d32dbdf"
     },
     {
       "id": "48135bc0-0f6d-46ea-87c4-50ba5dfb60a7",
