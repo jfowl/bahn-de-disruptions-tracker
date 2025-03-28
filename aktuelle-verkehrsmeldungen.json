@@ -48,6 +48,42 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
     },
     {
+      "id": "a94518ac-fa64-41a6-8bee-7067377307c7",
+      "disruptionId": "3baffb90-42af-4b39-a74d-4546cb6986e1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigung zwischen Siegen und Frankfurt (Main)",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Dillenburg kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Dortmund/Münster – Siegen – Frankfurt (M) fallen zwischen Siegen und Frankfurt (M) aus.</li></ul><p><strong>Betroffene Zeiträume:</strong></p><p><strong>Freitag, 28.03. von 13 Uhr bis 20 Uhr</strong></p><p><strong>Samstag, 29.03. von 13 Uhr bis 20 Uhr</strong></p><p><strong>von Sonntag, 30.03., 18 Uhr bis Montag, 31.03., 6 Uhr</strong></p><p><strong>von Montag, 31.03., 20 Uhr bis Dienstag, 01.04., 6 Uhr</strong></p><p></p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/3baffb90-42af-4b39-a74d-4546cb6986e1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.03.2025 12:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a94518ac-fa64-41a6-8bee-7067377307c7",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_other_cause"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -217,6 +253,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "196735d4-a666-439d-a729-2469e0a7a598",
+      "disruptionId": "2afa752d-f1cd-45b3-b975-6874ce0e4b6c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S4 Puchheim: Reparatur an einem Signal",
+      "summary": "Die S-Bahnen fahren im Bereich Puchheim bis auf weiteres mit verminderter Geschwindigkeit. ",
+      "text": "<p>Deswegen kommt es zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                       ist die Reparatur an einem Signal       in Puchheim.</p>",
+      "durationBegin": "28.03.2025",
+      "durationEnd": "28.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/2afa752d-f1cd-45b3-b975-6874ce0e4b6c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/646ff59b-c07d-485b-87cf-9d41ead8c308reisendenkarte_20250328-120543.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/646ff59b-c07d-485b-87cf-9d41ead8c308reisendenkarte_20250328-120543.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.03.2025 12:05:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.03.2025 12:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/196735d4-a666-439d-a729-2469e0a7a598",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "48135bc0-0f6d-46ea-87c4-50ba5dfb60a7",
