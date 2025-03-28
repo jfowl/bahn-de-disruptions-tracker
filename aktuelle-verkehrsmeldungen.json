@@ -255,49 +255,98 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "2743811d-f514-4b44-915e-a42da5e49ae2",
-      "disruptionId": "dbc42b4c-cab9-42f2-ac75-a4ae2abcbd08",
-      "author": "S_BAHN_MUC",
+      "id": "c855967b-5ba7-4247-b493-750cab3068e1",
+      "disruptionId": "ca6889cc-09b8-46cd-bb23-83edba73a003",
+      "author": "REGIO_NORD",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Defektes Stellwerk"
       },
-      "headline": "S 8 Herrsching: Beeinträchtigungen / Reparatur an der Strecke",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke bei Geisenbrunn.</p>",
+      "headline": "Ein defektes Stellwerk im Raum Kreiensen beeinträchtigt den Zugverkehr",
+      "summary": "Aufgrund einer Reparatur an einem Stellwerk im Raum Kreiensen kommt es aktuell zu Verspätungen und  Teilausfällen. Die Dauer der Störung ist noch nicht bekannt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RB 82</strong> (Göttingen – Kreiensen – Bad Harzburg):<strong> </strong>Die Züge verspäten sich aktuell um bis zu 60 Minuten. Zugausfälle sind möglich. Ersatzverkehr mit Bus in Planung.</li><li><strong>RB 86 </strong>(Einbeck Mitte – Göttingen):<strong> </strong>Es kommt zu Verspätungen in beide Richtungen.&nbsp;</li></ul><p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "28.03.2025",
       "durationEnd": "28.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/dbc42b4c-cab9-42f2-ac75-a4ae2abcbd08",
+      "mapHref": "https://karte.bahn.de/detail/ca6889cc-09b8-46cd-bb23-83edba73a003",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/cc8a12b7-b27e-4014-aea0-9f8bc9474c95reisendenkarte_20250328-174353.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/cc8a12b7-b27e-4014-aea0-9f8bc9474c95reisendenkarte_20250328-174353.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-28/45de18e9-bfc0-42ac-8c8b-fe911e4491f1reisendenkarte_20250328-163228.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-28/45de18e9-bfc0-42ac-8c8b-fe911e4491f1reisendenkarte_20250328-163228.png",
           "info": "",
-          "alt": "Reisendenkarte 28.03.2025 17:43:53",
+          "alt": "Reisendenkarte 28.03.2025 16:32:28",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-28/19e8d96e-be66-4f12-9aed-87edda7e77e1reisendenkarte_20250328-192636.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-28/19e8d96e-be66-4f12-9aed-87edda7e77e1reisendenkarte_20250328-192636.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.03.2025 19:26:36",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "NI"
       ],
       "lines": [
         {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
+          "name": "RB 82",
+          "filterName": "RB 82",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 86",
+          "filterName": "RB 86",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.03.2025 18:32",
+      "lastModified": "28.03.2025 19:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2743811d-f514-4b44-915e-a42da5e49ae2",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
+      "detailPagePath": "/service/fahrplaene/c855967b-5ba7-4247-b493-750cab3068e1",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "48135bc0-0f6d-46ea-87c4-50ba5dfb60a7",
