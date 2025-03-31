@@ -272,14 +272,14 @@
       },
       "headline": "S 2 Poing ↔ Markt Schwaben: Notarzteinsatz ",
       "summary": "Zwischen Poing und Markt Schwaben sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Feldkirchen und Markt Schwaben.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Feldkirchen und Markt Schwaben eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"SEV\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "text": "<p>Die S-Bahnen wenden in Feldkirchen und Markt Schwaben.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Feldkirchen und Markt Schwaben eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"SEV\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p><p>Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.</p>",
       "durationBegin": "31.03.2025",
       "durationEnd": "31.03.2025",
       "mapHref": "https://karte.bahn.de/detail/8ed9e067-d31a-40a6-bb2a-0a9569436538",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/fffce925-6438-4df3-8b48-37065b3eeadareisendenkarte_20250331-084945.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/fffce925-6438-4df3-8b48-37065b3eeadareisendenkarte_20250331-084945.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/c6dba6ba-1265-455d-8c5d-95a6e23f5accreisendenkarte_20250331-084945.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/c6dba6ba-1265-455d-8c5d-95a6e23f5accreisendenkarte_20250331-084945.png",
           "info": "",
           "alt": "Reisendenkarte 31.03.2025 08:49:45",
           "openInNewTab": true
@@ -300,8 +300,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.03.2025 09:06",
-      "expand": false,
+      "lastModified": "31.03.2025 09:49",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c07042dd-76a6-4c14-be8d-de9169695ce3",
@@ -591,6 +591,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
+    },
+    {
+      "id": "05867777-6210-431d-baa4-71914208fed0",
+      "disruptionId": "d0bbf603-e083-476f-af03-7207741c3198",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 3, S 4, S 5, S 6, S 8, S 20 Pasing: Technischer Defekt an einem Zug",
+      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 20 Minuten sowie Teilausfällen und vorzeitigem Wenden der Züge.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "31.03.2025",
+      "durationEnd": "31.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/d0bbf603-e083-476f-af03-7207741c3198",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/409c6735-d10a-4ae2-af84-9a1c61b99a20reisendenkarte_20250331-094313.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-31/409c6735-d10a-4ae2-af84-9a1c61b99a20reisendenkarte_20250331-094313.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.03.2025 09:43:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.03.2025 09:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05867777-6210-431d-baa4-71914208fed0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "39447991-1003-4984-b235-61a8b7ac15ad",
