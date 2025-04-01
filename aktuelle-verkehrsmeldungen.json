@@ -2,45 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "06ca7567-ac9f-4f1a-8e8a-07ddd65caf39",
-      "disruptionId": "e5f3002c-84a7-4636-ae2d-9b5182a5c21d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "S5: Aktuell fahren keine S-Bahnen zwischen Neugraben und Buxtehude.",
-      "summary": "Aktuell fahren keine S-Bahnen zwischen Neugraben und Buxtehude. Der Grund ist eine technische Störung an einem Zug. Ein Ersatzverkehr wird eingerichtet. Bitte achten Sie auf die Ansagen und Anzeigen an den Bahnsteigen sowie an und in den Zügen. ",
-      "text": "<p> </p>",
-      "durationBegin": "01.04.2025",
-      "durationEnd": "01.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/e5f3002c-84a7-4636-ae2d-9b5182a5c21d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.04.2025 07:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/06ca7567-ac9f-4f1a-8e8a-07ddd65caf39",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
-    },
-    {
       "id": "f4a739da-9f7d-443f-926c-911abb67c168",
       "disruptionId": "a3939a4c-bc3f-42f2-9d6b-07108350f53f",
       "author": "FERNVERKEHR_AG",
@@ -87,19 +48,18 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
     },
     {
-      "id": "f8c9dd10-f485-4e9e-b8e2-3d487a08e09d",
-      "disruptionId": "4ad3ddd0-ed79-4490-ac1d-54ab86c32b84",
+      "id": "328e7643-87da-4c71-82c4-e1d789072ca7",
+      "disruptionId": "3d13f774-92d1-4fb3-a67d-128a9470b518",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigungen zwischen Bremen Hbf und Osnabrück",
-      "summary": "Aufgrund von Bauarbeiten Bremen-Hemelingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Haltausfall Bremen Hbf.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Dortmund. Züge dieser Verbindung verkehren ohne den Halt Bremen Hbf. Ersatzhalt Kirchweyhe. Von dort besteht eine Verbindung nach Bremen Hbf mit der Bus Linie 9 (Fahrzeit ca. 20 Minuten)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.03.2025",
-      "durationEnd": "01.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/4ad3ddd0-ed79-4490-ac1d-54ab86c32b84",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
+      "summary": "Aufgrund von Oberleitungsstörung in Uelzen ist die Strecke zwischen Hamburg und Hannover derzeit gesperrt. Dadurch kommt es zu Umleitungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Züge von Hamburg - Hannover werden über Rotenburg(Wümme) umgeleitet. Die Halte Lüneburg, Uelzen und Celle entfallen, Umleitungsverspätung vsl. 30 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/3d13f774-92d1-4fb3-a67d-128a9470b518",
       "images": [],
       "downloads": [],
       "links": [],
@@ -107,7 +67,7 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "HB",
+        "HH",
         "NI"
       ],
       "lines": [
@@ -117,12 +77,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "01.04.2025 07:14",
+      "lastModified": "01.04.2025 07:49",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f8c9dd10-f485-4e9e-b8e2-3d487a08e09d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_construction"
+      "detailPagePath": "/service/fahrplaene/328e7643-87da-4c71-82c4-e1d789072ca7",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
