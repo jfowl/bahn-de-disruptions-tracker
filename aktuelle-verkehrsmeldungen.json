@@ -63,8 +63,15 @@
       "mapHref": "https://karte.bahn.de/detail/968124e7-20e9-412e-801a-bf17d20f3b10",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/4ff84bbe-0caa-41b5-99c8-e19f1a5a86b2reisendenkarte_20250402-161026.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/4ff84bbe-0caa-41b5-99c8-e19f1a5a86b2reisendenkarte_20250402-161026.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/3ef6b489-1286-496f-8ddf-caeb776bbdbdreisendenkarte_20250402-195222.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/3ef6b489-1286-496f-8ddf-caeb776bbdbdreisendenkarte_20250402-195222.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.04.2025 19:52:22",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/736bf8f7-f022-40fb-8c7f-50828d4f9036reisendenkarte_20250402-161026.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/736bf8f7-f022-40fb-8c7f-50828d4f9036reisendenkarte_20250402-161026.png",
           "info": "",
           "alt": "Reisendenkarte 02.04.2025 16:10:26",
           "openInNewTab": true
@@ -73,26 +80,8 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://bahn.de/service/buchung/fahrgastrechte",
           "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/dbregio_SH",
-          "label": "  X DB Regio Schleswig-Holstein (ehemals Twitter)",
           "info": "",
           "openInNewTab": true
         },
@@ -107,6 +96,18 @@
           "label": "Reiseauskunft ",
           "info": "",
           "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/dbregio_SH",
+          "label": "  X DB Regio Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
         }
       ],
       "properties": [
@@ -118,12 +119,27 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "Bus RB81",
+          "filterName": "Bus RB81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.04.2025 19:45",
+      "lastModified": "02.04.2025 20:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -256,6 +272,49 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
+      "id": "b181d4b3-b4db-45f0-b5b9-c98c723b18fa",
+      "disruptionId": "26c76a16-2f1b-45ae-b200-306bfd236173",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Verkehrsmeldung für die Linien FEX und RB24 ",
+      "summary": " am Donnerstag, 03.04.2025 von 08:00 Uhr bis vsl. 21:00 Uhr ",
+      "text": "<p>Aufgrund eines defekten Stellwerks kommt es am Donnerstag, 03.04.2025 von 08:00 Uhr bis vsl. 21:00 Uhr zu Fahrtausfällen auf der RB24 und Umleitung einzelner FEX-Züge.</p><p>Betroffene Linien: FEX und RB24</p><p><strong>Linie RB24</strong>:</p><p>Ausfall der Züge der RB24 von 08:00 Uhr bis 21:00 Uhr zwischen Flughafen BER - Wünsdorf Waldstadt / Rangsdorf. Ein Ersatzverkehr mit Bussen ist zwischen Flughafen BER und Blankenfelde(Teltow-Fläming) eingerichtet.</p><p><strong>Linie FEX</strong>:</p><p>Einzelne Züge der Linie FEX werden zwischen 08:00 Uhr und 21:00 Uhr umgeleitet und beginnen/enden in Schönefeld(bei Berlin). Der Halt in Flughafen BER entfällt. Nutzen Sie die S-Bahn oder andere Verkehrsmittel.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "03.04.2025",
+      "durationEnd": "03.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/26c76a16-2f1b-45ae-b200-306bfd236173",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "FEX FEX",
+          "filterName": "FEX FEX",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.04.2025 19:57",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b181d4b3-b4db-45f0-b5b9-c98c723b18fa",
+      "magnoliaPath": "/aktuell/nordost/detour_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -300,51 +359,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "7d1b2425-563c-4cf9-8860-29557c5ad27e",
-      "disruptionId": "b69e51e1-d462-4663-af8b-683f42dde0cf",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S2 Feldkirchen: Reparatur an einem Signal ",
-      "summary": "Auf der Linie S2 kommt es weiterhin in beide Richtungen zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einem Signal in Feldkirchen. <strong>Die S-Bahnen fahren in diesem Bereich bis auf weiteres mit verminderter Geschwindigkeit.</strong></p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
-      "durationBegin": "02.04.2025",
-      "durationEnd": "02.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/b69e51e1-d462-4663-af8b-683f42dde0cf",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-02/71286315-39cf-4d7a-a389-61ab5ea3dd87reisendenkarte_20250402-174054.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-02/71286315-39cf-4d7a-a389-61ab5ea3dd87reisendenkarte_20250402-174054.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.04.2025 17:40:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.04.2025 18:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7d1b2425-563c-4cf9-8860-29557c5ad27e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
