@@ -84,6 +84,104 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section1"
     },
     {
+      "id": "67179c5b-9045-4f66-bd21-8d5a3e0f5ff1",
+      "disruptionId": "968124e7-20e9-412e-801a-bf17d20f3b10",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verspätungen und Zugausfälle Hamburg Hbf - Ahrensburg",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg Hbf und Hamburg-Wandsbek ist der Regionalverkehr beeinträchtigt. ",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Züge verkehren zwischen Lübeck Hbf und Ahrensburg. Ab Ahrensburg Ost bitte die U-Bahn bis Hamburg Hbf nutzen.&nbsp;</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Züge verkehren zwischen Lübeck Hbf und Ahrensburg. Ab Ahrensburg Ost bitte die U-Bahn bis Hamburg Hbf nutzen.&nbsp;</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Die Züge pendeln zwischen Bad Oldesloe und Hamburg-Rahlstedt.&nbsp;</li></ul><p>Ein Ersatzverkehr mit Bus zwischen Hamburg Hbf und Hamburg-Rahlstedt ist bestellt, jedoch noch nicht bestätigt.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>&nbsp;Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "02.04.2025",
+      "durationEnd": "02.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/968124e7-20e9-412e-801a-bf17d20f3b10",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/ec4e3abf-541b-4b3f-8437-2c7e06ef46c4reisendenkarte_20250402-161026.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-02/ec4e3abf-541b-4b3f-8437-2c7e06ef46c4reisendenkarte_20250402-161026.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.04.2025 16:10:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/dbregio_SH",
+          "label": "  X DB Regio Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB81",
+          "filterName": "Bus RB81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.04.2025 16:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/67179c5b-9045-4f66-bd21-8d5a3e0f5ff1",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -255,56 +353,79 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "db701639-5b88-47e7-873d-6bb99d142ce4",
-      "disruptionId": "afc27810-98d8-49a6-a8b3-615f0c8aca1b",
-      "author": "S_BAHN_HH",
+      "id": "56cb8004-31ce-4940-8429-d7c60b941b3d",
+      "disruptionId": "3c19d710-e463-4dcf-9429-2380c9f655e6",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Alle Linien: Aktuell ist der S-Bahnverkehr im Bereich der Innenstadt stark beeinträchtigt. Bitte beachten Sie die folgenden Hinweise.",
-      "summary": "Aktuell fahren keine S-Bahnen zwischen Hauptbahnhof und Berliner Tor. Der Grund ist eine technische Störung an der Strecke. Weichen Sie wenn möglich bitte auf die U-Bahnen und Regionalbahnen aus. ",
-      "text": "<p>Aktuell fahren die S-Bahnen wie folgt:</p><p></p><p><strong>S1 (Airport / Poppenbüttel - Blankenese / Wedel)</strong></p><p>Die S1 fährt aktuell in folgenden Teilen:</p><p>Airport / Popppenbüttel - Hasselbrook</p><p>Wedel / Blankenese - Altona</p><p>Bitte nutzen Sie zwischen Wandsbeker Chaussee und Hauptbahnhof oder zwischen Barmbek und Hauptbahnhof die U1 und U3, ab Altona die S3. Zwischen Hasselbrook und Hauptbahnhof sind auch die RB 81 betroffen, ein Umstieg auf die Regionalzüge aus und in Richtung Ahrensburg ist daher leider nicht möglich. Bitte achten Sie auch an den Stationen auf die Ansagen und Anzeigen.</p><p></p><p></p><p><strong>S2 (Altona - Bergedorf / Aumühle)</strong></p><p>Die S2 fährt aktuell in folgenden Teilen:</p><p>Aumühle / Bergedorf - Billwerder-Moorfleet</p><p>Bitte nutzen Sie zwischen Bergedorf und Mümmelmannsberg die Busse und ab dort die U2 in Richtung Innenstadt.</p><p></p><p></p><p><strong>S3 (Pinneberg / Elbgaustraße - Harburg / Neugraben)</strong></p><p>Die S3 fährt aktuell in folgenden Teilen:</p><p>Pinneberg - Stadthausbrücke</p><p>Neugraben - Hammerbrook</p><p>Bitte nutzen Sie zwischen Landungsbrücken und Hauptbahnhof die U3 und zwischen Jungfernstieg und Elbbrücken die U4. Weiterhin fahren die RE-Linien RE3 und RE4 zwischen Hauptbahnhof und Harburg.</p><p></p><p></p><p><strong>S5 (Elbgaustraße - Buxtehude / Stade)</strong></p><p>Die S5 fährt aktuell in folgenden Teilen:</p><p>Stade - Neugraben</p><p>Bitte nutzen Sie zwischen Neugraben und der Innenstadt die S3 mit Umstieg in Harburg oder Elbbrücken.</p>",
+      "headline": "Stammstrecke: Technische Störung an einem Zug ",
+      "summary": "Derzeit kommt es auf der Stammstrecke in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist Grund für diese Beeinträchtigungen&nbsp;                       ist eine technische Störung an einer S-Bahn       am Rosenheimer Platz.</p>",
       "durationBegin": "02.04.2025",
       "durationEnd": "02.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/afc27810-98d8-49a6-a8b3-615f0c8aca1b",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/3c19d710-e463-4dcf-9429-2380c9f655e6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-02/81f1b3ce-8be5-4d29-b23f-4be8724fd2b0reisendenkarte_20250402-155740.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-02/81f1b3ce-8be5-4d29-b23f-4be8724fd2b0reisendenkarte_20250402-155740.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.04.2025 15:57:40",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
           "name": "S 1",
-          "filterName": "S 1 Hamburg",
+          "filterName": "S 1 München",
           "property": "SBAHN"
         },
         {
           "name": "S 2",
-          "filterName": "S 2 Hamburg",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         },
         {
           "name": "S 3",
-          "filterName": "S 3 Hamburg",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         },
         {
           "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.04.2025 15:24",
+      "lastModified": "02.04.2025 15:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/db701639-5b88-47e7-873d-6bb99d142ce4",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/56cb8004-31ce-4940-8429-d7c60b941b3d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
