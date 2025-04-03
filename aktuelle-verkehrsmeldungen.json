@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "cfb0a573-0a94-4578-a335-1a5e3e38c451",
+      "disruptionId": "4ae9261c-9007-46ed-ad9f-c451ad7c42d8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Berlin und Wolfsburg / Hamburg",
+      "summary": "Aufgrund einer Reparatur an einer Weiche in Berlin Spandau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Berlin Spandau und Verspätungen von 30 bis 45 Min. Betroffen ist nur die Fahrtrichtung Berlin in Richtung Wolfsburg bzw.  Berlin in Richtung Hamburg. Vereinzelte Zugausfälle sind möglich.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Berlin in Richtung Wolfsburg</li><li>ICE-Züge Berlin in Richtung Hamburg</li><li>EC- /RJ-Züge in Richtung Hamburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/4ae9261c-9007-46ed-ad9f-c451ad7c42d8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.04.2025 14:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/cfb0a573-0a94-4578-a335-1a5e3e38c451",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "f4a739da-9f7d-443f-926c-911abb67c168",
       "disruptionId": "a3939a4c-bc3f-42f2-9d6b-07108350f53f",
       "author": "FERNVERKEHR_AG",
@@ -313,6 +351,59 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "448b5c5f-ac10-414b-9e22-e4203717e288",
+      "disruptionId": "91f0257f-1b0b-47c9-8bec-e2340e05e19d",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen im Raum Überlingen Therme",
+      "summary": "Über die Dauer der Störung liegen uns noch keine Informationen vor. Aufgrund einer Reparatur an einem Signal fahren die Züge im Streckenabschnitt zwischen Überlingen Therme und Ludwigshafen(Bodensee) langsamer. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RB 31</strong>: Friedrichshafen – Radolfzell</li><li><strong>RB 93</strong>: Friedrichshafen – Lindau&nbsp;</li><li><strong>RE 3</strong>:   Ulm-Lindau/ Friedrichshafen – Basel Bad Bf&nbsp;</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "03.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/91f0257f-1b0b-47c9-8bec-e2340e05e19d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-03/e2967f5c-66d6-45c0-8530-5a2c1fc49568reisendenkarte_20250403-143445.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-03/e2967f5c-66d6-45c0-8530-5a2c1fc49568reisendenkarte_20250403-143445.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.04.2025 14:34:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 31",
+          "filterName": "RB 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 93",
+          "filterName": "RB 93",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.04.2025 14:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/448b5c5f-ac10-414b-9e22-e4203717e288",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -768,14 +859,14 @@
       },
       "headline": "Leipzig Hbf (tief) ⇄ Schkeuditz - Haltausfälle sowie Umleitung zwischen Leipzig Hbf und Schkeuditz",
       "summary": "Der Streckenabschnitt zwischen Leipzig Hbf und Schkeuditz ist in der Nacht vom 03.04 zum 04.04 gesperrt. Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>🚉 <strong>Linie: S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Leipzig-Stötteritz - Wurzen/Oschatz</strong></p><p>❌&nbsp;<strong>Einschränkungen:</strong> Umleitung der Züge über Wiederitzsch und ohne Halt zwischen Leipzig Hbf und Schkeuditz.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte nutzen Sie alternativ auch die LVB Linie 11 und den Bus N4.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p><p>Bitte beachten Sie, dass eine weitere Streckensperrung zwischen Halle(Saale) Hbf und Schkeuditz, sowie Gegenrichtung, in der Nacht vom 04.04 zum 05.04.2025 besteht. Weitere Informationen hierzu finden Sie unter der Verlinkung.</p>",
+      "text": "<p>🚉 <strong>Linie: S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Leipzig-Stötteritz - Wurzen/Oschatz</strong></p><p>❌&nbsp;<strong>Einschränkungen:</strong> Umleitung der Züge über Wiederitzsch und ohne Halt zwischen Leipzig Hbf und Schkeuditz.</p><p>↪️&nbsp;<strong>Alternative:</strong> Busnotverkehr ist eingerichtet. Bitte nutzen Sie alternativ auch die LVB Linie 11 und den Bus N4.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p><p>Bitte beachten Sie, dass eine weitere Streckensperrung zwischen Halle(Saale) Hbf und Schkeuditz, sowie Gegenrichtung, in der Nacht vom 04.04 zum 05.04.2025 besteht. Weitere Informationen hierzu finden Sie unter der Verlinkung.</p>",
       "durationBegin": "03.04.2025",
       "durationEnd": "04.04.2025",
       "mapHref": "https://karte.bahn.de/detail/7ecbae3a-8a52-4ecd-9131-2f4d26bd4008",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-04-03/98cc3f02-4fd5-47fc-884f-28580b1864b9reisendenkarte_20250403-132820.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-04-03/98cc3f02-4fd5-47fc-884f-28580b1864b9reisendenkarte_20250403-132820.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-04-03/3af1ea2e-3420-4b08-afaa-b5b2a837d362reisendenkarte_20250403-132820.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-04-03/3af1ea2e-3420-4b08-afaa-b5b2a837d362reisendenkarte_20250403-132820.png",
           "info": "",
           "alt": "Reisendenkarte 03.04.2025 13:28:20",
           "openInNewTab": true
@@ -803,7 +894,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.04.2025 13:32",
+      "lastModified": "03.04.2025 13:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
