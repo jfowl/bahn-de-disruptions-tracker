@@ -259,12 +259,20 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Zugausfälle zwischen Vaihingen und Stuttgart Hbf",
-      "summary": "Aufgrund einer Oberleitungsstörung kommt es vsl. bis  06.04, 13 Uhr. auf den Zügen der Linie 3b Vaihingen -Böblingen - Stuttgart Hbf zu Zugausfällen. \n\nEin Ersatzverkehr mit Bus ist angefragt, wir warten jedoch noch auf die Bestätigung durch unsere Partnerunternehmen.",
+      "summary": "Aufgrund einer Oberleitungsstörung kommt es vsl. bis  06.04, 14 Uhr. auf den Zügen der Linie 3b Vaihingen -Böblingen - Stuttgart Hbf zu Zugausfällen. \n\nEin Ersatzverkehr mit Bus ist ab 12:20 Uhr im Pendelverkehr zwischen Herrenberg und Vaihingen eingerichtet.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>#RE 4  #RE 14a  MEX 19 MEX 90</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "06.04.2025",
       "durationEnd": "06.04.2025",
       "mapHref": "https://karte.bahn.de/detail/56d706c1-7b57-4726-a1c9-6bcece78f8d3",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-06/91fdaa13-ffb9-40d0-a7bf-2e98380ded94reisendenkarte_20250406-115453.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-06/91fdaa13-ffb9-40d0-a7bf-2e98380ded94reisendenkarte_20250406-115453.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.04.2025 11:54:53",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -275,12 +283,17 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 14a",
+          "filterName": "RE 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14b",
+          "filterName": "RE 14b",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.04.2025 11:42",
+      "lastModified": "06.04.2025 12:08",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
