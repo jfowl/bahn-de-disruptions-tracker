@@ -208,37 +208,30 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "10a0e531-1628-436a-9add-7278f1e688fb",
-      "disruptionId": "9718b55f-3d39-43dc-a53f-43c5f5ad4cb2",
+      "id": "e3128bc9-b990-4433-a89f-05d93f287c3a",
+      "disruptionId": "e98fa3d6-8f9b-4fec-aa90-518cdb9db026",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 3  Deisenhofen  ↔ Holzkirchen",
-      "summary": "Der S-Bahnverkehr wurde wieder aufgenommen.",
-      "text": "<p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Der Ersatzverkehr läuft mit 06:00 Uhr aus.</p><p>Die Reparatur an der Strecke wurde beendet.</p>",
-      "durationBegin": "05.04.2025",
+      "headline": "S3, S5 Giesing: Reparatur Signal",
+      "summary": "Bei den S-Bahnen der S3 und der S5 kommt es in Richtung stadteinwärts noch zu Folgeverspätungen von bis zu 15 Minuten",
+      "text": "<p>Es kommt vereinzelt noch zu vorzeitigen Zugwenden.</p><p>Grund war eine kurzeitige Reparatur an einem Signal.</p>",
+      "durationBegin": "08.04.2025",
       "durationEnd": "08.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/9718b55f-3d39-43dc-a53f-43c5f5ad4cb2",
+      "mapHref": "https://karte.bahn.de/detail/e98fa3d6-8f9b-4fec-aa90-518cdb9db026",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/7770fd7a-591c-4508-a24e-51b572d7dc4freisendenkarte_20250407-115727.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/7770fd7a-591c-4508-a24e-51b572d7dc4freisendenkarte_20250407-115727.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/a4dab353-9699-408f-a221-102b8be75cf8reisendenkarte_20250408-060846.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/a4dab353-9699-408f-a221-102b8be75cf8reisendenkarte_20250408-060846.png",
           "info": "",
-          "alt": "Reisendenkarte 07.04.2025 11:57:27",
+          "alt": "Reisendenkarte 08.04.2025 06:08:46",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Aktuelle Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
         "SBAHN"
       ],
@@ -250,14 +243,19 @@
           "name": "S 3",
           "filterName": "S 3 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "08.04.2025 05:53",
+      "lastModified": "08.04.2025 06:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/10a0e531-1628-436a-9add-7278f1e688fb",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+      "detailPagePath": "/service/fahrplaene/e3128bc9-b990-4433-a89f-05d93f287c3a",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
