@@ -121,6 +121,87 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "4e409954-9861-43f5-9637-aa8b03bcd012",
+      "disruptionId": "139cb500-a913-4027-a0bd-32490d34b9bd",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S3: Feuerwehreinsatz beendet, die S3 fährt wieder zwischen Pinneberg und Elbgaustraße.",
+      "summary": " ",
+      "text": "<p> </p>",
+      "durationBegin": "09.04.2025",
+      "durationEnd": "09.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/139cb500-a913-4027-a0bd-32490d34b9bd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.04.2025 09:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4e409954-9861-43f5-9637-aa8b03bcd012",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
+      "id": "d2f73fc8-23ae-4864-957a-88988c6e38e2",
+      "disruptionId": "d1d336d5-0b83-4b74-bd75-61eab6d99620",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1 Moosach - Leuchtenbergring: Reparatur an mehreren Weichen",
+      "summary": "Die S-Bahnen der Linie S 1 verkehren bis auf weiteres nur bis Moosach. Derzeit kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p><strong>Bitte nutzen Sie alternativ die U-Bahnlinien U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und steigen dort in die Linie S 1 um.&nbsp;</strong></p><p><strong>Zum/vom Flughafen nutzen Sie auch die S-Bahnen der Linie S8.</strong></p><p></p><p>Der Grund für diese Beeinträchtigungen sind Reparaturen an mehreren Weichen.</p><p>NEU: Nach aktuellem Stand dauern die Beeinträchtigungen voraussichtlich noch bis heute Mittag an.</p>",
+      "durationBegin": "09.04.2025",
+      "durationEnd": "09.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/d1d336d5-0b83-4b74-bd75-61eab6d99620",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
+          "label": "Aktuelle Betriebslage",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.04.2025 09:17",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d2f73fc8-23ae-4864-957a-88988c6e38e2",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "63794f7b-0e46-4cb3-abff-4aa206b69755",
       "disruptionId": "a815fb6f-7dc2-4d7c-ae64-261306c51926",
       "author": "S_BAHN_HH",
@@ -148,58 +229,19 @@
           "name": "S 1",
           "filterName": "S 1 Hamburg",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "09.04.2025 08:38",
+      "lastModified": "09.04.2025 09:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/63794f7b-0e46-4cb3-abff-4aa206b69755",
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "d2f73fc8-23ae-4864-957a-88988c6e38e2",
-      "disruptionId": "d1d336d5-0b83-4b74-bd75-61eab6d99620",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1 Moosach - Leuchtenbergring: Reparatur an mehreren Weichen",
-      "summary": "Die S-Bahnen der Linie S 1 verkehren bis auf weiteres nur bis Moosach. Derzeit kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p><strong>Bitte nutzen Sie alternativ die U-Bahnlinien U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und steigen dort in die Linie S 1 um.&nbsp;</strong></p><p><strong>Zum/vom Flughafen nutzen Sie auch die S-Bahnen der Linie S8.</strong></p><p></p><p>Der Grund für diese Beeinträchtigungen sind Reparaturen an mehreren Weichen.</p><p>Nach aktuellem Stand dauern die Beeinträchtigungen voraussichtlich noch bis in den Vormittag an.</p>",
-      "durationBegin": "09.04.2025",
-      "durationEnd": "09.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/d1d336d5-0b83-4b74-bd75-61eab6d99620",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Aktuelle Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.04.2025 06:21",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d2f73fc8-23ae-4864-957a-88988c6e38e2",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -463,12 +505,19 @@
       },
       "headline": "Personalbedingte Ausfälle Stellwerk Erfurt - Nordhausen",
       "summary": "RE 55/56 Erfurt – Nordhausen Dauer der Störung vom 11.04., 00:00 Uhr bis vsl. 13.04.2025, 23:59 Uhr. Fahrdienstleiter-Nichtbesetzungen",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 55/56 Erfurt – Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Fahrdienstleiter-Nichtbesetzungen</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Im Zeitraum 11. – 13.04.2025 findet auf der Linie RE 55/56 kein Zugverkehr statt, d. h. alle Leistungen entfallen zwischen Erfurt und Nordhausen vollständig. </p><p>↪️&nbsp;<strong>Alternative:</strong> Es wird angestrebt, einen zweistündlichen Ersatzverkehr mit Bedienung aller Unterwegshalte  einzurichten. Die Suche nach Buskapazitäten läuft derzeit, weswegen die Erbringung aller BNV-Leistungen nach aktuellem Stand noch nicht garantiert werden kann.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0361 5188 4477 (zum Ortstarif) zu informieren.</p>",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 55/56 Erfurt – Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Fahrdienstleiter-Nichtbesetzungen</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Im Zeitraum 11. – 13.04.2025 findet auf der Linie RE 55/56 kein Zugverkehr statt, d. h. alle Leistungen entfallen zwischen Erfurt und Nordhausen vollständig. </p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen zweistündlichen Ersatzverkehr mit Bedienung aller Unterwegshalte  eingerichtet. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0361 5188 4477 (zum Ortstarif) zu informieren.</p>",
       "durationBegin": "11.04.2025",
       "durationEnd": "13.04.2025",
       "mapHref": "https://karte.bahn.de/detail/bf9ab7b1-6ca0-461d-9bb1-a88b32ca5742",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-04-09/765453e2-f730-4cbc-bb47-80ce5e86564dFdl_Erfurt%2B-%2BNordhausen_11--13-04-25.pdf",
+          "label": "Fdl_Erfurt - Nordhausen_11--13-04-25.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "REGIONAL"
@@ -483,7 +532,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "08.04.2025 16:49",
+      "lastModified": "09.04.2025 09:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
