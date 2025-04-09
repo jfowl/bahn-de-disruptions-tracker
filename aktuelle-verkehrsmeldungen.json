@@ -43,6 +43,45 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_other_cause"
     },
     {
+      "id": "cc5474e8-f36b-443b-8c51-b67340a842b1",
+      "disruptionId": "c9727279-2330-4627-ac31-5cdc01fb4c65",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Osnabrück bzw. Bielefeld und Hannover",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Minden(W) und Wunstorf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch zwischen 5 und 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Berlin - Ruhrgebiet</li><li>IC Züge Hannover - Ruhrgebiet</li><li>IC Züge Berlin - Amsterdam</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/c9727279-2330-4627-ac31-5cdc01fb4c65",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.04.2025 16:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/cc5474e8-f36b-443b-8c51-b67340a842b1",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -204,6 +243,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d2f73fc8-23ae-4864-957a-88988c6e38e2",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "156d1a7c-f553-4ed8-9e92-9870d1c67486",
+      "disruptionId": "0fd43790-0b0a-4370-8068-e3daf06095f1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 3 Mammendorf: S-Bahnverkehr wieder möglich / Folgebeeinträchtigungen/ Feuerwehreinsatz beendet",
+      "summary": "Die Strecke zwischen Olching und Lochhausen ist nicht mehr gesperrt.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Feuerwehreinsatz.</p>",
+      "durationBegin": "09.04.2025",
+      "durationEnd": "09.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/0fd43790-0b0a-4370-8068-e3daf06095f1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-09/331f3f36-7b92-4c4c-9c21-b3f0369a0916reisendenkarte_20250409-152947.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-09/331f3f36-7b92-4c4c-9c21-b3f0369a0916reisendenkarte_20250409-152947.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.04.2025 15:29:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.04.2025 16:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/156d1a7c-f553-4ed8-9e92-9870d1c67486",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -500,51 +584,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dd87c8b5-d9c3-45b2-8151-1c4cae2b2862",
       "magnoliaPath": "/aktuell/suedost/reduced_service_other_cause"
-    },
-    {
-      "id": "156d1a7c-f553-4ed8-9e92-9870d1c67486",
-      "disruptionId": "0fd43790-0b0a-4370-8068-e3daf06095f1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S 3 Mammendorf: Kein S-Bahnverkehr möglich / Beeinträchtigungen / Ersatzverkehr eingerichtet / Feuerwehreinsatz / Update folgt",
-      "summary": "Die Strecke zwischen Olching und Lochhausen ist momentan leider gesperrt.",
-      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Wir haben für Sie einen Ersatzverkehr mit BUS und Taxis zwischen Olching und Lochhausen eingerichtet.</p><p>Nutzen Sie bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Der Grund dafür ist ein Feuerwehreinsatz.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
-      "durationBegin": "09.04.2025",
-      "durationEnd": "09.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/0fd43790-0b0a-4370-8068-e3daf06095f1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-09/05d67a4b-337e-4129-9e79-a369327b4fa4reisendenkarte_20250409-152947.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-09/05d67a4b-337e-4129-9e79-a369327b4fa4reisendenkarte_20250409-152947.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.04.2025 15:29:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.04.2025 15:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/156d1a7c-f553-4ed8-9e92-9870d1c67486",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
     },
     {
       "id": "a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
