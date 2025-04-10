@@ -2,6 +2,92 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c517ef90-fa3f-4c58-912c-8c57af50321a",
+      "disruptionId": "19da65e3-54e2-4837-b547-c023ef16075c",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Aufgrund einer Reparatur an einem Signal im Raum Hamburg Hbf kommt es aktuell zu Verspätungen und Teilausfällen- Hamburg ",
+      "summary": "Aufgrund einer Reparatur an einem Signal im Raum Hamburg Hbf kommt es aktuell zu Verspätungen und Teilausfällen im Regionalverkehr der DB Regio Schleswig-Holstein. Ein Ersatzverkehr mit Bussen ist zwischen Hamburg Hbf und Ahrensburg im Pendel eingerichtet. Rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten. Prüfen Sie bitte Ihre Reiseverbindung. Weitere Informationen finden Sie auf bahn.de/aktuell",
+      "text": "<p><strong>Betroffene Linien:</strong></p><p><strong> RE 8</strong> (Lübeck Hbf – Hamburg Hbf): Es kommt zu Verspätungen in beide Richtungen. Teilausfälle sind möglich.</p><p><strong> RB 81</strong> (Bad Oldesloe – Hamburg Hbf): Die Züge verkehren mit Verspätungen. Zugausfälle sind möglich. Nutzen Sie ggf. auch die U-Bahn zwischen Hamburg und Ahrensburg West.</p><p>Ein Ersatzverkehr mit Bussen im Pendel zwischen Hamburg Hbf und Ahrensburg und zwischen Ahrensburg Bahnhof und Ahrensburg West U-Bahn ist eingerichtet.</p><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p></p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "11.04.2025",
+      "durationEnd": "11.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/19da65e3-54e2-4837-b547-c023ef16075c",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://https://www.bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https:///www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https:///regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https:///www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.04.2025 01:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c517ef90-fa3f-4c58-912c-8c57af50321a",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
