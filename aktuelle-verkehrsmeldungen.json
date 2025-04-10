@@ -473,25 +473,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
     },
     {
-      "id": "cb67a256-747b-4778-a3fe-bc72645ab0c0",
-      "disruptionId": "5d1cd513-2e5b-42c3-8641-38858ae9d2de",
+      "id": "ea376d9a-44e8-43f4-b630-055fac4f53d1",
+      "disruptionId": "c239e245-275f-461e-a9c4-14e297bc9845",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 8 Hallbergmoos: Reparatur an der Strecke",
-      "summary": "Im Bereich Hallbergmoos kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen. \n\nIn diesem Abschnitt verkehren die S-Bahnen in Richtung Flughafen auf dem Gegengleis.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S 4, S 6 Trudering ↔ Gronsdorf: Reparatur an einem Signal",
+      "summary": "Zwischen Trudering und Gronsdorf kann es vereinzelt zu Verspätungen von bis zu 10 Minuten kommen. ",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "10.04.2025",
       "durationEnd": "10.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/5d1cd513-2e5b-42c3-8641-38858ae9d2de",
+      "mapHref": "https://karte.bahn.de/detail/c239e245-275f-461e-a9c4-14e297bc9845",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-10/59b7c875-ce19-48c9-84a5-5e96482b4bccreisendenkarte_20250410-062051.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-10/59b7c875-ce19-48c9-84a5-5e96482b4bccreisendenkarte_20250410-062051.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-10/1faec5b3-5c94-4042-be1e-43f2db1daea0reisendenkarte_20250410-081252.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-10/1faec5b3-5c94-4042-be1e-43f2db1daea0reisendenkarte_20250410-081252.png",
           "info": "",
-          "alt": "Reisendenkarte 10.04.2025 06:20:51",
+          "alt": "Reisendenkarte 10.04.2025 08:12:52",
           "openInNewTab": true
         }
       ],
@@ -505,17 +505,22 @@
       ],
       "lines": [
         {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.04.2025 06:57",
+      "lastModified": "10.04.2025 08:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cb67a256-747b-4778-a3fe-bc72645ab0c0",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/ea376d9a-44e8-43f4-b630-055fac4f53d1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
