@@ -11,7 +11,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Kassel und Hamm (Westfalen)",
       "summary": "Aufgrund einer Streckensperrung in Warburg kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen aus.",
-      "text": "<p><strong>Am Samstag, 12.04.2025:</strong></p><ul><li>ICE 1224\tMünchen – Kassel – Oberhausen</li><li>IC 2152 Gera – Düsseldorf</li><li>IC 2155 Köln – Gera</li><li>IC 2157 Köln – Erfurt</li></ul><p><strong>Am Sonntag, 13.04.2025:</strong></p><ul><li>IC 2156\tErfurt – Kassel – Köln</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative].</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffene Verbindungen im Fernverkehr:</strong></strong><p><strong>Zugausfälle am Samstag, 12.04.2025:</strong></p><ul><li>ICE 1224\tMünchen – Kassel – Oberhausen</li><li>IC 2152 Gera – Kassel – Düsseldorf</li><li>IC 2155 Köln – Kassel – Gera</li><li>IC 2157 Köln – Kassel – Erfurt</li></ul><p><strong>Zugausfälle am Sonntag, 13.04.2025:</strong></p><ul><li>IC 2156\tErfurt – Kassel – Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "11.04.2025",
       "durationEnd": "13.04.2025",
       "mapHref": "https://karte.bahn.de/detail/2a13aebc-769d-425f-b2cf-ca3b26388790",
@@ -34,7 +34,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.04.2025 17:42",
+      "lastModified": "11.04.2025 19:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -250,6 +250,71 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "b3585a4f-611d-481d-b45f-44c12da05ca5",
+      "disruptionId": "b20e3b87-f83b-4bca-bad1-9ace5a5b585a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Stammstrecke Pasing ↔ Laim: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Pasing und Laim sind wieder Zugfahrten möglich.",
+      "text": "<p>Bitte rechnen Sie mit Folgeverspätungen von bis zu 20 Minuten sowie mit vorzeitigen Zugwenden.</p><p>Grund sind unbefugte Personen auf der Strecke</p>",
+      "durationBegin": "11.04.2025",
+      "durationEnd": "11.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/b20e3b87-f83b-4bca-bad1-9ace5a5b585a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/d323a668-af04-4de3-be23-459f5b690914reisendenkarte_20250411-190845.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/d323a668-af04-4de3-be23-459f5b690914reisendenkarte_20250411-190845.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.04.2025 19:08:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.04.2025 19:19",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b3585a4f-611d-481d-b45f-44c12da05ca5",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
     },
     {
       "id": "7ebfb034-e6b8-41ea-9858-0234e48e4264",
