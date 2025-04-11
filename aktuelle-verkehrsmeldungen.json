@@ -2,6 +2,46 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8473610c-a2e6-4ccb-9a60-f0548d40bd65",
+      "disruptionId": "2a13aebc-769d-425f-b2cf-ca3b26388790",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Kassel und Hamm (Westfalen)",
+      "summary": "Aufgrund einer Streckensperrung in Warburg kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p><strong>Am Samstag, 12.04.2025:</strong></p><ul><li>ICE 1224\tMünchen – Kassel – Oberhausen</li><li>IC 2152 Gera – Düsseldorf</li><li>IC 2155 Köln – Gera</li><li>IC 2157 Köln – Erfurt</li></ul><p><strong>Am Sonntag, 13.04.2025:</strong></p><ul><li>IC 2156\tErfurt – Kassel – Köln</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative].</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.04.2025",
+      "durationEnd": "13.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/2a13aebc-769d-425f-b2cf-ca3b26388790",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "NW",
+        "SN",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.04.2025 17:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8473610c-a2e6-4ccb-9a60-f0548d40bd65",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "c517ef90-fa3f-4c58-912c-8c57af50321a",
       "disruptionId": "19da65e3-54e2-4837-b547-c023ef16075c",
       "author": "REGIO_NORD",
@@ -607,15 +647,15 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "S 1 Feldmoching - Oberschleißheim: Technischer Defekt an einem Bahnübergang",
-      "summary": "Auf der S1 kommt es bei den S-Bahnen zwischen Feldmoching und Oberschleißheim zum Verspätungsaufbau von bis zu 20 Minuten.",
-      "text": "<p>Die S-Bahnen können in diesem Bereich nur mit reduzierter Geschwindigkeit fahren. Es kommt teilweise zu vorzeitigen Zugwenden.</p><p>Grund ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "summary": "Auf der S1 kommt es bei den S-Bahnen zwischen Feldmoching und Oberschleißheim noch zu Folgeverspätungen von bis zu 20 Minuten.",
+      "text": "<p>Es kommt teilweise zu vorzeitigen Zugwenden.</p><p>Der technische Defekt an einem Bahnübergang konnte behoben werden.</p>",
       "durationBegin": "11.04.2025",
       "durationEnd": "11.04.2025",
       "mapHref": "https://karte.bahn.de/detail/e023fe7c-1eec-4dee-be7b-02a8baaa6cda",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/56ad99be-dacb-4761-bc6b-7796b37f8279reisendenkarte_20250411-164426.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/56ad99be-dacb-4761-bc6b-7796b37f8279reisendenkarte_20250411-164426.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/fc652ee2-8aa0-41cc-b1b6-b2bc7171988dreisendenkarte_20250411-164426.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/fc652ee2-8aa0-41cc-b1b6-b2bc7171988dreisendenkarte_20250411-164426.png",
           "info": "",
           "alt": "Reisendenkarte 11.04.2025 16:44:26",
           "openInNewTab": true
@@ -636,7 +676,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.04.2025 16:46",
+      "lastModified": "11.04.2025 17:16",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
