@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Streckensperrung"
       },
-      "headline": "Streckensperrung zwischen Hamburg und Hannover",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Hamburg und Hannover derzeit noch gesperrt. Einzelne Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 90 - 120 Minuten. Züge, die nicht umgeleitet werden können, enden in Hannover bzw. Hamburg und teilweise auch vorher. Zwischen Hamburg und Hannover sind Busse im Schienenersatzverkehr im Einsatz.\n\nWir rechnen in Kürze mit einer Aufhebung der Streckensperrung. Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Hannover - Fulda - Frankfurt - Stuttgart -/Basel</li><li>Hamburg - Hannover - Fulda - Würzburg - München</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Zustand nach Streckensperrung zwischen Hamburg und Hannover",
+      "summary": "Aufgrund eines vorangegangenen Notarzteinsatzes zwischen Hamburg und Hannover befinden sich einzelne Züge im Fernverkehr der Deutschen Bahn in Umleitung und verspäten sich dadurch um etwa 90 - 120 Minuten. Zwischen Hamburg und Hannover sind noch Busse im Schienenersatzverkehr im Einsatz.\n\nDie Züge verkehren nun wieder auf Regelweg.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Hannover - Fulda - Frankfurt - Stuttgart -/Basel</li><li>Hamburg - Hannover - Fulda - Würzburg - München</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "13.04.2025",
       "durationEnd": "13.04.2025",
       "mapHref": "https://karte.bahn.de/detail/36554a0b-29d4-4e07-875e-e8128e934491",
@@ -46,7 +46,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "13.04.2025 19:30",
+      "lastModified": "13.04.2025 19:48",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -701,6 +701,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
     },
     {
+      "id": "054f619e-5341-4816-98bb-c257d2024d60",
+      "disruptionId": "5b8418e3-4bee-497e-95c7-11590ea42db4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 2 Feldkirchen",
+      "summary": "Im Bereich Feldkirchen kommt es zu keinen nennenswerten Verspätungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "13.04.2025",
+      "durationEnd": "13.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/5b8418e3-4bee-497e-95c7-11590ea42db4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-13/b42c7757-efb2-4e18-a10d-d128f0c729dcreisendenkarte_20250413-184235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-13/b42c7757-efb2-4e18-a10d-d128f0c729dcreisendenkarte_20250413-184235.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.04.2025 18:42:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2025 19:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/054f619e-5341-4816-98bb-c257d2024d60",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
+    },
+    {
       "id": "a5ea3a47-99d2-4751-9dfa-74bf19d0cf97",
       "disruptionId": "e5329b01-bb04-459b-af3c-b801b0d92a68",
       "author": "S_BAHN_MUC",
@@ -744,51 +789,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a5ea3a47-99d2-4751-9dfa-74bf19d0cf97",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
-    },
-    {
-      "id": "054f619e-5341-4816-98bb-c257d2024d60",
-      "disruptionId": "5b8418e3-4bee-497e-95c7-11590ea42db4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Feldkirchen: Reparatur an einem Signal",
-      "summary": "Im Bereich Feldkirchen kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "13.04.2025",
-      "durationEnd": "13.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/5b8418e3-4bee-497e-95c7-11590ea42db4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-13/014d920d-fe42-49d5-b4ba-f5bb804a7bfareisendenkarte_20250413-184235.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-13/014d920d-fe42-49d5-b4ba-f5bb804a7bfareisendenkarte_20250413-184235.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.04.2025 18:42:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.04.2025 19:28",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/054f619e-5341-4816-98bb-c257d2024d60",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
