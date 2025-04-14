@@ -305,28 +305,20 @@
       "magnoliaPath": "/aktuell/mitte/RB52-Eingestellt-"
     },
     {
-      "id": "e7789938-2994-441b-9f56-8b0788099550",
-      "disruptionId": "d00fbb54-8b6f-416f-bfb8-f930a6d917c2",
+      "id": "656319a1-5996-4ec5-9b8b-426910f48bb5",
+      "disruptionId": "e5dc3af9-627a-4db2-91ed-b172b81abecb",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S5 Neubiberg: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie S5 in beide Richtungen noch zu Folgeverspätungen von 5 bis 10 Minuten. ",
-      "text": "<p>Der technische Defekt an einem Bahnübergang in Neubiberg ist behoben.</p>",
+      "headline": "S2 Altomünster: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Erdweg und  Altomünster sind bis auf weiteres keine Zugfahrten möglich.",
+      "text": "<p>Die Züge aus Richtung München wenden an der Station Erdweg.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;sind unbefugte Personen auf der Strecke in Altomünster.</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p>",
       "durationBegin": "14.04.2025",
       "durationEnd": "14.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/d00fbb54-8b6f-416f-bfb8-f930a6d917c2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-14/af7831ef-c702-4030-9c0a-3a6beda8d8bareisendenkarte_20250414-143308.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-14/af7831ef-c702-4030-9c0a-3a6beda8d8bareisendenkarte_20250414-143308.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.04.2025 14:33:08",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/e5dc3af9-627a-4db2-91ed-b172b81abecb",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -337,17 +329,17 @@
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.04.2025 15:09",
-      "expand": false,
+      "lastModified": "14.04.2025 16:28",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7789938-2994-441b-9f56-8b0788099550",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/656319a1-5996-4ec5-9b8b-426910f48bb5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "97686845-6cb6-4ad1-9deb-b75bfdb26d7a",
@@ -760,48 +752,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
-    },
-    {
-      "id": "db0882b3-a865-45d2-a63f-b8818dd06143",
-      "disruptionId": "5d6be449-afd0-468a-ae8b-bcb59bfa349d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "S3 und S5: Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen schnellstmöglich wieder nach Plan fahren. Grund: vorangegangene Polizeieinsätze ",
-      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
-      "durationBegin": "14.04.2025",
-      "durationEnd": "14.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/5d6be449-afd0-468a-ae8b-bcb59bfa349d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.04.2025 15:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/db0882b3-a865-45d2-a63f-b8818dd06143",
-      "magnoliaPath": "/aktuell/nord/significant_delays_police_activity"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
