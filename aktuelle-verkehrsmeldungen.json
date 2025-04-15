@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "efc94452-c8f4-492f-aefa-517c5c0a2d19",
+      "disruptionId": "56ffce5f-254c-4a18-ac58-005b34ecdff9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Braunschweig und Helmstedt. Zusatzhalt in Wolfsburg. Verspätungen von 30 Min sind zu erwarten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge zwischen Leipzig und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p> Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/56ffce5f-254c-4a18-ac58-005b34ecdff9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.04.2025 07:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/efc94452-c8f4-492f-aefa-517c5c0a2d19",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "cd9a8c3a-4e3b-4859-825e-bcab383b02d8",
       "disruptionId": "a383d941-fe76-4c01-a46e-ca832612a3b6",
       "author": "REGIO_NORD",
@@ -267,51 +303,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f9c60d32-a9db-42c8-9e3d-8cd4782c2885",
       "magnoliaPath": "/aktuell/mitte/RB52-Eingestellt-"
-    },
-    {
-      "id": "f7380d88-d5b5-49f3-b47f-34fd2dcf4280",
-      "disruptionId": "ff4fffb5-7958-49f1-a164-a99ed3813826",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 3 Holzkirchen: Folgebeeinträchtigungen / Grund war Reparatur an einem Signal",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Otterfing.</p>",
-      "durationBegin": "15.04.2025",
-      "durationEnd": "15.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/ff4fffb5-7958-49f1-a164-a99ed3813826",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-15/6031d2f6-6617-4309-b634-9280a8146753reisendenkarte_20250415-055708.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-15/6031d2f6-6617-4309-b634-9280a8146753reisendenkarte_20250415-055708.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.04.2025 05:57:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.04.2025 07:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f7380d88-d5b5-49f3-b47f-34fd2dcf4280",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "5db2a4c6-fd79-4b64-8c11-99d69102b677",
