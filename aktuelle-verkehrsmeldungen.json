@@ -10,8 +10,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Braunschweig und Helmstedt. Zusatzhalt in Wolfsburg. Verspätungen von 30 Min sind zu erwarten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge zwischen Leipzig und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p> Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Braunschweig und Helmstedt. Zusatzhalt in Wolfsburg. Verspätungen von 30 Min sind zu erwarten. Ausfall der ICE-Linie Berlin - Braunschweig - Frankfurt Flughafen",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge zwischen Leipzig und Hannover</li><li><strong>Ausfall folgender Züge: </strong>ICE 992, ICE 798, ICE 796, ICE 794, ICE 792, ICE 790, ICE 797, ICE  799, ICE 995, ICE 997</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "15.04.2025",
       "mapHref": "https://karte.bahn.de/detail/56ffce5f-254c-4a18-ac58-005b34ecdff9",
       "images": [],
@@ -21,7 +21,9 @@
         "LONG_DISTANCE"
       ],
       "states": [
+        "BB",
         "ST",
+        "BE",
         "NI"
       ],
       "lines": [
@@ -31,7 +33,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "15.04.2025 07:46",
+      "lastModified": "15.04.2025 11:07",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/efc94452-c8f4-492f-aefa-517c5c0a2d19",
@@ -215,65 +217,49 @@
       "magnoliaPath": "/aktuell/mitte/RB52-Eingestellt-"
     },
     {
-      "id": "5db2a4c6-fd79-4b64-8c11-99d69102b677",
-      "disruptionId": "7c433b5f-92cb-495f-9491-4aa5bdc8bcfc",
-      "author": "S_BAHN_RM",
+      "id": "19fcaaee-81a6-489e-9a69-95c2871b15c5",
+      "disruptionId": "2e7c7524-2bb5-44f5-9b29-9c59d8c130ec",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Wabern(Bz Kassel) ⇄ Bad Wildungen:                                                              \nTeilausfälle und Ersatzverkehr mit Bussen",
-      "summary": "📅 Dienstag, den 22.04.2025 bis Freitag, den 25.04.2025",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><p>• RB39/RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</p><p>Die Züge fallen zwischen Wabern(Bz Kassel) und Bad Wildungen aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzverkehr:</strong> Wabern(Bz Kassel) ⇄ Bad Wildungen</p><p><strong>Grund der Bauarbeiten: </strong>Bauarbeiten</p><p>Die Fahrplanänderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht garantiert. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>Noch Fragen? Sie erreichen den Kundendialog der S-Bahn Rhein-Main unter der Rufnummer 069 24445710 oder per E-Mail an kundendialog.hessen@deutschebahn.com.</p>",
-      "durationBegin": "22.04.2025",
-      "durationEnd": "25.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/7c433b5f-92cb-495f-9491-4aa5bdc8bcfc",
+      "headline": "S 5 Kreuzstraße: Folgebeeinträchtigungen / Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Neubiberg.</p>",
+      "durationBegin": "15.04.2025",
+      "durationEnd": "15.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/2e7c7524-2bb5-44f5-9b29-9c59d8c130ec",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-04-14/e157e75f-ad86-4dac-9537-bf97d8d42376reisendenkarte_20250414-210450.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-04-14/e157e75f-ad86-4dac-9537-bf97d8d42376reisendenkarte_20250414-210450.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-15/01ad6736-25c0-42c9-a583-b980cb9e0c20reisendenkarte_20250415-111021.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-15/01ad6736-25c0-42c9-a583-b980cb9e0c20reisendenkarte_20250415-111021.png",
           "info": "",
-          "alt": "Reisendenkarte 14.04.2025 21:04:50",
+          "alt": "Reisendenkarte 15.04.2025 11:10:21",
           "openInNewTab": true
         }
       ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-04-14/52dbd96c-df70-455c-be62-60b1bb5e5a5c25-04_RE39_RB39_53310.pdf",
-          "label": "Fahrgastinformation",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "Bus RB39",
-          "filterName": "Bus RB39",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 39",
-          "filterName": "RB 39",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 39",
-          "filterName": "RE 39",
-          "property": "REGIONAL"
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "14.04.2025 21:20",
+      "lastModified": "15.04.2025 11:20",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5db2a4c6-fd79-4b64-8c11-99d69102b677",
-      "magnoliaPath": "/aktuell/hessen/impairment_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/19fcaaee-81a6-489e-9a69-95c2871b15c5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "9d967697-4acf-45bd-92a6-e96651de7ff5",
