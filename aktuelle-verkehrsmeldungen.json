@@ -129,6 +129,80 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
     },
     {
+      "id": "e8e54307-bd31-4be7-94c3-f5eefc7f60d3",
+      "disruptionId": "ee148760-cbca-47b7-ba96-0844fbb97011",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Reparatur an einem Signal zwischen Hamburg-Eidelstedt und Hamburg Hbf",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Hamburg-Eidelstedt und Hamburg Hbf ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 7 (Flensburg/Kiel Hbf – Hamburg Hbf): Die Züge der Linie RE 7 enden/beginnen außerplanmäßig in Hamburg-Altona. Dadurch entfallen die Halte Hamburg Dammtor und Hamburg Hbf. Reisende nutzen alternativ zwischen Hamburg Hbf und Hamburg-Altona die S-Bahn Linien S1 und S3.</li><li>RE 70 (Kiel Hbf – Hamburg Hbf): Die Züge enden/beginnen planmäßig in Hamburg Hbf.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 30 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "16.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/ee148760-cbca-47b7-ba96-0844fbb97011",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-16/79a5bf35-d60c-49eb-9646-e2a90fc12a27reisendenkarte_20250416-110226.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-16/79a5bf35-d60c-49eb-9646-e2a90fc12a27reisendenkarte_20250416-110226.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.04.2025 11:02:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.04.2025 11:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e8e54307-bd31-4be7-94c3-f5eefc7f60d3",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -231,6 +305,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f9c60d32-a9db-42c8-9e3d-8cd4782c2885",
       "magnoliaPath": "/aktuell/mitte/RB52-Eingestellt-"
+    },
+    {
+      "id": "e8f49e1a-6676-4453-a24d-94c799a94c4d",
+      "disruptionId": "a023798a-4dc0-4ba4-b49f-b8371f63b6ef",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 5 Kreuzstraße: Technischer Defekt an einem Bahnübergang / Beeinträchtigungen",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang bei Aying.</p>",
+      "durationBegin": "16.04.2025",
+      "durationEnd": "16.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/a023798a-4dc0-4ba4-b49f-b8371f63b6ef",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/f8230592-0dd6-4071-8c8a-ee331f8c2edbreisendenkarte_20250416-111527.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/f8230592-0dd6-4071-8c8a-ee331f8c2edbreisendenkarte_20250416-111527.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.04.2025 11:15:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.04.2025 11:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e8f49e1a-6676-4453-a24d-94c799a94c4d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "9d967697-4acf-45bd-92a6-e96651de7ff5",
