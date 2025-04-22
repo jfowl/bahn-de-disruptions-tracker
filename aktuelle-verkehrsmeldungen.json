@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "86975ff6-ecb6-4c57-84b6-4b55dc24af1b",
+      "disruptionId": "76ec4b3a-6902-46cf-900f-6dd4e7cfde49",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Lindau und Memmingen",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Lindau und Memmingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind im genannten Abschnitt keine Zugfahrten möglich. Ein Buspendelverkehr ist bis 22 Uhr zwischen Bregenz und Hergatz eingerichtet.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ECE-Züge (München – Lindau-Reutin – Zürich)</li><li>Ausnahme: EC 96 in Umleitung über Ulm; Haltausfälle München-Pasing, Buchloe und Memmingen; Zusatzverspätung etwa 120 Minuten</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.04.2025",
+      "durationEnd": "23.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/76ec4b3a-6902-46cf-900f-6dd4e7cfde49",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.04.2025 18:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/86975ff6-ecb6-4c57-84b6-4b55dc24af1b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -496,6 +534,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "1bf63981-0c9e-48c5-892a-4300e7f0986e",
+      "disruptionId": "9f14c34f-4b5e-4c0a-bbac-0c241a4ebf8c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf der Linie S5 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Die S-Bahnen mit Start / Ziel Buxtehude starten / enden abweichend in Neugraben. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Schadhafte S-Bahn ",
+      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "22.04.2025",
+      "durationEnd": "22.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/9f14c34f-4b5e-4c0a-bbac-0c241a4ebf8c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.04.2025 18:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1bf63981-0c9e-48c5-892a-4300e7f0986e",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_vehicle"
+    },
+    {
       "id": "a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "disruptionId": "fa430643-d159-49be-bc95-fc328aef75ab",
       "author": "REGIO_SUEDOST",
@@ -550,6 +625,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
+    },
+    {
+      "id": "8061cfe7-ee17-4608-b4ef-dc746c698a2f",
+      "disruptionId": "863e63b0-af7c-4b82-ace1-be4773bc148e",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Umleitungen zwischen Frankfurt(Main)Süd und Hanau Hbf",
+      "summary": "Aufgrund einer Erkrankung von Stellwerkpersonal kommt es zu Einschränkungen im Regionalverkehr der Deutschen Bahn in Hessen.",
+      "text": "<strong>Betroffene Linien:</strong><ul><li>RE54 und RE55: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><p></p><strong>Zeitraum:</strong><ul><li>In der Nacht 22./23.04.2025 von 19:30 Uhr bis planmäßig 05:30 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><p>Die Züge werden zwischen Frankfurt(Main)Süd und Hanau Hbf in beiden Richtungen ohne Zwischenhalt umgeleitet. Die Stationen Frankfurt(Main)Ost, Frankfurt-Mainkur, Maintal West, Maintal Ost, Hanau-Wilhelmsbad und Hanau West entfallen.</p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;</p><p>Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;</p><p>und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "22.04.2025",
+      "durationEnd": "23.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/863e63b0-af7c-4b82-ace1-be4773bc148e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-04-22/fe222d38-16b4-4994-9576-80b424783bffreisendenkarte_20250422-174655.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-04-22/fe222d38-16b4-4994-9576-80b424783bffreisendenkarte_20250422-174655.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.04.2025 17:46:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE 54",
+          "filterName": "RE 54",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.04.2025 17:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8061cfe7-ee17-4608-b4ef-dc746c698a2f",
+      "magnoliaPath": "/aktuell/hessen/detour_other_cause"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
