@@ -528,6 +528,48 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "0ad201d3-745b-407e-a721-cfa5fa4271c2",
+      "disruptionId": "7fd548a1-9f8b-4686-b258-596dda3e8a2c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Info: Aufzüge in Neugraben außer Betrieb",
+      "summary": "Für Fahrgäste die in Neugraben ein oder aussteigen müssen und die in ihrer Mobilität eingeschränkt sind, ergeben sich wegen defekter Aufzüge leider größere Einschränkungen. Bitte aufklappen >>>",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p>Für alle, die in Neugraben einsteigen:</p><p><strong>Richtung Harburg / Hauptbahnhof:</strong></p><p>Linie&nbsp;<strong>S5 von Gleis 1</strong>&nbsp;(barrierefreier Zugang über Rampe)</p><p><strong>Bus</strong>linien&nbsp;<strong>250 oder 251</strong>&nbsp;bis&nbsp;<strong>S Neuwiedenthal,</strong>&nbsp;von dort Linie&nbsp;<strong>S3 oder S5</strong>&nbsp;(Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Richtung Buxtehude / Stade:</strong></p><p>Linie&nbsp;<strong>S5</strong>&nbsp;von Gleis 1 (barrierefreier Zugang über Rampe)&nbsp;<strong>bis nach Neuwiedenthal</strong>, von dort in die S-Bahnen der Linie&nbsp;<strong>S5 in Richtung Buxtehude / Stade</strong>&nbsp;(Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Bus</strong>linien&nbsp;<strong>250 oder 251</strong>&nbsp;bis&nbsp;<strong>S Neuwiedenthal</strong>, von dort in die S-Bahnen der Linie&nbsp;<strong>S5 in Richtung Buxtehude / Stade</strong>&nbsp;(Zugang in Neuwiedenthal via Aufzug)</p><p>Für alle, die in Neugraben aussteigen:</p><p><strong>Aus Richtung Harburg / Innenstadt:</strong></p><p>Schon eine Station vorher in&nbsp;<strong>Neuwiedenthal&nbsp;</strong>aussteigen, von dort mit den&nbsp;<strong>Bus</strong>linien&nbsp;<strong>250 oder 251</strong>&nbsp;bis S&nbsp;<strong>Neugraben</strong>&nbsp;fahren. (Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Aus Richtung Stade / Buxtehude:</strong></p><p>Normalerweise sollte die&nbsp;<strong>S5 aus dieser Richtung</strong>&nbsp;am Gleis 1 halten und ein Verlassen der Station damit&nbsp;<strong>barrierefrei</strong>&nbsp;möglich sein.</p><p>Ansonsten bitte eine Station weiter bis Neuwiedenthal fahren und von dort mit den Buslinien 250 oder 251 bis S Neugraben fahren. (Zugang in Neuwiedenthal via Aufzug)</p><p></p>",
+      "durationBegin": "23.04.2025",
+      "durationEnd": "28.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/7fd548a1-9f8b-4686-b258-596dda3e8a2c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.04.2025 23:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0ad201d3-745b-407e-a721-cfa5fa4271c2",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
       "id": "5528e630-0750-4abf-bf43-8f4da147dc1f",
       "disruptionId": "51133078-6f42-4229-97fe-3d602d1974e4",
       "author": "S_BAHN_MUC",
@@ -703,6 +745,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
+    },
+    {
+      "id": "d01a0a15-4910-4e47-81f9-73dafc6f36f9",
+      "disruptionId": "4c627679-08bc-423b-ae55-a2e4a30cb34f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Hallbergmoos: Reparatur an einem Signal",
+      "summary": "Im Bereich Hallbergmoos kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "23.04.2025",
+      "durationEnd": "24.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/4c627679-08bc-423b-ae55-a2e4a30cb34f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.04.2025 23:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d01a0a15-4910-4e47-81f9-73dafc6f36f9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
