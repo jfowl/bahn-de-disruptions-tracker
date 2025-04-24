@@ -643,6 +643,55 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "e09f3c41-2d9a-4607-8e16-66053d805020",
+      "disruptionId": "8cd89125-c1dc-4935-bdc7-f035e3434302",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Linieneinkürzung auf der S3",
+      "summary": "Aktuell startet / endet die S3 abweichend schon in Harburg Rathaus. Fahrgäste mit den Zielen Heimfeld, Neuwiedenthal oder Neugraben bitte in Harburg in die S5 umsteigen. Grund: Signalstörung",
+      "text": "<p>...</p>",
+      "durationBegin": "24.04.2025",
+      "durationEnd": "24.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/8cd89125-c1dc-4935-bdc7-f035e3434302",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2025-04-24/bc4ffc2d-e07e-4cf2-b20b-99af560128b1Bild%2B%25282%2529.png",
+          "label": "Bild (2).png",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.04.2025 13:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e09f3c41-2d9a-4607-8e16-66053d805020",
+      "magnoliaPath": "/aktuell/nord/stop_moved_technical_problem_railway_section"
+    },
+    {
       "id": "0ad201d3-745b-407e-a721-cfa5fa4271c2",
       "disruptionId": "7fd548a1-9f8b-4686-b258-596dda3e8a2c",
       "author": "S_BAHN_HH",
@@ -739,51 +788,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
-    },
-    {
-      "id": "44eb2023-4f9b-4cf8-8053-6cfadea89c11",
-      "disruptionId": "25c68d50-350e-446e-83c4-df43836389de",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 6  Starnberg - Tutzing: Reparatur an der Strecke",
-      "summary": "Die S-Bahnen der S6 erhalten in beide Richtungen zwischen Tutzing und Starnberg Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Es kommt vereinzelt zu vorzeitigen Zugwenden.</p><p>Grund ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "24.04.2025",
-      "durationEnd": "24.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/25c68d50-350e-446e-83c4-df43836389de",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/d66de71d-d862-4acd-80c8-c6c30d9d7720reisendenkarte_20250424-113627.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/d66de71d-d862-4acd-80c8-c6c30d9d7720reisendenkarte_20250424-113627.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.04.2025 11:36:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.04.2025 11:38",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/44eb2023-4f9b-4cf8-8053-6cfadea89c11",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
