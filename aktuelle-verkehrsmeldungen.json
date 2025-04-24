@@ -555,15 +555,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Reparatur an der Oberleitung im Raum Schwäbisch Hall",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung kommt es auf den Zügen der Linie RE 80 zwischen Schwäbisch Hall-Hessental und Crailsheim zu Verspätungen und Zugausfällen. \n\nDie Strecke von Heilbronn nach Schwäbisch Hall-Hessental ist mittlerweile wieder befahrbar, jedoch muss auch hier mit Verspätungen gerechnet werden.\n\nDie Störung dauert voraussichtlich noch bis im Laufe des heutigen Nachmittages an.",
+      "headline": "Reparatur an der Oberleitung im Raum Schwäbisch Hall beendet",
+      "summary": "Die Reparatur an der Oberleitung im Raum Schwäbisch Hall ist beendet. Die Strecke ist wieder befahrbar. \n\nBis sich alles vollständig normalisiert hat, muss in der nächsten Zeit zwischen Heilbronn, Schwäbisch Hall-Hessental und Crailsheim noch mit Verspätungen und vereinzelten Zugausfällen gerechnet werden.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB 83 (Heilbronn - Schwäbisch Hall-Hessental)</li><li>RE 80 (Heilbronn - Crailsheim)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "24.04.2025",
+      "durationEnd": "24.04.2025",
       "mapHref": "https://karte.bahn.de/detail/2927dbc9-aacf-4f80-86b1-ba9a852d07d1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/562934b3-9bd8-4375-b924-e395830125ffreisendenkarte_20250424-114743.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/562934b3-9bd8-4375-b924-e395830125ffreisendenkarte_20250424-114743.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/047acf6e-c554-4430-94ff-4f8595dcf9c7reisendenkarte_20250424-114743.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/047acf6e-c554-4430-94ff-4f8595dcf9c7reisendenkarte_20250424-114743.png",
           "info": "",
           "alt": "Reisendenkarte 24.04.2025 11:47:43",
           "openInNewTab": true
@@ -579,14 +580,20 @@
       ],
       "lines": [
         {
+          "name": "RB 83",
+          "filterName": "RB 83",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 80",
           "filterName": "RE 80",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.04.2025 11:49",
+      "lastModified": "24.04.2025 12:19",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1297ebea-9256-470d-b5fd-4935eb8c37bf",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
@@ -732,51 +739,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/44eb2023-4f9b-4cf8-8053-6cfadea89c11",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
-    },
-    {
-      "id": "32a30a56-670f-4702-a42c-1040e012607c",
-      "disruptionId": "c832d811-fef0-48e8-814c-b608782759ce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 7  Icking - Wolfratshausen: Polizeieinsatz",
-      "summary": "Die Strecke zwischen Icking und Wolfratshausen ist wieder ohne Geschwindigkeitsbeschränkung befahrbar. Es kommt zu keinen vorzeitigen Wenden mehr.",
-      "text": "<p>Erste wieder ohne Einschränkungen verkehrende S-Bahnen sind:</p><ul><li>S 7 Abfahrt Hauptbahnhof 10:34 Uhr → Abfahrt Icking 11:09 Uhr → Ankunft Wolfratshausen 11:14 Uhr</li><li>S 7 Abfahrt Wolfratshausen 11:43 Uhr → Abfahrt Icking 11:50 Uhr → Ankunft Hauptbahnhof 12:25 Uhr</li></ul><p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "24.04.2025",
-      "durationEnd": "24.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/c832d811-fef0-48e8-814c-b608782759ce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/c7f12139-a994-4a68-a8d6-eb0e94af1cf2reisendenkarte_20250424-071023.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/c7f12139-a994-4a68-a8d6-eb0e94af1cf2reisendenkarte_20250424-071023.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.04.2025 07:10:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.04.2025 11:27",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/32a30a56-670f-4702-a42c-1040e012607c",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
