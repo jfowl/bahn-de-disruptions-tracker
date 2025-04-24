@@ -199,6 +199,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "c5d4b9f8-b83b-4bf0-be80-5e64bfe48d42",
+      "disruptionId": "44e99281-b136-4728-ae54-727561fa6b84",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugverkehr zw. Wörth(Rhein) und Lauterbourg eingestellt",
+      "summary": "Der Zugverkehr auf der Linie RB52 ist ab 17 Uhr zwischen Wörth(Rhein) und Lauterbourg eingestellt. Der Grund ist ein erhöhter Krankenstand beim Fahrpersonal.",
+      "text": "<p><strong>Betroffene&nbsp;Linie(n):&nbsp;</strong></p><ul><li>RB52 - Wörth &lt;&gt; Hagenbach &lt;&gt; Lauterbourg</li></ul><p>Ein Ersatzverkehr mit einem Bus ist eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist.Bitte rechnen Sie für die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.DB Regio AG, Region Mitte</p>",
+      "durationBegin": "24.04.2025",
+      "durationEnd": "24.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/44e99281-b136-4728-ae54-727561fa6b84",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.04.2025 16:55",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c5d4b9f8-b83b-4bf0-be80-5e64bfe48d42",
+      "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
+    },
+    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -241,6 +278,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "00c385b6-1672-4777-9cde-16ce8da7bb5a",
+      "disruptionId": "ee885332-5032-4e85-81e9-8334558e467c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S3 Deisenhofen: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Deisenhofen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten und Teilausfällen. </p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "24.04.2025",
+      "durationEnd": "24.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/ee885332-5032-4e85-81e9-8334558e467c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/b6991db2-910b-4f39-a9f3-c3f06d5640a2reisendenkarte_20250424-171307.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/b6991db2-910b-4f39-a9f3-c3f06d5640a2reisendenkarte_20250424-171307.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.04.2025 17:13:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.04.2025 17:28",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/00c385b6-1672-4777-9cde-16ce8da7bb5a",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "3166b111-c990-43ae-ba8d-a5613361e3cf",
@@ -289,7 +371,7 @@
       },
       "headline": "Verspätungen und Abweichungen vom Fahrplan",
       "summary": "Aktuell kommt es auf der Linie S2 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 35 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: technische Störung an der Strecke ",
-      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "text": "<p>Folgende Informationen können wir derzeit ergänzen:</p><p>Die Linie S2 fährt bis auf Weiteres leider nur alle 10 Minuten. </p><p>Dies dient dazu Verspätungen abzubauen und die Auswirkungen auf das S-Bahn-Netz so gering wie möglich zu halten.</p>",
       "durationBegin": "24.04.2025",
       "durationEnd": "24.04.2025",
       "mapHref": "https://karte.bahn.de/detail/c3fa2f03-64ac-4af4-adfd-e628cfb9a930",
@@ -297,19 +379,19 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "24.04.2025 16:48",
+      "lastModified": "24.04.2025 17:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -654,6 +736,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ad201d3-745b-407e-a721-cfa5fa4271c2",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "231e6dcd-e41d-4eaa-8ee3-a240f511864c",
+      "disruptionId": "7f9bef26-8b0e-446c-8322-e7bf1592f081",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Zugausfälle zwischen Mulhouse Ville und Müllheim im Markgräflerland",
+      "summary": "Aufgrund eines Streiks bei der SNCF fallen am 27. April 2025 die Züge der Linie RB 28 zwischen Mulhouse Ville und Müllheim im Markgräflerland aus. Für die ausfallenden Züge wird ein Ersatzverkehr mit Bus eingerichtet.\n",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 28 Mulhouse Ville - Müllheim im Markgräflerland</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.04.2025",
+      "durationEnd": "27.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/7f9bef26-8b0e-446c-8322-e7bf1592f081",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/3c72df1b-57f2-4336-9fac-2d01f545d1b9reisendenkarte_20250424-171845.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/3c72df1b-57f2-4336-9fac-2d01f545d1b9reisendenkarte_20250424-171845.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.04.2025 17:18:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 28",
+          "filterName": "RB 28",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.04.2025 17:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/231e6dcd-e41d-4eaa-8ee3-a240f511864c",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_strike"
     },
     {
       "id": "a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
