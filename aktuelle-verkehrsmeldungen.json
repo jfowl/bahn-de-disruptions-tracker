@@ -2,6 +2,46 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "42eec7dc-c929-49d6-9c2f-df89e3c5c800",
+      "disruptionId": "5a5ce9b4-8cee-4e0e-9ee3-9f1ee11d858a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Misburg zwischen Hannover und Lehrte",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am Freitag, 25.04.2025 kommt es zwischen Hannover und Lehrte ab ca. 17:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge, die zwischen Hannover und Wolfsburg - Berlin verkehren</li><li>Alle ICE- und IC-Züge, die zwischen Hannover und Magdeburg verkehren</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.04.2025",
+      "durationEnd": "25.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/5a5ce9b4-8cee-4e0e-9ee3-9f1ee11d858a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.04.2025 00:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/42eec7dc-c929-49d6-9c2f-df89e3c5c800",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_police_activity"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -157,43 +197,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "c5d4b9f8-b83b-4bf0-be80-5e64bfe48d42",
-      "disruptionId": "44e99281-b136-4728-ae54-727561fa6b84",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugverkehr zw. Wörth(Rhein) und Lauterbourg eingestellt",
-      "summary": "Der Zugverkehr auf der Linie RB52 ist ab 17 Uhr zwischen Wörth(Rhein) und Lauterbourg eingestellt. Der Grund ist ein erhöhter Krankenstand beim Fahrpersonal.",
-      "text": "<p><strong>Betroffene&nbsp;Linie(n):&nbsp;</strong></p><ul><li>RB52 - Wörth &lt;&gt; Hagenbach &lt;&gt; Lauterbourg</li></ul><p><strong>Ein Ersatzverkehr mit einem Bus ist eingerichtet.</strong></p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall <strong>mehr Reisezeit</strong> ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "24.04.2025",
-      "durationEnd": "24.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/44e99281-b136-4728-ae54-727561fa6b84",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 52",
-          "filterName": "RB 52",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.04.2025 20:25",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c5d4b9f8-b83b-4bf0-be80-5e64bfe48d42",
-      "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
-    },
-    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -267,7 +270,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "24.04.2025 06:26",
+      "lastModified": "25.04.2025 00:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
