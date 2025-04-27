@@ -166,51 +166,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "9970e194-1682-48af-a1cc-34a474e1d261",
-      "disruptionId": "e11ddfa8-f71e-4f22-8e29-8b3e0177035f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 3 Mammendorf: Streckensperrung / Beeinträchtigungen / Polizeieinsatz / Update folgt",
-      "summary": "Die Strecke zwischen Olching und Lochhausen ist aktuell gesperrt.",
-      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Polizeieinsatz.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
-      "durationBegin": "27.04.2025",
-      "durationEnd": "27.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/e11ddfa8-f71e-4f22-8e29-8b3e0177035f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/10bf8834-a73b-46d9-9e27-651082a186a7reisendenkarte_20250427-183239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/10bf8834-a73b-46d9-9e27-651082a186a7reisendenkarte_20250427-183239.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.04.2025 18:32:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.04.2025 18:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9970e194-1682-48af-a1cc-34a474e1d261",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
-    },
-    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -269,16 +224,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 8 Flughafen: Beeinträchtigungen / Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "headline": "S 8 Flughafen: Aktuell keine Beeinträchtigungen / Reparatur an einem Signal",
+      "summary": "Es kommt momentan zu keinen Verspätungen mehr.",
       "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Ismaning.</p>",
       "durationBegin": "27.04.2025",
       "durationEnd": "27.04.2025",
       "mapHref": "https://karte.bahn.de/detail/4df62018-34a9-41e0-9479-b933c7678cec",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/ccecab6b-e329-4c30-9df4-a8d5c7a9c5careisendenkarte_20250427-180316.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/ccecab6b-e329-4c30-9df4-a8d5c7a9c5careisendenkarte_20250427-180316.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/2bf2b336-f331-418f-971f-67f8eeb0a8eereisendenkarte_20250427-180316.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/2bf2b336-f331-418f-971f-67f8eeb0a8eereisendenkarte_20250427-180316.png",
           "info": "",
           "alt": "Reisendenkarte 27.04.2025 18:03:16",
           "openInNewTab": true
@@ -299,12 +254,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.04.2025 18:27",
+      "lastModified": "27.04.2025 18:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/69be0dae-a71f-4646-8d39-e91332f9c09e",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "9970e194-1682-48af-a1cc-34a474e1d261",
+      "disruptionId": "e11ddfa8-f71e-4f22-8e29-8b3e0177035f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 3 Mammendorf: Streckensperrung aufgehoben / Folgebeeinträchtigungen / Polizeieinsatz beendet",
+      "summary": "Die Strecke zwischen Olching und Lochhausen ist nicht mehr gesperrt.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Polizeieinsatz.</p>",
+      "durationBegin": "27.04.2025",
+      "durationEnd": "27.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/e11ddfa8-f71e-4f22-8e29-8b3e0177035f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/4777fcd1-df59-4668-8269-62632b36c9dfreisendenkarte_20250427-183239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-27/4777fcd1-df59-4668-8269-62632b36c9dfreisendenkarte_20250427-183239.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.04.2025 18:32:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.04.2025 18:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9970e194-1682-48af-a1cc-34a474e1d261",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
