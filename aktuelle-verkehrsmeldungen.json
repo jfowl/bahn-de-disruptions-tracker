@@ -2,46 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "2db7f2c8-c9b2-4e66-9a64-773580e6c58a",
-      "disruptionId": "b2f07316-890a-4e58-9c28-76801ac6f8d5",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin",
-      "summary": "Aufgrund einer Streckenstörung zwischen Hamburg und Berlin kommt es derzeit zu Beeinträchtigungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-/ICE-/EC-Züge zwischen Hamburg und Berlin</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/b2f07316-890a-4e58-9c28-76801ac6f8d5",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "BB",
-        "ST",
-        "BE",
-        "MV",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.04.2025 07:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/2db7f2c8-c9b2-4e66-9a64-773580e6c58a",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "cc11dd97-9963-4dc6-b103-3a3839b8116e",
       "disruptionId": "c954f0c7-7b7c-46d7-b3e0-da5af6550a95",
       "author": "REGIO_SUEDOST",
@@ -206,6 +166,48 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
     },
     {
+      "id": "9924cf71-875d-489a-80b2-5c420a97cbb2",
+      "disruptionId": "dacd58f4-51c5-4f7a-9226-46578725d002",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Info: Aufzüge in Neugraben außer Betrieb",
+      "summary": "Für Fahrgäste die in Neugraben ein oder aussteigen müssen und die in ihrer Mobilität eingeschränkt sind, ergeben sich wegen defekter Aufzüge leider größere Einschränkungen. Bitte aufklappen >>>",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p>Für alle, die in Neugraben einsteigen:</p><p><strong>Richtung Harburg / Hauptbahnhof:</strong></p><p>Linie <strong>S5 von Gleis 1</strong> (barrierefreier Zugang über Rampe)</p><p><strong>Bus</strong>linien <strong>250 oder 251</strong> bis <strong>S Neuwiedenthal,</strong> von dort Linie <strong>S3 oder S5</strong> (Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Richtung Buxtehude / Stade:</strong></p><p>Linie <strong>S5</strong> von Gleis 1 (barrierefreier Zugang über Rampe) <strong>bis nach Neuwiedenthal</strong>, von dort in die S-Bahnen der Linie <strong>S5 in Richtung Buxtehude / Stade</strong> (Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Bus</strong>linien <strong>250 oder 251</strong> bis <strong>S Neuwiedenthal</strong>, von dort in die S-Bahnen der Linie <strong>S5 in Richtung Buxtehude / Stade</strong> (Zugang in Neuwiedenthal via Aufzug)</p><p>Für alle, die in Neugraben aussteigen:</p><p><strong>Aus Richtung Harburg / Innenstadt:</strong></p><p>Schon eine Station vorher in <strong>Neuwiedenthal </strong>aussteigen, von dort mit den <strong>Bus</strong>linien <strong>250 oder 251</strong> bis S <strong>Neugraben</strong> fahren. (Zugang in Neuwiedenthal via Aufzug)</p><p><strong>Aus Richtung Stade / Buxtehude:</strong></p><p>Normalerweise sollte die <strong>S5 aus dieser Richtung</strong> am Gleis 1 halten und ein Verlassen der Station damit <strong>barrierefrei</strong> möglich sein.</p><p>Ansonsten bitte eine Station weiter bis Neuwiedenthal fahren und von dort mit den Buslinien 250 oder 251 bis S Neugraben fahren. (Zugang in Neuwiedenthal via Aufzug)</p>",
+      "durationBegin": "28.04.2025",
+      "durationEnd": "05.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/dacd58f4-51c5-4f7a-9226-46578725d002",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.04.2025 14:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9924cf71-875d-489a-80b2-5c420a97cbb2",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -301,41 +303,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "a78ec08e-1994-464a-b1d7-c720fb17e51a",
-      "disruptionId": "5827538d-da63-4dfb-bfdf-55eb8e5ca170",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung in Gießen",
-      "summary": "Aufgrund einer Reparatur an der Weiche in Gießen auf der Strecke zwischen Frankfurt(M) und Kassel kommt es derzeit zu Beeinträchtigungen und einzelnen Verspätungen bis zu 45 Minuten im Fernverkehr der Deutschen Bahn.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge auf der Verbindung Frankfurt(M) - Kassel-Wilhelmshöhe - Norddeutschland / Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/5827538d-da63-4dfb-bfdf-55eb8e5ca170",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.04.2025 10:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a78ec08e-1994-464a-b1d7-c720fb17e51a",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -588,6 +555,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "867ecfe0-8a5a-4627-8a42-83fb1bde70ac",
+      "disruptionId": "264f5509-8d03-4030-8f00-e80cf675f5d0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 5 Hohenbrunn: Reparatur an einem Signal",
+      "summary": "Im Bereich Hohenbrunn kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "28.04.2025",
+      "durationEnd": "28.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/264f5509-8d03-4030-8f00-e80cf675f5d0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-28/8cc7c334-43d6-47ca-b557-58c367a5ecc3reisendenkarte_20250428-141042.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-28/8cc7c334-43d6-47ca-b557-58c367a5ecc3reisendenkarte_20250428-141042.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.04.2025 14:10:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.04.2025 14:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/867ecfe0-8a5a-4627-8a42-83fb1bde70ac",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
