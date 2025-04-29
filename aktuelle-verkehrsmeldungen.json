@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "45c9baea-7165-4798-a709-afd0cafd78ff",
+      "disruptionId": "d3751b96-310e-4727-9546-a0a0b3f18ed5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Mainz",
+      "summary": "Aufgrund von Bauarbeiten am Rechten und linken Rhein zwischen Koblenz und Mainz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 90 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Züge zwischen Köln und Mainz</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/d3751b96-310e-4727-9546-a0a0b3f18ed5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.04.2025 02:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/45c9baea-7165-4798-a709-afd0cafd78ff",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
+    },
+    {
       "id": "cc11dd97-9963-4dc6-b103-3a3839b8116e",
       "disruptionId": "c954f0c7-7b7c-46d7-b3e0-da5af6550a95",
       "author": "REGIO_SUEDOST",
@@ -46,92 +83,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cc11dd97-9963-4dc6-b103-3a3839b8116e",
       "magnoliaPath": "/aktuell/suedost/no_service_other_cause"
-    },
-    {
-      "id": "3325cd6f-a2e8-4422-9088-9a1aaca6f0b2",
-      "disruptionId": "5b937ceb-b731-4ac3-9606-2e284d4fd4da",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Reparatur an einem Signal zwischen Hamburg und Ahrensburg",
-      "summary": "Die Reparatur an einem Signal zwischen Hamburg und Ahrensburg wurde beendet.  ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Die Züge verkehren wieder planmäßig.</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Die Züge verkehren wieder planmäßig.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "28.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/5b937ceb-b731-4ac3-9606-2e284d4fd4da",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-29/a699207a-76f1-49e3-a7b6-c42c9f5e5decreisendenkarte_20250428-210506.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-29/a699207a-76f1-49e3-a7b6-c42c9f5e5decreisendenkarte_20250428-210506.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.04.2025 21:05:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de/aktuell",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 80",
-          "filterName": "RE 80",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.04.2025 00:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3325cd6f-a2e8-4422-9088-9a1aaca6f0b2",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
     },
     {
       "id": "3673630e-d3f4-43ba-9ebc-818f94431596",
