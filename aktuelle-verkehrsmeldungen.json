@@ -749,6 +749,51 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "f7bf3ae3-c265-40d4-b91d-85cbbacce19c",
+      "disruptionId": "25fc197a-4a04-49c3-83c5-cb5d58071def",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 4 Geltendorf: Kurzfristige Bauarbeiten in der Nacht 30.04./01.05. wegen Reparatur an einer Weiche / Ersatzverkehr / Beeinträchtigungen",
+      "summary": "Die Strecke zwischen Puchheim und Fürstenfeldbruck wird in der Nacht vom 30.04.2025 ca. 23 Uhr auf 01.05.2025 ca. 5 Uhr gesperrt.",
+      "text": "<p>Es wird ein Ersatzverkehr zwischen Puchheim und Fürstenfeldbruck mit einem BUS für Sie eingerichtet.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür sind kurzfristige Bauarbeiten in der Nacht wegen einer Reparatur an einer Weiche.</p>",
+      "durationBegin": "30.04.2025",
+      "durationEnd": "01.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/25fc197a-4a04-49c3-83c5-cb5d58071def",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-30/1b4d3372-3989-47bb-a52c-b829ca123178reisendenkarte_20250430-185518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-30/1b4d3372-3989-47bb-a52c-b829ca123178reisendenkarte_20250430-185518.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.04.2025 18:55:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.04.2025 19:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f7bf3ae3-c265-40d4-b91d-85cbbacce19c",
+      "magnoliaPath": "/aktuell/bayern/additional_service_technical_problem_railway_section"
+    },
+    {
       "id": "0101c713-541e-434c-a92b-e6489d2745d4",
       "disruptionId": "d367b421-ead9-4ada-81f6-f93b432c0a7b",
       "author": "REGIO_SUEDOST",
@@ -798,6 +843,41 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0101c713-541e-434c-a92b-e6489d2745d4",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "ad8986e2-1d88-469f-96b3-68a5dad28d9d",
+      "disruptionId": "f455cb70-fd87-4340-a959-28181cc5c9fa",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Hamm(Westf) und Dortmund",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Hamm(Westf) und Dortmund kommt es derzeit zu Umleitungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Norddeutschland - Dortmund - Köln und nur in dieser Fahrtrichtung</li><li>IC-Züge der Verbindung Erfurt / Leipzig - Dortmund - Köln und nur in dieser Fahrtrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/f455cb70-fd87-4340-a959-28181cc5c9fa",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.04.2025 18:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ad8986e2-1d88-469f-96b3-68a5dad28d9d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
