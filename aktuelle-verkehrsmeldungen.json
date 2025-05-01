@@ -401,16 +401,16 @@
         "category": "medical_emergency",
         "label": "Notarzteinsatz auf der Strecke"
       },
-      "headline": "S 3 Holzkirchen: Streckensperrung / Ersatzverkehr in Planung / Beeinträchtigungen / Notarzteinsatz auf der Strecke / Update folgt",
-      "summary": "Die Strecke zwischen Deisenhofen und Giesing ist momentan leider gesperrt.",
-      "text": "<p>Ein Ersatzverkehr ist aktuell in Planung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Notarzteinsatz auf der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
+      "headline": "S 3 Holzkirchen: Streckensperrung aufgehoben / Folgebeeinträchtigungen / Notarzteinsatz auf der Strecke beendet",
+      "summary": "Die Strecke zwischen Deisenhofen und Giesing ist nicht mehr gesperrt.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Notarzteinsatz auf der Strecke.</p>",
       "durationBegin": "01.05.2025",
       "durationEnd": "01.05.2025",
       "mapHref": "https://karte.bahn.de/detail/621a9c5d-8dcf-44f5-81d6-a795aa452a1c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/f6e2f3d7-3874-4449-a9fa-6bd28ff37c5ereisendenkarte_20250501-172902.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/f6e2f3d7-3874-4449-a9fa-6bd28ff37c5ereisendenkarte_20250501-172902.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/99d6b11d-38af-435d-b4f8-9b90f75d0192reisendenkarte_20250501-172902.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/99d6b11d-38af-435d-b4f8-9b90f75d0192reisendenkarte_20250501-172902.png",
           "info": "",
           "alt": "Reisendenkarte 01.05.2025 17:29:02",
           "openInNewTab": true
@@ -431,7 +431,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.05.2025 17:30",
+      "lastModified": "01.05.2025 18:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -490,25 +490,60 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "1e9a3711-b5a2-436f-a6a8-94b0e861a799",
-      "disruptionId": "f5490320-ffca-4d43-990c-15fa4f6c01d1",
+      "id": "f4d5ba63-779e-4dda-ba7a-956b6238fb5e",
+      "disruptionId": "75d6dca4-f570-4d1a-b6ba-3f7a1817a65b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Fulda und Frankfurt(M)",
+      "summary": "Aufgrund von Bauarbeiten zwischen Schlüchtern-Ziegenberg und Flieden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge aus Richtung Kassel und Fulda und Gegenrichtung:</li><li>Es kommt zu einzelnen Ausfällen und zu Verspätungen bis zu 10 Minuten </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/75d6dca4-f570-4d1a-b6ba-3f7a1817a65b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.05.2025 18:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f4d5ba63-779e-4dda-ba7a-956b6238fb5e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction0"
+    },
+    {
+      "id": "d64f8572-8b43-4206-8357-2cbf01a997e2",
+      "disruptionId": "890b36e8-dbcb-49cf-9494-64c7c7f58f39",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 5 Neubiberg: Beeinträchtigungen / Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Neubiberg.</p>",
+      "headline": "S 6 Tutzing: Beeinträchtigungen / Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang bei Starnberg.</p>",
       "durationBegin": "01.05.2025",
       "durationEnd": "01.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/f5490320-ffca-4d43-990c-15fa4f6c01d1",
+      "mapHref": "https://karte.bahn.de/detail/890b36e8-dbcb-49cf-9494-64c7c7f58f39",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/efb72da4-8da0-41b3-b7b2-c14def6b6bd4reisendenkarte_20250501-174018.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/efb72da4-8da0-41b3-b7b2-c14def6b6bd4reisendenkarte_20250501-174018.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/33f6ff04-bc66-44b5-9abd-8aafbce75b6breisendenkarte_20250501-182442.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/33f6ff04-bc66-44b5-9abd-8aafbce75b6breisendenkarte_20250501-182442.png",
           "info": "",
-          "alt": "Reisendenkarte 01.05.2025 17:40:18",
+          "alt": "Reisendenkarte 01.05.2025 18:24:42",
           "openInNewTab": true
         }
       ],
@@ -522,17 +557,62 @@
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.05.2025 17:43",
+      "lastModified": "01.05.2025 18:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1e9a3711-b5a2-436f-a6a8-94b0e861a799",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/d64f8572-8b43-4206-8357-2cbf01a997e2",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
+    },
+    {
+      "id": "d06c8609-fd18-4edd-ade6-9ec9640fc09f",
+      "disruptionId": "f50898b9-253f-4689-a5e0-8fc5330e5634",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Wolfratshausen: Beeinträchtigungen / Reparatur an einem Signal",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Mittersendling.</p>",
+      "durationBegin": "01.05.2025",
+      "durationEnd": "01.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/f50898b9-253f-4689-a5e0-8fc5330e5634",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/4be8cc75-1ab6-4bf5-9b66-36f68ff3c44creisendenkarte_20250501-182012.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/4be8cc75-1ab6-4bf5-9b66-36f68ff3c44creisendenkarte_20250501-182012.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.05.2025 18:20:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.05.2025 18:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d06c8609-fd18-4edd-ade6-9ec9640fc09f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
