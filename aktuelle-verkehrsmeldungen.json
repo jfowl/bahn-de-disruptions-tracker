@@ -2,46 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "75af2177-8292-4be4-a4e8-b6f7f19be783",
-      "disruptionId": "829e5041-10bd-4d8b-a7e5-761caf736abd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Stuttgart Hbf und Ulm Hbf",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Plochingen und Ulm Hbf  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden umgeleitet, es entstehen Verspätungen von 15-20 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC/RJX zwischen Stuttgart Hbf und Ulm Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.05.2025",
-      "durationEnd": "01.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/829e5041-10bd-4d8b-a7e5-761caf736abd",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.05.2025 17:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/75af2177-8292-4be4-a4e8-b6f7f19be783",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
-    },
-    {
       "id": "b5609952-3cb6-48c6-b752-5cf73bd59c2b",
       "disruptionId": "674080be-281a-4f6a-b47a-896ffd1c77dd",
       "author": "REGIO_MITTE",
@@ -434,6 +394,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "08136f61-fad3-41fd-8ec7-b0fc2ea2c3a9",
+      "disruptionId": "621a9c5d-8dcf-44f5-81d6-a795aa452a1c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S 3 Holzkirchen: Streckensperrung / Ersatzverkehr in Planung / Beeinträchtigungen / Notarzteinsatz auf der Strecke / Update folgt",
+      "summary": "Die Strecke zwischen Deisenhofen und Giesing ist momentan leider gesperrt.",
+      "text": "<p>Ein Ersatzverkehr ist aktuell in Planung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Notarzteinsatz auf der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
+      "durationBegin": "01.05.2025",
+      "durationEnd": "01.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/621a9c5d-8dcf-44f5-81d6-a795aa452a1c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/f6e2f3d7-3874-4449-a9fa-6bd28ff37c5ereisendenkarte_20250501-172902.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/f6e2f3d7-3874-4449-a9fa-6bd28ff37c5ereisendenkarte_20250501-172902.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.05.2025 17:29:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.05.2025 17:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/08136f61-fad3-41fd-8ec7-b0fc2ea2c3a9",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency"
+    },
+    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -483,6 +488,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "1e9a3711-b5a2-436f-a6a8-94b0e861a799",
+      "disruptionId": "f5490320-ffca-4d43-990c-15fa4f6c01d1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 5 Neubiberg: Beeinträchtigungen / Reparatur an einem Signal",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Neubiberg.</p>",
+      "durationBegin": "01.05.2025",
+      "durationEnd": "01.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/f5490320-ffca-4d43-990c-15fa4f6c01d1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/efb72da4-8da0-41b3-b7b2-c14def6b6bd4reisendenkarte_20250501-174018.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-01/efb72da4-8da0-41b3-b7b2-c14def6b6bd4reisendenkarte_20250501-174018.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.05.2025 17:40:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.05.2025 17:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e9a3711-b5a2-436f-a6a8-94b0e861a799",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
