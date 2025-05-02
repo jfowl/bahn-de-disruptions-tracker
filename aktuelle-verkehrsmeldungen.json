@@ -243,25 +243,25 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction0"
     },
     {
-      "id": "2ba48383-ee69-4c88-ace2-d4c3d86160c1",
-      "disruptionId": "2a089cd9-1714-437e-b2c4-34f4a4904dc2",
+      "id": "3a948adc-6211-4e6d-92ab-6b3caa171c58",
+      "disruptionId": "d146478b-237e-420e-9333-4c241e9cc2e4",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "S 7 / S 20 Höllriegelskreuth: Beeinträchtigungen / Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Höllriegelskreuth.</p>",
+      "headline": "Stammstrecke / Gesamtnetz: Folgebeeinträchtigungen / Vorangegangener Polizeieinsatz",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein vorangegangener Polizeieinsatz auf der Stammstrecke.</p>",
       "durationBegin": "02.05.2025",
       "durationEnd": "02.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/2a089cd9-1714-437e-b2c4-34f4a4904dc2",
+      "mapHref": "https://karte.bahn.de/detail/d146478b-237e-420e-9333-4c241e9cc2e4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/f1f7c2c6-47d9-4858-9d87-543d58a01ad9reisendenkarte_20250502-174104.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/f1f7c2c6-47d9-4858-9d87-543d58a01ad9reisendenkarte_20250502-174104.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/38f51780-b139-4f89-ae9d-edc1b15e9419reisendenkarte_20250502-195214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/38f51780-b139-4f89-ae9d-edc1b15e9419reisendenkarte_20250502-195214.png",
           "info": "",
-          "alt": "Reisendenkarte 02.05.2025 17:41:04",
+          "alt": "Reisendenkarte 02.05.2025 19:52:14",
           "openInNewTab": true
         }
       ],
@@ -275,22 +275,52 @@
       ],
       "lines": [
         {
-          "name": "S 20",
-          "filterName": "S 20 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         },
         {
           "name": "S 7",
           "filterName": "S 7 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.05.2025 19:08",
+      "lastModified": "02.05.2025 19:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2ba48383-ee69-4c88-ace2-d4c3d86160c1",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
+      "detailPagePath": "/service/fahrplaene/3a948adc-6211-4e6d-92ab-6b3caa171c58",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -660,43 +690,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/37223eba-056c-4317-86f9-9f52dde25b18",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_construction2"
-    },
-    {
-      "id": "5edcde50-93a2-4c98-b622-a2a2ec3e7c7e",
-      "disruptionId": "063fa5ac-88c4-4ded-87a3-8cfe81654973",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main) ",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist eine Erkrankung von Stellwerkspersonal.",
-      "text": "<strong>Betroffene Linien:</strong><ul><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>Zeitraum:</strong><ul><li>Am 02.05.2025 von 12:00 Uhr bis 20:30 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><ul><li>Die S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
-      "durationBegin": "02.05.2025",
-      "durationEnd": "02.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/063fa5ac-88c4-4ded-87a3-8cfe81654973",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.05.2025 11:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5edcde50-93a2-4c98-b622-a2a2ec3e7c7e",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
       "id": "83b39513-6022-4d96-9e4c-481a40b97889",
