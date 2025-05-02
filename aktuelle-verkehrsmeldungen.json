@@ -594,6 +594,53 @@
       "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
+      "id": "83b39513-6022-4d96-9e4c-481a40b97889",
+      "disruptionId": "e72c8894-ad44-47bb-a6e3-8bef8c62935f",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt(Main)Hbf ",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist eine Erkrankung von Stellwerkspersonal.",
+      "text": "<strong>Betroffene Linien:</strong><ul><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li><li>RE20/ RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><strong>Zeitraum:</strong><ul><li>Am Freitag, den 02.05.2025 von 12:00 bis 20:00 Uhr</li><li>Am Samstag, den 03.05.2025 von 06:00 bis 18:00 Uhr</li><li>Am Montag, den 05.05.2025 von 06:00 bis 12:00 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><ul><li>RB34: Es kommt zu Teilausfällen zwischen Frankfurt(Main)Hbf und Bad Vilbel</li><li>RE20/ RB22 Es kommt zu Teilausfällen zwischen Frankfurt(Main)Hbf und Frankfurt-Höchst.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "02.05.2025",
+      "durationEnd": "05.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e72c8894-ad44-47bb-a6e3-8bef8c62935f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 34",
+          "filterName": "RB 34",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.05.2025 12:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/83b39513-6022-4d96-9e4c-481a40b97889",
+      "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause"
+    },
+    {
       "id": "0101c713-541e-434c-a92b-e6489d2745d4",
       "disruptionId": "d367b421-ead9-4ada-81f6-f93b432c0a7b",
       "author": "REGIO_SUEDOST",
@@ -669,20 +716,28 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "90028840-1d7d-4db7-b8b3-bdc4a9cc5475",
-      "disruptionId": "7e96fdca-b08d-46be-ac0a-0eaf19ad9a31",
+      "id": "e8a1b3e9-ea67-4f97-8f23-f1cdc45b23c5",
+      "disruptionId": "f100657a-8a75-4a25-9cc8-5d95b4ba0802",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Folgeverspätungen von bis zu 15 Minuten, Teilausfällen und vereinzelten Umleitungen.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "headline": "S 6 Westkreuz ↔ Starnberg Nord: Reparatur an einer Weiche",
+      "summary": "Zwischen Westkreuz und Starnberg Nord kommt es zu Verspätungen, Teilausfällen und Umleitungen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "02.05.2025",
       "durationEnd": "02.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/7e96fdca-b08d-46be-ac0a-0eaf19ad9a31",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/f100657a-8a75-4a25-9cc8-5d95b4ba0802",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/6f8978e9-f82f-45bd-a892-bae63db9ba1areisendenkarte_20250502-121554.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-02/6f8978e9-f82f-45bd-a892-bae63db9ba1areisendenkarte_20250502-121554.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.05.2025 12:15:54",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -693,47 +748,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.05.2025 11:46",
+      "lastModified": "02.05.2025 12:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/90028840-1d7d-4db7-b8b3-bdc4a9cc5475",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/e8a1b3e9-ea67-4f97-8f23-f1cdc45b23c5",
+      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section0"
     },
     {
       "id": "ad8986e2-1d88-469f-96b3-68a5dad28d9d",
