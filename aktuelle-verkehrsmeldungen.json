@@ -354,16 +354,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke / Gesamtnetz: Beeinträchtigungen / Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal zwischen Hackerbrücke und Hauptbahnhof.</p>",
+      "headline": "Stammstrecke / Gesamtnetz: Folgebeeinträchtigungen / Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal zwischen Hackerbrücke und Hauptbahnhof.</p>",
       "durationBegin": "05.05.2025",
       "durationEnd": "05.05.2025",
       "mapHref": "https://karte.bahn.de/detail/03dcd4b9-1663-4f54-b779-06ac50d65fb1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-05/a3139553-ab10-4928-9b16-b29767c54de4reisendenkarte_20250505-161824.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-05/a3139553-ab10-4928-9b16-b29767c54de4reisendenkarte_20250505-161824.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-05/8d7da742-c3d5-4066-8fd0-8ec4e51e77a4reisendenkarte_20250505-161824.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-05/8d7da742-c3d5-4066-8fd0-8ec4e51e77a4reisendenkarte_20250505-161824.png",
           "info": "",
           "alt": "Reisendenkarte 05.05.2025 16:18:24",
           "openInNewTab": true
@@ -414,7 +414,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.05.2025 16:26",
+      "lastModified": "05.05.2025 16:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -948,6 +948,42 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f6c7652f-7ce7-4b29-9f2a-b86a782280c2",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_accident"
+    },
+    {
+      "id": "383aa08b-de56-47e1-889c-06a64af1691a",
+      "disruptionId": "16ba8ee7-2bc8-4d37-abc9-a3267b8a1354",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Wanne-Eickel zwischen Dortmund bzw. Recklinghausen und Gelsenkirchen",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am heutigen Montag, 05.05.2025 kommt es ab ca. 17:00 Uhr in Wanne-Eickel zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen zwischen Münster(Westf)Hbf und Duisburg Hbf umgeleitet werden und können leider nicht in Recklinghausen Hbf, Wanne-Eickel Hbf, Gelsenkirchen Hbf und Oberhausen Hbf halten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Norddeich Mole – Emden – Münster (Westf) – Köln – Koblenz</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Recklinghausen Hbf und Wanne-Eickel Hbf erreichen Sie ab Münster(Westf) mit den Zügen der Regionalverkehrslinien RE 2 und RE 42</li><li>Gelsenkirchen Hbf erreichen Sie ab Essen Hbf mit den Zügen der S-Bahnlinie S 2</li><li>Oberhausen Hbf erreichen Sie ab Duisburg Hbf mit den Zügen des Regionalverkehrs</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.05.2025",
+      "durationEnd": "05.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/16ba8ee7-2bc8-4d37-abc9-a3267b8a1354",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.05.2025 16:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/383aa08b-de56-47e1-889c-06a64af1691a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_police_activity"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
