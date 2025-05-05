@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "64adad40-45e8-4eb4-8e1e-a5d3c1299ec3",
+      "disruptionId": "bdacea2e-ab28-4ac9-8f51-5ec31d61ede1",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Vorübergehend reduziertes Fahrplanangebot im S-Bahn und Regionalverkehr Ludwigshafen!",
+      "summary": "Ab dem 05.05.2025 bis zum 26.05.2025 gilt im S-Bahn- und Regionalverkehr rund um Ludwigshafen ein reduziertes Fahrplanangebot. Der Grund ist ein erhöhter Krankenstand beim Stellwerkspersonal. ",
+      "text": "<p><strong>Betroffene Linien:</strong></p><p><strong>RE14 Frankfurt/Main – Mainz – Ludwigshafen – Mannheim  </strong>(Entfällt größtenteils- nur ein Zug am Abend verkehrt weiterhin.)</p><p><strong>S44&nbsp;Ludwigshafen – LU BASF Nord (BASF-Werksbahn) </strong>(Vereinzelnde Ausfälle)</p><p>Unsere Empfehlung: Nutzen Sie die S6 und RE4 um an Ihr Ziel zu gelangen.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch <strong>im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen</strong> kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter<strong> www.bahn.de</strong>.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p>DB Regio AG, Region Mitte</p>",
+      "durationBegin": "05.05.2025",
+      "durationEnd": "25.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/bdacea2e-ab28-4ac9-8f51-5ec31d61ede1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "SL",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 44",
+          "filterName": "S 44 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.05.2025 11:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/64adad40-45e8-4eb4-8e1e-a5d3c1299ec3",
+      "magnoliaPath": "/aktuell/mitte/massive_impairment_other_cause"
+    },
+    {
       "id": "6917ac99-2c42-4d67-87b6-7d4729e92f70",
       "disruptionId": "c6a08247-776b-4997-b8a6-0e793c5cdafd",
       "author": "REGIO_NORD",
@@ -16,8 +60,8 @@
       "mapHref": "https://karte.bahn.de/detail/c6a08247-776b-4997-b8a6-0e793c5cdafd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/16d24f7e-b825-4614-a7b7-7d284e118db4reisendenkarte_20250505-060032.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/16d24f7e-b825-4614-a7b7-7d284e118db4reisendenkarte_20250505-060032.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/6d706d8c-e2b7-4d63-b346-f542d09b1066reisendenkarte_20250505-060032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/6d706d8c-e2b7-4d63-b346-f542d09b1066reisendenkarte_20250505-060032.png",
           "info": "",
           "alt": "Reisendenkarte 05.05.2025 06:00:32",
           "openInNewTab": true
@@ -26,20 +70,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://twitter.com/dbregio_NDS",
           "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
           "info": "",
           "openInNewTab": true
         },
@@ -56,8 +94,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         }
@@ -81,7 +125,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.05.2025 10:22",
+      "lastModified": "05.05.2025 11:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
