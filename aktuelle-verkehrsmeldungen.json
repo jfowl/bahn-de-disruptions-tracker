@@ -2,6 +2,87 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "6917ac99-2c42-4d67-87b6-7d4729e92f70",
+      "disruptionId": "c6a08247-776b-4997-b8a6-0e793c5cdafd",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Reparatur an der Strecke zwischen Hannover Hbf und Nienburg(Weser) beendet",
+      "summary": "Die Reparatur an der Strecke ist beendet. Der Regionalverkehr zwischen Hannover Hbf und Nienburg(Weser) stabilisiert sich. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li><strong>RE 1</strong> (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Die Züge der Linie RE 1 verkehren mit Folgeverspätungen bis zu 20 Minuten.</li><li><strong>RE 8</strong> (Bremerhaven-Lehe – Hannover Hbf): Die Züge der Linie RE 8 verkehren mit Folgeverspätungen bis zu 20 Minuten.</li></ul><p>Der Ersatzverkehr mit Bussen endet.</p><p>Infolge der Störung kann es vereinzelt noch zu Teilausfällen kommen.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "05.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/c6a08247-776b-4997-b8a6-0e793c5cdafd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/f4e35fb7-0795-4b60-91e2-efaaab45beb0reisendenkarte_20250505-060032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/f4e35fb7-0795-4b60-91e2-efaaab45beb0reisendenkarte_20250505-060032.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.05.2025 06:00:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2025 09:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6917ac99-2c42-4d67-87b6-7d4729e92f70",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "c81b8108-fa76-4d24-a9e8-932368c281ee",
       "disruptionId": "7de39ad1-2a13-44ac-81dc-8e34eb74ebdf",
       "author": "FERNVERKEHR_AG",
@@ -44,87 +125,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c81b8108-fa76-4d24-a9e8-932368c281ee",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "6917ac99-2c42-4d67-87b6-7d4729e92f70",
-      "disruptionId": "c6a08247-776b-4997-b8a6-0e793c5cdafd",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Reparatur an der Strecke zwischen Hannover Hbf und Nienburg(Weser) beendet",
-      "summary": "Die Reparatur an der Strecke ist beendet. Der Regionalverkehr zwischen Hannover Hbf und Nienburg(Weser) stabilisiert sich. ",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li><strong>RE 1</strong> (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Die Züge der Linie RE 1 verkehren mit Folgeverspätungen bis zu 20 Minuten.</li><li><strong>RE 8</strong> (Bremerhaven-Lehe – Hannover Hbf): Die Züge der Linie RE 8 verkehren mit Folgeverspätungen bis zu 20 Minuten.</li></ul><p>Der Ersatzverkehr mit Bussen endet.</p><p>Infolge der Störung kann es vereinzelt noch zu Teilausfällen kommen.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "05.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/c6a08247-776b-4997-b8a6-0e793c5cdafd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/5fa2ef81-4d34-4bfe-b8e9-4df2a5c53fd0reisendenkarte_20250505-060032.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-05/5fa2ef81-4d34-4bfe-b8e9-4df2a5c53fd0reisendenkarte_20250505-060032.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.05.2025 06:00:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2025 07:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6917ac99-2c42-4d67-87b6-7d4729e92f70",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
     },
     {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
