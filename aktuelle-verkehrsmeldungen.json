@@ -46,6 +46,93 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_other_cause"
     },
     {
+      "id": "47d2a765-5da9-4b86-b398-09a0940c8a64",
+      "disruptionId": "a0f033df-d316-4d2f-8fb4-8d8848e22189",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Kampfmittelsondierung - Beeinträchtigungen im Regionalverkehr zwischen Hannover Hbf und Bremen Hbf",
+      "summary": "Aufgrund einer Kampfmittelsondierung im Raum Wunstorf kommt es heute zwischen Hannover Hbf und Bremen Hbf zu Zugverspätungen und Ausfällen im Regionalverkehr. Zur Störungsdauer liegen uns derzeit noch keine Informationen vor.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li><strong>RE 1</strong> (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Die Zügen fallen zwischen Nienburg(Weser) und Hannover Hbf aus. Ersatzverkehr mit Bussen wird zwischen NIenburg(Weser) und Hannover Hbf im Pendel eingerichtet.</li><li><strong>RE 8</strong> (Bremerhaven-Lehe – Hannover Hbf): Die Zügen fallen zwischen Nienburg(Weser) und Hannover Hbf aus. Ersatzverkehr mit Bussen wird zwischen NIenburg(Weser) und Hannover Hbf im Pendel eingerichtet.</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Sobald uns weitere Informationen vorliegen, informieren wir Sie hier. </p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "06.05.2025",
+      "durationEnd": "15.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/a0f033df-d316-4d2f-8fb4-8d8848e22189",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-06/9136e08c-2aae-4f50-8b96-f675dae6db6freisendenkarte_20250506-120452.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-06/9136e08c-2aae-4f50-8b96-f675dae6db6freisendenkarte_20250506-120452.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.05.2025 12:04:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2025 12:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/47d2a765-5da9-4b86-b398-09a0940c8a64",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -624,43 +711,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/062df190-1193-4991-8b76-c76494d06d72",
       "magnoliaPath": "/aktuell/hessen/Fzf-Unterbesetzung-06.05.2025"
-    },
-    {
-      "id": "ec621126-2bb9-4b67-add7-653fd817e5a9",
-      "disruptionId": "6d8d2ac2-ff9a-4fa5-ac3f-0e40238628e3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Perlach kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "06.05.2025",
-      "durationEnd": "06.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/6d8d2ac2-ff9a-4fa5-ac3f-0e40238628e3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.05.2025 11:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ec621126-2bb9-4b67-add7-653fd817e5a9",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
