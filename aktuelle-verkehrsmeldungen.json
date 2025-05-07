@@ -468,6 +468,41 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "8b5da58c-3689-4bd4-b9e8-8744c2eec535",
+      "disruptionId": "885ed972-7d36-478a-b0d5-85ba8ac13906",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Aachen und Lüttich/Liège (Belgien)",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Aachen und Liège kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu Teilausfällen im internationalen Verkehr zwischen Deutschland und Belgien.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Frankfurt(Main) - Köln - Aachen - Brüssel/Bruxelles</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong> Zwischen Aachen und Liège verkehren weiterhin die Züge der Regionalverkehrslinie RE 18.</p><p>An der Störungsbeseitigung wird unter Hochdruck gearbeitet. Die Behebung der Störung soll vsl. bis in die frühen Nachmittagsstunden am heutigen Mittwoch, 07. Mai 2025 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/885ed972-7d36-478a-b0d5-85ba8ac13906",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.05.2025 08:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8b5da58c-3689-4bd4-b9e8-8744c2eec535",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "7933ef1d-0225-441a-acac-4c937571b9ec",
       "disruptionId": "5c914741-31f2-4aea-9a04-25449bf409bc",
       "author": "REGIO_NORDOST",
@@ -583,6 +618,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/37223eba-056c-4317-86f9-9f52dde25b18",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_construction2"
+    },
+    {
+      "id": "453f5f0f-982c-4760-8efa-3c81d8f999ea",
+      "disruptionId": "e56a3ef3-7b3c-4fe4-a682-702a504c10ae",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 2 Ottenhofen ↔ Altenerding",
+      "summary": "Zwischen Ottenhofen und Altenerding kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "07.05.2025",
+      "durationEnd": "07.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e56a3ef3-7b3c-4fe4-a682-702a504c10ae",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-07/7440577f-03ec-49e9-85cf-0fbafdcdf745reisendenkarte_20250507-113239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-07/7440577f-03ec-49e9-85cf-0fbafdcdf745reisendenkarte_20250507-113239.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.05.2025 11:32:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.05.2025 11:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/453f5f0f-982c-4760-8efa-3c81d8f999ea",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
