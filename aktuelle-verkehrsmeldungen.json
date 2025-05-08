@@ -275,20 +275,13 @@
         "category": "police_activity",
         "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Teil- und Zugausfällen im Raum Kassel ",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>Betroffene Linien:</strong><ul><li>RB4: Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmshöhe</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>Zeitraum:</strong><ul><li>Am 08.05.2025 ab ca. 09:30 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><p></p><p>Ab <strong>ca. 09:30 Uhr</strong> wird der Bahnhof Kassel Hbf gesperrt:</p><ul><li>Die RB4 entfällt zwischen Vellmar-Obervellmar und Kassel-Wilhelmshöhe. Die Züge halten zwischen Wolfhagen und Vellmar-Obervellmar an allen Stationen für die Linie RT4.</li><li>Der RE30 entfällt zwischen Kassel-Wilhelmshöhe und Kassel Hbf.</li><li>Die RB39 / RE39 entfällt zwischen Kassel-Wilhelmshöhe und Kassel Hbf.</li></ul><p></p><strong>Empfehlungen und Ersatzverkehr:</strong><strong></strong><ul><li>Prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</li><li>Für die RB4 und RT4 verkehrt für Sie ein Ersatzverkehr mit Bussen zwischen  Vellmar-Obervellmar - Kassel Hbf -  Holländische Straße, Kassel.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "headline": "Folgeverspätungen und einzelne Teilausfälle im Raum Kassel",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu keinen weiteren Einschränkungen.",
+      "text": "<strong>Linien:</strong><ul><li>RB4: Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmshöhe</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><p><strong>Auf der RB4, RE30, RB38 und RB39/RE39 kommt es noch zu Folgeverspätungen und einzelnen Teilausfällen.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
       "durationBegin": "08.05.2025",
+      "durationEnd": "08.05.2025",
       "mapHref": "https://karte.bahn.de/detail/bb7f359f-a8b6-4c2b-b19e-cd10e5d79982",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-08/0da28897-e752-4588-b30a-116802bde0aareisendenkarte_20250507-154251.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-08/0da28897-e752-4588-b30a-116802bde0aareisendenkarte_20250507-154251.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.05.2025 15:42:51",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -299,14 +292,35 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 39",
+          "filterName": "RB 39",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 4",
+          "filterName": "RB 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 39",
+          "filterName": "RE 39",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "08.05.2025 08:09",
+      "lastModified": "08.05.2025 14:18",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a48bcc1b-7b3d-4fe9-8422-c44116348e10",
       "magnoliaPath": "/aktuell/hessen/massive_impairment_police_activity"
     },
