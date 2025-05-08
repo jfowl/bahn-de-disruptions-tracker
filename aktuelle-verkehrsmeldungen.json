@@ -61,8 +61,8 @@
       "mapHref": "https://karte.bahn.de/detail/1e24bcf9-9821-4262-a836-86d4edefe21b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-08/178763b7-11a0-4f27-b55a-cc9b8a72da7freisendenkarte_20250508-174751.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-08/178763b7-11a0-4f27-b55a-cc9b8a72da7freisendenkarte_20250508-174751.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-08/ba87467f-b816-471f-8890-6a53052966c3reisendenkarte_20250508-174751.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-08/ba87467f-b816-471f-8890-6a53052966c3reisendenkarte_20250508-174751.png",
           "info": "",
           "alt": "Reisendenkarte 08.05.2025 17:47:51",
           "openInNewTab": true
@@ -71,26 +71,20 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
           "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "href": "https://bahn.de/aktuell",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
           "info": "",
           "openInNewTab": true
         },
@@ -101,8 +95,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://bahn.de/aktuell",
-          "label": "bahn.de",
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         }
@@ -126,7 +126,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "08.05.2025 18:16",
+      "lastModified": "08.05.2025 20:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -302,51 +302,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "504995bd-bc05-4504-9df4-b21370052f81",
-      "disruptionId": "0e585b0b-9afe-414c-80c0-c128d3c46472",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Endmeldung S7 Ebenhausen-Schäftlarn: Notarzteinsatz auf der Strecke",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen sind wieder Zugfahrten möglich. ",
-      "text": "<p><strong>Die S-Bahnen verkehren mit folgenden Zügen wieder auf dem Regelweg:</strong></p><ul><li>Baierbrunn Abfahrt 19:40 Uhr - Wolfratshausen Ankunft 19:54 Uhr</li><li>Wolfratshausen Abfahrt 20:03 - Baierbrunn Ankunft 20:19 Uhr</li></ul><p></p><p><strong>Der Ersatzverkehr mit Großraumtaxis und einem Bus zwischen Baierbrunn und Wolfratshausen wird um 20 Uhr eingestellt.</strong></p><p></p><p>Der Notarzteinsatz auf der Strecke in Ebenhausen-Schäftlarn wurde beendet.</p>",
-      "durationBegin": "08.05.2025",
-      "durationEnd": "08.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/0e585b0b-9afe-414c-80c0-c128d3c46472",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-08/5e6551d0-8c70-4d19-ba1e-faa5efb033cdreisendenkarte_20250508-163920.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-08/5e6551d0-8c70-4d19-ba1e-faa5efb033cdreisendenkarte_20250508-163920.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.05.2025 16:39:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.05.2025 19:40",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/504995bd-bc05-4504-9df4-b21370052f81",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_medical_emergency0"
     },
     {
       "id": "175311aa-6091-43eb-a094-6bd1c0ab3c0c",
