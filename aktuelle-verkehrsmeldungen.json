@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ee994930-28a5-4673-8969-3a4b36b86583",
+      "disruptionId": "b2e273bc-ac2d-4a61-8add-e7b9669638c2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund eines Böschungsbrandes ist die Strecke zwischen Fulda und Bebra derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn umgeleitet werden und verspäten sich um etwa 60 Minuten. Der Halt Bad Hersfeld entfällt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Frankfurt (M) Hbf und Erfurt Hbf</li><li>ICE-Züge zwischen Nürnberg Hbf und Hannover Hbf, einzelne Züge in Nachtlage</li><li>EC-Züge zwischen Leipzig Hbf und Frankfurt (M) Süd</li><li>NJ-Züge zwischen Nürnberg Hbf und Kassel-Wilhelmshöhe</li><li>IC-Züge zwischen Leipzig Hbf und Frankfurt (M) SüdS</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/b2e273bc-ac2d-4a61-8add-e7b9669638c2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.05.2025 20:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ee994930-28a5-4673-8969-3a4b36b86583",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+    },
+    {
       "id": "64adad40-45e8-4eb4-8e1e-a5d3c1299ec3",
       "disruptionId": "bdacea2e-ab28-4ac9-8f51-5ec31d61ede1",
       "author": "REGIO_MITTE",
@@ -163,51 +201,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "59621e25-2ea3-4aa9-bfc1-f3fea4d8ce33",
-      "disruptionId": "58c3cb81-5bf5-4a63-9098-7d13ffe2d539",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S8 Gilching-Argelsried - Weßling: Polizeieinsatz",
-      "summary": "Zwischen Gilching-Argelsried und Weßling sind wieder Zugfahrten möglich. ",
-      "text": "<p>Auf der Linie S8 kommt es jetzt noch zu Folgeverspätungen von 5 bis 10 Minuten.</p><p>Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p></p><p>Der Polizeieinsatz in Gilching-Argelsried ist beendet.</p>",
-      "durationBegin": "09.05.2025",
-      "durationEnd": "09.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/58c3cb81-5bf5-4a63-9098-7d13ffe2d539",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-09/2a031537-b459-4bd7-a5ef-e279dfccdcfcreisendenkarte_20250509-192254.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-09/2a031537-b459-4bd7-a5ef-e279dfccdcfcreisendenkarte_20250509-192254.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.05.2025 19:22:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.05.2025 19:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/59621e25-2ea3-4aa9-bfc1-f3fea4d8ce33",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
@@ -513,43 +506,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "7a6cc57d-623d-4e4f-9042-70763de7a91a",
-      "disruptionId": "3a61d66d-dbfa-4beb-89c1-c6f41245f99e",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt am Main ",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist eine Erkrankung von Stellwerkspersonal.",
-      "text": "<strong>Betroffene Linien:</strong><ul><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>Zeitraum:</strong><ul><li>Am 09.05.2025 zwischen 15:00 Uhr bis 20:00 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
-      "durationBegin": "09.05.2025",
-      "durationEnd": "09.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/3a61d66d-dbfa-4beb-89c1-c6f41245f99e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.05.2025 09:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7a6cc57d-623d-4e4f-9042-70763de7a91a",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
-    },
-    {
       "id": "7933ef1d-0225-441a-acac-4c937571b9ec",
       "disruptionId": "5c914741-31f2-4aea-9a04-25449bf409bc",
       "author": "REGIO_NORDOST",
@@ -650,6 +606,99 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b4b1c173-3724-4da5-a34e-df1494f993ca",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
+    },
+    {
+      "id": "d5808fe4-433c-4e5e-9721-e961ad100359",
+      "disruptionId": "a8f29000-c0f0-49a4-8101-99eb861cac8c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zu Stammstrecke durchgehend von 9. bis 12. Mai 2025",
+      "summary": "Wegen Instandhaltungsarbeiten kommt es auf der Stammstrecke von Freitag, 09. Mai 2025 ab ca. 22:20 Uhr, durchgehend bis Montag, 12. Mai 2025 bis ca. 04:40 Uhr, zwischen Ostbahnhof ◄► Pasing zu Fahrplanänderungen, geänderten Linienführungen und Ersatzverkehr.\n",
+      "text": "<p>Stammstrecke:&nbsp;</p><p></p><p><strong>Änderungen im Fahrplan:</strong></p><ul><li>Ersatzverkehr mit Bussen zwischen Pasing und Hauptbahnhof</li><li>Zwischen Hauptbahnhof und Ostbahnhof/Giesing/Leuchtenbergring benutzen Sie bitte die anderen Verkehrsmittel des MVV</li></ul><p>S 1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof (oben) und fahren von/bis Moosach ohne Halt, teilweise beginnen/enden die Züge in Moosach.</li></ul><p>S 2:</p><ul><li>Züge in/aus Richtung Petershausen beginnen/enden am Heimeranplatz Gl. 11 und fahren von/bis Obermenzing ohne Halt.&nbsp;Es besteht ein 30-Minuten-Takt.</li><li>Züge in/aus Richtung Altomünster fahren zwischen Dachau und Altomünster nach planmäßigem Fahrplan.</li><li>Züge in/aus Richtung Erding beginnen/enden am Leuchtenbergring.</li></ul><p>S 3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing. Abfahrt in Pasing ist am Gleis 6.</li></ul><p>S 4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Abfahrt in Pasing ist am Gleis 7.</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.</li></ul><p>S 5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Pasing fallen zwischen Pasing und Giesing aus.</li></ul><p>S 6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Leuchtenbergring.</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof (oben) und fahren von/bis Pasing ohne Halt.</li></ul><p>S 7:</p><ul><li>Die Züge fahren auf dem planmäßigen Linienweg.</li><li>In den Abendstunden kommt es jeweils ab ca. 23 Uhr zu Abweichungen im Fahrplan, sowie zu Ausfall je eines Zuges zwischen Siemenswerke und Hauptbahnhof, sowie in der Gegenrichtung</li></ul><p>S 8:</p><ul><li>Züge in Richtung Flughafen fahren zwischen Pasing und Ostbahnhof ohne Halt, der Halt Leuchtenbergring entfällt ebenfalls.</li><li>Züge in Richtung Herrsching halten nicht am Leuchtenbergring und fahren zwischen Ostbahnhof und Pasing ohne Halt.</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Haltestellen des Ersatzverkehrs:</p><p>Pasing: Carossastraße</p><p>Laim: Landsberger Straße</p><p>Hirschgarten: Friedenheimer Brücke auf Höhe S-Bahnhof</p><p>Donnersbergerbrücke: Arnulfstraße, beidseitig</p><p>Hackerbrücke: Arnulfstraße, beidseitig</p><p>Hauptbahnhof: Elisenstraße</p><p></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "09.05.2025",
+      "durationEnd": "12.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/a8f29000-c0f0-49a4-8101-99eb861cac8c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-09/09bd3f8f-6248-464a-8be0-561b36c6dc0creisendenkarte_20250430-001335.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-09/09bd3f8f-6248-464a-8be0-561b36c6dc0creisendenkarte_20250430-001335.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.04.2025 00:13:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke",
+          "label": "https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus S",
+          "filterName": "Bus S München",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.05.2025 20:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d5808fe4-433c-4e5e-9721-e961ad100359",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
