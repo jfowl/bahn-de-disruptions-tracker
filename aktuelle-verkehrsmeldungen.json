@@ -209,51 +209,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "3c7ff478-37c3-4972-a6b1-9f4fe59eae7e",
-      "disruptionId": "af476627-69b3-4982-9142-849011111989",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "S 8 Herrsching: Notarzteinsatz auf der Strecke / Streckensperrung",
-      "summary": "Momentan ist kein Zugverkehr zwischen Gilching-Argelsried und Germering-Unterpfaffenhofen möglich.",
-      "text": "<p>Die S-Bahnen aus Richtung Herrsching verkehren bis Gilching-Argelsried und wenden dort.</p><p>Die S-Bahnen aus Richtung Pasing verkehren bis Germering-Unterpfaffenhofen und wenden dort.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Gilching-Argelsried und Germering-Unterpfaffenhofen für Sie eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Notarzteinsatz auf der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
-      "durationBegin": "12.05.2025",
-      "durationEnd": "12.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/af476627-69b3-4982-9142-849011111989",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-12/a6b26420-428f-4236-a86a-4959963a4daareisendenkarte_20250512-184033.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-12/a6b26420-428f-4236-a86a-4959963a4daareisendenkarte_20250512-184033.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.05.2025 18:40:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.05.2025 19:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3c7ff478-37c3-4972-a6b1-9f4fe59eae7e",
-      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency"
-    },
-    {
       "id": "0b54c42e-5857-49c0-b34c-5b95420202a7",
       "disruptionId": "3a73d4af-0fd8-4814-a593-fd2a6d9ce72d",
       "author": "S_BAHN_RM",
@@ -410,6 +365,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a7b5431b-a589-4f03-a86e-f12d2b2094a6",
       "magnoliaPath": "/aktuell/hessen/massive_impairment_other_cause"
+    },
+    {
+      "id": "3c7ff478-37c3-4972-a6b1-9f4fe59eae7e",
+      "disruptionId": "af476627-69b3-4982-9142-849011111989",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S 8 Herrsching: Notarzteinsatz auf der Strecke beendet / Streckensperrung aufgehoben",
+      "summary": "Der Zugverkehr zwischen Gilching-Argelsried und Germering-Unterpfaffenhofen ist wieder möglich.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Notarzteinsatz auf der Strecke.</p>",
+      "durationBegin": "12.05.2025",
+      "durationEnd": "12.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/af476627-69b3-4982-9142-849011111989",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-12/a6e49916-6b0e-4f59-a8ad-bb0d117a30e3reisendenkarte_20250512-203919.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-12/a6e49916-6b0e-4f59-a8ad-bb0d117a30e3reisendenkarte_20250512-203919.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.05.2025 20:39:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.05.2025 20:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3c7ff478-37c3-4972-a6b1-9f4fe59eae7e",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
