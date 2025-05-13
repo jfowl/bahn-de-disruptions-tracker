@@ -165,6 +165,63 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "361d6a0e-4248-4135-8360-8ad28a8506ae",
+      "disruptionId": "0e522b45-abb4-4a0b-b101-51d240c9ee01",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "Teil- und Zugausfälle im Raum Borken(Hess)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge der RE30 aus Richtung Frankfurt(Main)Hbf enden vorzeitig in Treysa und wenden dort. Die Züge aus Richtung Kassel Hbf enden vorzeitig in Wabern(Bz Kassel) und wenden dort.</li><li>Die Züge der RB38 aus Richtung Kassel Hbf enden vorzeitig in Wabern(Bz Kassel) und wenden dort.</li></ul><p></p><p></p><strong>↪️Empfehlungen und Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit Bussen der Firma Holiday-Reisen GmbH zwischen Treysa und Wabern(Bz Kassel) eingerichtet. Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "12.05.2025",
+      "durationEnd": "13.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/0e522b45-abb4-4a0b-b101-51d240c9ee01",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-13/6c0407c5-a155-4db8-a1a3-71a26fd25448reisendenkarte_20250513-134446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-13/6c0407c5-a155-4db8-a1a3-71a26fd25448reisendenkarte_20250513-134446.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.05.2025 13:44:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "bahnhof.de - Umgebungsplan zum Ersatzverkehr an Ihrer Station",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.05.2025 16:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/361d6a0e-4248-4135-8360-8ad28a8506ae",
+      "magnoliaPath": "/aktuell/hessen/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -556,6 +613,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "88ff81d7-253f-4a55-a6e3-aa6b971a4330",
+      "disruptionId": "dc9953c2-54ea-4c22-bbe6-278addd962e7",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Einschränkungen im Takt der Linie S1",
+      "summary": "Aktuell fahren die S-Bahnen der Linie S1 nur alle 10 Minuten. Grund: Stellwerksstörung",
+      "text": "<p>...</p>",
+      "durationBegin": "13.05.2025",
+      "durationEnd": "13.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/dc9953c2-54ea-4c22-bbe6-278addd962e7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.05.2025 16:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/88ff81d7-253f-4a55-a6e3-aa6b971a4330",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "7933ef1d-0225-441a-acac-4c937571b9ec",
       "disruptionId": "5c914741-31f2-4aea-9a04-25449bf409bc",
       "author": "REGIO_NORDOST",
@@ -656,6 +750,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b4b1c173-3724-4da5-a34e-df1494f993ca",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
+    },
+    {
+      "id": "cde7ced0-6d25-41c9-a924-340200c503f0",
+      "disruptionId": "e0bcb095-b741-4a51-9788-d95e7d08fd73",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport / Information for barrier-free  access to the Airport",
+      "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Ziel: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (Ziel: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (destination: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (destination: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p>",
+      "durationBegin": "13.05.2025",
+      "durationEnd": "14.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e0bcb095-b741-4a51-9788-d95e7d08fd73",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.05.2025 16:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cde7ced0-6d25-41c9-a924-340200c503f0",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
