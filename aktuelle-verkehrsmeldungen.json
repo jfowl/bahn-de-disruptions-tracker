@@ -823,6 +823,91 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "cde7ced0-6d25-41c9-a924-340200c503f0",
+      "disruptionId": "e0bcb095-b741-4a51-9788-d95e7d08fd73",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport / Information for barrier-free  access to the Airport",
+      "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Ziel: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (Ziel: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (destination: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (destination: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p>",
+      "durationBegin": "13.05.2025",
+      "durationEnd": "16.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e0bcb095-b741-4a51-9788-d95e7d08fd73",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.05.2025 13:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cde7ced0-6d25-41c9-a924-340200c503f0",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "16af7617-f9ea-4de6-8694-fcb3ad116aa9",
+      "disruptionId": "3a763f3b-d32d-44a6-917d-dd1647c9fdce",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Husum und Heide(Holst.)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Husum und Heide(Holst.) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Züge zwischen Hamburg und Westerland(Sylt) / Dagebüll Mole</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/3a763f3b-d32d-44a6-917d-dd1647c9fdce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-14/582fd9bb-bc87-46d1-8715-bfb4db030112reisendenkarte_20250514-174034.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-14/582fd9bb-bc87-46d1-8715-bfb4db030112reisendenkarte_20250514-174034.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.05.2025 17:40:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.05.2025 17:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/16af7617-f9ea-4de6-8694-fcb3ad116aa9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "9d965053-6620-452a-8564-04e27ee5b55b",
       "disruptionId": "dd4e00cb-5694-486e-97e9-0aa1cbaec984",
       "author": "S_BAHN_MUC",
