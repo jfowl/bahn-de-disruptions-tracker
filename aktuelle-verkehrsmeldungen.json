@@ -346,28 +346,36 @@
         "label": "Feuerwehreinsatz auf der Strecke"
       },
       "headline": "S 3 Giesing ↔ Deisenhofen: Feuerwehreinsatz",
-      "summary": "Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Giesing und Deisenhofen.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
+      "summary": "Zwischen Giesing und Deisenhofen sind wieder Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen in fahren wieder auf dem Regelweg.</p><p>Bitte rechnen Sie noch mit Folgeverspätungen von bis zu 10 Minuten und Teilausfällen.</p><p>Der Feuerwehreinsatz an der Strecke ist beendet</p>",
       "durationBegin": "14.05.2025",
       "durationEnd": "14.05.2025",
       "mapHref": "https://karte.bahn.de/detail/f17865e4-cda0-4a61-93a9-185c51c381a7",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-14/d95b82f5-4e73-4f48-9495-669d39d24f33reisendenkarte_20250514-142208.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-14/d95b82f5-4e73-4f48-9495-669d39d24f33reisendenkarte_20250514-142208.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.05.2025 14:22:08",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "14.05.2025 13:46",
+      "lastModified": "14.05.2025 14:29",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
