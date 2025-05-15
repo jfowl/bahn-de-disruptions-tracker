@@ -738,6 +738,53 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "c813a476-bfac-4cc3-8284-0a10646465c4",
+      "disruptionId": "46e51463-3fb3-4c1f-a1e6-00e618462542",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: S 2, S 4, S 6 Berg am Laim",
+      "summary": "Im Bereich Berg am Laim kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "durationBegin": "15.05.2025",
+      "durationEnd": "15.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/46e51463-3fb3-4c1f-a1e6-00e618462542",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.05.2025 08:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c813a476-bfac-4cc3-8284-0a10646465c4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+    },
+    {
       "id": "16af7617-f9ea-4de6-8694-fcb3ad116aa9",
       "disruptionId": "3a763f3b-d32d-44a6-917d-dd1647c9fdce",
       "author": "FERNVERKEHR_AG",
@@ -832,6 +879,46 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/S-Bahn_Stuttgart_Standardmeldung"
     },
     {
+      "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
+      "author": "REGIO_NW",
+      "cause": {
+        "category": "additional_service",
+        "label": "Service"
+      },
+      "headline": "Meldungen der DB Regio NRW",
+      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie unter",
+      "text": "<ul>\n\t<li>zuginfo.nrw</li>\n</ul>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://www.zuginfo.nrw/",
+          "label": "zuginfo.nrw",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.05.2025 08:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4e2aae8f-7674-4845-9157-77c87b6a7131",
+      "magnoliaPath": "/aktuell/nrw/meldungen_nrw_allgemein"
+    },
+    {
       "id": "8b6d4897-7904-47c8-8875-c436dddf8b59",
       "author": "REGIO_BY",
       "cause": {
@@ -905,52 +992,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8b6d4897-7904-47c8-8875-c436dddf8b59",
       "magnoliaPath": "/aktuell/bayern/DB-Regio-Bayern-Meldungen--allgemein--"
-    },
-    {
-      "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
-      "author": "REGIO_NW",
-      "cause": {
-        "category": "additional_service",
-        "label": "Service"
-      },
-      "headline": "Meldungen der DB Regio NRW",
-      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie unter",
-      "text": "<ul>\n\t<li>zuginfo.nrw</li>\n\t<li>frei zug&auml;nglichen&nbsp;X-Kanal</li>\n</ul>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://www.zuginfo.nrw/",
-          "label": "zuginfo.nrw",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "http://www.twitter.com/Regio_NRW",
-          "label": "X-Kanal",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.11.2023 12:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4e2aae8f-7674-4845-9157-77c87b6a7131",
-      "magnoliaPath": "/aktuell/nrw/meldungen_nrw_allgemein"
     },
     {
       "id": "670862e6-30ac-4529-a4f8-9729039ed230",
