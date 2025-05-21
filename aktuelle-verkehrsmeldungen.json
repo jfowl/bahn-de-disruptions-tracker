@@ -53,9 +53,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S5: Züge fahren aktuell zwischen Buxtehude und Stade nur stündlich.",
-      "summary": "Die S5 fährt zwischen Buxtehude und Stade aktuell nur stündlich. Der Grund ist eine Signalstörung. Folgend erhalten Sie die wichtigsten Informationen für Ihre Fahrt aus und in Richtung Hamburg:",
-      "text": "<p><strong>Geplante Fahrten der S5 zwischen Buxtehude und Stade</strong></p><p>Die S5 fährt zwischen Buxtehude und Stade nur stündlich mit Abfahrt von :</p><ul><li>Buxtehude Richtung Stade auf Minute 24 und von</li><li>Stade Richtung Buxtehude auf Minute 16 und weiter Richtung Elbgaustraße.</li></ul><p>Bedingt durch die anhaltende Störung sind hier jedoch Verspätungen möglich.</p><p><strong>Zusatzfahrten mit Bussen und Taxis</strong></p><p>Zusätzlich fährt zwischen Buxtehude und Stade ein Notverkehr mit Bussen und Taxis, die Abfahrt erfolgt jeweils von den Ersatzhaltestellen am Bahnhof.</p><p><strong>Zusatzhalte der RE5 (Harburg &lt;&gt; Cuxhaven)</strong></p><p>Weiterhin halten die Züge der RE5 (Harburg &lt;&gt; Cuxhaven) zwischen Buxtehude und Stade an allen Unterwegsstationen, somit auch in Neukloster, Dollern und Agathenburg.</p><p></p><p>Achten Sie weiterhin auch auf die Ansagen und Anzeigen am Bahnsteig sowie die Informationen im DB Navigator und in der HVV-Fahrplanauskunft.</p>",
+      "headline": "S5: Aktuell kommt es zu Fahrplanabweichungen zwischen Stade und Neugraben.",
+      "summary": "Die S5 fährt zwischen Stade und Buxtehude aktuell nur einmal in der Stunde, zwischen Buxtehude und Neugraben kommt es zu Unregelmäßigkeiten.",
+      "text": "<p>Die S5 fährt zwischen Stade und Buxtehude nur einmal die Stunde, der Grund ist eine Signalstörung. Zwischen Buxtehude und Neugraben kommt es zudem zu weiteren Unregelmäßigkeiten, der Grund ist eine Störung an einem Zug.</p><p><strong>Geplante Fahrten der S5 zwischen Buxtehude und Stade</strong></p><p>Die S5 fährt zwischen Buxtehude und Stade nur stündlich mit Abfahrt von :</p><ul><li>Buxtehude Richtung Stade auf Minute 24 und von</li><li>Stade Richtung Buxtehude auf Minute 16 und weiter Richtung Elbgaustraße.</li></ul><p>Bedingt durch die anhaltende Störung sind hier jedoch Verspätungen möglich.</p><p><strong>Zusatzfahrten mit Bussen und Taxis</strong></p><p>Zusätzlich fährt zwischen Neugraben und Stade ein Notverkehr mit Bussen und Taxis, die Abfahrt erfolgt jeweils von den Ersatzhaltestellen am Bahnhof.</p><p><strong>Zusatzhalte der RE5 (Harburg &lt;&gt; Cuxhaven)</strong></p><p>Weiterhin halten die Züge der RE5 (Harburg &lt;&gt; Cuxhaven) zwischen Buxtehude und Stade an allen Unterwegsstationen, somit auch in Neukloster, Dollern und Agathenburg.</p><p></p><p>Diese Seite wird fortlaufend informiert, sollten sich Ersatzverkehre ändern.</p><p></p><p>Achten Sie weiterhin auch auf die Ansagen und Anzeigen am Bahnsteig sowie die Informationen im DB Navigator und in der HVV-Fahrplanauskunft.</p>",
       "durationBegin": "21.05.2025",
       "durationEnd": "21.05.2025",
       "mapHref": "https://karte.bahn.de/detail/c47b20e9-1927-4995-87aa-3e391d8bcb41",
@@ -72,12 +72,17 @@
       ],
       "lines": [
         {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.05.2025 06:59",
+      "lastModified": "21.05.2025 10:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
