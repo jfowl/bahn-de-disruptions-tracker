@@ -55,7 +55,7 @@
       },
       "headline": "Information zum aktuellen Zugverkehr zwischen Neugraben und Stade.",
       "summary": "Wegen einer andauernden Signalstörung kommt es zwischen Buxtehude und Stade auch weiterhin zu Ausfällen und Abweichungen vom Fahrplan.",
-      "text": "<p><strong>Wegen einer andauernden Signalstörung sind weiterhin Ausfälle zwischen Buxtehude und Stade möglich.</strong></p><p>Als Alternativen können wir aktuell folgende anbieten:</p><ol><li>Ersatzverkehr mit Bussen</li><li>Ersatzverkehr mit Taxis</li><li>Züge der Linie RE5 (Cuxhaven &lt;&gt; Harburg) halten überall.</li></ol><p>Sobald uns neue Informationen vorliegen, wir diese Seite aktualisiert.</p><p>Achten Sie bitte auch weiterhin auf die Ansagen und Anzeigen am Bahnsteig, um keine kurzfristigen Änderungen zu verpassen.</p>",
+      "text": "<p><strong>Wegen einer andauernden Signalstörung sind weiterhin Ausfälle zwischen Buxtehude und Stade möglich.</strong></p><p>Ab 10:30 wird der Ersatzverkehr eingestellt und auch die Linie RE5 fährt wieder nach dem gewohnten Plan ohne Unterwegshalte zwischen Buxtehude und Stade. Die Linie S5 fährt dann regulär nur einmal in der Stunde.</p><p>Sofern uns Informationen über Ersatz- und Zusatzverkehre sowie Zusatzhalte der RE5 für den Berufsverkehr- und Schülerverkehr in den Nachmittags- und Abendstunden vorliegen, werden wir sie auf dieser Seite veröffentlichen.</p><p>Achten Sie bitte auch weiterhin auf die Ansagen und Anzeigen am Bahnsteig, um keine kurzfristigen Änderungen zu verpassen.</p>",
       "durationBegin": "22.05.2025",
       "durationEnd": "22.05.2025",
       "mapHref": "https://karte.bahn.de/detail/fd256c6d-6ed8-4b50-9af8-1287a76a1b65",
@@ -77,7 +77,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.05.2025 06:34",
+      "lastModified": "22.05.2025 10:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -624,6 +624,48 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "b558f8f1-847b-4944-961b-c18d5c5c2f39",
+      "disruptionId": "6ba36f12-8c67-4552-85b3-abead8b3c937",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle. Die Züge der S2 und S5 verkehren im 30-Minuten-Takt.",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist eine Erkrankung von Stellwerkspersonal.",
+      "text": "<strong>Betroffene Linien:</strong><ul><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>Zeitraum:</strong><ul><li>Am 22.05.2025 zwischen 13:45 Uhr und 22:00 Uhr</li></ul><p></p><strong>Beeinträchtigungen:</strong><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "22.05.2025",
+      "durationEnd": "22.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/6ba36f12-8c67-4552-85b3-abead8b3c937",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.05.2025 10:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b558f8f1-847b-4944-961b-c18d5c5c2f39",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
+    },
+    {
       "id": "dc92d9a8-1829-4f0b-a4cb-da8780a57619",
       "disruptionId": "7cc1ac89-0aa6-46f2-ab97-b6d64d013d64",
       "author": "REGIO_NORDOST",
@@ -700,51 +742,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4703875c-3124-40fe-8c59-426484048b74",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
-    },
-    {
-      "id": "ebaddaef-c857-4a5c-96bb-ac5a76f52f80",
-      "disruptionId": "90fa0d09-2d7a-40c8-9c84-5494dcd638af",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 8 Regelweg",
-      "summary": "Die Linie S 8 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke.",
-      "text": "<p>Erste wieder auf dem Regelweg verkehrende S-Bahn:</p><ul><li>S 8 Abfahrt Flughafen 08:43 Uhr → Abfahrt Daglfing 09:09 Uhr → Ankunft Ostbahnhof 09:13 Uhr</li></ul><p>Reparatur an einer Weiche wurde beendet.</p>",
-      "durationBegin": "22.05.2025",
-      "durationEnd": "22.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/90fa0d09-2d7a-40c8-9c84-5494dcd638af",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-22/76303bc3-0237-431d-8ac4-f58892b898ddreisendenkarte_20250522-064914.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-22/76303bc3-0237-431d-8ac4-f58892b898ddreisendenkarte_20250522-064914.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.05.2025 06:49:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.05.2025 08:45",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ebaddaef-c857-4a5c-96bb-ac5a76f52f80",
-      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
