@@ -46,6 +46,45 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_other_cause"
     },
     {
+      "id": "b0cf27d8-d788-4b02-9046-9bb9d2344457",
+      "disruptionId": "1c1be225-748e-415f-bdc4-911033648af8",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Information zum aktuellen Zugverkehr zwischen Stade und Buxtehude.",
+      "summary": "Wegen einer andauernden Signalstörung kommt es zwischen Stade und Buxtehude auch weiterhin zu Ausfällen und Abweichungen vom Fahrplan.",
+      "text": "<p><strong>Wegen einer andauernden Signalstörung sind weiterhin Ausfälle zwischen Buxtehude und Stade möglich.</strong></p><p>Als Alternativen können wir aktuell folgende anbieten:</p><ol><li>Ersatzverkehr mit Bussen</li><li>Ersatzverkehr mit Taxis</li></ol><p>Sobald uns neue Informationen vorliegen, wird diese Seite aktualisiert.</p><p>Achten Sie bitte auch weiterhin auf die Ansagen und Anzeigen am Bahnsteig, um keine kurzfristigen Änderungen zu verpassen.</p>",
+      "durationBegin": "23.05.2025",
+      "durationEnd": "23.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/1c1be225-748e-415f-bdc4-911033648af8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.05.2025 23:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b0cf27d8-d788-4b02-9046-9bb9d2344457",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section1"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -643,9 +682,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 4 Fürstenfeldbruck: Reparatur an einem Signal",
-      "summary": "Im Bereich Fürstenfeldbruck kommt es zu Verspätungen von bis zu 30 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 4 Fürstenfeldbruck",
+      "summary": "Im Bereich Fürstenfeldbruck kommt es noch zu Folgeverspätungen von bis zu 30 Minuten.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "22.05.2025",
       "durationEnd": "22.05.2025",
       "mapHref": "https://karte.bahn.de/detail/b86e9722-a065-43b2-8609-138f925d0fe6",
@@ -665,7 +704,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.05.2025 22:41",
+      "lastModified": "22.05.2025 23:03",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
