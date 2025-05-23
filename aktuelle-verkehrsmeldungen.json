@@ -46,6 +46,43 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_other_cause"
     },
     {
+      "id": "fea762fd-cae8-4ad0-ac0c-bcbdcbba2801",
+      "disruptionId": "4c1be9af-ef82-4229-8e2a-38311cbe0dc1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen in Hamburg Hbf",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es in Hamburg Hbf derzeit zu Beeinträchtigungen mit Verspätungen und Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/EC-/IC- und NJ-Züge über Hamburg Hbf</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/4c1be9af-ef82-4229-8e2a-38311cbe0dc1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2025 20:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fea762fd-cae8-4ad0-ac0c-bcbdcbba2801",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
+    },
+    {
       "id": "88be2eac-7abd-4d6c-ab40-377d1ed3a95d",
       "disruptionId": "e2358be4-313c-485d-962d-67b42ed47f46",
       "author": "REGIO_NORDOST",
@@ -531,101 +568,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ee70f51-e0c1-41e9-b308-9028d7af440f",
       "magnoliaPath": "/aktuell/hessen/massive_impairment_other_cause"
-    },
-    {
-      "id": "3b258a2b-96cb-4ed5-9cd5-aef764415994",
-      "disruptionId": "eb1342cc-c684-455c-8abb-0c3647dfd8ce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Erding: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "23.05.2025",
-      "durationEnd": "23.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/eb1342cc-c684-455c-8abb-0c3647dfd8ce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/e62186cb-ecd2-49c8-966d-e1abf0d7ba5freisendenkarte_20250523-190532.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/e62186cb-ecd2-49c8-966d-e1abf0d7ba5freisendenkarte_20250523-190532.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.05.2025 19:05:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.05.2025 19:41",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3b258a2b-96cb-4ed5-9cd5-aef764415994",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
-    },
-    {
-      "id": "e0903af1-4e90-4362-87e2-df0edc147be9",
-      "disruptionId": "32e7452c-7360-49f6-9041-082356d260be",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 4 / S 6 Ebersberg: Polizeieinsatz beendet",
-      "summary": "Der Zugverkehr zwischen Trudering und Haar ist wieder möglich.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Polizeieinsatz.</p>",
-      "durationBegin": "23.05.2025",
-      "durationEnd": "23.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/32e7452c-7360-49f6-9041-082356d260be",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/1ffd9132-555d-4537-9fa7-e6c056384d0freisendenkarte_20250523-191137.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/1ffd9132-555d-4537-9fa7-e6c056384d0freisendenkarte_20250523-191137.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.05.2025 19:11:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.05.2025 19:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e0903af1-4e90-4362-87e2-df0edc147be9",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
