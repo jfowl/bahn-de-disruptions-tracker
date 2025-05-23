@@ -327,6 +327,52 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
     },
     {
+      "id": "ed994bd9-941d-4e4f-be15-417a19add970",
+      "disruptionId": "df96e40c-63fc-4e50-8b64-a011f14f5dea",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Mannheim",
+      "summary": "Aufgrund von Bauarbeiten zwischen Frankfurt(Main) und Mannheim kommt es am Samstag, 24.05.2025 sowie am Sonntag, 25.05.2025, jeweils in der Zeit zwischen 09:00 Uhr und 18:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von bis zu 25 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, TGV-, ECE- und IC-Züge, die zwischen Frankfurt(Main)Hbf bzw. Frankfurt Flughafen Fernbahnhof und Mannheim Hbf verkehren</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.05.2025",
+      "durationEnd": "25.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/df96e40c-63fc-4e50-8b64-a011f14f5dea",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-23/155b3468-d2fe-4dfc-a4c5-784aba49af4dreisendenkarte_20250523-181445.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-23/155b3468-d2fe-4dfc-a4c5-784aba49af4dreisendenkarte_20250523-181445.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.05.2025 18:14:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2025 18:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ed994bd9-941d-4e4f-be15-417a19add970",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "3f739420-6ee1-4555-b437-3258205f7579",
       "disruptionId": "c6f420f5-5abc-4949-9750-918ecf6ccbb9",
       "author": "REGIO_NORD",
@@ -523,6 +569,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ee70f51-e0c1-41e9-b308-9028d7af440f",
       "magnoliaPath": "/aktuell/hessen/massive_impairment_other_cause"
+    },
+    {
+      "id": "2cf6f4f7-78c3-45d4-9c31-fa3be68fba94",
+      "disruptionId": "9e776920-b1aa-4de6-9ffa-25c06a5549ea",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 3 Mammendorf: Kurzzeitig unbefugte Personen auf der Strecke",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür waren kurzfristig unbefugte Personen auf der Strecke bei Olching.</p>",
+      "durationBegin": "23.05.2025",
+      "durationEnd": "23.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/9e776920-b1aa-4de6-9ffa-25c06a5549ea",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/6e29fa39-8422-4c62-a512-ee35c4f3056breisendenkarte_20250523-181920.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-23/6e29fa39-8422-4c62-a512-ee35c4f3056breisendenkarte_20250523-181920.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.05.2025 18:19:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.05.2025 18:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2cf6f4f7-78c3-45d4-9c31-fa3be68fba94",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -792,6 +883,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "6e08cf4c-34b6-4fdd-91b5-c105eaf5867f",
+      "disruptionId": "7705f875-401c-42c7-93ea-c5bc13efea25",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Technischer Defekt an einem Fahrzeug",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong>&nbsp;</p><ul><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:08 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 17:49 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 18:09 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:41 Uhr</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "23.05.2025",
+      "durationEnd": "23.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/7705f875-401c-42c7-93ea-c5bc13efea25",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.05.2025 18:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6e08cf4c-34b6-4fdd-91b5-c105eaf5867f",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "42d24d1f-70f5-4ba6-bd4c-a9d886e4b552",
