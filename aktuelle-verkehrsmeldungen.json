@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "9b3b89a9-819e-4d54-844d-5441235e3915",
+      "disruptionId": "3b5dc548-f5e8-4ed0-89e3-adc51cc3ac28",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Warburg und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen , Verspätungen bis zu  30 Minuten sowie zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC / NJ Züge zwischen Dortmund und Kassel-Wilhelmshöhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/3b5dc548-f5e8-4ed0-89e3-adc51cc3ac28",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.05.2025 23:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9b3b89a9-819e-4d54-844d-5441235e3915",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "23a7238b-4956-4fb8-94b1-f6e85820a0e2",
       "disruptionId": "6301887f-e101-4a56-93a1-cf95d653b1a9",
       "author": "FERNVERKEHR_AG",
@@ -827,53 +865,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ca73582c-4a77-439d-94a1-977068a913cc",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
-    },
-    {
-      "id": "d6504ab7-6986-432c-b3af-bd813204b9b9",
-      "disruptionId": "2f0dc793-8b65-4e39-806a-112f4b01bc96",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 45 / Mühldorf - Landshut / 28.05.2025 Gleissperrung aufgehoben / Bauarbeiten",
-      "summary": "28.05.2025 Gleissperrung aufgehoben",
-      "text": "<p>Auf Grund einer Gleissperrung mussten auf der Strecke Mühldorf - Landshut Zugkreuzungen von Geisenhausen nach Vilsbiburg verlegt werden. Dies hatte Auswirkungen auf den Fahrplan und die Fahrzeit. Die Bauarbeiten werden diese Woche abgeschlossen. Die Züge verkehren am dem 28. Mai 2025 wieder planmäßig. </p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
-      "durationBegin": "26.05.2025",
-      "durationEnd": "27.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/2f0dc793-8b65-4e39-806a-112f4b01bc96",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RB45",
-          "filterName": "Bus RB45",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.05.2025 09:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d6504ab7-6986-432c-b3af-bd813204b9b9",
-      "magnoliaPath": "/aktuell/suedostbayernbahn/modified_service_construction"
     },
     {
       "id": "4282ad84-55c4-4e9d-984d-2e28263565ca",
