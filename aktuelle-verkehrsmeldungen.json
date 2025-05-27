@@ -294,10 +294,10 @@
       "mapHref": "https://karte.bahn.de/detail/91bd89c0-6e07-4d26-a518-7219aff8df8c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-27/3792a9ea-64be-4da7-b417-a38c0c1b138breisendenkarte_20250526-215329.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-27/3792a9ea-64be-4da7-b417-a38c0c1b138breisendenkarte_20250526-215329.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-27/12b51bb9-fe35-4fd4-9f90-f33c1efdd2dareisendenkarte_20250527-143852.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-27/12b51bb9-fe35-4fd4-9f90-f33c1efdd2dareisendenkarte_20250527-143852.png",
           "info": "",
-          "alt": "Reisendenkarte 26.05.2025 21:53:29",
+          "alt": "Reisendenkarte 27.05.2025 14:38:52",
           "openInNewTab": true
         }
       ],
@@ -316,7 +316,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.05.2025 12:14",
+      "lastModified": "27.05.2025 14:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -375,25 +375,25 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "589e8f42-9f28-42a7-ac92-93725efdda4c",
-      "disruptionId": "06c72854-3aa0-484c-9a70-3800b9654036",
+      "id": "dedf99ea-aab6-4383-85c9-39ba99d7cc1a",
+      "disruptionId": "ba689166-7b3e-43f6-bcb9-530beca6de2e",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
+        "category": "other_cause",
+        "label": "Unbefugtes Ziehen der Notbremse"
       },
-      "headline": "S 5 Perlach ↔ Giesing: Notarzteinsatz auf der Strecke",
-      "summary": "Zwischen Perlach und Giesing sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Giesing und Neubiberg.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Giesing und Neubiberg eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"EV\" Beschilderung.</p><p>Bitte rechnen Sie mit Beeinträchtigungen.</p><p>Laut aktuellen Informationen werden die Beeinträchtigungen voraussichtlich bis ca. 14:00 Uhr andauern.</p><p>Beachten Sie bitte auch den Ersatzverkehr zwischen Aying ↔ Kreuzstraße.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "headline": "Stammstrecke: Unbefugtes Ziehen der Notbremse",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten vereinzelt auch höher.",
+      "text": "<p>Die S-Bahnen wenden auf den Außenbereichen zum Verspätungsabbau teilweise vorzeitig.</p><p>Der Grund ist das  unbefugte Ziehen der Notbremse in einer S-Bahn.</p>",
       "durationBegin": "27.05.2025",
       "durationEnd": "27.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/06c72854-3aa0-484c-9a70-3800b9654036",
+      "mapHref": "https://karte.bahn.de/detail/ba689166-7b3e-43f6-bcb9-530beca6de2e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/fcffddfd-b222-42a0-9b7a-517faab876b8reisendenkarte_20250527-113144.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/fcffddfd-b222-42a0-9b7a-517faab876b8reisendenkarte_20250527-113144.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/4a0fa204-afcc-437c-ac45-12a0a633d9dcreisendenkarte_20250527-143406.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/4a0fa204-afcc-437c-ac45-12a0a633d9dcreisendenkarte_20250527-143406.png",
           "info": "",
-          "alt": "Reisendenkarte 27.05.2025 11:31:44",
+          "alt": "Reisendenkarte 27.05.2025 14:34:06",
           "openInNewTab": true
         }
       ],
@@ -407,17 +407,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "27.05.2025 13:16",
+      "lastModified": "27.05.2025 14:40",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/589e8f42-9f28-42a7-ac92-93725efdda4c",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_medical_emergency0"
+      "detailPagePath": "/service/fahrplaene/dedf99ea-aab6-4383-85c9-39ba99d7cc1a",
+      "magnoliaPath": "/aktuell/bayern/impairment_other_cause"
     },
     {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
@@ -737,6 +767,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "fef3a154-5d6c-4d83-81a7-b19453679bd9",
+      "disruptionId": "80d33eb4-a563-4ca1-b78b-ebd2e816b9f5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: technischer Defekt an einem Zug",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2  Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2  Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:10 Uhr&nbsp;</li><li>S 2  Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2  München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2  München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2  München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund ist ein technischer Defekt an einem Zug</p>",
+      "durationBegin": "27.05.2025",
+      "durationEnd": "27.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/80d33eb4-a563-4ca1-b78b-ebd2e816b9f5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.05.2025 14:56",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fef3a154-5d6c-4d83-81a7-b19453679bd9",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
+    },
+    {
       "id": "dc92d9a8-1829-4f0b-a4cb-da8780a57619",
       "disruptionId": "7cc1ac89-0aa6-46f2-ab97-b6d64d013d64",
       "author": "REGIO_NORDOST",
@@ -817,14 +884,14 @@
       },
       "headline": "S 4, S 6 Grafing Bahnhof ↔ Ebersberg: Technischer Defekt an mehreren Bahnübergängen",
       "summary": "Zwischen Grafing Bahnhof und Ebersberg kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür sind technischer Defekt an mehreren Bahnübergängen.</p>",
+      "text": "<p>Grund hierfür sind technische Defekte an mehreren Bahnübergängen.</p>",
       "durationBegin": "27.05.2025",
       "durationEnd": "27.05.2025",
       "mapHref": "https://karte.bahn.de/detail/3fb49ed2-71c2-473f-890c-0b2d4e2281d2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/e887f188-e59b-4cd6-953a-69ac250c1070reisendenkarte_20250527-124623.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/e887f188-e59b-4cd6-953a-69ac250c1070reisendenkarte_20250527-124623.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/b148fdf7-a125-4ef1-8eec-23becafc27b9reisendenkarte_20250527-124623.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-27/b148fdf7-a125-4ef1-8eec-23becafc27b9reisendenkarte_20250527-124623.png",
           "info": "",
           "alt": "Reisendenkarte 27.05.2025 12:46:23",
           "openInNewTab": true
@@ -850,7 +917,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.05.2025 12:48",
+      "lastModified": "27.05.2025 14:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
