@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "705cd926-aec8-40d3-ad50-476eef63a5d6",
+      "disruptionId": "3d53b895-f525-44a8-a15c-7ac7bcf2c75e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Wittenberge und Berlin-Spandau derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 60 - 75 Min. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC Züge zwischen Hamburg und Berlin</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/3d53b895-f525-44a8-a15c-7ac7bcf2c75e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/4132370e-f7ce-495c-aa50-76a1b1acc6d6reisendenkarte_20250527-091707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/4132370e-f7ce-495c-aa50-76a1b1acc6d6reisendenkarte_20250527-091707.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.05.2025 09:17:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "ST",
+        "BE",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.05.2025 09:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/705cd926-aec8-40d3-ad50-476eef63a5d6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_police_activity"
+    },
+    {
       "id": "9b3b89a9-819e-4d54-844d-5441235e3915",
       "disruptionId": "3b5dc548-f5e8-4ed0-89e3-adc51cc3ac28",
       "author": "FERNVERKEHR_AG",
@@ -9,7 +57,7 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "headline": "Beeinträchtigungen zwischen Hamm(W) und Kassel",
       "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Warburg und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen , Verspätungen bis zu  30 Minuten sowie zu Zugausfällen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC / NJ Züge zwischen Dortmund und Kassel-Wilhelmshöhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "26.05.2025",
@@ -33,7 +81,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "26.05.2025 23:59",
+      "lastModified": "27.05.2025 09:20",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/9b3b89a9-819e-4d54-844d-5441235e3915",
