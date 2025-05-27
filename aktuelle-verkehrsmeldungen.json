@@ -10,14 +10,14 @@
         "label": "Behördliche Maßnahme"
       },
       "headline": "Beeinträchtigungen zwischen Hamburg und Berlin",
-      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Wittenberge und Berlin-Spandau derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 60 - 75 Min. ",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Wittenberge und Berlin-Spandau derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 45 - 60 Min. ",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC Züge zwischen Hamburg und Berlin</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "27.05.2025",
       "mapHref": "https://karte.bahn.de/detail/3d53b895-f525-44a8-a15c-7ac7bcf2c75e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/4132370e-f7ce-495c-aa50-76a1b1acc6d6reisendenkarte_20250527-091707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/4132370e-f7ce-495c-aa50-76a1b1acc6d6reisendenkarte_20250527-091707.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/60b57a75-d553-4d2b-90c9-fe4f1372240creisendenkarte_20250527-091707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-05-27/60b57a75-d553-4d2b-90c9-fe4f1372240creisendenkarte_20250527-091707.png",
           "info": "",
           "alt": "Reisendenkarte 27.05.2025 09:17:07",
           "openInNewTab": true
@@ -34,7 +34,10 @@
         "ST",
         "BE",
         "TH",
-        "SN"
+        "BW",
+        "BY",
+        "SN",
+        "HE"
       ],
       "lines": [
         {
@@ -43,7 +46,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "27.05.2025 09:18",
+      "lastModified": "27.05.2025 09:53",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/705cd926-aec8-40d3-ad50-476eef63a5d6",
@@ -809,6 +812,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/f1f38c4d-d656-42f9-b8e9-de036c711033",
       "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
+    },
+    {
+      "id": "3125c97f-215a-4bc1-8910-1b3daf7f99c1",
+      "disruptionId": "9e5b418e-1cd1-4105-96dd-424016547ffd",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S2: Aktuell fahren keine Züge Richtung Altona über Dammtor.",
+      "summary": " Aktuell fahren keine Züge der Linie S2 in Richtung Altona über Dammtor. Die Züge werden über Jungfernstieg umgeleitet. Grund: Technische Störung am Gleis",
+      "text": "<p></p>",
+      "durationBegin": "27.05.2025",
+      "durationEnd": "27.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/9e5b418e-1cd1-4105-96dd-424016547ffd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.05.2025 10:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3125c97f-215a-4bc1-8910-1b3daf7f99c1",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
