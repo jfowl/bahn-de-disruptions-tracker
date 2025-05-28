@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "9b3b89a9-819e-4d54-844d-5441235e3915",
-      "disruptionId": "3b5dc548-f5e8-4ed0-89e3-adc51cc3ac28",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamm(W) und Kassel",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Warburg und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen , Verspätungen bis zu  30 Minuten sowie zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC / NJ Züge zwischen Dortmund und Kassel-Wilhelmshöhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/3b5dc548-f5e8-4ed0-89e3-adc51cc3ac28",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "NW",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.05.2025 09:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9b3b89a9-819e-4d54-844d-5441235e3915",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "23a7238b-4956-4fb8-94b1-f6e85820a0e2",
       "disruptionId": "6301887f-e101-4a56-93a1-cf95d653b1a9",
       "author": "FERNVERKEHR_AG",
@@ -1034,6 +996,48 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/74c249f9-dcac-4eb6-8bfb-a7acaa21de9a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "17298cba-95ba-42ea-96c6-ae2d111c846f",
+      "disruptionId": "ff42a904-4eee-4673-810b-77b7367749e0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "S2/S5: 0 bis 4 Uhr keine S-Bahnen zwischen Sternschanze und Altona.",
+      "summary": "In der Nacht vom 28. auf den 29.05. fahren bis ca. 04 Uhr keine S-Bahnen zwischen Sternschanze und Altona. Der Grund sind Arbeiten am Gleis.",
+      "text": "<p>Die S2 beginnt und endet in dieser Zeit bereits in Sternschanze, die S5 wird über Jungfernstieg umgeleitet. </p><p>Zwischen Sternschanze, Holstenstraße und Altona pendeln Ersatzbusse. Sie erreichen Ihr Fahrtziel zudem mit den folgenden regulären Verbindungen:</p><p></p><p><strong>Holstenstraße</strong></p><ul><li>Ab Altona mit Bus 20 in Richtung S Rübenkamp bis Holstenstraße</li><li>Ab Altona mit Bus 25 in Richtung U Burgstraße bis Holstenstraße</li></ul><p></p><p><strong>Sternschanze</strong></p><ul><li>Ab Landungsbrücken mit der U3 in Richtung Schlump / Barmbek bis Sternschanze</li></ul><p><strong>Dammtor</strong></p><ul><li>Ab Jungfernstieg mit der U1 in Richtung Ohlsdorf / Norderstedt Mitte bis Stephansplatz (Dammtor)</li></ul><p></p><p>Zwischen Holstenstraße und Hauptbahnhof fährt zudem die Buslinie 3 (Schenefeld &lt;&gt; Tiefstack) mit Halt unter Anderem in S Holstenstraße, Bernstorffstraße und Sternbrücke (Nähe Sternschanze), U Rödingsmarkt (Übergang zur U3) sowie Hauptbahnhof.</p><p>Ebenfalls fährt die Buslinie X3 (Schenefeld &lt;&gt; U Meßberg) mit Halt in S Holstenstraße und S Jungfernstieg (Übergang zu allen U-Bahn Linien).</p><p></p><p>Bitte beachten Sie die reduzierte Kapazität in den Linienbussen.</p>",
+      "durationBegin": "29.05.2025",
+      "durationEnd": "29.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/ff42a904-4eee-4673-810b-77b7367749e0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.05.2025 22:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/17298cba-95ba-42ea-96c6-ae2d111c846f",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_other"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
