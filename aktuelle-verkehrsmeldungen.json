@@ -459,15 +459,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "S1 Neufahrn: Reparatur an einer Weiche",
-      "summary": "Im Bereich Neufahrn fahren die S-Bahnen in Richtung Freising/Flughafen mit reduzierter Geschwindigkeit.",
-      "text": "<p>Es kommt zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p><strong>Fahrgäste können in Richtung Flughafen auch die S-Bahnen der Linie S8 nutzen.</strong></p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Neufahrn.</p>",
+      "summary": "Ab Neufahrn fahren die S-Bahnen ohne Halt in Richtung Flughafen.",
+      "text": "<p>Es kommt zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p><strong>Fahrgäste können in Richtung Flughafen auch die S-Bahnen der Linie S8 nutzen.</strong></p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Neufahrn.</p>",
       "durationBegin": "30.05.2025",
       "durationEnd": "30.05.2025",
       "mapHref": "https://karte.bahn.de/detail/798ddee4-a312-4f7d-aab2-01d71b6acec4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/631f4be7-b3be-4816-aa66-d16ddc8a8739reisendenkarte_20250530-163056.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/631f4be7-b3be-4816-aa66-d16ddc8a8739reisendenkarte_20250530-163056.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/687eb0d5-3cfa-4eaa-9317-3d443c758c3dreisendenkarte_20250530-163056.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/687eb0d5-3cfa-4eaa-9317-3d443c758c3dreisendenkarte_20250530-163056.png",
           "info": "",
           "alt": "Reisendenkarte 30.05.2025 16:30:56",
           "openInNewTab": true
@@ -488,7 +488,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.05.2025 16:47",
+      "lastModified": "30.05.2025 17:04",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -531,51 +531,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/e1984420-02da-4afc-906f-cf5acdb2ed4a",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
-    },
-    {
-      "id": "5da271d3-d67f-4f80-b871-bd35a6737517",
-      "disruptionId": "f68fc9d1-113b-49aa-8a42-a582bc16eddb",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung S5 Neubiberg: Reparatur an einer Weiche",
-      "summary": "Auf der Linie S5 kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einer Weiche in Neubiberg ist beendet.</p><p></p>",
-      "durationBegin": "30.05.2025",
-      "durationEnd": "30.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/f68fc9d1-113b-49aa-8a42-a582bc16eddb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/e408bd17-6ba3-4e25-9576-5c5bc027e79dreisendenkarte_20250530-142856.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-30/e408bd17-6ba3-4e25-9576-5c5bc027e79dreisendenkarte_20250530-142856.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.05.2025 14:28:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.05.2025 16:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5da271d3-d67f-4f80-b871-bd35a6737517",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -841,6 +796,51 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "c2402fec-9d71-4772-85cb-8eaf8b0b28d1",
+      "disruptionId": "713d00ee-bb98-4272-9658-927f683939be",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Nürnberg Nordost - Gräfenberg",
+      "summary": "RB21  / Technische Störung an einem Zug / Verspätungen / Teilausfälle ",
+      "text": "<p>Auf Grund einer technischen Störung an einem Zug kommt es auf der Linie <strong>RB21 </strong> sowie der Strecke<strong> Nürnberg Nordost - Gräfenberg </strong>zu <strong>Verspätungen</strong> und <strong>Teilausfällen</strong>.</p><p>A technical fault on a train leads to delays and partial cancellations on the line<strong> RB21 </strong></p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "30.05.2025",
+      "durationEnd": "30.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/713d00ee-bb98-4272-9658-927f683939be",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/0c26adf2-180e-4f47-b1ba-28f45a3930c8reisendenkarte_20250530-165817.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/0c26adf2-180e-4f47-b1ba-28f45a3930c8reisendenkarte_20250530-165817.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.05.2025 16:58:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 21",
+          "filterName": "RB 21 Nürnberg",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.05.2025 17:00",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c2402fec-9d71-4772-85cb-8eaf8b0b28d1",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
+    },
+    {
       "id": "3cc46f91-d3a8-4844-946d-0317870bd89a",
       "disruptionId": "e4e92352-c631-4d6e-9d12-164b10c79baf",
       "author": "REGIO_BY",
@@ -850,14 +850,14 @@
       },
       "headline": "Pfronten-Ried und Pfronten-Steinach ",
       "summary": "Reparatur an der Strecke / Streckensperrung / Verspätungen und Teilausfälle / Ersatzverkehr in Planung",
-      "text": "<p>Aufgrund einer Reparatur an der Strecke kommt es derzeit zwischen <strong>Pfronten-Ried und Pfronten-Steinach</strong> zu erheblichen Beeinträchtigungen.</p><p>Die Strecke ist gesperrt. Die Züge werden vorerst zurückgehalten und warten zunächst ab. In der Folge kommt es zu Verspätungen und Teilausfällen.</p><p>Ein Ersatzverkehr wird derzeit geplant.</p><p>Disruptions due to repairs on the tracks between <strong>Pfronten-Ried und Pfronten-Steinach</strong>. Replacement services are being planned. </p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "text": "<p>Aufgrund einer Reparatur an der Strecke kommt es derzeit zwischen <strong>Pfronten-Ried und Pfronten-Steinach</strong> zu erheblichen Beeinträchtigungen.</p><p>Die Strecke ist gesperrt. Die Züge werden vorerst zurückgehalten und warten zunächst ab. In der Folge kommt es zu Verspätungen und Teilausfällen.</p><p>Ein Ersatzverkehr mit Taxis der Firma Alpentaxi wurde zwischen Pfronten-Ried und Pfronten-Steinach eingerichtet.</p><p>Disruptions due to repairs on the tracks between <strong>Pfronten-Ried und Pfronten-Steinach</strong>. Replacement services have been set up.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
       "durationBegin": "30.05.2025",
       "durationEnd": "30.05.2025",
       "mapHref": "https://karte.bahn.de/detail/e4e92352-c631-4d6e-9d12-164b10c79baf",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/7cf12998-3308-4a0b-b23a-d1ad47f6a9adreisendenkarte_20250530-145129.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/7cf12998-3308-4a0b-b23a-d1ad47f6a9adreisendenkarte_20250530-145129.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/613e261b-0c94-4392-8766-80d0d3e50cccreisendenkarte_20250530-145129.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-05-30/613e261b-0c94-4392-8766-80d0d3e50cccreisendenkarte_20250530-145129.png",
           "info": "",
           "alt": "Reisendenkarte 30.05.2025 14:51:29",
           "openInNewTab": true
@@ -878,7 +878,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.05.2025 16:20",
+      "lastModified": "30.05.2025 16:54",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
