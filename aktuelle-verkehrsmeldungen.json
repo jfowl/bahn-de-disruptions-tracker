@@ -291,8 +291,8 @@
       "mapHref": "https://karte.bahn.de/detail/77897bef-c9e5-4098-8b19-afb8d6de68d8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/c959d204-4162-47f5-8152-75bc9ad29503reisendenkarte_20250531-134923.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/c959d204-4162-47f5-8152-75bc9ad29503reisendenkarte_20250531-134923.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/9a38b7ae-22e3-4fb7-bd92-cea5cc8b95f5reisendenkarte_20250531-134923.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/9a38b7ae-22e3-4fb7-bd92-cea5cc8b95f5reisendenkarte_20250531-134923.png",
           "info": "",
           "alt": "Reisendenkarte 31.05.2025 13:49:23",
           "openInNewTab": true
@@ -313,7 +313,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.05.2025 14:59",
+      "lastModified": "31.05.2025 16:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -671,6 +671,59 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "edcbe7d5-b168-4f42-aa85-28c0aafed1ca",
+      "disruptionId": "6f8b0c4d-430b-4a7a-920e-29eacb5c65a4",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt am Main",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 31.05.2025 zwischen 6:00 Uhr und 18:00 Uhr</li><li>Am 01.06.2025 zwischen 6:00 Uhr und 18:00 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die S5 verkehrt am 31.05. im 30-Minuten-Takt.</li><li>Es kommt auf der RB22 zu Teilausfällen zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf.</li><li>Auf der RB34 kommt es zu Teilausfällen zwischen Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️Empfehlungen und Ersatzverkehr:</strong><ul><li>Unsere Empfehlung: Nutzen Sie die S-Bahnen und die Züge des übrigen Regionalverkehrs zwischen Frankfurt-Höchst / Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "31.05.2025",
+      "durationEnd": "01.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/6f8b0c4d-430b-4a7a-920e-29eacb5c65a4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 34",
+          "filterName": "RB 34",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.05.2025 16:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/edcbe7d5-b168-4f42-aa85-28c0aafed1ca",
+      "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause"
+    },
+    {
       "id": "7d3b970c-e9e0-4734-a510-ce81c094de43",
       "disruptionId": "2d96aa5a-26d5-473d-9737-0e24d93e60df",
       "author": "REGIO_BY",
@@ -710,53 +763,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
-    },
-    {
-      "id": "edcbe7d5-b168-4f42-aa85-28c0aafed1ca",
-      "disruptionId": "6f8b0c4d-430b-4a7a-920e-29eacb5c65a4",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teilausfälle im Raum Frankfurt am Main",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 31.05.2025 zwischen 6:00 Uhr und 18:00 Uhr</li><li>Am 01.06.2025 zwischen 6:00 Uhr und 18:00 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Es kommt auf der RB22 zu Teilausfällen zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf.</li><li>Auf der RB34 kommt es zu Teilausfällen zwischen Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️Empfehlungen und Ersatzverkehr:</strong><ul><li>Unsere Empfehlung: Nutzen Sie die S-Bahnen und die Züge des übrigen Regionalverkehrs zwischen Frankfurt-Höchst / Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
-      "durationBegin": "31.05.2025",
-      "durationEnd": "01.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/6f8b0c4d-430b-4a7a-920e-29eacb5c65a4",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 34",
-          "filterName": "RB 34",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.05.2025 12:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/edcbe7d5-b168-4f42-aa85-28c0aafed1ca",
-      "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause"
     },
     {
       "id": "f1f38c4d-d656-42f9-b8e9-de036c711033",
@@ -962,43 +968,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/74c249f9-dcac-4eb6-8bfb-a7acaa21de9a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
-    },
-    {
-      "id": "d18037c1-b48e-4390-8829-9906a78cb63d",
-      "disruptionId": "d758013e-9240-403d-89b5-a633c44ca201",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung S 1 Freising/Flughafen: Reparatur an einer Weiche",
-      "summary": "Die Strecke ab Neufahrn zum Flughafen ist wieder uneingeschränkt befahrbar.",
-      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
-      "durationBegin": "31.05.2025",
-      "durationEnd": "31.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/d758013e-9240-403d-89b5-a633c44ca201",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.05.2025 15:14",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d18037c1-b48e-4390-8829-9906a78cb63d",
-      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
