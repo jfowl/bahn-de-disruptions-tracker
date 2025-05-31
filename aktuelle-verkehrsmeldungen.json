@@ -276,6 +276,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "6622c091-1fc4-477f-b25e-3fa24bf85e59",
+      "disruptionId": "77897bef-c9e5-4098-8b19-afb8d6de68d8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S3 Olching - Lochhausen: Reparatur an der Oberleitung",
+      "summary": "Bis auf weiteres sind auf der Strecke Olching ↔ Lochhausen keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden an den oben genannten Bahnhöfen.</p><p>Wir haben zwischen Olching und Lochhausen einen Ersatzverkehr mit Großraumtaxis für sie eingerichtet.</p><p>Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"EV\"-Beschilderung.</p><p>Grund ist eine Reparatur an der Oberleitung.</p>",
+      "durationBegin": "31.05.2025",
+      "durationEnd": "31.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/77897bef-c9e5-4098-8b19-afb8d6de68d8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/8ce45f09-48d0-4f88-b272-d4c9918e45d0reisendenkarte_20250531-134923.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-31/8ce45f09-48d0-4f88-b272-d4c9918e45d0reisendenkarte_20250531-134923.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.05.2025 13:49:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.05.2025 14:33",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6622c091-1fc4-477f-b25e-3fa24bf85e59",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
+    },
+    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -917,6 +962,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/74c249f9-dcac-4eb6-8bfb-a7acaa21de9a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "d18037c1-b48e-4390-8829-9906a78cb63d",
+      "disruptionId": "d758013e-9240-403d-89b5-a633c44ca201",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1 Freising/Flughafen: Reparatur an einer Weiche",
+      "summary": "Aktuell ist zum Flughafen nur ein Stundentakt möglich. ",
+      "text": "<p>Nächste zum Flughafen verkehrende S1 ist:</p><ul><li>S1 Abfahrt Hauptbahnhof 14:41 Uhr → Abfahrt Neufahrn 15:18 Uhr → Ankunft Flughafen 15:28 Uhr</li></ul><p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ auch die Linie S 8.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "31.05.2025",
+      "durationEnd": "31.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/d758013e-9240-403d-89b5-a633c44ca201",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.05.2025 14:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d18037c1-b48e-4390-8829-9906a78cb63d",
+      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
