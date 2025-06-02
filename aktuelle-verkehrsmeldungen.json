@@ -40,43 +40,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
     },
     {
-      "id": "7a594517-6bab-4f93-b11e-a98277729225",
-      "disruptionId": "8759288f-faaa-4175-a459-8ae3b7c5a20e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover Hbf und Hamburg Hbf",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Uelzen und Bad Bevensen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um bis zu 25 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC/ICE/NJ-Züge von Hannover Hbf nach Hamburg Hbf <strong>ohne</strong> Zwischenhalt verkehren in Umleitung und erhalten etwa 25 Minuten Verspätung.</li><li>Alle IC/ICE-Züge von Hannover Hbf nach Hamburg Hbf <strong>mit</strong> Zwischenhalt verkehren planmäßig auf Regelweg und können bis zu 15 Minuten Verspätung erhalten.</li><li>Alle IC/ICE/NJ-Züge von Hamburg Hbf nach Hannover Hbf verkehren planmäßig auf Regelweg und können bis zu 15 Minuten Verspätung erhalten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/8759288f-faaa-4175-a459-8ae3b7c5a20e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "02.06.2025 14:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7a594517-6bab-4f93-b11e-a98277729225",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "a8bd530f-7900-4cb5-98bb-73026758ab96",
       "disruptionId": "ab88e51b-9343-4395-8784-54e838e4753b",
       "author": "REGIO_NORDOST",
@@ -751,12 +714,27 @@
         "label": "Unwetterauswirkungen"
       },
       "headline": "Kein Zugverkehr zwischen Hausach und Triberg in beide Richtungen",
-      "summary": "\n\nEin Ersatzverkehr mit Bussen zwischen Hausach und Triberg ist eingerichtet. Aufgrund von Sturmauswirkungen kommt es zu Zugaufällen zwischen Hausach und Triberg in beide Richtungen.",
+      "summary": "\n\nEin Ersatzverkehr mit Bussen zwischen Hausach und Triberg ist eingerichtet. Aufgrund von Sturmauswirkungen kommt es zu Zugausfällen zwischen Hausach und Triberg in beide Richtungen.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 Karlsruhe -Konstanz</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "02.06.2025",
       "durationEnd": "02.06.2025",
       "mapHref": "https://karte.bahn.de/detail/a28f54fc-268a-4173-98ec-c5970b6a167a",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-02/94576e84-1687-4c4d-a8d4-3e144bb177f1reisendenkarte_20250602-180140.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-02/94576e84-1687-4c4d-a8d4-3e144bb177f1reisendenkarte_20250602-180140.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.06.2025 18:01:40",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-02/985a70be-9c66-41d0-b2a7-5d9de4bee373reisendenkarte_20250602-175638.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-02/985a70be-9c66-41d0-b2a7-5d9de4bee373reisendenkarte_20250602-175638.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.06.2025 17:56:38",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -767,12 +745,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 2",
+          "filterName": "RE 2",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.06.2025 17:44",
+      "lastModified": "02.06.2025 18:03",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
