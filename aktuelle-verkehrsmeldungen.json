@@ -305,8 +305,8 @@
       "mapHref": "https://karte.bahn.de/detail/7a05b913-c392-4b6f-ab4e-7403835385ba",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/0aab6599-0a44-4138-9d40-5bf6f32c5fddreisendenkarte_20250603-050335.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/0aab6599-0a44-4138-9d40-5bf6f32c5fddreisendenkarte_20250603-050335.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/052b1926-1f64-4536-b7e4-f15151710bd9reisendenkarte_20250603-050335.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/052b1926-1f64-4536-b7e4-f15151710bd9reisendenkarte_20250603-050335.png",
           "info": "",
           "alt": "Reisendenkarte 03.06.2025 05:03:35",
           "openInNewTab": true
@@ -322,12 +322,17 @@
       ],
       "lines": [
         {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.06.2025 05:04",
+      "lastModified": "03.06.2025 05:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
