@@ -313,6 +313,56 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
+      "id": "7e9cc4ef-6828-4ee3-b394-3cd24b846b32",
+      "disruptionId": "910eac5c-1f20-48ec-bc6d-5f6b52770f55",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Bahnhof Singen (Hohentwiel) ohne Stromversorgung",
+      "summary": "Der Bahnhof Singen(Hohentwiel) ist ohne Stromversorgung. Dauer der Störung bis circa Mittwoch 04.06 gegen 10:00 Uhr. Beschädigung an einem Oberleitungsmast nach einer Zugentgleisung. Ein Ersatzverkehr mit Bussen ist zwischen Engen und Radolfzell im Pendelbetrieb eingerichtet. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p>Betroffene&nbsp;Linie(n):&nbsp;</p><p>RE 4 (Stuttgart – Konstanz) </p><p>RE 2 (Karlsruhe – Konstanz) </p><p>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </p><p>Bitte&nbsp;berücksichtigen&nbsp;Sie&nbsp;die&nbsp;Änderungen&nbsp;im&nbsp;Zugverkehr&nbsp;bei&nbsp;Ihrer&nbsp;Reiseplanung&nbsp;und&nbsp;</p><p>rechnen&nbsp;Sie&nbsp;für&nbsp;die&nbsp;Dauer&nbsp;der&nbsp;Störung&nbsp;mehr&nbsp;Reisezeit&nbsp;ein.</p>",
+      "durationBegin": "03.06.2025",
+      "durationEnd": "04.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/910eac5c-1f20-48ec-bc6d-5f6b52770f55",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-03/24fe489b-376f-4fdc-a9cc-6099fc327f5freisendenkarte_20250603-181836.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-03/24fe489b-376f-4fdc-a9cc-6099fc327f5freisendenkarte_20250603-181836.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.06.2025 18:18:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2025 19:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7e9cc4ef-6828-4ee3-b394-3cd24b846b32",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "effc3b54-f4c4-4165-85d4-dbc0862c536c",
       "disruptionId": "8cb66e09-ddd9-4220-8488-8012e532287f",
       "author": "FERNVERKEHR_AG",
@@ -346,6 +396,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/effc3b54-f4c4-4165-85d4-dbc0862c536c",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "9273d329-3ff8-414a-86cd-9fd3fcd2f625",
+      "disruptionId": "762557b9-1f94-439c-b790-f8bb67937a70",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Peterhausen/Altomünster: Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Karlsfeld.</p>",
+      "durationBegin": "03.06.2025",
+      "durationEnd": "03.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/762557b9-1f94-439c-b790-f8bb67937a70",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/8ddd4adc-1d38-4144-8e86-482cc3a4310ereisendenkarte_20250603-190059.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-03/8ddd4adc-1d38-4144-8e86-482cc3a4310ereisendenkarte_20250603-190059.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.06.2025 19:00:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.06.2025 19:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9273d329-3ff8-414a-86cd-9fd3fcd2f625",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -887,41 +982,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/74c249f9-dcac-4eb6-8bfb-a7acaa21de9a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
-    },
-    {
-      "id": "9b921478-19ae-4a08-bba0-d2564438e962",
-      "disruptionId": "80981c1d-d221-4074-97bc-efd835d2fa76",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen Berlin Frankfurter Allee",
-      "summary": "Aufgrund eines defekten Stellwerkes Berlin Frankfurter Allee kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>in Berlin beginnende Züge in Richtung Halle, Leipzig, Frankfurt (Main), Süd- und Südwestdeutschland und Schweiz.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/80981c1d-d221-4074-97bc-efd835d2fa76",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.06.2025 11:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9b921478-19ae-4a08-bba0-d2564438e962",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
