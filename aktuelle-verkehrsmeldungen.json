@@ -2,6 +2,73 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "23eb55a9-90c1-40c0-a386-b1f4e0059e86",
+      "disruptionId": "852858eb-98d5-4960-be0b-8a65f3c29b19",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Köln",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am Mittwoch kommt es in Köln zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich.",
+      "text": "<p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.06.2025",
+      "durationEnd": "04.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/852858eb-98d5-4960-be0b-8a65f3c29b19",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-06-03/b7c8c014-42ec-42aa-9881-3fb5fafd9ab9reisendenkarte_20250603-110858.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-06-03/b7c8c014-42ec-42aa-9881-3fb5fafd9ab9reisendenkarte_20250603-110858.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.06.2025 11:08:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Ihre Rechte als unser Fahrgast",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.06.2025 11:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/23eb55a9-90c1-40c0-a386-b1f4e0059e86",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
       "id": "d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
       "disruptionId": "ff18b5c7-9c46-4970-b8ae-00181d213827",
       "author": "FERNVERKEHR_AG",
@@ -324,6 +391,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "031bd52f-8d29-4116-89ea-a39f3c1f35a2",
+      "disruptionId": "d4f0007d-79b8-435d-8260-3f752dd56301",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S1 Reparatur an einem Signal in Obertürkheim",
+      "summary": "Es kommt zu Verspätungen und Ausfällen auf der Linie S1 wegen der Reparatur an einem Signal in Obertürkheim.",
+      "text": "<p> Bitte prüfen Sie Ihre Fahrt vor Reiseantritt online. Wir informieren Sie sobald uns neue Informationen vorliegen.</p>",
+      "durationBegin": "03.06.2025",
+      "durationEnd": "03.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/d4f0007d-79b8-435d-8260-3f752dd56301",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-06-03/82231a0b-57eb-4cbd-bd67-c89dd382af35reisendenkarte_20250603-110323.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-06-03/82231a0b-57eb-4cbd-bd67-c89dd382af35reisendenkarte_20250603-110323.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.06.2025 11:03:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.06.2025 11:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/031bd52f-8d29-4116-89ea-a39f3c1f35a2",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -701,6 +813,43 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/modified_service_construction0"
     },
     {
+      "id": "310ed087-c938-41dc-bc56-01dd07b3ba55",
+      "disruptionId": "03aeed6e-fa21-4c41-9a45-80bf7e71cafe",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 46 / Update / Streckensperrung und Schienenersatzverkehr zw. Pfarrkirchen und Pocking",
+      "summary": "bis vsl. 06.06.2025",
+      "text": "<p>nach einem Bahnübergangsunfall auf der Strecke Mühldorf – Passau Hbf kommt es weiterhin zu Beeinträchtigungen. Bis vsl. einschließlich Freitag, den 06.06., ist die Strecke zw. Pfarrkirchen und Pocking weiterhin gesperrt.</p><p>Noch bis einschließlich 03.06. (bis Betriebsschluss) ist ein Pendelverkehr mit Bussen zw. Pfarrkirchen und Pocking eingerichtet. Die Züge aus Mühldorf verkehren zu den Regelabfahrtszeiten im Pendelverkehr zw. Mühldorf – Pfarrkirchen. Die Züge aus Passau Hbf verkehren zu den Regelabfahrtszeiten im Pendelverkehr zw. Passau - Pocking. Zusätzlich kommt es zu vereinzelten Zugausfällen in diesem Streckenabschnitt.</p><p><strong>Ab</strong> <strong>Mittwoch, den 04.06. (ab Betriebsbeginn)</strong> <strong>ist weiterhin ein Ersatzverkehr mit Bussen eingerichtet.</strong> <strong>Die Busse verkehren dann ab Pocking zur vollen Stunde und ab Pfarrkirchen zur halben Stunde. </strong>Die <strong>Züge von Mühldorf nach Pfarrkirchen</strong>, sowie<strong> von Passau Hbf nach Pocking, verkehren zu den Regelabfahrtszeiten.</strong> Es kann weiterhin zu vereinzelten Zugausfällen kommen.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder über den DB Navigator.</p>",
+      "durationBegin": "30.05.2025",
+      "durationEnd": "07.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/03aeed6e-fa21-4c41-9a45-80bf7e71cafe",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2025 11:12",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/310ed087-c938-41dc-bc56-01dd07b3ba55",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_technical_problem_railway_section"
+    },
+    {
       "id": "69c35858-52c8-45f8-9256-9e5da9ec39bc",
       "disruptionId": "13239bd3-aebb-4b7a-94bf-76c6693e7a94",
       "author": "SUEDOSTBAYERNBAHN",
@@ -828,6 +977,41 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/74c249f9-dcac-4eb6-8bfb-a7acaa21de9a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "9b921478-19ae-4a08-bba0-d2564438e962",
+      "disruptionId": "80981c1d-d221-4074-97bc-efd835d2fa76",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen Berlin Frankfurter Allee",
+      "summary": "Aufgrund eines defekten Stellwerkes Berlin Frankfurter Allee kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>in Berlin beginnende Züge in Richtung Halle, Leipzig, Frankfurt (Main), Süd- und Südwestdeutschland und Schweiz.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/80981c1d-d221-4074-97bc-efd835d2fa76",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.06.2025 11:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9b921478-19ae-4a08-bba0-d2564438e962",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
