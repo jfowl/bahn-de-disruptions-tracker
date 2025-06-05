@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "6ce98c12-017d-4543-a88b-c04b886d63f6",
+      "disruptionId": "d6a6ba78-acea-4c0c-9ab1-68979fd1ba16",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Berlin",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Hannover und Berlin kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Hannover und Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis zum Tagesende erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/d6a6ba78-acea-4c0c-9ab1-68979fd1ba16",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.06.2025 10:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/6ce98c12-017d-4543-a88b-c04b886d63f6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
       "disruptionId": "ff18b5c7-9c46-4970-b8ae-00181d213827",
       "author": "FERNVERKEHR_AG",
@@ -851,16 +901,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 8 Flughafen ↔ Hallbergmoos: Reparatur an der Strecke",
-      "summary": "Zwischen Flughafen und Hallbergmoos in Richtung stadteinwärts  kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "Endmeldung: S 8 Flughafen ↔ Hallbergmoos",
+      "summary": "Zwischen Flughafen und Hallbergmoos kommt es zu keinen weiteren Beeinträchtigungen.",
+      "text": "<p>Reparatur an der Strecke wurde behoben.</p>",
       "durationBegin": "05.06.2025",
       "durationEnd": "05.06.2025",
       "mapHref": "https://karte.bahn.de/detail/d88a9852-8df5-4be9-973d-dad07bb7f5b2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/cbab4649-1089-4742-a4b6-25449b334d72reisendenkarte_20250605-085535.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/cbab4649-1089-4742-a4b6-25449b334d72reisendenkarte_20250605-085535.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/6e881f85-9091-43d9-b71c-5d12c9f14ae0reisendenkarte_20250605-085535.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/6e881f85-9091-43d9-b71c-5d12c9f14ae0reisendenkarte_20250605-085535.png",
           "info": "",
           "alt": "Reisendenkarte 05.06.2025 08:55:35",
           "openInNewTab": true
@@ -881,7 +931,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.06.2025 09:38",
+      "lastModified": "05.06.2025 10:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
