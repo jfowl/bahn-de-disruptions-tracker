@@ -135,6 +135,99 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction34"
     },
     {
+      "id": "ce8f0dc0-db56-4f01-a50d-64fc311fc6b3",
+      "disruptionId": "3044baf4-aa90-4cb2-ab52-2a3c55fa1914",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Streckensperrung zwischen Walkenried und Niedersachswerfen ",
+      "summary": "Wegen eines Stellwerksausfalls wurde der Zugverkehr zwischen Walkenried und Niedersachswerfen in beide Richtungen bis voraussichtlich 15:00 Uhr eingestellt. \n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li><strong>RB 80/81</strong> (Göttingen/Bodenfelde – Nordhausen): Die Züge enden und beginnen in Walkenried und Niedersachswerfen. Von Walkenried bis Niedersachswerfen ist ein Ersatzverkehr mit Bussen im Pendel eingerichtet.</li><li><strong>RB 82 </strong>(Göttingen – Kreiensen – Bad Harzburg): Es kommt zu Verspätungen. Zugausfälle sind möglich.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "05.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/3044baf4-aa90-4cb2-ab52-2a3c55fa1914",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-05/df3fe0be-4226-492e-8de4-71b2abb01eb5reisendenkarte_20250605-111359.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-05/df3fe0be-4226-492e-8de4-71b2abb01eb5reisendenkarte_20250605-111359.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.06.2025 11:13:59",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-05/f937d3ee-590d-47dc-b476-5e8716c3dbcbreisendenkarte_20250605-131645.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-05/f937d3ee-590d-47dc-b476-5e8716c3dbcbreisendenkarte_20250605-131645.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.06.2025 13:16:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 80",
+          "filterName": "RB 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.06.2025 13:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ce8f0dc0-db56-4f01-a50d-64fc311fc6b3",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -312,16 +405,16 @@
         "category": "police_activity",
         "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "S 8 Johanneskirchen ↔ Unterföhring: Feuerwehreinsatz",
-      "summary": "Zwischen Johanneskirchen und Unterföhring sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Johanneskirchen und Ismaning.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
+      "headline": "Endmeldung: S 8 Johanneskirchen ↔ Unterföhring",
+      "summary": "zwischen Johanneskirchen und Unterföhring sind wieder Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen fahren wieder auf dem Regelweg.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Feuerwehreinsatz wurde beendet.</p>",
       "durationBegin": "05.06.2025",
       "durationEnd": "05.06.2025",
       "mapHref": "https://karte.bahn.de/detail/a8cc138c-7c0a-43c7-aeb6-8f8aa971e30d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/07df0c40-351c-41d9-b2a9-66e56b59def3reisendenkarte_20250605-123721.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/07df0c40-351c-41d9-b2a9-66e56b59def3reisendenkarte_20250605-123721.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/ad74a8ad-82ee-4b62-a908-0d8415c74bd1reisendenkarte_20250605-123721.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-05/ad74a8ad-82ee-4b62-a908-0d8415c74bd1reisendenkarte_20250605-123721.png",
           "info": "",
           "alt": "Reisendenkarte 05.06.2025 12:37:21",
           "openInNewTab": true
@@ -342,12 +435,74 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.06.2025 12:39",
+      "lastModified": "05.06.2025 13:09",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/13aebd4e-e386-4445-8141-799de791d19b",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity"
+    },
+    {
+      "id": "effc3b54-f4c4-4165-85d4-dbc0862c536c",
+      "disruptionId": "8cb66e09-ddd9-4220-8488-8012e532287f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen in Singen (Hohentwiel)",
+      "summary": "Eine Entgleisung beeinträchtigt den Zugverkehr im Bahnhof Singen (Hohentwiel). Dadurch kommt es zu Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Stuttgart und Zürich verkehren nur zwischen Stuttgart und Tuttlingen sowie zwischen Schaffhausen und Zürich.</li><li>IC-Züge zwischen Karlsruhe und Konstanz fallen aus.</li><li>IC-Züge zwischen Stuttgart und Radolfzell bzw. Konstanz verkehren nur zwischen Stuttgart und Tuttlingen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen Singen (Hohentwiel) und Tuttlingen ist ein SEV mit Bussen eingerichtet. Diese Busse halten auch in Engen.</li><li>Zwischen Singen (Hohentwiel) und Schaffhausen nutzen sie bitte die Regionalzüge der Linie RE3 (Singen (Hohentwiel) - Basel).</li><li>Konstanz erreichen Sie mit dem Nah- bzw. Busersatzverkehr ab Singen (Hohentwiel) mit Umstieg in Radolfzell.</li><li>Reisende zwischen Stuttgart und der Schweiz nutzen bitte Verbindungen über Karlsruhe und Freiburg (Breisgau).</li><li>Bitte beachten Sie, dass im Busersatzverkehr eine Fahrradmitnahme nicht möglich ist.</li></ul><p><strong>Wegen eines technischen Fehlers können die Ersatzbusse derzeit nur über die Abfahrtstafel im DB Navigator, der Reiseauskunft auf bahn.de oder auf bahnhof.de (siehe unten) abgerufen werden. </strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/8cb66e09-ddd9-4220-8488-8012e532287f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-06-05/16b672b8-6d4f-442a-a094-406ba1b13e18reisendenkarte_20250605-125132.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-06-05/16b672b8-6d4f-442a-a094-406ba1b13e18reisendenkarte_20250605-125132.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.06.2025 12:51:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de/singen-hohentwiel/abfahrt",
+          "label": "Abfahrtstafel Singen (Hohentwiel)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de/tuttlingen/abfahrt",
+          "label": "Abfahrtstafel Tuttlingen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de/engen/abfahrt",
+          "label": "Abfahrtstafel Engen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.06.2025 12:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/effc3b54-f4c4-4165-85d4-dbc0862c536c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "7e9cc4ef-6828-4ee3-b394-3cd24b846b32",
@@ -398,41 +553,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7e9cc4ef-6828-4ee3-b394-3cd24b846b32",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "effc3b54-f4c4-4165-85d4-dbc0862c536c",
-      "disruptionId": "8cb66e09-ddd9-4220-8488-8012e532287f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen in Singen (Hohentwiel)",
-      "summary": "Eine Entgleisung beeinträchtigt den Zugverkehr im Bahnhof Singen (Hohentwiel). Dadurch kommt es zu Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Stuttgart und Zürich verkehren nur zwischen Stuttgart und Tuttlingen sowie zwischen Schaffhausen und Zürich.</li><li>IC-Züge zwischen Karlsruhe und Konstanz fallen aus.</li><li>IC-Züge zwischen Stuttgart und Radolfzell bzw. Konstanz verkehren nur zwischen Stuttgart und Tuttlingen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen Singen (Hohentwiel) und Tuttlingen ist ein SEV mit Bussen eingerichtet. Diese Busse halten auch in Engen.</li><li>Zwischen Singen (Hohentwiel) und Schaffhausen nutzen sie bitte die Regionalzüge der Linie RE3 (Singen (Hohentwiel) - Basel).</li><li>Konstanz erreichen Sie mit dem Nah- bzw. Busersatzverkehr ab Singen (Hohentwiel) mit Umstieg in Radolfzell.</li><li>Reisende zwischen Stuttgart und der Schweiz nutzen bitte Verbindungen über Karlsruhe und Freiburg (Breisgau).</li><li>Bitte beachten Sie, dass im Busersatzverkehr eine Fahrradmitnahme nicht möglich ist.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/8cb66e09-ddd9-4220-8488-8012e532287f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.06.2025 22:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/effc3b54-f4c4-4165-85d4-dbc0862c536c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -690,43 +810,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
-    },
-    {
-      "id": "add67dc5-4464-4ac5-9f51-da6ea81ad800",
-      "disruptionId": "81709f12-42b9-442b-93f6-e929288f613a",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teil- und Zugausfälle im Raum Frankfurt",
-      "summary": "Aufgrund der Erkrankung von Stellwerkspersonal kommt es zu Einschränkungen im Verkehr der S-Bahn Rhein-Main im Raum Frankfurt.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p><strong>Betroffener Zeitraum:</strong></p><ul><li>Am 05.06.2025 zwischen 05:30 Uhr und 13:00 Uhr</li></ul><p></p><p><strong>Beeinträchtigungen:</strong></p><ul><li><strong>S2 und S5:</strong> Die Züge verkehren im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
-      "durationBegin": "05.06.2025",
-      "durationEnd": "05.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/81709f12-42b9-442b-93f6-e929288f613a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.06.2025 06:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/add67dc5-4464-4ac5-9f51-da6ea81ad800",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
       "id": "dc92d9a8-1829-4f0b-a4cb-da8780a57619",
