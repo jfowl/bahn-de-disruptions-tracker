@@ -159,6 +159,42 @@
       "magnoliaPath": "/aktuell/hessen/no_service_other_cause"
     },
     {
+      "id": "3add4797-7a4c-43e1-b8aa-fcedf86a3d48",
+      "disruptionId": "198470bf-6e21-47e1-aaf5-21e6f3ac827f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigung in Darmstadt-Eberstadt",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Darmstadt-Eberstadt kommt es zu Umleitungen und Zugausfällen im Fernverkehr der Deutschen Bahn. Die Halte in Langen(Hessen), Darmstadt Hbf, Bensheim Hbf und Weinheim(Bergstr) entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><p></p><ul><li>ICE-/IC-/RJX-Züge auf der Verbindung Frankfurt(M) - Darmstadt - Heidelberg - Stuttgart</li><li>NJ-Züge der Verbindung Hamburg - Zürich</li></ul><p></p><strong><strong>Die Verbindungen sind in folgenden Zeiträumen betroffen:</strong></strong><p></p><ul><li>06./07.06.2025 zwischen 22 Uhr und 06 Uhr</li><li>07./08.06.2025 zwischen 18 Uhr und 06 Uhr</li><li>07./08.06.2025 zwischen 18 Uhr und 06 Uhr</li></ul><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/198470bf-6e21-47e1-aaf5-21e6f3ac827f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2025 11:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3add4797-7a4c-43e1-b8aa-fcedf86a3d48",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_other_cause"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -1015,9 +1051,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 2 Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Im Bereich Markt Schwaben kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 2 Markt Schwaben",
+      "summary": "Im Bereich Markt Schwaben kommt es noch zu Teilausfällen.",
+      "text": "<p>Die Reparatur an einem Signal wurde behoben.</p>",
       "durationBegin": "06.06.2025",
       "durationEnd": "06.06.2025",
       "mapHref": "https://karte.bahn.de/detail/bb984b40-313c-492e-9c92-df2d712e36b9",
@@ -1037,7 +1073,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.06.2025 10:30",
+      "lastModified": "06.06.2025 11:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
