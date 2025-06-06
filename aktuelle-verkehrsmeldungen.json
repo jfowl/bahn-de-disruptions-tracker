@@ -276,51 +276,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "62c46c3d-ee31-4fdc-8fa3-25477157deff",
-      "disruptionId": "a78dd7b2-78ac-4323-aef4-b79b86650517",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 6 Ebersberg: Reparatur an einer Weiche",
-      "summary": "Momentan ist zwischen Trudering und Haar kein Zugverkehr möglich.",
-      "text": "<p>Ein Ersatzverkehr ist aktuell in Planung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche bei Trudering.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
-      "durationBegin": "06.06.2025",
-      "durationEnd": "07.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/a78dd7b2-78ac-4323-aef4-b79b86650517",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-06/8493abc6-840d-41aa-b6b6-51de26cc4abereisendenkarte_20250606-232605.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-06/8493abc6-840d-41aa-b6b6-51de26cc4abereisendenkarte_20250606-232605.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.06.2025 23:26:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.06.2025 23:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/62c46c3d-ee31-4fdc-8fa3-25477157deff",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
-    },
-    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -488,6 +443,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/effc3b54-f4c4-4165-85d4-dbc0862c536c",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "62c46c3d-ee31-4fdc-8fa3-25477157deff",
+      "disruptionId": "a78dd7b2-78ac-4323-aef4-b79b86650517",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 6 Ebersberg: Reparatur an einer Weiche beendet",
+      "summary": "Zwischen Trudering und Haar ist der Zugverkehr wieder möglich.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war eine Reparatur an einer Weiche bei Trudering.</p>",
+      "durationBegin": "06.06.2025",
+      "durationEnd": "07.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/a78dd7b2-78ac-4323-aef4-b79b86650517",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-07/6ad3cdd8-3d33-4255-889d-404232928347reisendenkarte_20250607-000451.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-07/6ad3cdd8-3d33-4255-889d-404232928347reisendenkarte_20250607-000451.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.06.2025 00:04:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.06.2025 00:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/62c46c3d-ee31-4fdc-8fa3-25477157deff",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "99f9ae6d-a5a6-4f10-8abc-752eafe4d598",
