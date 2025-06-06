@@ -923,6 +923,85 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
+      "id": "e75f05fd-1beb-4db9-b006-1025be42a507",
+      "disruptionId": "e13865e1-ae7a-454e-a082-0f3e4f09fd9d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Information für den Ersatzverkehr mit Bussen an der Station Neukloster",
+      "summary": "Aufgrund der Straßensperrungen rund um den Pfingstmarkt Neukloster können die Busse des S-Bahn-Ersatzverkehrs am Montag, 9.6. die Haltestelle Neukloster, Pfingstmarkt nicht bedienen und fahren über die Haltestelle Neukloster, Bahnhof.\nDadurch kommt es zu Fahrtzeitverlängerungen in beiden Richtungen.",
+      "text": "<p>Keine weiteren Informationen.</p>",
+      "durationBegin": "09.06.2025",
+      "durationEnd": "10.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/e13865e1-ae7a-454e-a082-0f3e4f09fd9d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.06.2025 17:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e75f05fd-1beb-4db9-b006-1025be42a507",
+      "magnoliaPath": "/aktuell/nord/modified_service_other_cause"
+    },
+    {
+      "id": "72b7af28-cfe1-4c68-a92c-96f35b0eacb7",
+      "disruptionId": "907162b3-c282-4b98-8129-d98bbfad960e",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Kein barrierefreier Zugang zu Gleis 1+2 an der Station Harburg Rathaus",
+      "summary": "Der Aufzug zu Gleis 1+2 an der Station Harburg Rathaus ist aktuell außer Betrieb.\nBitte fahren Sie bis zur nächsten Station und kehren Sie zurück. Für weitere Informationen bitte aufklappen.",
+      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 1+2 an der Station Harburg Rathaus (Fahrtrichtung Innenstadt) ist derzeit nicht möglich.</strong></p><p>Fahrgäste mit Rollstuhl, Rollator oder Kinderwagen nutzen bitte folgende Alternative:</p><p>Fahren Sie <strong>eine Station weiter</strong> (z. B. Harburg), steigen Sie dort in eine S-Bahn mit Ziel Neugraben, Buxtehude oder Stade um und fahren Sie dann zurück nach Harburg Rathaus, um an Gleis 3 auszusteigen (funktionierender Aufzug).</p><p>Weitere Informationen: www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 1+2 (towards city centre) at Harburg Rathaus is currently not possible.</strong></p><p>Please:</p><p>Continue <strong>one stop</strong> (e.g. to Harburg), switch trains (destination: Neugraben, Buxtehude or Stade) and return to platform 3 at Harburg Rathaus (with working elevator).</p><p>More information: www.hvv.de/en/lifts</p>",
+      "durationBegin": "05.06.2025",
+      "durationEnd": "09.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/907162b3-c282-4b98-8129-d98bbfad960e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.06.2025 17:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/72b7af28-cfe1-4c68-a92c-96f35b0eacb7",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
       "id": "2dca27ea-9fc4-4576-ad26-7c224fb7799e",
       "disruptionId": "0a20c251-30d0-4d60-925b-676d99ad0576",
       "author": "S_BAHN_HH",
@@ -1000,48 +1079,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9103569e-e294-4af6-8b3a-511f3e07adf2",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other1"
-    },
-    {
-      "id": "72b7af28-cfe1-4c68-a92c-96f35b0eacb7",
-      "disruptionId": "907162b3-c282-4b98-8129-d98bbfad960e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang zu Gleis 1+2 an der Station Harburg Rathaus",
-      "summary": "Der Aufzug zu Gleis 1+2 an der Station Harburg Rathaus ist aktuell außer Betrieb.\nBitte fahren Sie bis zur nächsten Station und kehren Sie zurück. Für weitere Informationen bitte aufklappen.",
-      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 1+2 an der Station Harburg Rathaus (Fahrtrichtung Innenstadt) ist derzeit nicht möglich.</strong></p><p>Fahrgäste mit Rollstuhl, Rollator oder Kinderwagen nutzen bitte folgende Alternative:</p><p>Fahren Sie <strong>eine Station weiter</strong> (z. B. Harburg), steigen Sie dort in eine S-Bahn mit Ziel Neugraben, Buxtehude oder Stade um und fahren Sie dann zurück nach Harburg Rathaus, um an Gleis 3 auszusteigen (funktionierender Aufzug).</p><p>Weitere Informationen: www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 1+2 (towards city centre) at Harburg Rathaus is currently not possible.</strong></p><p>Please:</p><p>Continue <strong>one stop</strong> (e.g. to Harburg), switch trains (destination: Neugraben, Buxtehude or Stade) and return to platform 3 at Harburg Rathaus (with working elevator).</p><p>More information: www.hvv.de/en/lifts</p>",
-      "durationBegin": "05.06.2025",
-      "durationEnd": "06.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/907162b3-c282-4b98-8129-d98bbfad960e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.06.2025 16:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/72b7af28-cfe1-4c68-a92c-96f35b0eacb7",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
       "id": "310ed087-c938-41dc-bc56-01dd07b3ba55",
