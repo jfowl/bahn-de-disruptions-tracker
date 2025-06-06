@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
+      "disruptionId": "ff18b5c7-9c46-4970-b8ae-00181d213827",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Fulda und Bad Hersfeld",
+      "summary": "Aufgrund von Bauarbeiten zwischen Fulda und Bad Hersfeld kommt es derzeit zu Verspätungen von bis zu 10 Minuten sowie Haltausfällen im Fernverkehr der Deutschen Bahn",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Dresden - Leipzig - Erfurt - Frankfurt(M) - bei diesen Zügen kann der Halt in Bad Hersfeld entfallen</li><li>ICE-Züge der Verbindung Berlin - Erfurt - Frankfurt(M)</li><li>Einzelne ICE-/IC-Züge der Verbindung Norddeutschland - Kassel-Wilhelmshöhe - Frankfurt(M)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/ff18b5c7-9c46-4970-b8ae-00181d213827",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2025 09:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
+    },
+    {
       "id": "aacb9923-2808-40e3-81cd-3793ff2c42e4",
       "disruptionId": "ec889225-f8e7-4700-bdd5-38330fffa5ba",
       "author": "REGIO_NORDOST",
@@ -409,6 +447,48 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "99f9ae6d-a5a6-4f10-8abc-752eafe4d598",
+      "disruptionId": "8d127bf5-f81c-4e39-bfc4-dfa6eaf19120",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streikmaßnahmen in der Niederlande",
+      "summary": "In der Niederlande finden Streikmaßnahmen statt. Dadurch kommt es im regionalen Verkehr der Niederlande  zu Einschränkungen.",
+      "text": "<p>Bitte planen Sie für Reisen in den Niederlande mehr Zeit ein.&nbsp;</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/8d127bf5-f81c-4e39-bfc4-dfa6eaf19120",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zur Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2025 09:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/99f9ae6d-a5a6-4f10-8abc-752eafe4d598",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
+    },
+    {
       "id": "ff9f7d06-7b02-4df0-9fa6-e94bb2a156ca",
       "disruptionId": "30043740-14e1-4f79-9fc5-2cb977c70f60",
       "author": "S_BAHN_RM",
@@ -805,6 +885,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "9103569e-e294-4af6-8b3a-511f3e07adf2",
+      "disruptionId": "a2e6f42f-1514-49e2-9fcd-9701ac1a8b19",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Kein barrierefreier Zugang an der Station Neugraben – alle Aufzüge außer Betrieb",
+      "summary": "An der Station Neugraben sind aktuell alle Aufzüge außer Betrieb.\nFür Fahrgäste mit eingeschränkter Mobilität ergeben sich dadurch Einschränkungen beim Umstieg.\nBitte klappen Sie diese Meldung auf, um Alternativen zu sehen.",
+      "text": "<p><strong>Der barrierefreie Zugang an der Station Neugraben ist aktuell nicht möglich.</strong></p><p>Bitte beachten Sie die folgenden barrierefreien Alternativen zur An- und Abreise:</p><p></p><p><strong>Für Fahrgäste, die in Neugraben einsteigen möchten:</strong></p><p>Richtung Harburg / Hauptbahnhof:&nbsp;&nbsp;</p><p>- <strong>S5 ab Gleis 1</strong> (Rampe vorhanden)&nbsp;</p><p>Oder: </p><p><strong>-Bus 250 oder 251 bis S Neuwiedenthal</strong>, dann Umstieg in <strong>S3 oder S5</strong> (barrierefrei über Aufzug)</p><p></p><p>Richtung Buxtehude / Stade:&nbsp;</p><p><strong>-S5 ab Gleis 1</strong> bis <strong>S Neuwiedenthal</strong>, dort Umstieg in <strong>S5 Richtung Buxtehude/Stade</strong>&nbsp;&nbsp;</p><p>Oder: </p><p><strong>-Bus 250 oder 251 bis S Neuwiedenthal</strong>, dort Umstieg in <strong>S5 Richtung Buxtehude/Stade</strong></p><p></p><p><strong>Für Fahrgäste, die in Neugraben aussteigen möchten:</strong></p><p>Aus Richtung Harburg / Innenstadt:&nbsp;&nbsp;</p><p>- Bereits <strong>eine Station vorher in Neuwiedenthal aussteigen</strong>, mit <strong>Bus 250 oder 251</strong> nach Neugraben fahren</p><p></p><p>Aus Richtung Stade / Buxtehude:&nbsp;&nbsp;</p><p>- In der Regel hält die <strong>S5 an Gleis 1</strong>, dort barrierefreier Ausstieg möglich&nbsp;&nbsp;</p><p>- Falls abweichend: <strong>weiter bis Neuwiedenthal</strong>, dann mit <strong>Bus 250 oder 251</strong> zurück nach Neugraben</p><p></p><p>Weitere Informationen: www.hvv.de/aufzuege</p><p></p><p><strong>There is currently no barrier-free access at Neugraben station.</strong></p><p>Please use the following alternatives for arrival and departure:</p><p></p><p><strong>From Neugraben:</strong></p><p>To Harburg / central Hamburg:&nbsp;&nbsp;</p><p>- <strong>S5 from platform 1</strong> (with ramp access)&nbsp;&nbsp;</p><p>- Or: <strong>Bus 250 or 251 to S Neuwiedenthal</strong>, then transfer to <strong>S3 or S5</strong> (with elevator)</p><p></p><p>To Stade / Buxtehude:&nbsp;&nbsp;</p><p>- <strong>S5 to S Neuwiedenthal</strong>, then transfer to <strong>S5 towards Buxtehude / Stade</strong>&nbsp;&nbsp;</p><p>- Or: <strong>Bus 250 or 251 to S Neuwiedenthal</strong>, then transfer to <strong>S5 towards Buxtehude / Stade</strong></p><p></p><p><strong>To Neugraben:</strong></p><p>Coming from Harburg:&nbsp;&nbsp;</p><p>- Exit one station earlier at <strong>Neuwiedenthal</strong>, take <strong>bus 250 or 251</strong> to Neugraben</p><p></p><p>Coming from Stade:&nbsp;&nbsp;</p><p>- Normally <strong>S5 stops at platform 1</strong>, exit is barrier-free&nbsp;&nbsp;</p><p>- Otherwise, continue to <strong>Neuwiedenthal</strong> and take <strong>bus 250 or 251</strong> back</p><p></p><p>More information: www.hvv.de/en/lifts</p>",
+      "durationBegin": "06.06.2025",
+      "durationEnd": "09.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/a2e6f42f-1514-49e2-9fcd-9701ac1a8b19",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.06.2025 09:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9103569e-e294-4af6-8b3a-511f3e07adf2",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other1"
     },
     {
       "id": "72b7af28-cfe1-4c68-a92c-96f35b0eacb7",
