@@ -93,44 +93,6 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction34"
     },
     {
-      "id": "deae5d9a-8c9a-4897-be93-72df07b7a042",
-      "disruptionId": "17f19f7a-4df6-4b10-86d4-99b0e6f70215",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "S5: Aktuell fährt keine S5 zwischen Stade und Buxtehude. Grund: Oberleitungsstörung. ",
-      "summary": "Bitte nutzen Sie alternativ den Notverkehr mit Bussen, sowie den RE 5.. ",
-      "text": "<p>Weitere Informationen folgen, wenn nötig.</p>",
-      "durationBegin": "10.06.2025",
-      "durationEnd": "10.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/17f19f7a-4df6-4b10-86d4-99b0e6f70215",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.06.2025 13:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/deae5d9a-8c9a-4897-be93-72df07b7a042",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -299,6 +261,41 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "2a0a87f3-1474-4d05-87d8-2d15e7c409a4",
+      "disruptionId": "22bf3053-535f-41fc-a24d-6ea03aab96bb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen München Ost - Rosenheim",
+      "summary": "Aufgrund einer Oberleitungsstörung zwischen München Ost und Trudering kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>alle ICE/IC Züge zwischen München und Österreich (Innsbruck, Salzburg)</li><li>alle ICE/IC/EC/RJ Züge zwischen München und Österreich (Innsbruck, Kufstein)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/22bf3053-535f-41fc-a24d-6ea03aab96bb",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.06.2025 14:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2a0a87f3-1474-4d05-87d8-2d15e7c409a4",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "ff9f7d06-7b02-4df0-9fa6-e94bb2a156ca",
