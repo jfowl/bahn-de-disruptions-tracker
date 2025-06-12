@@ -54,8 +54,8 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S5: Aktuell fährt keine S5 zwischen Horneburg und Stade. Grund: Technische Störung am Gleis. ",
-      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen.",
+      "headline": "S5: Technische Störung am Gleis beendet. Die S5 fährt wieder zwischen Horneburg und Stade.",
+      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
       "text": "<p> </p>",
       "durationBegin": "12.06.2025",
       "durationEnd": "12.06.2025",
@@ -64,7 +64,7 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH",
@@ -72,12 +72,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "12.06.2025 08:45",
+      "lastModified": "12.06.2025 08:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
