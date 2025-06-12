@@ -232,17 +232,17 @@
       "mapHref": "https://karte.bahn.de/detail/b713ce66-178f-40f4-a404-257a447de5f8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/6b3c41ea-fa76-40f0-bae8-818974e21588reisendenkarte_20250612-100330.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/6b3c41ea-fa76-40f0-bae8-818974e21588reisendenkarte_20250612-100330.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/387946b4-8ff3-4c98-8379-dc79c44a3077reisendenkarte_20250612-100408.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/387946b4-8ff3-4c98-8379-dc79c44a3077reisendenkarte_20250612-100408.png",
           "info": "",
-          "alt": "Reisendenkarte 12.06.2025 10:03:30",
+          "alt": "Reisendenkarte 12.06.2025 10:04:08",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/e619debb-528b-46d1-8d30-8b5a2ee0694freisendenkarte_20250612-100408.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/e619debb-528b-46d1-8d30-8b5a2ee0694freisendenkarte_20250612-100408.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/a5c0ab87-cd19-4576-8ff1-df6de8e5c048reisendenkarte_20250612-100330.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-12/a5c0ab87-cd19-4576-8ff1-df6de8e5c048reisendenkarte_20250612-100330.png",
           "info": "",
-          "alt": "Reisendenkarte 12.06.2025 10:04:08",
+          "alt": "Reisendenkarte 12.06.2025 10:03:30",
           "openInNewTab": true
         }
       ],
@@ -261,7 +261,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.06.2025 10:08",
+      "lastModified": "12.06.2025 10:54",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -573,6 +573,48 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
+      "id": "34eef34f-115d-4e66-a6e2-04dc4e1924cc",
+      "disruptionId": "f077e6b5-f2ca-4cac-9ca2-bea98797718c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Kein barrierefreier Zugang zur S-Bahn in Hammerbrook",
+      "summary": "An der Station Hammerbrook ist der Aufzug zur S-Bahn derzeit außer Betrieb. Fahrgäste mit Rollstuhl, Rollator oder Kinderwagen können als barrierefreie Alternative folgende Verbindung nutzen (bitte aufklappen).",
+      "text": "<p><strong>Der barrierefreie Zugang zur S-Bahn an der Station Hammerbrook ist derzeit nicht möglich.</strong></p><p>Für mobilitätseingeschränkte Fahrgäste empfehlen wir folgende Alternative:</p><p></p><p><strong>Barrierefreie Umfahrung:</strong></p><ul><li>Zwischen <strong>Hbf/Steintorwall</strong> und <strong>S Hammerbrook (Nord)</strong> fährt der <strong>Bus 112</strong>.</li></ul><p></p><p>Weitere Informationen:&nbsp;www.hvv.de/aufzuege</p>",
+      "durationBegin": "12.06.2025",
+      "durationEnd": "13.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/f077e6b5-f2ca-4cac-9ca2-bea98797718c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.06.2025 10:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/34eef34f-115d-4e66-a6e2-04dc4e1924cc",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other5"
+    },
+    {
       "id": "7641ec51-13bf-4da6-944f-1757da4d206f",
       "disruptionId": "8e1e0421-005c-43f0-a5d9-a5806b7779ed",
       "author": "S_BAHN_HH",
@@ -608,48 +650,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7641ec51-13bf-4da6-944f-1757da4d206f",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other6"
-    },
-    {
-      "id": "34eef34f-115d-4e66-a6e2-04dc4e1924cc",
-      "disruptionId": "f077e6b5-f2ca-4cac-9ca2-bea98797718c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang zur S-Bahn in Hammerbrook",
-      "summary": "An der Station Hammerbrook ist der Aufzug zur S-Bahn derzeit außer Betrieb. Fahrgäste mit Rollstuhl, Rollator oder Kinderwagen können als barrierefreie Alternative folgende Verbindung nutzen (bitte aufklappen).",
-      "text": "<p><strong>Der barrierefreie Zugang zur S-Bahn an der Station Hammerbrook ist derzeit nicht möglich.</strong></p><p>Für mobilitätseingeschränkte Fahrgäste empfehlen wir folgende Alternative:</p><p></p><p><strong>Barrierefreie Umfahrung:</strong></p><ul><li>Zwischen <strong>Hbf/Steintorwall</strong> und <strong>S Hammerbrook (Nord)</strong> fährt der <strong>Bus 112</strong>.</li></ul><p></p><p>Weitere Informationen:&nbsp;www.hvv.de/aufzuege</p>",
-      "durationBegin": "12.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/f077e6b5-f2ca-4cac-9ca2-bea98797718c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.06.2025 10:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/34eef34f-115d-4e66-a6e2-04dc4e1924cc",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other5"
     },
     {
       "id": "d72923cc-2909-4977-a158-ad3df7c038b0",
