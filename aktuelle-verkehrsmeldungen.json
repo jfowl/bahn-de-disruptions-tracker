@@ -471,12 +471,20 @@
         "label": "Bauarbeiten"
       },
       "headline": "Lindau-Reutin ⇄ Lindau-Insel\n- Haltausfall",
-      "summary": "Datum: 30.05.2025 16 Uhr  bis 15.06.2025 05:30",
+      "summary": "Datum: 30.05.2025 16 Uhr  bis 28.07.2025 23:59 Uhr",
       "text": "<p><strong>Linie:</strong> RE7 und RE70</p><p><strong>Betroffene Stationen:</strong> Lindau Insel </p><p><strong>Einschränkungen: </strong>Aufgrund von Baumaßnahmen zwischen Hergatz und Weißensberg kommt es täglich bis 20 Uhr zu Haltausfällen in Lindau-Insel. Die Zugverbindungen nach 20 Uhr sind von der Maßnahme nicht betroffen</p><p><strong>Alternative: </strong>Alternativ können Sie die Züge der ÖBB nach Lindau Insel nutzen und in Lindau Reutin umsteigen.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>Noch Fragen? Sie erreichen den Kundendialog von DB Regio Bayern unter der Rufnummer 089 20355000.</p><p></p>",
       "durationBegin": "30.05.2025",
-      "durationEnd": "15.06.2025",
+      "durationEnd": "28.07.2025",
       "mapHref": "https://karte.bahn.de/detail/2d96aa5a-26d5-473d-9737-0e24d93e60df",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-06-13/549d3307-09d4-4dc6-b3aa-c1e4139d5346reisendenkarte_20250613-102340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-06-13/549d3307-09d4-4dc6-b3aa-c1e4139d5346reisendenkarte_20250613-102340.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.06.2025 10:23:40",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -487,6 +495,16 @@
       ],
       "lines": [
         {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 94",
+          "filterName": "RB 94",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 7",
           "filterName": "RE 7",
           "property": "REGIONAL"
@@ -495,139 +513,18 @@
           "name": "RE 70",
           "filterName": "RE 70",
           "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.05.2025 15:54",
+      "lastModified": "13.06.2025 10:27",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
-    },
-    {
-      "id": "34eef34f-115d-4e66-a6e2-04dc4e1924cc",
-      "disruptionId": "f077e6b5-f2ca-4cac-9ca2-bea98797718c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang zur S-Bahn in Hammerbrook",
-      "summary": "An der Station Hammerbrook ist der Aufzug zur S-Bahn derzeit außer Betrieb. Fahrgäste mit Rollstuhl, Rollator oder Kinderwagen können als barrierefreie Alternative folgende Verbindung nutzen (bitte aufklappen).",
-      "text": "<p><strong>Der barrierefreie Zugang zur S-Bahn an der Station Hammerbrook ist derzeit nicht möglich.</strong></p><p>Für mobilitätseingeschränkte Fahrgäste empfehlen wir folgende Alternative:</p><p></p><p><strong>Barrierefreie Umfahrung:</strong></p><ul><li>Zwischen <strong>Hbf/Steintorwall</strong> und <strong>S Hammerbrook (Nord)</strong> fährt der <strong>Bus 112</strong>.</li></ul><p></p><p>Weitere Informationen:&nbsp;www.hvv.de/aufzuege</p>",
-      "durationBegin": "12.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/f077e6b5-f2ca-4cac-9ca2-bea98797718c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.06.2025 10:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/34eef34f-115d-4e66-a6e2-04dc4e1924cc",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other5"
-    },
-    {
-      "id": "d72923cc-2909-4977-a158-ad3df7c038b0",
-      "disruptionId": "6b45ceb3-50de-418e-b28e-3114e2dae714",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang zur S-Bahn an den Landungsbrücken / No barrier-free access to the S-Bahn at Landungsbrücken",
-      "summary": "An der Station Landungsbrücken ist der Aufzug zur S-Bahn außer Betrieb. Bitte nutzen Sie die U-Bahnlinie U3 als Alternative. / The elevator to the S-Bahn at Landungsbrücken is out of service. Please use the line U3 instead.",
-      "text": "<p><strong>Der barrierefreie Zugang zur S-Bahn an der Station Landungsbrücken ist derzeit nicht möglich.</strong></p><p>Fahrgästen mit Mobilitätseinschränkungen empfehlen wir als Alternative:</p><p></p><p><strong>Barrierefreie Umfahrung:</strong></p><p>Nutzung der <strong>U-Bahnlinie U3</strong>, die an den Landungsbrücken ebenfalls hält und barrierefrei zugänglich ist.</p><p>Ein Umstieg ist z.B. am <strong>Hauptbahnhof</strong> möglich.</p><p></p><p>Weitere Informationen: www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to the S-Bahn at Landungsbrücken is currently not available.</strong></p><p>For passengers with reduced mobility, we recommend the following alternative:</p><p></p><p><strong>Barrier-free alternative:</strong></p><p>Use <strong>U3 line</strong>, which also stops at Landungsbrücken and offers step-free (elevator) access. </p><p>Change ist possible at <strong>Central Station</strong>.</p><p></p><p>More information: www.hvv.de/en/lifts</p>",
-      "durationBegin": "12.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/6b45ceb3-50de-418e-b28e-3114e2dae714",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.06.2025 10:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d72923cc-2909-4977-a158-ad3df7c038b0",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other4"
-    },
-    {
-      "id": "b8f3ab97-02fb-45f4-8cef-09b4f15b3064",
-      "disruptionId": "df5043a6-0866-4ab4-94fc-8265b95c49ba",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang an der Station Neugraben – alle Aufzüge außer Betrieb",
-      "summary": "An der Station Neugraben sind aktuell alle Aufzüge außer Betrieb.\nFür Fahrgäste mit eingeschränkter Mobilität ergeben sich dadurch Einschränkungen beim Umstieg.\nBitte klappen Sie diese Meldung auf, um Alternativen zu sehen.",
-      "text": "<p><strong>Der barrierefreie Zugang an der Station Neugraben ist aktuell nicht möglich.</strong></p><p>Bitte beachten Sie die folgenden barrierefreien Alternativen zur An- und Abreise:</p><p></p><p><strong>Für Fahrgäste, die in Neugraben einsteigen möchten:</strong></p><p>Richtung Harburg / Hauptbahnhof:&nbsp;&nbsp;</p><p>- <strong>S5 ab Gleis 1</strong> (Rampe vorhanden)&nbsp;&nbsp;-</p><p>Oder: <strong>Bus 250 oder 251 bis S Neuwiedenthal</strong>, dann Umstieg in <strong>S3 oder S5</strong> (barrierefrei über Aufzug)</p><p></p><p>Richtung Buxtehude / Stade:&nbsp;&nbsp;-</p><p><strong>S5 ab Gleis 1</strong> bis <strong>S Neuwiedenthal</strong>, dort Umstieg in <strong>S5 Richtung Buxtehude/Stade</strong>&nbsp;&nbsp;</p><p>- Oder: <strong>Bus 250 oder 251 bis S Neuwiedenthal</strong>, dort Umstieg in <strong>S5 Richtung Buxtehude/Stade</strong></p><p></p><p><strong>Für Fahrgäste, die in Neugraben aussteigen möchten:</strong></p><p>Aus Richtung Harburg / Innenstadt:&nbsp;&nbsp;</p><p>- Bereits <strong>eine Station vorher in Neuwiedenthal aussteigen</strong>, mit <strong>Bus 250 oder 251</strong> nach Neugraben fahren</p><p></p><p>Aus Richtung Stade / Buxtehude:&nbsp;&nbsp;</p><p>- In der Regel hält die <strong>S5 an Gleis 1</strong>, dort barrierefreier Ausstieg möglich&nbsp;&nbsp;</p><p>- Falls abweichend: <strong>weiter bis Neuwiedenthal</strong>, dann mit <strong>Bus 250 oder 251</strong> zurück nach Neugraben</p><p></p><p>Weitere Informationen: www.hvv.de/aufzuege</p><p></p><p><strong>There is currently no barrier-free access at Neugraben station.</strong></p><p>Please use the following alternatives for arrival and departure:</p><p></p><p><strong>From Neugraben:</strong></p><p>To Harburg / central Hamburg:&nbsp;&nbsp;</p><p>- <strong>S5 from platform 1</strong> (with ramp access)&nbsp;&nbsp;</p><p>- Or: <strong>Bus 250 or 251 to S Neuwiedenthal</strong>, then transfer to <strong>S3 or S5</strong> (with elevator)</p><p></p><p>To Stade / Buxtehude:&nbsp;&nbsp;</p><p>- <strong>S5 to S Neuwiedenthal</strong>, then transfer to <strong>S5 towards Buxtehude / Stade</strong>&nbsp;&nbsp;</p><p>- Or: <strong>Bus 250 or 251 to S Neuwiedenthal</strong>, then transfer to <strong>S5 towards Buxtehude / Stade</strong></p><p></p><p><strong>To Neugraben:</strong></p><p>Coming from Harburg:&nbsp;&nbsp;</p><p>- Exit one station earlier at <strong>Neuwiedenthal</strong>, take <strong>bus 250 or 251</strong> to Neugraben</p><p></p><p>Coming from Stade:&nbsp;&nbsp;</p><p>- Normally <strong>S5 stops at platform 1</strong>, exit is barrier-free&nbsp;&nbsp;</p><p>- Otherwise, continue to <strong>Neuwiedenthal</strong> and take <strong>bus 250 or 251</strong> back</p><p></p><p>More information: www.hvv.de/en/lifts</p>",
-      "durationBegin": "12.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/df5043a6-0866-4ab4-94fc-8265b95c49ba",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.06.2025 10:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b8f3ab97-02fb-45f4-8cef-09b4f15b3064",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other3"
     },
     {
       "id": "3a8577b0-1d47-4572-99af-00b7c80a3215",
