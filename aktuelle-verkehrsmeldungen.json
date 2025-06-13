@@ -195,15 +195,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "S 2 Erdweg ↔ Dachau: Reparatur an einer Weiche",
-      "summary": "Zwischen Erdweg und Dachau kommt es zu Verspätungen und Teilausfällen.",
+      "summary": "Zwischen Erdweg und Dachau kommt es zu Verspätungen von 5 bis 10 Minuten.",
       "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "13.06.2025",
       "durationEnd": "13.06.2025",
       "mapHref": "https://karte.bahn.de/detail/471c91a8-c904-42bf-b4f8-843d315961ad",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/d58f2deb-cb19-46f1-88ef-e8d1ee9c181dreisendenkarte_20250613-161717.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/d58f2deb-cb19-46f1-88ef-e8d1ee9c181dreisendenkarte_20250613-161717.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/17c29bc1-c0e3-467c-9da8-b5625a41cca2reisendenkarte_20250613-161717.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/17c29bc1-c0e3-467c-9da8-b5625a41cca2reisendenkarte_20250613-161717.png",
           "info": "",
           "alt": "Reisendenkarte 13.06.2025 16:17:17",
           "openInNewTab": true
@@ -224,7 +224,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.06.2025 16:23",
+      "lastModified": "13.06.2025 16:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -655,6 +655,85 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "8962c0e4-89d2-4f15-83a0-a725bcf5f9fb",
+      "disruptionId": "302c37e8-c5a1-43e2-8dc1-1b6772612c59",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Der Aufzug an der Station Othmarschen ist derzeit außer Betrieb / The elevator at Othmarschen station is currently out of service",
+      "summary": "Der Aufzug an der Station Othmarschen ist derzeit außer Betrieb.\nFür eine barrierefreie Anreise empfehlen wir die Fahrt bis Altona und den Umstieg in die Buslinien 1 oder 15. Beide Linien halten an der Haltestelle Othmarschen in direkter Nähe zur S-Bahn-Station. / The elevator at Othmarschen station is currently out of service.\nFor step-free travel, we recommend continuing to Altona station and switching to bus lines 1 or 15, both of which stop at Othmarschen near the S-Bahn station.",
+      "text": "<p>Der Aufzug an der Station Othmarschen ist derzeit außer Betrieb.</p><p>Für eine barrierefreie Anreise empfehlen wir die Fahrt bis <strong>Altona</strong> und den Umstieg in die Buslinien <strong>1</strong> oder <strong>15</strong>. </p><p>Beide Linien halten an der Haltestelle <strong>Othmarschen</strong> in direkter Nähe zur S-Bahn-Station.</p><p></p><p>The elevator at Othmarschen station is currently out of service.</p><p>For step-free travel, we recommend continuing to <strong>Altona station</strong> and switching to <strong>bus lines 1 or 15</strong>, both of which stop at <strong>Othmarschen</strong> near the S-Bahn station.</p>",
+      "durationBegin": "13.06.2025",
+      "durationEnd": "16.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/302c37e8-c5a1-43e2-8dc1-1b6772612c59",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.06.2025 16:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8962c0e4-89d2-4f15-83a0-a725bcf5f9fb",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other12"
+    },
+    {
+      "id": "8288f632-5802-44cf-8fb4-b808d0368e06",
+      "disruptionId": "578a1d8d-17d3-4afb-8e7e-f1034ed9c80b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Aufzug an der Station Sternschanze außer Betrieb / elevator at Sternschanze station is currently out of service",
+      "summary": "Der Aufzug an der S-Bahn-Station Sternschanze ist leider außer Betrieb. Als barrierefreie Umfahrung empfehlen wir die Fahrt zur U-Bahn-Station Schlump und den Umstieg in die Buslinie 181. Diese fährt direkt zur Haltestelle Sternschanze. U Schlump erreichen Sie mit den Linien U2, U3 oder Bus 15. / The elevator at Sternschanze S-Bahn station is currently out of service. For an accessible alternative, we recommend travelling to U Schlump and taking bus line 181, which stops directly at Sternschanze. U Schlump can be reached by U2, U3, or bus line 15.",
+      "text": "<p>Der Aufzug an der Station Sternschanze ist derzeit außer Betrieb.</p><p>Mobilitätseingeschränkten Fahrgästen empfehlen wir als barrierefreie Alternative die Anfahrt zur U-Bahn-Station <strong>Schlump</strong>.</p><p>Von dort erreichen Sie Sternschanze mit der Buslinie <strong>181</strong> (Richtung Bahnhof Altona, Haltestelle Sternschanze).</p><p>Die U-Bahn-Station Schlump erreichen Sie zum Beispiel:</p><ul><li>mit der <strong>U2</strong> ab <strong>Berliner Tor</strong>, <strong>Gänsemarkt</strong> oder <strong>Niendorf Nord</strong></li><li>mit der <strong>U3</strong> ab <strong>Barmbek</strong>, <strong>Hbf Süd</strong> oder <strong>Kellinghusenstraße</strong></li><li>mit der Buslinie <strong>15</strong> ab <strong>Altona</strong> oder <strong>Rathausmarkt</strong></li></ul><p></p><p>The elevator at Sternschanze station is currently out of service.</p><p>For accessible travel, we recommend taking the <strong>bus line 181</strong> from <strong>U Schlump</strong> to reach Sternschanze (direction Altona, stop Sternschanze).</p><p>You can reach U Schlump via:</p><ul><li><strong>U2</strong> from <strong>Berliner Tor</strong>, <strong>Gänsemarkt</strong> or <strong>Niendorf Nord</strong></li><li><strong>U3</strong> from <strong>Barmbek</strong>, <strong>Hbf Süd</strong> or <strong>Kellinghusenstraße</strong></li><li><strong>Bus line 15</strong> from <strong>Altona</strong> or <strong>Rathausmarkt</strong></li></ul>",
+      "durationBegin": "13.06.2025",
+      "durationEnd": "16.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/578a1d8d-17d3-4afb-8e7e-f1034ed9c80b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.06.2025 16:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8288f632-5802-44cf-8fb4-b808d0368e06",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other11"
     },
     {
       "id": "6ed88d1d-3508-4428-9bb7-07d327330bbe",
