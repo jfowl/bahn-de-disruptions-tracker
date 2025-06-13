@@ -187,51 +187,6 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "09665211-9dc0-4c29-bce9-a0abf43122d4",
-      "disruptionId": "471c91a8-c904-42bf-b4f8-843d315961ad",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 2 Erdweg ↔ Dachau: Reparatur an einer Weiche",
-      "summary": "Zwischen Erdweg und Dachau kommt es zu Folgeverspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Die Reparatur an einer Weiche ist beendet.</p>",
-      "durationBegin": "13.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/471c91a8-c904-42bf-b4f8-843d315961ad",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/29a85774-e9e1-4f05-912f-2b8514dfac4dreisendenkarte_20250613-161717.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/29a85774-e9e1-4f05-912f-2b8514dfac4dreisendenkarte_20250613-161717.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.06.2025 16:17:17",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.06.2025 17:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/09665211-9dc0-4c29-bce9-a0abf43122d4",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -820,39 +775,54 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other8"
     },
     {
-      "id": "0697c962-b874-4aa3-825b-208a66bed3a5",
-      "disruptionId": "8e7d11f8-2630-4ad0-bead-5277b9f42db3",
-      "author": "FERNVERKEHR_AG",
+      "id": "c478a16c-d68b-479f-a603-0f7e4fd10118",
+      "disruptionId": "01845c49-17b0-4467-a4ac-1f40dcbae128",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigungen zwischen Wuppertal und Hagen",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Wuppertal und Hagen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Wuppertal und Hagen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "S 1, S 8 München Flughafen West: Reparatur an einem Signal",
+      "summary": "Im Bereich München Flughafen West kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/8e7d11f8-2630-4ad0-bead-5277b9f42db3",
-      "images": [],
+      "durationEnd": "13.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/01845c49-17b0-4467-a4ac-1f40dcbae128",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/acc4f298-9f1b-4eef-bdae-a13a06731c7breisendenkarte_20250613-183118.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/acc4f298-9f1b-4eef-bdae-a13a06731c7breisendenkarte_20250613-183118.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.06.2025 18:31:18",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "NW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "13.06.2025 11:51",
+      "lastModified": "13.06.2025 18:33",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0697c962-b874-4aa3-825b-208a66bed3a5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c478a16c-d68b-479f-a603-0f7e4fd10118",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "3a8577b0-1d47-4572-99af-00b7c80a3215",
