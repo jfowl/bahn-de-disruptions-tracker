@@ -42,6 +42,43 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_strike"
     },
     {
+      "id": "dc54250f-5529-4523-a073-ea5c00969608",
+      "disruptionId": "3f5b9783-00aa-4a54-afc8-6b5e11f50f33",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Eberswalde",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Berlin und Eberswalde kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich um bis zu 20 Minuten.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><p></p><ul><li>ICE-Züge der Verbindung Berlin - Eberswalde - Pasewalk - Greifswald - Ostseebad Binz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Morgenstunden am Freitag, 20.06.2025, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/3f5b9783-00aa-4a54-afc8-6b5e11f50f33",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "17.06.2025 20:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/dc54250f-5529-4523-a073-ea5c00969608",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "a0a18dfc-965d-465e-be1b-951293124e6a",
       "disruptionId": "70d46069-e73a-4e49-9274-1aec3a4a85d2",
       "author": "FERNVERKEHR_AG",
@@ -85,43 +122,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a0a18dfc-965d-465e-be1b-951293124e6a",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
-    },
-    {
-      "id": "dc54250f-5529-4523-a073-ea5c00969608",
-      "disruptionId": "3f5b9783-00aa-4a54-afc8-6b5e11f50f33",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Eberswalde",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Berlin und Eberswalde kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich um bis zu 20 Minuten.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><p></p><ul><li>ICE-Züge der Verbindung Berlin - Eberswalde - Pasewalk - Greifswald - Ostseebad Binz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Abendstunden am Dienstag, 17.06.2025, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/3f5b9783-00aa-4a54-afc8-6b5e11f50f33",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "17.06.2025 03:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/dc54250f-5529-4523-a073-ea5c00969608",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
     },
     {
       "id": "aacb9923-2808-40e3-81cd-3793ff2c42e4",
@@ -169,6 +169,94 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction34"
     },
     {
+      "id": "e720c146-b74b-4f94-a416-315a61c4ab58",
+      "disruptionId": "34eebad2-368e-4836-81c4-26528c0d0882",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Fliegerbombe in Osanbrück Hbf am 17.06.2025 ab 19:00 Uhr bis vsl. mindestens 00:00 Uhr",
+      "summary": "Aufgrund einer Entschärfung einer Fliegerbombe kommt es heute im Großraum Osnabrück zu Zugverspätungen und Ausfällen im Bahnverkehr. Der Zugverkehr zwischen Rheine und Löhne(Westf), sowie zwischen Osnabrück Hbf und Bohmte sind betroffen. Der Bahnhof Osnabrück Hbf kann nicht mehr angefahren werden. \n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Die Züge von /nach Bremerhaven-Lehe enden/beginnen vorzeitig in Bohmte. Erste betroffene Züge sind RE 14067 und RE 4464. Ein Ersatzverkehr mit Bussen des Frank Kröhnert Busbetriebes und Brockmeyer Reisen ist eingerichtet. Diese verkehren im Pendel zwischen Osnabrück Hbf und Bohmte. In Osnabrück verkehren die Busse des Ersatzverkehrs an der extra eingerichteten Haltestelle \"Berliner Platz\".</li><li>RE 62 (Löhne – Osnabrück Hbf – Rheine): Die Züge entfallen. Reisende nutzen bitte innerhalb Osnabrücks die Stadtbusse ab Osnabrück-Altstadt. Ein Ersatzverkehr durch Bus ist eingerichtet. Dieser verkehrt im Pendel zwischen Rheine und Löhne(Westf).</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "17.06.2025",
+      "durationEnd": "17.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/34eebad2-368e-4836-81c4-26528c0d0882",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/64585e56-367b-4436-ba09-1a0d2253e4fereisendenkarte_20250617-174148.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/64585e56-367b-4436-ba09-1a0d2253e4fereisendenkarte_20250617-174148.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.06.2025 17:41:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)    ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 62",
+          "filterName": "RE 62",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 9",
+          "filterName": "RE 9",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2025 20:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e720c146-b74b-4f94-a416-315a61c4ab58",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
       "id": "f2c4fa28-8e6b-49d5-aeb7-dcece018b911",
       "disruptionId": "d95174be-fb03-4f3b-a223-38145f494bc0",
       "author": "REGIO_NORD",
@@ -178,14 +266,14 @@
       },
       "headline": "Streckensperrung zwischen Reinfeld(Holst) und Lübeck Hbf\n",
       "summary": "Aufgrund eines Notarzteinsatzes auf der Strecke zwischen Reinfeld(Holst) und Lübeck Hbf ist die Strecke in beide Richtungen gesperrt. Es sind keine Zugfahrten möglich.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Die Züge von/nach Hamburg Hbf enden/beginnen in Bad Oldesloe</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Die Züge von/nach Hamburg Hbf enden/beginnen in Bad Oldesloe</li></ul><p>Ein Ersatzverkehr durch 9 Busse ist zwischen Reinfeld(Holst) und Lübeck Hbf im Pendel eingerichtet. </p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Die Züge von/nach Hamburg Hbf enden/beginnen in Bad Oldesloe</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Die Züge von/nach Hamburg Hbf enden/beginnen in Bad Oldesloe</li></ul><p>Ein Ersatzverkehr durch 9 Busse ist zwischen Bad Oldesloe und Lübeck Hbf im Pendel eingerichtet.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "17.06.2025",
       "durationEnd": "17.06.2025",
       "mapHref": "https://karte.bahn.de/detail/d95174be-fb03-4f3b-a223-38145f494bc0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/ffa9dbd1-5625-4e04-a27d-143f72fe70b2reisendenkarte_20250617-193816.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/ffa9dbd1-5625-4e04-a27d-143f72fe70b2reisendenkarte_20250617-193816.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/c5d81ed2-e5cb-4652-a9e0-8efc6181bbcbreisendenkarte_20250617-193816.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/c5d81ed2-e5cb-4652-a9e0-8efc6181bbcbreisendenkarte_20250617-193816.png",
           "info": "",
           "alt": "Reisendenkarte 17.06.2025 19:38:16",
           "openInNewTab": true
@@ -193,18 +281,6 @@
       ],
       "downloads": [],
       "links": [
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
         {
           "href": "https://www.bahn.de/service/mobile/db-navigator",
           "label": "App DB Navigator ",
@@ -220,6 +296,18 @@
         {
           "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/ran_kontakt",
           "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -248,100 +336,12 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.06.2025 19:46",
+      "lastModified": "17.06.2025 19:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f2c4fa28-8e6b-49d5-aeb7-dcece018b911",
       "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
-    },
-    {
-      "id": "e720c146-b74b-4f94-a416-315a61c4ab58",
-      "disruptionId": "34eebad2-368e-4836-81c4-26528c0d0882",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Kampfmittelsondierung in Osanbrück Hbf am 17.06.2025 ab 19:00 Uhr bis vsl. mindestens 00:00 Uhr",
-      "summary": "Aufgrund einer Kampfmittelsondierung kommt es heute im Großraum Osnabrück zu Zugverspätungen und Ausfällen im Bahnverkehr. Der Zugverkehr zwischen Rheine und Löhne(Westf), sowie zwischen Osnabrück Hbf und Bohmte sind betroffen. Der Bahnhof Osnabrück Hbf kann nicht mehr angefahren werden. \n",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Die Züge von /nach Bremerhaven-Lehe enden/beginnen vorzeitig in Bohmte. Erste betroffene Züge sind RE 14067 und RE 4464. Ein Ersatzverkehr mit Bussen des Frank Kröhnert Busbetriebes und Brockmeyer Reisen ist eingerichtet. Diese verkehren im Pendel zwischen Osnabrück Hbf und Bohmte. In Osnabrück verkehren die Busse des Ersatzverkehrs an der extra eingerichteten Haltestelle \"Berliner Platz\".</li><li>RE 62 (Löhne – Osnabrück Hbf – Rheine): Die Züge entfallen. Reisende nutzen bitte innerhalb Osnabrücks die Stadtbusse ab Osnabrück-Altstadt. Ein Ersatzverkehr durch Bus ist eingerichtet. Dieser verkehrt im Pendel zwischen Rheine und Löhne(Westf).</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
-      "durationBegin": "17.06.2025",
-      "durationEnd": "17.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/34eebad2-368e-4836-81c4-26528c0d0882",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/61f17f64-7b41-4eee-9148-ba2f21d553a1reisendenkarte_20250617-174148.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-17/61f17f64-7b41-4eee-9148-ba2f21d553a1reisendenkarte_20250617-174148.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.06.2025 17:41:48",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS  ",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)    ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 62",
-          "filterName": "RE 62",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2025 19:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e720c146-b74b-4f94-a416-315a61c4ab58",
-      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
     },
     {
       "id": "3d60a7f1-22b5-4272-838e-b37a8a776933",
@@ -486,6 +486,49 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "da4c1de5-0ef6-4bcb-bd14-5a2a4506eb40",
+      "disruptionId": "5a87777b-cf10-4863-88cc-6bf38e2b5b7e",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Reparatur an der Oberleitung zwischen Radolfzell und Konstanz",
+      "summary": "Die Strecke ist gesperrt. Dauer der Beeinträchtigung bis vsl. 18. Juni, 07:30 Uhr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge aus Richtung Offenburg enden und beginnen außerplanmäßig in Radolfzell. Wir haben einen Ersatzverkehr mit Bus zwischen Radolfzell und Konstanz für Sie eingerichtet.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 Karlsruhe - Konstanz</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "17.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/5a87777b-cf10-4863-88cc-6bf38e2b5b7e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-17/921f4df1-9218-4240-a204-1f151f0f3f28reisendenkarte_20250617-194519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-17/921f4df1-9218-4240-a204-1f151f0f3f28reisendenkarte_20250617-194519.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.06.2025 19:45:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2025 20:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/da4c1de5-0ef6-4bcb-bd14-5a2a4506eb40",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
     },
     {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
@@ -1056,8 +1099,8 @@
       "mapHref": "https://karte.bahn.de/detail/5abb0c32-b41a-49fe-b531-b9201dcf03ed",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/a80d4192-16ad-4452-b995-49bdc5ddc1bfreisendenkarte_20250617-175402.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/a80d4192-16ad-4452-b995-49bdc5ddc1bfreisendenkarte_20250617-175402.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/699ce71c-badf-4313-85e5-7ec706282d94reisendenkarte_20250617-175402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/699ce71c-badf-4313-85e5-7ec706282d94reisendenkarte_20250617-175402.png",
           "info": "",
           "alt": "Reisendenkarte 17.06.2025 17:54:02",
           "openInNewTab": true
@@ -1078,7 +1121,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.06.2025 19:47",
+      "lastModified": "17.06.2025 20:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1093,16 +1136,16 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "S 8 Weßling ↔ Herrsching: Defektes Stellwerk",
-      "summary": "Zwischen Weßling und Herrsching kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "headline": "Endmeldung: S 8 Weßling ↔ Herrsching",
+      "summary": "Zwischen Weßling und Herrsching kommt es noch zu vereinzelten Folgeverspätungen.",
+      "text": "<p>Das defekte Stellwerk wurde repariert.</p>",
       "durationBegin": "17.06.2025",
       "durationEnd": "17.06.2025",
       "mapHref": "https://karte.bahn.de/detail/e9f46f49-6cf1-40a8-b69f-acbed8e59e03",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/30538649-b630-40f8-9dca-691525617462reisendenkarte_20250617-192615.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/30538649-b630-40f8-9dca-691525617462reisendenkarte_20250617-192615.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/dec487ad-8eb0-4ceb-9cef-b0260a73d0d1reisendenkarte_20250617-192615.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-17/dec487ad-8eb0-4ceb-9cef-b0260a73d0d1reisendenkarte_20250617-192615.png",
           "info": "",
           "alt": "Reisendenkarte 17.06.2025 19:26:15",
           "openInNewTab": true
@@ -1123,7 +1166,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.06.2025 19:28",
+      "lastModified": "17.06.2025 20:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
