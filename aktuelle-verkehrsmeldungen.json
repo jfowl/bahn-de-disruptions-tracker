@@ -223,25 +223,25 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "bc8da14b-7799-4b09-8503-8d081777d9c5",
-      "disruptionId": "6c402485-b248-40eb-897e-d0229aa2f748",
+      "id": "4f346081-9487-443d-b958-943dfcce9bf6",
+      "disruptionId": "b93e4226-9796-4e51-a9b8-ee645b23fd7d",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "other_cause",
+        "label": "Verspätung aus vorheriger Fahrt"
       },
-      "headline": "S5 Höhenkirchen-Siegertsbrunn: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie S5 in beide Richtungen noch zu Folgeverspätungen von 10 bis 15 Minuten. ",
-      "text": "<p><strong>Die S-Bahnen enden und beginnen in Hohenbrunn. Zwischen Hohenbrunn und Aying pendelt eine S-Bahn. </strong></p><p><strong>+Beachten Sie den planmäßigen Ersatzverkehr zwischen Aying und Kreuzstraße+ (Extra Meldung auf der Betriebslage)!</strong></p><p></p><p>Der technische Defekt an einem Bahnübergang in Höhenkirchen-Siegertsbrunn konnte behoben werden.</p>",
+      "headline": "Stammstrecke: Beeinträchtigungen wegen mehreren Störungen bei verschiedenen Linien im Außenbereich",
+      "summary": "In der Stammstrecke kommt es in beide Richtungen zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p></p><p>Grund dafür sind mehrere Störungen bei verschiedenen Linien im Außenbereich.</p>",
       "durationBegin": "20.06.2025",
       "durationEnd": "20.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/6c402485-b248-40eb-897e-d0229aa2f748",
+      "mapHref": "https://karte.bahn.de/detail/b93e4226-9796-4e51-a9b8-ee645b23fd7d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/1155f860-cd2b-4193-9190-7d8e610e5f90reisendenkarte_20250620-170127.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/1155f860-cd2b-4193-9190-7d8e610e5f90reisendenkarte_20250620-170127.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/24aca451-4fdc-47a9-95f1-6c2766f2c6fcreisendenkarte_20250620-175235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/24aca451-4fdc-47a9-95f1-6c2766f2c6fcreisendenkarte_20250620-175235.png",
           "info": "",
-          "alt": "Reisendenkarte 20.06.2025 17:01:27",
+          "alt": "Reisendenkarte 20.06.2025 17:52:35",
           "openInNewTab": true
         }
       ],
@@ -255,17 +255,92 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "20.06.2025 17:38",
+      "lastModified": "20.06.2025 18:12",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bc8da14b-7799-4b09-8503-8d081777d9c5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
+      "detailPagePath": "/service/fahrplaene/4f346081-9487-443d-b958-943dfcce9bf6",
+      "magnoliaPath": "/aktuell/bayern/impairment_other_cause"
+    },
+    {
+      "id": "05f355cf-de4f-454d-94f5-e07c40c6bd9e",
+      "disruptionId": "52162809-b4b5-4cd7-8655-bc20e728ee69",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1 Moosach: Reparatur an einer Weiche",
+      "summary": "Die S-Bahnen fahren im Bereich Moosach in Richtung Freising/Flughafen bis auf weiteres mit verminderter Geschwindigkeit. ",
+      "text": "<p>Deswegen kommt es jetzt in Richtung Freising/Flughafen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Moosach.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
+      "durationBegin": "20.06.2025",
+      "durationEnd": "20.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/52162809-b4b5-4cd7-8655-bc20e728ee69",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/e2043fde-a90d-41e2-aa0b-d884674446c4reisendenkarte_20250620-155041.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/e2043fde-a90d-41e2-aa0b-d884674446c4reisendenkarte_20250620-155041.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.06.2025 15:50:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.06.2025 18:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05f355cf-de4f-454d-94f5-e07c40c6bd9e",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
@@ -311,51 +386,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
-      "id": "05f355cf-de4f-454d-94f5-e07c40c6bd9e",
-      "disruptionId": "52162809-b4b5-4cd7-8655-bc20e728ee69",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1 Moosach: Reparatur an einer Weiche",
-      "summary": "Die S-Bahnen fahren im Bereich Moosach in Richtung Freising/Flughafen bis auf weiteres mit verminderter Geschwindigkeit. ",
-      "text": "<p>Deswegen kommt es jetzt in Richtung Freising/Flughafen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Moosach.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
-      "durationBegin": "20.06.2025",
-      "durationEnd": "20.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/52162809-b4b5-4cd7-8655-bc20e728ee69",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/335ae3f8-4996-4e8d-9de0-d236858743a2reisendenkarte_20250620-155041.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/335ae3f8-4996-4e8d-9de0-d236858743a2reisendenkarte_20250620-155041.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.06.2025 15:50:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.06.2025 17:20",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/05f355cf-de4f-454d-94f5-e07c40c6bd9e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "93f2d203-e3cc-48a5-a888-50acd884fa9b",
@@ -993,51 +1023,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5785d9f8-10f8-4cdf-9629-91f8d6e22d80",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "1529c6bc-836b-4ed7-9725-425791b37798",
-      "disruptionId": "ba9ac3c9-9166-4831-a8cd-9e56416eaf3d",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Streckensperrung zwischen Pforzheim Hbf und Pforzheim-Weißenstein wieder aufgehoben",
-      "summary": "Streckensperrung aufgehoben. Der Grund war ein kurzfristiger Personalausfall im Stellwerk. Bitte rechnen Sie noch mit Verspätungen, bis sich der Zugverkehr wieder stabilisiert hat. Der Ersatzverkehr wird in kürze beendet.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "20.06.2025",
-      "durationEnd": "20.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/ba9ac3c9-9166-4831-a8cd-9e56416eaf3d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-20/d122b35b-0e37-4202-a8ec-6005689e22bereisendenkarte_20250620-115249.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-20/d122b35b-0e37-4202-a8ec-6005689e22bereisendenkarte_20250620-115249.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.06.2025 11:52:49",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 74",
-          "filterName": "RB 74",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "20.06.2025 17:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1529c6bc-836b-4ed7-9725-425791b37798",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_other_cause"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
