@@ -223,25 +223,25 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "05f355cf-de4f-454d-94f5-e07c40c6bd9e",
-      "disruptionId": "52162809-b4b5-4cd7-8655-bc20e728ee69",
+      "id": "022b0931-0ded-4ae8-868f-88de35bff93e",
+      "disruptionId": "5c3579e2-b094-4ace-8013-6b4c82096536",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S1 Moosach: Reparatur an einer Weiche",
-      "summary": "Die S-Bahnen fahren aktuell ohne nennenswerten Beeinträchtigungen.",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;war die Reparatur an einer Weiche in Moosach.</p>",
+      "headline": "S1 Neufahrn: Unbefugte Personen auf der Strecke",
+      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 20 bis 25 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;sind unbefugte Personen auf der Strecke in Neufahrn. Die S-Bahnen fahren in diesem Bereich bis auf weiteres mit verminderter Geschwindigkeit. </p>",
       "durationBegin": "20.06.2025",
-      "durationEnd": "21.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/52162809-b4b5-4cd7-8655-bc20e728ee69",
+      "durationEnd": "20.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/5c3579e2-b094-4ace-8013-6b4c82096536",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/915e7b88-4930-4ff7-8bcb-47c76c39e31ereisendenkarte_20250620-155041.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/915e7b88-4930-4ff7-8bcb-47c76c39e31ereisendenkarte_20250620-155041.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/913a08eb-643c-4274-9977-d9dfac2b0b11reisendenkarte_20250620-205758.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/913a08eb-643c-4274-9977-d9dfac2b0b11reisendenkarte_20250620-205758.png",
           "info": "",
-          "alt": "Reisendenkarte 20.06.2025 15:50:41",
+          "alt": "Reisendenkarte 20.06.2025 20:57:58",
           "openInNewTab": true
         }
       ],
@@ -260,12 +260,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.06.2025 20:35",
+      "lastModified": "20.06.2025 21:08",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/05f355cf-de4f-454d-94f5-e07c40c6bd9e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
+      "detailPagePath": "/service/fahrplaene/022b0931-0ded-4ae8-868f-88de35bff93e",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
+      "disruptionId": "448daf58-aac4-4f60-9c13-7c05470b90f0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S2 Schwabhausen - Erdweg: Technischer Defekt an einem Bahnübergang ",
+      "summary": "Derzeit kommt es auf der Linie 2 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist ein technischer Defekt an einem Bahnübergang in Niederroth.</p><p>Voraussichtliche Dauer der Störung bis Samstagfrüh, 21. Juni 2025.</p><p></p>",
+      "durationBegin": "20.06.2025",
+      "durationEnd": "21.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/448daf58-aac4-4f60-9c13-7c05470b90f0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/6292a401-02ba-4c47-8df2-0fd35b231efcreisendenkarte_20250620-150946.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/6292a401-02ba-4c47-8df2-0fd35b231efcreisendenkarte_20250620-150946.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.06.2025 15:09:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.06.2025 21:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "0d4667b6-f0b3-4ac0-8c2e-2c82055957c3",
@@ -311,51 +356,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0d4667b6-f0b3-4ac0-8c2e-2c82055957c3",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
-    },
-    {
-      "id": "dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
-      "disruptionId": "448daf58-aac4-4f60-9c13-7c05470b90f0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S2 Schwabhausen - Erdweg: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie 2 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
-      "text": "<p>Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist ein technischer Defekt an einem Bahnübergang in Niederroth.</p><p>Voraussichtliche Dauer der Störung bis Samstagfrüh, 21. Juni 2025.</p><p></p>",
-      "durationBegin": "20.06.2025",
-      "durationEnd": "21.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/448daf58-aac4-4f60-9c13-7c05470b90f0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/48f581ee-fe58-43c9-a59e-e3b391bd36d3reisendenkarte_20250620-150946.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-20/48f581ee-fe58-43c9-a59e-e3b391bd36d3reisendenkarte_20250620-150946.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.06.2025 15:09:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.06.2025 19:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dda0e3ab-ae6a-49ec-b58f-7ea2a948a9e1",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "93f2d203-e3cc-48a5-a888-50acd884fa9b",
@@ -971,7 +971,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.06.2025 20:47",
+      "lastModified": "20.06.2025 20:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
