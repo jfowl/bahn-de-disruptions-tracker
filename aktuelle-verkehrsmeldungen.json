@@ -74,45 +74,6 @@
       "magnoliaPath": "/aktuell/mitte/impairment_construction"
     },
     {
-      "id": "e79691cd-994d-4156-9cb1-00a04123dcee",
-      "disruptionId": "7c64e9a6-0c18-45b5-8443-1c0daf59e13a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Oberhausen und Emmerich.",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Oberhausen und Emmerich kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von 20 Min je Fahrtrichtung.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Linie (Frankfurt(M) – Köln – Amsterdam)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.06.2025",
-      "durationEnd": "23.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/7c64e9a6-0c18-45b5-8443-1c0daf59e13a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.06.2025 08:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e79691cd-994d-4156-9cb1-00a04123dcee",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "3d60a7f1-22b5-4272-838e-b37a8a776933",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -620,6 +581,126 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
+      "disruptionId": "e61c21ec-d29c-46e7-a865-d412f7cb663a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "S 7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es in beiden Richtungen zu Verspätungen von bis zu 30 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "23.06.2025",
+      "durationEnd": "23.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/e61c21ec-d29c-46e7-a865-d412f7cb663a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/195f4b4f-fe5a-4fac-9cb5-f6f392a3dd73reisendenkarte_20250623-145920.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/195f4b4f-fe5a-4fac-9cb5-f6f392a3dd73reisendenkarte_20250623-145920.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.06.2025 14:59:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2025 15:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
+      "id": "081a4996-6ca2-4206-866b-7dea2dca8188",
+      "disruptionId": "5f6b2f9c-af76-415f-9c63-52aa58e478a9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verspätetes Personal aus vorheriger Fahrt"
+      },
+      "headline": "Stammstrecke: Verspätung  Personal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Verspätung des Personals.</p>",
+      "durationBegin": "23.06.2025",
+      "durationEnd": "23.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/5f6b2f9c-af76-415f-9c63-52aa58e478a9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/445369cd-eb25-445b-b918-ff9b043bf5careisendenkarte_20250623-151705.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/445369cd-eb25-445b-b918-ff9b043bf5careisendenkarte_20250623-151705.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.06.2025 15:17:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2025 15:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/081a4996-6ca2-4206-866b-7dea2dca8188",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
