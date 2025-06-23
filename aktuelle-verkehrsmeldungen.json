@@ -493,29 +493,37 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 1: Technischer Defekt an einem Bahnübergang",
-      "summary": "Derzeit kommt es auf der Linie S 1 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten und Umleitungen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 1",
+      "summary": "Auf der Linie S 1 kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Technischer Defekt an einem Bahnübergang&nbsp;wurde&nbsp;behoben.</p>",
       "durationBegin": "23.06.2025",
       "durationEnd": "23.06.2025",
       "mapHref": "https://karte.bahn.de/detail/4c821f30-6d26-469d-934e-fff156b8721d",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/b2413055-d986-4fea-8d33-ccb11c93fea7reisendenkarte_20250623-112147.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/b2413055-d986-4fea-8d33-ccb11c93fea7reisendenkarte_20250623-112147.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.06.2025 11:21:47",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2025 10:13",
+      "lastModified": "23.06.2025 11:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
