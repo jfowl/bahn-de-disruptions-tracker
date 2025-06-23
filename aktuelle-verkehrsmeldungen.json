@@ -11,7 +11,7 @@
       },
       "headline": "Bahnverkehr im Raum Berlin aktuell beeinträchtigt",
       "summary": "Aktuell kommt es in Berlin aufgrund des Sturmes zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Berlin</li><li>Berlin - Stralsund </li><li>Berlin - Frankfurt(O)</li></ul><p>Wir empfehlen Ihnen auf der Relation Hamburg - Berlin. Züge Richtung Hannover Hbf dort umstieg in Züge Richtung Berlin. </p><p>Reisende ab Berlin Richtung Hamburg benutzen bitte Züge Richtung Hannover dort umstieg in Züge Richtung Hamburg.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Berlin</li><li>Berlin - Stralsund</li><li>Berlin - Frankfurt(O)</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "23.06.2025",
       "mapHref": "https://karte.bahn.de/detail/faef20f2-5fbc-4a7f-abc6-6a746afb7f56",
       "images": [],
@@ -33,7 +33,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "23.06.2025 19:30",
+      "lastModified": "23.06.2025 20:00",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/897fce14-0239-4bbf-92c1-12817e61ddc2",
@@ -548,25 +548,25 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
-      "id": "081a4996-6ca2-4206-866b-7dea2dca8188",
-      "disruptionId": "5f6b2f9c-af76-415f-9c63-52aa58e478a9",
+      "id": "56d56186-d332-4cf2-ba22-8a5b6507ae57",
+      "disruptionId": "3dc476ae-cace-4963-8e28-f784c73aaea6",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Stammstrecke: Zugfolge Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist die Zugfolge in der Stammstrecke. </p>",
+      "headline": "S 2 Ottenhofen ↔ Altenerding: Reparatur an der Strecke",
+      "summary": "Zwischen Ottenhofen und Altenerding kommt es zu Verspätungen von bis zu 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "23.06.2025",
       "durationEnd": "23.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/5f6b2f9c-af76-415f-9c63-52aa58e478a9",
+      "mapHref": "https://karte.bahn.de/detail/3dc476ae-cace-4963-8e28-f784c73aaea6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/9672989d-80bd-4db9-8478-79243ac7680ereisendenkarte_20250623-165804.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/9672989d-80bd-4db9-8478-79243ac7680ereisendenkarte_20250623-165804.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/abe770bb-8ff2-4d60-a14e-137d9d5927cfreisendenkarte_20250623-203308.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/abe770bb-8ff2-4d60-a14e-137d9d5927cfreisendenkarte_20250623-203308.png",
           "info": "",
-          "alt": "Reisendenkarte 23.06.2025 16:58:04",
+          "alt": "Reisendenkarte 23.06.2025 20:33:08",
           "openInNewTab": true
         }
       ],
@@ -580,47 +580,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2025 19:41",
+      "lastModified": "23.06.2025 20:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/081a4996-6ca2-4206-866b-7dea2dca8188",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
+      "detailPagePath": "/service/fahrplaene/56d56186-d332-4cf2-ba22-8a5b6507ae57",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
@@ -668,30 +638,98 @@
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
-      "id": "b83299a6-6a7d-4e67-87ea-eae57b739447",
-      "disruptionId": "33a275b9-c24f-415c-a7b6-6483523e3fb2",
+      "id": "fdb0e27f-c26d-4e93-9e29-e713018c6add",
+      "disruptionId": "cc515066-cb4b-46f0-b1a3-f6ed9d85b73b",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Der Grund ist Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Die S-Bahnen werden zwischen Pasing und Ostbahnhof umgeleitet.",
-      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 25 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "headline": "Baustelleninformation zur Stammstrecke an verschiedenen Nächten von 23.06. - 10.07.2025",
+      "summary": "Aufgrund von Bauarbeiten zur 2.Stammstrecke in Laim kommt es an verschiedenen Nächten, im Zeitraum von 23.Juni, bis 10.Juli, jeweils in der Zeit von 22:20 Uhr bis 05:00 Uhr, zwischen Pasing und Ostbahnhof zu Änderungen im Linienverlauf bei fast allen S-Bahn-Linien.",
+      "text": "<p><strong>Änderungen im Linienverlauf:</strong></p><p><strong>S 1: Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Züge in/aus Richtung<strong> Freising/Flughafen</strong> beginnen/enden am <strong>Hauptbahnhof </strong>oben und fahren von/bis <strong>Moosach </strong>ohne Halt. Teilweise beginnen/enden die Züge bereits in <strong>Moosach</strong></li></ul><p><strong>S 2: Dachau/Altomünster ↔ Erding</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der <strong>Hackerbrücke</strong></li><li>Züge in/aus Richtung <strong>Petershausen/Altomünster </strong>verkehren im <strong>30-Minuten-Takt</strong> sie beginnen/enden am <strong>Heimeranplatz </strong>Gleis 11 und fahren von/bis <strong>Obermenzing </strong>ohne Halt</li></ul><p><strong>S 3: Mammendorf ↔ Holzkirchen</strong></p><ul><li>Züge in/aus Richtung <strong>Holzkirchen </strong>beginnen/enden an der <strong>Donnersbergerbrücke</strong></li><li>Züge in/aus Richtung <strong>Mammendorf </strong>beginnen/enden in <strong>Pasing</strong></li></ul><p><strong>S 4: Geltendorf ↔ Trudering</strong></p><ul><li>Züge in/aus Richtung <strong>Geltendorf </strong>beginnen/enden in <strong>Pasing</strong></li><li>Züge in/aus Richtung <strong>Trudering </strong>fallen zwischen <strong>Trudering </strong>und <strong>Pasing </strong>aus</li></ul><p><strong>S 5: Pasing ↔ Kreuzstraße</strong></p><ul><li>Züge in/aus Richtung <strong>Kreuzstraße </strong>beginnen/enden am <strong>Ostbahnhof</strong></li><li>Züge in/aus Richtung <strong>Pasing </strong>fallen zwischen <strong>Ostbahnhof </strong>und <strong>Pasing </strong>aus.</li></ul><p><strong>S 6: Tutzing ↔ Ebersberg</strong></p><ul><li>Züge in/aus Richtung <strong>Ebersberg </strong>beginnen/enden am <strong>Ostbahnhof </strong>Gleis 2</li><li>Züge in/aus Richtung <strong>Tutzing </strong>beginnen/enden am <strong>Hauptbahnhof </strong>oben und fahren von/bis <strong>Pasing </strong>ohne Halt</li></ul><p><strong>S 7: Wolfratshausen ↔ Hauptbahnhof</strong></p><ul><li>Züge fahren planmäßig zwischen <strong>Hauptbahnhof </strong>und <strong>Wolfratshausen</strong></li></ul><p><strong>S 8: Herrsching ↔ Flughafen/Airport</strong></p><ul><li>Züge in/aus Richtung <strong>Flughafen/Airport</strong> beginnen/enden an der <strong>Donnersbergerbrücke</strong></li><li>Züge in/aus Richtung <strong>Herrsching </strong>beginnen/enden in <strong>Pasing</strong></li></ul><p><strong>Daten Bau-Nächte:</strong></p><ol><li><strong>Montag/Dienstag, 23./24. bis Mittwoch/Donnerstag, 25./26. Juni 2025</strong></li><li><strong>Montag/Dienstag, 30. Juni/1. Juli bis Donnerstag/Freitag, 3./4. Juli 2025</strong></li><li><strong>Dienstag/Mittwoch, 8./9. und Mittwoch/Donnerstag, 9./10. Juli 2025</strong></li></ol><p><strong>Hinweis:</strong></p><ul><li>Zwischen <strong>Hauptbahnhof </strong>und <strong>Pasing </strong>besteht Ersatzverkehr mit Bussen</li></ul><p><strong>Alle aktuellen Baustellen finden Sie auch im Internet unter: </strong></p><p><strong>http://www.s-bahn-muenchen.de/baustellen</strong></p>",
       "durationBegin": "23.06.2025",
-      "durationEnd": "23.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/33a275b9-c24f-415c-a7b6-6483523e3fb2",
+      "durationEnd": "10.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/cc515066-cb4b-46f0-b1a3-f6ed9d85b73b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/93df56d1-52bf-4594-9456-cbc3df56f2c7reisendenkarte_20250623-193742.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/93df56d1-52bf-4594-9456-cbc3df56f2c7reisendenkarte_20250623-193742.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/0d7df828-bea2-40ef-81cd-b95bea32bad4reisendenkarte_20250612-012705.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/0d7df828-bea2-40ef-81cd-b95bea32bad4reisendenkarte_20250612-012705.png",
           "info": "",
-          "alt": "Reisendenkarte 23.06.2025 19:37:42",
+          "alt": "Reisendenkarte 12.06.2025 01:27:05",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
-      "links": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/b60a4d3e-e2d8-4417-ac5c-96515d7c0f16Fahrplan%2BSEV%2BPasing%2B%25E2%2586%2594%2BHauptbahnhof.pdf",
+          "label": "Fahrplan SEV Pasing ↔ Hauptbahnhof.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/032e1115-7023-4008-bf45-8545491eba22Fahrplan%2BS1%2B08.07-10.07..pdf",
+          "label": "Fahrplan S1 08.07-10.07..pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/1cb73c47-c78d-4e83-ba9e-37d15df3053cFahrplan%2BS1%2B23.06.%2B-04.07..pdf",
+          "label": "Fahrplan S1 23.06. -04.07..pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/66ea1322-c0d9-4d11-9a88-4bd2b907f8c1Fahrplan%2BS8.pdf",
+          "label": "Fahrplan S8.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/04b1f2a3-119e-403d-8432-94adc1712863Fahrplan%2BS5.pdf",
+          "label": "Fahrplan S5.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/d51a9a8e-59d1-4566-b50c-8978d24476c6Fahrplan%2BS6.pdf",
+          "label": "Fahrplan S6.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/34a0856d-fa40-4d9e-914d-87c42f1187beFahrplan%2BS4%2B23.06.-26.06..pdf",
+          "label": "Fahrplan S4 23.06.-26.06..pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/41acd70d-481b-412a-883d-553777e306baFahrplan%2BS2.pdf",
+          "label": "Fahrplan S2.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/7bf1a68d-d6cf-4bb7-9624-90974eabdf73Fahrplan%2BS4%2B30.06.%2Bbis%2B10.07..pdf",
+          "label": "Fahrplan S4 30.06. bis 10.07..pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/231de4a8-8012-4a1a-b751-07cbcbba26efFahrplan%2BS3.pdf",
+          "label": "Fahrplan S3.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke",
+          "label": "S-Bahn-München/Baustellen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "SBAHN"
       ],
@@ -735,12 +773,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2025 19:39",
-      "expand": false,
+      "lastModified": "23.06.2025 20:31",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b83299a6-6a7d-4e67-87ea-eae57b739447",
-      "magnoliaPath": "/aktuell/bayern/detour_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/fdb0e27f-c26d-4e93-9e29-e713018c6add",
+      "magnoliaPath": "/aktuell/bayern/detour_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
