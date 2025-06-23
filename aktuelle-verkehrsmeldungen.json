@@ -583,6 +583,51 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
+      "id": "0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
+      "disruptionId": "e61c21ec-d29c-46e7-a865-d412f7cb663a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Höllriegelskreuth <-> Baierbrunn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es immer noch in beiden Richtungen zu Verspätungen von bis zu 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "23.06.2025",
+      "durationEnd": "23.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/e61c21ec-d29c-46e7-a865-d412f7cb663a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/9e76fea6-a00e-4265-bd33-a22d0d20455breisendenkarte_20250623-162128.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/9e76fea6-a00e-4265-bd33-a22d0d20455breisendenkarte_20250623-162128.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.06.2025 16:21:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2025 16:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "081a4996-6ca2-4206-866b-7dea2dca8188",
       "disruptionId": "5f6b2f9c-af76-415f-9c63-52aa58e478a9",
       "author": "S_BAHN_MUC",
@@ -658,49 +703,41 @@
       "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
-      "id": "0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
-      "disruptionId": "e61c21ec-d29c-46e7-a865-d412f7cb663a",
-      "author": "S_BAHN_MUC",
+      "id": "4e3190f9-958c-45c4-bdaa-62b82ade647d",
+      "disruptionId": "04fdbef0-4fec-4f7e-a751-624f450a68aa",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Defektes Stellwerk"
       },
-      "headline": "S 7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es in beiden Richtungen zu Verspätungen von bis zu 30 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S5: Aktuell wird die S5 über Jungfernstieg und Landungsbrücken umgeleitet. Grund: technische Störung an der Strecke.",
+      "summary": "Nach Holstenstraße, Sternschanze und Dammtor bitte die S2 nutzen.",
+      "text": "<p> </p>",
       "durationBegin": "23.06.2025",
       "durationEnd": "23.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/e61c21ec-d29c-46e7-a865-d412f7cb663a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/4ce75fca-9289-46d6-94ba-7fc09a383c45reisendenkarte_20250623-145920.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/4ce75fca-9289-46d6-94ba-7fc09a383c45reisendenkarte_20250623-145920.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.06.2025 14:59:20",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/04fdbef0-4fec-4f7e-a751-624f450a68aa",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2025 15:38",
+      "lastModified": "23.06.2025 16:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0ccf8949-1eae-4af0-8b58-aa78aa3f4b38",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/4e3190f9-958c-45c4-bdaa-62b82ade647d",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
