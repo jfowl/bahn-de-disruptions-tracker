@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "e79691cd-994d-4156-9cb1-00a04123dcee",
+      "disruptionId": "7c64e9a6-0c18-45b5-8443-1c0daf59e13a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Oberhausen und Emmerich.",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Oberhausen und Emmerich kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von 20 Min je Fahrtrichtung.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Linie (Frankfurt(M) – Köln – Amsterdam)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.06.2025",
+      "durationEnd": "23.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/7c64e9a6-0c18-45b5-8443-1c0daf59e13a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.06.2025 08:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e79691cd-994d-4156-9cb1-00a04123dcee",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "3d60a7f1-22b5-4272-838e-b37a8a776933",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -92,51 +131,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "a24d0d28-9aa1-4f57-a337-20a0e6d8f536",
-      "disruptionId": "37953e8a-d838-4d57-9e4f-075e9e0769d6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 5 Hohenbrunn ↔ Aying",
-      "summary": "Zwischen Hohenbrunn und Aying sind wieder Zugfahrten möglich.",
-      "text": "<p>Erste wieder verkehrende S-Bahnen ist:</p><ul><li>S 5 Abfahrt Germering-Unterpfaffenhofen 08:01 Uhr → Ankunft Ostbahnhof 08:34 Uhr → Ankunft Aying 09:07 Uhr</li></ul><p>Der Ersatzverkehr mit zwei Bussen wird 08:45 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen.</p><p><strong>Hinweis:</strong></p><ul><li>Bitte beachten Sie hier die bestehenden Bauarbeiten auf der S 5 zwischen Aying und Kreuzstraße.</li></ul><p></p><p>Die Reparatur an einer Weiche in Höhenkirchen-Siegertsbrunn wurde beendet.</p>",
-      "durationBegin": "23.06.2025",
-      "durationEnd": "23.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/37953e8a-d838-4d57-9e4f-075e9e0769d6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/ac0a13cb-38e0-4c58-9dd6-7f80de148012reisendenkarte_20250623-065512.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-23/ac0a13cb-38e0-4c58-9dd6-7f80de148012reisendenkarte_20250623-065512.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.06.2025 06:55:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2025 08:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a24d0d28-9aa1-4f57-a337-20a0e6d8f536",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section12"
     },
     {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
