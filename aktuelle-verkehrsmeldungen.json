@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "30b53fc0-2317-4537-bcc5-c4288bdbdb66",
+      "disruptionId": "729008fd-f1be-4b04-babd-9d25c93df2ea",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen aufgrund Unwetterfolgen im Raum Berlin",
+      "summary": "Aktuell kommt es im Raum Berlin aufgrund von Umwetterfolgen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Berlin</li><li>Berlin - Stralsund</li><li>Berlin - Frankfurt(O)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.06.2025",
+      "durationEnd": "24.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/729008fd-f1be-4b04-babd-9d25c93df2ea",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.06.2025 11:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/30b53fc0-2317-4537-bcc5-c4288bdbdb66",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_storm"
+    },
+    {
       "id": "3d60a7f1-22b5-4272-838e-b37a8a776933",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -628,81 +680,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6dae9420-de04-4435-a4e2-59dc843e24ee",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
-    },
-    {
-      "id": "ce82deed-b844-402f-bdcd-07a9fdeb9fbd",
-      "disruptionId": "aaca21ae-bead-4695-8381-ee8b8d8cd527",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu keinen Beeinträchtigungen mehr. ",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "24.06.2025",
-      "durationEnd": "24.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/aaca21ae-bead-4695-8381-ee8b8d8cd527",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-24/26cba4aa-c097-417c-8490-41cf4af053careisendenkarte_20250624-094537.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-24/26cba4aa-c097-417c-8490-41cf4af053careisendenkarte_20250624-094537.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.06.2025 09:45:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.06.2025 10:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ce82deed-b844-402f-bdcd-07a9fdeb9fbd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle1"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
