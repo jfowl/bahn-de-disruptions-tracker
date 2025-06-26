@@ -2,6 +2,89 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "e350d5f8-0335-46d5-8b65-47be7ad783fd",
+      "disruptionId": "63b3c722-2542-490b-8715-ede30da01fe3",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Großraum Heidelberg Hbf ist im Moment gesperrt",
+      "summary": "Großraum Heidelberg Hbf ist im Moment gesperrt Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S3 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Karlsruhe </li><li>S4 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Bruchsal</li></ul><p>Wir haben einen Ersatzverkehr mit einem Bus zwischen Mannheim und Heidelberg sowie Karlsruhe und Wiesloch ab ca.15:15 Uhr für Sie eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "26.06.2025",
+      "durationEnd": "26.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/63b3c722-2542-490b-8715-ede30da01fe3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/4864721e-32cf-47fe-a2c4-c21a6131392creisendenkarte_20250626-121013.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/4864721e-32cf-47fe-a2c4-c21a6131392creisendenkarte_20250626-121013.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.06.2025 12:10:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "SL",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 68",
+          "filterName": "RB 68",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5 Rhein-Neckar",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 51",
+          "filterName": "S 51 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.06.2025 16:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e350d5f8-0335-46d5-8b65-47be7ad783fd",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "726ee602-8b15-47ca-b209-8e95ecba0914",
       "disruptionId": "4317bd33-c0ed-419f-99bb-720bab4cf34c",
       "author": "FERNVERKEHR_AG",
@@ -715,39 +798,79 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction16"
     },
     {
-      "id": "345a2dd3-f8ab-4057-93cc-72e706f42e42",
-      "disruptionId": "5004990e-096a-48d0-84b9-9b1c61bdd4c6",
-      "author": "FERNVERKEHR_AG",
+      "id": "177eb59a-02bc-4719-b9ea-0a283e550dfe",
+      "disruptionId": "4e584ddf-c80a-4fc2-accb-05ff599a2800",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Treuchtlingen",
-      "summary": "Aufgrund von Reparaturarbeiten ist die Strecke zwischen Nürnberg und Treuchtlingen derzeit gesperrt. Dadurch kommt es zu Haltausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>ICE-Züge zwischen Nürnberg – Augsburg – München</strong></li></ul><p><strong>Die Züge werden zwischen Nürnberg und München umgeleitet. Die Halte Treuchtlingen, Donauwörth, Augsburg und München-Pasing entfallen. Ersatzhalt ist Ingolstadt.</strong></p><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Treuchtlingen erreichen Sie mit dem Nahverkehr von Ingolstadt Hbf.</li><li>Donauwörth erreichen Sie ab München mit dem Fern- bzw. Nahverkehr mit Umstieg in Augsburg.</li><li>Zwischen München Hbf und München-Pasing verkehren die Züge des Nahverkehrs sowie S-Bahnen im Taktverkehr. Die Fahrzeit beträgt etwa 6 Minuten.</li></ul><p>Die Behebung der Störung soll vsl. bis Freitag, 27.06.2025 in den Mittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/5004990e-096a-48d0-84b9-9b1c61bdd4c6",
-      "images": [],
+      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Ostbahnhof und Pasing kommt es zu Verspätungen und Teilausfällen und Zugausfällen.",
+      "text": "<p></p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "26.06.2025",
+      "durationEnd": "26.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/4e584ddf-c80a-4fc2-accb-05ff599a2800",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/910bbd35-e796-4aa7-89ce-2255b745b411reisendenkarte_20250626-160951.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/910bbd35-e796-4aa7-89ce-2255b745b411reisendenkarte_20250626-160951.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.06.2025 16:09:51",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2025 23:52",
-      "expand": false,
+      "lastModified": "26.06.2025 16:26",
+      "expand": true,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/345a2dd3-f8ab-4057-93cc-72e706f42e42",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/177eb59a-02bc-4719-b9ea-0a283e550dfe",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section11"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
