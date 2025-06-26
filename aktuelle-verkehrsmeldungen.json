@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "9e063a42-75e2-45ce-946b-d785c1665be6",
+      "disruptionId": "d4bde91a-ee04-429c-a4ee-d2519f8452c3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Beeinträchtigungen aufgrund Unwetter Berlin - Hannover",
+      "summary": "Aktuell kommt es auf der Strecke Berlin - Hannover aufgrund eines Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Umleitungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin – Hannover – Bad Bentheim – Amsterdam</li><li>Köln/Düsseldorf – Hannover – Berlin</li><li>Berlin – Braunschweig – Frankfurt (M) – Mannheim – Basel – Interlaken</li><li>Berlin – Braunschweig – Frankfurt (M) Süd – Frankfurt (M) Flugh Fernbf</li><li>Bonn – Köln – Hannover – Berlin</li></ul><p>Wir empfehlen Ihnen: </p><ul><li>Reisende Richtung Frankfurt(M) bitte Züge Berlin – Leipzig – Erfurt – Frankfurt (M) nutzen</li><li>Reisende Richtung Hannover nutzen bitte Züge  Köln/Düsseldorf – Hannover – Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/d4bde91a-ee04-429c-a4ee-d2519f8452c3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.06.2025 18:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9e063a42-75e2-45ce-946b-d785c1665be6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_storm0"
+    },
+    {
       "id": "e350d5f8-0335-46d5-8b65-47be7ad783fd",
       "disruptionId": "63b3c722-2542-490b-8715-ede30da01fe3",
       "author": "REGIO_MITTE",
@@ -9,16 +59,16 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Großraum Heidelberg Hbf ist im Moment gesperrt",
-      "summary": "Großraum Heidelberg Hbf ist im Moment gesperrt Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S3 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Karlsruhe </li><li>S4 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Bruchsal</li></ul><p>Wir haben einen Ersatzverkehr mit Bussen zwischen Mannheim und Heidelberg sowie Karlsruhe und Wiesloch ab ca.15:15 Uhr für Sie eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "headline": "Großraum Heidelberg Hbf ist im Moment gesperrt.",
+      "summary": "Großraum Heidelberg Hbf ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li><li>S3 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Karlsruhe </li><li>S4 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Bruchsal</li><li>S33 - Germersheim &lt;&gt; Graben-Neudorf &lt;&gt; Bruchsal</li><li>RB68 - Pirmasens – Zweibrücken – Saarbrücken </li><li>RE73 - Karlsruhe &lt;&gt; Bruchsal &lt;&gt; Heidelberg &lt;&gt; (Mannheim)</li></ul><p>Wir haben einen Ersatzverkehr mit Bussen zwischen Mannheim und Heidelberg sowie Karlsruhe und Wiesloch ab ca.15:15 Uhr für Sie eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "26.06.2025",
       "durationEnd": "26.06.2025",
       "mapHref": "https://karte.bahn.de/detail/63b3c722-2542-490b-8715-ede30da01fe3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/6786ffc7-4285-4ef2-9a88-b4da57d39c02reisendenkarte_20250626-121013.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/6786ffc7-4285-4ef2-9a88-b4da57d39c02reisendenkarte_20250626-121013.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/e6820bf3-6b1d-4a41-ba4b-703b2aea9102reisendenkarte_20250626-121013.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-06-26/e6820bf3-6b1d-4a41-ba4b-703b2aea9102reisendenkarte_20250626-121013.png",
           "info": "",
           "alt": "Reisendenkarte 26.06.2025 12:10:13",
           "openInNewTab": true
@@ -77,7 +127,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.06.2025 17:00",
+      "lastModified": "26.06.2025 18:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -601,6 +651,51 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "b0bd6854-087e-448e-9538-f06baf5ce7b1",
+      "disruptionId": "7b8e5bf6-6b5c-4e3d-8c24-e555283834bf",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Zugausfälle zwischen Kahl(Main) und Hanau Hbf",
+      "summary": "Die Linie RB56 ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 23:00 Uhr. Der Grund ist eine Reparatur an der Oberleitung. Die Züge enden und beginnen außerplanmäßig in Kahl(Main). Wir haben einen Ersatzverkehr mit einem Bus zwischen Aschaffenburg Hbf und Hanau Hbf für Sie eingerichtet.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 56 (Hanau – Schöllkrippen)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "26.06.2025",
+      "durationEnd": "26.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/7b8e5bf6-6b5c-4e3d-8c24-e555283834bf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-26/94858c37-d348-4d26-a7c6-e21e5f9b4f87reisendenkarte_20250626-105418.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-26/94858c37-d348-4d26-a7c6-e21e5f9b4f87reisendenkarte_20250626-105418.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.06.2025 10:54:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 56",
+          "filterName": "RB 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.06.2025 17:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b0bd6854-087e-448e-9538-f06baf5ce7b1",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "104c3692-01bc-42e8-a72e-126308957613",
       "disruptionId": "bb82b4f3-0b18-47ac-9f0e-19364df3195e",
       "author": "REGIO_BW",
@@ -654,51 +749,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/104c3692-01bc-42e8-a72e-126308957613",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "b0bd6854-087e-448e-9538-f06baf5ce7b1",
-      "disruptionId": "7b8e5bf6-6b5c-4e3d-8c24-e555283834bf",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Zugausfälle zwischen Kahl(Main) und Hanau Hbf",
-      "summary": "Die Linie RB56 ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 20:00 Uhr. Der Grund ist eine Reparatur an der Oberleitung. Die Züge enden und beginnen außerplanmäßig in Kahl(Main). Wir haben einen Ersatzverkehr mit einem Bus zwischen Aschaffenburg Hbf und Hanau Hbf für Sie eingerichtet.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 56 (Hanau – Schöllkrippen)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "26.06.2025",
-      "durationEnd": "26.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/7b8e5bf6-6b5c-4e3d-8c24-e555283834bf",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-26/b89eb9a2-8ab7-4869-8d12-868e4a493665reisendenkarte_20250626-105418.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-06-26/b89eb9a2-8ab7-4869-8d12-868e4a493665reisendenkarte_20250626-105418.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.06.2025 10:54:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 56",
-          "filterName": "RB 56",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.06.2025 11:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b0bd6854-087e-448e-9538-f06baf5ce7b1",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "ada5fa18-2d9f-4a0f-8ad7-ca4702b7f668",
@@ -904,16 +954,16 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Endmeldung: Stammstrecke Ostbahnhof ↔ Pasing",
-      "summary": "Zwischen Ostbahnhof und Pasing kommt es immer noch zu Folgeverspätungen von 15 bis 20 Minuten und Teilausfällen.",
-      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "headline": "S 6 Abweichende Linienführung: Unbefugte Personen auf der Strecke",
+      "summary": "Die S-Bahnen der Linie S 6 werden umgeleitet.",
+      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><p>Die S6 wird zwischen<strong> Trudering </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</p><ul><li>Die S6 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Trudering </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul></li></ul><p></p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "26.06.2025",
       "durationEnd": "26.06.2025",
       "mapHref": "https://karte.bahn.de/detail/4e584ddf-c80a-4fc2-accb-05ff599a2800",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/41f29f4f-1848-4150-883e-6dc79971764creisendenkarte_20250626-160951.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/41f29f4f-1848-4150-883e-6dc79971764creisendenkarte_20250626-160951.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/def24a01-2d1b-488c-af87-9de6e69eb6e6reisendenkarte_20250626-160951.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-26/def24a01-2d1b-488c-af87-9de6e69eb6e6reisendenkarte_20250626-160951.png",
           "info": "",
           "alt": "Reisendenkarte 26.06.2025 16:09:51",
           "openInNewTab": true
@@ -964,7 +1014,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.06.2025 17:30",
+      "lastModified": "26.06.2025 18:09",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
