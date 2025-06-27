@@ -36,8 +36,33 @@
       ],
       "lines": [
         {
+          "name": "RB 51",
+          "filterName": "RB 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 68",
+          "filterName": "RB 68",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 4",
           "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 45",
+          "filterName": "RE 45",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
           "property": "REGIONAL"
         },
         {
@@ -66,7 +91,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.06.2025 12:21",
+      "lastModified": "27.06.2025 16:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -206,6 +231,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "4f886b13-60cc-4ccf-a3a3-fc4b4edae02c",
+      "disruptionId": "aa629f34-c59a-4f13-b11d-6d0bb4694143",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 3 Giesing ↔ Deisenhofen: Reparatur an einer Weiche",
+      "summary": "Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Giesing und Deisenhofen.</p><p>Ein Ersatzverkehr zwischen Giesing und Deisenhofen ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "27.06.2025",
+      "durationEnd": "27.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/aa629f34-c59a-4f13-b11d-6d0bb4694143",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-27/40a77047-3654-4fbc-b0b6-c7881f4a05acreisendenkarte_20250627-162108.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-27/40a77047-3654-4fbc-b0b6-c7881f4a05acreisendenkarte_20250627-162108.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.06.2025 16:21:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.06.2025 16:23",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4f886b13-60cc-4ccf-a3a3-fc4b4edae02c",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
     },
     {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
