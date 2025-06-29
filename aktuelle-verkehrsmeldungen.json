@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Beeinträchtigungen zwischen Siegburg und Montabaur",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Siegburg und Montabaur kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um bis zu 60 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Dortmund – Köln – Koblenz – Stuttgart – Lindau – Innsbruck</li><li>Dortmund – Köln Messe/Deutz – Frankfurt (M) – Würzburg – Nürnberg – München</li><li>Dortmund – Köln Messe/Deutz – Frankfurt (M) Flugh Fernbf – Stuttgart – München</li><li>Dortmund – Köln – Frankfurt (M)</li><li>Frankfurt(M) – Köln – Amsterdam</li><li>Frankfurt(M) – Köln – Aachen – Bruxelles</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Siegburg/Bonn und Frankfurt(M) Flughafen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Siegburg/Bonn und Montabaur kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um bis zu 60 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE Züge über die Schnellfahrstrecke Köln - Rhein/Main zwischen Köln und Frankfurt(M) </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "29.06.2025",
       "mapHref": "https://karte.bahn.de/detail/81f646fd-334a-45d8-adfc-9c3c2118e2fc",
       "images": [],
@@ -21,8 +21,6 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BW",
-        "BY",
         "NW",
         "HE",
         "RP"
@@ -34,11 +32,47 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.06.2025 17:19",
+      "lastModified": "29.06.2025 18:22",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/13673242-f47d-4fb3-8cd1-0d242d801247",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "0ea87a30-ecbb-44ad-8279-9f8f3d645c7b",
+      "disruptionId": "bf676021-4ba3-4a79-b86c-f5919ffab258",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Frankfurt(M)",
+      "summary": "Aufgrund eines defekten Stellwerkes in Riedstadt-Goddelau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen von bis zu 30 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE/IC und TGV Züge über die Riedbahn zwischen Frankfurt(M) und Mannheim</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/bf676021-4ba3-4a79-b86c-f5919ffab258",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.06.2025 18:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0ea87a30-ecbb-44ad-8279-9f8f3d645c7b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
     },
     {
       "id": "30379197-0166-4b73-a1e5-6fdee93684d9",
@@ -226,53 +260,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "b84f40ba-10bc-43f3-ab4a-eafec51647d6",
-      "disruptionId": "d9e4351c-4831-4a3c-874f-a10e98240656",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teil- und Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 29.06.25 von 06:00 Uhr bis ca. 18:00 Uhr.</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge der RE20 und RB22 aus Richtung Limburg(Lahn) enden vorzeitig in Frankfurt-Höchst und wenden dort.</li><li>Die Züge der RB34 aus Richtung Glauburg-Stockheim enden vorzeitig in Bad Vilbel und wenden dort.</li></ul><p></p><strong>↪️Empfehlungen:</strong><ul><li>RE20 und RB22: Nutzen Sie die S1 und S2 zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf.</li><li>RB34: Nutzen Sie die S6 zwischen Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "29.06.2025",
-      "durationEnd": "29.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/d9e4351c-4831-4a3c-874f-a10e98240656",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 34",
-          "filterName": "RB 34",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.06.2025 14:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b84f40ba-10bc-43f3-ab4a-eafec51647d6",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
     },
     {
       "id": "d25385f3-2ed9-45be-83a2-625a0b3d1b20",
