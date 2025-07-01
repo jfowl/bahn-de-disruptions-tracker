@@ -2,71 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "d3703a53-0268-4348-856b-905055366399",
-      "disruptionId": "f01892e1-41ae-4c7d-b8fc-63a7b578709d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Böschungsbrände und Oberleitungsstörung: Bahnverkehr ist in Norddeutschland bis Tagesende beeinträchtigt",
-      "summary": "Aufgrund von Böschungsbränden und einer Oberleitungsstörung kommt es bis Tagesende in Norddeutschland zu Verspätungen und Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Mannheim – Frankfurt(M) – Braunschweig und Berlin</li><li>ICE- und IC-Züge zwischen Hannover und Berlin</li></ul><p>Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen.&nbsp;</p><p><strong>Gültigkeit der Tickets:</strong></p><p>Alle Fahrgäste, die ein Ticket für eine Reise am <strong>01.07.2025</strong> gekauft haben und diese aufgrund der genannten <strong>Einschränkungen im Norden</strong> Deutschlands verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.07.2025",
-      "durationEnd": "01.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/f01892e1-41ae-4c7d-b8fc-63a7b578709d",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de/info/sonderkulanz",
-          "label": "Ausführliche Informationen zu Reisen während der Einschränkungen im Norden Deutschlands",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.07.2025 20:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d3703a53-0268-4348-856b-905055366399",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "32cba7e3-8e4c-45ba-9d32-f4d61bfe89cb",
       "disruptionId": "8dcbdf6e-e745-48e9-b208-83f84cec498e",
       "author": "FERNVERKEHR_AG",
@@ -734,6 +669,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "1a656621-14a2-4ad7-be44-a76905ec1b07",
+      "disruptionId": "99878bb1-968b-433c-87f2-e09c185b353c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S1: Aktuell fährt keine S1 zwischen Sülldorf und Klein Flottbek. Grund: Enten im Gleis. ",
+      "summary": "Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p>...</p>",
+      "durationBegin": "01.07.2025",
+      "durationEnd": "01.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/99878bb1-968b-433c-87f2-e09c185b353c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.07.2025 21:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1a656621-14a2-4ad7-be44-a76905ec1b07",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity0"
     },
     {
       "id": "7d3b970c-e9e0-4734-a510-ce81c094de43",
