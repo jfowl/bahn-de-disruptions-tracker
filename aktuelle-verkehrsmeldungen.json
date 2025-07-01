@@ -307,14 +307,27 @@
       "mapHref": "https://karte.bahn.de/detail/aa629f34-c59a-4f13-b11d-6d0bb4694143",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/c413ce54-3c39-4e78-880b-8a53dd3a74e8reisendenkarte_20250630-130305.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/c413ce54-3c39-4e78-880b-8a53dd3a74e8reisendenkarte_20250630-130305.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/cde4daa5-d5ef-43cf-8678-03febb37dbdbreisendenkarte_20250630-130305.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/cde4daa5-d5ef-43cf-8678-03febb37dbdbreisendenkarte_20250630-130305.png",
           "info": "",
           "alt": "Reisendenkarte 30.06.2025 13:03:05",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/a38503f5-b154-4d27-897f-9f3b1500172cFpl%2BSEV%2BMGI-MHO%2B2.-13.7_2%2B%25281%2529.pdf",
+          "label": "S 3 Ersatzfahrplan 2. - 14. Juli 2025 Holzkirchen → Giesing",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-01/7ae4c2c0-906b-4678-9aa6-b0ee4b4ba809Fpl%2BSEV%2BMGI-MHO%2B2.-13.7_.pdf",
+          "label": "S 3 Ersatzfahrplan 2. - 14. Juli 2025 Giesing → Holzkirchen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://www.s-bahn-muenchen.de/fahren/baustellen/s3",
@@ -336,11 +349,53 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.07.2025 00:46",
+      "lastModified": "01.07.2025 07:50",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4f886b13-60cc-4ccf-a3a3-fc4b4edae02c",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+    },
+    {
+      "id": "7ba913b0-46ba-45ef-80a6-d826437bc423",
+      "disruptionId": "a5e99d3d-fd65-4f10-b03d-f6cc369cc762",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S2 und S5: Aktuell fahren keine Züge über Dammtor.",
+      "summary": "Aktuell werden alle Züge derS2 und S5 über Jungfernstieg umgeleitet. Grund: Feuerwehreinsatz",
+      "text": "<p>Sie erreichen Ihr Fahrtziel mit den folgenden Verbindungen:</p><p></p><p><strong>Holstenstraße</strong></p><ul><li>Ab Altona mit Bus 20 in Richtung S Rübenkamp bis Holstenstraße</li><li>Ab Altona mit Bus 25 in Richtung U Burgstraße bis Holstenstraße</li></ul><p><strong>Dammtor</strong></p><ul><li>Ab Jungfernstieg mit der U1 in Richtung Ohlsdorf / Norderstedt Mitte bis Stephansplatz (Dammtor)</li></ul><p></p><p>Zwischen Holstenstraße und Hauptbahnhof fährt zudem die Buslinie 3 (Schenefeld &lt;&gt; Tiefstack) mit Halt unter Anderem in S Holstenstraße, Bernstorffstraße und Sternbrücke (Nähe Sternschanze), U Rödingsmarkt (Übergang zur U3) sowie Hauptbahnhof.</p><p>Ebenfalls fährt die Buslinie X3 (Schenefeld &lt;&gt; U Meßberg) mit Halt in S Holstenstraße und S Jungfernstieg (Übergang zu allen U-Bahn Linien).</p><p></p><p>Bitte beachten Sie die reduzierte Kapazität in den Linienbussen.</p>",
+      "durationBegin": "01.07.2025",
+      "durationEnd": "01.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/a5e99d3d-fd65-4f10-b03d-f6cc369cc762",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.07.2025 07:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7ba913b0-46ba-45ef-80a6-d826437bc423",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
     },
     {
       "id": "d25385f3-2ed9-45be-83a2-625a0b3d1b20",
