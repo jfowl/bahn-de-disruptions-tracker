@@ -263,43 +263,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "e7b524cf-1781-41a5-9f49-8ef3a09eafcd",
-      "disruptionId": "6ff7ee89-d1e1-4b9e-a041-ff65b830ba89",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S5: Aktuell Unregelmäßigkeiten nach einer Weichenstörung.",
-      "summary": "Die Weichenstörung wurde behoben, es sind jedoch noch Unregelmäßigkeiten möglich,. ",
-      "text": "<p> </p>",
-      "durationBegin": "02.07.2025",
-      "durationEnd": "02.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/6ff7ee89-d1e1-4b9e-a041-ff65b830ba89",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.07.2025 12:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7b524cf-1781-41a5-9f49-8ef3a09eafcd",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "4f886b13-60cc-4ccf-a3a3-fc4b4edae02c",
       "disruptionId": "aa629f34-c59a-4f13-b11d-6d0bb4694143",
       "author": "S_BAHN_MUC",
@@ -773,6 +736,56 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "5f06721a-8fa5-4738-ba84-aa6418cbbfa9",
+      "disruptionId": "d9853ec9-ca0d-4156-8cd0-0780a155821c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 3, S 5 Giesing: Reparatur an einem Signal",
+      "summary": "Im Bereich Giesing kommt es in Richtung stadteinwärts zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "02.07.2025",
+      "durationEnd": "02.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/d9853ec9-ca0d-4156-8cd0-0780a155821c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/4646a069-04d1-48ba-8076-e8452d4ddbc1reisendenkarte_20250702-132913.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/4646a069-04d1-48ba-8076-e8452d4ddbc1reisendenkarte_20250702-132913.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.07.2025 13:29:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.07.2025 13:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5f06721a-8fa5-4738-ba84-aa6418cbbfa9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+    },
+    {
       "id": "57b5e9fc-8d85-4bfd-90fd-fb4d741be3f3",
       "disruptionId": "1d8d38b0-059d-424f-b737-09dd7aff69b7",
       "author": "S_BAHN_MUC",
@@ -780,16 +793,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 1 Feldmoching → Oberschleißheim: Reparatur an einem Signal",
-      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es jetzt in Richtung stadtauswärts zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 1 Feldmoching → Oberschleißheim: Reparatur an einem Signal ",
+      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es jetzt in beide Richtungen zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal. und noch dazu Fahrzeugstörung.</p>",
       "durationBegin": "02.07.2025",
       "durationEnd": "02.07.2025",
       "mapHref": "https://karte.bahn.de/detail/1d8d38b0-059d-424f-b737-09dd7aff69b7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/98b4860c-e2c6-47c6-9458-b29ae95d6591reisendenkarte_20250702-113917.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/98b4860c-e2c6-47c6-9458-b29ae95d6591reisendenkarte_20250702-113917.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/247b6639-7eb1-4887-bbfd-2dad8d25030areisendenkarte_20250702-113917.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/247b6639-7eb1-4887-bbfd-2dad8d25030areisendenkarte_20250702-113917.png",
           "info": "",
           "alt": "Reisendenkarte 02.07.2025 11:39:17",
           "openInNewTab": true
@@ -810,7 +823,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.07.2025 12:27",
+      "lastModified": "02.07.2025 13:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
