@@ -270,8 +270,8 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S5: Aktuell Unregelmäßigkeiten möglich. Grund: Weichenstörung.",
-      "summary": "Aktuell kommt es zu Unregelmäßigkeiten auf der S5. Der Grund ist eine Weichenstörung. Bitte achten Sie auf Ansagen und Anzeigen an den Stationen und Zügen.",
+      "headline": "S5: Aktuell Unregelmäßigkeiten nach einer Weichenstörung.",
+      "summary": "Die Weichenstörung wurde behoben, es sind jedoch noch Unregelmäßigkeiten möglich,. ",
       "text": "<p> </p>",
       "durationBegin": "02.07.2025",
       "durationEnd": "02.07.2025",
@@ -292,7 +292,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.07.2025 12:48",
+      "lastModified": "02.07.2025 12:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -605,7 +605,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.07.2025 12:47",
+      "lastModified": "02.07.2025 12:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -773,51 +773,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "e8961599-2466-4f6e-9cda-60f83a49938a",
-      "disruptionId": "c852e2fc-a644-4fa6-9a98-48697859fab3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 7 Baierbrunn",
-      "summary": "Im Bereich Baierbrunn kommt es noch zu vereinzelten Folgeverspätungen .",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "02.07.2025",
-      "durationEnd": "02.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/c852e2fc-a644-4fa6-9a98-48697859fab3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/8e257c6f-bc4f-479f-932f-3548098ac619reisendenkarte_20250702-115631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-02/8e257c6f-bc4f-479f-932f-3548098ac619reisendenkarte_20250702-115631.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.07.2025 11:56:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.07.2025 12:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e8961599-2466-4f6e-9cda-60f83a49938a",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
-    },
-    {
       "id": "57b5e9fc-8d85-4bfd-90fd-fb4d741be3f3",
       "disruptionId": "1d8d38b0-059d-424f-b737-09dd7aff69b7",
       "author": "S_BAHN_MUC",
@@ -861,48 +816,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/57b5e9fc-8d85-4bfd-90fd-fb4d741be3f3",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
-    },
-    {
-      "id": "02099d66-92af-4de3-b8c7-93bfb59d67c3",
-      "disruptionId": "240c74f0-7c98-4d9f-92dd-f582cbb40ff3",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "Information zu den S-Bahnen zum Feuerwehreinsatz",
-      "summary": "S-Bahnen fahren wieder über Jungfernstieg und Landungsbrücken. Feuerwehreinsatz beendet.",
-      "text": "<p>S-Bahnen fahren wieder über Jungfernstieg und Landungsbrücken. Feuerwehreinsatz beendet.</p>",
-      "durationBegin": "02.07.2025",
-      "durationEnd": "02.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/240c74f0-7c98-4d9f-92dd-f582cbb40ff3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.07.2025 12:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/02099d66-92af-4de3-b8c7-93bfb59d67c3",
-      "magnoliaPath": "/aktuell/nord/detour_police_activity"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
