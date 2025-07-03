@@ -424,6 +424,48 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "93646a7c-6b14-4af9-9176-e633a5eec653",
+      "disruptionId": "6e8d0c52-bd18-450f-8ae6-555fe0094cb7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 4, S 6 Zorneding ↔ Haar: Feuerwehreinsatz",
+      "summary": "Zwischen Zorneding und Haar ist die Strecke gesperrt. Die S-Bahnen wenden in Zorneding und Haar.",
+      "text": "<p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
+      "durationBegin": "03.07.2025",
+      "durationEnd": "03.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/6e8d0c52-bd18-450f-8ae6-555fe0094cb7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.07.2025 08:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/93646a7c-6b14-4af9-9176-e633a5eec653",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
+    },
+    {
       "id": "81c7a22c-9401-43b9-a4c3-73993d0a906d",
       "disruptionId": "bd976032-201e-4dd5-a3de-1727eadbafb8",
       "author": "S_BAHN_RM",
@@ -574,6 +616,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "0cc6c26e-f963-46cd-9240-d8207846860a",
+      "disruptionId": "b7d80932-a2c5-47e6-ab3d-cb19f769e7ef",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Ostbahnhof: Defektes Stellwerk",
+      "summary": "Im Bereich Ostbahnhof kommt es zu Verspätungen von bis zu 25 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "03.07.2025",
+      "durationEnd": "03.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/b7d80932-a2c5-47e6-ab3d-cb19f769e7ef",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.07.2025 08:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0cc6c26e-f963-46cd-9240-d8207846860a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "c7aa75df-bea6-4218-8a8b-6984886bddd6",
