@@ -17,15 +17,22 @@
       "mapHref": "https://karte.bahn.de/detail/064e32f5-d85e-4d6c-92e0-ab4927f0fc22",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-03/94c0481b-34f9-49ae-984f-ab4b96cdd04freisendenkarte_20250702-194220.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-03/94c0481b-34f9-49ae-984f-ab4b96cdd04freisendenkarte_20250702-194220.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-04/d1ecb88f-f9aa-4176-8c2b-6d978892d971reisendenkarte_20250702-194220.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-04/d1ecb88f-f9aa-4176-8c2b-6d978892d971reisendenkarte_20250702-194220.png",
           "info": "",
           "alt": "Reisendenkarte 02.07.2025 19:42:20",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "LONG_DISTANCE"
       ],
@@ -42,7 +49,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "03.07.2025 20:54",
+      "lastModified": "04.07.2025 15:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -195,6 +202,126 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4f886b13-60cc-4ccf-a3a3-fc4b4edae02c",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+    },
+    {
+      "id": "4c751eb0-1f46-43c8-bd42-c95a7ee29476",
+      "disruptionId": "8480ec69-8216-43e6-b4ca-07133315ec28",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in beide Richtungen noch zu Folgeverspätungen von 5 bis 10 Minuten. Im Außenbereich liegen die Verspätungen teilweise bei bis zu 20 Minuten.",
+      "text": "<p>Die S-Bahnen der Linien S4 und S8 fahren wieder auf dem Regelweg. </p><p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch weiterhin zu Teilausfällen.</p><p></p><p>Die ärztliche Versorgung eines Fahrgastes am Hauptbahnhof ist abgeschlossen.</p>",
+      "durationBegin": "04.07.2025",
+      "durationEnd": "04.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/8480ec69-8216-43e6-b4ca-07133315ec28",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-04/3086c516-514d-4f36-8429-ec0bdf5d94b6reisendenkarte_20250704-150814.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-04/3086c516-514d-4f36-8429-ec0bdf5d94b6reisendenkarte_20250704-150814.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.07.2025 15:08:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.07.2025 15:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4c751eb0-1f46-43c8-bd42-c95a7ee29476",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_medical_emergency"
+    },
+    {
+      "id": "78241c80-314e-4129-ac1f-6a4dbd327c0c",
+      "disruptionId": "1c6e0809-720f-4405-8043-34820ce7ef93",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Leipzig und Dresden",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Oschatz und Riesa kommt es auf der Strecke zwischen Leipzig und Dresden derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Leipzig und Dresden werden umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt in Riesa entfällt leider</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen: </strong>Riesa erreichen Sie ab Dresden-Neustadt und Dresden Hbf mit den Zügen der Regionalverkehrslinie RE 50.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden am heutigen 04. Juli 2025 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.07.2025",
+      "durationEnd": "04.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/1c6e0809-720f-4405-8043-34820ce7ef93",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-04/72a30e3d-cb66-4e50-9106-1e867d6dbcbfreisendenkarte_20250704-045332.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-04/72a30e3d-cb66-4e50-9106-1e867d6dbcbfreisendenkarte_20250704-045332.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.07.2025 04:53:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.07.2025 15:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/78241c80-314e-4129-ac1f-6a4dbd327c0c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "bb594253-14af-47e3-a28b-322c9f9a2318",
