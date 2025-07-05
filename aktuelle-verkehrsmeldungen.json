@@ -265,51 +265,6 @@
       "magnoliaPath": "/aktuell/hessen/massive_impairment_other_cause0"
     },
     {
-      "id": "47dfc12e-e605-4a7b-a1dd-a9eb0a77a7a6",
-      "disruptionId": "6515eadd-3426-4477-8c93-8def29402997",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S7 Wolfratshausen - München HBF Gl. 27-36",
-      "summary": "Derzeit kommt es auf der Linie S7 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. ",
-      "text": "<p>Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                       ist eine Reparatur an der Strecke       in Baierbrunn.</p>",
-      "durationBegin": "04.07.2025",
-      "durationEnd": "05.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/6515eadd-3426-4477-8c93-8def29402997",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-05/5a246997-0624-4671-909c-5840967ef8d6reisendenkarte_20250704-192455.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-05/5a246997-0624-4671-909c-5840967ef8d6reisendenkarte_20250704-192455.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.07.2025 19:24:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.07.2025 01:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/47dfc12e-e605-4a7b-a1dd-a9eb0a77a7a6",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
       "id": "d25385f3-2ed9-45be-83a2-625a0b3d1b20",
       "disruptionId": "b1916dbf-0738-493c-ad80-83072b571ebb",
       "author": "REGIO_MITTE",
@@ -584,6 +539,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "29463515-de83-4704-bf24-f23ab8e4c9f5",
+      "disruptionId": "874ceb68-2a44-4df1-b7db-8390cb7365ce",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Informationen zum \"Greenfields\" Open Air",
+      "summary": "ℹ️ Zusätzlich zu den S-Bahnen der Linie S2, fahren Nachts ab Riem folgende Sonderzüge🚂der Linie S1 in Richtung Innenstadt:",
+      "text": "<p><strong>▶️Abfahrt Riem 22:06 Uhr – Ankunft Ostbahnhof 22:12&nbsp;Uhr – Ankunft Freising 23:04 Uhr</strong></p><p><strong>▶️Abfahrt Riem 22:26 Uhr – Ankunft Ostbahnhof 22:32 Uhr – Ankunft Freising&nbsp;23:24 Uhr</strong></p><p><strong>▶️Abfahrt Riem 22:46 Uhr – Ankunft Ostbahnhof 22:52 Uhr – Ankunft Freising 23:44 Uhr</strong></p><p><strong>▶️Abfahrt Riem 23:07 Uhr – Ankunft Ostbahnhof 23:13 Uhr &nbsp;- Ankunft Pasing 23:33 Uhr</strong></p><p><strong>▶️Abfahrt Riem 23:26 Uhr – Ankunft Ostbahnhof 23:33 Uhr – Ankunft Freising 00:24 Uhr</strong></p>",
+      "durationBegin": "05.07.2025",
+      "durationEnd": "06.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/874ceb68-2a44-4df1-b7db-8390cb7365ce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-05/6f9f7a62-1012-4687-8f7d-c51fc0168159reisendenkarte_20250703-170214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-05/6f9f7a62-1012-4687-8f7d-c51fc0168159reisendenkarte_20250703-170214.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.07.2025 17:02:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.07.2025 09:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/29463515-de83-4704-bf24-f23ab8e4c9f5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_other_cause"
     },
     {
       "id": "a266331c-4410-4a9c-8adb-e89724b99a3b",
