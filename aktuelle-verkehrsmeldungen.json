@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0e8bc985-7939-48ae-99d8-afe0f88fe286",
+      "disruptionId": "18d97002-100c-4472-adb9-6fc1edb57c98",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Göttingen und Kassel-Wilhelmshöhe",
+      "summary": "Aufgrund von Gleisarbeiten an der Strecke zwischen Göttingen und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Göttingen und Kassel-Wilhelmshöhe</li></ul><p>Die Arbeiten werden vsl. bis in die Nachmittagsstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/18d97002-100c-4472-adb9-6fc1edb57c98",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.07.2025 10:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0e8bc985-7939-48ae-99d8-afe0f88fe286",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "b4aba4ce-beb0-46e3-9ed2-f2838f2637ed",
       "disruptionId": "f7ce987f-1d66-4831-9fdc-f5cba841abf4",
       "author": "FERNVERKEHR_AG",
@@ -37,6 +87,63 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/b4aba4ce-beb0-46e3-9ed2-f2838f2637ed",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "73fb8ce5-8de6-4b62-bd70-d9b797cbc996",
+      "disruptionId": "10f8f6c7-011d-440a-bcd3-a1f0b131fc24",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen auf der Strecke zwischen Flensburg und Neumünster",
+      "summary": "Aufgrund einer Oberleitungsstörung im Raum Rendsburg ist der Zugverkehr zwischen Flensburg und Neumünster beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE7 (Flensburg - Hamburg Hbf): Es kommt zu Zugausfällen zwischen Flensburg und Neumünster.</li></ul><p>Ein Ersatzverkehr mit Bussen der Fa. Sievers Reisen und Schmidt Reisen ist im Pendelverkehr für Sie eingerichtet.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 90 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "06.07.2025",
+      "durationEnd": "06.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/10f8f6c7-011d-440a-bcd3-a1f0b131fc24",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de/aktuell",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.07.2025 10:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/73fb8ce5-8de6-4b62-bd70-d9b797cbc996",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -599,6 +706,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "713ead78-8112-4956-8108-1d098b34fae0",
+      "disruptionId": "eb0b7872-6bb9-4de5-a90d-dca591d042e9",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "S1: Von und nach Poppenbüttel aktuell mit Umstieg in Ohlsdorf.",
+      "summary": "Die S1 fährt aktuell mit allen sechs Wagen von und zum Hamburger Airport. Es ist ein Umstieg in Ohlsdorf erforderlich.",
+      "text": "<p>Aktuell fährt die S1 mit allen Wagen von und zum Hamburger Airport. Fahrgäste aus und in Richtung Wellingsbüttel und Poppenbüttel müssen leider in Ohlsdorf umsteigen. Grund: betriebliche Gründe.</p>",
+      "durationBegin": "06.07.2025",
+      "durationEnd": "06.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/eb0b7872-6bb9-4de5-a90d-dca591d042e9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.07.2025 10:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/713ead78-8112-4956-8108-1d098b34fae0",
+      "magnoliaPath": "/aktuell/nord/modified_service_other_cause"
     },
     {
       "id": "a266331c-4410-4a9c-8adb-e89724b99a3b",
