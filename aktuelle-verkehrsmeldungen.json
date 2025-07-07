@@ -690,43 +690,6 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
-      "id": "aee87f52-c52b-40bd-9e77-f5f228f193fd",
-      "disruptionId": "80d2260e-0c4c-4e6d-a871-ade69df870b8",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "S1: Aktuell fährt keine S1 zwischen Ohlsdorf und Poppenbüttel. Grund: Brückenanfahrt durch einen LKW. ",
-      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis. Die Fahrtziele zwischen Ohlsdorf und Poppenbüttel können mit folgenden regulären Buslinien erreicht werden:",
-      "text": "<strong>Fahrtrichtung Poppenbüttel</strong><p><strong>Ohlsdorf --&gt; Poppenbüttel</strong></p><ul><li>Bus 179 --&gt; Richtung \"S Poppenbüttel Wentzelplatz\" von der Station \"U S Ohlsdorf (Fuhlsbüttler Straße)\" bis zur Station \"S Poppenbüttel (Wentzelplatz).</li></ul><p><strong>Ohlsdorf --&gt; Wellingsbüttel</strong></p><ul><li>S1 --&gt; Richtung \"Blankenese\" oder \"Wedel\" von der Station \"Ohlsdorf\" bis zur Station \"Wandsbeker Chaussee\", dort Umstieg in U1 --&gt; Richtung \"Volksdorf\" oder \"Ohlstedt\" bis zur Station \"Farmsen\", dort Umstieg in MetroBus 27 --&gt; Richtung \"S Wellingsbüttel\" bis zur Station \"S Wellingsbüttel\"</li></ul><p>Die Stationen Kornweg (Klein Borstel) und Hoheneichen verfügen über keinen direkten Anschluss zu Linienbussen. Die Haltestellen der Linie 179 werden in ca. 15 Minuten Fußweg erreicht.</p><p></p><strong>Fahrtrichtung Ohlsdorf</strong><p><strong>Wellingsbüttel --&gt; Ohlsdorf</strong></p><ul><li>MetroBus 27 --&gt; Richtung \"U Billstedt\" von der Station \"S Wellingsbüttel\" bis zur Station \"U Farmsen\", dort Umstieg in U1 --&gt; Richtung \"Norderstedt Mitte\" bis zur Station \"Wandsbeker Chaussee\", dort Umstieg in S1 --&gt; Richtung \"Airport\" oder \"Poppenbüttel\" bis zur Station \"Ohlsdorf\".</li></ul><p><strong>Poppenbüttel --&gt; Ohlsdorf</strong></p><ul><li>Bus 179 --&gt; Richtung \"U Borgweg\" oder \"U Alsterdorf\" von der Station \"S Poppenbüttel (Wentzelplatz)\" bis zur Station \"U S Ohlsdorf\"</li></ul><p>Die Stationen Kornweg (Klein Borstel) und Hoheneichen verfügen über keinen direkten Anschluss zu Linienbussen. Die Haltestellen der Linie 179 werden in ca. 15 Minuten Fußweg erreicht.</p><p></p><p><strong>Bedingt durch Umleitungen, Veranstaltungen oder Baustellen können sich die Fahrtwege einzelner Buslinien ändern. Bitte beachten Sie daher auch die Live-Fahrplanauskunft des Hamburger Verkehrsverbundes unter www.hvv.de/fahrplanauskunft . </strong></p>",
-      "durationBegin": "07.07.2025",
-      "durationEnd": "07.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/80d2260e-0c4c-4e6d-a871-ade69df870b8",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.07.2025 14:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aee87f52-c52b-40bd-9e77-f5f228f193fd",
-      "magnoliaPath": "/aktuell/nord/additional_service_technical_problem_railway_section"
-    },
-    {
       "id": "a266331c-4410-4a9c-8adb-e89724b99a3b",
       "disruptionId": "0c4d60f1-2564-49ee-a538-2f774e3212e0",
       "author": "REGIO_SUEDOST",
@@ -778,6 +741,48 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "fbe9186c-7c88-4db4-a100-0929d9d4cba4",
+      "disruptionId": "b9c0fa6a-ce9a-43da-9687-3405f97a7e94",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 1 / S 8 Flughafen Terminal",
+      "summary": "Das Gleis 2 am Flughafen ist wieder freigegeben. ",
+      "text": "<p>Zugfahrten am Flughafen sind wieder uneingeschränkt möglich. </p><p>Der Polizeieinsatz am Flughafen ist beendet.</p>",
+      "durationBegin": "07.07.2025",
+      "durationEnd": "07.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/b9c0fa6a-ce9a-43da-9687-3405f97a7e94",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.07.2025 15:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fbe9186c-7c88-4db4-a100-0929d9d4cba4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+    },
+    {
       "id": "4bbc0994-e16a-41c1-95cf-0ff6945f3294",
       "disruptionId": "2e40ccd8-7dc2-4144-9d9c-1271ce5d2c27",
       "author": "S_BAHN_MUC",
@@ -807,7 +812,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.07.2025 14:50",
+      "lastModified": "07.07.2025 15:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -824,14 +829,14 @@
       },
       "headline": "Endmeldung: S 2 Altomünster ↔ Dachau",
       "summary": "Zwischen Altomünster und Dachau ist die Strecke wieder freigegeben.",
-      "text": "<p><strong>Erster Zug zwischen Dachau → Altomünster:</strong></p><ul><li>S 2 Dachau Abfahrt 14:34 Uhr → Altomünster Ankunft 15:08 Uhr</li></ul><p>Der Ersatzverkehr mit Großraumtaxis und Bussen zwischen Dachau und Altomünster läuft vorerst weiter.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "text": "<p><strong>Es fallen aber noch einzelne Züge aus:</strong></p><p><strong>S 2 Dachau → Altomünster:</strong></p><ul><li>S 2 Dachau Abfahrt 15:34 Uhr → Altomünster Ankunft 16:08</li><li>S 2 Dachau Abfahrt 17:34 Uhr → Altomünster Ankunft 18:08</li><li>S 2 Dachau Abfahrt 19:34 Uhr → Altomünster Ankunft 20:08</li></ul><p><strong>S 2 Altomünster → Dachau:</strong></p><ul><li>S 2 Altomünster Abfahrt 16:52 → Dachau Ankunft 17:25 Uhr</li><li>S 2 Altomünster Abfahrt 18:52 → Dachau Ankunft 19:25 Uhr</li><li>S 2 Altomünster Abfahrt 20:52 → Dachau Ankunft 21:25 Uhr</li></ul><p>Der Ersatzverkehr mit Großraumtaxis und Bussen zwischen Dachau und Altomünster läuft 16 Uhr aus.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
       "durationBegin": "06.07.2025",
       "durationEnd": "07.07.2025",
       "mapHref": "https://karte.bahn.de/detail/102f1534-52a5-4135-a803-4e2d1b2f4452",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-07/5ebaa94a-126c-404e-9df7-c6e747f8c4fereisendenkarte_20250704-201941.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-07/5ebaa94a-126c-404e-9df7-c6e747f8c4fereisendenkarte_20250704-201941.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-07/fabddbf9-4af0-425c-90d9-aaa6354f5e02reisendenkarte_20250704-201941.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-07/fabddbf9-4af0-425c-90d9-aaa6354f5e02reisendenkarte_20250704-201941.png",
           "info": "",
           "alt": "Reisendenkarte 04.07.2025 20:19:41",
           "openInNewTab": true
@@ -859,7 +864,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.07.2025 14:25",
+      "lastModified": "07.07.2025 15:31",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -882,8 +887,8 @@
       "mapHref": "https://karte.bahn.de/detail/f0d5806e-f31e-48fa-b11a-2099b20fc9e6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-07/4c817a66-02f4-41c4-875e-29d41e334463reisendenkarte_20250707-080446.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-07/4c817a66-02f4-41c4-875e-29d41e334463reisendenkarte_20250707-080446.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-07/e5094798-657b-480e-a6b8-acbb805e107creisendenkarte_20250707-080446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-07/e5094798-657b-480e-a6b8-acbb805e107creisendenkarte_20250707-080446.png",
           "info": "",
           "alt": "Reisendenkarte 07.07.2025 08:04:46",
           "openInNewTab": true
@@ -904,7 +909,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.07.2025 08:28",
+      "lastModified": "07.07.2025 15:13",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7c129cf1-a8d4-422b-815b-f4b4642ebe00",
