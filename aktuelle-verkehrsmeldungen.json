@@ -50,6 +50,43 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "0895bd83-7e06-4d44-841b-421d61802903",
+      "disruptionId": "f6307e76-71c8-49ce-84e1-7b9bb0cd7ec2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung in Mainz Hbf",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Mainz Hbf  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Der Halt in Mainz Hbf kann aufgrund von Umleitungen entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung Dortmund - Köln - Koblenz - Mainz - Süddeutschland/Österreich</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/f6307e76-71c8-49ce-84e1-7b9bb0cd7ec2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "08.07.2025 12:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0895bd83-7e06-4d44-841b-421d61802903",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -93,44 +130,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "be518a39-ff3a-4b93-8a43-a4c4b3ba4d94",
-      "disruptionId": "813b8845-c808-4423-89d0-c116f457566c",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Verkehrsmeldung für die Linie(n) RB14 und RB21\n\n \n",
-      "summary": " Dienstag, 08.07.2025",
-      "text": "<p>Aufgrund einer Streckensperrung kommt es am Dienstag, 08.07.2025 zu Haltausfällen. Möglicherweise werden die Reparaturarbeiten auch länger andauern.</p><p>Betroffene Linien: RB14 und RB21</p><p>Linie RB14:</p><p>Alle Züge der Linie RB14 beginnen und enden in Berlin Zoologischer Garten. Ausfall der Halte Berlin Jungfernheide, Berlin Hbf, Berlin Potsdamer Platz und Berlin Südkreuz.</p><p>Linie RB21:</p><p>Alle Züge der Linie RB21 beginnen und enden in Berlin-Spandau. Ausfall der Halte Berlin Jungfernheide und Berlin Gesundbrunnen.&nbsp;</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "08.07.2025",
-      "durationEnd": "08.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/813b8845-c808-4423-89d0-c116f457566c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.07.2025 03:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/be518a39-ff3a-4b93-8a43-a4c4b3ba4d94",
-      "magnoliaPath": "/aktuell/nordost/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
@@ -378,9 +377,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 2 Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Im Bereich Markt Schwaben kommt es in Richtung stadteinwärts zu Verspätungen von 5 bis 10 Minuten sowie Teilausfällen und vorzeitigem Wenden der Züge.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 2 Markt Schwaben ↔ Ottenhofen: Reparatur an einem Signal / Technischer Defekt an einem  Bahnübergang",
+      "summary": "Zwischen Markt Schwaben und Ottenhofen sind nur eingeschränkt Fahrten möglich. ",
+      "text": "<p>NEU: Die S-Bahnen wenden teilweise in Markt Schwaben.</p><p>Ein Ersatzverkehr zwischen Markt Schwaben und Erding ist in Planung.</p><p>Bitte rechnen Sie mit Einschränkungen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal und (NEU)   technischer Defekt an einem Bahnübergang in Ottenhofen.</p>",
       "durationBegin": "08.07.2025",
       "durationEnd": "08.07.2025",
       "mapHref": "https://karte.bahn.de/detail/b91fb345-96e5-4111-a5cb-2b7e315f6322",
@@ -400,12 +399,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.07.2025 10:28",
+      "lastModified": "08.07.2025 12:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7f144658-01be-425e-8468-26162a909941",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "583dfe1e-af79-4481-be42-1174c7c30620",
+      "disruptionId": "3e8891aa-3e12-4951-8ab3-60092df5abe3",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Zugausfälle und Ersatzverkehr zwischen Frankfurt am Main - Stadion und Riedstadt-Goddelau",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 08.07.2025 ab ca. 21:00 Uhr bis 09.07.2025, ca. 06:00 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge fallen aus</li></ul><p></p><strong>↪️Empfehlungen und 🚍Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr (EV) mit Bussen der Firma Holiday Reisen zwischen Frankfurt am Main - Stadion und Riedstadt-Goddelau eingerichtet.</li><li>Beachten Sie, dass die Busse des EVs in Frankfurt Stadion von der Bushaltestelle \"Stadion Osttribüne\" abfahren.</li><li>Den Weg zur Ersatzhaltestelle finden Sie unter www.bahnhof.de.</li><li>Nutzen Sie die S9 zwischen Frankfurt am Main - Stadion und Frankfurt Hbf (tief)</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "08.07.2025",
+      "durationEnd": "09.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/3e8891aa-3e12-4951-8ab3-60092df5abe3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-07-08/7a4791b5-2ae8-4128-95d7-578789573492reisendenkarte_20250708-115009.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-07-08/7a4791b5-2ae8-4128-95d7-578789573492reisendenkarte_20250708-115009.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.07.2025 11:50:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.07.2025 12:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/583dfe1e-af79-4481-be42-1174c7c30620",
+      "magnoliaPath": "/aktuell/hessen/impairment_construction"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -815,7 +859,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.07.2025 10:27",
+      "lastModified": "08.07.2025 12:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
