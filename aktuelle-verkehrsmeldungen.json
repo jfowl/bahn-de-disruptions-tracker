@@ -342,51 +342,6 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
     },
     {
-      "id": "40a494bb-fca2-4ece-aa87-9caae71842d5",
-      "disruptionId": "581b77b9-9c09-410c-bfd4-cb84bb6caad6",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Streckensperrung Stuttgart Hbf - Ulm Hbf beendet",
-      "summary": "Die Streckensperrung zwischen Amstetten(Württ) und Geislingen(Steige) ist beendet. Der Grund war eine Reparatur an der Oberleitung. Bitte rechnen Sie noch mit Verspätungen und Teilausfälle bis sich der Zugverkehr wieder stabilisiert hat. Der Ersatzverkehr mit Bus endet in Kürze.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "08.07.2025",
-      "durationEnd": "08.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/581b77b9-9c09-410c-bfd4-cb84bb6caad6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-08/15678a2d-cefd-44db-875b-94931449a6cbreisendenkarte_20250708-175947.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-08/15678a2d-cefd-44db-875b-94931449a6cbreisendenkarte_20250708-175947.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.07.2025 17:59:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.07.2025 21:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/40a494bb-fca2-4ece-aa87-9caae71842d5",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "1bc3fc19-7874-49f6-9656-5f66c17ba6eb",
       "disruptionId": "35843acb-4155-4555-b82e-065cb647c058",
       "author": "REGIO_BY",
@@ -848,20 +803,28 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "31675473-838f-4fa1-a0f0-cbe8b0a3b3bd",
-      "disruptionId": "e678d2b0-9ef4-4e71-94af-b9186480f1ac",
+      "id": "2a2032fe-d754-4fe2-964e-19271823d529",
+      "disruptionId": "ee7d79f1-9838-40f2-bd7c-eaf197d0c5f8",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Endmeldung: S 4 Fürstenfeldbruck ↔ Puchheim",
-      "summary": "Zwischen Fürstenfeldbruck und Puchheim kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Hauptbahnhof: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Hauptbahnhof (tief) sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit erheblichen Verspätungen und vereinzelten Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "08.07.2025",
       "durationEnd": "08.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/e678d2b0-9ef4-4e71-94af-b9186480f1ac",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/ee7d79f1-9838-40f2-bd7c-eaf197d0c5f8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-08/4c51b1d2-e756-4994-976c-a45456cb2f0areisendenkarte_20250708-221153.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-08/4c51b1d2-e756-4994-976c-a45456cb2f0areisendenkarte_20250708-221153.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.07.2025 22:11:53",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -872,17 +835,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "08.07.2025 21:37",
-      "expand": false,
+      "lastModified": "08.07.2025 22:15",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/31675473-838f-4fa1-a0f0-cbe8b0a3b3bd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+      "detailPagePath": "/service/fahrplaene/2a2032fe-d754-4fe2-964e-19271823d529",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "5f123ed9-257b-4d49-b2d6-717d03b737fa",
@@ -892,9 +885,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 2 Abweichende Linienführung: Reparatur an einer Weiche",
-      "summary": "Die S-Bahnen der Linie S 2 werden umgeleitet.",
-      "text": "<p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 wird zwischen <strong>Riem </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Obermenzing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S2 verkehrt zwischen <strong>Obermenzing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Riem </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S4, S6, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S4, S6</strong></li></ul></li></ul><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "Endmeldung: S 2 Regelweg",
+      "summary": "Die Linie S 2 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke.",
+      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
       "durationBegin": "08.07.2025",
       "durationEnd": "08.07.2025",
       "mapHref": "https://karte.bahn.de/detail/49e2ad98-d79b-4bbf-8f16-e91a76ebbe3e",
@@ -914,7 +907,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.07.2025 21:27",
+      "lastModified": "08.07.2025 22:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
