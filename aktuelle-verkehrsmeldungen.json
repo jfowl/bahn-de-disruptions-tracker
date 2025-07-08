@@ -371,61 +371,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity1"
     },
     {
-      "id": "a41da295-27d6-42b1-a112-cedd56fd6f7d",
-      "disruptionId": "b214d881-ee44-4d9b-99d8-e6f88cabe6a4",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Fahrtabweichungen auf den Linien S6, S60 und S62. Grund: Signalstörung Korntal.",
-      "summary": "Aktuell kommt es im S-Bahnverkehr der Linien S6, S60 und S62 auf der Strecke zwischen Korntal und Zuffenhausen zu Verspätungen und Ausfällen. Grund hierfür ist ein defektes Signal in diesem Bereich, weshalb die S-Bahnen nicht mehr wie gewohnt dort verkehren können.",
-      "text": "<p>Bitte achten Sie auch auf Lautsprecheransagen und Anzeigen an den Bahnsteigen und prüfen Ihre Reiseverbindung in den elektronischen Auskunftsmedien.</p>",
-      "durationBegin": "08.07.2025",
-      "durationEnd": "08.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/b214d881-ee44-4d9b-99d8-e6f88cabe6a4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-08/dc3014e0-c22e-41a0-8a22-48a2daef22c9reisendenkarte_20250708-070744.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-08/dc3014e0-c22e-41a0-8a22-48a2daef22c9reisendenkarte_20250708-070744.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.07.2025 07:07:44",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 60",
-          "filterName": "S 60 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 62",
-          "filterName": "S 62 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.07.2025 07:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a41da295-27d6-42b1-a112-cedd56fd6f7d",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -802,6 +747,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "0fce08a3-d4c4-4c07-9202-4aee283f473e",
+      "disruptionId": "8e53fb0b-59df-463b-acdf-a22a18b63c3f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verspätung eines vorausfahrenden Zuges"
+      },
+      "headline": "Stammstrecke: Zugfolgeverspätung",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund dafür ist die Zugfolge in der Stammstrecke. </p>",
+      "durationBegin": "08.07.2025",
+      "durationEnd": "08.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/8e53fb0b-59df-463b-acdf-a22a18b63c3f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.07.2025 08:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0fce08a3-d4c4-4c07-9202-4aee283f473e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
