@@ -598,14 +598,14 @@
       },
       "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einem Signal",
       "summary": "Zwischen Markt Schwaben und Erding sind weiterhin keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Erding fahren bis Markt Schwaben und wenden dort vorzeitig.</p><p><strong>Wir haben für Sie einen Ersatzverkehr mit Busse zwischen Markt Schwaben und Erding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</strong></p><p></p><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "text": "<p>Die S-Bahnen in Richtung Erding fahren bis Markt Schwaben und wenden dort vorzeitig.</p><p><strong>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Taxis zwischen Markt Schwaben und Erding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</strong></p><p></p><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "09.07.2025",
       "durationEnd": "09.07.2025",
       "mapHref": "https://karte.bahn.de/detail/9ceb559f-509d-42fe-92ef-5d9e74558ae4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-09/a1d58004-df57-4da7-8ac7-93c3f7e5482freisendenkarte_20250709-014154.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-09/a1d58004-df57-4da7-8ac7-93c3f7e5482freisendenkarte_20250709-014154.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-09/d96528ee-28ce-4391-bea3-c030762d5a6ereisendenkarte_20250709-014154.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-09/d96528ee-28ce-4391-bea3-c030762d5a6ereisendenkarte_20250709-014154.png",
           "info": "",
           "alt": "Reisendenkarte 09.07.2025 01:41:54",
           "openInNewTab": true
@@ -626,7 +626,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.07.2025 09:10",
+      "lastModified": "09.07.2025 11:41",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -792,6 +792,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "67080378-9d57-4558-90c8-f7aef0f286c1",
+      "disruptionId": "689868eb-adc9-4524-8535-3560e6ecdd34",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "S1 und S3: Aktuell fahren keine Züge über Jungfernstieg.",
+      "summary": "Aktuell werden alle Züge derS1 und S3 über Dammtor umgeleitet. Grund: Feuerwehreinsatz. Die S3 hält nicht in Altona.",
+      "text": "<p></p>",
+      "durationBegin": "09.07.2025",
+      "durationEnd": "09.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/689868eb-adc9-4524-8535-3560e6ecdd34",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.07.2025 11:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/67080378-9d57-4558-90c8-f7aef0f286c1",
+      "magnoliaPath": "/aktuell/nord/detour_police_activity"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
