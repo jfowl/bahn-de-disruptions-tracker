@@ -902,9 +902,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "Stammstrecke: S 6 , S 8 Abweichende Linienführung: Reparatur an einer Weiche",
+      "headline": "Stammstrecke: Abweichende Linienführung: Reparatur an einer Weiche",
       "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen und Umleitungen.",
-      "text": "<p><strong>Die S-Bahnen der Linien S 2, S 4, S 6, S 7, S 5, S 3 verkehren wieder auf dem Regelweg.</strong></p><p>Die S-Bahnen der Linie S 1 und S 8 fahren wie folgt abweichend der regulären Linienführung.</p><p><strong>S 1 Flughafen / Freising ↔ Leuchtenbergring</strong></p><p>Die Linie S1 fährt zwischen Hauptbahnhof (Gleise 27-36) ↔ Freising/Flughafen und hält nicht zwischen Hauptbahnhof ↔ Moosach.&nbsp;</p><p><strong>Alternativen</strong>:&nbsp;</p><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong>&nbsp;</li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong>&nbsp;</li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong>&nbsp;Daglfing&nbsp;</strong>→&nbsp;<strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Pasing&nbsp;</strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt&nbsp;<strong>Leuchtenbergring&nbsp;</strong>entfällt.&nbsp;</li><li>Die S8 verkehrt zwischen&nbsp;<strong>Pasing&nbsp;</strong>→&nbsp;<strong>Ostbahnhof&nbsp;</strong>→&nbsp;<strong>Daglfing&nbsp;</strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li>Ostbahnhof ↔ Leuchtenbergring ↔ Berg am Laim:&nbsp;<strong>S2</strong>,&nbsp;<strong>S4</strong></li></ul><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "text": "<p><strong>Die S-Bahnen der Linien S 1, S 2, S 4, S 6, S 7, S 5, S 3 verkehren wieder auf dem Regelweg.</strong></p><p>Die Linie S 8 verkehrt weiterhin wie folgt abweichend der regulären Linienführung.</p><p></p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong>&nbsp;Daglfing&nbsp;</strong>→&nbsp;<strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Pasing&nbsp;</strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt&nbsp;<strong>Leuchtenbergring&nbsp;</strong>entfällt.&nbsp;</li><li>Die S8 verkehrt zwischen&nbsp;<strong>Pasing&nbsp;</strong>→&nbsp;<strong>Ostbahnhof&nbsp;</strong>→&nbsp;<strong>Daglfing&nbsp;</strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li>Ostbahnhof ↔ Leuchtenbergring ↔ Berg am Laim:&nbsp;<strong>S2</strong>,&nbsp;<strong>S4, S6</strong></li></ul><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "10.07.2025",
       "durationEnd": "10.07.2025",
       "mapHref": "https://karte.bahn.de/detail/baf96c16-7b32-42dd-9ea6-0b0072be3176",
@@ -924,12 +924,37 @@
           "property": "SBAHN"
         },
         {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.07.2025 12:25",
+      "lastModified": "10.07.2025 12:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
