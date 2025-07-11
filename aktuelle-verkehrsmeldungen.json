@@ -284,29 +284,37 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 3 Olching: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Olching sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen. </p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "S 3 Lochhausen ↔ Mammendorf: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Lochhausen und Mammendorf sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen in Richtung Mammendorf fahren bis Lochhausen und wenden dort vorzeitig.</p><p><strong>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Lochhausen und Mammendorf eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</strong></p><p> Bitte rechnen Sie mit Verspätungen .</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "11.07.2025",
       "durationEnd": "11.07.2025",
       "mapHref": "https://karte.bahn.de/detail/2872072b-c686-4e60-b760-be8462db79b6",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/5def6afa-6da9-4d81-858b-dc515a8dd04dreisendenkarte_20250711-182352.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/5def6afa-6da9-4d81-858b-dc515a8dd04dreisendenkarte_20250711-182352.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.07.2025 18:23:52",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "11.07.2025 17:47",
+      "lastModified": "11.07.2025 18:25",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -875,25 +883,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "eb199a45-bd49-4672-8af2-51390b5f16a2",
-      "disruptionId": "7df244b1-c350-4dfc-a942-6e824e5f95b8",
+      "id": "01d7ffdb-f740-4628-a8b0-a281b9c7568a",
+      "disruptionId": "732c3e14-abc2-47ec-9d50-f05a8c7cbec1",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke: Polizeieinsatz beendet",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
+      "headline": "S 6 Grafing Bahnhof → Ebersberg: Reparatur an einem Signal",
+      "summary": "Zwischen Grafing Bahnhof und Ebersberg kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "11.07.2025",
       "durationEnd": "11.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/7df244b1-c350-4dfc-a942-6e824e5f95b8",
+      "mapHref": "https://karte.bahn.de/detail/732c3e14-abc2-47ec-9d50-f05a8c7cbec1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/c59ed939-1661-4466-a676-bdd0b8ca6ef9reisendenkarte_20250711-161631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/c59ed939-1661-4466-a676-bdd0b8ca6ef9reisendenkarte_20250711-161631.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/85dd5fa8-d479-418e-b35d-64da0e639644reisendenkarte_20250711-181454.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-11/85dd5fa8-d479-418e-b35d-64da0e639644reisendenkarte_20250711-181454.png",
           "info": "",
-          "alt": "Reisendenkarte 11.07.2025 16:16:31",
+          "alt": "Reisendenkarte 11.07.2025 18:14:54",
           "openInNewTab": true
         }
       ],
@@ -907,47 +915,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "11.07.2025 17:44",
+      "lastModified": "11.07.2025 18:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eb199a45-bd49-4672-8af2-51390b5f16a2",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
+      "detailPagePath": "/service/fahrplaene/01d7ffdb-f740-4628-a8b0-a281b9c7568a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section17"
     },
     {
       "id": "3591f877-472d-4bd6-a1e3-109be2f65af9",
