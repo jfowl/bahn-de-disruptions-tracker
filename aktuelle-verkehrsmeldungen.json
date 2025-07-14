@@ -307,8 +307,8 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 2  Markt Schwaben ↔ Erding: Reparatur an einem Signal",
-      "summary": "Zwischen Markt Schwaben und Erding sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Riem.</p><p>Ein Ersatzverkehr zwischen Riem und Erding ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Zwischen Markt Schwaben und Erding sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Riem.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Riem und Erding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "15.07.2025",
       "durationEnd": "15.07.2025",
       "mapHref": "https://karte.bahn.de/detail/2e24f0d8-20a7-4b03-a4d8-47bbf374d363",
@@ -328,8 +328,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.07.2025 00:48",
-      "expand": false,
+      "lastModified": "15.07.2025 01:14",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/94d766c8-15b9-4827-bf37-c2a18c3e94d5",
@@ -826,6 +826,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "1025f4cb-6c82-426c-904f-579d5bda77d8",
+      "disruptionId": "c96a9f23-392d-4b7a-9e56-f15156b4ff20",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1: Reparatur an einer Weiche",
+      "summary": "Derzeit kommt es auf der Linie S 1 in beiden Richtungen zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche in Feldmoching.</p>",
+      "durationBegin": "15.07.2025",
+      "durationEnd": "15.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/c96a9f23-392d-4b7a-9e56-f15156b4ff20",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.07.2025 01:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1025f4cb-6c82-426c-904f-579d5bda77d8",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
