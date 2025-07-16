@@ -254,10 +254,18 @@
       },
       "headline": "Beeinträchtigungen zwischen Fulda und Hanau",
       "summary": "Aufgrund von Oberbaumangel ist die Strecke zwischen Fulda und Hanau derzeit nur eingeschränkt verfügbar. Dadurch kommt es zu Verspätungen im Fernverkehr der Deutschen Bahn von bis zu 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg – Frankfurt (M) – Frankfurt (M) Flugh Fernbf (– Stuttgart)</li><li>Leipzig – Erfurt – Frankfurt (M) – Mannheim – Stuttgart – München) </li><li>Braunschweig – Frankfurt (M) – Mannheim – Basel – Interlaken</li><li>Berlin – Halle (S) – Erfurt – Frankfurt (M)</li><li>Wiesbaden – Frankfurt (M) – Erfurt – Leipzig – Dresden</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg – Frankfurt (M) – Frankfurt (M) Flugh Fernbf (– Stuttgart)</li><li>Leipzig – Erfurt – Frankfurt (M) – Mannheim – Stuttgart (– München)</li><li>Braunschweig – Frankfurt (M) – Mannheim – Basel – Interlaken</li><li>Berlin – Halle (S) – Erfurt – Frankfurt (M)</li><li>Wiesbaden – Frankfurt (M) – Erfurt – Leipzig – Dresden</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "16.07.2025",
       "mapHref": "https://karte.bahn.de/detail/8a72391d-3253-4831-874f-080f3434635a",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-16/fd4331a8-b8e9-4c67-a262-aeab529975c3reisendenkarte_20250716-112947.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-16/fd4331a8-b8e9-4c67-a262-aeab529975c3reisendenkarte_20250716-112947.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.07.2025 11:29:47",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -273,7 +281,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "16.07.2025 09:47",
+      "lastModified": "16.07.2025 11:32",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0b5069b8-73f7-4af9-8dd9-d8ecbd446049",
@@ -667,6 +675,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "e4570b1e-c119-4eb5-ae19-09ba8c7a1075",
+      "disruptionId": "255fbea7-14c3-4024-9490-a6e26ee5aee3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
+      },
+      "headline": "Alle Linien: Aktuell sind die Bahnsteiganzeiger außer Betrieb. Bitte achten Sie in der Zeit auf die Anzeigen und Ansagen an und in den Zügen. ",
+      "summary": "Bitte achten Sie in auf die Anzeigen und Ansagen an und in den Zügen. ",
+      "text": "<p>...</p>",
+      "durationBegin": "16.07.2025",
+      "durationEnd": "16.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/255fbea7-14c3-4024-9490-a6e26ee5aee3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.07.2025 11:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e4570b1e-c119-4eb5-ae19-09ba8c7a1075",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_it"
     },
     {
       "id": "4972114c-39c8-4d27-a2df-5f4c49f57c78",
