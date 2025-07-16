@@ -840,56 +840,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "27d4a2cb-0aa3-427a-b693-856516c05ec4",
-      "disruptionId": "6b640950-e67c-4d2e-b28a-e3bf37e11ef3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 4, S 6 Haar ↔ Trudering",
-      "summary": "Zwischen Haar und Trudering kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal dauert noch an.</p>",
-      "durationBegin": "16.07.2025",
-      "durationEnd": "16.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/6b640950-e67c-4d2e-b28a-e3bf37e11ef3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-16/690e8d5a-67fd-4bcf-bd95-dd7749b61dcereisendenkarte_20250716-053813.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-16/690e8d5a-67fd-4bcf-bd95-dd7749b61dcereisendenkarte_20250716-053813.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.07.2025 05:38:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.07.2025 08:51",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/27d4a2cb-0aa3-427a-b693-856516c05ec4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
       "id": "9ef5773f-acb7-4028-80e0-87645113d448",
       "disruptionId": "70b64144-a275-4dab-9935-15b18613d5a6",
       "author": "REGIO_BW",
@@ -898,14 +848,14 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "Beeinträchtigungen in Rottenburg(Neckar)",
-      "summary": "Über die Dauer der Störung liegen uns leider noch keine Informationen vor. Der Grund ist die Reparatur an einem Signal. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ab ca. 8:45 Uhr haben wir einen Ersatzverkehr mit Bus zwischen Tübingen Hbf und Horb im Pendelverkehr für Sie eingerichtet.",
+      "summary": "Über die Dauer der Störung liegen uns leider noch keine Informationen vor. Der Grund ist die Reparatur an einem Signal. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit Bussen zwischen Tübingen Hbf und Horb im Pendelverkehr für Sie eingerichtet.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "16.07.2025",
       "mapHref": "https://karte.bahn.de/detail/70b64144-a275-4dab-9935-15b18613d5a6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-16/52879e68-c7b3-4dea-8bef-28171449ee62reisendenkarte_20250716-080442.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-16/52879e68-c7b3-4dea-8bef-28171449ee62reisendenkarte_20250716-080442.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-16/173a7dcb-db0f-4870-bbfa-7a5d68d6cbd9reisendenkarte_20250716-080442.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-16/173a7dcb-db0f-4870-bbfa-7a5d68d6cbd9reisendenkarte_20250716-080442.png",
           "info": "",
           "alt": "Reisendenkarte 16.07.2025 08:04:42",
           "openInNewTab": true
@@ -936,11 +886,78 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.07.2025 08:18",
+      "lastModified": "16.07.2025 09:18",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/9ef5773f-acb7-4028-80e0-87645113d448",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "257b168e-f9e6-49f7-83ad-bff39e304f01",
+      "disruptionId": "36374e8d-a8b6-4ac6-8050-c76bbf9f2965",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Stammstrecke Vorangegangene technische Störung an einem Zug",
+      "summary": "Im Bereich der Stammstrecke kommt es zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine vorangegangene technische Störung am Zug.</p>",
+      "durationBegin": "16.07.2025",
+      "durationEnd": "16.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/36374e8d-a8b6-4ac6-8050-c76bbf9f2965",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.07.2025 09:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/257b168e-f9e6-49f7-83ad-bff39e304f01",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
