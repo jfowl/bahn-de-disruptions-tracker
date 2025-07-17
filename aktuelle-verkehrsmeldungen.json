@@ -252,16 +252,23 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Nächtliche Baumaßnahme nicht beendet. Fahrtabweichungen auf den Linien S4, S5, S6/S60. S62 bis auf weiteres im Ausfall.",
-      "summary": "Verzögerungen beim beenden von nächtlichen Baumaßnahmen im Gleisvorfeld des Stuttgarter Hbf. Der Regional- und Fernverkehr werden über das S-Bahngleis in Richtung Zuffenhausen umgeleitet. In der Folge kommt es bei den Linien S4, S5 sowie S6 und S60 zu einem Rückstau mit Verspätungen und einzelnen Zugausfällen. Die Linie S62 bis auf weiteres im Ausfall.",
+      "headline": "Nächtliche Baumaßnahme nicht beendet. Fahrtabweichungen auf allen Linien im Innerstädtischen S-Bahnverkehrauf. S62 bis auf weiteres im Ausfall.",
+      "summary": "Verzögerungen beim beenden von nächtlichen Baumaßnahmen im Gleisvorfeld des Stuttgarter Hbf. Der Regional- und Fernverkehr werden über das S-Bahngleis in Richtung Zuffenhausen umgeleitet. In der Folge kommt es auf allen Linien im Innerstädtischen S-Bahnverkehr zu einem Rückstau mit Verspätungen und Zugausfällen. Die Linie S62 ist bis auf weiteres im Ausfall. ",
       "text": "<p>Eine aktuelle Prognose zur Fehlerbehebung liegt uns derzeitig nicht vor. Bitte achten Sie auch auf Lautsprecheransagen und Anzeigen an den Bahnsteigen und prüfen Ihre Reiseverbindung in den elektronischen Auskunftsmedien.</p>",
       "durationBegin": "17.07.2025",
       "durationEnd": "17.07.2025",
       "mapHref": "https://karte.bahn.de/detail/9838523c-a438-4ac8-b3a6-9fdb3e29a3b3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/871d9c23-55cd-4c0e-9be5-3c9dca9de606reisendenkarte_20250717-065635.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/871d9c23-55cd-4c0e-9be5-3c9dca9de606reisendenkarte_20250717-065635.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/40152d2b-dac9-471e-9555-3f3585213ad4reisendenkarte_20250717-082117.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/40152d2b-dac9-471e-9555-3f3585213ad4reisendenkarte_20250717-082117.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.07.2025 08:21:17",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/98786b2e-c540-47f8-8e5e-386eaa190c53reisendenkarte_20250717-065635.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-17/98786b2e-c540-47f8-8e5e-386eaa190c53reisendenkarte_20250717-065635.png",
           "info": "",
           "alt": "Reisendenkarte 17.07.2025 06:56:35",
           "openInNewTab": true
@@ -270,19 +277,49 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BW"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "17.07.2025 06:58",
+      "lastModified": "17.07.2025 08:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -875,6 +912,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "701c9a9c-3f75-480a-a5b4-385f0b399795",
+      "disruptionId": "a37477a9-d283-45df-84b8-dbaaf0137d96",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Feldmoching: Reparatur an einem Signal",
+      "summary": "Im Bereich Feldmoching kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "17.07.2025",
+      "durationEnd": "17.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/a37477a9-d283-45df-84b8-dbaaf0137d96",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-17/71763723-4afd-45f6-ab90-c709417bd1bareisendenkarte_20250717-075435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-17/71763723-4afd-45f6-ab90-c709417bd1bareisendenkarte_20250717-075435.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.07.2025 07:54:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.07.2025 07:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/701c9a9c-3f75-480a-a5b4-385f0b399795",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
