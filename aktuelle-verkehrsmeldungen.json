@@ -904,47 +904,46 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "fb7b4d8c-d3f3-452a-b7be-7d1cf9d04bce",
-      "disruptionId": "2ed01350-b7ab-4b4c-823a-57282755dbb3",
-      "author": "FERNVERKEHR_AG",
+      "id": "1a821f3a-6b7e-49e2-b1e8-eeffcfc6770b",
+      "disruptionId": "0c698287-fdcc-4e26-9f33-ce471522d683",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigung zwischen Frankfurt(Main) und Fulda bzw. Kassel",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hanau und Fulda kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen von ca. 40 Minuten sowie zu Teilausfällen von Zügen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Berlin - Kassel - Frankfurt(Main)Flughafen fallen zwischen Fulda und Frankfurt Flughafen Fernbf aus</li><li>ICE-Züge Dresden - Leipzig - Erfurt - Frankfurt(Main) - Wiesbaden fallen zwischen Frankfurt(Main)Hbf und Wiesebaden aus</li><li>Alle ICE-Züge, die zwischen Kassel, Fulda bzw. Erfurt und Frankfurt(Main) verkehren, werden umgeleitet und verspäten sich um etwa 40 Minuten</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong> Zwischen Frankfurt(Main)Hbf, Mainz und Wiesbaden verkehren Züge des Regionalverkehrs sowie der S-Bahn.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden am heutigen Freitag, 18.07.2025 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "S 1, S 8 Flughafen: Reparatur an einem Signal",
+      "summary": "Im Bereich Flughafen kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "18.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/2ed01350-b7ab-4b4c-823a-57282755dbb3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-18/76fec83c-7f4a-43b7-a611-3a51f43e4168reisendenkarte_20250718-151344.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-18/76fec83c-7f4a-43b7-a611-3a51f43e4168reisendenkarte_20250718-151344.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.07.2025 15:13:44",
-          "openInNewTab": true
-        }
-      ],
+      "durationEnd": "18.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/0c698287-fdcc-4e26-9f33-ce471522d683",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "18.07.2025 15:21",
+      "lastModified": "18.07.2025 16:53",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/fb7b4d8c-d3f3-452a-b7be-7d1cf9d04bce",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1a821f3a-6b7e-49e2-b1e8-eeffcfc6770b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "e81e7dc1-d824-4995-84a3-a7b1266dafd8",
