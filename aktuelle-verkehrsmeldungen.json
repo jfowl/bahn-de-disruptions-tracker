@@ -321,56 +321,6 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_vehicle"
     },
     {
-      "id": "4b017a46-57de-4ce7-ad1d-0f4398a59f1d",
-      "disruptionId": "25e4595c-b7bc-4556-b94c-ffe8a15bc989",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: S 4, S 6",
-      "summary": "Die Sperrung des Bahnhofs Trudering wurde aufgehoben. Die Züge der Linie S 4, S 6 fahren wieder auf dem Regelweg. \n\nEs kommt zu Verspätungen, Umleitungen und Teilausfällen.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "18.07.2025",
-      "durationEnd": "18.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/25e4595c-b7bc-4556-b94c-ffe8a15bc989",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-18/064c9891-fc5b-4770-b28e-a1d781fa7618reisendenkarte_20250718-130357.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-18/064c9891-fc5b-4770-b28e-a1d781fa7618reisendenkarte_20250718-130357.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.07.2025 13:03:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.07.2025 13:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4b017a46-57de-4ce7-ad1d-0f4398a59f1d",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -907,6 +857,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "38e1a0f9-0e7d-4529-9f1c-f58129e7a9c3",
+      "disruptionId": "56163839-84dc-48f7-911c-46e95f6768c8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 6 Starnberg ↔ Tutzing: Reparatur an der Strecke",
+      "summary": "Zwischen Starnberg und Tutzing kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "18.07.2025",
+      "durationEnd": "18.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/56163839-84dc-48f7-911c-46e95f6768c8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.07.2025 14:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/38e1a0f9-0e7d-4529-9f1c-f58129e7a9c3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section14"
+    },
+    {
+      "id": "e81e7dc1-d824-4995-84a3-a7b1266dafd8",
+      "disruptionId": "8d1fc735-f45f-49f9-ab67-69265fbed6ab",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Dresden-Neustadt ⇄ Nünchritz - Umleitungen",
+      "summary": "Die Strecke zischen Dresden-Neustadt und Nünchritz ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 18.07.2025 17 Uhr. Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 50 Leipzig – Riesa – Dresden</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Umleitung der Züge zwischen Dresden-Neustadt und Nünchritz ohne Halt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "18.07.2025",
+      "durationEnd": "18.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/8d1fc735-f45f-49f9-ab67-69265fbed6ab",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-07-18/5dbfa876-4d5c-429f-bf8c-6025c72bb1a0reisendenkarte_20250718-143412.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-07-18/5dbfa876-4d5c-429f-bf8c-6025c72bb1a0reisendenkarte_20250718-143412.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.07.2025 14:34:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.07.2025 14:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e81e7dc1-d824-4995-84a3-a7b1266dafd8",
+      "magnoliaPath": "/aktuell/suedost/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
