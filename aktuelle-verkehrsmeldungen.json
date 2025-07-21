@@ -49,43 +49,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "d34d65d4-7ba3-4f7d-8720-bb2a216299d0",
-      "disruptionId": "894b95f4-4a4c-4034-82c1-81639b13a729",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg und Hannover",
-      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Hamburg und Hannover kommt es derzeit zu Beeinträchtigungen und Umleitungen im Fernverkehr der Deutschen Bahn. Es kann zu Verspätungen von ca. 20 Minuten kommen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge zwischen Hamburg und Hannover</li><li>NJ-Züge zwischen Hamburg und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/894b95f4-4a4c-4034-82c1-81639b13a729",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.07.2025 18:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/d34d65d4-7ba3-4f7d-8720-bb2a216299d0",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "2624069c-af10-4c52-9fc4-01ac04ef2691",
       "disruptionId": "4ce07be8-3cc0-473c-b705-efa74532b3a2",
       "author": "REGIO_MITTE",
@@ -822,6 +785,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5b0b94e0-ecc8-4384-911b-fe537c584c5a",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "b2b46020-fdc5-440c-ab14-15aabb5a1775",
+      "disruptionId": "2fd60753-03f3-4eda-9416-08efc685efca",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "21.07.2025",
+      "durationEnd": "21.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/2fd60753-03f3-4eda-9416-08efc685efca",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-21/ec08f4bd-548b-46c4-ae11-184e23d72a88reisendenkarte_20250721-211349.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-21/ec08f4bd-548b-46c4-ae11-184e23d72a88reisendenkarte_20250721-211349.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.07.2025 21:13:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.07.2025 21:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b2b46020-fdc5-440c-ab14-15aabb5a1775",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
