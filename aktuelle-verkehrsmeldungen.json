@@ -49,6 +49,43 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "d34d65d4-7ba3-4f7d-8720-bb2a216299d0",
+      "disruptionId": "894b95f4-4a4c-4034-82c1-81639b13a729",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Hamburg und Hannover",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Hamburg und Hannover kommt es derzeit zu Beeinträchtigungen und Umleitungen im Fernverkehr der Deutschen Bahn. Es kann zu Verspätungen von ca. 20 Minuten kommen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge zwischen Hamburg und Hannover</li><li>NJ-Züge zwischen Hamburg und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/894b95f4-4a4c-4034-82c1-81639b13a729",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.07.2025 18:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d34d65d4-7ba3-4f7d-8720-bb2a216299d0",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "2624069c-af10-4c52-9fc4-01ac04ef2691",
       "disruptionId": "4ce07be8-3cc0-473c-b705-efa74532b3a2",
       "author": "REGIO_MITTE",
@@ -606,58 +643,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b6c37895-c52d-4682-a143-61f40244a9c2",
       "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause2"
-    },
-    {
-      "id": "e1bc46b7-d80c-4b85-8fd5-ae40fb143c0f",
-      "disruptionId": "3d732aa3-a0e0-45b7-a6c6-e2306d014c84",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Linie  S 7 vom 24.Juli 2025 ( 21:40 Uhr) bis 25. Juli 2025 (2:40 Uhr)",
-      "summary": "Wegen Gleis- und Brückenarbeiten verkehrt die Linie S7 nach der Baustellen Fahrplan, bitte informiert euch.\n",
-      "text": "<p>Wegen Instandhaltungsarbeiten kommt es vom 24.Juli 2025 ab ca. 21:40 Uhr bis 25. Juli 2025 ca. 2:40 Uhr zwischen Hauptbahnhof und Wolfratshausen zu Fahrplanänderungen mit geänderten Abfahrtszeiten, Haltausfällen und Ersatzverkehr.</p><ul><li>Es verkehren zusätzliche S-Bahnen zwischen Höllriegelskreuth und Wolfratshausen, sowie ergänzend Ersatzbusse zwischen Harras und Höllriegelskreuth. Die Ersatzbusse fahren am Harras in der Albert-Roßhaupter-Straße abweichend an der&nbsp;Halteposition Nr. 6&nbsp;ab.</li><li>Aufgrund von Straßenarbeiten in Solln ist die Ersatzhaltestelle in Richtung Innenstadt in die Sollner Straße, Höhe Hausnummer 65 verlegt.</li></ul><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "24.07.2025",
-      "durationEnd": "25.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/3d732aa3-a0e0-45b7-a6c6-e2306d014c84",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-21/7556fb79-29ba-423a-af62-73e0cf146edareisendenkarte_20250705-122156.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-21/7556fb79-29ba-423a-af62-73e0cf146edareisendenkarte_20250705-122156.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.07.2025 12:21:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-21/9d047088-2d88-4f63-9011-53942bc64816Fahrplan%2BS7%2B24.-25.7..pdf",
-          "label": "S7 Fahrplan Hauptbahnhof <> Wolfratshausen S7 24.-25.juli 2025",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2025 17:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e1bc46b7-d80c-4b85-8fd5-ae40fb143c0f",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_construction0"
     },
     {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
