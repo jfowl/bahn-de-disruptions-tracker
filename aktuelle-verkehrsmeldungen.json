@@ -248,6 +248,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "9e982675-34f4-438a-bb6a-3f7752e8b659",
+      "disruptionId": "4b665891-d3e7-4587-b5bf-268ecece5740",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 2 Feldkirchen ↔ Mark Schwaben",
+      "summary": "Die Züge können wieder zwischen Feldkirchen und Mark Schwaben fahren.",
+      "text": "<p>Es kann noch zu Folgeverspätungen und Teilausfällen kommen.</p><p>Die Reparatur an einem Signal in Markt Schwaben besteht noch weiterhin.</p>",
+      "durationBegin": "23.07.2025",
+      "durationEnd": "23.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/4b665891-d3e7-4587-b5bf-268ecece5740",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/7ac80acf-a673-429a-bb62-b3ea5dfe0599reisendenkarte_20250723-092815.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/7ac80acf-a673-429a-bb62-b3ea5dfe0599reisendenkarte_20250723-092815.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.07.2025 09:28:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.07.2025 10:30",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9e982675-34f4-438a-bb6a-3f7752e8b659",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -317,51 +362,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cf736c32-8918-44e7-bec9-6bf6996377f4",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "9e982675-34f4-438a-bb6a-3f7752e8b659",
-      "disruptionId": "4b665891-d3e7-4587-b5bf-268ecece5740",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Feldkirchen ↔ Mark Schwaben: Reparatur an einem Signal",
-      "summary": "Zwischen Feldkirchen und Mark Schwaben sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Feldkirchen.</p><p>Zwischen <strong>Markt Schwaben ↔ Erding </strong>verkehrt ein S-Bahn im Pendelverkehr mit planmäßigen Abfahrtszeiten.</p><p></p><p>Bitte rechnen Sie mit Verspätungen erheblichen Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "23.07.2025",
-      "durationEnd": "23.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/4b665891-d3e7-4587-b5bf-268ecece5740",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/972841ea-11ae-4ff9-bbfb-3bfb1f028c1breisendenkarte_20250723-092815.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/972841ea-11ae-4ff9-bbfb-3bfb1f028c1breisendenkarte_20250723-092815.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.07.2025 09:28:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.07.2025 09:32",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9e982675-34f4-438a-bb6a-3f7752e8b659",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "a87c34b6-4c51-49bc-954f-a37450c11a14",
@@ -533,19 +533,19 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
-      "disruptionId": "57316827-3ab3-4654-8397-bbe5996aa529",
-      "author": "S_BAHN_HH",
+      "id": "96737d53-c029-4f96-af3f-ae3ea8dc1c8a",
+      "disruptionId": "a8b551d8-768e-40ca-a874-b606c39de636",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "other_cause",
+        "label": "Verzögerung im Betriebsablauf"
       },
-      "headline": "S5: Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. ",
-      "summary": "Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. Grund: Technische Störung am Gleis. Nutzen Sie zwischen Neugraben und Buxtehude ersatzweise die Züge von und nach Stade. ",
-      "text": "<p> </p>",
+      "headline": "S 2 Dachau ↔ München Ost: Betriebsstabilisierung",
+      "summary": "heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li><ul><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:08 Uhr&nbsp;</li></ul></li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul></li></ul><p>Bitte beachten Sie, dass es heute Nachmittag zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Grund ist die Betriebsstabilisierung in Zusammenhang mit der Reparatur an einem Signal.</p>",
       "durationBegin": "23.07.2025",
       "durationEnd": "23.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/57316827-3ab3-4654-8397-bbe5996aa529",
+      "mapHref": "https://karte.bahn.de/detail/a8b551d8-768e-40ca-a874-b606c39de636",
       "images": [],
       "downloads": [],
       "links": [],
@@ -553,21 +553,21 @@
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.07.2025 09:05",
+      "lastModified": "23.07.2025 10:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/96737d53-c029-4f96-af3f-ae3ea8dc1c8a",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause1"
     },
     {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
@@ -685,8 +685,8 @@
       "mapHref": "https://karte.bahn.de/detail/b62ddac1-3cd8-4fa3-95cb-97b1e8489fe0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/954a1ba1-a8d9-43d1-95f8-3bd1cfd78844reisendenkarte_20250723-070438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/954a1ba1-a8d9-43d1-95f8-3bd1cfd78844reisendenkarte_20250723-070438.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/96b7ba6d-52db-4a68-98db-08766736c235reisendenkarte_20250723-070438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/96b7ba6d-52db-4a68-98db-08766736c235reisendenkarte_20250723-070438.png",
           "info": "",
           "alt": "Reisendenkarte 23.07.2025 07:04:38",
           "openInNewTab": true
@@ -707,7 +707,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.07.2025 08:56",
+      "lastModified": "23.07.2025 10:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
