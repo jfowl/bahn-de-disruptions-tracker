@@ -150,44 +150,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
-      "id": "83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
-      "disruptionId": "57316827-3ab3-4654-8397-bbe5996aa529",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S5: Technische Störung am Gleis beendet. Die S5 mit Start oder Ziel Buxtehude fährt wieder durch. ",
-      "summary": "Es ist kein Umstieg mehr erforderlich.",
-      "text": "<p>   </p>",
-      "durationBegin": "23.07.2025",
-      "durationEnd": "23.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/57316827-3ab3-4654-8397-bbe5996aa529",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.07.2025 10:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -284,6 +246,92 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "d1902887-260c-43de-998f-4b31b31684e8",
+      "disruptionId": "e6b03457-6a59-4ac7-96dc-422e081ea094",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hildesheim und Göttingen",
+      "summary": "Aufgrund einer Streckensperrung ist die Strecke zwischen Hildesheim und Göttingen derzeit nicht befahrbar. Dadurch kommt es zu Umleitungen mit Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE Züge werden zwischen Göttingen und Wolfsburg umgeleitet und halten nicht in Hildesheim und Braunschweig. Ersatzweise halten die Züge in Hannover Messe/Laatzen. Durch die Umleitung verspäten sich die Züge um etwa 20 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e6b03457-6a59-4ac7-96dc-422e081ea094",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-23/aa3c8322-9d2e-43c1-a681-905e294fc587reisendenkarte_20250723-113241.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-23/aa3c8322-9d2e-43c1-a681-905e294fc587reisendenkarte_20250723-113241.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.07.2025 11:32:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.07.2025 11:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d1902887-260c-43de-998f-4b31b31684e8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "3997a5e5-8e48-4bb1-b8a1-20ce571ec71e",
+      "disruptionId": "127b8984-f90d-484e-8d11-6aed8e19070d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Duisburg und Oberhausen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Duisburg und Oberhausen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen zwischen Duisburg und Gelsenkirchen. Der Halt in Oberhausen entfällt. Ersatzweise halten die Züge in Essen Hbf.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge auf dem Abschnitt zwischen Duisburg - Oberhausen - Münster(Westf)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: </p><ul><li>Von/nach Oberhausen nutzen Sie die verbleibenden Regionalverkehrszüge über Essen Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/127b8984-f90d-484e-8d11-6aed8e19070d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-23/6319edec-f296-4606-9b59-f5911967aeacreisendenkarte_20250723-112226.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-23/6319edec-f296-4606-9b59-f5911967aeacreisendenkarte_20250723-112226.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.07.2025 11:22:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.07.2025 11:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3997a5e5-8e48-4bb1-b8a1-20ce571ec71e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -672,14 +720,14 @@
       },
       "headline": "S 6 Tutzing: Reparatur an einer Weiche",
       "summary": "Aktuell ist kein S-Bahn verkehr zwischen Starnberg und Tutzing möglich.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Großraumtaxis zwischen Starnberg und Tutzing eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche bei Starnberg.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bus und Großraumtaxis zwischen Starnberg und Tutzing eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche bei Starnberg.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
       "durationBegin": "23.07.2025",
       "durationEnd": "23.07.2025",
       "mapHref": "https://karte.bahn.de/detail/b62ddac1-3cd8-4fa3-95cb-97b1e8489fe0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/96b7ba6d-52db-4a68-98db-08766736c235reisendenkarte_20250723-070438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/96b7ba6d-52db-4a68-98db-08766736c235reisendenkarte_20250723-070438.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/8b1987a8-1728-4961-a160-4329946a0722reisendenkarte_20250723-070438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-23/8b1987a8-1728-4961-a160-4329946a0722reisendenkarte_20250723-070438.png",
           "info": "",
           "alt": "Reisendenkarte 23.07.2025 07:04:38",
           "openInNewTab": true
@@ -700,7 +748,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.07.2025 10:20",
+      "lastModified": "23.07.2025 11:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
