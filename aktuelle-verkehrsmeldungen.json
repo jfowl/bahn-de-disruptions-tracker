@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a133a216-a8fc-431c-ace2-cd8ef73e7a90",
+      "disruptionId": "dc3be8fc-2079-4520-a8f3-2af277642254",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Aktuell kommt es zu Einschränkungen und Ausfällen auf den Linien S3 und S5. Alle Informationen finden Sie auf s-bahn.hamburg.de",
+      "summary": "Der Grund ist ein Polizeieinsatz.",
+      "text": "<p>Die Züge der Linien S3 und S5 fahren nur zwischen Pinneberg/Elbgaustraße und Wilhelmsburg sowie zwischen Harburg Rathaus und Neugraben. Zwischen Wilhelmsburg und Stade wird ein Ersatzverkehr mit Bussen und Taxis eingerichtet.</p>",
+      "durationBegin": "24.07.2025",
+      "durationEnd": "24.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/dc3be8fc-2079-4520-a8f3-2af277642254",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2025 10:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a133a216-a8fc-431c-ace2-cd8ef73e7a90",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity2"
+    },
+    {
       "id": "2624069c-af10-4c52-9fc4-01ac04ef2691",
       "disruptionId": "4ce07be8-3cc0-473c-b705-efa74532b3a2",
       "author": "REGIO_MITTE",
@@ -538,6 +582,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "15c71314-e69d-4d4d-920c-b6a6ac220534",
+      "disruptionId": "5c702d6c-7f6a-48bb-8512-c1c161b94555",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verzögerung im Betriebsablauf"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Betriebsstabilisierung",
+      "summary": "heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:\n",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li><ul><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:08 Uhr&nbsp;</li></ul></li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul></li></ul><p>Bitte beachten Sie, dass es heute Nachmittag zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Grund ist die Betriebsstabilisierung in Zusammenhang mit der Reparatur an einem Signal.</p>",
+      "durationBegin": "24.07.2025",
+      "durationEnd": "24.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/5c702d6c-7f6a-48bb-8512-c1c161b94555",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2025 10:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/15c71314-e69d-4d4d-920c-b6a6ac220534",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause4"
+    },
+    {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
       "disruptionId": "b63c68a2-b271-490a-bc1f-c01874e18a2c",
       "author": "REGIO_MITTE",
@@ -636,6 +717,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
+    },
+    {
+      "id": "d9533348-3d8d-4275-86df-369e75264798",
+      "disruptionId": "2ea22e6e-19c4-4339-bf2a-6cdae9f82ec7",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Kein barrierefreier Zugang zu Gleis 3+4 am Hauptbahnhof / No barrier-free access to platform 3+4 at central station",
+      "summary": "Der Aufzug zu Gleis 3+4 am Hauptbahnhof ist außer Betrieb. Bitte fahren Sie zur nächsten Station und kehren Sie zurück, um den Aufzug an Gleis 1+2 zu nutzen. / Elevator to platform 3+4 at Hauptbahnhof out of service. Ride one stop ahead and return to use elevator at platform 1+2.",
+      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 3+4 am Hauptbahnhof ist derzeit nicht möglich.</strong></p><p>Bitte:</p><ul><li>Zur nächsten Station weiterfahren (z. B. Berliner Tor, Hammerbrook)</li><li>In die Gegenrichtung umsteigen und zurück zum Hauptbahnhof fahren (Einfahrt auf Gleis 1+2), dort funktioniert der Aufzug.</li></ul><p>Weitere Infos:&nbsp;www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 3+4 is currently unavailable.</strong></p><p>Please:</p><ul><li>Continue to the next station (e.g. Berliner Tor, Hammerbrook)</li><li>Switch directions and return to platform 1+2 at Hauptbahnhof (lift is in service).</li></ul><p>More info:&nbsp;www.hvv.de/en/lifts</p>",
+      "durationBegin": "24.07.2025",
+      "durationEnd": "25.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/2ea22e6e-19c4-4339-bf2a-6cdae9f82ec7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2025 10:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d9533348-3d8d-4275-86df-369e75264798",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
       "id": "5bb05889-ded4-487c-bc8f-30f63241191a",
