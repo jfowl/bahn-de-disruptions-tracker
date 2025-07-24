@@ -2,48 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "a133a216-a8fc-431c-ace2-cd8ef73e7a90",
-      "disruptionId": "dc3be8fc-2079-4520-a8f3-2af277642254",
-      "author": "S_BAHN_HH",
+      "id": "b253612c-478a-4211-bcc9-fa7645640273",
+      "disruptionId": "e12fbb68-48f1-48b7-a668-fa25a0b61556",
+      "author": "DEUTSCHE_BAHN",
       "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
+        "category": "strike",
+        "label": "Streik"
       },
-      "headline": "Polizeieinsatz beendet",
-      "summary": "S3 und S5 fahren wieder",
-      "text": "<p>Die Züge der Linien S3 und S5 fahren wieder auf der regulären Strecke. Der Ersatzverkehr läuft aus. Es kann noch zu Verspätungen kommen.</p>",
+      "headline": "Beeinträchtigungen aufgrund einer Streik",
+      "summary": "Beeinträchtigungen der Linien BusA zwischen Schwerin und Ludwigslust",
+      "text": "<p>Aufgrund einer Streik kommt es derzeit zwischen <strong>Schwerin Süd</strong> zu Massive Beeinträchtigung.</p><p>Auf der <strong>Linie BusA </strong>kommt es aktuell zu Verspätungen und Teilausfällen.</p><p>Weitere Informationen zu Verzögerungen und Ausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.WEBSEITE ERGÄNZEN.de&nbsp;sowie im DB Navigator.</p>",
       "durationBegin": "24.07.2025",
       "durationEnd": "24.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/dc3be8fc-2079-4520-a8f3-2af277642254",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/e12fbb68-48f1-48b7-a668-fa25a0b61556",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/nondb_ecovista/2025-07-24/d41a9eb4-d9cb-48f6-8797-a71c90a87b60reisendenkarte_20250724-112228.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/nondb_ecovista/2025-07-24/d41a9eb4-d9cb-48f6-8797-a71c90a87b60reisendenkarte_20250724-112228.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.07.2025 11:22:28",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
         "HH",
+        "BB",
+        "BE",
         "SH",
-        "NI"
+        "MV"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
+          "name": "Bus A",
+          "filterName": "Bus A",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.07.2025 10:49",
+      "lastModified": "24.07.2025 11:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a133a216-a8fc-431c-ace2-cd8ef73e7a90",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity2"
+      "detailPagePath": "/service/fahrplaene/b253612c-478a-4211-bcc9-fa7645640273",
+      "magnoliaPath": "/aktuell/massive_impairment_strike"
     },
     {
       "id": "2624069c-af10-4c52-9fc4-01ac04ef2691",
@@ -717,58 +722,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7d3b970c-e9e0-4734-a510-ce81c094de43",
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
-    },
-    {
-      "id": "d9533348-3d8d-4275-86df-369e75264798",
-      "disruptionId": "2ea22e6e-19c4-4339-bf2a-6cdae9f82ec7",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Kein barrierefreier Zugang zu Gleis 3+4 am Hauptbahnhof / No barrier-free access to platform 3+4 at central station",
-      "summary": "Der Aufzug zu Gleis 3+4 am Hauptbahnhof ist außer Betrieb. Bitte fahren Sie zur nächsten Station und kehren Sie zurück, um den Aufzug an Gleis 1+2 zu nutzen. / Elevator to platform 3+4 at Hauptbahnhof out of service. Ride one stop ahead and return to use elevator at platform 1+2.",
-      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 3+4 am Hauptbahnhof ist derzeit nicht möglich.</strong></p><p>Bitte:</p><ul><li>Zur nächsten Station weiterfahren (z. B. Berliner Tor, Hammerbrook)</li><li>In die Gegenrichtung umsteigen und zurück zum Hauptbahnhof fahren (Einfahrt auf Gleis 1+2), dort funktioniert der Aufzug.</li></ul><p>Weitere Infos:&nbsp;www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 3+4 is currently unavailable.</strong></p><p>Please:</p><ul><li>Continue to the next station (e.g. Berliner Tor, Hammerbrook)</li><li>Switch directions and return to platform 1+2 at Hauptbahnhof (lift is in service).</li></ul><p>More info:&nbsp;www.hvv.de/en/lifts</p>",
-      "durationBegin": "24.07.2025",
-      "durationEnd": "25.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/2ea22e6e-19c4-4339-bf2a-6cdae9f82ec7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.07.2025 10:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d9533348-3d8d-4275-86df-369e75264798",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
       "id": "5bb05889-ded4-487c-bc8f-30f63241191a",
