@@ -58,51 +58,6 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction"
     },
     {
-      "id": "f621d497-331f-4a6f-b25d-af127e6e7532",
-      "disruptionId": "f4d791c6-4dc0-4fd9-8edc-952d94f2e433",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Osnabrück über Bremen",
-      "summary": "Ein Baum im Gleis auf der Strecke beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Hamburg und Osnabrück. Es kommt zu Umleitungen von Zügen und Haltausfällen. Einzelne Züge halten nicht in Bremen Hbf. Ersatzweise halten die Züge in Kirchweyhe.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, EC- und IC-Züge, die zwischen Hamburg und Osnabrück verkehren</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Kirchweyhe und Bremen Hbf verkehren die Züge der Regionalexpress Linie RE 9 sowie die S-Bahn der Linie RS2.</p><p>Die Behebung der Störung soll vsl. bis in die Abendstunden am heutigen 24.07.2025 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/f4d791c6-4dc0-4fd9-8edc-952d94f2e433",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-24/2e46e34b-d4e0-4625-a0f9-e4c1d0741a8dreisendenkarte_20250724-141017.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-24/2e46e34b-d4e0-4625-a0f9-e4c1d0741a8dreisendenkarte_20250724-141017.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.07.2025 14:10:17",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.07.2025 14:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f621d497-331f-4a6f-b25d-af127e6e7532",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
-    },
-    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -820,6 +775,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "9c65ab96-9819-4470-a91a-3892e9a5b29d",
+      "disruptionId": "a3284940-74c0-4fd7-a304-5db573b49299",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 7: Technischer Defekt an einem Bahnübergang",
+      "summary": "Derzeit kommt es auf der Linie S 7 in beiden Richtungen zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Im Bereich Pullach verkehren die S-Bahnen mit reduzierter Geschwindigkeit.</p><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang in Pullach.</p>",
+      "durationBegin": "24.07.2025",
+      "durationEnd": "24.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/a3284940-74c0-4fd7-a304-5db573b49299",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2025 16:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c65ab96-9819-4470-a91a-3892e9a5b29d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+    },
+    {
+      "id": "a7039e8e-2a8a-4bc8-9749-c4a34c8dfb5e",
+      "disruptionId": "9277ef11-2653-4244-8613-da4cec7d9605",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 3 Deisenhofen: Reparatur an einer Weiche",
+      "summary": "Im Bereich Deisenhofen kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "24.07.2025",
+      "durationEnd": "24.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/9277ef11-2653-4244-8613-da4cec7d9605",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-24/f6f955f6-ddb4-46c1-904f-a26e5e0bf700reisendenkarte_20250724-163814.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-24/f6f955f6-ddb4-46c1-904f-a26e5e0bf700reisendenkarte_20250724-163814.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.07.2025 16:38:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2025 16:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a7039e8e-2a8a-4bc8-9749-c4a34c8dfb5e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
