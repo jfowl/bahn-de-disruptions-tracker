@@ -296,18 +296,18 @@
         "category": "weather_storm",
         "label": "Witterungsbedingte Beeinträchtigungen"
       },
-      "headline": "S 1 Moosach ↔ Leuchtenbergring: Witterungsbedingte Beeinträchtigungen",
-      "summary": "Zwischen Moosach und Leuchtenbergring sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Moosach.</p><p>&nbsp;<strong>Alternativen:</strong></p><ul><li>Bitte nutzen Sie von/nach <strong>München Flughafen Terminal</strong> die Linie <strong>S 8</strong>.&nbsp;</li><li>Zwischen <strong>Marienplatz&nbsp;</strong>und <strong>Moosach&nbsp;</strong>die <strong>U3</strong></li><li>Zwischen <strong>Hauptbahnhof&nbsp;</strong>und <strong>Moosach&nbsp;</strong>die<strong> Tram 20</strong></li></ul><p>Bitte rechnen Sie mit Verspätungen und Umleitungen.</p><p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
+      "headline": "Endmeldung: S 1 Moosach ↔ Leuchtenbergring",
+      "summary": "Die Züge können wieder zwischen Moosach und Leuchtenbergring fahren.",
+      "text": "<p>Es kommt noch zu Verspätungen von bis zu 25 Minuten und Teilausfällen.</p><p>Es kommt zu keinen witterungsbedingten Beeinträchtigungen mehr.</p>",
       "durationBegin": "25.07.2025",
       "durationEnd": "25.07.2025",
       "mapHref": "https://karte.bahn.de/detail/1c4ea3b6-305a-445a-8777-cb918c28c385",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/f11f6047-ea8f-4486-8ae8-77cad54e7699reisendenkarte_20250725-221545.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/f11f6047-ea8f-4486-8ae8-77cad54e7699reisendenkarte_20250725-221545.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/cdea5615-cab5-4697-801b-b71269118309reisendenkarte_20250725-222720.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/cdea5615-cab5-4697-801b-b71269118309reisendenkarte_20250725-222720.png",
           "info": "",
-          "alt": "Reisendenkarte 25.07.2025 22:15:45",
+          "alt": "Reisendenkarte 25.07.2025 22:27:20",
           "openInNewTab": true
         }
       ],
@@ -326,7 +326,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.07.2025 22:17",
+      "lastModified": "25.07.2025 22:29",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -846,6 +846,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/74615e95-b87a-4e1e-9077-07b18334e74b",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "77ce9aa8-32c9-4ce8-9bbf-3b85e34a423d",
+      "disruptionId": "e46f4851-9b33-4109-a10b-1bb19dbde5ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 2 Dachau ↔ Petershausen",
+      "summary": "Zwischen Dachau und Petershausen kommt es noch zu Verspätungen von bis zu 30 Minuten und Umleitungen.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "25.07.2025",
+      "durationEnd": "25.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e46f4851-9b33-4109-a10b-1bb19dbde5ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/1d329cee-d3a4-4c99-90bf-bcc5d76caf03reisendenkarte_20250725-223927.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-25/1d329cee-d3a4-4c99-90bf-bcc5d76caf03reisendenkarte_20250725-223927.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.07.2025 22:39:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.07.2025 22:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/77ce9aa8-32c9-4ce8-9bbf-3b85e34a423d",
+      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
