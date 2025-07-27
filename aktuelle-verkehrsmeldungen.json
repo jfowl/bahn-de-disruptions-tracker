@@ -316,6 +316,49 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "25d73098-6824-4788-b53b-77c8e124286e",
+      "disruptionId": "53f50e4e-4ae8-40f6-8776-2fed7e942380",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung zwischen Karlsruhe und Freiburg(Breisgau)",
+      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Baden-Baden und Offenburg derzeit gesperrt. Es kommt zu Verspätungen und Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV Züge der Verbindung Karlsruhe - Baden-Baden - Strasbourg</li><li>ICE Züge der Verbindung Karlsruhe - Baden-Baden - Freiburg(Breisgau)</li></ul><p>Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/53f50e4e-4ae8-40f6-8776-2fed7e942380",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-27/737ecba6-5ae3-4549-96a4-eabe14ef8f00reisendenkarte_20250727-181929.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-27/737ecba6-5ae3-4549-96a4-eabe14ef8f00reisendenkarte_20250727-181929.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.07.2025 18:19:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.07.2025 18:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/25d73098-6824-4788-b53b-77c8e124286e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "67d647f7-c1ec-4e7a-9f78-e91e2711795a",
       "disruptionId": "4c74ad7c-34db-4de1-96ca-9e8188794dc9",
       "author": "S_BAHN_MUC",
@@ -666,51 +709,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
-    },
-    {
-      "id": "364c478a-272c-4905-ab94-234ee959041c",
-      "disruptionId": "bc68680b-f50e-4078-a649-8edd99363027",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Hochwasser"
-      },
-      "headline": "Streckensperrung zwischen Langenau und Thalfingen",
-      "summary": "Streckensperrung wegen Gleisüberspülung durch Unwetter ist aufgehoben. Bitte rechnen Sie noch mit Verspätungen und Teilausfälle bis sich der Zugverkehr wieder stabilisiert hat.",
-      "text": "<p><strong>Betroffene</strong></p><ul><li>RE 50 (Aalen-Ulm)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.07.2025",
-      "durationEnd": "27.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/bc68680b-f50e-4078-a649-8edd99363027",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-27/45025482-8e18-49fc-89de-c2878102b9d1reisendenkarte_20250727-142020.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-27/45025482-8e18-49fc-89de-c2878102b9d1reisendenkarte_20250727-142020.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.07.2025 14:20:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.07.2025 16:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/364c478a-272c-4905-ab94-234ee959041c",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_weather_storm"
     },
     {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
