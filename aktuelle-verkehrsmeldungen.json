@@ -570,14 +570,14 @@
         "label": "Reparatur am Zug"
       },
       "headline": "Fahrtausfälle zwischen WEIMAR und GERA",
-      "summary": "Nach einer Kollision mit Gegenständen im Gleis ist eine Reparatur an der Lokomotive notwendig.\nDeshalb kommt es zwischen Weimar und Gera zu Ausfällen im Fernverkehr der Deutschen Bahn.\n",
+      "summary": "Reparaturen an den Fahrzeugen notwendig.\nDeshalb kommt es zwischen Weimar und Gera zu Ausfällen im Fernverkehr der Deutschen Bahn.\n",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Weimar und Gera</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie den RE 3 zwischen Erfurt/Weimar und Gera.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "28.07.2025",
       "mapHref": "https://karte.bahn.de/detail/0f8df120-035f-4198-ad3c-e4817ff42b72",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-28/cf4ea19c-1fa3-42ae-ac5b-dd9cc6728d18reisendenkarte_20250728-182304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-28/cf4ea19c-1fa3-42ae-ac5b-dd9cc6728d18reisendenkarte_20250728-182304.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-28/0dd41d20-98fa-4e31-9c15-21e63dfafa94reisendenkarte_20250728-182304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-28/0dd41d20-98fa-4e31-9c15-21e63dfafa94reisendenkarte_20250728-182304.png",
           "info": "",
           "alt": "Reisendenkarte 28.07.2025 18:23:04",
           "openInNewTab": true
@@ -598,7 +598,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "28.07.2025 18:24",
+      "lastModified": "28.07.2025 18:58",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a376a7c6-a02c-48ab-8f50-333b56ea25df",
@@ -842,6 +842,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "2228a5d1-9181-47f8-b143-64ff079ad9ff",
+      "disruptionId": "36f1ca83-2be5-486c-aba9-54155ee8bc32",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 6 Starnberg ↔ Tutzing: Reparatur an der Strecke",
+      "summary": "Zwischen Starnberg und Tutzing kommt es infolge von Reparaturarbeiten zu Verspätungen von bis zu 20 Minuten sowie Teilausfällen. Derzeit verkehren die S-Bahnen im 40-Minuten-Takt.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "28.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/36f1ca83-2be5-486c-aba9-54155ee8bc32",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2025 18:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2228a5d1-9181-47f8-b143-64ff079ad9ff",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
