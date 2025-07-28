@@ -913,56 +913,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
-      "summary": "Im Bereich Mittersendling kommt es weiterhin zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "28.07.2025",
-      "durationEnd": "28.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/08f970c7-f812-4695-9a72-1bcf4d9d8220reisendenkarte_20250728-061553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/08f970c7-f812-4695-9a72-1bcf4d9d8220reisendenkarte_20250728-061553.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.07.2025 06:15:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.07.2025 12:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
-    },
-    {
       "id": "531ebdcb-e2eb-4dee-b044-70d761d52373",
       "disruptionId": "2d17537f-9bed-4894-9904-a468046d1f4c",
       "author": "S_BAHN_MUC",
@@ -970,16 +920,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "28.07.2025",
       "durationEnd": "28.07.2025",
       "mapHref": "https://karte.bahn.de/detail/2d17537f-9bed-4894-9904-a468046d1f4c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/35c0ca9f-2a52-4ae3-b1b1-7beb65007f1dreisendenkarte_20250728-111455.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/35c0ca9f-2a52-4ae3-b1b1-7beb65007f1dreisendenkarte_20250728-111455.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/901e5a04-b188-4443-9325-d68dc3d29bacreisendenkarte_20250728-111455.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/901e5a04-b188-4443-9325-d68dc3d29bacreisendenkarte_20250728-111455.png",
           "info": "",
           "alt": "Reisendenkarte 28.07.2025 11:14:55",
           "openInNewTab": true
@@ -1030,12 +980,62 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.07.2025 12:32",
+      "lastModified": "28.07.2025 13:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/531ebdcb-e2eb-4dee-b044-70d761d52373",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
+      "summary": "Im Bereich Mittersendling kommt es weiterhin zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "28.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/08f970c7-f812-4695-9a72-1bcf4d9d8220reisendenkarte_20250728-061553.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/08f970c7-f812-4695-9a72-1bcf4d9d8220reisendenkarte_20250728-061553.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.07.2025 06:15:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2025 12:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
