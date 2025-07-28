@@ -390,15 +390,22 @@
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-28/41bfbfb3-f41f-436c-8ff8-dac4dcf00c7areisendenkarte_20250727-183843.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-28/41bfbfb3-f41f-436c-8ff8-dac4dcf00c7areisendenkarte_20250727-183843.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-28/1dc02469-5de5-424c-b09c-071ecb60d15ereisendenkarte_20250727-183843.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-28/1dc02469-5de5-424c-b09c-071ecb60d15ereisendenkarte_20250727-183843.png",
           "info": "",
           "alt": "Reisendenkarte 27.07.2025 18:38:43",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -412,7 +419,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.07.2025 05:02",
+      "lastModified": "28.07.2025 08:30",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
@@ -797,6 +804,43 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
+      "id": "ce966e61-2117-481e-98a4-682ecb339b9b",
+      "disruptionId": "30ee3543-4e42-4a4d-b08c-8a0216d5c629",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S5: Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. ",
+      "summary": "Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. Grund: Signalstörung. Nutzen Sie zwischen Neugraben und Buxtehude ersatzweise die Züge von und nach Stade. ",
+      "text": "<p> </p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "28.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/30ee3543-4e42-4a4d-b08c-8a0216d5c629",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2025 08:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ce966e61-2117-481e-98a4-682ecb339b9b",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
+    },
+    {
       "id": "5bb05889-ded4-487c-bc8f-30f63241191a",
       "disruptionId": "df62eb7f-a625-4078-a784-9979511921c1",
       "author": "REGIO_SUEDOST",
@@ -899,6 +943,131 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "5bf2e5bb-6ee2-450b-82ad-310c65c5628e",
+      "disruptionId": "c4e18e25-d02f-4892-85bc-67018316cb7d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Stammstrecke: Betriebsstabilisierung und Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Betriebsstabilisierung und eine vorangegangene technische Störung am Zug.</p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "28.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/c4e18e25-d02f-4892-85bc-67018316cb7d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/a1fb85bd-7656-41ef-a9b0-ab50ad353bbereisendenkarte_20250728-083518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/a1fb85bd-7656-41ef-a9b0-ab50ad353bbereisendenkarte_20250728-083518.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.07.2025 08:35:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2025 08:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5bf2e5bb-6ee2-450b-82ad-310c65c5628e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
+      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
+      "summary": "Im Bereich Mittersendling kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "28.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/b4debbef-042e-40d2-bd23-fe00228392cereisendenkarte_20250728-061553.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/b4debbef-042e-40d2-bd23-fe00228392cereisendenkarte_20250728-061553.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.07.2025 06:15:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2025 08:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
+    },
+    {
       "id": "c387822b-cfb2-4129-8862-9cc2946bc89b",
       "disruptionId": "c5331da7-9d85-4491-a3cf-4bfaf06342ac",
       "author": "S_BAHN_HH",
@@ -943,62 +1112,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.07.2025 07:39",
+      "lastModified": "28.07.2025 07:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c387822b-cfb2-4129-8862-9cc2946bc89b",
       "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
-    },
-    {
-      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
-      "summary": "Im Bereich Mittersendling kommt es zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "28.07.2025",
-      "durationEnd": "28.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/faeda90f-f010-4b93-b79f-1e1b70ac6067reisendenkarte_20250728-061553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-28/faeda90f-f010-4b93-b79f-1e1b70ac6067reisendenkarte_20250728-061553.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.07.2025 06:15:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.07.2025 06:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
