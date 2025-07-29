@@ -56,15 +56,15 @@
         "label": "Notarzteinsatz auf der Strecke"
       },
       "headline": "Notarzteinsatz auf der Strecke zwischen Bad Zwischenahn und Oldenburg(Oldb)",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Bad Zwischenahn und Oldenburg(Oldb) gesperrt. Es kommt zu Beeinträchtigungen im Regionalverkehr der Deutschen Bahn.",
+      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Bad Zwischenahn und Oldenburg(Oldb) bis vsl. Betriebsende gesperrt. Es kommt zu Beeinträchtigungen im Regionalverkehr der Deutschen Bahn. Der Zugverkehr wird am 30.07.2025 um vsl. 04:00 Uhr wieder aufgenommen.",
       "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 1 (Norddeich(Mole) - Bremen Hbf - Hannover Hbf): Züge aus/in Richtung Norddeich Mole enden/beginnen vorzeitig in Bad Zwischenahn. Züge aus/in Richtung Hannover Hbf enden/beginnen vorzeitig in Oldenburg(Oldb). Ein Ersatzverkehr mit Bussen ist zwischen Bad Zwischenahn und Oldenburg(Oldb) im Pendel eingerichtet.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "29.07.2025",
       "durationEnd": "30.07.2025",
       "mapHref": "https://karte.bahn.de/detail/48b5649a-350d-48ba-85d2-b7e2b324684c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-29/262388cb-9b56-41ef-a059-3d4eb4d60ebfreisendenkarte_20250729-140627.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-29/262388cb-9b56-41ef-a059-3d4eb4d60ebfreisendenkarte_20250729-140627.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-29/a571b593-3e32-4e4b-8107-1039b48fd6f3reisendenkarte_20250729-140627.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-29/a571b593-3e32-4e4b-8107-1039b48fd6f3reisendenkarte_20250729-140627.png",
           "info": "",
           "alt": "Reisendenkarte 29.07.2025 14:06:27",
           "openInNewTab": true
@@ -72,6 +72,18 @@
       ],
       "downloads": [],
       "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/DBRegio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
         {
           "href": "https://bahn.de",
           "label": "bahn.de",
@@ -85,20 +97,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://bahn.de/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://bahnhof.de",
           "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/DBRegio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
           "info": "",
           "openInNewTab": true
         }
@@ -117,12 +117,50 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "29.07.2025 18:22",
+      "lastModified": "29.07.2025 18:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6be12d85-3e19-4455-a8fa-f78a116d45a3",
       "magnoliaPath": "/aktuell/nord/massive_impairment_medical_emergency"
+    },
+    {
+      "id": "6a258c48-8c3c-4150-abe7-8fff12b6487d",
+      "disruptionId": "f5f80fdf-f71e-42e7-ac5a-01cf060b4f76",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S2: Aktuell fährt keine S2 zwischen Bergedorf und Aumühle. Grund: Personenunfall. ",
+      "summary": "Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p>Streckensperrung zwischen Bergedorf und Aumühle. Ein Ersatzverkehr mit Bussen und Taxis ist eingerichtet.</p>",
+      "durationBegin": "29.07.2025",
+      "durationEnd": "29.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/f5f80fdf-f71e-42e7-ac5a-01cf060b4f76",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.07.2025 18:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6a258c48-8c3c-4150-abe7-8fff12b6487d",
+      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
     },
     {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
