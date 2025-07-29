@@ -864,43 +864,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "3b404a2f-0bf6-4445-993e-d86caf3016d7",
-      "disruptionId": "a20cfb06-d0ae-4e47-a734-15cba9c9ab94",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "S 8: Zugfolgeverspätungen",
-      "summary": "Derzeit kommt es auf der Linie S 8 in beiden Richtungen zu Verspätungen von bis zu 10 Minuten.\n\nZugausfälle und vorzeitige Zugwenden sind kurzfristig möglich und vorzeitigen Zugwenden.",
-      "text": "<p>Grund hierfür sind Zugfolgeverspätungen.</p>",
-      "durationBegin": "29.07.2025",
-      "durationEnd": "29.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/a20cfb06-d0ae-4e47-a734-15cba9c9ab94",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.07.2025 11:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3b404a2f-0bf6-4445-993e-d86caf3016d7",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
-    },
-    {
       "id": "51d411b2-7ddb-4bd6-9773-7b7b29d20715",
       "disruptionId": "24d5a745-ea91-4132-b471-930e216f70c8",
       "author": "FERNVERKEHR_AG",
@@ -987,6 +950,48 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
+    },
+    {
+      "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
+      "disruptionId": "373e03d3-4c23-4cc6-9801-9d0dae34cdc5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S2/S5: Bis Donnerstag, 31.07.25 Umleitung aller S2 und S5 zwischen Hauptbahnhof und Altona über Jungfernstieg.",
+      "summary": "Bis einschließlich Donnerstag, 31.07.2025, werden alle S2 und S5 zwischen Hauptbahnhof und Altona über Jungfernstieg umgeleitet. Die Halte Dammtor, Sternschanze und Holstenstraße entfallen. Der Grund ist ein Kabelschaden nach Bauarbeiten.",
+      "text": "<p>Ein Ersatzverkehr wird zwischen Hauptbahnhof und Altona eingerichtet. Bitte nutzen Sie auch die folgenden Alternativen:</p><p><strong>Holstenstraße</strong></p><p>Ab Altona mit Bus 20 in Richtung S Rübenkamp bis Holstenstraße</p><p>Ab Altona mit Bus 25 in Richtung U Burgstraße bis Holstenstraße</p><p></p><p><strong>Sternschanze</strong></p><p>Ab Landungsbrücken mit der U3 in Richtung Schlump / Barmbek bis Sternschanze</p><p></p><p><strong>Dammtor</strong></p><p>Ab Jungfernstieg mit der U1 in Richtung Ohlsdorf / Norderstedt Mitte bis Stephansplatz (Dammtor)</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "01.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/373e03d3-4c23-4cc6-9801-9d0dae34cdc5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.07.2025 13:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b9aa7b65-be4d-4bb5-9644-0db20f118292",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
