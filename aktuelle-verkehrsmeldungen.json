@@ -2,6 +2,55 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "28b0c043-b50d-4c0d-9d6b-ae33f3ab5b40",
+      "disruptionId": "439c800d-72fe-469c-9fb5-b5cbbe5c0ff0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Wittenberge.",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Hamburg und Wittenberge kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen zwischen Hamburg und Berlin sowie Umleitungen mit Haltausfällen und 30 Min Verspätung.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE/IC/EC Zugfahrten zwischen Hamburg und Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/439c800d-72fe-469c-9fb5-b5cbbe5c0ff0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/2c4091b4-3a23-4a5d-9d4a-6d9f2392137areisendenkarte_20250730-112848.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/2c4091b4-3a23-4a5d-9d4a-6d9f2392137areisendenkarte_20250730-112848.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 11:28:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.07.2025 11:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/28b0c043-b50d-4c0d-9d6b-ae33f3ab5b40",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "e3de7f16-207e-4d63-af9a-9ae0f9dc6416",
       "disruptionId": "fb153ff9-0ee4-4663-9a1c-01c0ba3dc208",
       "author": "REGIO_MITTE",
@@ -373,8 +422,8 @@
       "mapHref": "https://karte.bahn.de/detail/f719ec8c-f02a-4a51-a51c-1fd4fd02f02f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/d9b59482-9c0d-457c-9f4b-7ef1f5b0d5c7reisendenkarte_20250730-100335.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/d9b59482-9c0d-457c-9f4b-7ef1f5b0d5c7reisendenkarte_20250730-100335.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/4b0c6125-e62c-4acd-bde9-424413ab46c8reisendenkarte_20250730-100335.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/4b0c6125-e62c-4acd-bde9-424413ab46c8reisendenkarte_20250730-100335.png",
           "info": "",
           "alt": "Reisendenkarte 30.07.2025 10:03:35",
           "openInNewTab": true
@@ -400,7 +449,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.07.2025 10:05",
+      "lastModified": "30.07.2025 11:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -875,6 +924,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "3f9b9894-ba10-4080-bb70-31538499ee23",
+      "disruptionId": "f705507e-2342-4361-b4bc-c7c733c15e04",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1: Verspätungen zwischen Plochingen und Esslingen wegen Weichendefekt und kurzfristigen Gleisverlegungen.",
+      "summary": "Derzeit kommt es zwischen Plochingen und Esslingen zu Verspätungen. Ursache ist ein Defekt an einer Weiche, der in diesem Abschnitt zu Gleisverlegungen und Zugkreuzungen führt.",
+      "text": "<p>Eine aktuelle Prognose zur Fehlerbehebung der Weiche liegt uns derzeitig nicht vor. Bitte beachten Sie die Zugzielanzeiger auf den Bahnsteigen und prüfen Sie Ihre Verbindung in den elektronischen Auskunftsmedien.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/f705507e-2342-4361-b4bc-c7c733c15e04",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/7294e638-55ce-46b8-97a5-ebd601fd4996reisendenkarte_20250730-112632.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/7294e638-55ce-46b8-97a5-ebd601fd4996reisendenkarte_20250730-112632.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 11:26:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2025 11:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3f9b9894-ba10-4080-bb70-31538499ee23",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
