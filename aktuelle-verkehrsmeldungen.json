@@ -48,6 +48,77 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
     },
     {
+      "id": "6be12d85-3e19-4455-a8fa-f78a116d45a3",
+      "disruptionId": "48b5649a-350d-48ba-85d2-b7e2b324684c",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Der Notarzteinsatzes auf Strecke zwischen Bad Zwischenahn und Oldenburg(Oldb) ist beendet",
+      "summary": "Der Notarzteinsatzes auf Strecke zwischen Bad Zwischenahn und Oldenburg(Oldb) ist beendet.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 1 (Norddeich(Mole) - Bremen Hbf - Hannover Hbf): Die Züge verkehren wieder planmäßig.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "29.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/48b5649a-350d-48ba-85d2-b7e2b324684c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-30/7a1b3389-ad10-459a-9a09-706fb12c279creisendenkarte_20250730-050727.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-30/7a1b3389-ad10-459a-9a09-706fb12c279creisendenkarte_20250730-050727.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 05:07:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/DBRegio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.07.2025 05:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6be12d85-3e19-4455-a8fa-f78a116d45a3",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_medical_emergency"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -356,6 +427,43 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_weather_storm"
     },
     {
+      "id": "a4ee073f-385d-48be-91dd-b436cb2ddfd7",
+      "disruptionId": "28327a80-7d13-44dd-b7fe-b4085524c7b0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S3 nur zwischen Pinneberg und Harburg Rathaus",
+      "summary": "S3 nur zwischen Pinneberg und Harburg Rathaus. Grund: Technische Störung an der Strecke.",
+      "text": "<p>Aufgrund einer technischen Störung an der Strecke verkehrt die Linie S3 nur zwischen Pinneberg und Harburg Rathaus.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/28327a80-7d13-44dd-b7fe-b4085524c7b0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2025 05:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a4ee073f-385d-48be-91dd-b436cb2ddfd7",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -611,23 +719,23 @@
         "label": "Reparatur am Zug"
       },
       "headline": "Fahrtausfälle zwischen Weimar und Gera",
-      "summary": "Reparaturen an den Fahrzeugen notwendig.\nDeshalb kommt es zwischen Weimar und Gera zu Ausfällen im Fernverkehr der Deutschen Bahn.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Weimar und Gera</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie den RE 3 zwischen Erfurt/Weimar und Gera.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Reparaturen an den Fahrzeugen notwendig.\nDeshalb kommt es zwischen Weimar und Gera zu Zugausfällen im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Weimar und Gera</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie den RE 3 zwischen Erfurt/Weimar und Gera.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Störung soll vsl. bis zum Tagesende am Mittwoch, 30.07.2025, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "28.07.2025",
       "mapHref": "https://karte.bahn.de/detail/0f8df120-035f-4198-ad3c-e4817ff42b72",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/5c28e188-e9fa-4726-aec6-27976d90cff3reisendenkarte_20250728-182304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/5c28e188-e9fa-4726-aec6-27976d90cff3reisendenkarte_20250728-182304.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/2228fe8d-129f-468b-bda0-bc560f902ffdreisendenkarte_20250729-072600.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/2228fe8d-129f-468b-bda0-bc560f902ffdreisendenkarte_20250729-072600.png",
           "info": "",
-          "alt": "Reisendenkarte 28.07.2025 18:23:04",
+          "alt": "Reisendenkarte 29.07.2025 07:26:00",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/408c1a2a-2d21-4646-9341-eb86753c6582reisendenkarte_20250729-072600.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/408c1a2a-2d21-4646-9341-eb86753c6582reisendenkarte_20250729-072600.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/dbe2f4c6-5753-4102-93da-4832946b1c9breisendenkarte_20250728-182304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/dbe2f4c6-5753-4102-93da-4832946b1c9breisendenkarte_20250728-182304.png",
           "info": "",
-          "alt": "Reisendenkarte 29.07.2025 07:26:00",
+          "alt": "Reisendenkarte 28.07.2025 18:23:04",
           "openInNewTab": true
         }
       ],
@@ -646,11 +754,56 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.07.2025 14:00",
+      "lastModified": "30.07.2025 05:33",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a376a7c6-a02c-48ab-8f50-333b56ea25df",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
+    },
+    {
+      "id": "a9f40d23-8436-4ebb-8548-59800a983d5e",
+      "disruptionId": "fefbb106-8cf3-4777-a225-4da420250a48",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Dachau ↔ Ostbahnhof: Reparatur an einem Signal",
+      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2<strong> </strong>Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;</li></ul><p></p><p><strong>S 2 Dachau → Ostbahnhof </strong></p><p></p><ul><li>  S 2 <strong> </strong>Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>  S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>  S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>  S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p> Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund dafür ist die Betriebsstabilisierung in Zusammenhang mit der Reparatur an einem Signal.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/fefbb106-8cf3-4777-a225-4da420250a48",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/3795ee42-0fd1-4760-a649-9638a4797c67reisendenkarte_20250730-051340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/3795ee42-0fd1-4760-a649-9638a4797c67reisendenkarte_20250730-051340.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 05:13:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2025 05:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a9f40d23-8436-4ebb-8548-59800a983d5e",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
@@ -876,6 +1029,49 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "51d411b2-7ddb-4bd6-9773-7b7b29d20715",
+      "disruptionId": "24d5a745-ea91-4132-b471-930e216f70c8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen München Hbf und Rosenheim (- Salzburg/Innsbruck)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen München Hbf und München Ost kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die verspäten sich dadurch um bis zu etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC/IC/RJ Züge zwischen München und Innsbruck</li><li>ICE/EC/IC Züge zwischen München und Salzburg (Freilassing/Berchtesgaden)</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/24d5a745-ea91-4132-b471-930e216f70c8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/50eeb5d4-aa2c-4dcb-b105-7ed0fd125d69reisendenkarte_20250729-103000.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/50eeb5d4-aa2c-4dcb-b105-7ed0fd125d69reisendenkarte_20250729-103000.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.07.2025 10:30:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.07.2025 05:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/51d411b2-7ddb-4bd6-9773-7b7b29d20715",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
       "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
       "author": "S_BAHN_MUC",
@@ -919,49 +1115,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
-    },
-    {
-      "id": "51d411b2-7ddb-4bd6-9773-7b7b29d20715",
-      "disruptionId": "24d5a745-ea91-4132-b471-930e216f70c8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen München Hbf und Rosenheim (- Salzburg/Innsbruck)",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen München Hbf und München Ost kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die verspäten sich dadurch um bis zu etwa 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC/IC/RJ Züge zwischen München und Innsbruck</li><li>ICE/EC/IC Züge zwischen München und Salzburg (Freilassing/Berchtesgaden)</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/24d5a745-ea91-4132-b471-930e216f70c8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/908d09d8-e33e-40b8-bd38-14d3f816aad1reisendenkarte_20250729-103000.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-29/908d09d8-e33e-40b8-bd38-14d3f816aad1reisendenkarte_20250729-103000.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.07.2025 10:30:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "29.07.2025 10:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/51d411b2-7ddb-4bd6-9773-7b7b29d20715",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
