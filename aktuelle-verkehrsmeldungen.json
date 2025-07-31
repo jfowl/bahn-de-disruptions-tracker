@@ -844,6 +844,48 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "f8282c35-be81-4025-83cf-fa5450897d49",
+      "disruptionId": "7fef1bbc-2c97-4bac-a5b3-8690cdbb42e4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Zugausfälle zwischen Weimar und Gera aufgrund eines kurzfristigen Fahrzeugausfalls",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es derzeit zwischen Weimar und Gera zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Weimar und Gera</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie den RE 3 zwischen Erfurt/Weimar und Gera.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/7fef1bbc-2c97-4bac-a5b3-8690cdbb42e4",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-31/71b4c389-83dc-484e-bdb0-1acf0eba25e5UWM%2B-%2BUG.jpg",
+          "label": "UWM - UG.jpg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.07.2025 11:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f8282c35-be81-4025-83cf-fa5450897d49",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle0"
+    },
+    {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
       "disruptionId": "b63c68a2-b271-490a-bc1f-c01874e18a2c",
       "author": "REGIO_MITTE",
@@ -1014,6 +1056,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "4963df72-2039-4c6d-a16a-95184b476e37",
+      "disruptionId": "ee795c31-eb79-44af-b0da-ce394696edc2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Reparatur an der Strecke",
+      "summary": "Zwischen Feldkirchen und Markt Schwaben kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/ee795c31-eb79-44af-b0da-ce394696edc2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/8d390a8c-0d12-4f22-b9a5-130381d1ebc5reisendenkarte_20250731-114446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/8d390a8c-0d12-4f22-b9a5-130381d1ebc5reisendenkarte_20250731-114446.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.07.2025 11:44:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 11:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4963df72-2039-4c6d-a16a-95184b476e37",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
