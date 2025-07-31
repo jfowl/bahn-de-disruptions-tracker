@@ -2,6 +2,65 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0153e440-d4c0-40a2-a904-4bece6b3ccf6",
+      "disruptionId": "545c6fd6-8dd7-4221-a1bd-159c8e28c868",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
+      },
+      "headline": "Beeinträchtigungen zwischen Düsseldorf und Duisburg.",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Düsseldorf und Duisburg kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu (Teil-) Ausfällen, Umleitungen und Verspätungen bis zu 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin und Düsseldorf/Köln/Aachen</li><li>ICE-, IC- und RJ-Züge zwischen Norddeutschland - Ruhrgebiet und Süddeutschland/Schweiz</li><li>ICE-Züge zwischen Amsterdam und Frankfurt (Main)</li><li>ICE-Züge zwischen Dortmund - Frankfurt (Main) und Wien</li><li>IC-Züge zwischen Ostfriesland und Köln</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "01.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/545c6fd6-8dd7-4221-a1bd-159c8e28c868",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-31/57a44df6-0cb2-4843-a7e7-1acd00d288a3KD%2B-%2BEDG.jpg",
+          "label": "KD - EDG.jpg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.07.2025 15:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0153e440-d4c0-40a2-a904-4bece6b3ccf6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "be0dfbd3-5e0c-47a1-b49f-8fa1f0bfee55",
       "disruptionId": "3e3120c4-4975-45ec-bf1d-99e94930381c",
       "author": "S_BAHN_HH",
@@ -294,6 +353,54 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "0816d3d6-63d7-461d-9e63-daceb1a3f812",
+      "disruptionId": "8df1c4c4-636a-4d72-bab2-1e60438c4ef6",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) FEX, RB22 und RB23 - Grünauer Kreuz - Flughafen BER",
+      "summary": " Donnerstag, 31.07.2025 21:30 Uhr bis vsl. Freitag, 01.08.2025 04:25 Uhr ",
+      "text": "<p>Aufgrund einer Streckenstörung kommt es am Donnerstag, 31.07.2025 21:30 Uhr bis vsl. Freitag, 01.08.2025 04:25 Uhr zu Umleitungen zwischen/im Raum Grünauer Kreuz - Flughafen BER.</p><p>Betroffene Linien: FEX, RB22 und RB23</p><p>Die Züge werden nach Schönefeld (b Berlin) umgeleitet. Der Halt in Flughafen BER entfällt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "01.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/8df1c4c4-636a-4d72-bab2-1e60438c4ef6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "FEX FEX",
+          "filterName": "FEX FEX",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.07.2025 15:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0816d3d6-63d7-461d-9e63-daceb1a3f812",
+      "magnoliaPath": "/aktuell/nordost/detour_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -566,48 +673,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5fd9177e-67cb-4b46-9228-df1a2a0da3e3",
       "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
-    },
-    {
-      "id": "0153e440-d4c0-40a2-a904-4bece6b3ccf6",
-      "disruptionId": "545c6fd6-8dd7-4221-a1bd-159c8e28c868",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Düsseldorf und Duisburg",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Düsseldorf und Duisburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu (Teil-) Ausfällen, Umleitungen und Verspätungen bis zu 30 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Berlin und Düsseldorf/Köln/Aachen</li><li>ICE-, IC- und RJ-Züge zwischen Norddeutschland - Ruhrgebiet und Süddeutschland/Schweiz</li><li>ICE-Züge zwischen Amsterdam und Frankfurt (Main)</li><li>ICE-Züge zwischen Dortmund - Frankfurt (Main) und Wien</li><li>IC-Züge zwischen Ostfriesland und Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/545c6fd6-8dd7-4221-a1bd-159c8e28c868",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-31/29d2847e-a693-4771-892b-50c66843411aKD%2B-%2BEDG.jpg",
-          "label": "KD - EDG.jpg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "31.07.2025 11:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0153e440-d4c0-40a2-a904-4bece6b3ccf6",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "a87c34b6-4c51-49bc-954f-a37450c11a14",
@@ -1142,18 +1207,63 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 1 Feldmoching - Oberschleißheim: Reparatur an der Strecke",
-      "summary": "Auf der Linie der S1 kommt es in beiden Richtung zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Grund ist eine Reparatur an der Strecke im Bereich des Bahnhofs  Feldmoching.</p>",
+      "headline": "Endmeldung: S 1 Feldmoching",
+      "summary": "Im Bereich Feldmoching kommt es noch zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "31.07.2025",
       "mapHref": "https://karte.bahn.de/detail/9f8ac2f1-0300-4966-9867-39dda220a4b6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/fcf21821-5ebd-49f1-a944-2a21abc182d7reisendenkarte_20250731-131340.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/fcf21821-5ebd-49f1-a944-2a21abc182d7reisendenkarte_20250731-131340.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/053bf5e0-600a-4cb3-a180-0754dde1e18dreisendenkarte_20250731-131340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/053bf5e0-600a-4cb3-a180-0754dde1e18dreisendenkarte_20250731-131340.png",
           "info": "",
           "alt": "Reisendenkarte 31.07.2025 13:13:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.07.2025 15:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cd01949c-8cfb-4956-9fca-9774ddfa7951",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+    },
+    {
+      "id": "888bf686-7dfd-46ae-808a-6b2c14085177",
+      "disruptionId": "4d3bcc71-b405-48d6-8c61-7ec1762a2598",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4 Türkenfeld ↔ Geltendorf: Reparatur an der Strecke",
+      "summary": "Zwischen Türkenfeld und Geltendorf kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/4d3bcc71-b405-48d6-8c61-7ec1762a2598",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/faebff32-2551-4446-96c5-44deb7e00d38reisendenkarte_20250731-152219.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/faebff32-2551-4446-96c5-44deb7e00d38reisendenkarte_20250731-152219.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.07.2025 15:22:19",
           "openInNewTab": true
         }
       ],
@@ -1167,17 +1277,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 14:43",
-      "expand": true,
+      "lastModified": "31.07.2025 15:24",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cd01949c-8cfb-4956-9fca-9774ddfa7951",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+      "detailPagePath": "/service/fahrplaene/888bf686-7dfd-46ae-808a-6b2c14085177",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
