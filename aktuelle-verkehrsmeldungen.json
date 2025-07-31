@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Die S2 fährt aktuell nur zwischen Aumühle/Bergedorf und Berliner Tor.</p><p>Die S5 fährt aktuell nur zwischen Stade/Neugraben und Hammerbrook.</p><p><strong>Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Signalstörung</strong></p>",
+      "headline": " Signalstörung Citytunnel behoben",
+      "summary": "Die Signalstörung ist behoben. Es kann aber noch zu einzelnen Ausfällen und Verspätungen auf allen S-Bahnlinien kommen.",
+      "text": "<p>Die Signalstörung ist behoben. Es kann aber noch zu einzelnen Ausfällen und Verspätungen auf allen S-Bahnlinien kommen.</p><p>Die S2 fährt wieder zwischen Aumühle/Bergedorf und Altona.</p><p>Die S5 fährt wieder zwischen Stade/Neugraben und Elbgaustraße.</p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "31.07.2025",
       "mapHref": "https://karte.bahn.de/detail/53a24bfc-be98-43f4-9d23-4a702406db39",
@@ -48,7 +48,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 12:03",
+      "lastModified": "31.07.2025 12:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -941,6 +941,70 @@
       "magnoliaPath": "/aktuell/mitte/stop_moved_construction"
     },
     {
+      "id": "2d2823c6-47a3-4ae5-bb64-a869ff7966ed",
+      "disruptionId": "4ff6e8ec-3656-4799-a7cb-f23739acafc4",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Schönebeck-Bad Salzelmen ⇄ Wolmirstedt - Ersatzverkehr",
+      "summary": "Datum: Montag, 18.08.2025, 21:00 Uhr bis Dienstag, 19.08.2025, 06:00 Uhr\n",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RE 30 Magdeburg – Calbe (Saale) Ost – Köthen – Halle</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt in der Nacht 18./19. August ab ca. 21:00 Uhr bis ca. 05:30 Uhr zu Haltausfällen, Ausfällen mit Ersatzverkehr und Verspätungen auf den Linien RE20, RE30 und S1. Die RE30-Zugnummern 16300 und 16336 halten nicht an der Station Magdeburg Hasselbachplatz, Reisende nutzen bitte alternative Fahrtmöglichkeiten.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr ist eingerichtet. Der Halt Magdeburg Hasselbachplatz kann nicht angefahren werden.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "19.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/4ff6e8ec-3656-4799-a7cb-f23739acafc4",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-07-31/ae3f5189-1128-43c8-bee3-92085020ba66RE%2B20%2BBauarbeiten.pdf",
+          "label": "Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 12:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2d2823c6-47a3-4ae5-bb64-a869ff7966ed",
+      "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
       "id": "fd805998-1eda-4cbd-9330-96454b8b2dc6",
       "disruptionId": "3c0840c3-ff39-42eb-834e-97d0e054290c",
       "author": "REGIO_BW",
@@ -1077,6 +1141,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "4963df72-2039-4c6d-a16a-95184b476e37",
+      "disruptionId": "ee795c31-eb79-44af-b0da-ce394696edc2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Feldkirchen ↔ Markt Schwaben",
+      "summary": "Zwischen Feldkirchen und Markt Schwaben kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Die Reparatur an der Strecke ist beendet</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/ee795c31-eb79-44af-b0da-ce394696edc2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/36cc8199-36a7-4c61-9cbc-adef60e8a3eereisendenkarte_20250731-114446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/36cc8199-36a7-4c61-9cbc-adef60e8a3eereisendenkarte_20250731-114446.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.07.2025 11:44:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 12:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4963df72-2039-4c6d-a16a-95184b476e37",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
       "disruptionId": "6781641b-4fac-4892-89df-62e6762eef3f",
       "author": "S_BAHN_MUC",
@@ -1122,51 +1231,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
-    },
-    {
-      "id": "4963df72-2039-4c6d-a16a-95184b476e37",
-      "disruptionId": "ee795c31-eb79-44af-b0da-ce394696edc2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Reparatur an der Strecke",
-      "summary": "Zwischen Feldkirchen und Markt Schwaben kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "31.07.2025",
-      "durationEnd": "31.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/ee795c31-eb79-44af-b0da-ce394696edc2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/8d390a8c-0d12-4f22-b9a5-130381d1ebc5reisendenkarte_20250731-114446.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/8d390a8c-0d12-4f22-b9a5-130381d1ebc5reisendenkarte_20250731-114446.png",
-          "info": "",
-          "alt": "Reisendenkarte 31.07.2025 11:44:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.07.2025 11:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4963df72-2039-4c6d-a16a-95184b476e37",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
