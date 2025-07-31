@@ -70,7 +70,7 @@
       },
       "headline": "Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
       "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Die S2 fährt aktuell nur zwischen Aumühle/Bergedorf und Hauptbahnhof.</p><p>Die S5 fährt aktuell nur zwischen Stade/Neugraben und Hammerbrook.</p><p></p><p><strong>Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Siganlstörung</strong></p>",
+      "text": "<p>Die S5 fährt aktuell nur zwischen Stade/Neugraben und Hammerbrook.</p><p><strong>Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Signalstörung</strong></p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "31.07.2025",
       "mapHref": "https://karte.bahn.de/detail/3e3120c4-4975-45ec-bf1d-99e94930381c",
@@ -107,7 +107,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 14:49",
+      "lastModified": "31.07.2025 16:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -362,7 +362,7 @@
       },
       "headline": "Verkehrsmeldung für die Linie(n) FEX, RB22 und RB23 - Grünauer Kreuz - Flughafen BER",
       "summary": " Donnerstag, 31.07.2025 21:30 Uhr bis vsl. Freitag, 01.08.2025 04:25 Uhr ",
-      "text": "<p>Aufgrund einer Streckenstörung kommt es am Donnerstag, 31.07.2025 21:30 Uhr bis vsl. Freitag, 01.08.2025 04:25 Uhr zu Umleitungen zwischen/im Raum Grünauer Kreuz - Flughafen BER.</p><p>Betroffene Linien: FEX, RB22 und RB23</p><p>Die Züge werden nach Schönefeld (b Berlin) umgeleitet. Der Halt in Flughafen BER entfällt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Aufgrund einer Streckenstörung kommt es am Donnerstag, 31.07.2025 21:30 Uhr bis vsl. Freitag, 01.08.2025 04:25 Uhr zu Umleitungen im Raum Grünauer Kreuz - Flughafen BER.</p><p>Betroffene Linien: FEX, RB22 und RB23</p><p>Die Züge werden nach Schönefeld (b Berlin) umgeleitet. Der Halt in Flughafen BER entfällt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "01.08.2025",
       "mapHref": "https://karte.bahn.de/detail/8df1c4c4-636a-4d72-bab2-1e60438c4ef6",
@@ -393,7 +393,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "31.07.2025 15:38",
+      "lastModified": "31.07.2025 15:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -520,8 +520,8 @@
       "disruptionId": "28149e3b-a0b0-4714-85f5-c4df4762a22a",
       "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
+        "category": "other_cause",
+        "label": "Information"
       },
       "headline": "Aktuelle Information zu den Fahrgastinformationssystemen",
       "summary": "Bitte haben Sie Verständnis, dass in den nächsten Tagen die Fahrgastinformationssysteme nicht immer aktuell sein werden. Nicht alle Daten können aktuell in Echtzeit eingepflegt werden. ",
@@ -533,19 +533,34 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 14:59",
+      "lastModified": "31.07.2025 16:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1200,51 +1215,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "cd01949c-8cfb-4956-9fca-9774ddfa7951",
-      "disruptionId": "9f8ac2f1-0300-4966-9867-39dda220a4b6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 1 Feldmoching",
-      "summary": "Im Bereich Feldmoching kommt es noch zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
-      "durationBegin": "31.07.2025",
-      "durationEnd": "31.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/9f8ac2f1-0300-4966-9867-39dda220a4b6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/053bf5e0-600a-4cb3-a180-0754dde1e18dreisendenkarte_20250731-131340.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/053bf5e0-600a-4cb3-a180-0754dde1e18dreisendenkarte_20250731-131340.png",
-          "info": "",
-          "alt": "Reisendenkarte 31.07.2025 13:13:40",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.07.2025 15:41",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cd01949c-8cfb-4956-9fca-9774ddfa7951",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
-    },
-    {
       "id": "888bf686-7dfd-46ae-808a-6b2c14085177",
       "disruptionId": "4d3bcc71-b405-48d6-8c61-7ec1762a2598",
       "author": "S_BAHN_MUC",
@@ -1253,15 +1223,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 4 Türkenfeld ↔ Geltendorf: Reparatur an der Strecke",
-      "summary": "Zwischen Türkenfeld und Geltendorf kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "summary": "Zwischen Türkenfeld und Geltendorf kommt es zu Verspätungen von bis zu 5 Minuten.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "31.07.2025",
       "mapHref": "https://karte.bahn.de/detail/4d3bcc71-b405-48d6-8c61-7ec1762a2598",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/faebff32-2551-4446-96c5-44deb7e00d38reisendenkarte_20250731-152219.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/faebff32-2551-4446-96c5-44deb7e00d38reisendenkarte_20250731-152219.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/68d31bc5-7c07-4338-bf32-a5d1c50789dfreisendenkarte_20250731-152219.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/68d31bc5-7c07-4338-bf32-a5d1c50789dfreisendenkarte_20250731-152219.png",
           "info": "",
           "alt": "Reisendenkarte 31.07.2025 15:22:19",
           "openInNewTab": true
@@ -1282,54 +1252,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 15:24",
+      "lastModified": "31.07.2025 15:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/888bf686-7dfd-46ae-808a-6b2c14085177",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
-    },
-    {
-      "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
-      "disruptionId": "373e03d3-4c23-4cc6-9801-9d0dae34cdc5",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S2/S5: Bis Donnerstag, 31.07.25 Umleitung aller S2 und S5 zwischen Hauptbahnhof und Altona über Jungfernstieg.",
-      "summary": "Bis einschließlich Donnerstag, 31.07.2025, werden alle S2 und S5 zwischen Hauptbahnhof und Altona über Jungfernstieg umgeleitet. Die Halte Dammtor, Sternschanze und Holstenstraße entfallen. Der Grund ist ein Kabelschaden nach Bauarbeiten.",
-      "text": "<p>Ein Ersatzverkehr wird zwischen Hauptbahnhof und Altona eingerichtet. Bitte nutzen Sie auch die folgenden Alternativen:</p><p><strong>Holstenstraße</strong></p><p>Ab Altona mit Bus 20 in Richtung S Rübenkamp bis Holstenstraße</p><p>Ab Altona mit Bus 25 in Richtung U Burgstraße bis Holstenstraße</p><p></p><p><strong>Sternschanze</strong></p><p>Ab Landungsbrücken mit der U3 in Richtung Schlump / Barmbek bis Sternschanze</p><p></p><p><strong>Dammtor</strong></p><p>Ab Jungfernstieg mit der U1 in Richtung Ohlsdorf / Norderstedt Mitte bis Stephansplatz (Dammtor)</p>",
-      "durationBegin": "30.07.2025",
-      "durationEnd": "01.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/373e03d3-4c23-4cc6-9801-9d0dae34cdc5",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.07.2025 14:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b9aa7b65-be4d-4bb5-9644-0db20f118292",
-      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
