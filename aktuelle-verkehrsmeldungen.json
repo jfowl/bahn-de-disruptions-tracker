@@ -190,49 +190,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
-      "id": "b300d767-c31c-4def-a61b-88b92a9a00c8",
-      "disruptionId": "ccc636b9-1089-4973-a759-9c59d66a207b",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Verkehrsmeldung für die Linie(n) RB24 und RE3 - Eberswalde Hbf - Angermünde ",
-      "summary": " Donnerstag, 31.07.2025 04:05 Uhr bis vsl. Donnerstag, 31.07.2025 13:00 Uhr ",
-      "text": "<p>Aufgrund einer Streckenstörung kommt es am Donnerstag, 31.07.2025 04:05 Uhr bis vsl. Donnerstag, 31.07.2025 13:00 Uhr zu Fahrtausfälle zwischen Eberswalde Hbf und Angermünde. Einzelne Züge fallen zwischen Berlin und Angermünde aus.</p><p>Betroffene Linien: RB24 und RE3</p><p><strong>Linie RB24</strong>: Eberswalde Hbf und Berlin-Lichtenberg.</p><p>Ausfall aller Züge der Linie RB24 zwischen Eberswalde Hbf und Berlin-Lichtenberg.</p><p>Nutzen Sie zwischen Eberswalde Hbf und Bernau (b Berlin) die Züge der RE3. Diese Züge halten auf allen Unterwegsbahnhöfen.</p><p>Nutzen Sie innerhalb Berlins auch die S-Bahn.</p><p><strong>Linie RE3</strong>: Angermünde/ Eberswalde Hbf und Berlin Südkreuz</p><p>Ausfall aller Züge der Linie RE3 zwischen Angermünde und Eberswalde Hbf. Einzelne Züge fallen zwischen Bernau (b Berlin) bzw. Berlin Südkreuz und Angermünde aus.</p><p>Ersatzverkehr mit Bussen ist zwischen Angermünde und Eberswalde Hbf eingerichtet.</p><p>Nutzen Sie innerhalb Berlins auch die S-Bahn.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "31.07.2025",
-      "durationEnd": "31.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/ccc636b9-1089-4973-a759-9c59d66a207b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RB 24",
-          "filterName": "RB 24",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.07.2025 07:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b300d767-c31c-4def-a61b-88b92a9a00c8",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "c4b3b730-c0c3-4939-87a0-057422446eaa",
       "disruptionId": "5f7add1c-e2f1-496c-a33d-5d1a0cc0efb3",
       "author": "REGIO_SUEDOST",
@@ -1141,6 +1098,173 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "03c0b15a-884d-4822-8c28-d8753cfd8d57",
+      "disruptionId": "4fa0b81d-5a7a-4a83-b3e0-ec7966824aad",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Stammstrecke: Polizeieinsatz",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/4fa0b81d-5a7a-4a83-b3e0-ec7966824aad",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/c6816bdf-ffbb-4da8-92ae-8f243a4b75b8reisendenkarte_20250731-132322.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/c6816bdf-ffbb-4da8-92ae-8f243a4b75b8reisendenkarte_20250731-132322.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.07.2025 13:23:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 13:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/03c0b15a-884d-4822-8c28-d8753cfd8d57",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+    },
+    {
+      "id": "cd01949c-8cfb-4956-9fca-9774ddfa7951",
+      "disruptionId": "9f8ac2f1-0300-4966-9867-39dda220a4b6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 1 Feldmoching - Oberschleißheim: Reparatur an der Strecke",
+      "summary": "Auf der Linie der S1 kommt es in Richtung stadtauswärts zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Grund ist eine Reparatur an der Strecke im Bereich des Bahnhofs  Feldmoching.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/9f8ac2f1-0300-4966-9867-39dda220a4b6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/f56cc91f-1fc3-4644-815a-137a9ff9961ereisendenkarte_20250731-131340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-31/f56cc91f-1fc3-4644-815a-137a9ff9961ereisendenkarte_20250731-131340.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.07.2025 13:13:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 13:15",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cd01949c-8cfb-4956-9fca-9774ddfa7951",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+    },
+    {
+      "id": "c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
+      "disruptionId": "6781641b-4fac-4892-89df-62e6762eef3f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Endmeldung: S 4, S 6, S 8 Pasing",
+      "summary": "Im Bereich Pasing kommt es zu keinen nennenswerten Verspätungen mehr.",
+      "text": "<p>Das defekte Stellwerk wurde repariert.</p>",
+      "durationBegin": "31.07.2025",
+      "durationEnd": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/6781641b-4fac-4892-89df-62e6762eef3f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2025 12:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
+    },
+    {
       "id": "4963df72-2039-4c6d-a16a-95184b476e37",
       "disruptionId": "ee795c31-eb79-44af-b0da-ce394696edc2",
       "author": "S_BAHN_MUC",
@@ -1184,53 +1308,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4963df72-2039-4c6d-a16a-95184b476e37",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
-      "id": "c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
-      "disruptionId": "6781641b-4fac-4892-89df-62e6762eef3f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 4, S 6, S 8 Pasing: Defektes Stellwerk",
-      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist ein vorangegangener Defekt an einem Stellwerk.</p>",
-      "durationBegin": "31.07.2025",
-      "durationEnd": "31.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/6781641b-4fac-4892-89df-62e6762eef3f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.07.2025 12:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c0880a52-b189-49c6-9ae6-6ef0cf343c0f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
