@@ -112,8 +112,8 @@
       "disruptionId": "5e8297bc-4416-44da-8956-e5353ca75541",
       "author": "REGIO_SUEDOST",
       "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
+        "category": "other_cause",
+        "label": "Sonstiges"
       },
       "headline": "Magdeburg - Leipzig - Dresden - Hohe Auslastung aufgrund von Fußballspiel",
       "summary": "Fußballspiel SG Dynamo Dresden - 1. FC Magdeburg (09.08.2025)",
@@ -121,10 +121,18 @@
       "durationBegin": "09.08.2025",
       "durationEnd": "09.08.2025",
       "mapHref": "https://karte.bahn.de/detail/5e8297bc-4416-44da-8956-e5353ca75541",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-08-01/a9f086fa-8765-4e2b-b04b-cd90af433cabreisendenkarte_20250801-170245.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-08-01/a9f086fa-8765-4e2b-b04b-cd90af433cabreisendenkarte_20250801-170245.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.08.2025 17:02:45",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-08-01/4c418a7f-1de4-4196-8f9d-b7624b1d13d7Gem.%2BFanbrief%2BMagdeburg%2B09.08.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-08-01/0c8dac15-296e-469d-9dd0-75bb622b12efGem.%2BFanbrief%2BMagdeburg%2B09.08.2025.pdf",
           "label": "Gem. Fanbrief Magdeburg 09.08.2025.pdf",
           "info": "",
           "openInNewTab": true
@@ -140,6 +148,11 @@
       ],
       "lines": [
         {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 50",
           "filterName": "RE 50",
           "property": "REGIONAL"
@@ -150,7 +163,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "01.08.2025 16:51",
+      "lastModified": "01.08.2025 17:17",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a2bc35a-b4c0-47aa-957b-80f4aef919d9",
@@ -1108,6 +1121,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "7bf42515-8efe-46b9-a6a1-0c14cd4c041e",
+      "disruptionId": "0c5ca94a-6a4e-4407-aaf9-961d812d79cb",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4 Puchheim → Geltendorf: Reparatur an einem Signal",
+      "summary": "Von Puchheim in Richtung Geltendorf kommt es zu Verspätungen von bis zu 25 Minuten.\n",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "01.08.2025",
+      "durationEnd": "01.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/0c5ca94a-6a4e-4407-aaf9-961d812d79cb",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/28daa95b-15b5-483b-b082-dd7e1aadf86dreisendenkarte_20250801-171551.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/28daa95b-15b5-483b-b082-dd7e1aadf86dreisendenkarte_20250801-171551.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.08.2025 17:15:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.08.2025 17:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7bf42515-8efe-46b9-a6a1-0c14cd4c041e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section16"
     },
     {
       "id": "ffcd0a77-4845-4ee5-b62f-5bc382bc17b2",
