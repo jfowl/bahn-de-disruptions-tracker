@@ -2,6 +2,49 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "78a662fc-57e9-47db-9915-46d02981cc8c",
+      "disruptionId": "a1b0aa3f-b8d3-4f87-aa07-f61bd66cf8ee",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover/Hildesheim und Göttingen",
+      "summary": "Wegen einer Störung an einem Fahrzeug ist die Schnellfahrstrecke zwischen Hannover/Hildesheim und Göttingen derzeit gesperrt. Dadurch kommt es zu Verspätungen von 30 - 35 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Hannover und Göttingen</li><li>ICE Züge zwischen Hildesheim und Göttingen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/a1b0aa3f-b8d3-4f87-aa07-f61bd66cf8ee",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "TH",
+        "SH",
+        "BW",
+        "BY",
+        "HB",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.08.2025 14:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/78a662fc-57e9-47db-9915-46d02981cc8c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "e3de7f16-207e-4d63-af9a-9ae0f9dc6416",
       "disruptionId": "fb153ff9-0ee4-4663-9a1c-01c0ba3dc208",
       "author": "REGIO_MITTE",
@@ -1035,15 +1078,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 1 Feldmoching ↔ Oberschleißheim: Reparatur an einem Signal",
-      "summary": "Zwischen Feldmoching und Oberschleißheim in Richtung stadtauswärts kommt es zu Verspätungen von bis zu 15 Minuten.\n\nDurch vorzeitige Zugwenden kommt es auch zu Teilausfällen",
+      "summary": "Zwischen Feldmoching und Oberschleißheim in Richtung stadtauswärts kommt es zu Verspätungen von bis zu 15 Minuten.\n\nDurch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "02.08.2025",
       "durationEnd": "02.08.2025",
       "mapHref": "https://karte.bahn.de/detail/7339c696-6c77-4108-b0b2-32d5760971cd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-02/4a7504a5-c7b4-40c7-88af-bcc0087b75cdreisendenkarte_20250802-134213.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-02/4a7504a5-c7b4-40c7-88af-bcc0087b75cdreisendenkarte_20250802-134213.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-02/044d3c8d-0959-45c7-a2e9-76d58984710areisendenkarte_20250802-134213.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-02/044d3c8d-0959-45c7-a2e9-76d58984710areisendenkarte_20250802-134213.png",
           "info": "",
           "alt": "Reisendenkarte 02.08.2025 13:42:13",
           "openInNewTab": true
@@ -1064,7 +1107,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.08.2025 13:44",
+      "lastModified": "02.08.2025 13:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
