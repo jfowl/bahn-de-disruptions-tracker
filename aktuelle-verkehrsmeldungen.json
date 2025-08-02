@@ -776,6 +776,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "d5050ac5-5bcb-495d-b295-ebfd37f69c40",
+      "disruptionId": "63a3ddd1-a793-4608-a17f-55ccd1393800",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 1 Neufahrn ↔ Flughafen: Unbefugte Personen auf der Strecke",
+      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Neufahrn und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke zwischen Neufahrn und Flughafen.</p>",
+      "durationBegin": "02.08.2025",
+      "durationEnd": "02.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/63a3ddd1-a793-4608-a17f-55ccd1393800",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.08.2025 20:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d5050ac5-5bcb-495d-b295-ebfd37f69c40",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section4"
+    },
+    {
       "id": "13f2e7ed-9c1c-40cb-94c2-4009b0e366e4",
       "disruptionId": "a1294c27-a038-4915-9d70-8966c83b18a4",
       "author": "REGIO_BW",
@@ -1077,9 +1114,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "S 6 Haar: Polizeieinsatz",
-      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "headline": "Endmeldung: S 6 Haar",
+      "summary": "Im Bereich Haar kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
       "durationBegin": "02.08.2025",
       "durationEnd": "02.08.2025",
       "mapHref": "https://karte.bahn.de/detail/ca318258-199f-44da-948f-dd8b2fd13cd9",
@@ -1099,7 +1136,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.08.2025 19:46",
+      "lastModified": "02.08.2025 20:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
