@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c4ce85f1-cdf1-47ef-b32c-d10842b4d866",
+      "disruptionId": "df1a913f-450f-4e97-b8ac-f832cb491b4b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Neumünster",
+      "summary": "Ein umgestürzter Baum im Gleis beeinträchtigt den Zugverkehr zwischen Hamburg und Neumünster. Dadurch kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Kiel und Hamburg</li><li>ICE/IC/EC-Züge zwischen Flensburg und Hamburg </li><li>EC-Züge zwischen Kopenhagen – Padborg – Hamburg</li></ul><p>Die Störung wird vsl. bis in die Nachmittagsstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/df1a913f-450f-4e97-b8ac-f832cb491b4b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/47756512-0af1-416a-98da-415ce8b89608reisendenkarte_20250804-105950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/47756512-0af1-416a-98da-415ce8b89608reisendenkarte_20250804-105950.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.08.2025 10:59:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.08.2025 15:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c4ce85f1-cdf1-47ef-b32c-d10842b4d866",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "2b4c8a38-8162-46ad-a054-45a2177a7fbf",
       "disruptionId": "bf94a3f5-2820-43a7-bf56-bd6a38d8fa95",
       "author": "REGIO_MITTE",
@@ -106,6 +151,51 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
     },
     {
+      "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
+      "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Siegen und Dortmund",
+      "summary": "Aufgrund der Reparatur an einer Brücke zwischen Siegen und Dortmund kommt es derzeit zu Zugausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Frankfurt(M) – Wetzlar – Siegen – Finnentrop und Dortmund fallen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.07.2025",
+      "durationEnd": "17.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/d1458134-6398-4601-a67a-d7d011e32504",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/27ca8d45-b7b0-40cf-87eb-3c68bd2b53c6reisendenkarte_20250804-151150.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/27ca8d45-b7b0-40cf-87eb-3c68bd2b53c6reisendenkarte_20250804-151150.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.08.2025 15:11:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.08.2025 15:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a23f16b8-77b0-4389-ab8c-4b999f120ba1",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "1d05fad5-4351-465a-a2f1-767cd555bb96",
       "disruptionId": "02dd052b-7850-4d2c-8c5f-dc99ed94e3f2",
       "author": "REGIO_NORD",
@@ -186,51 +276,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1d05fad5-4351-465a-a2f1-767cd555bb96",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
-      "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Siegen und Dortmund",
-      "summary": "Aufgrund der Reparatur an einer Brücke zwischen Siegen und Dortmund kommt es derzeit zu Zugausfällen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge Frankfurt(Main) – Wetzlar – Siegen – Finnentrop – Dortmund fallen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.07.2025",
-      "durationEnd": "17.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/d1458134-6398-4601-a67a-d7d011e32504",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/60b5eae1-cff6-49f1-a8f9-05b8fcc9815ereisendenkarte_20250804-074736.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-04/60b5eae1-cff6-49f1-a8f9-05b8fcc9815ereisendenkarte_20250804-074736.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.08.2025 07:47:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.08.2025 07:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a23f16b8-77b0-4389-ab8c-4b999f120ba1",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "3a2bc35a-b4c0-47aa-957b-80f4aef919d9",
@@ -947,7 +992,7 @@
       },
       "headline": "S3/S5: 4.8., 23 Uhr bis Betriebsschluss Busse statt S-Bahnen zw. Wilhelmsburg u. Neugraben.",
       "summary": "Von 23 Uhr bis Betriebsschluss fahren Busse statt S-Bahnen zwischen Wilhelmsburg und Neugraben. Grund: kurzfristige Bauarbeiten. Bitte beachten Sie die folgenden Informationen:",
-      "text": "<strong>S3:</strong><p>Die S3 fährt nur zwischen Wilhelmsburg und Pinneberg. Die Fahrten zwischen Wilhelmsburg und Neugraben entfallen.</p><p></p><strong>S5:</strong><p>Die S5 fährt nur zwischen Hammerbrook und Diebsteich sowie zwischen Neugraben und Buxtehude / Stade. Die Fahrten zwischen Hammerbrook und Neugraben entfallen.</p><p></p><strong>Ersatzbusse Wilhelmsburg Richtung Neugraben:</strong><p>Wilhelmsburg: Haltestelle \"Inselpark\"</p><p>Harburg: Haltestelle im Großmoordamm</p><p>Harburg-Rathaus: Haltestelle \"S Harburg Rathaus\", Abfahrtsbereich C</p><p>Heimfeld: Haltestelle \"S Heimfeld\"</p><p>Neuwiedenthal: Haltestelle \"Opferberg\" in der Cuxhavener Straße</p><p></p><strong>Ersatzbusse Neugraben Richtung Wilhelmsburg:</strong><p>Neugraben: Haltestelle \"S Neugraben\", Abfahrtsbereich A</p><p>Neuwiedenthal: Haltestelle \"Opferberg\" in der Cuxhavener Straße</p><p>Heimfeld: Halstestelle \"S Heimfeld\"</p><p>Harburg-Rathaus: \"S Harburg Rathaus\", Abfahrtsbereich E</p><p>Harburg: Haltestelle in der Moorstraße, Höhe \"Phönix Center\"</p>",
+      "text": "<strong>S3:</strong><p>Die S3 fährt nur zwischen Wilhelmsburg und Pinneberg. Die Fahrten zwischen Wilhelmsburg und Neugraben entfallen.</p><p></p><strong>S5:</strong><p>Die S5 fährt nur zwischen Hammerbrook und Diebsteich sowie zwischen Neugraben und Buxtehude / Stade. Die Fahrten zwischen Hammerbrook und Neugraben entfallen. Bitte beachten Sie auch die gleichzeitig stattfindenden Gleisbauarbeiten zwischen Neugraben und Stade.</p><p></p><strong>Ersatzbusse Wilhelmsburg Richtung Neugraben:</strong><p>Wilhelmsburg: Haltestelle \"Inselpark\"</p><p>Harburg: Haltestelle im Großmoordamm</p><p>Harburg-Rathaus: Haltestelle \"S Harburg Rathaus\", Abfahrtsbereich C</p><p>Heimfeld: Haltestelle \"S Heimfeld\"</p><p>Neuwiedenthal: Haltestelle \"Opferberg\" in der Cuxhavener Straße</p><p></p><strong>Ersatzbusse Neugraben Richtung Wilhelmsburg:</strong><p>Neugraben: Haltestelle \"S Neugraben\", Abfahrtsbereich A</p><p>Neuwiedenthal: Haltestelle \"Opferberg\" in der Cuxhavener Straße</p><p>Heimfeld: Halstestelle \"S Heimfeld\"</p><p>Harburg-Rathaus: \"S Harburg Rathaus\", Abfahrtsbereich E</p><p>Harburg: Haltestelle in der Moorstraße, Höhe \"Phönix Center\"</p>",
       "durationBegin": "04.08.2025",
       "durationEnd": "05.08.2025",
       "mapHref": "https://karte.bahn.de/detail/f414182a-4f3c-4797-8f30-9e239b75063f",
@@ -972,7 +1017,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.08.2025 14:30",
+      "lastModified": "04.08.2025 15:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
