@@ -2,6 +2,46 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "388f6f00-4cf3-435e-a190-d99409d44db9",
+      "disruptionId": "7fe8104e-d876-4d32-85c5-5e79a314e432",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen in Leipzig/Halle Flughafen",
+      "summary": "Aufgrund von Bauarbeiten in Leipzig/Halle Flughafen kommt es derzeit zu Beeinträchtigungen und Verspätungen von 15 bis 30 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge auf der Strecke zwischen Leipzig und Halle(Saale)</li><li>ICE-Züge auf der Strecke zwischen Leipzig und Erfurt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/7fe8104e-d876-4d32-85c5-5e79a314e432",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "TH",
+        "BY",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.08.2025 22:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/388f6f00-4cf3-435e-a190-d99409d44db9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
+    },
+    {
       "id": "e3de7f16-207e-4d63-af9a-9ae0f9dc6416",
       "disruptionId": "fb153ff9-0ee4-4663-9a1c-01c0ba3dc208",
       "author": "REGIO_MITTE",
@@ -406,6 +446,82 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
+      "id": "861516bf-4dbd-4a8e-9351-406bcfa9c210",
+      "disruptionId": "e8855ff2-d412-489c-b5ff-a0c33316f65a",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Reparatur an einer Weiche im Bahnhof Scharbeutz beendet",
+      "summary": "Die Reparatur an einer Weiche im Bahnhof Scharbeutz ist beendet. Der Zugverkehr normalisiert sich wieder. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 85 (Lübeck Hbf – Neustadt(Holst): Die Züge verkehren wieder nach Plan.</li></ul><p>In Folge sind noch Verspätungen und Zugausfälle möglich.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "05.08.2025",
+      "durationEnd": "05.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/e8855ff2-d412-489c-b5ff-a0c33316f65a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-05/525f80a8-1642-402c-ba9b-2ad4253067cereisendenkarte_20250805-122221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-05/525f80a8-1642-402c-ba9b-2ad4253067cereisendenkarte_20250805-122221.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.08.2025 12:22:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 85",
+          "filterName": "RB 85",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.08.2025 22:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/861516bf-4dbd-4a8e-9351-406bcfa9c210",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "ab728e19-533d-4eb2-9ccf-880294b1c24d",
       "disruptionId": "889238c6-8e23-4915-acd5-7ba3f964f332",
       "author": "S_BAHN_RM",
@@ -526,88 +642,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/fd805998-1eda-4cbd-9330-96454b8b2dc6",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_other_cause"
-    },
-    {
-      "id": "861516bf-4dbd-4a8e-9351-406bcfa9c210",
-      "disruptionId": "e8855ff2-d412-489c-b5ff-a0c33316f65a",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Reparatur an einer Weiche im Bahnhof Scharbeutz",
-      "summary": "Aufgrund einer Reparatur an einer Weiche im Bahnhof Scharbeutz ist der Zugverkehr stark beeinträchtigt.   ",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 85 (Lübeck Hbf – Neustadt(Holst): Es kommt zu Verspätungen und Ausfällen.</li></ul><p>Ein Ersatzverkehr mit Bussen der Firma Flaegel Reisen ist im Pendelverkehr für Sie eingerichtet.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "05.08.2025",
-      "durationEnd": "05.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/e8855ff2-d412-489c-b5ff-a0c33316f65a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-05/74768f95-57c6-46a9-88d6-6ecb100d0d54reisendenkarte_20250805-122221.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-05/74768f95-57c6-46a9-88d6-6ecb100d0d54reisendenkarte_20250805-122221.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.08.2025 12:22:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RB 85",
-          "filterName": "RB 85",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.08.2025 12:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/861516bf-4dbd-4a8e-9351-406bcfa9c210",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
     },
     {
       "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
@@ -979,81 +1013,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
-    },
-    {
-      "id": "0cc9e3d4-e6fb-4869-a258-4fca4c325628",
-      "disruptionId": "e1d655e9-aae2-4aba-8bd4-a6acf11a8c13",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug behoben"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten. Durch vorzeitige Wenden kommt es zu Teilausfällen. .",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "05.08.2025",
-      "durationEnd": "05.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/e1d655e9-aae2-4aba-8bd4-a6acf11a8c13",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/f43aa8a3-59bd-4409-a410-b871a9476e93reisendenkarte_20250805-180838.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/f43aa8a3-59bd-4409-a410-b871a9476e93reisendenkarte_20250805-180838.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.08.2025 18:08:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.08.2025 21:46",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0cc9e3d4-e6fb-4869-a258-4fca4c325628",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "ecf5e3e8-e46f-4076-9622-0fde431788d3",
