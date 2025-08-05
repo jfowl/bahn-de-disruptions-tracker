@@ -988,16 +988,16 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug behoben"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "headline": "Endmeldung: Stammstrecke",
       "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten. Durch vorzeitige Wenden kommt es zu Teilausfällen. .",
-      "text": "<p>Der Grund hierfür ist eine vorangegangene technische Störung am Zug.</p>",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "05.08.2025",
       "durationEnd": "05.08.2025",
       "mapHref": "https://karte.bahn.de/detail/e1d655e9-aae2-4aba-8bd4-a6acf11a8c13",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/d5653044-fdcf-4ff6-94c2-cbfa186f3fbdreisendenkarte_20250805-180838.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/d5653044-fdcf-4ff6-94c2-cbfa186f3fbdreisendenkarte_20250805-180838.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/f43aa8a3-59bd-4409-a410-b871a9476e93reisendenkarte_20250805-180838.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/f43aa8a3-59bd-4409-a410-b871a9476e93reisendenkarte_20250805-180838.png",
           "info": "",
           "alt": "Reisendenkarte 05.08.2025 18:08:38",
           "openInNewTab": true
@@ -1048,12 +1048,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.08.2025 20:53",
+      "lastModified": "05.08.2025 21:46",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0cc9e3d4-e6fb-4869-a258-4fca4c325628",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
+      "id": "ecf5e3e8-e46f-4076-9622-0fde431788d3",
+      "disruptionId": "33c185fb-8df9-43f4-9ccf-072c7ba6cb64",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Feldkirchen in Richtung Erding: Reparatur an einem Signal",
+      "summary": "Im Bereich Feldkirchen in Richtung Erding kommt es zu Verspätungen von bis zu 10 Minuten, sowie außerplanmäßigen Zugwenden und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "05.08.2025",
+      "durationEnd": "05.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/33c185fb-8df9-43f4-9ccf-072c7ba6cb64",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/c6c5af2b-2985-4b19-bb9e-a982f79213e3reisendenkarte_20250805-212559.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-05/c6c5af2b-2985-4b19-bb9e-a982f79213e3reisendenkarte_20250805-212559.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.08.2025 21:25:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.08.2025 21:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ecf5e3e8-e46f-4076-9622-0fde431788d3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "9162fcd9-90f5-489b-9110-d7fe9afe9bf2",
