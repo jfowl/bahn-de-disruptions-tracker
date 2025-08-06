@@ -48,42 +48,6 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
     },
     {
-      "id": "b99243b4-9a1e-4d9c-ab53-33e310e051c1",
-      "disruptionId": "5c4a3f04-7535-477a-bb7a-1416780fe2e7",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim und Karlsruhe",
-      "summary": "Aufgrund eines defekten Stellwerkes in Heidelberg ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle Züge zwischen Frankfurt(M), Mannheim, Karlsruhe und Stuttgart mit planmäßigen Halt in Heidelberg Hbf und Wiesloch-Walldorf werden umgeleitet. Die Halte in Heidelberg Hbf und Wiesloch-Walldorf entfallen. Einzelne über Darmstadt verkehrende Züge halten zusätzlich in Neu-Edingen/Friedrichsfeld oder Weinheim Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/5c4a3f04-7535-477a-bb7a-1416780fe2e7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.08.2025 14:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/b99243b4-9a1e-4d9c-ab53-33e310e051c1",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
-    },
-    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -440,6 +404,85 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "8246ab3c-65a0-41ae-8185-f6c44b75e776",
+      "disruptionId": "38474bd8-d0cd-4146-af6f-efaceb20748c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1: Aktuell Unregelmäßigkeiten auf der S1.",
+      "summary": "Aktuell kommt es zu Unregelmäßigkeiten auf der S1. Grund: Weichenstörung.",
+      "text": "<p>Züge mit dem Ziel Airport / Poppenbüttel fahren abweichend mit allen Wagen zum Airport, Fahrgäste in Richtung Poppenbüttel müssen in Ohlsdorf umsteigen. Zwischen Poppenbüttel und Berliner Tor fahren die Züge nur alle 10 Minuten. Bitte achten Sie auf die Ansagen und Anzeigen auf den Bahnsteigen. </p>",
+      "durationBegin": "06.08.2025",
+      "durationEnd": "06.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/38474bd8-d0cd-4146-af6f-efaceb20748c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.08.2025 16:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8246ab3c-65a0-41ae-8185-f6c44b75e776",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section6"
+    },
+    {
+      "id": "cb34c36c-39cb-476b-8e4b-c15bc5cdf8aa",
+      "disruptionId": "f708f18c-4f61-46a5-baf0-d7236369b447",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S5: Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. ",
+      "summary": "Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. Grund: Weichenstörung. Nutzen Sie zwischen Neugraben und Buxtehude ersatzweise die Züge von und nach Stade. ",
+      "text": "<p> </p>",
+      "durationBegin": "06.08.2025",
+      "durationEnd": "06.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/f708f18c-4f61-46a5-baf0-d7236369b447",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.08.2025 16:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cb34c36c-39cb-476b-8e4b-c15bc5cdf8aa",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section7"
     },
     {
       "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
