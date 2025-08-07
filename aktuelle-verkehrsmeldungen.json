@@ -698,6 +698,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "6508cd4f-7246-49f8-9b83-0cbd5ebca836",
+      "disruptionId": "6a5bd569-9f8e-4da3-84ae-3eddfae60814",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Würzburg und Nürnberg",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Würzburg und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Fürth und Verspätungen von ca. 30 Min.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC-/ICE Züge zwischen Würzburg und Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Störung wird vsl. bis Betriebsende am 07.08.2025 andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "08.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/6a5bd569-9f8e-4da3-84ae-3eddfae60814",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.08.2025 16:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6508cd4f-7246-49f8-9b83-0cbd5ebca836",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -759,51 +796,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
-    },
-    {
-      "id": "45f7d144-8f98-4470-801b-ae203fcc522e",
-      "disruptionId": "f8e1d9aa-a265-4918-b2ac-852a304ec11f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 1 Oberschleißheim",
-      "summary": "Im Bereich Oberschleißheim kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/f8e1d9aa-a265-4918-b2ac-852a304ec11f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/b2fc3c8a-f04f-447e-b041-a10c3a9b3321reisendenkarte_20250807-130714.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/b2fc3c8a-f04f-447e-b041-a10c3a9b3321reisendenkarte_20250807-130714.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.08.2025 13:07:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.08.2025 15:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/45f7d144-8f98-4470-801b-ae203fcc522e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
@@ -1262,6 +1254,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
+      "disruptionId": "84262523-1f71-466c-90ab-c21b71c549ff",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 7 Baierbrunn ↔ Wolfratshausen: Reparatur an einer Weiche",
+      "summary": "Zwischen Baierbrunn und Wolfratshausen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Baierbrunn.</p><p>Ein Ersatzverkehr zwischen Baierbrunn und Wolfratshausen ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "07.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/84262523-1f71-466c-90ab-c21b71c549ff",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/b724a10e-806b-4be7-bcaa-e38eeb7399aareisendenkarte_20250807-162208.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/b724a10e-806b-4be7-bcaa-e38eeb7399aareisendenkarte_20250807-162208.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 16:22:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.08.2025 16:23",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "9162fcd9-90f5-489b-9110-d7fe9afe9bf2",
       "disruptionId": "d4720faf-2fe3-4f4b-a5a7-783b00e4f9e3",
       "author": "S_BAHN_MUC",
@@ -1270,15 +1307,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 1 Neufahrn: Reparatur an der Strecke",
-      "summary": "Auf der Linie der S1 kommt es derzeit zu Verspätungen von 5 bis 10 Minuten. ",
-      "text": "<p>Bitte informieren Sie sich kurz vor Fahrt über Ihre Verbindung unter: www.s-bahn-muenchen.de oder im München-Navigator.</p><p>Grund ist eine andauernde Reparatur an der Strecke.</p><p>Mit einer Behebung der Störung rechnen wir nach aktuellem Stand am 8. August bis ca. 05:00 Uhr.</p>",
+      "summary": "Auf der Linie der S1 kommt es derzeit zu Verspätungen von 5 bis 10 Minuten.\nBitte informieren Sie sich kurz vor Fahrt über Ihre Verbindung unter: www.s-bahn-muenchen.de oder im München-Navigator.\nGrund ist eine andauernde Reparatur an der Strecke.",
+      "text": "<p>Mit einer Behebung der Störung rechnen wir nach aktuellem Stand am 8. August bis ca. 05:00 Uhr.</p>",
       "durationBegin": "05.08.2025",
       "durationEnd": "08.08.2025",
       "mapHref": "https://karte.bahn.de/detail/d4720faf-2fe3-4f4b-a5a7-783b00e4f9e3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/790a8fe1-5578-472e-a3d3-ae828fafcf60reisendenkarte_20250806-000448.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/790a8fe1-5578-472e-a3d3-ae828fafcf60reisendenkarte_20250806-000448.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/11e8e814-af58-4577-a7d5-67a896e0cb87reisendenkarte_20250806-000448.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/11e8e814-af58-4577-a7d5-67a896e0cb87reisendenkarte_20250806-000448.png",
           "info": "",
           "alt": "Reisendenkarte 06.08.2025 00:04:48",
           "openInNewTab": true
@@ -1299,7 +1336,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.08.2025 10:05",
+      "lastModified": "07.08.2025 15:52",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
