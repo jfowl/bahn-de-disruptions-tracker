@@ -641,43 +641,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "6508cd4f-7246-49f8-9b83-0cbd5ebca836",
-      "disruptionId": "6a5bd569-9f8e-4da3-84ae-3eddfae60814",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Würzburg und Nürnberg",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Würzburg und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Fürth und Verspätungen von ca. 30 Min.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC-/ICE Züge zwischen Würzburg und Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Störung wird vsl. bis Betriebsende am 07.08.2025 andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.08.2025",
-      "durationEnd": "08.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/6a5bd569-9f8e-4da3-84ae-3eddfae60814",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.08.2025 16:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6508cd4f-7246-49f8-9b83-0cbd5ebca836",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -1208,12 +1171,12 @@
       "summary": "Zwischen Baierbrunn und Wolfratshausen sind keine Zugfahrten möglich.",
       "text": "<p>Die S-Bahnen wenden in Baierbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Baierbrunn und Wolfratshausen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
+      "durationEnd": "08.08.2025",
       "mapHref": "https://karte.bahn.de/detail/84262523-1f71-466c-90ab-c21b71c549ff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/f37f9447-a2ff-494e-8970-db6dd4e48179reisendenkarte_20250807-164143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/f37f9447-a2ff-494e-8970-db6dd4e48179reisendenkarte_20250807-164143.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/0a0fa7b1-af15-4af7-92f5-f4ae8f75157areisendenkarte_20250807-164143.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/0a0fa7b1-af15-4af7-92f5-f4ae8f75157areisendenkarte_20250807-164143.png",
           "info": "",
           "alt": "Reisendenkarte 07.08.2025 16:41:43",
           "openInNewTab": true
@@ -1234,12 +1197,87 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.08.2025 18:50",
+      "lastModified": "07.08.2025 20:37",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
+      "id": "c5625088-606c-45ff-8fa2-47c6e6fecaa3",
+      "disruptionId": "266a9c5f-0316-4a8c-810f-523cbd063993",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Stammstrecke: vorangegangene Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein vorangegangener technischer Defekt an einem Zug.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "07.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/266a9c5f-0316-4a8c-810f-523cbd063993",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/3d014983-29c6-457b-86c0-8cbac55027a6reisendenkarte_20250807-203126.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/3d014983-29c6-457b-86c0-8cbac55027a6reisendenkarte_20250807-203126.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 20:31:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.08.2025 20:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c5625088-606c-45ff-8fa2-47c6e6fecaa3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
     },
     {
       "id": "9162fcd9-90f5-489b-9110-d7fe9afe9bf2",
