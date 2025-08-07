@@ -59,48 +59,59 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "a7d905e1-b438-474d-bb66-92243eb2e619",
-      "disruptionId": "372dd239-8695-402e-b320-54548ca6b5ea",
-      "author": "S_BAHN_HH",
+      "id": "212c04bd-9307-4fa5-9cfc-299a9bafe67e",
+      "disruptionId": "2fb3d02e-331e-46bd-a09f-da8d68436cdd",
+      "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Signalstörung",
-      "summary": "Ausfälle und abweichende Wendungen",
-      "text": "<p>Auf den Linien S3 und S5 kommt es aktuell in Richtung Neugraben/Stade zu Verspätungen und abweichenden Wendungen. Grund: Signalstörung</p>",
+      "headline": "Beeinträchtigungen zwischen Erfurt und Nürnberg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Erfurt und Bamberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \nDie Züge verspäten sich dadurch um bis zu 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Sprinter Züge Berlin - München (Zugnummern ICE 10xx und ICE 11xx)</li><li>ICE Züge zwischen Erfurt und Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/372dd239-8695-402e-b320-54548ca6b5ea",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/2fb3d02e-331e-46bd-a09f-da8d68436cdd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-07/a7364f71-cd10-4daa-aab3-793109d57b34reisendenkarte_20250807-075758.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-07/a7364f71-cd10-4daa-aab3-793109d57b34reisendenkarte_20250807-075758.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 07:57:58",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-07/9564c890-716e-450c-89d4-834e2247b8b7reisendenkarte_20250807-084118.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-07/9564c890-716e-450c-89d4-834e2247b8b7reisendenkarte_20250807-084118.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 08:41:18",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
         "HH",
-        "SH",
-        "NI"
+        "ST",
+        "BE",
+        "TH",
+        "BY",
+        "SN"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "07.08.2025 06:52",
+      "lastModified": "07.08.2025 08:42",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a7d905e1-b438-474d-bb66-92243eb2e619",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section8"
+      "detailPagePath": "/service/fahrplaene/212c04bd-9307-4fa5-9cfc-299a9bafe67e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "41d543d1-81e4-4af6-8a93-b983a33f96e3",
@@ -743,15 +754,15 @@
         "label": "Behobener technischer Defekt einem anderen Zug"
       },
       "headline": "S 2 Erding: Reparatur an einem anderen Zug",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem anderen Zug bei Riem.</p>",
+      "summary": "Der Zugverkehr zwischen Riem und Erding ist wieder möglich. ",
+      "text": "<p>Es kommt noch zu Folgeverspätungen bis zu 10 Minuten und Teilausfällen.</p><p>Der Grund dafür war eine Reparatur an einem anderen Zug bei Riem.</p>",
       "durationBegin": "07.08.2025",
       "durationEnd": "07.08.2025",
       "mapHref": "https://karte.bahn.de/detail/aefdecaf-b987-4f30-bd82-30c940abbc02",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/5f3f0edd-400a-4a8c-b35d-1bbd158b649ereisendenkarte_20250807-072728.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/5f3f0edd-400a-4a8c-b35d-1bbd158b649ereisendenkarte_20250807-072728.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/1f1842d9-9150-4733-8c87-0eb68f6c3722reisendenkarte_20250807-072728.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/1f1842d9-9150-4733-8c87-0eb68f6c3722reisendenkarte_20250807-072728.png",
           "info": "",
           "alt": "Reisendenkarte 07.08.2025 07:27:28",
           "openInNewTab": true
@@ -772,7 +783,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.08.2025 07:30",
+      "lastModified": "07.08.2025 08:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
