@@ -1160,25 +1160,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "c5625088-606c-45ff-8fa2-47c6e6fecaa3",
-      "disruptionId": "266a9c5f-0316-4a8c-810f-523cbd063993",
+      "id": "d6700281-c7f3-4506-9efb-0a76f7aa35b9",
+      "disruptionId": "3cdb95bc-5066-4480-9e6c-be7b2a831499",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
+      "headline": "S 4, S 6 Trudering ↔ Zorneding: Defektes Stellwerk",
+      "summary": "Zwischen Trudering und Zorneding ist die Strecke gesperrt. Die S-Bahnen wenden von Ebersberg kommend in Zorneding und vom Ostbahnhof kommend in Trudering.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Zorneding und Trudering eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p><strong>Alternativen:</strong>&nbsp;</p><ul><li>Hauptbahnhof ↔ Trudering: <strong>U2</strong>&nbsp;</li><li>Trudering ↔ Berg am Laim: <strong>Bus 185</strong>&nbsp;</li><li>Berg am Laim ↔ Ostbahnhof:<strong> Bus 190/191</strong></li><li>Ostbahnhof ↔ Trudering: Ostbahnhof <strong>U5</strong> → Innsbrucker Ring ab Innsbrucker Ring <strong>U2</strong> → bis Trudering</li></ul><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist ein defektes Stellwerk in Haar.</p>",
       "durationBegin": "07.08.2025",
       "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/266a9c5f-0316-4a8c-810f-523cbd063993",
+      "mapHref": "https://karte.bahn.de/detail/3cdb95bc-5066-4480-9e6c-be7b2a831499",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/27fe271a-9c4e-4d02-87e6-59d10697331areisendenkarte_20250807-203126.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/27fe271a-9c4e-4d02-87e6-59d10697331areisendenkarte_20250807-203126.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/75010751-ca9f-44fb-b6ee-4edb34dfecd3reisendenkarte_20250807-214243.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/75010751-ca9f-44fb-b6ee-4edb34dfecd3reisendenkarte_20250807-214243.png",
           "info": "",
-          "alt": "Reisendenkarte 07.08.2025 20:31:26",
+          "alt": "Reisendenkarte 07.08.2025 21:42:43",
           "openInNewTab": true
         }
       ],
@@ -1192,79 +1192,12 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "07.08.2025 21:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c5625088-606c-45ff-8fa2-47c6e6fecaa3",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
-    },
-    {
-      "id": "d6700281-c7f3-4506-9efb-0a76f7aa35b9",
-      "disruptionId": "3cdb95bc-5066-4480-9e6c-be7b2a831499",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 4, S 6 Trudering ↔ Zorneding: Defektes Stellwerk",
-      "summary": "Zwischen Trudering und Zorneding ist die Strecke gesperrt. Die S-Bahnen wenden von Ebersberg kommend in Zorneding und vom Ostbahnhof kommend in Trudering.",
-      "text": "<p>Ein Ersatzverkehr zwischen Zorneding und Trudering ist in Planung.</p><p>Bitte rechnen Sie zusätzlich mit Verspätungen.</p><p>Der Grund hierfür ist ein defektes Stellwerk in Haar.</p>",
-      "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/3cdb95bc-5066-4480-9e6c-be7b2a831499",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.08.2025 21:15",
+      "lastModified": "07.08.2025 21:44",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
