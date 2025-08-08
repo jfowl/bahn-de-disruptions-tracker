@@ -2,24 +2,95 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2c3bc4ed-c4d4-4c0f-aa0f-9aafc92b0331",
+      "disruptionId": "8d653df4-4bab-44a7-b4c1-cfcc3d4feca1",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Linie B und B2: Es kommt zu teils starken Verspätungen und Ausfällen\nLinie K: Hst. Kirch Jesar Wartehalle kann aufgrund einer Umleitung derzeit nicht angefahren werden.",
+      "summary": "Aufgrund von Streckensperrungen nach einem Verkehrunfall auf der B321 zwischen Hagenow und Schwerin kommt es zu Verspätungen auf den Linien B, B2, K",
+      "text": "<p><strong>Zeitraum:</strong> Freitag, 08. August 2025, 07:00 Uhr bis Freitag, 08. August 2025, 09:30 Uhr</p><p><strong>Betroffene Linien:</strong> B, B2, K (Kirch Jesar Wartehalle kann nicht angefahren werden.)</p><p>Grund hierfür sind Streckensperrungen nach einem Verkehrunfall.</p><p><strong>Unsere Empfehlung: </strong>Die Störung wird voraussichtlich nach etwa 2 Stunden vorbei sein.</p>",
+      "durationBegin": "08.08.2025",
+      "durationEnd": "08.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/8d653df4-4bab-44a7-b4c1-cfcc3d4feca1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus B",
+          "filterName": "Bus B",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus B2",
+          "filterName": "Bus B2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus C",
+          "filterName": "Bus C",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus D",
+          "filterName": "Bus D",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus H",
+          "filterName": "Bus H",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus J",
+          "filterName": "Bus J",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus K",
+          "filterName": "Bus K",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.08.2025 08:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2c3bc4ed-c4d4-4c0f-aa0f-9aafc92b0331",
+      "magnoliaPath": "/aktuell/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "31de0d11-b8f9-4a08-b765-03c6c5a71da4",
       "disruptionId": "45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
       "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig",
-      "summary": "Wegen Bauarbeiten bei Peine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Umleitungen mit Ausfall des Haltes Peine und Verspätungen bis zu 15 Minuten kommen.",
+      "summary": "Wegen einer Reparatur an einem Signal bei Peine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Umleitungen mit Ausfall des Haltes Peine und Verspätungen bis zu 15 Minuten kommen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Züge zwischen Hannover und Magdeburg</li></ul><p></p><p>Wir empfehlen Ihnen folgende Reisealternativen: RE 70 von/nach Peine</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "08.08.2025",
       "mapHref": "https://karte.bahn.de/detail/45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/ce1bf2aa-e875-4ebd-a137-299642041c3ereisendenkarte_20250808-065625.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/ce1bf2aa-e875-4ebd-a137-299642041c3ereisendenkarte_20250808-065625.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/19575ef2-ef4b-4610-a98a-5c0d914d8634reisendenkarte_20250808-083934.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/19575ef2-ef4b-4610-a98a-5c0d914d8634reisendenkarte_20250808-083934.png",
           "info": "",
-          "alt": "Reisendenkarte 08.08.2025 06:56:25",
+          "alt": "Reisendenkarte 08.08.2025 08:39:34",
           "openInNewTab": true
         }
       ],
@@ -40,7 +111,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "08.08.2025 06:59",
+      "lastModified": "08.08.2025 08:41",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/31de0d11-b8f9-4a08-b765-03c6c5a71da4",
@@ -632,59 +703,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "e5c26092-8519-4241-8e5a-5d1ea3dd43d6",
-      "disruptionId": "cb70ec2c-0cbb-4072-bc7b-054962d14380",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Bahnhof Kressbronn gesperrt",
-      "summary": "Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einer Weiche. Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RB 93 (Friedrichshafen – Lindau)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "08.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/cb70ec2c-0cbb-4072-bc7b-054962d14380",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-08/068781ce-108a-4d20-902f-fecadc3c96c5reisendenkarte_20250808-072048.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-08/068781ce-108a-4d20-902f-fecadc3c96c5reisendenkarte_20250808-072048.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.08.2025 07:20:48",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 93",
-          "filterName": "RB 93",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.08.2025 07:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/e5c26092-8519-4241-8e5a-5d1ea3dd43d6",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -1239,6 +1257,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "93ad657f-1c21-4b90-9f5d-1e390e61cfd3",
+      "disruptionId": "ccb7ed20-053c-4bd5-b958-60ad44f5fc83",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 1, S 2, S 3, S 4, S 5, S 6, S 8 Ostbahnhof In Richtung Pasing",
+      "summary": "Im Bereich Ostbahnhof In Richtung Pasing kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "08.08.2025",
+      "durationEnd": "08.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/ccb7ed20-053c-4bd5-b958-60ad44f5fc83",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/a4eac214-5e1b-4f04-958f-0eb1b2b45151reisendenkarte_20250808-075709.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/a4eac214-5e1b-4f04-958f-0eb1b2b45151reisendenkarte_20250808-075709.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.08.2025 07:57:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.08.2025 08:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/93ad657f-1c21-4b90-9f5d-1e390e61cfd3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
     },
     {
       "id": "9162fcd9-90f5-489b-9110-d7fe9afe9bf2",
