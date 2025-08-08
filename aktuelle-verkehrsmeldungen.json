@@ -2,6 +2,77 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2c3bc4ed-c4d4-4c0f-aa0f-9aafc92b0331",
+      "disruptionId": "8d653df4-4bab-44a7-b4c1-cfcc3d4feca1",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Linie B und B2: Es kommt zu teils starken Verspätungen und Ausfällen\nLinie K: Hst. Kirch Jesar Wartehalle kann aufgrund einer Umleitung derzeit nicht angefahren werden.",
+      "summary": "Aufgrund von Streckensperrungen nach einem Verkehrunfall auf der B321 zwischen Hagenow und Schwerin kommt es zu Verspätungen auf den Linien B, B2 und K.",
+      "text": "<p><strong>Zeitraum:</strong> Freitag, 08. August 2025, 07:00 Uhr bis Freitag, 08. August 2025, 14:00 Uhr</p><p><strong>Betroffene Linien:</strong> B, B2 und K (Kirch Jesar Wartehalle)</p><p>Grund hierfür sind Streckensperrungen nach einem Verkehrunfall.</p><p><strong>Unsere Empfehlung: </strong>Die Störung wird voraussichtlich zwischen 14 und 15 Uhr vorbei sein.</p>",
+      "durationBegin": "08.08.2025",
+      "durationEnd": "08.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/8d653df4-4bab-44a7-b4c1-cfcc3d4feca1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus B",
+          "filterName": "Bus B",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus B2",
+          "filterName": "Bus B2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus C",
+          "filterName": "Bus C",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus D",
+          "filterName": "Bus D",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus H",
+          "filterName": "Bus H",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus J",
+          "filterName": "Bus J",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus K",
+          "filterName": "Bus K",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.08.2025 11:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2c3bc4ed-c4d4-4c0f-aa0f-9aafc92b0331",
+      "magnoliaPath": "/aktuell/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "31de0d11-b8f9-4a08-b765-03c6c5a71da4",
       "disruptionId": "45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
       "author": "FERNVERKEHR_AG",
@@ -821,49 +892,6 @@
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
-      "id": "1529fcd8-26a9-4d26-854f-2602943a6883",
-      "disruptionId": "dfe97891-b300-40cc-a096-6360157014cb",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Nürnberg und München bzw. Nürnberg und Regensburg",
-      "summary": "Aufgrund einer Reparatur an der Weiche in Nürnberg-Dutzendteich kommt es derzeit zu Beeinträchtigungen und Verspätungen von bis zu 15 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Nürnberg - Regensburg - Passau - Wien</li><li>ICE-Züge der Verbindung Nürnberg - Ingolstadt - München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/dfe97891-b300-40cc-a096-6360157014cb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/efc77575-6312-400b-9c93-261025a36537N-Dutzendteich.jpg",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/efc77575-6312-400b-9c93-261025a36537N-Dutzendteich.jpg",
-          "info": "",
-          "alt": "N-Dutzendteich.jpg",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.08.2025 01:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1529fcd8-26a9-4d26-854f-2602943a6883",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section3"
-    },
-    {
       "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
       "disruptionId": "52fd31db-b8c8-413e-85bd-14e1a8c5bdae",
       "author": "S_BAHN_HH",
@@ -1258,8 +1286,8 @@
       "mapHref": "https://karte.bahn.de/detail/84262523-1f71-466c-90ab-c21b71c549ff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/f9733e36-b7da-418f-b060-0f4cda084f62reisendenkarte_20250807-164143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/f9733e36-b7da-418f-b060-0f4cda084f62reisendenkarte_20250807-164143.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/4d71c900-e6c4-460f-a165-791f44b8292dreisendenkarte_20250807-164143.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-08/4d71c900-e6c4-460f-a165-791f44b8292dreisendenkarte_20250807-164143.png",
           "info": "",
           "alt": "Reisendenkarte 07.08.2025 16:41:43",
           "openInNewTab": true
@@ -1280,7 +1308,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.08.2025 10:33",
+      "lastModified": "08.08.2025 11:38",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
