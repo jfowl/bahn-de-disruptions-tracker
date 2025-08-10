@@ -2,6 +2,47 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "90d8d593-fab7-4127-9585-ea3e32ff9deb",
+      "disruptionId": "0db8dab2-6b2d-4d58-8e60-4df21df804e9",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "accident",
+        "label": "Unfall an einem Bahnübergang"
+      },
+      "headline": "Es kommt zu Massive Beeinträchtigung auf der Linie BusP",
+      "summary": "Aufgrund von Unfall mit Straßensperrung  zwischen Perleberg - Parchim bhf kommt es zu Verspätungen auf der Linie BusP",
+      "text": "<p><strong>Zeitraum:</strong> Sonntag, 10. August 2025, 11:08 Uhr bis Sonntag, 10. August 2025, 13:15 Uhr</p><p><strong>Betroffene Linien:</strong> BusP (104497, 104782, 115449, 204231, 204497, 206297, 215449, 304511, 306424, 315761, 404511 und 406424)</p><p>Grund hierfür sind Unfall mit Straßensperrung .</p><p><strong>Unsere Empfehlung: </strong>es liegen leider Empfehlungen vor </p>",
+      "durationBegin": "10.08.2025",
+      "durationEnd": "10.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/0db8dab2-6b2d-4d58-8e60-4df21df804e9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus P",
+          "filterName": "Bus P",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.08.2025 12:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/90d8d593-fab7-4127-9585-ea3e32ff9deb",
+      "magnoliaPath": "/aktuell/massive_impairment_accident"
+    },
+    {
       "id": "31de0d11-b8f9-4a08-b765-03c6c5a71da4",
       "disruptionId": "45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
       "author": "FERNVERKEHR_AG",
@@ -439,16 +480,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 2 Erding: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Markt Schwaben.</p>",
+      "headline": "S 2 Erding: Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Markt Schwaben.</p>",
       "durationBegin": "10.08.2025",
       "durationEnd": "10.08.2025",
       "mapHref": "https://karte.bahn.de/detail/6f082179-9413-40c9-9f2f-28a7370000b0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-10/b350ddbf-d107-4c86-b306-a3c7d0573848reisendenkarte_20250810-115812.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-10/b350ddbf-d107-4c86-b306-a3c7d0573848reisendenkarte_20250810-115812.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-10/774b7c83-6c71-4436-8a2a-0e46733c9052reisendenkarte_20250810-115812.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-10/774b7c83-6c71-4436-8a2a-0e46733c9052reisendenkarte_20250810-115812.png",
           "info": "",
           "alt": "Reisendenkarte 10.08.2025 11:58:12",
           "openInNewTab": true
@@ -469,7 +510,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.08.2025 12:01",
+      "lastModified": "10.08.2025 12:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
