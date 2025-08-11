@@ -1183,8 +1183,8 @@
       "mapHref": "https://karte.bahn.de/detail/2a70465e-f099-4e7a-a7b3-61ab16849437",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-11/df1b168c-4e04-42c1-a3c6-1166b4ee0522reisendenkarte_20250811-203607.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-11/df1b168c-4e04-42c1-a3c6-1166b4ee0522reisendenkarte_20250811-203607.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-11/21fec092-0d25-437d-bf93-c6f7821da1dbreisendenkarte_20250811-203607.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-11/21fec092-0d25-437d-bf93-c6f7821da1dbreisendenkarte_20250811-203607.png",
           "info": "",
           "alt": "Reisendenkarte 11.08.2025 20:36:07",
           "openInNewTab": true
@@ -1205,12 +1205,54 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.08.2025 20:38",
+      "lastModified": "11.08.2025 21:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8400e196-d2f9-433f-9173-1112cd326b2e",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
+      "disruptionId": "c53488d6-a132-48af-8d4e-cb3ce1c90ed7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Karlsruhe Hbf und Karlsruhe-Durlach",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Karlsruhe Hbf und Karlsruhe-Durlach kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten. Die Halte Heidelberg Hbf, Wiesloch-Walldorf und Bruchsal entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Karlsruhe - Frankfurt (Main) - Kassel und Hamburg</li><li>IC - Züge zwischen Karlsruhe - Mainz - Koblenz - Köln - Hannover - Leipzig und Dresden</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Züge des Regionalverkehrs. Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/c53488d6-a132-48af-8d4e-cb3ce1c90ed7",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-11/0052ed28-2ff8-4dcf-b094-269b04764b73RK%2B-%2BRKDU.png",
+          "label": "RK - RKDU.png",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.08.2025 21:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
