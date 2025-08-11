@@ -2,49 +2,55 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "31de0d11-b8f9-4a08-b765-03c6c5a71da4",
-      "disruptionId": "45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
-      "author": "FERNVERKEHR_AG",
+      "id": "ce68f224-7ddb-442d-848f-1e43648da71d",
+      "disruptionId": "3d607365-63fd-4428-bccb-db276333357f",
+      "author": "REGIO_MITTE",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig",
-      "summary": "Wegen einer Reparatur an einem Signal bei Peine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Umleitungen mit Ausfall des Haltes Peine und Verspätungen bis zu 15 Minuten kommen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Züge zwischen Hannover und Magdeburg</li></ul><p></p><p>Wir empfehlen Ihnen folgende Reisealternativen: RE 70 von/nach Peine</p><p>Die Behebung der Störung soll vsl. bis Mittwoch, 13.08.2025, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/45b70f2d-2658-4042-8884-b7e1f2c2b2a4",
+      "headline": "Msobach-Neckarelz ⇄ Osterburken - Instandhaltungsmaßnahmen",
+      "summary": "Datum: 11.08. – 22.08.2025",
+      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu geänderten Fahrzeiten und Fahrtausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
+      "durationBegin": "11.08.2025",
+      "durationEnd": "22.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/3d607365-63fd-4428-bccb-db276333357f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/c6b59583-e1b4-43e6-a0ab-63131ade54c5reisendenkarte_20250808-223632.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-08/c6b59583-e1b4-43e6-a0ab-63131ade54c5reisendenkarte_20250808-223632.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-11/a6cbb088-81a7-4d2f-860a-70da75bd9e30reisendenkarte_20250719-083626.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-11/a6cbb088-81a7-4d2f-860a-70da75bd9e30reisendenkarte_20250719-083626.png",
           "info": "",
-          "alt": "Reisendenkarte 08.08.2025 22:36:32",
+          "alt": "Reisendenkarte 19.07.2025 08:36:26",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "ST",
-        "HB",
-        "NI"
+        "BW",
+        "SL",
+        "RP"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Neckar",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "08.08.2025 22:40",
+      "lastModified": "11.08.2025 04:31",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/31de0d11-b8f9-4a08-b765-03c6c5a71da4",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_construction"
+      "detailPagePath": "/service/fahrplaene/ce68f224-7ddb-442d-848f-1e43648da71d",
+      "magnoliaPath": "/aktuell/mitte/additional_service_construction6"
     },
     {
       "id": "e3de7f16-207e-4d63-af9a-9ae0f9dc6416",
