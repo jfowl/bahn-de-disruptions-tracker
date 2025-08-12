@@ -518,51 +518,6 @@
       "magnoliaPath": "/aktuell/nord/no_service_construction"
     },
     {
-      "id": "b4456ed1-2025-488f-a953-e355b7a658a6",
-      "disruptionId": "225b32b6-9fdb-4472-a9bf-4889bf94ff5a",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Der Streckenabschnitt zwischen Geislingen(Steige) und Ulm Hbf ist nun eingleisig befahrbar",
-      "summary": " In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Der Grund ist eine Reparatur an der Oberleitung. Wir haben zusätzlich einen Ersatzverkehr mit zwei Bussen zwischen Geislingen(Steige) und Ulm Hbf im Pendelverkehr für Sie eingerichtet. Die Busse fahren jeweils ab ca 14:30 Uhr ab Ulm Hbf und Geislingen(Steige).\n Reisende in Richtung Stuttgart Hbf können auch alternativ die Züge des RE 200 bis Wendlingen(Neckar) benutzen. Dort kann in Richtung Stuttgart Hbf \n(über Plochingen und Esslingen(Neckar)) umgestiegen werden.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "12.08.2025",
-      "durationEnd": "12.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/225b32b6-9fdb-4472-a9bf-4889bf94ff5a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/9d362750-ecfe-44f0-801a-532fd6fa5b9creisendenkarte_20250812-141510.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/9d362750-ecfe-44f0-801a-532fd6fa5b9creisendenkarte_20250812-141510.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.08.2025 14:15:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.08.2025 14:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b4456ed1-2025-488f-a953-e355b7a658a6",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -1230,6 +1185,56 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "9fb9dff9-7aac-4136-b1d2-888c33543ba7",
+      "disruptionId": "8fd69efd-ac11-4c92-ac21-034c90cd15f1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "S 4, S 6 Trudering: Behördliche Maßnahme",
+      "summary": "Im Bereich Trudering kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür sind behördliche Maßnahmen.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/8fd69efd-ac11-4c92-ac21-034c90cd15f1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/e3e84597-27c3-4c66-b35b-d72c17c5651dreisendenkarte_20250812-153435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/e3e84597-27c3-4c66-b35b-d72c17c5651dreisendenkarte_20250812-153435.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.08.2025 15:34:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 15:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9fb9dff9-7aac-4136-b1d2-888c33543ba7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+    },
+    {
       "id": "5b066000-1d3c-4c66-af69-712d261a75aa",
       "disruptionId": "ff32ff03-f3aa-45b5-9ad4-d3e684ba8de2",
       "author": "S_BAHN_MUC",
@@ -1245,8 +1250,8 @@
       "mapHref": "https://karte.bahn.de/detail/ff32ff03-f3aa-45b5-9ad4-d3e684ba8de2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/ca4c23cd-c09c-4d65-9fdc-8b9a5e4de08dreisendenkarte_20250812-143956.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/ca4c23cd-c09c-4d65-9fdc-8b9a5e4de08dreisendenkarte_20250812-143956.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/65a3f614-d600-4415-9780-52558f267680reisendenkarte_20250812-143956.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/65a3f614-d600-4415-9780-52558f267680reisendenkarte_20250812-143956.png",
           "info": "",
           "alt": "Reisendenkarte 12.08.2025 14:39:56",
           "openInNewTab": true
@@ -1267,7 +1272,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.08.2025 14:43",
+      "lastModified": "12.08.2025 15:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1283,15 +1288,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 4, S 6 Zorneding ↔ Grafing Bahnhof: Reparatur an der Strecke",
-      "summary": "Zwischen Zorneding und Grafing Bahnhof kommt es in Richtung Ebersberg zu Verspätungen, sowie zu vorzeitigen Wenden.",
+      "summary": "Zwischen Zorneding und Grafing Bahnhof kommt es in Richtung Ebersberg zu Verspätungen von bis zu 10 Minuten, sowie zu vorzeitigen Wenden.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "12.08.2025",
       "durationEnd": "12.08.2025",
       "mapHref": "https://karte.bahn.de/detail/29209494-f69e-4734-ae13-50bd0d856673",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/4f52d4e1-6aa2-45b6-85eb-6855367dc042reisendenkarte_20250812-144126.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/4f52d4e1-6aa2-45b6-85eb-6855367dc042reisendenkarte_20250812-144126.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/99ab1813-ef4d-44b9-b885-87dfd3adf040reisendenkarte_20250812-144126.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/99ab1813-ef4d-44b9-b885-87dfd3adf040reisendenkarte_20250812-144126.png",
           "info": "",
           "alt": "Reisendenkarte 12.08.2025 14:41:26",
           "openInNewTab": true
@@ -1317,7 +1322,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.08.2025 14:43",
+      "lastModified": "12.08.2025 15:18",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
