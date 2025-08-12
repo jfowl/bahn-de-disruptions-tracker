@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "35296210-83bb-43d5-a432-f4c8838ebda5",
+      "disruptionId": "f197227a-b343-49f5-a12e-e39876565c6f",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Die Strecke zwischen Karlsruhe-Durlach und Karlsruhe ist zw 09:30 Uhr und 14:30 Uhr nur zweigleisig befahrbar.",
+      "summary": "Die Strecke zwischen Karlsruhe-Durlach und Karlsruhe ist nur zweigleisig befahrbar. Dauer der Teilsperrung vom 12.08 bis 13.08. jeweils zw. 09:30 Uhr und 14:30 Uhr. Der Grund sind Bauarbeiten an der Strecke.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>S3 - Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Karlsruhe </strong></li></ul><p>Es kommt zu Verspätungen und Teilausfällen</p><ul><li><strong>RB45 - Karlsruhe &lt;&gt; Bretten &lt;&gt; Eppingen &lt;&gt; Schwaigern(Württ) &lt;&gt; Heilbronn</strong></li></ul><p>Einige Züge enden und beginnen vorzeitig in Karlsruhe-Durlach</p><ul><li><strong>RE73 - Karlsruhe &lt;&gt; Bruchsal &lt;&gt; Heidelberg &lt;&gt; (Mannheim)</strong></li></ul><p>Züge fallen zwischen Bruchsal und Karlsruhe aus.</p><p><strong>Bitte nutzen Sie S-Bahnen zw. Bruchsal und Karlsruhe. </strong></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/f197227a-b343-49f5-a12e-e39876565c6f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "SL",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 45",
+          "filterName": "RB 45",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 08:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/35296210-83bb-43d5-a432-f4c8838ebda5",
+      "magnoliaPath": "/aktuell/mitte/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "ce68f224-7ddb-442d-848f-1e43648da71d",
       "disruptionId": "3d607365-63fd-4428-bccb-db276333357f",
       "author": "REGIO_MITTE",
@@ -97,6 +147,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3de7f16-207e-4d63-af9a-9ae0f9dc6416",
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
+    },
+    {
+      "id": "12c96241-b4c4-4a51-87ab-1dfcf7968310",
+      "disruptionId": "1502d28d-75af-4a21-a334-abf8cf3a4c8a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5: Aktuell fährt keine S5 zwischen Buxtehude und Stade. Grund: Technische Störung an der Strecke. ",
+      "summary": "Bitte nutzen Sie alternativ den RE5 mit Halt auf allen Unterwegsbahnhöfen sowie den eingerichteten Ersatzverkehr mit Bussen. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
+      "text": "<p>Der RE5 hält zwischen Buxtehude und Stade überall, weiterhin ist ein Ersatzverkehr mit Bussen eingerichtet. Bitte beachten Sie, dass durch die Störung die Informationsmedien auf den Stationen nur eingeschränkt im Betrieb sind. Nutzen Sie für die Fahrtauskunft auch die digitalen Auskunftsmedien unter www.hvv.de sowie www.bahn.de.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/1502d28d-75af-4a21-a334-abf8cf3a4c8a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 08:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/12c96241-b4c4-4a51-87ab-1dfcf7968310",
+      "magnoliaPath": "/aktuell/nord/no_service_construction"
     },
     {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
@@ -346,14 +434,14 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Streckensperrung: Munderkingen - Herbertingen | Ersatzverkehr mit Bussen ist eingerichtet",
-      "summary": "Aufgrund einer Zugentgleisung ist ein Ersatzverkehr mit Bussen zunächst bis zum Ende der Sommerferien eingerichtet. Eine genau Prognose zur Wiederaufnahme des Zugverkehrs kann noch nicht gegeben werden. ",
+      "summary": "Ein Ersatzverkehr mit Bussen ist zunächst bis zum Ende der Sommerferien eingerichtet. Eine genau Prognose zur Wiederaufnahme des Zugverkehrs kann noch nicht gegeben werden. ",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p>📅 <strong> Ersatzkonzept 11.08. bis 14.09.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der SWEG sowie stündlich Züge der DB Regio Linie RE 55, in Tagesrandlagen abweichend.</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der DB Regio Baden-Württemberg</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: ✅</strong></p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "27.07.2025",
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-11/dbbf9495-6d1e-4d3c-88cb-fadfca8487d4reisendenkarte_20250728-133854.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-11/dbbf9495-6d1e-4d3c-88cb-fadfca8487d4reisendenkarte_20250728-133854.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/0053772f-f79e-43ba-af0c-740b45bda601reisendenkarte_20250728-133854.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/0053772f-f79e-43ba-af0c-740b45bda601reisendenkarte_20250728-133854.png",
           "info": "",
           "alt": "Reisendenkarte 28.07.2025 13:38:54",
           "openInNewTab": true
@@ -361,7 +449,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-11/f2c45544-7129-4c9e-84d1-7b247f775bc6Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/fa454d83-2cc6-41b2-8828-6c34839d49e2Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
           "label": "🚍Bus Ersatzfahrplan ab 11.08. Munderkingen-Riedlingen",
           "info": "",
           "openInNewTab": true
@@ -394,11 +482,98 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "11.08.2025 10:29",
+      "lastModified": "12.08.2025 08:11",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "42f34ac3-41c5-4dfc-9415-2038b1cb5b14",
+      "disruptionId": "1ecc2497-85b1-4bec-be68-8d245b008855",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: S 1 Oberschleißheim ↔ Lohhof",
+      "summary": "Zwischen Oberschleißheim und Lohhof ist die Strecke wieder freigegeben. ",
+      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen.</p><p>Der Polizeieinsatz ist beendet.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/1ecc2497-85b1-4bec-be68-8d245b008855",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/055dbc98-a525-47e5-9751-ad9766e53a1creisendenkarte_20250812-075136.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/055dbc98-a525-47e5-9751-ad9766e53a1creisendenkarte_20250812-075136.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.08.2025 07:51:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 08:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/42f34ac3-41c5-4dfc-9415-2038b1cb5b14",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
+    },
+    {
+      "id": "75a4ce2e-a7f9-4172-ab85-3b4119be0e0f",
+      "disruptionId": "e78051c7-0fa7-49af-a59f-1d6b2d6d5392",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S3 und S5: Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf der Linie S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung am Zug ",
+      "text": "<p> </p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/e78051c7-0fa7-49af-a59f-1d6b2d6d5392",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 08:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75a4ce2e-a7f9-4172-ab85-3b4119be0e0f",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle0"
     },
     {
       "id": "66a91404-9665-447e-9b60-557ffc1fde90",
@@ -897,51 +1072,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
-    },
-    {
-      "id": "a25a56b5-e9ac-46dd-b8c2-305e31a27df3",
-      "disruptionId": "f45b5ad3-a4b1-44b5-b30c-b4b5692dda51",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Endmeldung: S 1 Freising/Flughafen",
-      "summary": "Die Züge verkehren ab Neufahrn wieder planmäßig nach Freising.",
-      "text": "<p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
-      "durationBegin": "12.08.2025",
-      "durationEnd": "12.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/f45b5ad3-a4b1-44b5-b30c-b4b5692dda51",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/9bcdf6e4-27f1-4b76-a421-5099c59ae3a5reisendenkarte_20250812-062710.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/9bcdf6e4-27f1-4b76-a421-5099c59ae3a5reisendenkarte_20250812-062710.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.08.2025 06:27:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.08.2025 06:28",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a25a56b5-e9ac-46dd-b8c2-305e31a27df3",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
     },
     {
       "id": "c2bc1e35-2d5d-4be8-841b-90116073dc6d",
