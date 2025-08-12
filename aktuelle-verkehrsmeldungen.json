@@ -519,6 +519,56 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "fa3ebe94-1988-489d-9a3e-4d461f805c94",
+      "disruptionId": "c61712b7-bd43-4fa0-b90a-2c8c2b7ab7b3",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Kein Zugverkehr zwischen Stuttgart Hbf und Ulm Hbf ",
+      "summary": "Dauer der Sperrung unbestimmt. Der Grund sind behördliche Maßnahmen. Reisende in Richtung Stuttgart Hbf nutzen bitte  den RE 200 bis Plochingen. Zwischen Geislingen(Steige) und Ulm Hbf besteht Schienenersatzverkehr mit zwei Bussen stündlich zur Minute 20 ab Ulm Hbf, sowie zur Minute 24 ab Geislingen(Steige). ",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/c61712b7-bd43-4fa0-b90a-2c8c2b7ab7b3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/d7ee9d61-3a25-4349-ac72-a825b0faa55freisendenkarte_20250812-162041.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-12/d7ee9d61-3a25-4349-ac72-a825b0faa55freisendenkarte_20250812-162041.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.08.2025 16:20:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://Bahn.de",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.08.2025 16:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fa3ebe94-1988-489d-9a3e-4d461f805c94",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_police_activity"
+    },
+    {
       "id": "12c96241-b4c4-4a51-87ab-1dfcf7968310",
       "disruptionId": "1502d28d-75af-4a21-a334-abf8cf3a4c8a",
       "author": "S_BAHN_HH",
@@ -1271,51 +1321,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/be1a769e-3d11-4cd8-8a03-b747c207a499",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
-      "id": "5b066000-1d3c-4c66-af69-712d261a75aa",
-      "disruptionId": "ff32ff03-f3aa-45b5-9ad4-d3e684ba8de2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 4 Puchheim in beiden Richtungen",
-      "summary": "Im Bereich Puchheim in beiden Richtungen kommt es Vereinzelt noch zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "12.08.2025",
-      "durationEnd": "12.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/ff32ff03-f3aa-45b5-9ad4-d3e684ba8de2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/a51041ce-501b-4002-9d91-ad9747fbbc1freisendenkarte_20250812-143956.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/a51041ce-501b-4002-9d91-ad9747fbbc1freisendenkarte_20250812-143956.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.08.2025 14:39:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.08.2025 16:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5b066000-1d3c-4c66-af69-712d261a75aa",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
