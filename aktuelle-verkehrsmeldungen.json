@@ -520,43 +520,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "12c96241-b4c4-4a51-87ab-1dfcf7968310",
-      "disruptionId": "1502d28d-75af-4a21-a334-abf8cf3a4c8a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5: Zugverkehr zwischen Buxtehude und Stade wieder eingeschränkt möglich.",
-      "summary": "Die S5 kann wieder eingeschränkt zwischen Buxtehude und Stade fahren. Es werden aktuell folgende Fahrten angeboten: ",
-      "text": "<p><strong>S5</strong></p><p>Die S5 fährt stündlich zwischen Buxtehude und Stade. Abfahrt in Buxtehude auf Minute :04, Abfahrt in Stade auf Minute :36</p><p></p><p><strong>RE5</strong></p><p>Die RE5 hält zwischen Buxtehude und Stade weiterhin an allen Unterwegsbahnhöfen.</p><p></p><p><strong>Busersatzverkehr</strong></p><p>Zwischen Buxtehude und Stade pendeln weiterhin Ersatzbusse.</p>",
-      "durationBegin": "12.08.2025",
-      "durationEnd": "12.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/1502d28d-75af-4a21-a334-abf8cf3a4c8a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.08.2025 17:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/12c96241-b4c4-4a51-87ab-1dfcf7968310",
-      "magnoliaPath": "/aktuell/nord/no_service_construction"
-    },
-    {
       "id": "fa3ebe94-1988-489d-9a3e-4d461f805c94",
       "disruptionId": "c61712b7-bd43-4fa0-b90a-2c8c2b7ab7b3",
       "author": "REGIO_BW",
@@ -1317,6 +1280,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "503d5745-6ed4-47bb-9021-ab932e524f1f",
+      "disruptionId": "68ba0a36-35ae-43da-8549-4e643e0ae07e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Ebenhausen-Schäftlarn: Reparatur an einem Signal",
+      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/68ba0a36-35ae-43da-8549-4e643e0ae07e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/a49285a0-8441-4df4-a6cc-ffcbe572d40areisendenkarte_20250812-174659.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/a49285a0-8441-4df4-a6cc-ffcbe572d40areisendenkarte_20250812-174659.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.08.2025 17:46:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 17:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/503d5745-6ed4-47bb-9021-ab932e524f1f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "be1a769e-3d11-4cd8-8a03-b747c207a499",
