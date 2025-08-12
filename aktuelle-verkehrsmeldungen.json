@@ -99,6 +99,44 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
     },
     {
+      "id": "12c96241-b4c4-4a51-87ab-1dfcf7968310",
+      "disruptionId": "1502d28d-75af-4a21-a334-abf8cf3a4c8a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5: Aktuell fährt keine S5 zwischen Buxtehude und Stade. Grund: Technische Störung an der Strecke. ",
+      "summary": "Bitte nutzen Sie alternativ den RE5 mit Halt auf allen Unterwegsbahnhöfen sowie den eingerichteten Ersatzverkehr mit Bussen. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
+      "text": "<p>Der RE5 hält zwischen Buxtehude und Stade überall, weiterhin ist ein Ersatzverkhr mit Bussen eingerichtet. Bitte beachten Sie, dass durch die Störung die Informationsmedien auf den Stationen nur eingeschränkt im Betrieb sind. Nutzen Sie für die Fahrtauskunft auch die digitalen Auskunftsmedien unter www.hvv.de sowie www.bahn.de.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/1502d28d-75af-4a21-a334-abf8cf3a4c8a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 06:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/12c96241-b4c4-4a51-87ab-1dfcf7968310",
+      "magnoliaPath": "/aktuell/nord/no_service_construction"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -897,6 +935,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "a25a56b5-e9ac-46dd-b8c2-305e31a27df3",
+      "disruptionId": "f45b5ad3-a4b1-44b5-b30c-b4b5692dda51",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Endmeldung: S 1 Freising/Flughafen",
+      "summary": "Die Züge verkehren ab Neufahrn wieder planmäßig nach Freising.",
+      "text": "<p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "12.08.2025",
+      "durationEnd": "12.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/f45b5ad3-a4b1-44b5-b30c-b4b5692dda51",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/9bcdf6e4-27f1-4b76-a421-5099c59ae3a5reisendenkarte_20250812-062710.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-12/9bcdf6e4-27f1-4b76-a421-5099c59ae3a5reisendenkarte_20250812-062710.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.08.2025 06:27:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2025 06:28",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a25a56b5-e9ac-46dd-b8c2-305e31a27df3",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
     },
     {
       "id": "c2bc1e35-2d5d-4be8-841b-90116073dc6d",
