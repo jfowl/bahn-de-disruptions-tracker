@@ -10,8 +10,8 @@
         "label": "Entschärfung einer Fliegerbombe"
       },
       "headline": "Entschärfung einer Weltkriegsbombe in Hannover",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Hannover am Montag, 18.08.2025, ab ca. 16:30 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong>Betroffene Streckenabschnitte:</strong><ul><li>Hannover – Berlin</li><li>Hannover – Braunschweig</li></ul><p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es zwischen Hannover und Lehrte am Montag, 18.08.2025, ab ca. 18:30 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Verspätungen von 30 bis 50 Min sind zu erwarten. Die Halte Hildesheim und Braunschweig entfallen.",
+      "text": "<strong>Betroffene Streckenabschnitte:</strong><ul><li>Hannover – Berlin</li><li>Hannover – Braunschweig - Magdeburg</li><li>ICE 1034 verkehrt ohne Verspätung über Erfurt. Haltausfall Berlin Spandau.</li></ul><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "14.08.2025",
       "mapHref": "https://karte.bahn.de/detail/a36296d5-33e3-4ba7-933e-446fa915f1dc",
       "images": [],
@@ -21,22 +21,14 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
         "HH",
-        "HE",
+        "BB",
+        "BE",
         "MV",
-        "NI",
         "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
+        "HB",
+        "NI",
+        "HE"
       ],
       "lines": [
         {
@@ -45,7 +37,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "14.08.2025 13:10",
+      "lastModified": "14.08.2025 16:25",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/51c24b0b-4b4c-450e-a64b-70abec52cf40",
@@ -179,6 +171,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "0dfc7a7c-260c-4dd3-af03-6f6101bedeb7",
+      "disruptionId": "6a1459fd-d785-4034-91a2-8458ac462f52",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Mosbach(Baden) ⇄ Osterburken - Instandhaltungsmaßnahmen",
+      "summary": "Datum: 25.08.2025 - 26.08.2025",
+      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Bus ist eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
+      "durationBegin": "14.08.2025",
+      "durationEnd": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/6a1459fd-d785-4034-91a2-8458ac462f52",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-14/e2989289-81ee-40d1-b316-35cee9d0add3reisendenkarte_20250814-161555.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-14/e2989289-81ee-40d1-b316-35cee9d0add3reisendenkarte_20250814-161555.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.08.2025 16:15:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.08.2025 16:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0dfc7a7c-260c-4dd3-af03-6f6101bedeb7",
+      "magnoliaPath": "/aktuell/mitte/stop_moved_construction0"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
@@ -1138,6 +1180,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "827b3cb5-af9f-4ec1-bc79-d187d334fb3f",
+      "disruptionId": "316ca517-4d3b-4f4a-ac75-f0198eb5ce8f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 2 Obermenzing: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Obermenzing sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten und Umleitungen, sowie vorzeitigen Wenden. </p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "14.08.2025",
+      "durationEnd": "14.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/316ca517-4d3b-4f4a-ac75-f0198eb5ce8f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/878beac8-05fd-4cae-a8eb-416383c2de67reisendenkarte_20250814-162030.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/878beac8-05fd-4cae-a8eb-416383c2de67reisendenkarte_20250814-162030.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.08.2025 16:20:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.08.2025 16:24",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/827b3cb5-af9f-4ec1-bc79-d187d334fb3f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity2"
     },
     {
       "id": "3222af5a-a65c-4392-a6bf-177de416c488",
