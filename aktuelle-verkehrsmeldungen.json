@@ -306,51 +306,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "e3606040-edbc-4b56-b37d-5ca8b7c4254c",
-      "disruptionId": "8f187910-5348-497e-8709-78a17b32ea05",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 1 Regelweg",
-      "summary": "Derzeit kommt es auf der Linie S1 in Richtung Stadteinwärts zu Verspätungen von 5 bis zu 10 Minuten.\nDie Linie S 1 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke.",
-      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
-      "durationBegin": "14.08.2025",
-      "durationEnd": "14.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/8f187910-5348-497e-8709-78a17b32ea05",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/f9272633-c36b-4dfb-acd6-fe863e0aa388reisendenkarte_20250814-055238.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/f9272633-c36b-4dfb-acd6-fe863e0aa388reisendenkarte_20250814-055238.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.08.2025 05:52:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.08.2025 07:21",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e3606040-edbc-4b56-b37d-5ca8b7c4254c",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -1026,7 +981,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.08.2025 07:25",
+      "lastModified": "14.08.2025 08:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1077,6 +1032,76 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/3222af5a-a65c-4392-a6bf-177de416c488",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
+    },
+    {
+      "id": "21e924d3-ab39-47a7-8897-afb60b196ea7",
+      "disruptionId": "d7c193c1-9848-4558-bf30-44c2854dfa89",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: S 6, S 8 Regelweg",
+      "summary": "Die Linie S 6 und die Linie S 8 verkehren wieder auf Regelweg mit allen Halten durch die Stammstrecke.\nEs kommt zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "durationBegin": "14.08.2025",
+      "durationEnd": "14.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/d7c193c1-9848-4558-bf30-44c2854dfa89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/f6058580-026b-4fb2-84e9-d4b2a4b36996reisendenkarte_20250814-081042.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/f6058580-026b-4fb2-84e9-d4b2a4b36996reisendenkarte_20250814-081042.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.08.2025 08:10:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.08.2025 08:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/21e924d3-ab39-47a7-8897-afb60b196ea7",
+      "magnoliaPath": "/aktuell/bayern/detour_medical_emergency"
     },
     {
       "id": "b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
