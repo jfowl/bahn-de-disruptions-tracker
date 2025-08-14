@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "51c24b0b-4b4c-450e-a64b-70abec52cf40",
+      "disruptionId": "a36296d5-33e3-4ba7-933e-446fa915f1dc",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Hannover",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Hannover am Montag, 18.08.2025, ab ca. 16:30 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong>Betroffene Streckenabschnitte:</strong><ul><li>Hannover – Berlin</li><li>Hannover – Braunschweig</li></ul><p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/a36296d5-33e3-4ba7-933e-446fa915f1dc",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.08.2025 13:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/51c24b0b-4b4c-450e-a64b-70abec52cf40",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -964,12 +1014,12 @@
       "summary": "Im Bereich Baierbrunn kommt es zu Verspätungen von bis zu 10 Minuten.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "13.08.2025",
-      "durationEnd": "14.08.2025",
+      "durationEnd": "15.08.2025",
       "mapHref": "https://karte.bahn.de/detail/16f1553c-7dee-457c-bcc1-07bf9781f4e9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-13/aed625ca-066b-4c9f-aab1-9fe60bd58055reisendenkarte_20250813-175714.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-13/aed625ca-066b-4c9f-aab1-9fe60bd58055reisendenkarte_20250813-175714.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/cd31ad69-adfc-47ab-93b6-92e12d137eecreisendenkarte_20250813-175714.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-14/cd31ad69-adfc-47ab-93b6-92e12d137eecreisendenkarte_20250813-175714.png",
           "info": "",
           "alt": "Reisendenkarte 13.08.2025 17:57:14",
           "openInNewTab": true
@@ -990,7 +1040,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.08.2025 23:20",
+      "lastModified": "14.08.2025 13:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
