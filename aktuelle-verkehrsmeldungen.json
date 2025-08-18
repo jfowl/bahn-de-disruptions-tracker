@@ -494,25 +494,25 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "d146711f-3d1e-41e0-947c-9006b30826f8",
-      "disruptionId": "17921fb6-0ff7-44f5-a2dc-db95cdcb63c3",
+      "id": "83166ab3-d280-4adb-9120-4dfcd92e082f",
+      "disruptionId": "c7458c37-0fda-48e9-bf35-9dc0b9c1ba07",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 7 Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "17.08.2025",
+      "headline": "S 5 S 8 Freiham: Reparatur an einem Signal",
+      "summary": "Auf den Linien der S 5 und der S 8 kommt es aktuell in beide Richtungen zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Zusätzlich kommt es teilweise zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal im Bereich des Bahnhofs Freiham.</p>",
+      "durationBegin": "18.08.2025",
       "durationEnd": "18.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/17921fb6-0ff7-44f5-a2dc-db95cdcb63c3",
+      "mapHref": "https://karte.bahn.de/detail/c7458c37-0fda-48e9-bf35-9dc0b9c1ba07",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/6394306d-7670-4834-8682-44f6a501aa57reisendenkarte_20250817-214519.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/6394306d-7670-4834-8682-44f6a501aa57reisendenkarte_20250817-214519.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/adc3503a-4793-4b4b-953b-0f59b41bafe4reisendenkarte_20250818-070559.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/adc3503a-4793-4b4b-953b-0f59b41bafe4reisendenkarte_20250818-070559.png",
           "info": "",
-          "alt": "Reisendenkarte 17.08.2025 21:45:19",
+          "alt": "Reisendenkarte 18.08.2025 07:05:59",
           "openInNewTab": true
         }
       ],
@@ -526,17 +526,22 @@
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.08.2025 00:04",
-      "expand": false,
+      "lastModified": "18.08.2025 07:29",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d146711f-3d1e-41e0-947c-9006b30826f8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section15"
+      "detailPagePath": "/service/fahrplaene/83166ab3-d280-4adb-9120-4dfcd92e082f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -1050,6 +1055,91 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8a53dad2-2436-432e-8e5b-12e475968067",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
+    },
+    {
+      "id": "cad15c72-4bd2-4616-857a-098629e31ab3",
+      "disruptionId": "45c6ad6b-b4cc-4eff-96bb-a44dfbbb085d",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Schwetzingen ⇄ Karlsruhe Hbf - Instandhaltungsmaßnahmen",
+      "summary": "Datum: Von 29.08.2025 bis 01.09.2025",
+      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S9 - Karlsruhe &lt;&gt; Graben-Neudorf &lt;&gt; Hockenheim &lt;&gt; Mannheim &lt;&gt; Biblis &lt;&gt; Groß Rohrheim</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu geänderten Fahrzeiten und Fahrtausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Bus ist eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "01.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/45c6ad6b-b4cc-4eff-96bb-a44dfbbb085d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-18/60cf93b0-45c4-4c1e-b3ed-3424c73d598breisendenkarte_20250818-072523.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-18/60cf93b0-45c4-4c1e-b3ed-3424c73d598breisendenkarte_20250818-072523.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.08.2025 07:25:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.08.2025 07:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/cad15c72-4bd2-4616-857a-098629e31ab3",
+      "magnoliaPath": "/aktuell/mitte/stop_moved_construction2"
+    },
+    {
+      "id": "fbc63afb-689f-4f33-9b01-b704a8c18da2",
+      "disruptionId": "4c2048dc-2123-43eb-8947-1ac72d232f57",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Mannheim ⇄ Karlsruhe Hbf - Instandhaltungsmaßnahmen",
+      "summary": "Datum: von 29.08.2025 bis 01.09.2025",
+      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE73 - Karlsruhe &lt;&gt; Bruchsal &lt;&gt; Heidelberg &lt;&gt; (Mannheim)</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu geänderten Fahrzeiten und Fahrtausfällen..</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Bus ist eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "01.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4c2048dc-2123-43eb-8947-1ac72d232f57",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.08.2025 07:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fbc63afb-689f-4f33-9b01-b704a8c18da2",
+      "magnoliaPath": "/aktuell/mitte/stop_moved_construction"
     },
     {
       "id": "2f81c521-7400-42cb-963d-5e30e7e8a753",
