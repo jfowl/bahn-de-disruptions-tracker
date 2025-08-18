@@ -323,6 +323,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "c4e62293-e12d-4234-b126-209dd9459415",
+      "disruptionId": "48855ac6-60c2-4751-8102-4fb9ceec95b9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 8  Seefeld-Hechendorf - Herrsching: Defektes Stellwerk",
+      "summary": "Bei der S8 sind zwischen Weßling und Herrsching aktuell keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen aus Richtung München wenden in Weßling.</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Grund ist ein defektes Stellwerk.</p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "18.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/48855ac6-60c2-4751-8102-4fb9ceec95b9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/5218697a-2e84-4578-bde3-21135ef7fd08reisendenkarte_20250818-104424.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/5218697a-2e84-4578-bde3-21135ef7fd08reisendenkarte_20250818-104424.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.08.2025 10:44:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.08.2025 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c4e62293-e12d-4234-b126-209dd9459415",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -390,106 +435,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
-    },
-    {
-      "id": "83166ab3-d280-4adb-9120-4dfcd92e082f",
-      "disruptionId": "c7458c37-0fda-48e9-bf35-9dc0b9c1ba07",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung S 5 S 8 Freiham: Reparatur an einem Signal",
-      "summary": "Die Verspätungen wurden weitestgehend abgebaut.",
-      "text": "<p>Die Reparatur an einem Signal dauert noch an führt aber momentan zu keinen Beeinträchtigungen.</p>",
-      "durationBegin": "18.08.2025",
-      "durationEnd": "18.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/c7458c37-0fda-48e9-bf35-9dc0b9c1ba07",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/1b96a9e0-85be-4aab-86d5-4935aec2197breisendenkarte_20250818-070559.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/1b96a9e0-85be-4aab-86d5-4935aec2197breisendenkarte_20250818-070559.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.08.2025 07:05:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.08.2025 10:35",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/83166ab3-d280-4adb-9120-4dfcd92e082f",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "8d8f945b-feec-4b48-a6ec-17876e1c7524",
-      "disruptionId": "63f5f571-a523-463c-bd83-522dbd8d7dce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung S 3  Olching: Reparatur an einem Signal",
-      "summary": "Es kommt auf der S3 zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal bei Olching wurde beendet.</p>",
-      "durationBegin": "18.08.2025",
-      "durationEnd": "18.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/63f5f571-a523-463c-bd83-522dbd8d7dce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/c91872f1-75ef-42ae-a336-e0b689bd82f3reisendenkarte_20250818-073256.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/c91872f1-75ef-42ae-a336-e0b689bd82f3reisendenkarte_20250818-073256.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.08.2025 07:32:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.08.2025 10:34",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8d8f945b-feec-4b48-a6ec-17876e1c7524",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
