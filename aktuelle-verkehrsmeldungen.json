@@ -2,6 +2,59 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4b2580fb-5a51-47d7-9500-ac40a02a54e3",
+      "disruptionId": "9bd4a3cc-871e-4330-b98e-7c0f5779328c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Alle Linien: Bauarbeiten am Hauptbahnhof vom 4.8. bis 3.9. 2025.",
+      "summary": "Es finden bis 3.9. umfangreiche Baumaßnahmen an den Bahnsteigen 3 und 4 (Richtung Berliner Tor und Harburg) statt. Während der Arbeiten wird der Bahnsteig halbseitig gesperrt, wir erwarten somit eine hohe Auslastung. Bitte wenn möglich schon vor oder erst nach dem Hauptbahnhof in andere Linien oder die U-Bahnen umsteigen.",
+      "text": "<p>Bitte nutzen Sie folgende Alternativen beim Umstieg von und zur S-Bahn beziehungsweise zwischen den Schnellbahnen:</p><p><strong>Altona:</strong>&nbsp;Umstieg zwischen den Linien S1, S2 und S3 sowie zum Regional- und Fernverkehr.</p><p><strong>Diebsteich: </strong>Umstieg zwischen den<strong> </strong>Linien S3 und S5.</p><p><strong>Berliner Tor:</strong>&nbsp;Umstieg zwischen den Linien S1, S2 sowie zur U2, U3 und U4.</p><p><strong>Landungsbrücken:</strong>&nbsp;Umstieg zwischen den Linien S1 und S3 sowie zur U3.</p><p><strong>Sternschanze:</strong>&nbsp;Umstieg zwischen S2 und S5 sowie zur U3.</p><p><strong>Dammtor:</strong> Umstieg zwischen S2 und S5 sowie zur U1.</p><p><strong>Harburg: </strong>Umstieg zwischen den Linien S3 und S5 sowie zum Regional- und Fernverkehr.</p><p><strong>Bitte achten Sie auf die Lautsprecherdurchsagen vor Ort.</strong></p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "01.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/9bd4a3cc-871e-4330-b98e-7c0f5779328c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.08.2025 12:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4b2580fb-5a51-47d7-9500-ac40a02a54e3",
+      "magnoliaPath": "/aktuell/nord/impairment_construction0"
+    },
+    {
       "id": "34950cc5-52c5-4a59-9ba9-765285c755a8",
       "disruptionId": "a059a272-5454-4241-860b-16c5cd898869",
       "author": "FERNVERKEHR_AG",
@@ -323,51 +376,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "c4e62293-e12d-4234-b126-209dd9459415",
-      "disruptionId": "48855ac6-60c2-4751-8102-4fb9ceec95b9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 8  Seefeld-Hechendorf - Herrsching: Defektes Stellwerk",
-      "summary": "Bei der S8 sind zwischen Seefeld-Hechendorf und Herrsching aktuell keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen aus Richtung München wenden in Seefeld-Hechendorf.</p><p>Wir haben für Sie zwischen Seefeld-Hechendorf und Herrsching einen Ersatzverkehr mit Großraumtaxis eingerichtet, benutzen Sie bitte nur die Fahrzeuge mit spezieller \"EV\"-Beschilderung.</p><p>Über die Dauer der Störung liegen uns keine Prognosen vor.</p><p>Grund ist ein defektes Stellwerk.</p>",
-      "durationBegin": "18.08.2025",
-      "durationEnd": "18.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/48855ac6-60c2-4751-8102-4fb9ceec95b9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/115a786d-94d3-40bb-8e2a-21c2cdef9717reisendenkarte_20250818-111355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/115a786d-94d3-40bb-8e2a-21c2cdef9717reisendenkarte_20250818-111355.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.08.2025 11:13:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.08.2025 11:18",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c4e62293-e12d-4234-b126-209dd9459415",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -435,6 +443,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "c4e62293-e12d-4234-b126-209dd9459415",
+      "disruptionId": "48855ac6-60c2-4751-8102-4fb9ceec95b9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 8  Seefeld-Hechendorf - Herrsching: Reparatur an einer Weiche",
+      "summary": "Die S-Bahnen können wieder bis Herrsching fahren.",
+      "text": "<p>Der Ersatzverkehr läuft noch bis 12:30 Uhr parallel weiter und läuft dann aus.</p><p>Bitte nutzen Sie nur die Fahrzeuge mit \"EV\"-Beschilderung.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "18.08.2025",
+      "durationEnd": "18.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/48855ac6-60c2-4751-8102-4fb9ceec95b9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/3803ef44-2c6a-4ac0-9793-bb3a7a935ab8reisendenkarte_20250818-121018.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-18/3803ef44-2c6a-4ac0-9793-bb3a7a935ab8reisendenkarte_20250818-121018.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.08.2025 12:10:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.08.2025 12:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c4e62293-e12d-4234-b126-209dd9459415",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -751,57 +804,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/43672149-7f83-42b6-a31b-e08db6653b2d",
       "magnoliaPath": "/aktuell/hessen/impairment_other_cause1"
-    },
-    {
-      "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
-      "disruptionId": "52fd31db-b8c8-413e-85bd-14e1a8c5bdae",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Alle Linien: Bauarbeiten am Hauptbahnhof vom 4.8. bis 3.9. 2025.",
-      "summary": "Es finden bis 3.9. umfangreiche Baumaßnahmen an den Bahnsteigen 3 und 4 (Richtung Berliner Tor und Harburg) statt. Während der Arbeiten wird der Bahnsteig halbseitig gesperrt, wir erwarten somit eine hohe Auslastung. Bitte wenn möglich schon vor oder erst nach dem Hauptbahnhof in andere Linien oder die U-Bahnen umsteigen.",
-      "text": "<p>Bitte nutzen Sie folgende Alternativen beim Umstieg von und zur S-Bahn beziehungsweise zwischen den Schnellbahnen:</p><p><strong>Altona:</strong>&nbsp;Umstieg zwischen den S-Bahnen sowie zum Regional- und Fernverkehr.</p><p><strong>Diebsteich:&nbsp;</strong>Umstieg zwischen den<strong>&nbsp;</strong>Linien S3 und S5.</p><p><strong>Berliner Tor:</strong>&nbsp;Umstieg zwischen den Linien S1, S2 sowie zur U2, U3 und U4.</p><p><strong>Landungsbrücken:</strong>&nbsp;Umstieg zwischen den Linien S1 und S3 sowie zur U3.</p><p><strong>Sternschanze:</strong>&nbsp;Umstieg zwischen S2 und S5 sowie zur U3.</p><p><strong>Dammtor:</strong>&nbsp;Umstieg zwischen S2 und S5 sowie zur U1.</p><p><strong>Harburg:&nbsp;</strong>Umstieg zwischen den Linien S3 und S5 sowie zum Regional- und Fernverkehr.</p><p><strong>Bitte achten Sie auf die Lautsprecherdurchsagen vor Ort.</strong></p>",
-      "durationBegin": "04.08.2025",
-      "durationEnd": "18.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/52fd31db-b8c8-413e-85bd-14e1a8c5bdae",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.08.2025 10:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/bb153961-8c37-447d-90b8-f35f0dd03e5f",
-      "magnoliaPath": "/aktuell/nord/impairment_construction"
     },
     {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
