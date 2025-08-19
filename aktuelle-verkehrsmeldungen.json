@@ -776,6 +776,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
     },
     {
+      "id": "8b244e0d-b628-4dd3-a255-6a6fa8ecaa6e",
+      "disruptionId": "58daa9a9-057d-4361-8840-05e17f210eb3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 5 Abweichende Linienführung: Reparatur an einem Signal",
+      "summary": "Die S 5 fährt abweichend der regulären Linienführung wie folgt:",
+      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Giesing ↔ Pasing: <strong>S3</strong> Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong> S8</strong> Richtung Herrsching</li></ul></li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "19.08.2025",
+      "durationEnd": "19.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/58daa9a9-057d-4361-8840-05e17f210eb3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/43494de0-aabc-4d4e-872f-f7e77abc858freisendenkarte_20250819-055159.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/43494de0-aabc-4d4e-872f-f7e77abc858freisendenkarte_20250819-055159.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.08.2025 05:51:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.08.2025 05:53",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b244e0d-b628-4dd3-a255-6a6fa8ecaa6e",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
+    },
+    {
       "id": "623b8a5d-b950-4a11-a6aa-5722edd7c01d",
       "disruptionId": "ec4f96f6-2d34-45c1-b5c7-84bff36d22c0",
       "author": "REGIO_MITTE",
@@ -1022,15 +1072,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 3, S 5 Ostbahnhof ↔ Giesing: Reparatur an einem Signal",
-      "summary": "Zwischen Ostbahnhof und Giesing kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "summary": "Zwischen Ostbahnhof und Giesing kommt es zu Verspätungen und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "19.08.2025",
       "durationEnd": "19.08.2025",
       "mapHref": "https://karte.bahn.de/detail/46fcc0ce-dd40-4827-9dfd-3c09f7a22f55",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/ea9ddb1f-6577-4c38-9102-84aa2e4f84cdreisendenkarte_20250819-050923.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/ea9ddb1f-6577-4c38-9102-84aa2e4f84cdreisendenkarte_20250819-050923.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/d98d56e5-3449-4cd6-848e-7d9d755547d9reisendenkarte_20250819-050923.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-19/d98d56e5-3449-4cd6-848e-7d9d755547d9reisendenkarte_20250819-050923.png",
           "info": "",
           "alt": "Reisendenkarte 19.08.2025 05:09:23",
           "openInNewTab": true
@@ -1056,7 +1106,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.08.2025 05:19",
+      "lastModified": "19.08.2025 05:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
