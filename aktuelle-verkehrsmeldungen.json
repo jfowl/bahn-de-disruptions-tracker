@@ -64,7 +64,7 @@
       },
       "headline": "Unregelmäßigkeiten auf den Linien S2, S3 und S5. Bitte beachten Sie die abweichenden Linienführungen.",
       "summary": "Grund: Liegengebliebener Güterzug. Beachten Sie die abweichenden Linienführungen",
-      "text": "<p><strong>S2:</strong></p><p>Die S2 fährt in Richtung Altona abweichend über Sternschanze. Zwischen Sternschanze und Altona steht aktuell nur ein Gleis zur Verfügung, daher kommt es dort zu Unregelmäßigkeiten.</p><p><strong>S3:</strong></p><p>Die S3 fährt regulär zwischen Pinneberg / Elbgaustraße und Neugraben.</p><p><strong>S5:</strong></p><p>Die S5 fährt aktuell nicht. Bitte benutzen Sie folgende Alternativen:</p><p>Diebsteich --&gt; Dammtor</p><p>S3 bis Altona, dort Umstieg in die S2 Richtung Bergedorf</p><p>Diebsteich --&gt; Hauptbahnhof</p><p>S3 über Jungfernstieg</p><p>Diebsteich --&gt; Wilhelmsburg / Harburg / Neugraben</p><p>S3 bis Neugraben</p><p>Neugraben --&gt; Stade</p><p>Ersatzverkehr mit Bussen.</p>",
+      "text": "<p><strong>S2:</strong></p><p>Die S2 fährt in Richtung Altona abweichend über Sternschanze. Zwischen Sternschanze und Altona steht aktuell nur ein Gleis zur Verfügung, daher kommt es dort zu Unregelmäßigkeiten.</p><p><strong>S3:</strong></p><p>Die S3 fährt regulär zwischen Pinneberg / Elbgaustraße und Neugraben über Altona und Jungfernstieg. In Richtung Elbgaustraße und Pinneberg wird die S3 aktuell über Dammtor und Sternschanze umgeleitet.</p><p><strong>S5:</strong></p><p>Die S5 fährt aktuell nicht. Bitte benutzen Sie folgende Alternativen:</p><p>Diebsteich --&gt; Dammtor</p><p>S3 bis Altona, dort Umstieg in die S2 Richtung Bergedorf</p><p></p><p>Diebsteich --&gt; Hauptbahnhof</p><p>S3 über Jungfernstieg bis Hauptbahnhof</p><p></p><p>Neugraben --&gt; Sternschanze</p><p>S3 über Dammtor bis Sternschanze</p><p></p><p>Diebsteich --&gt; Wilhelmsburg / Harburg / Neugraben</p><p>S3 über Jungfernstieg bis Neugraben</p><p></p><p>Neugraben &lt;&gt; Stade</p><p>Ersatzverkehr mit Bussen.</p>",
       "durationBegin": "19.08.2025",
       "durationEnd": "19.08.2025",
       "mapHref": "https://karte.bahn.de/detail/c639429b-d9f9-4f61-ae6c-25da330accaa",
@@ -85,12 +85,17 @@
           "property": "SBAHN"
         },
         {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.08.2025 21:49",
+      "lastModified": "19.08.2025 22:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
