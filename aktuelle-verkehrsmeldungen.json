@@ -55,6 +55,49 @@
       "magnoliaPath": "/aktuell/nord/impairment_construction0"
     },
     {
+      "id": "b85cfb93-5a9e-408c-bd59-6caf49e66323",
+      "disruptionId": "c639429b-d9f9-4f61-ae6c-25da330accaa",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S2 und S5: Aktuell fährt keine S2 und S5 zwischen Neugraben und Horneburg. Die S2 wird zwischen Hbf und Altona umgeleitet. Grund: Liegengebliebener Güterzug. ",
+      "summary": "Bitte beachten Sie die folgenden abweichenden Linienführungen:",
+      "text": "<p>S5:</p><p>Die S5 fährt aktuell nur zwischen Stade und Hornebug. Zwischen Horneburg und Neugraben fahren Busse statt S-Bahnen. Ab Neugraben fällt die S5 in Richtung Innenstadt aus. Nutzen Sie hier die S3.</p><p>S2:</p><p>Die S2 fährt in Richtung Altona abweichend über Sternschanze. Zwischen Sternschanze und Altona steht aktuell nur ein Gleis zur Verfügung, daher kommt es dort zu Unregelmäßigkeiten.</p>",
+      "durationBegin": "19.08.2025",
+      "durationEnd": "19.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/c639429b-d9f9-4f61-ae6c-25da330accaa",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.08.2025 21:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b85cfb93-5a9e-408c-bd59-6caf49e66323",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "0dfc7a7c-260c-4dd3-af03-6f6101bedeb7",
       "disruptionId": "6a1459fd-d785-4034-91a2-8458ac462f52",
       "author": "REGIO_MITTE",
@@ -270,43 +313,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
-    },
-    {
-      "id": "b85cfb93-5a9e-408c-bd59-6caf49e66323",
-      "disruptionId": "c639429b-d9f9-4f61-ae6c-25da330accaa",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "S5: Aktuell fährt keine S5 zwischen Neugraben und Horneburg. Grund: Liegengebliebener Güterzug. ",
-      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen.",
-      "text": "<p>Die S5 fährt aktuell zwischen Diebsteich und Neugraben über Dammtor sowie zwischen Horneburg und Stade. Zwischen Neugraben und Horneburg wird ein Ersatzverkehr mit Bussen eingerichtet. </p>",
-      "durationBegin": "19.08.2025",
-      "durationEnd": "19.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/c639429b-d9f9-4f61-ae6c-25da330accaa",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.08.2025 20:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b85cfb93-5a9e-408c-bd59-6caf49e66323",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
