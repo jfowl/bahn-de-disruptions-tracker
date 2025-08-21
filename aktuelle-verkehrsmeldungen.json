@@ -164,56 +164,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "0dfc7a7c-260c-4dd3-af03-6f6101bedeb7",
-      "disruptionId": "6a1459fd-d785-4034-91a2-8458ac462f52",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Mosbach(Baden) ⇄ Osterburken - Instandhaltungsmaßnahmen",
-      "summary": "Datum:  Von 25.08.2025 bis 01.10.2025",
-      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Bus ist eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
-      "durationBegin": "14.08.2025",
-      "durationEnd": "01.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/6a1459fd-d785-4034-91a2-8458ac462f52",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-18/7f9f71f6-ad2c-4e96-92c6-2d28a126a289reisendenkarte_20250814-161555.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-08-18/7f9f71f6-ad2c-4e96-92c6-2d28a126a289reisendenkarte_20250814-161555.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.08.2025 16:15:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Neckar",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.08.2025 10:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0dfc7a7c-260c-4dd3-af03-6f6101bedeb7",
-      "magnoliaPath": "/aktuell/mitte/stop_moved_construction0"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -393,6 +343,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
+      "id": "1f065b39-2520-4354-b6ef-391174e050e5",
+      "disruptionId": "1903212c-27ef-4048-aaad-7e0b98932335",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 / S 8 Flughafen: Vorangegangene Reparatur an einem Signal",
+      "summary": "Es kommt noch zu Folgeverspätungen bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine vorangegangene Reparatur an einem Signal am Flughafen.</p>",
+      "durationBegin": "21.08.2025",
+      "durationEnd": "21.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/1903212c-27ef-4048-aaad-7e0b98932335",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/c8b59426-9a26-4fb4-a791-f9a948d4b066reisendenkarte_20250821-150420.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/c8b59426-9a26-4fb4-a791-f9a948d4b066reisendenkarte_20250821-150420.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.08.2025 15:04:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2025 15:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1f065b39-2520-4354-b6ef-391174e050e5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
+    },
+    {
       "id": "0ef075cc-fdb3-4c83-9fb4-09027f7d41ee",
       "disruptionId": "7329694b-41f0-40eb-9068-82f68bd5ceb6",
       "author": "S_BAHN_MUC",
@@ -402,14 +402,14 @@
       },
       "headline": "S7  Höllriegelskreuth - Baierbrunn: Reparatur an der Strecke",
       "summary": "Auf der S7 kommt es in Richtung Wolfratshausen zu Verspätungen von 5 bis zu 10 Minuten. Zusätzlich kommt es vereinzelt zu vorzeitigen Zugwenden.",
-      "text": "<p>Die S-Bahnen können zwischen Höllriegelskreuth und Baierbrunn nur mit verminderter Geschwindigkeit fahren.</p><p>Grund ist eine Reparatur an der Strecke.</p>",
+      "text": "<p>Die S-Bahnen können zwischen Höllriegelskreuth und Baierbrunn nur mit verminderter Geschwindigkeit fahren.</p><p>Grund ist eine Reparatur an der Strecke.</p><p>Voraussichtliches Datum der Reparatur am 26.08.20025.</p>",
       "durationBegin": "21.08.2025",
       "durationEnd": "21.08.2025",
       "mapHref": "https://karte.bahn.de/detail/7329694b-41f0-40eb-9068-82f68bd5ceb6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/0ad4e2ea-f0c3-4c9a-af92-349aeead7796reisendenkarte_20250821-081712.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/0ad4e2ea-f0c3-4c9a-af92-349aeead7796reisendenkarte_20250821-081712.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/a76d1b84-a424-493c-80cc-3a6692d3688dreisendenkarte_20250821-081712.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/a76d1b84-a424-493c-80cc-3a6692d3688dreisendenkarte_20250821-081712.png",
           "info": "",
           "alt": "Reisendenkarte 21.08.2025 08:17:12",
           "openInNewTab": true
@@ -430,7 +430,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.08.2025 13:46",
+      "lastModified": "21.08.2025 15:01",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
