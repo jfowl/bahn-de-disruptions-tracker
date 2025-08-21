@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "9ffcfb8f-4808-4210-a81b-d64685a5d8bc",
+      "disruptionId": "6e5242e4-3209-4cdd-a351-86549f48dd14",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen im Raum Heidelberg",
+      "summary": "Aufgrund eines defekten Stellwerkes in Heidelberg können Züge des Fernverkehrs der Deutschen Bahn Heidelberg Hbf und Wiesloch-Walldorf nicht anfahren. Es kommt zu Haltausfällen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE/IC-Züge mit planmäßigen Halt in Heidelberg Hbf bzw. Wiesloch-Walldorf werden umgeleitet und halten nicht in Heidelberg Hbf bzw. Wiesloch-Walldorf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis [achmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/6e5242e4-3209-4cdd-a351-86549f48dd14",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-21/140fa413-3358-4921-997b-0f8d8a764d44reisendenkarte_20250821-123611.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-21/140fa413-3358-4921-997b-0f8d8a764d44reisendenkarte_20250821-123611.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.08.2025 12:36:11",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.08.2025 12:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9ffcfb8f-4808-4210-a81b-d64685a5d8bc",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "4b2580fb-5a51-47d7-9500-ac40a02a54e3",
       "disruptionId": "9bd4a3cc-871e-4330-b98e-7c0f5779328c",
       "author": "S_BAHN_HH",
@@ -337,8 +382,8 @@
       "mapHref": "https://karte.bahn.de/detail/bb00c934-52fb-428b-a83c-f139d437aa73",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-21/90740e5a-a42c-48d8-9414-827eb2fbae2areisendenkarte_20250821-084559.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-21/90740e5a-a42c-48d8-9414-827eb2fbae2areisendenkarte_20250821-084559.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-21/215104e9-9bca-4875-97ff-9488d8e67743reisendenkarte_20250821-084559.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-21/215104e9-9bca-4875-97ff-9488d8e67743reisendenkarte_20250821-084559.png",
           "info": "",
           "alt": "Reisendenkarte 21.08.2025 08:45:59",
           "openInNewTab": true
@@ -347,19 +392,30 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "BW"
       ],
       "lines": [
         {
+          "name": "RB 31",
+          "filterName": "RB 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
           "name": "S 61",
           "filterName": "S 61",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.08.2025 11:35",
+      "lastModified": "21.08.2025 12:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1187,6 +1243,71 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2f81c521-7400-42cb-963d-5e30e7e8a753",
       "magnoliaPath": "/aktuell/nord/stop_moved_construction"
+    },
+    {
+      "id": "8994bc8b-e3dd-4c84-8e76-f7927ac1a5e7",
+      "disruptionId": "58e40d36-4b7d-4a2e-8c11-8fe32f0c91ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
+      },
+      "headline": "Pasing, Aubing, Westkreuz: Fahrgastinformation an den Bahnsteigen gestört",
+      "summary": "Derzeit kommt es an den Haltestellen Pasing, Aubing und Westkreuz bei der S-Bahn zu einer Störung der Fahrgastinformation an den Bahnsteigen. ",
+      "text": "<p>Aktuell sind an diesen Haltestellen keine Anzeigen und Ansagen möglich.</p><p>Bitte informieren Sie sich über die Online-Fahrplanauskunft auf www.s-bahn-muenchen.de oder die \"München Navigator\"-App über Ihre Verbindung.</p><p>Grund dafür ist eine Netzwerkausfall. Wir arbeiten mit Hochdruck an der Behebung des Problems.</p><p>We are&nbsp;currently experiencing disruptions to passenger information at the stations Pasing, Westkreuz and Aubing at all platforms across the S-Bahn network.&nbsp;</p><p>Announcements and displays are temporarily out of order.</p><p>We are actively working to resolve the technical issue.</p><p>Please check your connection on s-bahn-muenchen.de or in the München Navigator app.</p>",
+      "durationBegin": "21.08.2025",
+      "durationEnd": "21.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/58e40d36-4b7d-4a2e-8c11-8fe32f0c91ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/21b00e4e-61c8-499d-8eb7-c469668ef390reisendenkarte_20250821-123023.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-21/21b00e4e-61c8-499d-8eb7-c469668ef390reisendenkarte_20250821-123023.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.08.2025 12:30:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2025 12:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8994bc8b-e3dd-4c84-8e76-f7927ac1a5e7",
+      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_it"
     },
     {
       "id": "4cab9a93-9063-4a95-b721-e7a5acaf1dd0",
