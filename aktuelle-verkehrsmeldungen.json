@@ -429,47 +429,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "d2312e5f-2a08-4a73-8a9c-7aaeac21f2ee",
-      "disruptionId": "157b5517-5374-4159-ba59-b6bc0ec93925",
-      "author": "FERNVERKEHR_AG",
+      "id": "3ca4be82-04ea-4eb6-b581-ab2ca5295af0",
+      "disruptionId": "7f65556a-a3b1-4b9e-983c-a694a7494aa2",
+      "author": "S_BAHN_S",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigung zwischen Münster (Westf) und Düsseldorf",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Wanne-Eickel kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Sprinter zwischen Hamburg und NRW werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten.</li><li>Alle ICE/IC-Züge zwischen Münster (Westf) und Düsseldorf mit planmäßigen Halt in Recklinghausen Hbf und/oder Wanne-Eickel Hbf, Gelsenkirchen Hbf, Oberhausen Hbf werden in beiden Fahrtrichtungen zwischen Münster (Westf) und Essen bzw. Duisburg umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Die Halte Recklinghausen Hbf, Wanne-Eickel Hbf, Gelsenkirchen Hbf, Oberhausen Hbf fallen aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/157b5517-5374-4159-ba59-b6bc0ec93925",
+      "headline": "defektes Signal im Bereich Fellbach - Bad Cannstatt",
+      "summary": "Fahrtabweichungen bei S2 und S3",
+      "text": "<p>Die S-Bahnen der Linie S2 Richtung Stuttgart Hauptbahnhof werden momentan in Fellbach ausgebremst wegen einem defekten Signal. In der Folge kommt es zu <strong>Verspätungen bei den S-Bahnen der Linie S2</strong>.</p><p></p><p>Die <strong>S-Bahnen der Linie S3 </strong>umfahren den Störungsbereich und <strong>verkehren nur zwischen Waiblingen und Backnang</strong>. Fahrgäste zwischen Waiblingen und Fellbach bzw. Stuttgart Hauptbahnhof empfehlen wir, ab/bis Waiblingen die S-Bahnen der Linie S2 zu nutzen.</p><p></p><p>Bitte prüfen Sie Ihre Reiseverbindung online und achten auch auf Lautsprecheransagen und Anzeigen an den Bahnsteigen, um auch über kurzfristige Fahrtänderungen sich zu informieren.</p>",
+      "durationBegin": "25.08.2025",
+      "durationEnd": "25.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/7f65556a-a3b1-4b9e-983c-a694a7494aa2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-25/61205f1b-82fe-4a33-8f96-acd2d91dbad7reisendenkarte_20250825-002414.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-25/61205f1b-82fe-4a33-8f96-acd2d91dbad7reisendenkarte_20250825-002414.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-08-25/a8769e27-58c2-4952-8061-017f7e4b81c6reisendenkarte_20250825-123302.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-08-25/a8769e27-58c2-4952-8061-017f7e4b81c6reisendenkarte_20250825-123302.png",
           "info": "",
-          "alt": "Reisendenkarte 25.08.2025 00:24:14",
+          "alt": "Reisendenkarte 25.08.2025 12:33:02",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "weitere Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "NW"
+        "BW"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "25.08.2025 00:29",
+      "lastModified": "25.08.2025 13:00",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/d2312e5f-2a08-4a73-8a9c-7aaeac21f2ee",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_other_cause0"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3ca4be82-04ea-4eb6-b581-ab2ca5295af0",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section1"
     },
     {
       "id": "0ef075cc-fdb3-4c83-9fb4-09027f7d41ee",
