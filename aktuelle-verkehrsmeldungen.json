@@ -48,9 +48,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.08.2025 12:01",
+      "lastModified": "26.08.2025 07:33",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4b2580fb-5a51-47d7-9500-ac40a02a54e3",
       "magnoliaPath": "/aktuell/nord/impairment_construction0"
     },
@@ -710,43 +711,6 @@
       "magnoliaPath": "/aktuell/nord/stop_moved_construction"
     },
     {
-      "id": "a17b73be-bdbc-4c61-97a5-f7cae16835d1",
-      "disruptionId": "a7a5803f-15d7-4e98-9df1-0c865a8b20df",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 5 Abweichende Linienführung: Reparatur an einer Weiche",
-      "summary": "Die S 5 fährt abweichend der regulären Linienführung wie folgt:",
-      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Giesing ↔ Pasing: <strong>S3</strong> Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong> S8</strong> Richtung Herrsching </li></ul></li></ul><p>Der Grund hierfür ist die Reparatur an einer Weiche in Westkreuz.</p>",
-      "durationBegin": "26.08.2025",
-      "durationEnd": "26.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/a7a5803f-15d7-4e98-9df1-0c865a8b20df",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.08.2025 07:12",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a17b73be-bdbc-4c61-97a5-f7cae16835d1",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
-    },
-    {
       "id": "4cab9a93-9063-4a95-b721-e7a5acaf1dd0",
       "disruptionId": "c58d08ae-67f1-488d-85fd-c032860855a0",
       "author": "S_BAHN_HH",
@@ -791,11 +755,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.08.2025 07:35",
+      "lastModified": "26.08.2025 07:34",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4cab9a93-9063-4a95-b721-e7a5acaf1dd0",
       "magnoliaPath": "/aktuell/nord/modified_service_construction0"
+    },
+    {
+      "id": "a17b73be-bdbc-4c61-97a5-f7cae16835d1",
+      "disruptionId": "a7a5803f-15d7-4e98-9df1-0c865a8b20df",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 5 Abweichende Linienführung: Reparatur an einer Weiche",
+      "summary": "Die S 5 fährt abweichend der regulären Linienführung wie folgt:",
+      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Giesing ↔ Pasing: <strong>S3</strong> Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong> S8</strong> Richtung Herrsching </li></ul></li></ul><p>Der Grund hierfür ist die Reparatur an einer Weiche in Westkreuz.</p>",
+      "durationBegin": "26.08.2025",
+      "durationEnd": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/a7a5803f-15d7-4e98-9df1-0c865a8b20df",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.08.2025 07:12",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a17b73be-bdbc-4c61-97a5-f7cae16835d1",
+      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
     },
     {
       "id": "a266331c-4410-4a9c-8adb-e89724b99a3b",
@@ -856,21 +858,13 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 8 / S 5 Westkreuz: Reparatur an einer Weiche",
+      "headline": "S 8 / S 5 / S 6 Westkreuz: Reparatur an einer Weiche",
       "summary": "Im Bereich Westkreuz kommt es in Richtung Stadteinwärts zu Verspätungen von bis zu 15 bis 20 Minuten sowie Teilausfällen .",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche in Westkreuz.</p>",
       "durationBegin": "26.08.2025",
       "durationEnd": "26.08.2025",
       "mapHref": "https://karte.bahn.de/detail/c70fdb83-4623-441b-aebb-3dac2c938c16",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-26/7b20c871-8153-4dcc-8d6d-8246299d5278reisendenkarte_20250826-070047.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-26/7b20c871-8153-4dcc-8d6d-8246299d5278reisendenkarte_20250826-070047.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.08.2025 07:00:47",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -886,12 +880,17 @@
           "property": "SBAHN"
         },
         {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.08.2025 07:04",
+      "lastModified": "26.08.2025 07:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
