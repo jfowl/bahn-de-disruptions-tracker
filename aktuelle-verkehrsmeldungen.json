@@ -360,51 +360,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "0ef075cc-fdb3-4c83-9fb4-09027f7d41ee",
-      "disruptionId": "7329694b-41f0-40eb-9068-82f68bd5ceb6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S7  Höllriegelskreuth - Baierbrunn: Reparatur an der Strecke",
-      "summary": "Auf der S7 kann es in Richtung Wolfratshausen zu Verspätungen von 5 bis zu 10 Minuten kommen.",
-      "text": "<p>Die S-Bahnen können zwischen Höllriegelskreuth und Baierbrunn nur mit verminderter Geschwindigkeit fahren.</p><p>Grund ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "21.08.2025",
-      "durationEnd": "27.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/7329694b-41f0-40eb-9068-82f68bd5ceb6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-27/91e9b9b2-8e39-4926-affd-4fa2a9c0bf85reisendenkarte_20250821-081712.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-27/91e9b9b2-8e39-4926-affd-4fa2a9c0bf85reisendenkarte_20250821-081712.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.08.2025 08:17:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.08.2025 11:30",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0ef075cc-fdb3-4c83-9fb4-09027f7d41ee",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
-    },
-    {
       "id": "fd805998-1eda-4cbd-9330-96454b8b2dc6",
       "disruptionId": "3c0840c3-ff39-42eb-834e-97d0e054290c",
       "author": "REGIO_BW",
@@ -705,6 +660,57 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "159877a8-3d8d-40cd-b5bb-52cf3b08d7a8",
+      "disruptionId": "7d1174f8-1551-4daa-b680-c568d6d4f734",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bruchsal ⇄ Heidelberg Hbf:                                                              \nZugausfälle",
+      "summary": "📅 Montag, 01. September 2025, 07:00 Uhr bis Freitag, 05. September 2025, 23:00 Uhr",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 71 (Mühlacker – Bretten – Bruchsal – Heidelberg)</li></ul><p><strong>Zugausfälle: </strong>Bruchsal ⇄ Heidelberg Hbf</p><p><strong>Alternative Reisemöglichkeit: </strong>Züge der S-Bahn Rhein-Neckar, Linie S3</p><p></p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅</p><p><strong>Grund der Bauarbeiten: </strong> Instandhaltungsarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p>",
+      "durationBegin": "01.09.2025",
+      "durationEnd": "05.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/7d1174f8-1551-4daa-b680-c568d6d4f734",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-27/ab9061d7-beca-49fa-b1d8-e78fc6b8adecreisendenkarte_20250827-150004.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-27/ab9061d7-beca-49fa-b1d8-e78fc6b8adecreisendenkarte_20250827-150004.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.08.2025 15:00:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 71",
+          "filterName": "RE 71",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.08.2025 15:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/159877a8-3d8d-40cd-b5bb-52cf3b08d7a8",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_construction3"
     },
     {
       "id": "50d73944-116a-4d06-959c-d74bed8e7241",
