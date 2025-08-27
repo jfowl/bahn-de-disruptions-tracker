@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ed384395-4b7b-4324-bcb7-7a41ceac4008",
+      "disruptionId": "5434fb54-9529-4286-87f4-5f71ab374d9c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen im Raum Fulda",
+      "summary": "Aufgrund eines Blitzeinschlages im Raum Fulda kommt es derzeit zu Beeinträchtigungen auf allen Strecken im Umkreis um Fulda.\nEs kommt zu erheblichen Verspätungen und Teilausfällen. Der Halt Fulda kann entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Kassel und Frankfurt(M)</li><li>ICE/NJ Züge zwischen Kassel und Würzburg</li><li>ICE/NJ Züge zwischen Erfurt und Frankfurt(M)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/5434fb54-9529-4286-87f4-5f71ab374d9c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "BE",
+        "TH",
+        "BW",
+        "BY",
+        "HB",
+        "SN",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.08.2025 21:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ed384395-4b7b-4324-bcb7-7a41ceac4008",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "4b2580fb-5a51-47d7-9500-ac40a02a54e3",
       "disruptionId": "9bd4a3cc-871e-4330-b98e-7c0f5779328c",
       "author": "S_BAHN_HH",
@@ -67,12 +112,12 @@
       "summary": "Die Strecke zwischen Bremen-Burg und Bremen Hbf ist wegen eines Unfalls an einem Bahnübergang nur eingleisig befahrbar Es kommt zu Beeinträchtigungen im Regionalverkehr der Deutschen Bahn. ",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Hannover Hbf – Bremerhaven-Lehe): Züge aus/in Richtung Hannover Hbf enden/beginnen heute in Bremen Hbf. Bitte nutzen Sie alternativ zwischen Bremen Hbf und Bremerhaven-Lehe die Züge der Nordwestbahn.</li><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Züge aus/in Richtung Osnabrück Hbf enden/beginnen heute in Bremen Hbf. Bitte nutzen Sie alternativ zwischen Bremen Hbf und Bremerhaven-Lehe die Züge der Nordwestbahn.</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von vsl. 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "26.08.2025",
-      "durationEnd": "27.08.2025",
+      "durationEnd": "28.08.2025",
       "mapHref": "https://karte.bahn.de/detail/07c58b9d-ae62-4978-9a63-bee3b1d0de5a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-27/2c97f8b4-36e9-4aa6-aa63-c2c9e2a00741reisendenkarte_20250827-110021.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-27/2c97f8b4-36e9-4aa6-aa63-c2c9e2a00741reisendenkarte_20250827-110021.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-27/3f1292b5-06d1-4187-8867-f3b8ac90897freisendenkarte_20250827-110021.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-08-27/3f1292b5-06d1-4187-8867-f3b8ac90897freisendenkarte_20250827-110021.png",
           "info": "",
           "alt": "Reisendenkarte 27.08.2025 11:00:21",
           "openInNewTab": true
@@ -81,14 +126,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "href": "https://x.com/DBRegio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://x.com/DBRegio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
@@ -105,14 +150,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Fahrgastrechte",
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
           "info": "",
           "openInNewTab": true
         }
@@ -136,7 +181,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.08.2025 20:28",
+      "lastModified": "27.08.2025 21:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
