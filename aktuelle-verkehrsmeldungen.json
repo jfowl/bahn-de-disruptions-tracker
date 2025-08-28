@@ -63,8 +63,8 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "S5: Aktuell starke Abweichungen und Unregelmäßigkeiten zwischen Neugraben und Stade. ",
-      "summary": "Zwischen Neugraben und Stade kommt es aktuell zu starken Abweichungen vom Fahrplan und Unregelmäßigkeiten. Grund ist eine technische Störung an einer S-Bahn. Bitte achten Sie auf Ansagen und Anzeigen an den Stationen und den Zügen.",
+      "headline": "S5: Aktuell noch Unregelmäßigkeiten nach einer Fahrzeugstörung.",
+      "summary": "Die Fahrzeugstörung wurde behoben, die S5 fährt wieder bis Stade durch. Es sind jedoch noch Verspätungen möglich.",
       "text": "<p> </p>",
       "durationBegin": "28.08.2025",
       "durationEnd": "28.08.2025",
@@ -86,86 +86,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.08.2025 07:19",
+      "lastModified": "28.08.2025 07:37",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d8985c23-e962-49ed-98de-d4f7a2fadb4f",
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
-    },
-    {
-      "id": "96ded747-88e0-463a-bc7d-7e63c9f00a66",
-      "disruptionId": "07c58b9d-ae62-4978-9a63-bee3b1d0de5a",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "accident",
-        "label": "Unfall an einem Bahnübergang"
-      },
-      "headline": "Streckensperrung zwischen Bremen Hbf und Bremen-Burg beendet",
-      "summary": "Die Streckensperrung zwischen Bremen-Burg und Bremen Hbf ist beendet. Der Zugverkehr wird wieder aufgenommen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Hannover Hbf – Bremerhaven-Lehe): Die Züge verkehren auf Regelweg. Erster durchfahrender Zug ab Bremerhaven-Lehe ist der RE 4405 um 05:23 Uhr. Erster durchfahrender Zug ab Hannover Hbf ist der RE 4400 um 04:20 Uhr.</li><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Die Züge verkehren auf Regelweg. Erster durchfahrender Zug ab Bremerhaven-Lehe ist der RE 4453 um 06:23 Uhr. Erster durchfahrender Zug ab Hannover Hbf ist der RE 4450 um 05:27 Uhr.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "28.08.2025",
-      "durationEnd": "28.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/07c58b9d-ae62-4978-9a63-bee3b1d0de5a",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/DBRegio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.08.2025 02:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/96ded747-88e0-463a-bc7d-7e63c9f00a66",
-      "magnoliaPath": "/aktuell/nord/impairment_accident"
     },
     {
       "id": "74b6ccdb-8e8b-48ba-83d5-612e7130f45a",
@@ -315,24 +241,31 @@
       "author": "REGIO_BW",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Streckensperrung"
       },
-      "headline": "Kein Zugverkehr zwischen Tübingen Hbf und Herrenberg",
-      "summary": "Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Wir haben einen Ersatzverkehr mit drei Bussen zwischen Tübingen Hbf und Herrenberg im Pendelverkehr für Sie eingerichtet.  ",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul><p></p><p>Bitte prüfen Sie frühzeitig vor Reisebeginn, ob Ihre Verbindung betroffen ist und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Die Strecke zwischen Tübingen und Herrenberg ist gesperrt – kein Zugverkehr möglich",
+      "summary": "Die aktuelle Prognose zur Dauer der Beeinträchtigung bis mindestens 14. September.\nGrund sind übermäßige Verschleißerscheinungen sowohl an den Fahrzeugen als auch an der Infrastruktur.\nEin Ersatzverkehr mit Bussen ist eingerichtet und bedient alle Unterwegshalte. ",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul><p></p>",
       "durationBegin": "26.08.2025",
       "mapHref": "https://karte.bahn.de/detail/0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-27/48920a4d-62cb-4d86-a70b-2c3955be262areisendenkarte_20250827-111609.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-27/48920a4d-62cb-4d86-a70b-2c3955be262areisendenkarte_20250827-111609.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-28/ee47f174-c81a-4554-b03b-22364c5b845breisendenkarte_20250827-111609.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-28/ee47f174-c81a-4554-b03b-22364c5b845breisendenkarte_20250827-111609.png",
           "info": "",
           "alt": "Reisendenkarte 27.08.2025 11:16:09",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der Ammertalbahn",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -346,7 +279,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.08.2025 11:22",
+      "lastModified": "28.08.2025 07:34",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3c7c70c9-1292-4cbc-a69e-e0173c744a49",
@@ -1183,6 +1116,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "495bd2fa-f089-46ea-9f37-1e5a04899597",
+      "disruptionId": "6b08f2f8-e01c-4119-a9d5-dcf5c99f021b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Hamm(Westf)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Dortmund Hbf und Hamm(Westf)Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge, die zwischen Dortmund Hbf und Hamm(Westf)Hbf verkehren</li></ul><p>Die Beseitigung der Störung soll vsl. bis in die Vormittagsstunden am heutigen Donnerstag, 28.08.2025 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/6b08f2f8-e01c-4119-a9d5-dcf5c99f021b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-28/f400f4ed-8655-4c82-84bc-dd49a53dc643reisendenkarte_20250828-074533.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-28/f400f4ed-8655-4c82-84bc-dd49a53dc643reisendenkarte_20250828-074533.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.08.2025 07:45:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.08.2025 07:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/495bd2fa-f089-46ea-9f37-1e5a04899597",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
