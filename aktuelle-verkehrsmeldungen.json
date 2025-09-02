@@ -163,69 +163,52 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "8fa895e4-cd76-43ba-b9e7-864636fe7d0b",
-      "disruptionId": "d8b5ed1d-cd1b-43a9-9d90-610d2fdb7ba3",
-      "author": "REGIO_NORD",
+      "id": "1df8d8cf-0c84-41c2-a56e-b8c62335219c",
+      "disruptionId": "f403d4cd-d9cf-4ff3-ac4f-1ff2ec97c9d1",
+      "author": "REGIO_NORDOST",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "🚍 Ersatzverkehr mit Bus -\nHamburg Hbf ⇄ Ahrensburg",
-      "summary": "🚉 Linie: RB 81 (Hamburg Hbf ⇄ Bad Oldesloe)                                       \n📅 Datum: Freitag, 19.09.2025 22:00 Uhr bis Sonntag, 21.09.2025 19:00 Uhr",
-      "text": "<p>🚧&nbsp;<strong>Betroffene Stationen:</strong> Hamburg Hbf, Hamburg Hasselbrook, Hamburg-Tonndorf, Hamburg-Rahlstedt, Ahrensburg</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Im oben genannten Zeitraum fallen die Züge der Linie RB 81 zwischen Hamburg Hbf und Ahrensburg aus. In den Nächten fallen zusätzlich einzelne Züge von/bis Bad Oldesloe aus.</p><p>↪️<strong>&nbsp;Alternative:</strong> Bitte nutzen Sie den eingerichteten Ersatzverkehr mit Bus zwischen Ahrensburg und Hamburg Hasselbrook. Zwischen Hamburg Hasselbrook und Hamburg Hbf verkehrt die S-Bahn der Linie S 1.</p><p>🔜 Die Fahrplandaten werden von uns in Kürze aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung kurz vor Reiseantritt.</p><p>📞&nbsp;Noch Fragen? Sie erreichen den Kundendialog von DB Regio Schleswig-Holstein unter der Rufnummer 0431/53 44 05 00.</p>",
-      "durationBegin": "19.09.2025",
-      "durationEnd": "21.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/d8b5ed1d-cd1b-43a9-9d90-610d2fdb7ba3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-02/34ae720e-b2ab-4657-814a-8bf32d0e1835reisendenkarte_20250902-103433.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-02/34ae720e-b2ab-4657-814a-8bf32d0e1835reisendenkarte_20250902-103433.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.09.2025 10:34:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-02/4fc5d374-21de-4761-83d4-34795c754f0a15.09.%2B-%2B22.09.2025%2BNetz%2BOst%2BErsatzfahrplan_V03.pdf",
-          "label": "Ersatzfahrplan als PDF",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.bahnhof.de/",
-          "label": "Informationen zur Lage der Ersatzhaltestellen finden Sie in der Bahnhofssuche auf bahnhof.de in der Kachel \"Ersatzverkehr\"",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Noch Fragen? Unser Regionaler Kundendialog hilft gern weiter!",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Verkehrsmeldung für die Linie(n) RB49, RE13 und RE18 - Cottbus - Schwarzheide Ost",
+      "summary": " Mittwoch, 03.09.2025 08:00 Uhr bis vsl. Mittwoch, 03.09.2025 12:00 Uhr ",
+      "text": "<p>Wegen der Entschärfung einer Fliegerbombe kommt es am Mittwoch, 03.09.2025 08:00 Uhr bis vsl. Mittwoch, 03.09.2025 12:00 Uhr zu Verspätungen auf den Linien RB49, RE13 und RE18.</p><p>Betroffene Linien: RB49, RE13 und RE18</p><p>Linie RB49: (Cottbus - Falkenberg (Elster))</p><p>Linie RE13: (Cottbus - Senftenberg)</p><p>Linie RE18: (Cottbus - Dresden-Neustadt)</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "03.09.2025",
+      "durationEnd": "03.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/f403d4cd-d9cf-4ff3-ac4f-1ff2ec97c9d1",
+      "images": [],
+      "downloads": [],
+      "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "HH",
-        "SH"
+        "BB",
+        "BE"
       ],
       "lines": [
         {
-          "name": "RB 81",
-          "filterName": "RB 81",
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 18",
+          "filterName": "RE 18",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.09.2025 14:46",
+      "lastModified": "02.09.2025 14:59",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/8fa895e4-cd76-43ba-b9e7-864636fe7d0b",
-      "magnoliaPath": "/aktuell/nord/additional_service_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1df8d8cf-0c84-41c2-a56e-b8c62335219c",
+      "magnoliaPath": "/aktuell/nordost/significant_delays_police_activity"
     },
     {
       "id": "9e9758d6-db54-4d31-b256-0ea97b9b3e05",
@@ -437,8 +420,8 @@
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/65fcbd65-75c4-4f51-a6de-87d36039f05areisendenkarte_20250819-125756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/65fcbd65-75c4-4f51-a6de-87d36039f05areisendenkarte_20250819-125756.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/9bbb7081-aace-463e-8497-9011082a4ebcreisendenkarte_20250819-125756.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/9bbb7081-aace-463e-8497-9011082a4ebcreisendenkarte_20250819-125756.png",
           "info": "",
           "alt": "Reisendenkarte 19.08.2025 12:57:56",
           "openInNewTab": true
@@ -446,26 +429,32 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/5956e6ec-0db1-4d61-bdfd-99ea68b88f65Fahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/ca0508bb-7e12-470d-9a66-ba8fd7b0aaefFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
           "label": "Fahrplan Sigmaringen – Ulm 11.08. bis 14.09.2025",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/0a6415b5-0461-461a-8ac8-b737cec35ce7Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/7f462cea-737d-482e-bc5a-df742fd12169Fahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B15.09.-5.10.2025.pdf",
+          "label": "Fahrplan Sigmaringen – Ulm 15.09. bis 5.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/19468b3d-8503-4c6f-86a6-e8eb088f4bc3%25F0%259F%259A%258D%2B%2BFahrplan%2BErsatzverkehr%2B22.%2BSeptember%2B-%2B5.%2BOktober.pdf",
+          "label": "🚍  Bus Ersatzfahrpan Munderkingen-Riedlingen 22.09. - 5.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/c8fd92b8-7773-4ecd-a072-ca2298f3df87Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
           "label": "🚍Bus Ersatzfahrplan 11.08.-14.09. Munderkingen-Riedlingen",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/92060ea2-71fe-4da6-8dc8-b7b120bcb6a8%25F0%259F%259A%258D%2B%2BFahrplan%2BErsatzverkehr%2B15.09.%2B-%2B21.09.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-02/d7c97514-8395-48cb-acc1-7e243517fa45%25F0%259F%259A%258D%2B%2BFahrplan%2BErsatzverkehr%2B15.09.%2B-%2B21.09.2025.pdf",
           "label": "🚍  Bus Ersatzfahrplan (Schellklingen)-Munderkingen-Riedlingen 15.09. - 21.09.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-23/13f9f7e2-35e0-400d-83e1-5feafe6b5b1e%25F0%259F%259A%258D%2B%2BFahrplan%2BErsatzverkehr%2B22.%2BSeptember%2B-%2B5.%2BOktober.pdf",
-          "label": "🚍  Bus Ersatzfahrpan Munderkingen-Riedlingen 22.09. - 5.10.2025",
           "info": "",
           "openInNewTab": true
         }
@@ -497,7 +486,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.08.2025 00:44",
+      "lastModified": "02.09.2025 15:03",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
