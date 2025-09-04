@@ -385,6 +385,49 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
+      "id": "57ae27ab-3577-448d-bb97-672d2c706437",
+      "disruptionId": "2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund Hbf und Hamm (Westf) Hbf",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Dortmund Hbf und Hamm (Westf) Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 45 Minuten und Zugausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Berlin und Ruhrgebiet</li><li>ICE-Züge zwischen Hamburg - Ruhrgebiet - Frankfurt (Main) - Süddeutschland</li><li>IC-Züge zwischen (Süddeutschland) - Ruhrgebiet - Kassel/Hannover - Mitteldeutschland</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-04/0dfc7f4e-32dc-4b5a-b33d-cd7583ff5d75reisendenkarte_20250904-181310.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-04/0dfc7f4e-32dc-4b5a-b33d-cd7583ff5d75reisendenkarte_20250904-181310.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.09.2025 18:13:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.09.2025 18:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/57ae27ab-3577-448d-bb97-672d2c706437",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -722,51 +765,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50d73944-116a-4d06-959c-d74bed8e7241",
       "magnoliaPath": "/aktuell/mitte/reduced_service_construction"
-    },
-    {
-      "id": "b7f04de2-f1ad-4bb4-8e5f-bc080d7d707a",
-      "disruptionId": "513bdeba-356e-4717-975d-8a0e2e63f95a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 1 Leuchtenbergring",
-      "summary": "Die S-Bahnen der S1 können in Richtung Freising/Flughafen wieder regulär ab Leuchtenbergring fahren.",
-      "text": "<p>Erste wieder auf dem Regelweg verkehrende S-Bahn:</p><ul><li>S1 Abfahrt Leuchtenbergring 17:51 Uhr → Abfahrt Ostbahnhof 17:53 Uhr → Ankunft Neufahrn 18:35 Uhr</li></ul><p>Die Reparatur an einem Signal ist beendet.</p>",
-      "durationBegin": "04.09.2025",
-      "durationEnd": "04.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/513bdeba-356e-4717-975d-8a0e2e63f95a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-04/7fc5ebe9-4889-44ab-90d4-21de46d3ca83reisendenkarte_20250904-154606.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-04/7fc5ebe9-4889-44ab-90d4-21de46d3ca83reisendenkarte_20250904-154606.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.09.2025 15:46:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.09.2025 17:26",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b7f04de2-f1ad-4bb4-8e5f-bc080d7d707a",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "39ecbd86-d05a-4efc-bcab-6134856fea7b",
