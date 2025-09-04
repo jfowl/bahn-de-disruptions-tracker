@@ -192,6 +192,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "b745ff73-d625-4ef6-9243-4fa317c219cd",
+      "disruptionId": "bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S2 Petershausen ↔ Allach: Reparatur an der Oberleitung",
+      "summary": "Zwischen Petershausen und Allach sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Allach.</p><p>Ein Ersatzverkehr zwischen Allach und Petershausen ist in Planung.</p><p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p>",
+      "durationBegin": "04.09.2025",
+      "durationEnd": "05.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-04/9588b807-536b-45fa-a481-8499b92f6ecfreisendenkarte_20250904-220634.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-04/9588b807-536b-45fa-a481-8499b92f6ecfreisendenkarte_20250904-220634.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.09.2025 22:06:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.09.2025 22:08",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b745ff73-d625-4ef6-9243-4fa317c219cd",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "disruptionId": "b2c4fe42-88fe-4903-82bf-7709604c202d",
       "author": "REGIO_MITTE",
@@ -296,43 +341,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
-    },
-    {
-      "id": "b745ff73-d625-4ef6-9243-4fa317c219cd",
-      "disruptionId": "bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S2 Dachau Bahnhof - Petershausen: Reparatur an der Oberleitung",
-      "summary": "Derzeit ist auf der S2 zwischen Dachau-Bahnhof und Petershausen kein Zugverkehr möglich.",
-      "text": "<p>Grund ist eine Reparatur an der Oberleitung.\t</p>",
-      "durationBegin": "04.09.2025",
-      "durationEnd": "04.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.09.2025 21:44",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b745ff73-d625-4ef6-9243-4fa317c219cd",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
