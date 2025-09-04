@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "57ae27ab-3577-448d-bb97-672d2c706437",
+      "disruptionId": "2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund Hbf und Hamm (Westf) Hbf",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Dortmund Hbf und Hamm (Westf) Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen, Umleitungen mit Haltausfällen und Verspätungen bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge (Berlin – Hannover – Oldenburg (Oldb)/Hamm (Westf) – Wuppertal/Düsseldorf – Köln/Mönchengladbach – Aachen)</li><li>IC-Züge (Köln – Kassel-Wilhelmshöhe/Stuttgart – Frankfurt (M) – Eisenach – Erfurt – Gera/Leipzig – Dresden)&nbsp;</li><li>ICE/IC-Züge (Stralsund - Rostock/Westerland (Sylt) – Hamburg – Bremen – Essen/Dortmund – Köln – Aachen/Frankfurt (M) – Nürnberg – Passau/München)</li><li>ICE-Züge (Dortmund – Essen – Köln – Frankfurt (M)/Hamm (Westf) – Altenbeken – Kassel-Wilhelmshöhe – Würzburg – Nürnberg – München)</li><li>ICE/EC-Züge (Ostseebad Binz – Rostock – Hamburg – Bremen/Berlin – Magdeburg – Hannover – Dortmund – Düsseldorf – Köln – Koblenz – Mainz/Frankfurt (M) Flugh Fernbf – Mannheim – Basel – Zürich/Interlaken Ost)</li><li>IC-Züge (Dresden – Leipzig – Magdeburg – Hannover – Münster (Westf) – Dortmund – Köln – Koblenz – Frankfurt (M)/Mannheim – Karlsruhe/Stuttgart – Tübingen)</li><li>ICE-Züge (Berlin – Hannover – Münster (Westf)/Dortmund – Mönchengladbach/Köln – Aachen) <strong>im Ausfall</strong> auf dem gesamten Laufweg.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-05/2a3261f1-0248-4f3b-bbc0-300faf712172reisendenkarte_20250904-181310.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-05/2a3261f1-0248-4f3b-bbc0-300faf712172reisendenkarte_20250904-181310.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.09.2025 18:13:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BW",
+        "BY",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.09.2025 00:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/57ae27ab-3577-448d-bb97-672d2c706437",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -190,43 +238,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "b745ff73-d625-4ef6-9243-4fa317c219cd",
-      "disruptionId": "bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Endmeldung: S2 Petershausen ↔ Allach",
-      "summary": "Die Züge können wieder zwischen Petershausen und Allach fahren.",
-      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird 00:00 Uhr eingestellt.</p><p>Die Reparatur an der Oberleitung wurde beendet.</p>",
-      "durationBegin": "04.09.2025",
-      "durationEnd": "05.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/bfea92ce-540f-4da8-8b73-ff87cb55c9c9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.09.2025 23:38",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b745ff73-d625-4ef6-9243-4fa317c219cd",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
       "id": "682473c8-4fb5-4c63-9bb3-5a75b4121f16",
@@ -465,49 +476,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/87d3b2ea-cc84-4686-9770-a8312f64eecd",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
-    },
-    {
-      "id": "57ae27ab-3577-448d-bb97-672d2c706437",
-      "disruptionId": "2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Dortmund Hbf und Hamm (Westf) Hbf",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Dortmund Hbf und Hamm (Westf) Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 45 Minuten und Zugausfällen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Berlin und Ruhrgebiet</li><li>ICE-Züge zwischen Hamburg - Ruhrgebiet - Frankfurt (Main) - Süddeutschland</li><li>IC-Züge zwischen (Süddeutschland) - Ruhrgebiet - Kassel/Hannover - Mitteldeutschland</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/2d156568-0e5b-4d99-9893-3e49b9b5bd8b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-04/0dfc7f4e-32dc-4b5a-b33d-cd7583ff5d75reisendenkarte_20250904-181310.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-04/0dfc7f4e-32dc-4b5a-b33d-cd7583ff5d75reisendenkarte_20250904-181310.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.09.2025 18:13:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.09.2025 18:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/57ae27ab-3577-448d-bb97-672d2c706437",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
