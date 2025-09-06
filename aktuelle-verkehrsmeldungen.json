@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c865045b-f3a1-4f5f-b029-bef0f15ff0f1",
+      "disruptionId": "ce8dd3bb-24df-4509-a1a7-4ee817d34f2d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S2: Aktuell fährt keine S2 zwischen Bergedorf und Aumühle. Grund: Polizeieinsatz. ",
+      "summary": "Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p>Ersatzverkehr ist im Aufbau.</p>",
+      "durationBegin": "06.09.2025",
+      "durationEnd": "06.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/ce8dd3bb-24df-4509-a1a7-4ee817d34f2d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.09.2025 13:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c865045b-f3a1-4f5f-b029-bef0f15ff0f1",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -392,16 +430,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 3 Mammendorf: Reparatur an einer Weiche",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einer Weiche bei Maisach.</p>",
+      "headline": "S 3 Mammendorf: Reparatur an einer Weiche beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einer Weiche bei Maisach.</p>",
       "durationBegin": "06.09.2025",
       "durationEnd": "06.09.2025",
       "mapHref": "https://karte.bahn.de/detail/6971918b-9285-426a-949b-d1cacc669372",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-06/266122f9-ecab-4a47-ad46-7963c88ade65reisendenkarte_20250906-114005.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-06/266122f9-ecab-4a47-ad46-7963c88ade65reisendenkarte_20250906-114005.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-06/a0be64c4-e3b7-4ee3-b72a-099c4f7abc49reisendenkarte_20250906-114005.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-06/a0be64c4-e3b7-4ee3-b72a-099c4f7abc49reisendenkarte_20250906-114005.png",
           "info": "",
           "alt": "Reisendenkarte 06.09.2025 11:40:05",
           "openInNewTab": true
@@ -422,7 +460,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.09.2025 11:41",
+      "lastModified": "06.09.2025 13:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
