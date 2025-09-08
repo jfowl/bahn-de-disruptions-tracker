@@ -2,6 +2,83 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3891862f-8657-4cec-83d0-2561e854102c",
+      "disruptionId": "03905c6f-0bf6-414e-8b1a-2ceadfdae623",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Reparatur an einem Signal zwischen Westerland(Sylt) und Keitum",
+      "summary": "Aufgrund einer Reparatur an einem Signal ist die Strecke zwischen Westerland(Sylt) und Keitum gesperrt.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züger enden/beginnen in Keitum.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "08.09.2025",
+      "durationEnd": "08.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/03905c6f-0bf6-414e-8b1a-2ceadfdae623",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-08/f62b4f33-7398-4e73-8dbb-e81cea042379reisendenkarte_20250908-193307.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-08/f62b4f33-7398-4e73-8dbb-e81cea042379reisendenkarte_20250908-193307.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.09.2025 19:33:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/aktuell?dbkanal_007=headerlinks-verkehrsmeldungen",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/dbregio_sh?lang=de",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.09.2025 22:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3891862f-8657-4cec-83d0-2561e854102c",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -227,41 +304,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/82da1ab5-e53d-46c0-ab1d-8c9136f86a29",
       "magnoliaPath": "/aktuell/mitte/no_service_weather_storm"
-    },
-    {
-      "id": "4663385e-688e-45c0-81d2-15034afe1142",
-      "disruptionId": "68733338-42da-48ee-9cdf-e8b1eae0fbe1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Entschärfung einer Weltkriegsbombe in Wesel",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 08.09.2025 kommt es in Wesel zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 60 Minuten. Weiterhin entfallen dadurch die Halte in Düsseldorf, Duisburg, Oberhausen und Arnhem.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE Züge im internationalen Verkehr zwischen Köln und Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/68733338-42da-48ee-9cdf-e8b1eae0fbe1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.09.2025 16:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/4663385e-688e-45c0-81d2-15034afe1142",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_police_activity"
     },
     {
       "id": "682473c8-4fb5-4c63-9bb3-5a75b4121f16",
