@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "724b425b-266e-4ff7-a65c-e8c6998e079b",
-      "disruptionId": "0306ab06-39c7-4676-870b-f26a89314606",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt(Main)Flughafen",
-      "summary": "Aufgrund kurzfristiger Reparaturarbeiten ist die ICE-Strecke zwischen Köln und Frankfurt Flughafen Fernbf derzeit gesperrt. Dadurch kommt es zu Umleitungen, Zugausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge, die zwischen Köln und Frankfurt Flughafen Fernbf über die ICE-Schnellfahrstrecke verkehren</li></ul><p>Wir empfehlen Ihnen folgende <strong>Reisealternativen</strong>: </p><p>Nutzen Sie zwischen Köln und Frankfurt(Main) die noch verkehrenden Züge des Fernverkehrs.</p><p><strong>Siegburg/Bonn </strong>erreichen Sie ab Köln Hbf mit den Zügen des Regionalverkehrs sowie der S-Bahn</p><p><strong>Montabaur</strong> erreichen Sie ab Limburg(Lahn) mit der Regionalverkehrslinie RB 29.</p><p><strong>Limburg</strong> erreichen Sie ab Frankfurt(Main)Hbf mit den Zügen der Regionalverkehrslinie RB 22 sowie ab Koblenz Hbf mit den Regionalverkehrslinien RE 25 und RB 23.</p><p>Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden am heutigen 09.09.2025 erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/0306ab06-39c7-4676-870b-f26a89314606",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-09/40fdcb9d-aee2-43bd-8622-be3521440b5creisendenkarte_20250909-114225.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-09/40fdcb9d-aee2-43bd-8622-be3521440b5creisendenkarte_20250909-114225.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.09.2025 11:42:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.09.2025 11:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/724b425b-266e-4ff7-a65c-e8c6998e079b",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -926,6 +881,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a71850c3-6b43-494b-bdc3-ad2036137012",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
+    },
+    {
+      "id": "f3b251cd-28c2-4f50-82a8-1855130abbd4",
+      "disruptionId": "f4487889-e9c5-4d5e-abb3-009093210ba1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Westkreuz ↔ Neuaubing: Reparatur an einem Signal",
+      "summary": "Zwischen Westkreuz und Neuaubing kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal in Neuaubing.</p>",
+      "durationBegin": "09.09.2025",
+      "durationEnd": "09.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/f4487889-e9c5-4d5e-abb3-009093210ba1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/9fa5d129-2817-4684-9ad2-40f5e5c14b92reisendenkarte_20250909-122852.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/9fa5d129-2817-4684-9ad2-40f5e5c14b92reisendenkarte_20250909-122852.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.09.2025 12:28:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.09.2025 12:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f3b251cd-28c2-4f50-82a8-1855130abbd4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "425d3726-221f-47c1-9c41-bd49bed77f87",
