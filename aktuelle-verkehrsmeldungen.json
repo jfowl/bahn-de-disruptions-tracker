@@ -212,43 +212,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
     },
     {
-      "id": "82da1ab5-e53d-46c0-ab1d-8c9136f86a29",
-      "disruptionId": "9a115782-a599-4469-b239-286d701fc5b3",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
-      },
-      "headline": "Die Strecke zwischen Eisenberg und Grünstadt ist gesperrt.",
-      "summary": "Die Strecke zwischen Eisenberg und Grünstadt ist gesperrt. Dauer der Sperrung ist vom 09.09.2025, 00:30 Uhr bis vsl. 09.09.2025, 13:00 Uhr. Der Grund sind Unwetterauswirkungen. Keine Zugfahrt in dem genannten Streckenabschnitt möglich.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB46 Frankenthal – Freinsheim – Grünstadt – Ramsen – Eiswoog </li></ul><p>Ein Ersatzverkehr mit 4 Bussen ist zwischen Eisenberg und Grünstadt eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "09.09.2025",
-      "durationEnd": "09.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/9a115782-a599-4469-b239-286d701fc5b3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 46",
-          "filterName": "RB 46",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.09.2025 18:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/82da1ab5-e53d-46c0-ab1d-8c9136f86a29",
-      "magnoliaPath": "/aktuell/mitte/no_service_weather_storm"
-    },
-    {
       "id": "682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "disruptionId": "b2c4fe42-88fe-4903-82bf-7709604c202d",
       "author": "REGIO_MITTE",
@@ -883,6 +846,51 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
     },
     {
+      "id": "425d3726-221f-47c1-9c41-bd49bed77f87",
+      "disruptionId": "e9741097-cb52-4e5d-9136-bba24f499a65",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang ist behoben.",
+      "summary": "Im Bereich Perlach kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p> Technischer Defekt an einem Bahnübergang wurde behoben, allerdings wegen Reparatur an der Strecke am Hauptbahnhof verkehrt die Linie S 5 nicht auf dem Regelweg.  </p>",
+      "durationBegin": "09.09.2025",
+      "durationEnd": "09.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/e9741097-cb52-4e5d-9136-bba24f499a65",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/f3b7fa0e-fb24-4a2e-8f97-3d50e3cc3c74reisendenkarte_20250909-103143.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/f3b7fa0e-fb24-4a2e-8f97-3d50e3cc3c74reisendenkarte_20250909-103143.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.09.2025 10:31:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.09.2025 12:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/425d3726-221f-47c1-9c41-bd49bed77f87",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "f3b251cd-28c2-4f50-82a8-1855130abbd4",
       "disruptionId": "f4487889-e9c5-4d5e-abb3-009093210ba1",
       "author": "S_BAHN_MUC",
@@ -926,51 +934,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f3b251cd-28c2-4f50-82a8-1855130abbd4",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
-    },
-    {
-      "id": "425d3726-221f-47c1-9c41-bd49bed77f87",
-      "disruptionId": "e9741097-cb52-4e5d-9136-bba24f499a65",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Perlach kommt es zu Verspätungen von bis zu 15 Minuten und vorzeitige Zugwendungen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "09.09.2025",
-      "durationEnd": "09.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/e9741097-cb52-4e5d-9136-bba24f499a65",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/50c1b626-d812-4088-bd15-629b43317269reisendenkarte_20250909-103143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/50c1b626-d812-4088-bd15-629b43317269reisendenkarte_20250909-103143.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.09.2025 10:31:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.09.2025 11:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/425d3726-221f-47c1-9c41-bd49bed77f87",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "d34db576-b199-4eb6-be05-3c29a8cdd752",
