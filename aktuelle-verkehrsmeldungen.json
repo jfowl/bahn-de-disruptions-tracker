@@ -253,7 +253,7 @@
       "headline": "Bretten ⇄ Grötzingen - Instandhaltungsmaßnahmen",
       "summary": "Datum: 10.09.2025 von 08:00 Uhr bis 16:30 Uhr",
       "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE45 - Karlsruhe &lt;&gt; Bretten &lt;&gt; Eppingen &lt;&gt; Schwaigern(Württ) &lt;&gt; Heilbronn</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu geänderten Fahrzeiten, Fahrtausfällen und Ersatzverkehr.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit 3 Bussen im Pendel zwischen Bretten und Karlsruhe-Durlach für Sie eingerichtet.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte bei ihrer Reiseplanung und unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p>",
-      "durationBegin": "09.09.2025",
+      "durationBegin": "10.09.2025",
       "durationEnd": "10.09.2025",
       "mapHref": "https://karte.bahn.de/detail/46d497e6-c134-4805-ae67-f9d5b3d4e6af",
       "images": [],
@@ -267,12 +267,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 45",
+          "filterName": "RE 45",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.09.2025 20:36",
+      "lastModified": "09.09.2025 21:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -508,6 +508,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "fe60d314-6895-4864-b3a6-654a5c467010",
+      "disruptionId": "cd30ddf0-e07b-4908-a77e-b686e14f243e",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3 und S5: Aktuell fährt keine S3 und S5 zwischen Hammerbrook und Neugraben. Grund: Polizeieinsatz. ",
+      "summary": "Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p>Weitere Informationen werden gerade zusammengestellt...</p>",
+      "durationBegin": "09.09.2025",
+      "durationEnd": "09.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/cd30ddf0-e07b-4908-a77e-b686e14f243e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.09.2025 21:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fe60d314-6895-4864-b3a6-654a5c467010",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
     },
     {
       "id": "08b6534d-8503-46eb-87f7-08af5f53b73a",
