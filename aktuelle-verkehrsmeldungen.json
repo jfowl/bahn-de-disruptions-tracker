@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "724b425b-266e-4ff7-a65c-e8c6998e079b",
+      "disruptionId": "0306ab06-39c7-4676-870b-f26a89314606",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund kurzfristiger Reparaturarbeiten ist die ICE-Strecke zwischen Köln und Frankfurt Flughafen Fernbf derzeit gesperrt. Dadurch kommt es zu Umleitungen, Zugausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge, die zwischen Köln und Frankfurt Flughafen Fernbf über die ICE-Schnellfahrstrecke verkehren</li></ul><p>Wir empfehlen Ihnen folgende <strong>Reisealternativen</strong>: </p><p>Nutzen Sie zwischen Köln und Frankfurt(Main) die noch verkehrenden Züge des Fernverkehrs.</p><p><strong>Siegburg/Bonn </strong>erreichen Sie ab Köln Hbf mit den Zügen des Regionalverkehrs sowie der S-Bahn</p><p><strong>Montabaur</strong> erreichen Sie ab Limburg(Lahn) mit der Regionalverkehrslinie RB 29.</p><p><strong>Limburg</strong> erreichen Sie ab Frankfurt(Main)Hbf mit den Zügen der Regionalverkehrslinie RB 22 sowie ab Koblenz Hbf mit den Regionalverkehrslinien RE 25 und RB 23.</p><p>Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden am heutigen 09.09.2025 erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/0306ab06-39c7-4676-870b-f26a89314606",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-09/64c4c821-f532-45cc-b42a-244d898fd8a9reisendenkarte_20250909-114225.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-09/64c4c821-f532-45cc-b42a-244d898fd8a9reisendenkarte_20250909-114225.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.09.2025 11:42:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.09.2025 11:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/724b425b-266e-4ff7-a65c-e8c6998e079b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -802,6 +847,51 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
     },
     {
+      "id": "425d3726-221f-47c1-9c41-bd49bed77f87",
+      "disruptionId": "e9741097-cb52-4e5d-9136-bba24f499a65",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Perlach kommt es zu Verspätungen von bis zu 15 Minuten und vorzeitige Zugwendungen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "09.09.2025",
+      "durationEnd": "09.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/e9741097-cb52-4e5d-9136-bba24f499a65",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/50c1b626-d812-4088-bd15-629b43317269reisendenkarte_20250909-103143.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/50c1b626-d812-4088-bd15-629b43317269reisendenkarte_20250909-103143.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.09.2025 10:31:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.09.2025 11:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/425d3726-221f-47c1-9c41-bd49bed77f87",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "aadbed17-3ec9-49bf-bcc2-7f0e22e5a652",
       "disruptionId": "42b76b79-4f76-4fc3-ac47-facdf5d1501c",
       "author": "S_BAHN_MUC",
@@ -845,51 +935,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/aadbed17-3ec9-49bf-bcc2-7f0e22e5a652",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
-    },
-    {
-      "id": "425d3726-221f-47c1-9c41-bd49bed77f87",
-      "disruptionId": "e9741097-cb52-4e5d-9136-bba24f499a65",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Perlach kommt es zu Verspätungen von bis zu 15 Minuten und vorzeitige Zugwendungen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "09.09.2025",
-      "durationEnd": "09.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/e9741097-cb52-4e5d-9136-bba24f499a65",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/2a9463c2-7f48-48aa-913e-8550d38fa205reisendenkarte_20250909-103143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/2a9463c2-7f48-48aa-913e-8550d38fa205reisendenkarte_20250909-103143.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.09.2025 10:31:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.09.2025 10:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/425d3726-221f-47c1-9c41-bd49bed77f87",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "d34db576-b199-4eb6-be05-3c29a8cdd752",
