@@ -2,6 +2,94 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3f71dd48-3f1f-4759-abb1-6df1fbacbe27",
+      "disruptionId": "4e452b2b-b259-4f52-828e-bf01b1e81fde",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Beeinträchtigungen zwischen Heide (Holst) und Itzehoe auf der Linie RB 62",
+      "summary": "Aufgrund eines technischen Defekts an einem anderen Zug ist der Streckenabschnitt zwischen Heide (Holst) und Itzehoe bis vsl. Betriebsschluss beeinträchtigt. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 62 (Heide(Holst) – Itzehoe): Die Züge enden/beginnen in St Michaelisdonn. </li><li>RE 6 (Westerland(Sylt) – Hamburg-Altona):  Die Züge halten zusätzlich in St Michaelisdonn.</li></ul><p>Ersatzverkehr mit Bus der Firma Speed Bus und der Firma Dithmarscher ist im Pendel zwischen St Michaelisdonn und Heide (Holst) eingerichtet.</p><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu ca. 60 Minuten.</p><p>Bitte prüfen Sie Ihre Reiseverbindung vor Reiseantritt.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "09.09.2025",
+      "durationEnd": "10.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4e452b2b-b259-4f52-828e-bf01b1e81fde",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-09/2a738f4d-6b5b-44e3-a8c4-531fe6858e22reisendenkarte_20250909-181203.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-09/2a738f4d-6b5b-44e3-a8c4-531fe6858e22reisendenkarte_20250909-181203.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.09.2025 18:12:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.google.com/search?q=DB+Navigator&amp;rlz=1C1GTPM_enDE1033DE1034&amp;oq=DB+Navigator&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDzSAQk2MjkzajBqMTWoAgiwAgE&amp;sourceid=chrome&amp;ie=UTF-8",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/home?lang=de",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.google.com/search?q=Fahrgastrechte&amp;rlz=1C1GTPM_enDE1033DE1034&amp;oq=Fahrgastrechte&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEJNTI3OGowajE1qAIIsAIB&amp;sourceid=chrome&amp;ie=UTF-8",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de/",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 62",
+          "filterName": "RB 62",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.09.2025 18:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3f71dd48-3f1f-4759-abb1-6df1fbacbe27",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -87,7 +175,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.09.2025 17:19",
+      "lastModified": "09.09.2025 18:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -900,8 +988,8 @@
       "mapHref": "https://karte.bahn.de/detail/f4487889-e9c5-4d5e-abb3-009093210ba1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/5f65de12-b7dd-4026-9301-b7a06689a9eereisendenkarte_20250909-122852.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/5f65de12-b7dd-4026-9301-b7a06689a9eereisendenkarte_20250909-122852.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/f890d893-2b64-4a3c-a339-4259ccf8ffd4reisendenkarte_20250909-122852.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-09/f890d893-2b64-4a3c-a339-4259ccf8ffd4reisendenkarte_20250909-122852.png",
           "info": "",
           "alt": "Reisendenkarte 09.09.2025 12:28:52",
           "openInNewTab": true
@@ -927,7 +1015,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.09.2025 15:41",
+      "lastModified": "09.09.2025 17:56",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
