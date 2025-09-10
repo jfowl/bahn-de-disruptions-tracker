@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "78c49da0-45b8-4092-b59e-5bc4859fb7ca",
+      "disruptionId": "344fab6d-6f27-4b14-8c11-9776e80e9812",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Crailsheim",
+      "summary": "Aufgrund eines Brückenschadens ist die Strecke zwischen Nürnberg und Crailsheim derzeit gesperrt. Dadurch kommt es zu Verspätungen von ca. 30 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Leipzig - Nürnberg - Stuttgart - Karlsruhe</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative].</p><p>Die Behebung der Störung soll vsl. bis [Prognose] erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/344fab6d-6f27-4b14-8c11-9776e80e9812",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.09.2025 13:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/78c49da0-45b8-4092-b59e-5bc4859fb7ca",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -153,6 +189,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "5dd02840-1c07-4383-be81-164c4c5c375a",
+      "disruptionId": "5ddc921c-d7e5-4cfd-9c95-e2b98879acef",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 / S 8 Flughafen: Reparatur an einem Signal",
+      "summary": "Momentan ist leider kein Zugverkehr zwischen Ismaning und Flughafen sowie zwischen Neufahrn und Flughafen möglich.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Taxis zwischen Neufahrn und Flughafen sowie zwischen Ismaning und Flughafen eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an einem Signal.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "durationBegin": "10.09.2025",
+      "durationEnd": "10.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/5ddc921c-d7e5-4cfd-9c95-e2b98879acef",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/7b26ae11-ccc2-414d-a67a-c541950b9d54reisendenkarte_20250910-143117.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/7b26ae11-ccc2-414d-a67a-c541950b9d54reisendenkarte_20250910-143117.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.09.2025 14:31:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.09.2025 14:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5dd02840-1c07-4383-be81-164c4c5c375a",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "48efc67b-d9ed-4293-81a3-68c2a21a5600",
@@ -660,51 +746,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "8ca1a262-aca2-456c-beb3-77e80d891dd8",
-      "disruptionId": "5b1f203f-2135-408f-8b85-f96366959407",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 1 Freising/Flughafen: Reparatur an einem Signal",
-      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
-      "text": "<p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ die Linie S 8.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "10.09.2025",
-      "durationEnd": "10.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/5b1f203f-2135-408f-8b85-f96366959407",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/4be20e7a-0b2d-482d-a11b-1b0dc391a1b5reisendenkarte_20250910-133828.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/4be20e7a-0b2d-482d-a11b-1b0dc391a1b5reisendenkarte_20250910-133828.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.09.2025 13:38:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2025 13:41",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8ca1a262-aca2-456c-beb3-77e80d891dd8",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section2"
-    },
-    {
       "id": "b76c4d99-750b-4dd0-95f0-f3996679fdbf",
       "disruptionId": "ffa69e9c-5731-483b-bac4-7644bfce9a5c",
       "author": "REGIO_NORDOST",
@@ -840,6 +881,57 @@
       "magnoliaPath": "/aktuell/hessen/stop_moved_construction"
     },
     {
+      "id": "d3889333-a6e5-41ea-b8f7-87728c844f85",
+      "disruptionId": "53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE7 - Zugausfall und Ersatzverkehr - Bad Belzig <> Dessau Hbf",
+      "summary": "Donnerstag, 11.September 2025, 04:00 Uhr bis Samstag, 20. September 2025, 03:00 Uhr",
+      "text": "<p>Die Züge der Linie RE7 fallen zwischen Bad Belzig und Dessau Hbf aus und werden durch Busse ersetzt.</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs sowie die weiteren Bauarbeiten auf dieser Linie in diesem Zeitraum.</p><p>Auf Grund der kurzfristigen Baumaßnahme sind die Busse am 11.09. und 12.09. nicht in der Reiseauskunft abrufbar.</p><p>Grund: Gleiserneuerung / Bahnsteigarbeiten in Medewitz</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅ Die geänderten Fahrpläne sind ab 12.09.25 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
+      "durationBegin": "11.09.2025",
+      "durationEnd": "20.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/69a4dd10-7555-441c-bbdb-cbec6025c0bareisendenkarte_20250910-124221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/69a4dd10-7555-441c-bbdb-cbec6025c0bareisendenkarte_20250910-124221.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.09.2025 12:42:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/211d4909-5e41-4651-a281-b2f4b68459c1Baufpl%2B77777%2BBad%2BBelzig%2B-%2BDessau%2B%2528RE7%2529%2B11.09.-20.09.25.pdf",
+          "label": "Baufpl 77777 Bad Belzig - Dessau (RE7) 11.09.-20.09.25.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.09.2025 14:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d3889333-a6e5-41ea-b8f7-87728c844f85",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction43"
+    },
+    {
       "id": "a71850c3-6b43-494b-bdc3-ad2036137012",
       "disruptionId": "26f76017-9c1e-48f0-9f85-bc05a24e86a7",
       "author": "REGIO_NORDOST",
@@ -890,101 +982,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a71850c3-6b43-494b-bdc3-ad2036137012",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
-    },
-    {
-      "id": "9eb23f90-aa92-49d8-a336-9ac1a4ced1fc",
-      "disruptionId": "89e8429d-360f-421d-bf96-ecb9114a12e0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "UPDATE: S 1, S 8 Besucherpark: Reparatur an einem Signal",
-      "summary": "Im Bereich Besucherpark kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "10.09.2025",
-      "durationEnd": "10.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/89e8429d-360f-421d-bf96-ecb9114a12e0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/d2fd6cfb-f1c7-49cc-a63e-1a6a0523e001reisendenkarte_20250910-121237.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/d2fd6cfb-f1c7-49cc-a63e-1a6a0523e001reisendenkarte_20250910-121237.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.09.2025 12:12:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2025 13:24",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9eb23f90-aa92-49d8-a336-9ac1a4ced1fc",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
-    },
-    {
-      "id": "533bc00c-6657-4929-b87b-60925a9b4c0c",
-      "disruptionId": "6473aedf-1bd7-4f3d-bde2-97ce6ecdb408",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "S 7 Mittersendling: Technische Störung an einem Zug",
-      "summary": "Im Bereich Mittersendling kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine vorangegangene technische Störung am Zug.</p>",
-      "durationBegin": "10.09.2025",
-      "durationEnd": "10.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/6473aedf-1bd7-4f3d-bde2-97ce6ecdb408",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/fa0dd57c-e6fa-45f7-ab14-53e87ab2d6b3reisendenkarte_20250910-130658.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/fa0dd57c-e6fa-45f7-ab14-53e87ab2d6b3reisendenkarte_20250910-130658.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.09.2025 13:06:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2025 13:08",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/533bc00c-6657-4929-b87b-60925a9b4c0c",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "d34db576-b199-4eb6-be05-3c29a8cdd752",
