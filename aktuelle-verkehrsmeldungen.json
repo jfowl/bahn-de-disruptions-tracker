@@ -2,89 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "3f71dd48-3f1f-4759-abb1-6df1fbacbe27",
-      "disruptionId": "4e452b2b-b259-4f52-828e-bf01b1e81fde",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Heide (Holst) und Itzehoe auf der Linie RB 62 beendet",
-      "summary": "Der technischen Defekt an einem anderen Zug wurde behoben. Der Zugverkehr der Linie RB 62 zwischen Heide (Holst) und Itzehoe wird zum Betriebsstart am 10. September wieder aufgenommen.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 62 (Heide(Holst) – Itzehoe): Die Züge verkehren planmäßig.</li><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge verkehren planmäßig.</li></ul><p>Bitte prüfen Sie Ihre Reiseverbindung vor Reiseantritt.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "09.09.2025",
-      "durationEnd": "10.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/4e452b2b-b259-4f52-828e-bf01b1e81fde",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-10/46b110c9-d841-4e76-9bd2-7352b309dbd0reisendenkarte_20250909-181203.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-09-10/46b110c9-d841-4e76-9bd2-7352b309dbd0reisendenkarte_20250909-181203.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.09.2025 18:12:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.google.com/search?q=DB+Navigator&amp;rlz=1C1GTPM_enDE1033DE1034&amp;oq=DB+Navigator&amp;gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARBFGDzSAQk2MjkzajBqMTWoAgiwAgE&amp;sourceid=chrome&amp;ie=UTF-8",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.google.com/search?q=Fahrgastrechte&amp;rlz=1C1GTPM_enDE1033DE1034&amp;oq=Fahrgastrechte&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg80gEJNTI3OGowajE1qAIIsAIB&amp;sourceid=chrome&amp;ie=UTF-8",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de/",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/home?lang=de",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RB 62",
-          "filterName": "RB 62",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.09.2025 02:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3f71dd48-3f1f-4759-abb1-6df1fbacbe27",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
-    },
-    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -236,6 +153,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "48efc67b-d9ed-4293-81a3-68c2a21a5600",
+      "disruptionId": "75b1f687-2bb5-47e9-8906-95695903abce",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Zugverkehr zw. BAHNHOF und BAHNHOF eingestellt",
+      "summary": "Der Zugverkehr auf der Linie RB66 ist ab 15:30 Uhr zwischen Lauterecken-Grumbach und Kaiserslautern bis Betriebsende eingestellt. Der Grund ist ein erhöhter Krankenstand beim Stellwerkspersonal. Wir haben einen Ersatzverkehr mit 4 Bussen zwischen Lauterecken-Grumbach und Kaiserslautern für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p>Betroffene&nbsp;Linie(n):&nbsp;#RB66</p><p>Bitte&nbsp;berücksichtigen&nbsp;Sie&nbsp;die&nbsp;Änderungen&nbsp;im&nbsp;Zugverkehr&nbsp;bei&nbsp;Ihrer&nbsp;Reiseplanung&nbsp;und&nbsp;rechnen&nbsp;Sie&nbsp;für&nbsp;die&nbsp;Dauer&nbsp;der&nbsp;Störung&nbsp;mehr&nbsp;Reisezeit&nbsp;ein.</p>",
+      "durationBegin": "10.09.2025",
+      "durationEnd": "10.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/75b1f687-2bb5-47e9-8906-95695903abce",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 66",
+          "filterName": "RB 66",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.09.2025 06:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/48efc67b-d9ed-4293-81a3-68c2a21a5600",
+      "magnoliaPath": "/aktuell/mitte/no_service_other_cause0"
     },
     {
       "id": "bc705964-14a9-47e3-82f5-ca390b13ed23",
