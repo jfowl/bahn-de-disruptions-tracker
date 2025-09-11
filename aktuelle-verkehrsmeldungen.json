@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "360704c1-55a5-4bed-a04a-ddff73c77e36",
-      "disruptionId": "7b635b37-d764-4f5a-95f4-373fc09e2a47",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "S2 und S5: Aktuell fahren keine Züge über Dammtor.",
-      "summary": "Aktuell werden alle Züge derS2 und S5 über Jungfernstieg umgeleitet. Grund: Brückenanfahrt durch einen LKW",
-      "text": "<p></p>",
-      "durationBegin": "11.09.2025",
-      "durationEnd": "11.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/7b635b37-d764-4f5a-95f4-373fc09e2a47",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.09.2025 06:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/360704c1-55a5-4bed-a04a-ddff73c77e36",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
-    },
-    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -151,6 +107,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1016276c-754e-4ac2-945b-8291d7e313c7",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "d3889333-a6e5-41ea-b8f7-87728c844f85",
+      "disruptionId": "53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE7 - Zugausfall und Ersatzverkehr - Bad Belzig <> Dessau Hbf",
+      "summary": "Donnerstag, 11.September 2025, 04:00 Uhr bis Samstag, 20. September 2025, 03:00 Uhr",
+      "text": "<p>Die Züge der Linie RE7 fallen zwischen Bad Belzig und Dessau Hbf aus und werden durch Busse ersetzt.</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs sowie die weiteren Bauarbeiten auf dieser Linie in diesem Zeitraum.</p><p>Auf Grund der kurzfristigen Baumaßnahme sind die Busse am 11.09. und 12.09. nicht in der Reiseauskunft abrufbar.</p><p>Grund: Gleiserneuerung / Bahnsteigarbeiten in Medewitz</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅ Die geänderten Fahrpläne sind ab 12.09.25 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
+      "durationBegin": "11.09.2025",
+      "durationEnd": "20.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-11/0e3b2d32-dc59-4286-9c59-2c61f168b27dreisendenkarte_20250910-124221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-11/0e3b2d32-dc59-4286-9c59-2c61f168b27dreisendenkarte_20250910-124221.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.09.2025 12:42:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-11/a0823bcd-4d6f-4008-b9d6-a3157aff38f2Baufpl%2B77777%2BBad%2BBelzig%2B-%2BDessau%2B%2528RE7%2529%2B11.09.-20.09.25.pdf",
+          "label": "Baufpl 77777 Bad Belzig - Dessau (RE7) 11.09.-20.09.25.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.09.2025 08:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d3889333-a6e5-41ea-b8f7-87728c844f85",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction43"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -814,57 +822,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
-    },
-    {
-      "id": "d3889333-a6e5-41ea-b8f7-87728c844f85",
-      "disruptionId": "53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baumaßnahme auf der Linie RE7 - Zugausfall und Ersatzverkehr - Bad Belzig <> Dessau Hbf",
-      "summary": "Donnerstag, 11.September 2025, 04:00 Uhr bis Samstag, 20. September 2025, 03:00 Uhr",
-      "text": "<p>Die Züge der Linie RE7 fallen zwischen Bad Belzig und Dessau Hbf aus und werden durch Busse ersetzt.</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs sowie die weiteren Bauarbeiten auf dieser Linie in diesem Zeitraum.</p><p>Auf Grund der kurzfristigen Baumaßnahme sind die Busse am 11.09. und 12.09. nicht in der Reiseauskunft abrufbar.</p><p>Grund: Gleiserneuerung / Bahnsteigarbeiten in Medewitz</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅ Die geänderten Fahrpläne sind ab 12.09.25 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
-      "durationBegin": "11.09.2025",
-      "durationEnd": "20.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/53b56987-6378-4d71-a4a3-c7c5a22b0ab1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/69a4dd10-7555-441c-bbdb-cbec6025c0bareisendenkarte_20250910-124221.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/69a4dd10-7555-441c-bbdb-cbec6025c0bareisendenkarte_20250910-124221.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.09.2025 12:42:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-09-10/211d4909-5e41-4651-a281-b2f4b68459c1Baufpl%2B77777%2BBad%2BBelzig%2B-%2BDessau%2B%2528RE7%2529%2B11.09.-20.09.25.pdf",
-          "label": "Baufpl 77777 Bad Belzig - Dessau (RE7) 11.09.-20.09.25.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB"
-      ],
-      "lines": [
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.09.2025 14:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/d3889333-a6e5-41ea-b8f7-87728c844f85",
-      "magnoliaPath": "/aktuell/nordost/additional_service_construction43"
     },
     {
       "id": "a71850c3-6b43-494b-bdc3-ad2036137012",
