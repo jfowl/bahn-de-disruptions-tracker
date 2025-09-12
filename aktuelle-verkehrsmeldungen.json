@@ -457,49 +457,96 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
     },
     {
-      "id": "e7f8c194-073f-4d90-8993-e43778d296a8",
-      "disruptionId": "f4761aad-36ab-4616-92c9-f1f52eadeea2",
-      "author": "S_BAHN_MUC",
+      "id": "fd805998-1eda-4cbd-9330-96454b8b2dc6",
+      "disruptionId": "3c0840c3-ff39-42eb-834e-97d0e054290c",
+      "author": "REGIO_BW",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "other_cause",
+        "label": "Verzögerung im Betriebsablauf"
       },
-      "headline": "S 2 Erding: Reparatur an einem Signal beendet",
-      "summary": "Es kommt zu keinen Folgeverspätungen mehr.",
-      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Markt Schwaben.</p>",
-      "durationBegin": "12.09.2025",
-      "durationEnd": "12.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/f4761aad-36ab-4616-92c9-f1f52eadeea2",
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Durch Personalengpässe in den Stellwerken kommt es bis 13.09.2025 zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bus. Die Ersatzfahrpläne zu den verschiedenen Streckenabschnitten und Zeiträumen finden Sie im Anhang. ",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 87 / RB 88 (Aschaffenburg – Crailsheim)</li><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "26.07.2025",
+      "durationEnd": "13.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/3c0840c3-ff39-42eb-834e-97d0e054290c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/1cf400e2-6899-4300-a9a8-ac38ba5e2234reisendenkarte_20250912-140041.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/1cf400e2-6899-4300-a9a8-ac38ba5e2234reisendenkarte_20250912-140041.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/248755f2-7769-479b-8f11-89a4e21394a2reisendenkarte_20250820-122108.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/248755f2-7769-479b-8f11-89a4e21394a2reisendenkarte_20250820-122108.png",
           "info": "",
-          "alt": "Reisendenkarte 12.09.2025 14:00:41",
+          "alt": "Reisendenkarte 20.08.2025 12:21:08",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
-      "links": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/eaa3278d-a4b4-4095-a22e-8ed4130c37b7Tauberbahn_Juli%2Bbis%2BSeptember%2B2025_Sa%2BSo%2Bund%2BF_EV_neu.pdf",
+          "label": "Tauberbahn_Juli bis September 2025_Sa So und F_EV_neu.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/a7ee9794-010b-413a-bb75-8df1f52ac535Madonnenland_Ersatzverkehr_August_September%2B2025_Mo-Fr%2B%25281%2529.pdf",
+          "label": "Madonnenland_Ersatzverkehr_August_September 2025_Mo-Fr (1).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/218cae57-d1ae-4d68-8364-51f7522046ffErsatzfahrplan%2BMaintalabahn%2B1-4.9.25_.pdf",
+          "label": "Ersatzfahrplan Maintalabahn 1-4.9.25_.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/a2d06d6a-053e-470f-b378-4a9f7cf37fc6Tauberbahn_Juli%2Bbis%2BSeptember%2B2025_Mo%2B-%2BFr_EV_neu_%2B%2528002%2529.pdf",
+          "label": "Tauberbahn_Juli bis September 2025_Mo - Fr_EV_neu_ (002).pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
+          "label": "Übersicht aller Ersatz-Haltestellen der Westfrankenbahn",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
+          "name": "RB 84",
+          "filterName": "RB 84",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 88",
+          "filterName": "RB 88",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 84",
+          "filterName": "RE 84",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 87",
+          "filterName": "RE 87",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.09.2025 14:40",
+      "lastModified": "12.09.2025 15:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7f8c194-073f-4d90-8993-e43778d296a8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+      "detailPagePath": "/service/fahrplaene/fd805998-1eda-4cbd-9330-96454b8b2dc6",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_other_cause"
     },
     {
       "id": "624f1572-156b-48bb-bfb9-1e22e84f67d2",
@@ -631,97 +678,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cf736c32-8918-44e7-bec9-6bf6996377f4",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "fd805998-1eda-4cbd-9330-96454b8b2dc6",
-      "disruptionId": "3c0840c3-ff39-42eb-834e-97d0e054290c",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verzögerung im Betriebsablauf"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Durch Personalengpässe in den Stellwerken kommt es vom 26.07. bis 13.09.2025 zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bus. Die Ersatzfahrpläne zu den verschiedenen Streckenabschnitten und Zeiträumen finden Sie im Anhang. ",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 87 / RB 88 (Aschaffenburg – Crailsheim)</li><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "26.07.2025",
-      "durationEnd": "13.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/3c0840c3-ff39-42eb-834e-97d0e054290c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/4d30a8a5-641f-475c-b563-e7c220efb9a8reisendenkarte_20250820-122108.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/4d30a8a5-641f-475c-b563-e7c220efb9a8reisendenkarte_20250820-122108.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.08.2025 12:21:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/a156d6d2-a896-4219-a4e0-e6f52364ecd9Ersatzfahrplan%2BMaintalabahn%2B1-4.9.25_.pdf",
-          "label": "Ersatzfahrplan Maintalabahn 1-4.9.25_.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/d40b3e16-6d71-44fb-9ecd-a28063076406Tauberbahn_Juli%2Bbis%2BSeptember%2B2025_Sa%2BSo%2Bund%2BF_EV_neu.pdf",
-          "label": "Tauberbahn_Juli bis September 2025_Sa So und F_EV_neu.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/5dcaa9b9-ca89-409e-b045-4da88972c230Tauberbahn_Juli%2Bbis%2BSeptember%2B2025_Mo%2B-%2BFr_EV_neu_%2B%2528002%2529.pdf",
-          "label": "Tauberbahn_Juli bis September 2025_Mo - Fr_EV_neu_ (002).pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-01/bb20501e-4656-4621-a9dc-a41f121b7aa2Madonnenland_Ersatzverkehr_August_September%2B2025_Mo-Fr%2B%25281%2529.pdf",
-          "label": "Madonnenland_Ersatzverkehr_August_September 2025_Mo-Fr (1).pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
-          "label": "Übersicht aller Ersatz-Haltestellen der Westfrankenbahn",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 84",
-          "filterName": "RB 84",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 88",
-          "filterName": "RB 88",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 84",
-          "filterName": "RE 84",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 87",
-          "filterName": "RE 87",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "01.09.2025 00:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/fd805998-1eda-4cbd-9330-96454b8b2dc6",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_other_cause"
     },
     {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
@@ -1008,8 +964,8 @@
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/bc923f83-994c-4275-9523-75b69cbf968areisendenkarte_20250819-125756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/bc923f83-994c-4275-9523-75b69cbf968areisendenkarte_20250819-125756.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/36e7f2a9-f66e-4396-9107-c86d1ed18f14reisendenkarte_20250819-125756.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/36e7f2a9-f66e-4396-9107-c86d1ed18f14reisendenkarte_20250819-125756.png",
           "info": "",
           "alt": "Reisendenkarte 19.08.2025 12:57:56",
           "openInNewTab": true
@@ -1017,46 +973,46 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/ffcd48d6-7c68-4a70-bdf4-02d52a229ec2Fahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/9482aef6-bbc5-4a7f-9cd8-a4840f3cc5dcFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
           "label": "Fahrplanauszug Sigmaringen – Ulm 11.08. bis 14.09.2025",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/672974a8-cebe-40fa-9b1b-3f91680ff34aBus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/61f5ca9a-0157-47fe-a0a8-8f78fab4f48fBus%2BErsatzfahrplan%2B15.-21.09.2025.pdf",
+          "label": "🚌 Bus Ersatzfahrpan 15.09. bis 21.09.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/e9a0ba4e-2a9c-4a67-a8ba-fe455c5f7ff2Bus%2BErsatzfahrplan%2B22.09.-05.10.2025.pdf",
+          "label": "🚌 Bus Ersatzfahrpan 22.09. bis 05.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/28a19bf5-16d5-4ec3-ac74-f20256e51241Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
           "label": "🚌 Bus Ersatzfahrpan  11.08.-14.09. ",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/9cc29807-b2f7-4bbf-8bdd-1f00c9c07902Fahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B15.09.-5.10.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/836d259c-2afc-4f2a-aeed-0822424a250bFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B15.09.-5.10.2025.pdf",
           "label": "Fahrplanauszug Sigmaringen – Ulm 15.09. bis 5.10.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/7e065453-b19c-420a-9679-1b87a6ae1e77%25F0%259F%259A%258D%2B%2BFahrplan%2BErsatzverkehr%2B15.09.%2B-%2B21.09.2025.pdf",
-          "label": "🚌 Bus Ersatzfahrpan  15.09. - 21.09.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-11/c1be6d86-261e-4e1a-8417-ba0cf785db60Bus%2BErsatzfahrplan%2B22.09.-05.10.2025.pdf",
-          "label": "🚌 Bus Ersatzfahrpan 22.09. bis 05.10.2025",
           "info": "",
           "openInNewTab": true
         }
       ],
       "links": [
         {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -1074,7 +1030,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "11.09.2025 12:18",
+      "lastModified": "12.09.2025 15:17",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
