@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "365e75e0-c49c-4bda-8416-8c5c6268dd6d",
-      "disruptionId": "8627bf6f-d53d-42db-b301-6ee032eb86bf",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S1 S2 S3: Aktuell kommt es zu Verspätungen und Abweichungen",
-      "summary": " Aktuell kommt es zu Verspätungen und Abweichungen Grund: Technische Störung an der Strecke",
-      "text": "<p>Auf den Linien S1, S2 und S3 von Hauptbahnhof in Richtung Altona kommt es zu Verspätungen. Die S2 fährt abweichend über Dammtor und endet in Diebsteich.</p>",
-      "durationBegin": "12.09.2025",
-      "durationEnd": "12.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/8627bf6f-d53d-42db-b301-6ee032eb86bf",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.09.2025 10:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/365e75e0-c49c-4bda-8416-8c5c6268dd6d",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -1036,6 +998,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a71850c3-6b43-494b-bdc3-ad2036137012",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
+    },
+    {
+      "id": "ee6912a0-8bbd-4b99-83b7-1e81411995ca",
+      "disruptionId": "41706d2d-cb12-47fb-8db5-eadc2b9cc307",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Seefeld-Hechendorf: Reparatur an einem Signal",
+      "summary": "Im Bereich Seefeld-Hechendorf kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einem Signal.</p>",
+      "durationBegin": "12.09.2025",
+      "durationEnd": "12.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/41706d2d-cb12-47fb-8db5-eadc2b9cc307",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/feacc2c0-0221-4713-9913-b1e31b433de5reisendenkarte_20250912-111336.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/feacc2c0-0221-4713-9913-b1e31b433de5reisendenkarte_20250912-111336.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.09.2025 11:13:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.09.2025 11:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ee6912a0-8bbd-4b99-83b7-1e81411995ca",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "455a30b0-f379-4348-9192-1769e27a1d4d",
