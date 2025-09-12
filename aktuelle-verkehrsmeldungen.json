@@ -1095,18 +1095,18 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten und einzelnen Umleitungen.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "12.09.2025",
       "durationEnd": "12.09.2025",
       "mapHref": "https://karte.bahn.de/detail/3eca4d3a-f2ab-4a6d-9f16-12b27d46601d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/6ee57dde-241c-4859-b1db-f7ff2cea3efareisendenkarte_20250912-120906.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/6ee57dde-241c-4859-b1db-f7ff2cea3efareisendenkarte_20250912-120906.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/1d61eca7-aa0d-4f21-9877-d9fce39d7ff4reisendenkarte_20250912-132542.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/1d61eca7-aa0d-4f21-9877-d9fce39d7ff4reisendenkarte_20250912-132542.png",
           "info": "",
-          "alt": "Reisendenkarte 12.09.2025 12:09:06",
+          "alt": "Reisendenkarte 12.09.2025 13:25:42",
           "openInNewTab": true
         }
       ],
@@ -1155,8 +1155,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.09.2025 12:11",
-      "expand": true,
+      "lastModified": "12.09.2025 13:27",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/68dabb48-f07c-435d-b33c-2c301c47fc91",
@@ -1170,37 +1170,42 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 4, S 6 Haar ↔ Trudering: Reparatur an einer Weiche",
-      "summary": "Zwischen Haar und Trudering kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "Endmeldung: S 4, S 6 Haar ↔ Trudering",
+      "summary": "Die Weichenstörung zwischen Haar und Trudering konnte behoben werden. Es kann noch zu einzelnen Folgeverspätung aufgrund einer vorangegangenen Fahrzeugstörung auf der Stammstrecke kommen.",
+      "text": "<p></p>",
       "durationBegin": "12.09.2025",
       "durationEnd": "12.09.2025",
       "mapHref": "https://karte.bahn.de/detail/387ca32e-2080-4b95-aeaf-0460a8096dcf",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/174466ae-feb5-427e-a37d-a29fd9c74534reisendenkarte_20250912-052255.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/174466ae-feb5-427e-a37d-a29fd9c74534reisendenkarte_20250912-052255.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/d9e15fed-f44c-4ed3-9fdc-813261dc5588reisendenkarte_20250912-132126.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-12/d9e15fed-f44c-4ed3-9fdc-813261dc5588reisendenkarte_20250912-132126.png",
           "info": "",
-          "alt": "Reisendenkarte 12.09.2025 05:22:55",
+          "alt": "Reisendenkarte 12.09.2025 13:21:26",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "12.09.2025 11:45",
+      "lastModified": "12.09.2025 13:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
