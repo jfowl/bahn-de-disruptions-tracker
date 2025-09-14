@@ -744,43 +744,6 @@
       "magnoliaPath": "/aktuell/mitte/reduced_service_construction"
     },
     {
-      "id": "62cb4190-bd59-4da7-b39c-cb5c6b893562",
-      "disruptionId": "f332593b-71c4-4311-a286-1a4ec9c53651",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teilausfälle zwischen Hofheim(Taunus) und Frankfurt(Main)Hbf",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Linie:</strong><ul><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 14.09.2025 zwischen 06:00 Uhr und 18:00 Uhr</li></ul><p></p><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge aus Richtung Limburg(Lahn) enden vorzeitig in Hofheim(Taunus) und wenden dort.</li></ul><p></p><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die Züge der S-Bahn-Linie S2 zwischen Hofheim(Taunus) und Frankfurt(Main)Hbf.</li></ul><p></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "14.09.2025",
-      "durationEnd": "14.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/f332593b-71c4-4311-a286-1a4ec9c53651",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.09.2025 05:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/62cb4190-bd59-4da7-b39c-cb5c6b893562",
-      "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause"
-    },
-    {
       "id": "39ecbd86-d05a-4efc-bcab-6134856fea7b",
       "disruptionId": "7fcedc44-6319-4afe-bd1c-4c33e055637b",
       "author": "S_BAHN_RM",
@@ -879,6 +842,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
+    },
+    {
+      "id": "b5707dd0-2da3-47ff-b0ca-146fefbbff21",
+      "disruptionId": "b071bcc5-faf1-4d28-8891-a057228617b9",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten: Ersatzverkehr zwischen Müllheim im Markgräferland und Basel Bad Bf",
+      "summary": "Die Strecke zwischen Müllheim im Markgräferland und Basel Bad Bf ist im Moment beeinträchtigt. Dauer der Störung bis Betriebsschluss. Der Grund sind kurzfristig notwendige Bauarbeiten. Der Streckenabschnitt ist ab 19 Uhr nur eingleisig befahrbar. Wir haben einen Ersatzverkehr mit Bussen zwischen Müllheim im Markgräferland und Basel Bad Bf im Pendelverkehr ab 20 Uhr für Sie eingerichtet.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "14.09.2025",
+      "durationEnd": "14.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/b071bcc5-faf1-4d28-8891-a057228617b9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-14/8c8b2c39-e8f4-420d-b094-7dd9c3957ca7reisendenkarte_20250914-175424.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-14/8c8b2c39-e8f4-420d-b094-7dd9c3957ca7reisendenkarte_20250914-175424.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.09.2025 17:54:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 27",
+          "filterName": "RB 27",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.09.2025 18:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b5707dd0-2da3-47ff-b0ca-146fefbbff21",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
     },
     {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
