@@ -363,7 +363,7 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf der Linie S5  zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Bahnübergangsstörung zwischen Stade und Horneburg ",
+      "summary": "Aktuell kommt es auf der Linie S5  zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Technische Störung an der Strecke zwischen Stade und Horneburg ",
       "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
       "durationBegin": "15.09.2025",
       "durationEnd": "15.09.2025",
@@ -385,7 +385,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.09.2025 07:05",
+      "lastModified": "15.09.2025 07:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -439,6 +439,69 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
+      "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Herrenberg und Tübingen",
+      "summary": "Aufgrund erforderlicher Arbeiten an der Strecke – verursacht durch übermäßigen Verschleiß an Fahrzeugen und Infrastruktur.",
+      "text": "<p>Es fahren zwischen Herrenberg und Tübingen stündlich Züge und Busse im Halbstundentakt.</p><p>Ab Montag, 22. September wird von Montag bis Freitag wieder zusätzlich ein Halbstundentakt auf der Schiene zwischen Tübingen und Entringen angeboten. Zusätzlich verkehren in der Hauptverkehrszeit Busse zwischen Entringen und Tübingen und ganztägig zwischen Herrenberg und Entringen, um den Halbstundetakt aufrecht zu erhalten. Der aktualisierte Fahrplan ist in der Reiseauskunft ersichtlich ab Mittwoch, 17. September. </p><p></p><p><strong>Betroffene Linie:</strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul>",
+      "durationBegin": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-15/f16a82a1-45d1-4910-aed8-6e4f50756241reisendenkarte_20250827-111609.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-15/f16a82a1-45d1-4910-aed8-6e4f50756241reisendenkarte_20250827-111609.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.08.2025 11:16:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-15/4bdc58c6-0275-4ab2-8ee8-3f4f7741a416Ersatzfahrplan%2BHerrenberg%2B-%2BEntringen%2Bab%2B22.09..pdf",
+          "label": "Ersatzverkehr Herrenberg - Entringen ab 22. bis 29. September",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-15/8c97a072-a5fd-4f63-9956-cdb33e3177ffFahrplan%2BHerrenberg-T%25C3%25BCbingen%2B15.%2Bbis%2B21.%2BSeptember-.pdf",
+          "label": "Ersatzfahrplan Herrenberg-Tübingen 15. bis 21. September",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der Ammertalbahn",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.09.2025 07:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3c7c70c9-1292-4cbc-a69e-e0173c744a49",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "disruptionId": "b2c4fe42-88fe-4903-82bf-7709604c202d",
       "author": "REGIO_MITTE",
@@ -487,75 +550,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
-      "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Kein Zugverkehr zwischen Herrenberg und Tübingen bis 14. September",
-      "summary": "Aufgrund erforderlicher Arbeiten an der Strecke – verursacht durch übermäßigen Verschleiß an Fahrzeugen und Infrastruktur – ist der Zugverkehr zwischen Herrenberg und Tübingen bis einschließlich 14. September eingestellt. ",
-      "text": "<p>Ein Ersatzverkehr mit Bussen im Halbstundentakt ist eingerichtet. Den Fahrplan finden Sie im Anhang dieser Meldung und in der Reiseauskunft.</p><p>Zum Schulbeginn am Montag, 15. September fahren zwischen Herrenberg und Tübingen wieder stündlich Züge und weiterhin Busse im Halbstundentakt. Dieser Fahrplan ist bis einschließlich 21. September in der Reiseauskunft verfügbar und hier im Anhang.</p><p>Ab Montag, 22. September wird von Montag bis Freitag wieder zusätzlich ein Halbstundentakt auf der Schiene zwischen Tübingen und Entringen angeboten. Zusätzlich verkehren in der Hauptverkehrszeit Busse zwischen Entringen und Tübingen und ganztägig zwischen Herrenberg und Entringen, um den Halbstundetakt aufrecht zu erhalten. Der aktualisierte Fahrplan ist in der Reiseauskunft ersichtlich ab Mittwoch, 17. September.</p><p><strong>Betroffene Linie:</strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul>",
-      "durationBegin": "26.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/dc71bfb3-eb08-4d19-b258-5c4e5e9fac46reisendenkarte_20250827-111609.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/dc71bfb3-eb08-4d19-b258-5c4e5e9fac46reisendenkarte_20250827-111609.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.08.2025 11:16:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/2a2290c3-3405-4a6d-91ae-a399f3ab664eRB%2B63_Ersatzverkehr_Ammertal.pdf",
-          "label": "Ersatzverkehr Herrenberg-Tübingen ab 30.08. bis 14.09.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/bf70d90a-67c6-46f7-b48f-aa30545e6f52Fahrplan%2BHerrenberg-T%25C3%25BCbingen%2B15.%2Bbis%2B21.%2BSeptember-.pdf",
-          "label": "Ersatzfahrplan Herrenberg-Tübingen 15. bis 21. September",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/d2b0e776-27a9-4dbd-bd3c-622f52d6411bErsatzfahrplan%2BHerrenberg%2B-%2BEntringen%2Bab%2B22.09..pdf",
-          "label": "Ersatzverkehr Herrenberg - Entringen ab 22. bis 29. September",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der Ammertalbahn",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 63",
-          "filterName": "RB 63",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.09.2025 08:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3c7c70c9-1292-4cbc-a69e-e0173c744a49",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
     },
     {
       "id": "0a1fefda-7d06-4a99-9aad-435d0b2c01b0",
@@ -1109,56 +1103,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a71850c3-6b43-494b-bdc3-ad2036137012",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction33"
-    },
-    {
-      "id": "c9995c04-0f1f-448c-85f5-15c4902e8b14",
-      "disruptionId": "a9c6cf42-e4cb-4d06-9044-480b3258f3f0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 4, S 6 Haar",
-      "summary": "Im Bereich Haar kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "15.09.2025",
-      "durationEnd": "15.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/a9c6cf42-e4cb-4d06-9044-480b3258f3f0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-15/b979f93e-7952-4c04-885d-d671927585f8reisendenkarte_20250915-070627.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-15/b979f93e-7952-4c04-885d-d671927585f8reisendenkarte_20250915-070627.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.09.2025 07:06:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.09.2025 07:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c9995c04-0f1f-448c-85f5-15c4902e8b14",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
