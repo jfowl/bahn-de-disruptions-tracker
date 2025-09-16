@@ -207,43 +207,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "374db18d-742d-4094-b729-8cd86b969c9f",
-      "disruptionId": "9427c15f-b8e1-421a-8bd6-7eeaf707de3c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "S1: Aktuell fährt keine S1 zwischen Hasselbrook und Barmbek. Grund: Umgestürzter Baum im Gleis. ",
-      "summary": "Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
-      "text": "<p> </p>",
-      "durationBegin": "16.09.2025",
-      "durationEnd": "16.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/9427c15f-b8e1-421a-8bd6-7eeaf707de3c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.09.2025 10:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/374db18d-742d-4094-b729-8cd86b969c9f",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
@@ -697,6 +660,47 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
+    },
+    {
+      "id": "aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
+      "disruptionId": "f8049334-bff7-4403-a59b-5e5cc6fbf834",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 46 / Mühldorf - Passau - Anpassung der Fahrzeiten / Samstag, 20.09.2025 bis Freitag, 03.10.2025 / Bauarbeiten",
+      "summary": "von Samstag, 20.09.2025 bis Freitag, 03.10.2025",
+      "text": "<p>Von Samstag, den 20. September ab 7:19 Uhr bis Freitag, den 3. Oktober bis 1:10 Uhrentfallen die Züge zwischen Mühldorf und Neumarkt-St. Veit wegen Bauarbeiten.Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "20.09.2025",
+      "durationEnd": "03.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/f8049334-bff7-4403-a59b-5e5cc6fbf834",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB45",
+          "filterName": "Bus RB45",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.09.2025 10:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
