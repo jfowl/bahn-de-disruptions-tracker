@@ -260,6 +260,56 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "28c1ab2a-fe62-4b5b-8fe6-82a50faa6120",
+      "disruptionId": "f15f2307-e100-4d0f-baa9-ef6dba488b1a",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Himmelreich und Hinterzarten",
+      "summary": "Die Strecke zwischen Himmelreich und Hinterzarten ist am Mittwoch, den 17. September von vsl. 09:00 Uhr bis vsl. 14:00 Uhr gesperrt. Der Grund sind kurzfristig notwendige Baumfällarbeiten. Die Züge aus Richtung Freiburg(Breisgau) Hbf enden und beginnen außerplanmäßig in Himmelreich und die Züge aus Richtung Neustadt(Schwarzw)/Donaueschingen beginnen und enden außerplanmäßig in Hinterzarten. Ein Ersatzverkehr mit zwei Bussen im Pendelverkehr ist bis ca. 15:00 Uhr eingerichtet. Die Busse fahren in Himmelreich zur Minute 06 und 36 und in Hinterzarten zur Minute 20 und 50 ab.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>S1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.09.2025",
+      "durationEnd": "17.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/f15f2307-e100-4d0f-baa9-ef6dba488b1a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/6fe88552-001a-48f1-90ef-fdad03fc8045reisendenkarte_20250916-191829.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/6fe88552-001a-48f1-90ef-fdad03fc8045reisendenkarte_20250916-191829.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.09.2025 19:18:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 10",
+          "filterName": "S 10",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.09.2025 19:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/28c1ab2a-fe62-4b5b-8fe6-82a50faa6120",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
@@ -380,16 +430,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 7, S 20  Mittersendling: Reparatur an einem Signal",
-      "summary": "Auf der S7 kommt es in beide Richtungen zu Verspätungen von bis zu 15 Minuten, vereinzelt auch höher.",
-      "text": "<p>Das heute noch verkehrende Zugpaar der S20 entfällt.</p><p>Zusätzlich kommt es zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal in Mittersendling.</p>",
+      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
+      "summary": "Auf der S7 kommt es in beide Richtungen zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Zusätzlich kommt es zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal in Mittersendling.</p>",
       "durationBegin": "16.09.2025",
       "durationEnd": "16.09.2025",
       "mapHref": "https://karte.bahn.de/detail/5591646b-78b9-40fd-842d-4f73603f8d60",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/395c9e23-7c91-4a82-8718-90b79cce3789reisendenkarte_20250916-175806.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/395c9e23-7c91-4a82-8718-90b79cce3789reisendenkarte_20250916-175806.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/56e03747-6beb-4d5d-8527-3d59a4500a78reisendenkarte_20250916-175806.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/56e03747-6beb-4d5d-8527-3d59a4500a78reisendenkarte_20250916-175806.png",
           "info": "",
           "alt": "Reisendenkarte 16.09.2025 17:58:06",
           "openInNewTab": true
@@ -405,17 +455,12 @@
       ],
       "lines": [
         {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 7",
           "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.09.2025 17:59",
+      "lastModified": "16.09.2025 19:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -629,15 +674,15 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Zugausfälle bei der Westfrankenbahn am 18. und 19. September",
-      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang.",
+      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September nachmittags/ abends zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "18.09.2025",
       "durationEnd": "19.09.2025",
       "mapHref": "https://karte.bahn.de/detail/8db8f4cc-1d09-4268-88d1-88af03e36094",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/9d579b35-4a97-4a18-9456-ccc537af14b7reisendenkarte_20250916-112334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/9d579b35-4a97-4a18-9456-ccc537af14b7reisendenkarte_20250916-112334.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/afbe5252-190c-4149-90ac-eaefaacd951breisendenkarte_20250916-112334.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/afbe5252-190c-4149-90ac-eaefaacd951breisendenkarte_20250916-112334.png",
           "info": "",
           "alt": "Reisendenkarte 16.09.2025 11:23:34",
           "openInNewTab": true
@@ -645,7 +690,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/a6dc3795-b576-410b-85cd-5804efce1a01Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/92303c12-146c-4109-a847-999288c49ae7Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
           "label": "Ersatzfahrplan_ Madonnenlandbahn.pdf",
           "info": "",
           "openInNewTab": true
@@ -665,7 +710,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.09.2025 18:50",
+      "lastModified": "16.09.2025 19:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -946,6 +991,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "5c8b1798-3734-425c-b7b4-c7a5be6ac6f8",
+      "disruptionId": "ea9e6ad8-6e18-4caf-86a3-c57feacc2b4a",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Waldshut und Albbruck",
+      "summary": "Die Strecke zwischen Waldshut und Albbruck ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen und einzelnen Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RB 30 (Basel Bad Bf – Lauchringen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.09.2025",
+      "durationEnd": "16.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/ea9e6ad8-6e18-4caf-86a3-c57feacc2b4a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/ba84f2d1-9cab-4ae4-b713-481678a208c6reisendenkarte_20250916-172348.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/ba84f2d1-9cab-4ae4-b713-481678a208c6reisendenkarte_20250916-172348.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.09.2025 17:23:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 30",
+          "filterName": "RB 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.09.2025 19:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5c8b1798-3734-425c-b7b4-c7a5be6ac6f8",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
