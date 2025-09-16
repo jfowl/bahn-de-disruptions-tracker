@@ -260,51 +260,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "75e93fbf-ca53-45ae-be9b-e0856019c2d9",
-      "disruptionId": "c7bfda72-7717-4f9e-a366-456b92830d25",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung S 1 Freising/Flughafen: Unbefugte Personen auf der Strecke",
-      "summary": "Die Strecke zwischen Neufahrn und Freising ist wieder freigegeben.",
-      "text": "<p>Die unbefugten Personen haben den Gleisbereich verlassen.</p>",
-      "durationBegin": "16.09.2025",
-      "durationEnd": "16.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/c7bfda72-7717-4f9e-a366-456b92830d25",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/09ec0aae-bb04-49f4-a18f-d03da8748501reisendenkarte_20250916-164005.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/09ec0aae-bb04-49f4-a18f-d03da8748501reisendenkarte_20250916-164005.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.09.2025 16:40:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.09.2025 16:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/75e93fbf-ca53-45ae-be9b-e0856019c2d9",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section2"
-    },
-    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
@@ -416,6 +371,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "d87ba0cc-7a3b-48fc-b691-f9a36009066d",
+      "disruptionId": "634c12d5-3e02-44b8-8793-71a597545430",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Fichtenberg und Gaildorf West",
+      "summary": "Die Strecke zwischen Fichtenberg und Gaildorf West ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 16.09.25, 23:59 Uhr. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren im betroffenen Streckenabschnitt langsamer. In der Folge kommt es zu Verspätungen und einzelnen Teilausfällen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li><li>MEX 19 (Stuttgart – Gaildorf West)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.09.2025",
+      "durationEnd": "16.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/634c12d5-3e02-44b8-8793-71a597545430",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/2bb9cc53-cab8-4436-91a1-31ee1961d7eereisendenkarte_20250916-073358.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/2bb9cc53-cab8-4436-91a1-31ee1961d7eereisendenkarte_20250916-073358.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.09.2025 07:33:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "MEX 19",
+          "filterName": "MEX 19",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "MEX 90",
+          "filterName": "MEX 90",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.09.2025 17:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d87ba0cc-7a3b-48fc-b691-f9a36009066d",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section2"
     },
     {
       "id": "0a1fefda-7d06-4a99-9aad-435d0b2c01b0",
