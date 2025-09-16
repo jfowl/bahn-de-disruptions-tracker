@@ -275,8 +275,8 @@
       "mapHref": "https://karte.bahn.de/detail/f15f2307-e100-4d0f-baa9-ef6dba488b1a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/23017f46-1470-4851-ab81-a734e7c75cd2reisendenkarte_20250916-191829.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/23017f46-1470-4851-ab81-a734e7c75cd2reisendenkarte_20250916-191829.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/6685ebb8-eee3-4f6a-ab39-5afb562b8b15reisendenkarte_20250916-191829.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/6685ebb8-eee3-4f6a-ab39-5afb562b8b15reisendenkarte_20250916-191829.png",
           "info": "",
           "alt": "Reisendenkarte 16.09.2025 19:18:29",
           "openInNewTab": true
@@ -302,7 +302,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.09.2025 19:35",
+      "lastModified": "16.09.2025 20:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -423,6 +423,51 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
     },
     {
+      "id": "f2fc5226-7382-44bf-8d73-b6d020f4848d",
+      "disruptionId": "5591646b-78b9-40fd-842d-4f73603f8d60",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
+      "summary": "Auf der S7 kommt es in beide Richtungen noch zu Folgeverspätungen von bis zu 15 Minuten.",
+      "text": "<p>Zusätzlich kommt es vereinzelt noch zu vorzeitigen Zugwenden.</p><p>Die Reparatur an einem Signal in Mittersendling ist beendet.</p>",
+      "durationBegin": "16.09.2025",
+      "durationEnd": "16.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/5591646b-78b9-40fd-842d-4f73603f8d60",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/67f54168-1d87-4311-a854-4bbc02cc86bfreisendenkarte_20250916-175806.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/67f54168-1d87-4311-a854-4bbc02cc86bfreisendenkarte_20250916-175806.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.09.2025 17:58:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.09.2025 20:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f2fc5226-7382-44bf-8d73-b6d020f4848d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "d87ba0cc-7a3b-48fc-b691-f9a36009066d",
       "disruptionId": "634c12d5-3e02-44b8-8793-71a597545430",
       "author": "REGIO_BW",
@@ -471,51 +516,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d87ba0cc-7a3b-48fc-b691-f9a36009066d",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "f2fc5226-7382-44bf-8d73-b6d020f4848d",
-      "disruptionId": "5591646b-78b9-40fd-842d-4f73603f8d60",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
-      "summary": "Auf der S7 kommt es in beide Richtungen zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Zusätzlich kommt es zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal in Mittersendling.</p>",
-      "durationBegin": "16.09.2025",
-      "durationEnd": "16.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/5591646b-78b9-40fd-842d-4f73603f8d60",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/56e03747-6beb-4d5d-8527-3d59a4500a78reisendenkarte_20250916-175806.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/56e03747-6beb-4d5d-8527-3d59a4500a78reisendenkarte_20250916-175806.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.09.2025 17:58:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.09.2025 19:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f2fc5226-7382-44bf-8d73-b6d020f4848d",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "0a1fefda-7d06-4a99-9aad-435d0b2c01b0",
@@ -674,15 +674,15 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Zugausfälle bei der Westfrankenbahn am 18. und 19. September",
-      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September nachmittags/ abends zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang.",
+      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September nachmittags/abends zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "18.09.2025",
       "durationEnd": "19.09.2025",
       "mapHref": "https://karte.bahn.de/detail/8db8f4cc-1d09-4268-88d1-88af03e36094",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/afbe5252-190c-4149-90ac-eaefaacd951breisendenkarte_20250916-112334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/afbe5252-190c-4149-90ac-eaefaacd951breisendenkarte_20250916-112334.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/5838c1c4-b84e-413d-97cc-7e39ff21aa03reisendenkarte_20250916-112334.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/5838c1c4-b84e-413d-97cc-7e39ff21aa03reisendenkarte_20250916-112334.png",
           "info": "",
           "alt": "Reisendenkarte 16.09.2025 11:23:34",
           "openInNewTab": true
@@ -690,7 +690,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/92303c12-146c-4109-a847-999288c49ae7Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/43a7310d-724d-4373-83b1-a8f4f4e33535Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
           "label": "Ersatzfahrplan_ Madonnenlandbahn.pdf",
           "info": "",
           "openInNewTab": true
@@ -710,7 +710,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.09.2025 19:02",
+      "lastModified": "16.09.2025 19:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -812,6 +812,130 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50d73944-116a-4d06-959c-d74bed8e7241",
       "magnoliaPath": "/aktuell/mitte/reduced_service_construction"
+    },
+    {
+      "id": "a18a8c42-15a9-4971-aa4e-2d81fd616df4",
+      "disruptionId": "fd50dfe6-0033-4237-84ea-b5a51d82e526",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten seit 1. September bis 31. Oktober 2025",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim gibt es Änderungen im Fahrplan. Die Änderungen betreffen die Nächte 15. bis 18. September, 6. bis 10. Oktober, 13. bis 17. Oktober, 20. bis 24. Oktober und 27. bis 31. Oktober 2025. Die Änderungen sind jeweils von 22:20 Uhr abends bis 5 Uhr morgens. Sie betreffen den Bereich zwischen Ostbahnhof und Pasing.\n",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>Zwischen Pasing ↔ Donnersbergerbrücke fahren Ersatzbusse.</strong></p><p>Zwischen Ostbahnhof und Donnersbergerbrücke fahren nur bestimmte S-Bahnen:</p><p><strong>Die&nbsp;S 3&nbsp;fährt zwischen Donnersbergerbrücke ↔ Holzkirchen. Die&nbsp;S 8&nbsp;fährt zwischen Donnersbergerbrücke ↔ Flughafen. Die&nbsp;S 2&nbsp;fährt zwischen Hackerbrücke ↔ Erding.</strong></p><p><strong>S 1:</strong></p><p>Züge verkehren nur zwischen Moosach ↔ Freising/Flughafen. <strong>(nur in verschiedenen Nächten 01. September - 24. Oktober 2025)</strong></p><p>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gleise 27-36 und fahren von/bis Moosach ohne Halt. <strong>(nur in den Nächten 27. - 31. Oktober 2025)</strong></p><p><strong>S 2:</strong></p><p>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke.</p><p>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt.</p><p><strong>S 3:</strong></p><p>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke.</p><p>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</p><p><strong>S 4:</strong></p><p>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing.</p><p>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus.</p><p><strong>S 5:</strong></p><p>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof.</p><p>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</p><p><strong>S 6:</strong></p><p>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2.</p><p>Züge in/aus Richtung Tutzing beginnen/enden in Pasing. <strong>(nur in verschiedenen Nächten 01. September - 22. Oktober 2025)</strong></p><p>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof Gleise 27-36 und fahren von/bis Pasing ohne Halt. <strong>(nur in verschiedenen Nächten 08. - 31. Oktober 2025)</strong></p><p><strong>S 7:</strong></p><p>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</p><p><strong>S 8:</strong></p><p>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke.</p><p>Züge in/aus Richtung Herrsching beginnen/enden in Pasing.</p><p><strong>Hinweis:</strong></p><p><strong>Bitte beachten Sie, dass sich die Ersatzhaltestelle am Hirschgarten in Richtung Donnersbergerbrücke an der Landsberger Straße befindet. </strong></p><p><strong>Alle aktuellen Baustellen finden Sie auch im Internet unter: http://www.s-bahn-muenchen.de/baustellen</strong></p>",
+      "durationBegin": "01.09.2025",
+      "durationEnd": "31.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/fd50dfe6-0033-4237-84ea-b5a51d82e526",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/e7f6fadf-7e20-4cbe-8612-9ce000eacd05reisendenkarte_20250825-225610.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/e7f6fadf-7e20-4cbe-8612-9ce000eacd05reisendenkarte_20250825-225610.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.08.2025 22:56:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/232b47e5-3a7a-4d34-8aa8-11b0d2b21367Fpl%252BS8%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
+          "label": "Fahrplan S 8 Herrsching <> Flughafen - Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/bc9e5866-e68d-4084-9bea-a0f470547eb1Fpl%252BS6%252BTSP%252BLaim%252B1%252BSep-31%252BOkt%2B%25281%2529.pdf",
+          "label": "Fahrplan S 6 Ebersberg <> Tutzing - Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/5ed25d15-e1de-405b-b2b0-b4a0c396012bFpl%252BS1%252BTSP%252BLaim%252B1%252BSep-31%252BOkt%2B%25281%2529.pdf",
+          "label": "Fahrplan S 1 - Leuchtenbergring <> Freising/Flughafen Umleitungen/Haltausfälle  Mo, 1.9. bis Fr, 31.10.25",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/b2b7b513-1fa6-4bfc-b725-00995e7a61ccFpl%252BS3%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
+          "label": "Fahrplan S 3 Holzkirchen <> Mammendorf - Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/02131391-380f-4e1d-a8f1-10f817e4fdceFpl%252BS4%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
+          "label": "Fahrplan S 4 Trudering <> Geltendorf - Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/850c292d-c083-45d5-a7d7-397aacb83ff0Fpl%252BSEV%252BMMDN-MP%252B1%252BSep-31%252BOkt.pdf",
+          "label": "Fahrplan Ersatzverkehr Pasing ↔ Donnersbergerbrücke - Mo., 1.9. bis Fr., 31.10.2025 ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/955a9ab4-78b1-4337-bec7-4b6f21c49623Fpl%252BS5%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
+          "label": "Fahrplan S 5 Kreuzstraße <> Pasing- Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-16/e75f5379-eb81-448d-a4de-7fb6c77fa519Fpl%252BS2%252BTSP%252BLaim%252B1%252BSep-31%252BOkt%2B%25281%2529.pdf",
+          "label": "Fahrplan S 2 Erding <> Petershausen - Umleitungen/Haltausfälle - Mo, 1.9. bis Fr, 31.10.2025",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.09.2025 20:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a18a8c42-15a9-4971-aa4e-2d81fd616df4",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
@@ -1000,16 +1124,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Waldshut und Albbruck",
-      "summary": "Die Strecke zwischen Waldshut und Albbruck ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen und einzelnen Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "headline": "Beeinträchtigungen zwischen Albbruck und Waldshut",
+      "summary": "Die Strecke zwischen Albbruck und Waldshut ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 17.09.25, vormittags. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren im betroffenen Streckenabschnitt langsamer. In der Folge kommt es zu Verspätungen und einzelnen Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RB 30 (Basel Bad Bf – Lauchringen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "16.09.2025",
-      "durationEnd": "16.09.2025",
+      "durationEnd": "17.09.2025",
       "mapHref": "https://karte.bahn.de/detail/ea9e6ad8-6e18-4caf-86a3-c57feacc2b4a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/ba84f2d1-9cab-4ae4-b713-481678a208c6reisendenkarte_20250916-172348.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/ba84f2d1-9cab-4ae4-b713-481678a208c6reisendenkarte_20250916-172348.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/51cbca3c-1256-451b-b53d-a0f1addfc66dreisendenkarte_20250916-172348.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-16/51cbca3c-1256-451b-b53d-a0f1addfc66dreisendenkarte_20250916-172348.png",
           "info": "",
           "alt": "Reisendenkarte 16.09.2025 17:23:48",
           "openInNewTab": true
@@ -1035,7 +1159,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.09.2025 19:04",
+      "lastModified": "16.09.2025 19:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
