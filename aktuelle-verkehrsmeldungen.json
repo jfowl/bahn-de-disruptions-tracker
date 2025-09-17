@@ -284,56 +284,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "28c1ab2a-fe62-4b5b-8fe6-82a50faa6120",
-      "disruptionId": "f15f2307-e100-4d0f-baa9-ef6dba488b1a",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Himmelreich und Hinterzarten beendet",
-      "summary": "Die Streckensperrung zwischen Himmelreich und Hinterzarten ist aufgehoben und die Züge können den betroffenen Streckenabschnitt wieder ohne Einschränkungen befahren. Der Grund waren kurzfristig notwendige Baumfällarbeiten. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen, bis der Zugverkehr sich wieder vollständig normalisiert hat. Der Ersatzverkehr mit Bussen wird wieder eingestellt. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>S1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "17.09.2025",
-      "durationEnd": "17.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/f15f2307-e100-4d0f-baa9-ef6dba488b1a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/ff21d961-0f4c-4905-9c7e-90d72a8222c0reisendenkarte_20250916-191829.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/ff21d961-0f4c-4905-9c7e-90d72a8222c0reisendenkarte_20250916-191829.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.09.2025 19:18:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 10",
-          "filterName": "S 10",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.09.2025 14:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/28c1ab2a-fe62-4b5b-8fe6-82a50faa6120",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
@@ -647,6 +597,55 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "f991d191-435c-4ccd-b163-9180da1f4a8b",
+      "disruptionId": "9b8b4c2b-2735-49a9-a3bd-b7644ec9480f",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen Müllheim im Markgräflerland und Mulhouse Ville am 18. September",
+      "summary": "Aufgrund von Streikauswirkungen in Frankreich kommt es am Donnerstag, den 18. September zu Zugausfällen zwischen Müllheim im Markgräflerland und Mulhouse Ville. Ein Ersatzverkehr mit Bus ist eingerichtet. Den Ersatzfahrplan finden sie im Anhang.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 28 (Müllheim i. M. – Mulhouse Ville)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/9b8b4c2b-2735-49a9-a3bd-b7644ec9480f",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/6dc4c4c6-51a2-4bce-8590-7da9616f1f7bErsatzverkehr%2BM%25C3%25BCllheim-Mulhouse%2Bam%2B18.09.25.pdf",
+          "label": "Ersatzverkehr Müllheim-Mulhouse am 18.09.25.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 28",
+          "filterName": "RB 28",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 28",
+          "filterName": "RB 28",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.09.2025 17:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f991d191-435c-4ccd-b163-9180da1f4a8b",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_strike"
+    },
+    {
       "id": "cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "disruptionId": "4785b0e3-ff64-4aa3-88db-21a16f1be28e",
       "author": "REGIO_BW",
@@ -654,16 +653,16 @@
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Zugausfälle auf der Madonnenlandbahn vom 22. September bis 03. Oktober 2025",
-      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es von Montag, den 22. September bis Freitag, den 26. September sowie von Montag, den 29. September bis Donnerstag, den 02. Oktober zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang.",
+      "headline": "Zugausfälle bei der Westfrankenbahn vom 22. September bis 02. Oktober 2025",
+      "summary": "Aufgrund von Personalengpässen im Stellwerk kommt es zwischen Miltenberg und Seckach von Montag, den 22. September bis Freitag, den 26. September sowie von Montag, den 29. September bis Donnerstag, den 02. Oktober zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Den Ersatzfahrplan finden Sie im Anhang.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "22.09.2025",
       "durationEnd": "02.10.2025",
       "mapHref": "https://karte.bahn.de/detail/4785b0e3-ff64-4aa3-88db-21a16f1be28e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/1504ed7f-47be-4f03-a17d-940181632551reisendenkarte_20250917-163937.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/1504ed7f-47be-4f03-a17d-940181632551reisendenkarte_20250917-163937.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/8da69b1c-6db2-4034-8e98-014161481908reisendenkarte_20250917-163937.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/8da69b1c-6db2-4034-8e98-014161481908reisendenkarte_20250917-163937.png",
           "info": "",
           "alt": "Reisendenkarte 17.09.2025 16:39:37",
           "openInNewTab": true
@@ -671,7 +670,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/6ce66e38-f856-415d-94cd-d2d2f15a7e4dErsatzverkehr%2BMadonnenlandbahn%2B22.09-26.09_29.09-02.10.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/82909599-9c39-4a8e-9c26-946b381db0b1Ersatzverkehr%2BMadonnenlandbahn%2B22.09-26.09_29.09-02.10.pdf",
           "label": "Ersatzverkehr Madonnenlandbahn 22.09-26.09_29.09-02.10.pdf",
           "info": "",
           "openInNewTab": true
@@ -691,7 +690,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.09.2025 16:46",
+      "lastModified": "17.09.2025 17:05",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
@@ -958,6 +957,87 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
     },
     {
+      "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
+      "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Streckensperrung: Munderkingen - Riedlingen | Ersatzverkehr mit Bussen ist eingerichtet",
+      "summary": "Ein Ersatzverkehr mit Bussen ist bis Ende der Herbstferien Anfang November eingerichtet.  ",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p></p><p>📅&nbsp;<strong>Ersatzkonzept 15.09. bis 05.10.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der SWEG sowie stündlich Züge der DB Regio Linie RE 55, in Tagesrandlagen abweichend.</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der DB Regio Baden-Württemberg</li><li>Am Samstag, den 20. und Sonntag, den 21.09. besteht ein Ersatzverkehr mit Bussen zwischen Schelklingen und Munderkingen/Riedlingen aufgrund einer Gleiserneuerung zwischen Schelklingen und Ehingen</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: ✅ </strong></p><p>📅&nbsp;<strong>Ersatzkonzept ab 06.10.:</strong></p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌ Sobald die Planungen vollständig abgeschlossen sind, werden die Fahrzeiten der Ersatzbusse sowie die Fahrplanänderungen veröffentlicht.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/2ae96d7a-b8f4-4595-84ab-c24812890c97reisendenkarte_20250819-125756.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/2ae96d7a-b8f4-4595-84ab-c24812890c97reisendenkarte_20250819-125756.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.08.2025 12:57:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/867e1f2b-3cd4-4230-99c1-0742a58e7276Bus%2BErsatzfahrplan%2B22.09.-05.10.2025%2BStand%2B17.09..pdf",
+          "label": "🚌 Bus Ersatzfahrpan 22.09. bis 05.10.2025 Stand 17.9.",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/2911f5d9-6ff3-4867-993a-8778128ea040Fahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B15.09.-5.10.2025.pdf",
+          "label": "Fahrplanauszug Sigmaringen – Ulm 15.09. bis 5.10.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/07791228-c0de-45eb-bfd1-5acf8a43822fFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
+          "label": "Fahrplanauszug Sigmaringen – Ulm 11.08. bis 14.09.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-17/c34117be-9853-42ef-8b6b-61797c50d1f5Bus%2BErsatzfahrplan%2B15.09.-21.09.2025%2BStand%2B17.09..pdf",
+          "label": "🚌 Bus Ersatzfahrpan 15.09. bis 21.09.2025 Stand 17.9.",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.09.2025 17:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
       "id": "aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "disruptionId": "f8049334-bff7-4403-a59b-5e5cc6fbf834",
       "author": "SUEDOSTBAYERNBAHN",
@@ -999,93 +1079,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
-      "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
-      "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Streckensperrung: Munderkingen - Riedlingen | Ersatzverkehr mit Bussen ist eingerichtet",
-      "summary": "Ein Ersatzverkehr mit Bussen ist bis Ende der Herbstferien Anfang November eingerichtet.  ",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p>📅 <strong> Ersatzkonzept 11.08. bis 14.09.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der SWEG sowie stündlich Züge der DB Regio Linie RE 55, in Tagesrandlagen abweichend.</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der DB Regio Baden-Württemberg</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: ✅</strong></p><p>📅&nbsp;<strong>Ersatzkonzept 15.09. bis 05.10.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der SWEG sowie stündlich Züge der DB Regio Linie RE 55, in Tagesrandlagen abweichend.</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der DB Regio Baden-Württemberg</li><li>Am Samstag, den 20. und Sonntag, den 21.09. besteht ein Ersatzverkehr mit Bussen zwischen Schelklingen und Munderkingen/Riedlingen aufgrund einer Gleiserneuerung zwischen Schelklingen und Ehingen</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: ✅ </strong></p><p>📅&nbsp;<strong>Ersatzkonzept ab 06.10.:</strong></p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌ Sobald die Planungen vollständig abgeschlossen sind, werden die Fahrzeiten der Ersatzbusse sowie die Fahrplanänderungen veröffentlicht.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/36e7f2a9-f66e-4396-9107-c86d1ed18f14reisendenkarte_20250819-125756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/36e7f2a9-f66e-4396-9107-c86d1ed18f14reisendenkarte_20250819-125756.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.08.2025 12:57:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/9482aef6-bbc5-4a7f-9cd8-a4840f3cc5dcFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B11.08.%2Bbis%2B14.09.2025%2BB1.pdf",
-          "label": "Fahrplanauszug Sigmaringen – Ulm 11.08. bis 14.09.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/61f5ca9a-0157-47fe-a0a8-8f78fab4f48fBus%2BErsatzfahrplan%2B15.-21.09.2025.pdf",
-          "label": "🚌 Bus Ersatzfahrpan 15.09. bis 21.09.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/e9a0ba4e-2a9c-4a67-a8ba-fe455c5f7ff2Bus%2BErsatzfahrplan%2B22.09.-05.10.2025.pdf",
-          "label": "🚌 Bus Ersatzfahrpan 22.09. bis 05.10.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/28a19bf5-16d5-4ec3-ac74-f20256e51241Bus%2BErsatzfahrplan%2BMunderkingen-Riedlingen%2Bab%2B11.08..pdf",
-          "label": "🚌 Bus Ersatzfahrpan  11.08.-14.09. ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-12/836d259c-2afc-4f2a-aeed-0822424a250bFahrplan%2BSigmaringen%2B%25E2%2580%2593%2BUlm%2B15.09.-5.10.2025.pdf",
-          "label": "Fahrplanauszug Sigmaringen – Ulm 15.09. bis 5.10.2025",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.09.2025 15:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
-    },
-    {
       "id": "0ff11a47-2db0-4325-b4fa-077533fd96af",
       "disruptionId": "768e60cc-f07e-4ebb-bae2-9b15df7db2cc",
       "author": "S_BAHN_MUC",
@@ -1094,17 +1087,24 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 2, S 4, S 6 Berg am Laim: Reparatur an einem Signal",
-      "summary": "Im Bereich Berg am Laim kommt es zu Verspätungen von bis zu 15 Minuten ,vorzeitige Zugwendungen und Rückstau in der Stammstrecke in Richtung Ostbahnhof..",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Im Bereich Berg am Laim kommt es zu Verspätungen von bis zu 20 Minuten ,vorzeitige Zugwendungen auf den östlichen Außenästen und Rückstau in der Stammstrecke in Richtung Ostbahnhof.",
+      "text": "<p>Der Grund hierfür ist eine erneute Reparatur an einem Signal bei Berg am Laim.</p>",
       "durationBegin": "17.09.2025",
       "durationEnd": "17.09.2025",
       "mapHref": "https://karte.bahn.de/detail/768e60cc-f07e-4ebb-bae2-9b15df7db2cc",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/dbb36595-c552-4a67-aadb-4e12dd384082reisendenkarte_20250917-162251.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/dbb36595-c552-4a67-aadb-4e12dd384082reisendenkarte_20250917-162251.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/6b345762-35f7-4024-92ee-aed62449a5a5reisendenkarte_20250917-162251.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/6b345762-35f7-4024-92ee-aed62449a5a5reisendenkarte_20250917-162251.png",
           "info": "",
           "alt": "Reisendenkarte 17.09.2025 16:22:51",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/4f33c288-0cbb-49e4-865d-272702c06fa6reisendenkarte_20250917-170828.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-17/4f33c288-0cbb-49e4-865d-272702c06fa6reisendenkarte_20250917-170828.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.09.2025 17:08:28",
           "openInNewTab": true
         }
       ],
@@ -1153,7 +1153,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.09.2025 16:41",
+      "lastModified": "17.09.2025 17:23",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
