@@ -335,8 +335,8 @@
       "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/4cf838e7-cf28-4948-8fab-85924c7f6d4ereisendenkarte_20250918-154713.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/4cf838e7-cf28-4948-8fab-85924c7f6d4ereisendenkarte_20250918-154713.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/58bef502-34b2-463d-a609-5e178e26cd90reisendenkarte_20250918-154713.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/58bef502-34b2-463d-a609-5e178e26cd90reisendenkarte_20250918-154713.png",
           "info": "",
           "alt": "Reisendenkarte 18.09.2025 15:47:13",
           "openInNewTab": true
@@ -344,20 +344,21 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/56d1a396-b890-4415-90e9-c1099043e21bSperre%2BPegnitztal.pdf",
-          "label": "Sperre Pegnitztal.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/0cd484ba-57a6-4b3b-a10c-7f6459b83e3aBusfahrplan%2BPEGNITZTAL%2BSPERRE%2Bab%2B19.9.2025.pdf",
+          "label": "Busfahrplan PEGNITZTAL SPERRE ab 19.9.2025.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/e970c565-f791-4b68-94d2-453b1588a9bfBusfahrplan%2BPEGNITZTAL%2BSPERRE%2Bab%2B19.9.2025.pdf",
-          "label": "Busfahrplan PEGNITZTAL SPERRE ab 19.9.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/6d2e40f8-505f-444c-bead-76e919d97dedSperre%2BPegnitztal.pdf",
+          "label": "Sperre Pegnitztal.pdf",
           "info": "",
           "openInNewTab": true
         }
       ],
       "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -367,6 +368,11 @@
         {
           "name": "RB 30",
           "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 31",
+          "filterName": "RB 31 Nürnberg",
           "property": "REGIONAL"
         },
         {
@@ -393,13 +399,63 @@
           "name": "RE 38",
           "filterName": "RE 38",
           "property": "REGIONAL"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Nürnberg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "18.09.2025 16:42",
+      "lastModified": "18.09.2025 17:30",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "7154999a-4fb9-43ae-94ed-c85beeb265c0",
+      "disruptionId": "b87a41c7-84f6-481f-83a4-084114542518",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "//Störungsgebiet, es kommt zu Folgeabweichungen, Unterbrechung besteht nicht mehr",
+      "summary": "Die S60 können im Bereich //Störungsgebiet wieder verkehren.",
+      "text": "<p>Die Strecke //Störungsgebiet ist nicht mehr unterbrochen. <strong>Die S-Bahnen der S60 können wieder regulär verkehren</strong>.</p><p></p><p>Infolge der vorangegangenen Unterbrechung befinden sich S-Bahnen und Personale nun an anderen Orten, als dass sie ursprünglich geplant waren. Auch sind Verspätungen im S-Bahnverkehr entstanden. Bis dass der S-Bahnverkehr wieder planmäßig läuft, kommt es noch vorübergehend zu Folgeverspätungen und -ausfällen.</p><p></p><p>Bitte prüfen Sie weiterhin Ihre Reiseverbindung online, um auch über kurzfristige Änderungen sich zu informieren.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/b87a41c7-84f6-481f-83a4-084114542518",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-09-18/7a84a544-5736-49b7-aaa9-c61c3791d731reisendenkarte_20250918-124907.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-09-18/7a84a544-5736-49b7-aaa9-c61c3791d731reisendenkarte_20250918-124907.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.09.2025 12:49:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2025 17:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7154999a-4fb9-43ae-94ed-c85beeb265c0",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section0"
     },
     {
       "id": "1d94e5c0-d6f2-4897-9ecf-a0666ec0727f",
