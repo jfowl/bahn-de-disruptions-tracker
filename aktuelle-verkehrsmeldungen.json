@@ -413,51 +413,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "7154999a-4fb9-43ae-94ed-c85beeb265c0",
-      "disruptionId": "b87a41c7-84f6-481f-83a4-084114542518",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "//Störungsgebiet, es kommt zu Folgeabweichungen, Unterbrechung besteht nicht mehr",
-      "summary": "Die S60 können im Bereich //Störungsgebiet wieder verkehren.",
-      "text": "<p>Die Strecke //Störungsgebiet ist nicht mehr unterbrochen. <strong>Die S-Bahnen der S60 können wieder regulär verkehren</strong>.</p><p></p><p>Infolge der vorangegangenen Unterbrechung befinden sich S-Bahnen und Personale nun an anderen Orten, als dass sie ursprünglich geplant waren. Auch sind Verspätungen im S-Bahnverkehr entstanden. Bis dass der S-Bahnverkehr wieder planmäßig läuft, kommt es noch vorübergehend zu Folgeverspätungen und -ausfällen.</p><p></p><p>Bitte prüfen Sie weiterhin Ihre Reiseverbindung online, um auch über kurzfristige Änderungen sich zu informieren.</p>",
-      "durationBegin": "18.09.2025",
-      "durationEnd": "18.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/b87a41c7-84f6-481f-83a4-084114542518",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-09-18/7a84a544-5736-49b7-aaa9-c61c3791d731reisendenkarte_20250918-124907.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-09-18/7a84a544-5736-49b7-aaa9-c61c3791d731reisendenkarte_20250918-124907.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.09.2025 12:49:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 60",
-          "filterName": "S 60 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.09.2025 17:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7154999a-4fb9-43ae-94ed-c85beeb265c0",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "1d94e5c0-d6f2-4897-9ecf-a0666ec0727f",
       "disruptionId": "f1866964-05e3-4aff-b41d-247305447fad",
       "author": "REGIO_MITTE",
@@ -658,6 +613,58 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "ff5f0af9-5a17-4c2e-bc3b-54f6492dacb9",
+      "disruptionId": "8db8f4cc-1d09-4268-88d1-88af03e36094",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn am 18. und 19. September",
+      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang. ",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "19.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/8db8f4cc-1d09-4268-88d1-88af03e36094",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/4ee4ceb1-528d-4e8b-8df6-dbe3feb40ebereisendenkarte_20250916-112334.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/4ee4ceb1-528d-4e8b-8df6-dbe3feb40ebereisendenkarte_20250916-112334.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.09.2025 11:23:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/aef07f52-5d7e-4aef-88f4-f44272f504e4Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
+          "label": "Ersatzfahrplan_ Madonnenlandbahn.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 84",
+          "filterName": "RB 84",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.09.2025 18:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ff5f0af9-5a17-4c2e-bc3b-54f6492dacb9",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
+    },
+    {
       "id": "78a06e80-7e12-4d83-b733-913e2ce69bd1",
       "disruptionId": "d6c21c97-25db-4cb0-a512-25e9c30d1163",
       "author": "S_BAHN_MUC",
@@ -744,57 +751,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
-    },
-    {
-      "id": "ff5f0af9-5a17-4c2e-bc3b-54f6492dacb9",
-      "disruptionId": "8db8f4cc-1d09-4268-88d1-88af03e36094",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn am 18. und 19. September",
-      "summary": "Aufgrund von Personalengpässen in den Stellwerken kommt es am Donnerstag, den 18. September und Freitag, den 19. September zu Fahrplanänderungen, Zugausfällen und Ersatzverkehr mit Bussen. Die Ersatzfahrpläne finden Sie im Anhang. ",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "18.09.2025",
-      "durationEnd": "19.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/8db8f4cc-1d09-4268-88d1-88af03e36094",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/8b5b57d2-440a-4545-9125-ff7dbbbb9fdcreisendenkarte_20250916-112334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/8b5b57d2-440a-4545-9125-ff7dbbbb9fdcreisendenkarte_20250916-112334.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.09.2025 11:23:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-18/54f8cc59-2056-4e41-a594-7af990cc1461Ersatzfahrplan_%2BMadonnenlandbahn.pdf",
-          "label": "Ersatzfahrplan_ Madonnenlandbahn.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 84",
-          "filterName": "RB 84",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.09.2025 14:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ff5f0af9-5a17-4c2e-bc3b-54f6492dacb9",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
     },
     {
       "id": "f991d191-435c-4ccd-b163-9180da1f4a8b",
@@ -1070,14 +1026,14 @@
         "label": "Entschärfung einer Fliegerbombe"
       },
       "headline": "Entschärfung einer Weltkriegsbombe zwischen Köln und Siegburg/Bonn",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe heute Abend ab ca. 21 Uhr kommt es in Porz (Rhein) zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen zwischen Köln und Siegburg/Bonn umgeleitet werden und verspäten sich dadurch um etwa 20 Minuten.",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Porz (Rhein) ab vsl. 19 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen zwischen Köln und Siegburg/Bonn umgeleitet werden und verspäten sich dadurch um etwa 20 Minuten.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln – Siegburg/Bonn – Frankfurt (M)</li></ul><p>Die Beeinträchtigungen werden vsl. bis in die Nachtstunden andauern. Aktuelle Informationen zur Entschärfung finden Sie auf dem Webauftritt der Stadt Köln.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "18.09.2025",
       "mapHref": "https://karte.bahn.de/detail/c24d9a5c-f767-4d29-a20f-4f129ba1fc69",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-18/42967b46-1670-4909-8caf-63cb45307802reisendenkarte_20250918-170553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-18/42967b46-1670-4909-8caf-63cb45307802reisendenkarte_20250918-170553.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-18/d4a73002-9f81-450d-8e50-638fd35b07cfreisendenkarte_20250918-170553.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-18/d4a73002-9f81-450d-8e50-638fd35b07cfreisendenkarte_20250918-170553.png",
           "info": "",
           "alt": "Reisendenkarte 18.09.2025 17:05:53",
           "openInNewTab": true
@@ -1105,11 +1061,86 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "18.09.2025 17:24",
+      "lastModified": "18.09.2025 18:23",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4443efd3-285b-4bed-a4bc-803ef47622e4",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_police_activity"
+    },
+    {
+      "id": "0b9a2a25-b9a1-4840-b456-c36af8dc11f3",
+      "disruptionId": "ec7af61b-75b3-4d5c-8393-87b3e4a4a91b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Pasing ↔ Ostbahnhof : Technische Störung an einem Zug",
+      "summary": "Zwischen Pasing und Ostbahnhof  kommt es zu Verspätungen von 5 bis 10 Minuten und vereinzelten Zugwendungen .",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug an der Hackerbrücke.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/ec7af61b-75b3-4d5c-8393-87b3e4a4a91b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-18/18872c6e-b5ed-42c3-a9aa-afc65654adecreisendenkarte_20250918-175524.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-18/18872c6e-b5ed-42c3-a9aa-afc65654adecreisendenkarte_20250918-175524.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.09.2025 17:55:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2025 18:12",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0b9a2a25-b9a1-4840-b456-c36af8dc11f3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle1"
     },
     {
       "id": "4a916eb5-f7ee-47aa-85e0-f67264bc201c",
