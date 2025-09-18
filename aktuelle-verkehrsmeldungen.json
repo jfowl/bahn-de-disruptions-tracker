@@ -320,39 +320,86 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
     },
     {
-      "id": "dd89a222-db8e-41b5-83ac-6daf2faf809d",
-      "disruptionId": "89883737-57a5-4ff2-8459-a1286e6a3ac6",
-      "author": "FERNVERKEHR_AG",
+      "id": "0f4d9298-6d61-4146-b640-b08d93108714",
+      "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "author": "REGIO_BY",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Treuchtlingen und Nürnberg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Treuchtlingen und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa  30 Minuten. Die Halte Augsburg und Treuchtlingen können entfallen",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg – Berlin – Halle (S) – Erfurt – München</li><li>Hamburg – Fulda – München – Österreich / Berchtesgaden</li><li>Hbamurg – Berlin – Halle (S) – Erfurt – München</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Nürnberg Hbf - Hersbruck(r Pegnitz) - Pegnitz - Bayreuth Hbf",
+      "summary": "Technische Überprüfungen an mehreren Brücken im Pegnitztal erforderlich / Streckensperrung / Ersatzverkehr mit Bussen / Beeinträchtigungen",
+      "text": "<p>Aufgrund von technischen Überprüfungen an mehren Brücken im Pegnitztal muss die Bahnstrecke <strong>zwischen Hersbruck(r Pegnitz) und Pegnitz ab Freitag, den 19. September 2025 bis auf Weiteres gesperrt </strong>werden.</p><p>Die Züge der Linien: RE30, RE31, RE32, RE33 und RE38 von Norden enden in Pegnitz.</p><p><strong>Zwischen Hersbruck und Nürnberg</strong> verkehren auf der rechten Pegnitzstrecke die Züge der RE-Linie 40/41 und die RB-Züge der Mittelfrankenbahn, auf der linken Pegnitzstrecke die Züge der S-Bahn Nürnberg.</p><p>Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:</p><ul><li><strong>Von Pegnitz</strong> verkehren stündlich Busse mit allen Unterwegshalten über Neuhaus <strong>bis nach Hersbruck</strong>.&nbsp;</li><li>Zusätzlich verkehren auf den Verbindungen Bayreuth – Nürnberg, Pegnitz – Nürnberg und Neuhaus – Nürnberg stündlich Direktbuslinien.</li></ul><p>*** Es kann, zu Beginn des Notverkehrs, bei den Ersatzbussen zur Verspätungen und kurzfristigen Ausfällen kommen. ***</p><p><strong>Bitte informieren Sie sich in den Onlinemedien www.bahn.de und im DB Navigator über Zugausfälle und mögliche Verbindungen.</strong> Diese werden sukzessive dort eingearbeitet.</p><p>Den Fahrplan der Ersatzbusse finden Sie im Anhang als PDF.</p><p></p>",
       "durationBegin": "18.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/89883737-57a5-4ff2-8459-a1286e6a3ac6",
-      "images": [],
-      "downloads": [],
+      "durationEnd": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/4cf838e7-cf28-4948-8fab-85924c7f6d4ereisendenkarte_20250918-154713.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/4cf838e7-cf28-4948-8fab-85924c7f6d4ereisendenkarte_20250918-154713.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.09.2025 15:47:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/56d1a396-b890-4415-90e9-c1099043e21bSperre%2BPegnitztal.pdf",
+          "label": "Sperre Pegnitztal.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-18/e970c565-f791-4b68-94d2-453b1588a9bfBusfahrplan%2BPEGNITZTAL%2BSPERRE%2Bab%2B19.9.2025.pdf",
+          "label": "Busfahrplan PEGNITZTAL SPERRE ab 19.9.2025.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "REGIONAL"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "RB 30",
+          "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 31",
+          "filterName": "RE 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 33",
+          "filterName": "RE 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 38",
+          "filterName": "RE 38",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.09.2025 10:39",
-      "expand": false,
+      "lastModified": "18.09.2025 16:42",
+      "expand": true,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/dd89a222-db8e-41b5-83ac-6daf2faf809d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "1d94e5c0-d6f2-4897-9ecf-a0666ec0727f",
@@ -555,6 +602,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "78a06e80-7e12-4d83-b733-913e2ce69bd1",
+      "disruptionId": "d6c21c97-25db-4cb0-a512-25e9c30d1163",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Technische Störung an einem Zug",
+      "summary": "Heute Nachmittag entfallen folgende Züge der Linie S 2 des 10-Minuten-Takts:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><p>        S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:48 Uhr&nbsp;</p><p>        S 2 Dachau Bahnhof Abfahrt  17:39 Uhr→ München Ost  Ankunft 18:10 Uhr</p><p>        S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:48 Uhr&nbsp;</p><p><strong>S 2 München Ost → Dachau </strong></p><p>            S 2 München Ost Abfahrt 16:46 → Dachau Bahnhof Ankunft 17:21 Uhr </p><p>            S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</p><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/d6c21c97-25db-4cb0-a512-25e9c30d1163",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2025 16:35",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/78a06e80-7e12-4d83-b733-913e2ce69bd1",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
+    },
+    {
       "id": "cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "disruptionId": "4785b0e3-ff64-4aa3-88db-21a16f1be28e",
       "author": "REGIO_BW",
@@ -655,43 +739,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ff5f0af9-5a17-4c2e-bc3b-54f6492dacb9",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
-    },
-    {
-      "id": "78a06e80-7e12-4d83-b733-913e2ce69bd1",
-      "disruptionId": "d6c21c97-25db-4cb0-a512-25e9c30d1163",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "S 2 Dachau ↔ München Ost: Technische Störung an einem Zug",
-      "summary": "Heute Nachmittag entfallen folgende Züge der Linie S 2 des 10-Minuten-Takts:",
-      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:48 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:48 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "18.09.2025",
-      "durationEnd": "18.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/d6c21c97-25db-4cb0-a512-25e9c30d1163",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.09.2025 14:06",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/78a06e80-7e12-4d83-b733-913e2ce69bd1",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "f991d191-435c-4ccd-b163-9180da1f4a8b",
