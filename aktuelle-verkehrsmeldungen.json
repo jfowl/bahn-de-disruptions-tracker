@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "27870a76-ade5-47e6-b9a8-8dcec3b41c4f",
-      "disruptionId": "cce0c6b4-fc4c-4a1d-a708-69d89d7ac267",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Magdeburg und Hannover",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Magdeburg und Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Die Halte Helmstedt und Braunschweig entfallen, Züge halten zusätzlich in Wolfsburg.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC - Züge zwischen Magdeburg und Hannover</li></ul><p>Alternative Reisemöglichkeit nach Braunschweig: Nutzen Sie zwischen Wolfsburg und Braunschweig den RE 50.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/cce0c6b4-fc4c-4a1d-a708-69d89d7ac267",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-19/e458d1d5-235b-4297-97b5-d60389338d25reisendenkarte_20250919-071553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-19/e458d1d5-235b-4297-97b5-d60389338d25reisendenkarte_20250919-071553.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.09.2025 07:15:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "NI",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "19.09.2025 07:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/27870a76-ade5-47e6-b9a8-8dcec3b41c4f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section0"
-    },
-    {
       "id": "914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "disruptionId": "0243d52d-22e6-475d-ad6c-1ea30be0f76e",
       "author": "FERNVERKEHR_AG",
@@ -398,14 +353,14 @@
       },
       "headline": "Beeinträchtigungen zwischen Balingen (Württ) und Storzingen",
       "summary": "Der Streckenabschnitt zwischen Balingen (Württ) und Storzingen ist im Moment beeinträchtigt. Dauer der Störung bis voraussichtlich Montag, 22.09. Der Grund ist eine Störung der Stromversorgung an einem Stellwerk. In der Folge kommt es wahrscheinlich zu Verspätungen. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "19.09.2025",
       "durationEnd": "22.09.2025",
       "mapHref": "https://karte.bahn.de/detail/b89497aa-e39a-4a07-8cce-870a5b6a6dc3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-19/b206626d-8489-48b5-8ea5-f508cbcf0019reisendenkarte_20250919-102622.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-19/b206626d-8489-48b5-8ea5-f508cbcf0019reisendenkarte_20250919-102622.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-19/614a8a67-9fac-40b9-b4f1-6a16adcfb91creisendenkarte_20250919-102622.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-19/614a8a67-9fac-40b9-b4f1-6a16adcfb91creisendenkarte_20250919-102622.png",
           "info": "",
           "alt": "Reisendenkarte 19.09.2025 10:26:22",
           "openInNewTab": true
@@ -421,12 +376,22 @@
       ],
       "lines": [
         {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 6",
           "filterName": "RE 6",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "19.09.2025 10:41",
+      "lastModified": "19.09.2025 11:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1008,6 +973,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "6dcfe42f-636c-4722-8c3c-5ad689f249eb",
+      "disruptionId": "83674821-b7d5-4db0-aa44-ecb5ef3b0346",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S4/S6 Haar: Polizeieinsatz",
+      "summary": "Der Bahnhof ist momentan nicht anfahrbar.",
+      "text": "<p>Die S-Bahnen wenden in Trudering und in Zorneding.</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Grund ist ein Polizeieinsatz.</p>",
+      "durationBegin": "19.09.2025",
+      "durationEnd": "19.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/83674821-b7d5-4db0-aa44-ecb5ef3b0346",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/722513fd-674d-4d39-b327-f14336ba1f40reisendenkarte_20250919-111636.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/722513fd-674d-4d39-b327-f14336ba1f40reisendenkarte_20250919-111636.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.09.2025 11:16:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.09.2025 11:20",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6dcfe42f-636c-4722-8c3c-5ad689f249eb",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity0"
     },
     {
       "id": "52d46bab-8e11-4e9d-8cdb-42746acb4aac",
