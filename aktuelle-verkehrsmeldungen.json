@@ -904,25 +904,25 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
-      "id": "a881f70b-4f32-4de8-8161-6a528d9f4965",
-      "disruptionId": "49ffca47-97d2-40b4-8230-e04f836eada9",
+      "id": "63683f54-4d04-433a-adac-c730a8b2e48a",
+      "disruptionId": "c7124768-4e53-4505-b2b8-6b6e405f4864",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Endmeldung: S 4 Pasing ↔ Puchheim",
-      "summary": "Zwischen Pasing und Puchheim kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
+      "headline": "Stammstrecke: Beendete ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine beendete ärztliche Versorgung eines Fahrgastes.</p>",
       "durationBegin": "21.09.2025",
       "durationEnd": "21.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/49ffca47-97d2-40b4-8230-e04f836eada9",
+      "mapHref": "https://karte.bahn.de/detail/c7124768-4e53-4505-b2b8-6b6e405f4864",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-21/23c913a2-66c5-4616-9f2d-25f9b470e5a4reisendenkarte_20250921-212754.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-21/23c913a2-66c5-4616-9f2d-25f9b470e5a4reisendenkarte_20250921-212754.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-21/e50a926f-2475-4b96-a4c1-4baff4076c55reisendenkarte_20250921-225722.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-21/e50a926f-2475-4b96-a4c1-4baff4076c55reisendenkarte_20250921-225722.png",
           "info": "",
-          "alt": "Reisendenkarte 21.09.2025 21:27:54",
+          "alt": "Reisendenkarte 21.09.2025 22:57:22",
           "openInNewTab": true
         }
       ],
@@ -936,17 +936,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "21.09.2025 22:37",
+      "lastModified": "21.09.2025 22:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a881f70b-4f32-4de8-8161-6a528d9f4965",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section19"
+      "detailPagePath": "/service/fahrplaene/63683f54-4d04-433a-adac-c730a8b2e48a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
