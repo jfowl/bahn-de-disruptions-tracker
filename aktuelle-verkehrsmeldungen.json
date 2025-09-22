@@ -119,6 +119,43 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
     },
     {
+      "id": "c44a1af2-fdf6-49f6-9d1e-9726792cf1a5",
+      "disruptionId": "8f426f15-3c8f-4e98-98fc-e6ddb1c0de85",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen in den Niederlanden (Hengelo)",
+      "summary": "Aufgrund von Bauarbeiten im Raum Hengelo (Niederlande) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu einzelnen Zugausfällen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr</strong></strong><p>IC - Züge zwischen Berlin - Hannover - Bad Bentheim - Amsterdam und die Gegenrichtung</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/8f426f15-3c8f-4e98-98fc-e6ddb1c0de85",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.09.2025 11:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c44a1af2-fdf6-49f6-9d1e-9726792cf1a5",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
+    },
+    {
       "id": "914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "disruptionId": "0243d52d-22e6-475d-ad6c-1ea30be0f76e",
       "author": "FERNVERKEHR_AG",
@@ -161,6 +198,42 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "e1ae4d1b-b50d-4319-84a2-26ea65c18efb",
+      "disruptionId": "3cb1c0bf-abcd-4d77-892c-1649eb60bc31",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Augsburg und Nürnberg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Augsburg und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>ICE-Züge zwischen Mannheim - Stuttgart - München und die Gegenrichtung </p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/3cb1c0bf-abcd-4d77-892c-1649eb60bc31",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.09.2025 11:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e1ae4d1b-b50d-4319-84a2-26ea65c18efb",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
@@ -1086,19 +1159,19 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "22.09.2025 10:43",
+      "lastModified": "22.09.2025 11:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
