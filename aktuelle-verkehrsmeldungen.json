@@ -448,16 +448,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S6 Planegg: Reparatur an einer Weiche",
-      "summary": "Derzeit kommt es auf der Linie S6 in beide Richtungen noch zu Folgeverspätungen von 10 bis 15 Minuten. ",
-      "text": "<p>Durch vorzeitige Zugwenden kann es auch weiterhin zu Teilausfällen kommen.</p><p></p><p>Die Reparatur an einer Weiche in Planegg konnte beendet werden.</p>",
+      "headline": "Endmeldung S6 Planegg: Reparatur an einer Weiche",
+      "summary": "Auf der Linie S6 kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einer Weiche in Planegg konnte beendet werden.</p>",
       "durationBegin": "22.09.2025",
       "durationEnd": "22.09.2025",
       "mapHref": "https://karte.bahn.de/detail/6344210b-ab35-46ee-809f-0794f1469fbe",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/e7723d49-1897-4eb0-b65a-168ad8ee4bc7reisendenkarte_20250922-220315.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/e7723d49-1897-4eb0-b65a-168ad8ee4bc7reisendenkarte_20250922-220315.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/aa4c1517-d477-462c-80a4-090a8ff92e73reisendenkarte_20250922-220315.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/aa4c1517-d477-462c-80a4-090a8ff92e73reisendenkarte_20250922-220315.png",
           "info": "",
           "alt": "Reisendenkarte 22.09.2025 22:03:15",
           "openInNewTab": true
@@ -478,7 +478,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.09.2025 22:23",
+      "lastModified": "22.09.2025 23:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -486,25 +486,25 @@
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
-      "id": "3b0a4a7d-7070-4ab1-84f7-71bc6f8cbfa8",
-      "disruptionId": "9c59564a-b47b-45e6-9191-d0d4662ce18e",
+      "id": "900bb542-311f-4e03-a51a-ef439b8cc8c7",
+      "disruptionId": "ca687e9d-ba8e-4d6a-baae-1ea2af20c868",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 5 Kreuzstraße: Reparatur an einem Signal ",
-      "summary": "Es kommt noch zu Folgeverspätungen von bis zu 15 Minuten.",
-      "text": "<p>Die Reparatur an einem Signal bei Neubiberg ist beendet.</p>",
+      "headline": "Stammstrecke: Unbefugte Person auf der Strecke",
+      "summary": "Derzeit kommt es auf der Stammstrecke in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                       war ein Polizeieinsatz wegen unbefugte Personen auf der Strecke       an der Hackerbrücke.</p>",
       "durationBegin": "22.09.2025",
-      "durationEnd": "22.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c59564a-b47b-45e6-9191-d0d4662ce18e",
+      "durationEnd": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/ca687e9d-ba8e-4d6a-baae-1ea2af20c868",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/21a0cf12-b091-4624-a19f-f69e3b9592dbreisendenkarte_20250922-175446.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/21a0cf12-b091-4624-a19f-f69e3b9592dbreisendenkarte_20250922-175446.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/2a5056b5-5a62-4901-9905-0cdcf072a3b6reisendenkarte_20250922-232524.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/2a5056b5-5a62-4901-9905-0cdcf072a3b6reisendenkarte_20250922-232524.png",
           "info": "",
-          "alt": "Reisendenkarte 22.09.2025 17:54:46",
+          "alt": "Reisendenkarte 22.09.2025 23:25:24",
           "openInNewTab": true
         }
       ],
@@ -518,17 +518,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "22.09.2025 22:13",
-      "expand": false,
+      "lastModified": "22.09.2025 23:26",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3b0a4a7d-7070-4ab1-84f7-71bc6f8cbfa8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/900bb542-311f-4e03-a51a-ef439b8cc8c7",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "8bc03835-1770-4738-8c85-59d965297bac",
