@@ -1,23 +1,22 @@
 {
-  "topDisruptions": [],
-  "disruptions": [
+  "topDisruptions": [
     {
       "id": "d4c9b8e2-545d-40aa-a248-d5b48e649bc7",
       "disruptionId": "31a8c297-38e7-4374-85f9-31496ce2dd11",
-      "author": "FERNVERKEHR_AG",
+      "author": "DEUTSCHE_BAHN_AG",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Oberleitungsstörung: Bahnverkehr ist zwischen Hamburg - Berlin und Hamburg - Hannover aktuell beeinträchtigt",
       "summary": "Aufgrund einer Reparatur an der Oberleitung in Uelzen zwischen Berlin und Hamburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Aktuell ist kein direkter Zugverkehr möglich.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin und Hamburg fallen in beide Fahrtrichtungen aus</li></ul><p>Wir empfehlen Ihnen folgende <strong>Reisealternativen</strong>: Nutzen Sie bitte den Reiseweg <strong>über Hannover</strong> und steigen dort um. Berücksichtigen Sie bitte, dass diese Verbindungen vsl. stark ausgelastet sein werden.</p><p>Alle Fahrgäste, die ein Ticket für eine Reise am <strong>22.09.2025</strong> gekauft haben und diese aufgrund der genannten <strong>Einschränkungen zwischen Berlin und Hamburg</strong> verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. <strong>Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden am heutigen Montag, 22.09.2025 erfolgen.</strong> Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Berlin und Hamburg fallen in beide Fahrtrichtungen aus</li></ul><p>Wir empfehlen Ihnen folgende <strong>Reisealternative</strong>:</p><p>Reisende von Berlin/Hamburg nach Hamburg/Berlin nutzen Bitte Fernverkehrsverbindungen mit Umstieg in<strong> Hannover</strong> Hbf. Berücksichtigen Sie bitte, dass diese Verbindungen stark ausgelastet sein werden.</p><p><strong>Informationen zur Ticketnutzung:</strong></p><p>Alle Fahrgäste, die ein Ticket für eine Reise am <strong>22.09.2025</strong> gekauft haben und diese aufgrund der genannten Einschränkungen zwischen Berlin und Hamburg verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll voraussichtlich bis in die Nachmittagsstunden am heutigen Montag, 22.09.2025, erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "22.09.2025",
       "mapHref": "https://karte.bahn.de/detail/31a8c297-38e7-4374-85f9-31496ce2dd11",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-22/b7282f2e-6095-4512-9e1f-537c2a2333e1reisendenkarte_20250922-033912.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-22/b7282f2e-6095-4512-9e1f-537c2a2333e1reisendenkarte_20250922-033912.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-22/46a4b5d8-90c5-4f17-9a03-e406d4077652reisendenkarte_20250922-033912.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-22/46a4b5d8-90c5-4f17-9a03-e406d4077652reisendenkarte_20250922-033912.png",
           "info": "",
           "alt": "Reisendenkarte 22.09.2025 03:39:12",
           "openInNewTab": true
@@ -27,7 +26,13 @@
       "links": [
         {
           "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "Sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während der Oberleitungsstörung",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
           "info": "",
           "openInNewTab": true
         }
@@ -60,12 +65,14 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "22.09.2025 08:40",
+      "lastModified": "22.09.2025 08:55",
       "expand": true,
-      "topDisruption": false,
+      "topDisruption": true,
       "detailPagePath": "/service/fahrplaene/d4c9b8e2-545d-40aa-a248-d5b48e649bc7",
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section1"
-    },
+    }
+  ],
+  "disruptions": [
     {
       "id": "dd13e1ed-3e62-4ed4-b0a3-2bb4cac25a30",
       "disruptionId": "90ce0e5f-1172-4765-90b6-6f12f67d9494",
@@ -1042,6 +1049,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "51061f98-f377-4369-9e3f-8873985452c4",
+      "disruptionId": "159ac099-c1d7-49dd-8d32-723c88203141",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Technische Störung am Zug ",
+      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "22.09.2025",
+      "durationEnd": "22.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/159ac099-c1d7-49dd-8d32-723c88203141",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.09.2025 09:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/51061f98-f377-4369-9e3f-8873985452c4",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "f24fdcfc-1493-4e0c-8afc-020dc2ae99c1",
