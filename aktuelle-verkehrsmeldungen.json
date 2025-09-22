@@ -339,56 +339,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "c3ee4d05-7ed5-46f0-a531-a056f1b58e24",
-      "disruptionId": "063a3ec0-9d8e-4a55-91cb-4b03fed58ac3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 1 / S 8 Flughafen: Polizeieinsatz",
-      "summary": "Momentan kein Zugverkehr zwischen Flughafen Besucherpark und Flughafen Terminal möglich.",
-      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Polizeieinsatz am Flughafen.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
-      "durationBegin": "22.09.2025",
-      "durationEnd": "22.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/063a3ec0-9d8e-4a55-91cb-4b03fed58ac3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/7bf0bec0-3b50-431f-8bc9-0014fbc1f53creisendenkarte_20250922-151030.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/7bf0bec0-3b50-431f-8bc9-0014fbc1f53creisendenkarte_20250922-151030.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.09.2025 15:10:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.09.2025 15:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c3ee4d05-7ed5-46f0-a531-a056f1b58e24",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -476,6 +426,136 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "c3ee4d05-7ed5-46f0-a531-a056f1b58e24",
+      "disruptionId": "063a3ec0-9d8e-4a55-91cb-4b03fed58ac3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 / S 8 Flughafen: Polizeieinsatz beendet",
+      "summary": "Der Zugverkehr zwischen Flughafen Besucherpark und Flughafen Terminal ist wieder möglich.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Polizeieinsatz am Flughafen.</p>",
+      "durationBegin": "22.09.2025",
+      "durationEnd": "22.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/063a3ec0-9d8e-4a55-91cb-4b03fed58ac3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/dc657183-7ffd-4749-b5b6-279dcecc6e8ereisendenkarte_20250922-153452.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/dc657183-7ffd-4749-b5b6-279dcecc6e8ereisendenkarte_20250922-153452.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.09.2025 15:34:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.09.2025 15:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c3ee4d05-7ed5-46f0-a531-a056f1b58e24",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
+    },
+    {
+      "id": "da8e8c63-56c9-44d8-a99c-072e4ca60756",
+      "disruptionId": "8139072c-c01c-474d-8888-f2e4fde5374d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Ärztliche Versorgung eines Fahrgastes beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Die Züge der Linie S 2 und S 8 verkehren wieder auf dem Regelweg.</p><p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes an der Donnersbergerbrücke.</p>",
+      "durationBegin": "22.09.2025",
+      "durationEnd": "22.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/8139072c-c01c-474d-8888-f2e4fde5374d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/ac704052-a5cc-442d-9163-7769a875163creisendenkarte_20250922-143955.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/ac704052-a5cc-442d-9163-7769a875163creisendenkarte_20250922-143955.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.09.2025 14:39:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.09.2025 15:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/da8e8c63-56c9-44d8-a99c-072e4ca60756",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "d8d6957d-fd39-458e-8cb8-157d13b5c6cf",
@@ -1135,7 +1215,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.09.2025 14:49",
+      "lastModified": "22.09.2025 15:37",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
