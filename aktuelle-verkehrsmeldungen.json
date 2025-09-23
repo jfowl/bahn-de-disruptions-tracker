@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ff9ae8c8-9e21-46e9-a46d-ac3807bca893",
+      "disruptionId": "4c29a980-7245-401c-8413-3c660962b7d2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5 S2: Aktuell fahren keine Züge über Dammtor.",
+      "summary": "Aktuell werden alle Züge derS5 S2 über Jungfernstieg umgeleitet. Grund: Dringende Instandsetzungsarbeiten an der Infrastruktur",
+      "text": "<p>Aktuell fahren keine S-Bahnen von Altona/Elbgaustraße in Richtung Bergedorf und Neugraben/Stade über Dammtor. Die Züge werden über Jungfernstieg umgeleitet.</p>",
+      "durationBegin": "23.09.2025",
+      "durationEnd": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4c29a980-7245-401c-8413-3c660962b7d2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.09.2025 09:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ff9ae8c8-9e21-46e9-a46d-ac3807bca893",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "disruptionId": "0243d52d-22e6-475d-ad6c-1ea30be0f76e",
       "author": "FERNVERKEHR_AG",
@@ -1005,51 +1049,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
-    },
-    {
-      "id": "0907cf93-7b78-42d0-bc15-d594782ae2be",
-      "disruptionId": "1a12a8ad-a6b1-4cb4-a3f5-dc4d2f5329df",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 7 Höllriegelskreuth ↔ Baierbrunn",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es noch zu Folgeverspätungen.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "23.09.2025",
-      "durationEnd": "23.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/1a12a8ad-a6b1-4cb4-a3f5-dc4d2f5329df",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-23/40a2652e-2a82-4b54-9658-b25d65004c80reisendenkarte_20250923-073136.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-23/40a2652e-2a82-4b54-9658-b25d65004c80reisendenkarte_20250923-073136.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.09.2025 07:31:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.09.2025 09:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0907cf93-7b78-42d0-bc15-d594782ae2be",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "de8d013a-2001-4a13-8dc6-80ebe41e7423",
