@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "158f84c6-c4a3-4305-ac09-f1d7e70ada7c",
+      "disruptionId": "4fb872de-f571-4ebf-8a74-5d3fc37d3e43",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Magdeburg und Brandenburg",
+      "summary": "Aufgrund eines defekten Stellwerkes in Gerwisch zwischen Magdeburg und Brandenburg ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE/IC-Züge zwischen Berlin und Magdeburg mit planmäßigen Halt in Potsdam und Brandenburg werden umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Die Halte Potsdam Hbf und Brandenburg Hbf entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende von/nach Brandenburg und Potsdam nutzen bitte Verbindungen über Berlin.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Eine Prognose ist derzeit leider nicht möglich.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4fb872de-f571-4ebf-8a74-5d3fc37d3e43",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-23/14659039-249f-409e-bc3e-717aa344a4f0reisendenkarte_20250923-120517.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-23/14659039-249f-409e-bc3e-717aa344a4f0reisendenkarte_20250923-120517.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.09.2025 12:05:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.09.2025 12:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/158f84c6-c4a3-4305-ac09-f1d7e70ada7c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section2"
+    },
+    {
       "id": "914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "disruptionId": "0243d52d-22e6-475d-ad6c-1ea30be0f76e",
       "author": "FERNVERKEHR_AG",
@@ -241,6 +286,61 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "dc82bba8-5ad8-4233-83c1-7ff6b84b16b0",
+      "disruptionId": "dfb751c2-dd5c-4d03-a053-da15e6489084",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Waldshut und Lauchringen",
+      "summary": "Die Strecke zwischen Waldshut und Lauchringen ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 30 (Basel Bad Bf – Lauchringen) </li><li>RB 37 (Waldshut – Stühlingen) </li><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "23.09.2025",
+      "durationEnd": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/dfb751c2-dd5c-4d03-a053-da15e6489084",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/bf631edf-6054-4b14-b1f3-f2b0c7c8d9eereisendenkarte_20250923-120737.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/bf631edf-6054-4b14-b1f3-f2b0c7c8d9eereisendenkarte_20250923-120737.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.09.2025 12:07:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 30",
+          "filterName": "RB 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 37",
+          "filterName": "RB 37",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.09.2025 12:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc82bba8-5ad8-4233-83c1-7ff6b84b16b0",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section0"
     },
     {
       "id": "e03236f8-246f-43cc-a635-bbe53040d63b",
@@ -742,16 +842,16 @@
         "category": "weather_storm",
         "label": "Hochwasser"
       },
-      "headline": "Der Halt Teningen-Mundingen wird wieder regulär bedient",
-      "summary": "Die Sperrung des Bahnhofs Teningen-Mundingen ist aufgehoben. Die Unterführung ist wieder passierbar, und der Halt Teningen-Mundingen wird wieder regulär bedient. ",
+      "headline": "Bahnhof Teningen-Mundingen gesperrt",
+      "summary": "Der Bahnhof Teningen-Mundingen ist derzeit gesperrt.  Über die Dauer der Sperrung liegen uns aktuell noch keine Informationen vor.  Grund dafür ist eine Überflutung der Unterführung. Der Halt Teningen-Mundingen entfällt bis auf Weiteres. Bitte prüfen Sie Ihre Reiseverbindung und planen Sie gegebenenfalls alternative Reisemöglichkeiten ein. Wir informieren Sie, sobald uns neue Informationen vorliegen. ",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li></ul><p></p>",
       "durationBegin": "22.09.2025",
       "durationEnd": "23.09.2025",
       "mapHref": "https://karte.bahn.de/detail/14250681-13b0-4182-8b3a-4c5288cbd347",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/ff232c7f-2565-4100-9c1d-c3953cbdfe3ereisendenkarte_20250923-081832.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/ff232c7f-2565-4100-9c1d-c3953cbdfe3ereisendenkarte_20250923-081832.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/7bea8222-aad8-477e-91e8-a76aa441b31areisendenkarte_20250923-081832.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/7bea8222-aad8-477e-91e8-a76aa441b31areisendenkarte_20250923-081832.png",
           "info": "",
           "alt": "Reisendenkarte 23.09.2025 08:18:32",
           "openInNewTab": true
@@ -777,7 +877,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.09.2025 11:03",
+      "lastModified": "23.09.2025 11:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1000,6 +1100,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "81a1f220-32f4-4aa2-8af6-14cbbf6523cf",
+      "disruptionId": "f47f5b0f-61da-4cc1-a4e5-c97cf9c8f343",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S 3 Giesing ↔ Deisenhofen: Reparatur an der Oberleitung",
+      "summary": "Zwischen Giesing und Deisenhofen kommt es zu Verspätungen von bis zu 10 Minuten sowie vereinzelten Teilausfällen.\n\nDie S-Bahnen verkehren in diesem Bereich auf dem Gegengleis.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p>",
+      "durationBegin": "23.09.2025",
+      "durationEnd": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/f47f5b0f-61da-4cc1-a4e5-c97cf9c8f343",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-23/acfc2d52-68d3-449e-8f60-f048af24b4e6reisendenkarte_20250923-120450.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-23/acfc2d52-68d3-449e-8f60-f048af24b4e6reisendenkarte_20250923-120450.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.09.2025 12:04:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.09.2025 12:06",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/81a1f220-32f4-4aa2-8af6-14cbbf6523cf",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
