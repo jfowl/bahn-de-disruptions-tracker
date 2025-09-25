@@ -16,8 +16,8 @@
       "mapHref": "https://karte.bahn.de/detail/4fb872de-f571-4ebf-8a74-5d3fc37d3e43",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-24/77120043-4a93-4fe3-81f5-048dab30881ereisendenkarte_20250923-120517.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-24/77120043-4a93-4fe3-81f5-048dab30881ereisendenkarte_20250923-120517.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-25/170e7520-0023-43c7-a4e5-8b51746c1e1ereisendenkarte_20250923-120517.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-25/170e7520-0023-43c7-a4e5-8b51746c1e1ereisendenkarte_20250923-120517.png",
           "info": "",
           "alt": "Reisendenkarte 23.09.2025 12:05:17",
           "openInNewTab": true
@@ -40,7 +40,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "24.09.2025 15:27",
+      "lastModified": "25.09.2025 14:34",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/158f84c6-c4a3-4305-ac09-f1d7e70ada7c",
@@ -384,6 +384,109 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "b7294461-89cf-4db2-9004-f9708cbe5d3b",
+      "disruptionId": "60429334-4239-4114-9dd6-ea0d9e804e4e",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen im Bahnhof Freiburg (Breisgau) Hbf",
+      "summary": "Der Bahnhof Freiburg (Breisgau) Hbf ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Oberleitung. Die Gleise 3 und 4 sind aktuell nicht befahrbar. Bitte rechnen Sie mit Verspätungen und Teilausfällen sowie eventuellen Gleisänderungen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RB 26 (Offenburg – Freiburg (Breisgau))</li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li><li>S1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 10 (Freiburg – Titisee – Villingen(Schwarzw))</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.09.2025",
+      "durationEnd": "25.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/60429334-4239-4114-9dd6-ea0d9e804e4e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-25/3fb47aa4-a055-4dae-b0ac-acc946fb2ecbreisendenkarte_20250925-142625.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-25/3fb47aa4-a055-4dae-b0ac-acc946fb2ecbreisendenkarte_20250925-142625.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.09.2025 14:26:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 26",
+          "filterName": "RB 26",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 27",
+          "filterName": "RB 27",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 10",
+          "filterName": "S 10",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2025 14:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b7294461-89cf-4db2-9004-f9708cbe5d3b",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "35cc210b-fb55-4930-88ac-652c54d81266",
+      "disruptionId": "511953fc-7afb-427a-bab2-9e4e99eeb49d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S5: Aktuell starke Unregelmäßigkeiten zwischen Buxtehude und Stade. Grund: Polizeieinsatz.",
+      "summary": "Bitte auf Ansagen und Anzeigen an den Zügen und Stationen achten. ",
+      "text": "<p> </p>",
+      "durationBegin": "25.09.2025",
+      "durationEnd": "25.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/511953fc-7afb-427a-bab2-9e4e99eeb49d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2025 14:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/35cc210b-fb55-4930-88ac-652c54d81266",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
     },
     {
       "id": "70c8dfd5-19a4-491e-9181-99cdc6220df8",
@@ -849,6 +952,81 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
     },
     {
+      "id": "0c6668cc-4244-4631-989c-6b8d9c35a0d9",
+      "disruptionId": "813915ea-54cb-4c03-81f1-9227e13c0b89",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof",
+      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "25.09.2025",
+      "durationEnd": "25.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/813915ea-54cb-4c03-81f1-9227e13c0b89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-25/7b2338f4-d4d5-4438-8107-71bfa11faf1ereisendenkarte_20250925-143855.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-25/7b2338f4-d4d5-4438-8107-71bfa11faf1ereisendenkarte_20250925-143855.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.09.2025 14:38:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2025 14:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0c6668cc-4244-4631-989c-6b8d9c35a0d9",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
+    },
+    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -1159,6 +1337,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "3cf8db42-4fb8-47a0-b617-e0afc8c64b4a",
+      "disruptionId": "61e341a2-d933-46d3-93c7-ec93e19191e3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S 1 Oberschleißheim",
+      "summary": "Im Bereich Oberschleißheim kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "25.09.2025",
+      "durationEnd": "25.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/61e341a2-d933-46d3-93c7-ec93e19191e3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-25/97eda534-447c-47fa-a42e-adae58423c30reisendenkarte_20250925-141103.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-25/97eda534-447c-47fa-a42e-adae58423c30reisendenkarte_20250925-141103.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.09.2025 14:11:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2025 14:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3cf8db42-4fb8-47a0-b617-e0afc8c64b4a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
