@@ -47,6 +47,60 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section2"
     },
     {
+      "id": "7af9d1cb-b1f2-49e2-957d-cf905c68c46f",
+      "disruptionId": "9d666184-83d4-4b39-a340-60e32a431e17",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf den Linien Alle Linien zu Abweichungen vom Fahrplan und Verspätungen. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Technische Störung an der Strecke ",
+      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "26.09.2025",
+      "durationEnd": "26.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/9d666184-83d4-4b39-a340-60e32a431e17",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.09.2025 07:48",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7af9d1cb-b1f2-49e2-957d-cf905c68c46f",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "66e60363-afbc-4bea-b855-85d1754cd98c",
       "disruptionId": "175265f6-88a1-46f7-9809-fbfc2124eb47",
       "author": "REGIO_NORDOST",
@@ -902,6 +956,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
+    },
+    {
+      "id": "7377e111-28d2-4f3a-b98a-e83e29f69187",
+      "disruptionId": "4be56da1-442f-4415-94ec-61e7b8deed88",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt(Main)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB61: Frankfurt(Main)Hbf - Neu-Isenburg - Dreieich-Buchschlag - Rödermark-Ober Roden - Dieburg</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Am 27.09.2025 zwischen 06:00 Uhr und 18:00 Uhr</li><li>Am 28.09.2025 zwischen 06:00 Uhr und 18:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der RB22 aus Richtung Limburg(Lahn) enden vorzeitig in Frankfurt-Höchst und wenden dort.</li><li>Die Züge der RB61 aus Richtung Dieburg enden vorzeitig in Neu-Isenburg und wenden dort.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>RB22: Nutzen Sie alternativ die S1 und S2 zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf.</li><li>RB61: Nutzen Sie alternativ die S6 zwischen Dreieich-Buchschlag - Neu-Isenburg - Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "27.09.2025",
+      "durationEnd": "28.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4be56da1-442f-4415-94ec-61e7b8deed88",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-09-26/095c8442-ccc9-48fa-aa7c-a575572ba887reisendenkarte_20250926-073618.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-09-26/095c8442-ccc9-48fa-aa7c-a575572ba887reisendenkarte_20250926-073618.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.09.2025 07:36:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 61",
+          "filterName": "RB 61",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.09.2025 07:44",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7377e111-28d2-4f3a-b98a-e83e29f69187",
+      "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
