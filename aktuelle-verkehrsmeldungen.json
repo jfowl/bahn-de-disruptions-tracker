@@ -516,81 +516,6 @@
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section20"
     },
     {
-      "id": "965efb82-9cad-42ee-a26d-e9a9d94505e1",
-      "disruptionId": "28c7eab9-c2df-4a1f-9689-b39246bf0ac9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Stammstrecke / Gesamtnetz: Unbefugte Personen auf der Strecke beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür waren unbefugte Personen auf der Strecke an der Hackerbrücke.</p>",
-      "durationBegin": "26.09.2025",
-      "durationEnd": "26.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/28c7eab9-c2df-4a1f-9689-b39246bf0ac9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/6d3a6a00-e5a7-4987-883e-a645134748bbreisendenkarte_20250926-181236.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/6d3a6a00-e5a7-4987-883e-a645134748bbreisendenkarte_20250926-181236.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.09.2025 18:12:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.09.2025 22:41",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/965efb82-9cad-42ee-a26d-e9a9d94505e1",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
-    },
-    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
@@ -1332,6 +1257,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "3ab5ec30-0346-44bb-9608-de700ab4a90f",
+      "disruptionId": "4ff2264b-d951-4e3f-b641-4217cddb8b0b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Folgeverspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "durationBegin": "26.09.2025",
+      "durationEnd": "27.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/4ff2264b-d951-4e3f-b641-4217cddb8b0b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-27/9a983a74-9436-46fe-90c7-7db6a4506779reisendenkarte_20250927-000510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-27/9a983a74-9436-46fe-90c7-7db6a4506779reisendenkarte_20250927-000510.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.09.2025 00:05:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.09.2025 00:06",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3ab5ec30-0346-44bb-9608-de700ab4a90f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency1"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
