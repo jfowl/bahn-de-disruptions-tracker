@@ -849,6 +849,81 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
     },
     {
+      "id": "5093d208-a7fa-4a30-a5a7-b5d719a40240",
+      "disruptionId": "98dcf104-eebd-436a-ba89-306eb87e457f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Endmeldung Stammstrecke: Feuerwehreinsatz beendet",
+      "summary": "Die S-Bahnen halten wieder regulär am Hauptbahnhof.",
+      "text": "<p>Der Feuerwehreinsatz ist beendet.</p>",
+      "durationBegin": "26.09.2025",
+      "durationEnd": "26.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/98dcf104-eebd-436a-ba89-306eb87e457f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/dfe3900f-d122-4c13-9aa9-d5e7ec7baeb2reisendenkarte_20250926-103317.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/dfe3900f-d122-4c13-9aa9-d5e7ec7baeb2reisendenkarte_20250926-103317.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.09.2025 10:33:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.09.2025 10:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5093d208-a7fa-4a30-a5a7-b5d719a40240",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
+    },
+    {
       "id": "7377e111-28d2-4f3a-b98a-e83e29f69187",
       "disruptionId": "4be56da1-442f-4415-94ec-61e7b8deed88",
       "author": "S_BAHN_RM",
@@ -1218,18 +1293,18 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 6 Gauting: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Gauting kommt es in beiden Richtungen zu Verspätungen und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "S 6 Gauting ↔ Tutzing: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Gauting und Tutzing ist die Strecke gesperrt. Die S-Bahnen wenden in Gauting.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "26.09.2025",
       "durationEnd": "26.09.2025",
       "mapHref": "https://karte.bahn.de/detail/e553f5d4-8830-4ef6-8067-719c1ca154a2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/72ea3f89-a3ac-4918-acb3-5a304b490dabreisendenkarte_20250926-092553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/72ea3f89-a3ac-4918-acb3-5a304b490dabreisendenkarte_20250926-092553.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/8be72b2a-67ff-456d-803e-8e6da3783f10reisendenkarte_20250926-103905.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/8be72b2a-67ff-456d-803e-8e6da3783f10reisendenkarte_20250926-103905.png",
           "info": "",
-          "alt": "Reisendenkarte 26.09.2025 09:25:53",
+          "alt": "Reisendenkarte 26.09.2025 10:39:05",
           "openInNewTab": true
         }
       ],
@@ -1248,7 +1323,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2025 10:21",
+      "lastModified": "26.09.2025 10:40",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1263,16 +1338,16 @@
         "category": "technical_problem_other",
         "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Gesamtnetz: Fahrgastinformation an den Bahnsteigen gestört",
-      "summary": "Derzeit kommt es im Gesamtnetz der S-Bahn zu einer Störung der Fahrgastinformation an den Bahnsteigen. ",
-      "text": "<p>Aktuell sind keine Anzeigen und Ansagen möglich.</p><p>Bitte informieren Sie sich über die Online-Fahrplanauskunft auf www.s-bahn-muenchen.de oder die \"München Navigator\"-App über Ihre Verbindung.</p><p>Grund dafür ist eine IT-Störung. Wir arbeiten mit Hochdruck an der Behebung des Problems.</p><p>We are&nbsp;currently experiencing disruptions to passenger information on all platforms across the S-Bahn network.&nbsp;</p><p>Announcements and displays are temporarily out of order. </p><p>We are actively working to resolve the technical issue. </p><p>Please check your connection on s-bahn-muenchen.de or in the München Navigator app.</p>",
+      "headline": "Endmeldung: Gesamtnetz; Fahrgastinformation an den Bahnsteigen wieder verfügbar",
+      "summary": "Das Fahrgastinformation an den Bahnsteigen im Gesamtnetz der S-Bahn München funktioniert wieder.",
+      "text": "<p>Die IT-Störung wurde behoben.</p><p>All displays and announcements on all platforms are now fully operational.&nbsp;</p><p>The technical issue has been resolved.</p>",
       "durationBegin": "26.09.2025",
       "durationEnd": "26.09.2025",
       "mapHref": "https://karte.bahn.de/detail/858c96f2-db3f-449e-8472-5dfccf965901",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/8adb4098-a121-4e14-9578-dd123d5c8374reisendenkarte_20250926-084101.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/8adb4098-a121-4e14-9578-dd123d5c8374reisendenkarte_20250926-084101.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/155d6d07-75ff-4d18-ac7b-69c1c7b93ecfreisendenkarte_20250926-084101.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/155d6d07-75ff-4d18-ac7b-69c1c7b93ecfreisendenkarte_20250926-084101.png",
           "info": "",
           "alt": "Reisendenkarte 26.09.2025 08:41:01",
           "openInNewTab": true
@@ -1323,7 +1398,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2025 10:22",
+      "lastModified": "26.09.2025 10:50",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
