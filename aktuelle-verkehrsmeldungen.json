@@ -834,56 +834,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "6834f93d-1a16-43a1-9745-b0320214a3f7",
-      "disruptionId": "f24cff73-ba5f-47f1-9a60-9a766714fba8",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Fahrtausfälle zwischen Donaueschingen und Singen (Hohentwiel)\n",
-      "summary": "Aufgrund einer technischer Störung an einem Zug kommt es zwischen Donaueschingen und Singen(Hohentwiel) zu Zugausfällen. Ein Ersatzverkehr mit Bussen ist eingerichtet. Erster Bus ab Donaueschingen um 10:16 Uhr, erster Bus ab Singen (Hohentwiel) um 11:07 Uhr. Bitte prüfen Sie Ihre Reiseverbindung und achten Sie auf die Lautsprecheransagen. Dauer der Störung bis vsl.  17 Uhr. Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 2 (Karlsruhe – Konstanz) </li><li>RE 4 (Stuttgart – Konstanz) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.09.2025",
-      "durationEnd": "27.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/f24cff73-ba5f-47f1-9a60-9a766714fba8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-27/60257efc-f236-42ad-b7a8-6b8d852edeaereisendenkarte_20250927-090503.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-27/60257efc-f236-42ad-b7a8-6b8d852edeaereisendenkarte_20250927-090503.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.09.2025 09:05:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.09.2025 16:45",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6834f93d-1a16-43a1-9745-b0320214a3f7",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
-    },
-    {
       "id": "f8096e02-3404-4c7f-96a7-60db3d8357cb",
       "disruptionId": "2c71e345-bfdb-45d0-b6e9-815620861e03",
       "author": "REGIO_BW",
@@ -1033,6 +983,81 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7377e111-28d2-4f3a-b98a-e83e29f69187",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
+    },
+    {
+      "id": "ccb737e0-545b-44fe-936a-8a8c02a5c863",
+      "disruptionId": "3ad966cc-dc29-409d-b254-997da33f98f2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Überfüllung des Festgeländes ",
+      "summary": "Das Oktoberfest ist derzeit überfüllt. Es wird empfohlen, Ihren Wiesn-Besuch zu verlegen. The Oktoberfest fairground is currently overcrowded. We strongly advise to shift your visit to another day.",
+      "text": "<p>Der Grund hierfür sind behördliche Maßnahmen.</p>",
+      "durationBegin": "27.09.2025",
+      "durationEnd": "27.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/3ad966cc-dc29-409d-b254-997da33f98f2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-27/04e7fd2b-4c39-43e8-9b0e-2190aa355363reisendenkarte_20250927-175149.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-27/04e7fd2b-4c39-43e8-9b0e-2190aa355363reisendenkarte_20250927-175149.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.09.2025 17:51:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.09.2025 17:53",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ccb737e0-545b-44fe-936a-8a8c02a5c863",
+      "magnoliaPath": "/aktuell/bayern/modified_service_police_activity"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
