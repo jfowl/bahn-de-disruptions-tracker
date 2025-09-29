@@ -303,14 +303,21 @@
       "mapHref": "https://karte.bahn.de/detail/07e0f05e-0792-4026-8979-a0c3f358afa2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-09-24/0d69889a-fe3d-4e16-b1c3-399d912ddaabreisendenkarte_20250924-104707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-09-24/0d69889a-fe3d-4e16-b1c3-399d912ddaabreisendenkarte_20250924-104707.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-09-29/bfe74053-264c-411e-aaf1-9b6a4a351e43reisendenkarte_20250924-104707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-09-29/bfe74053-264c-411e-aaf1-9b6a4a351e43reisendenkarte_20250924-104707.png",
           "info": "",
           "alt": "Reisendenkarte 24.09.2025 10:47:07",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-09-29/ee93bf7e-106c-4786-84b9-05f5dff3434eErsatzfahrplan%2BLinie%2BRB40%2Bvom%2B29.09.%2Bbis%2B02.10.2025.pdf",
+          "label": "Ersatzfahrplan Linie RB40 vom 29.09. bis 02.10.2025.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "REGIONAL"
@@ -325,8 +332,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.09.2025 10:50",
-      "expand": false,
+      "lastModified": "29.09.2025 13:50",
+      "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
@@ -417,6 +424,56 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "2bfceba2-4e01-4035-9909-dd688bf8468f",
+      "disruptionId": "43460ecc-976b-4a3b-8751-c88df2313244",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S4/S20 Puchheim - Buchenau: Reparatur an der Oberleitung",
+      "summary": "In Fürstenfeldbruck sind bis auf weiteres Zugfahrten nur auf Gleis 1 und 2 möglich, in Puchheim auf Gleis 2 und in Eichenau auf Gleis 1.❗",
+      "text": "<p>Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Oberleitung in Fürstenfeldbruck.</p><p>Voraussichtliche Dauer der Störung bis ca. 18:30 Uhr.</p><p></p>",
+      "durationBegin": "29.09.2025",
+      "durationEnd": "29.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/43460ecc-976b-4a3b-8751-c88df2313244",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/eb0252b2-2f95-4639-9c4e-a7550c2c0fdfreisendenkarte_20250929-142155.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/eb0252b2-2f95-4639-9c4e-a7550c2c0fdfreisendenkarte_20250929-142155.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.09.2025 14:21:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.09.2025 14:37",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2bfceba2-4e01-4035-9909-dd688bf8468f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "7858b625-ac46-4150-95ca-da2607029b26",
       "disruptionId": "4b43dd57-9e4c-4131-a00d-e0a183a3ba2f",
       "author": "S_BAHN_MUC",
@@ -425,15 +482,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "S 1 Freising / Flughafen: Reparatur an einer Weiche ",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten.",
+      "summary": "Es kann zu Verspätungen von bis zu 10 Minuten kommen.",
       "text": "<p>Der Grund dafür ist eine Reparatur an einer Weiche bei Oberschleißheim.</p>",
       "durationBegin": "26.09.2025",
       "durationEnd": "29.09.2025",
       "mapHref": "https://karte.bahn.de/detail/4b43dd57-9e4c-4131-a00d-e0a183a3ba2f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/6725f3db-9135-4b9d-a03a-478adbfe578areisendenkarte_20250926-153111.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/6725f3db-9135-4b9d-a03a-478adbfe578areisendenkarte_20250926-153111.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/4a0afd1f-d23e-4d66-a7a4-28634dad78dareisendenkarte_20250926-153111.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/4a0afd1f-d23e-4d66-a7a4-28634dad78dareisendenkarte_20250926-153111.png",
           "info": "",
           "alt": "Reisendenkarte 26.09.2025 15:31:11",
           "openInNewTab": true
@@ -454,54 +511,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.09.2025 09:23",
+      "lastModified": "29.09.2025 14:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7858b625-ac46-4150-95ca-da2607029b26",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section20"
-    },
-    {
-      "id": "33c68214-7275-4105-bdee-59c7a521b169",
-      "disruptionId": "6dcac04e-3fa8-4000-b773-6a30d44cd936",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Teilausfälle zwischen Wabern(Bz Kassel) und Bad Wildungen",
-      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Linie:</strong><ul><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 29.09.2025 ab ca. 06:00 Uhr bis ca. 14:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RB39/RE39 aus Richtung Kassel Hbf endet vorzeitig in Wabern(Bz Kassel) und wendet dort.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Wir können aktuell keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen.</li><li>Nutzen Sie alternativ den Bus 500 und 400 von Bad Wildungen in Richtung Wabern(Bz Kassel).</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "29.09.2025",
-      "durationEnd": "29.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/6dcac04e-3fa8-4000-b773-6a30d44cd936",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 39",
-          "filterName": "RB 39",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 39",
-          "filterName": "RE 39",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.09.2025 06:59",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/33c68214-7275-4105-bdee-59c7a521b169",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
     },
     {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
