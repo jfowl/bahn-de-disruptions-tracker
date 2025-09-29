@@ -417,6 +417,123 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "33c68214-7275-4105-bdee-59c7a521b169",
+      "disruptionId": "6dcac04e-3fa8-4000-b773-6a30d44cd936",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Teilausfälle zwischen Wabern(Bz Kassel) und Bad Wildungen",
+      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Linie:</strong><ul><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 29.09.2025 ab ca. 06:00 Uhr bis ca. 14:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RB39/RE39 aus Richtung Kassel Hbf endet vorzeitig in Wabern(Bz Kassel) und wendet dort.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Wir können aktuell keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen.</li><li>Nutzen Sie alternativ den Bus 500 und 400 von Bad Wildungen in Richtung Wabern(Bz Kassel).</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "29.09.2025",
+      "durationEnd": "29.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/6dcac04e-3fa8-4000-b773-6a30d44cd936",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 39",
+          "filterName": "RB 39",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 39",
+          "filterName": "RE 39",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.09.2025 06:59",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/33c68214-7275-4105-bdee-59c7a521b169",
+      "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
+    },
+    {
+      "id": "b52ba9eb-a75b-439e-beeb-8a8313d79272",
+      "disruptionId": "b48a6d4a-63c3-4fdc-af5c-ec83cd0fbcb1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Unbefugtes Ziehen der Notbremse"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Unbefugtes benutzen der Notbremse",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist das unbefugte benutzen einer Notbremse am Ostbahnhof.</p>",
+      "durationBegin": "29.09.2025",
+      "durationEnd": "29.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/b48a6d4a-63c3-4fdc-af5c-ec83cd0fbcb1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/45113aa4-3a52-40cc-9923-8f7ca3ad578areisendenkarte_20250929-064849.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-29/45113aa4-3a52-40cc-9923-8f7ca3ad578areisendenkarte_20250929-064849.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.09.2025 06:48:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.09.2025 06:50",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b52ba9eb-a75b-439e-beeb-8a8313d79272",
+      "magnoliaPath": "/aktuell/bayern/impairment_other_cause0"
+    },
+    {
       "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
       "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
       "author": "REGIO_BW",
