@@ -288,50 +288,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "8df6c37b-a23c-407f-80ae-c8ca16e44ed5",
-      "disruptionId": "a5b95b17-9304-4db3-bffb-0dce2b4e2a7e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt(Main) und Aschaffenburg",
-      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Hanau und Aschaffenburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen von Zügen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge, die zwischen Frankfurt(Main)Hbf und Aschaffenburg Hbf verkehren werden, <strong>nur in Fahrtrichtung Aschaffenburg</strong>, umgeleitet und verspäten sich um bis zu 25 Minuten. Der Halt in Hanau Hbf und Aschaffenburg Hbf kann bei einzelnen Zügen entfallen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die späten Nachmittagsstunden am heutigen Dienstag, 30.09.2025 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/a5b95b17-9304-4db3-bffb-0dce2b4e2a7e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/2bc8a8cf-4b83-44d4-b269-cff13e872c8freisendenkarte_20250930-130152.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/2bc8a8cf-4b83-44d4-b269-cff13e872c8freisendenkarte_20250930-130152.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.09.2025 13:01:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.09.2025 13:03",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/8df6c37b-a23c-407f-80ae-c8ca16e44ed5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section0"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -427,6 +383,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
+      "disruptionId": "71165f72-0001-4c5d-88af-6987110be934",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S1/S8 Flughafen: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Flughafen sind bis auf weiteres keine Zugfahrten möglich❗  Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. \n\n",
+      "text": "<p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Grund für diese Beeinträchtigungen&nbsp;sind unbefugte Personen auf der Strecke im Bereich Flughafen.</p>",
+      "durationBegin": "30.09.2025",
+      "durationEnd": "30.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/71165f72-0001-4c5d-88af-6987110be934",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/473ae94c-7643-4ebd-a541-0f33323d5166reisendenkarte_20250930-164751.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/473ae94c-7643-4ebd-a541-0f33323d5166reisendenkarte_20250930-164751.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.09.2025 16:47:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.09.2025 17:00",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -794,14 +800,14 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigung zwischen Leipzig und Dresden",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Wiesbaden - Frankfurt(Main) - Erfurt - Leipzig - Dresden verkehren nur zwischen Wiesbaden und Leipzig Hbf</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p><p><strong>Zwischen Leipzig und Dresden </strong>können Sie die verkehrenden IC-Züge sowie die Züge der Regionalverkehrslinie RE 50 nutzen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die frühen Abendstunden am heutigen Dienstag, 30.09.2025 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Wiesbaden - Frankfurt(Main) - Erfurt - Leipzig - Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "30.09.2025",
       "mapHref": "https://karte.bahn.de/detail/a371ffcf-4b1c-4647-983a-fc180f648dfa",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/f53f3ee8-dbf5-460d-9684-84273f7883c2reisendenkarte_20250930-052242.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/f53f3ee8-dbf5-460d-9684-84273f7883c2reisendenkarte_20250930-052242.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/59ac0d21-a44d-4108-b9bb-75219eda4935reisendenkarte_20250930-052242.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-30/59ac0d21-a44d-4108-b9bb-75219eda4935reisendenkarte_20250930-052242.png",
           "info": "",
           "alt": "Reisendenkarte 30.09.2025 05:22:42",
           "openInNewTab": true
@@ -822,9 +828,10 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "30.09.2025 07:03",
+      "lastModified": "30.09.2025 17:09",
       "expand": true,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9cfdcfb3-d8ad-4a21-8ec2-4f2efccbd6e5",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
     },
