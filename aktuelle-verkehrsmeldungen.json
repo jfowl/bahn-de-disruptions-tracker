@@ -198,50 +198,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "910604a3-82a8-4629-bafe-e52be3bdc859",
-      "disruptionId": "fb493026-f848-4499-8b3c-a31ac1c4da23",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Kaiserslautern und Saarbrücken",
-      "summary": "Aufgrund von Bauarbeiten ist die Strecke zwischen Homburg(Saar) und Saarbrücken derzeit gesperrt. Die Züge des Fernverkehrs der Deutschen Bahn werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und TGV-Verbindungen Frankfurt(Main) - Saarbrücken - Paris</li><li>ICE-Züge, die zwischen Mannheim und Saarbrücken verkehren</li></ul><p>Die Bauarbeiten sollen vsl. bis Tagesende am Mittwoch, 01.10.2025 andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/fb493026-f848-4499-8b3c-a31ac1c4da23",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-23/fda0777b-7cca-4ec9-a260-2830fd9c0017reisendenkarte_20250923-100107.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-23/fda0777b-7cca-4ec9-a260-2830fd9c0017reisendenkarte_20250923-100107.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.09.2025 10:01:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.09.2025 10:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/910604a3-82a8-4629-bafe-e52be3bdc859",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "9944168c-90cf-40e2-ac79-572215322515",
       "disruptionId": "87331be9-33ec-4d33-be07-812955309eb2",
       "author": "FERNVERKEHR_AG",
@@ -468,6 +424,66 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "27b72bc1-fc88-4e4f-818c-8b361c052046",
+      "disruptionId": "a7b5bb70-d5c4-434a-ba22-289fb5b70b16",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verkehrsmeldung für die Linien RE4, RB43 und RB49 ",
+      "summary": " Mittwoch, 01.10.2025",
+      "text": "<p>Aufgrund einer Entgleisung in Falkenberg(Elster) unterer Bahnhof, kommt es zu Beeinträchtigungen.</p><p>Betroffene Linien: RE4, RB43 und RB49</p><p><strong>Linie RE4</strong>:</p><p>Die Züge der RE4 fallen ganztägig zwischen Falkenberg(Elster) und Oehna in beide Richtungen aus. Ein Ersatzverkehr konnte nicht eingerichtet werden. Keine Busse verfügbar.</p><p>Nutzen Sie alternativ die Züge der RB51 bis Lutherstadt Wittenberg Hbf mit Umstieg auf die Busse RE3X nach Jüterbog und weiter mit Bussen der RE4X nach Oehna.</p><p><strong>Linie RB43 und RB49</strong>:</p><p>Die Züge der RB43 und RB49 befahren in Falkenberg(Elster) abweichend den oberen Bahnhof.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "01.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/a7b5bb70-d5c4-434a-ba22-289fb5b70b16",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE4",
+          "filterName": "Bus RE4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 43",
+          "filterName": "RB 43",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 11",
+          "filterName": "RE 11",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "01.10.2025 09:27",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/27b72bc1-fc88-4e4f-818c-8b361c052046",
+      "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section"
     },
     {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
@@ -877,6 +893,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
+    },
+    {
+      "id": "1f36a264-41bb-4d15-8f3d-8808208d59d7",
+      "disruptionId": "189abdc7-07c0-4b24-88c9-22b7fdcb555d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 Feldmoching und Fasanerie : Polizeieinsatz",
+      "summary": "Die S-Bahnen halten derzeit nicht Feldmoching und Fasanerie. Reisende im Bereich Feldmoching nutzen bitte aktuell die U-Bahn.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "01.10.2025",
+      "durationEnd": "01.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/189abdc7-07c0-4b24-88c9-22b7fdcb555d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-01/694b5ded-4062-4724-b4f0-9102bdc4a7b3reisendenkarte_20251001-062349.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-01/694b5ded-4062-4724-b4f0-9102bdc4a7b3reisendenkarte_20251001-062349.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.10.2025 06:23:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2025 09:27",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1f36a264-41bb-4d15-8f3d-8808208d59d7",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
