@@ -47,44 +47,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section2"
     },
     {
-      "id": "b9637078-a809-436f-a684-f2439404a9dd",
-      "disruptionId": "ccb77759-7d85-44fd-a5b6-2546cb73fa12",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S1: Aktuell fährt keine S1 zwischen Sülldorf und Wedel. Grund: Polizeieinsatz. ",
-      "summary": "Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
-      "text": "<p> </p>",
-      "durationBegin": "01.10.2025",
-      "durationEnd": "01.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/ccb77759-7d85-44fd-a5b6-2546cb73fa12",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.10.2025 05:49",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b9637078-a809-436f-a684-f2439404a9dd",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
-    },
-    {
       "id": "914a5c35-693d-408c-8ca4-f0aef3c11f11",
       "disruptionId": "0243d52d-22e6-475d-ad6c-1ea30be0f76e",
       "author": "FERNVERKEHR_AG",
@@ -370,6 +332,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "b9637078-a809-436f-a684-f2439404a9dd",
+      "disruptionId": "ccb77759-7d85-44fd-a5b6-2546cb73fa12",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S1: Polizeieinsatz beendet. Die S1 fährt wieder zwischen Sülldorf und Wedel.",
+      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
+      "text": "<p> </p>",
+      "durationBegin": "01.10.2025",
+      "durationEnd": "01.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/ccb77759-7d85-44fd-a5b6-2546cb73fa12",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2025 06:08",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b9637078-a809-436f-a684-f2439404a9dd",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
@@ -915,6 +914,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
+    },
+    {
+      "id": "1f36a264-41bb-4d15-8f3d-8808208d59d7",
+      "disruptionId": "189abdc7-07c0-4b24-88c9-22b7fdcb555d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 Feldmoching und Fasanerie : Polizeieinsatz",
+      "summary": "Die S-Bahnen halten derzeit nicht Feldmoching und Fasanerie.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "01.10.2025",
+      "durationEnd": "01.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/189abdc7-07c0-4b24-88c9-22b7fdcb555d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-01/8e8f1b75-e9c5-4636-97ac-94398d497f74reisendenkarte_20251001-062349.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-01/8e8f1b75-e9c5-4636-97ac-94398d497f74reisendenkarte_20251001-062349.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.10.2025 06:23:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2025 06:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1f36a264-41bb-4d15-8f3d-8808208d59d7",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
