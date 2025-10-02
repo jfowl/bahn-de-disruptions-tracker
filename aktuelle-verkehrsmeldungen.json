@@ -246,51 +246,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "3bb3f879-35e6-4d06-a4d6-0d993513ecfb",
-      "disruptionId": "701948ff-60a1-4f7b-a678-cc8315124fc0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 6 Lochham",
-      "summary": "Die Züge können im Bereich Lochham wieder fahren und der Zugverkehr wird aufgenommen.",
-      "text": "<p>Bitte rechnen Sie aber noch mit Folgeverspätungen.&nbsp;</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "02.10.2025",
-      "durationEnd": "02.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/701948ff-60a1-4f7b-a678-cc8315124fc0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/4f996289-a8be-4b44-901a-6de195720c8areisendenkarte_20251002-225325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/4f996289-a8be-4b44-901a-6de195720c8areisendenkarte_20251002-225325.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.10.2025 22:53:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.10.2025 23:10",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3bb3f879-35e6-4d06-a4d6-0d993513ecfb",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -1203,6 +1158,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
+      "id": "e2d38fe4-bf48-4889-bf14-7799bbec7aee",
+      "disruptionId": "01251772-fca5-4720-940b-848aa3a7e140",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 6  Haar ↔ Zorneding: Defektes Stellwerk",
+      "summary": "Von Haar in Richtung Zorneding kommt es zu Verspätungen von bis zu 25 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "02.10.2025",
+      "durationEnd": "03.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/01251772-fca5-4720-940b-848aa3a7e140",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/d9757678-572a-4242-ae54-fe70b806aca1reisendenkarte_20251002-234448.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/d9757678-572a-4242-ae54-fe70b806aca1reisendenkarte_20251002-234448.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.10.2025 23:44:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.10.2025 23:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e2d38fe4-bf48-4889-bf14-7799bbec7aee",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
