@@ -388,56 +388,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "e35f11f0-c094-4597-a487-eaeb37e2d127",
-      "disruptionId": "5885ab91-4920-40e7-9a56-c21380ce39eb",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 4 / S 20 Geltendorf: Reparatur an einer Weiche beendet",
-      "summary": "Es kann noch zu Folgeverspätungen und Teilausfällen kommen.",
-      "text": "<p>Der Grund dafür war eine Reparatur an einer Weiche bei Fürstenfeldbruck.</p>",
-      "durationBegin": "02.10.2025",
-      "durationEnd": "02.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/5885ab91-4920-40e7-9a56-c21380ce39eb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/bcc86450-4f19-4937-860d-44c92fe16d79reisendenkarte_20251002-062214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-02/bcc86450-4f19-4937-860d-44c92fe16d79reisendenkarte_20251002-062214.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.10.2025 06:22:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.10.2025 11:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e35f11f0-c094-4597-a487-eaeb37e2d127",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
-    },
-    {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
       "disruptionId": "4cea9d38-ee65-4557-9fe3-e4f8e93cd602",
       "author": "S_BAHN_RM",
@@ -843,6 +793,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
+    },
+    {
+      "id": "268c058e-96c3-4347-b19c-7ed0ca629b97",
+      "disruptionId": "7163a609-3f02-4606-945d-426487881dbe",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40 / Mühldorf - München  / Dienstag, 07.10.2025 bis Donnerstag, 16.10.2025 / Bauarbeiten",
+      "summary": "von Dienstag, 07.10.2025 bis Donnerstag, 16.10.2025",
+      "text": "<p>Von Dienstag, den 07. Oktober, ab 22:50 Uhr, bis Donnerstag, den 16. Oktober bis 0:35 Uhr, entfallen einige Züge zwischen Mühldorf und München Hbf wegen Bauarbeiten. Bitte beachten Sie, die verschiedenen Busse (Direktbusse und Busse mit Unterwegshalte). </p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "07.10.2025",
+      "durationEnd": "16.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/7163a609-3f02-4606-945d-426487881dbe",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB40",
+          "filterName": "Bus RB40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.10.2025 11:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/268c058e-96c3-4347-b19c-7ed0ca629b97",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction9"
     },
     {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
