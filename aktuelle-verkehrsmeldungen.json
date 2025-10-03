@@ -154,52 +154,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "9944168c-90cf-40e2-ac79-572215322515",
-      "disruptionId": "87331be9-33ec-4d33-be07-812955309eb2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Ulm und Augsburg",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen in beiden Richtungen und Zusatzverspätungen von etwa 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Berlin –&nbsp;Leipzig –&nbsp;Erfurt –&nbsp;Frankfurt (M) –&nbsp;Mannheim –&nbsp;Stuttgart –&nbsp;München</li><li>ICE-Züge Hamburg – Dortmund – Köln – Frankfurt (M) Flughafen – Mannheim – Stuttgart – München</li></ul><p>Die Arbeiten werden vsl. bis in die Nachmittagsstunden am Freitag, 03.10.2025, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.10.2025",
-      "durationEnd": "03.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/87331be9-33ec-4d33-be07-812955309eb2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-03/44e121a1-f68d-4b4b-8b64-6dc0d3016ebfreisendenkarte_20250930-145521.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-03/44e121a1-f68d-4b4b-8b64-6dc0d3016ebfreisendenkarte_20250930-145521.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.09.2025 14:55:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.10.2025 03:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9944168c-90cf-40e2-ac79-572215322515",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -244,6 +198,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "95a059bc-cb9e-4e88-aabb-080b23a67258",
+      "disruptionId": "04996c7d-b81d-4e92-9896-b4e05ad28bf7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 1 Moosach ↔ Feldmoching: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Moosach und Feldmoching ist die Strecke gesperrt. Die S-Bahnen wenden in Moosach und Feldmoching.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "03.10.2025",
+      "durationEnd": "03.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/04996c7d-b81d-4e92-9896-b4e05ad28bf7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-03/c6b0c0f9-13bf-42fa-a41f-eccd53e3f1d5reisendenkarte_20251003-143834.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-03/c6b0c0f9-13bf-42fa-a41f-eccd53e3f1d5reisendenkarte_20251003-143834.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.10.2025 14:38:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.10.2025 14:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/95a059bc-cb9e-4e88-aabb-080b23a67258",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section9"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
