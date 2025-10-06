@@ -337,6 +337,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4c47d16b-15b5-4e51-a7b9-17edff7bb0c6",
+      "disruptionId": "2b07d72a-8ec4-431b-a836-352341216573",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung S 2 Dachau Bahnhof: Reparatur an einer Weiche",
+      "summary": "Die S-Bahnen der Linie S2 fahren wieder ohne nennenswerten Verspätungen. ",
+      "text": "<p><strong>Die S-Bahnen des 10-Minuten-Takts entfallen </strong>❗</p><p>Die Reparatur an einer Weiche in Dachau Bahnhof wurde beendet.</p><p></p><p></p>",
+      "durationBegin": "06.10.2025",
+      "durationEnd": "06.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/2b07d72a-8ec4-431b-a836-352341216573",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-06/70f7914b-6c5d-493a-9cf4-50b29098be06reisendenkarte_20251006-052447.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-06/70f7914b-6c5d-493a-9cf4-50b29098be06reisendenkarte_20251006-052447.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.10.2025 05:24:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.10.2025 06:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4c47d16b-15b5-4e51-a7b9-17edff7bb0c6",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
+    },
+    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -539,6 +584,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc9d6acc-b38e-44b2-b43e-f148bd640f76",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
+    },
+    {
+      "id": "1b34a2f7-4db8-4928-8afd-a0f84b503e04",
+      "disruptionId": "8f57adf6-51ce-4346-9386-3a8631f8e561",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz",
+      "summary": "Die S-Bahnen verkehren wegen eines Feuerwehreinsatzes derzeit ohne Halt am Hauptbahnhof❗",
+      "text": "<p><strong>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz (Stachus). </strong></p><p>Grund: Feuerwehreinsatz🧑🏼‍🚒🚒</p>",
+      "durationBegin": "06.10.2025",
+      "durationEnd": "06.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/8f57adf6-51ce-4346-9386-3a8631f8e561",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-06/0bdc3494-e0b9-4cad-ac48-5c90ce999282reisendenkarte_20251006-064901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-06/0bdc3494-e0b9-4cad-ac48-5c90ce999282reisendenkarte_20251006-064901.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.10.2025 06:49:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.10.2025 06:50",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1b34a2f7-4db8-4928-8afd-a0f84b503e04",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity2"
     },
     {
       "id": "b9bd4565-e0e8-4fdd-b1c2-1dd0eb72e933",
