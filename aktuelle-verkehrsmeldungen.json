@@ -620,6 +620,52 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
     },
     {
+      "id": "54066532-090e-4c75-9f64-04fcda4815c5",
+      "disruptionId": "2021d914-7605-41ca-8aba-2635c46c0a70",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 45 / Mühldorf - Landshut / Freitag, 17.10.2025 bis Montag, 20.10.2025 / Bauarbeiten",
+      "summary": "von Freitag, 17.10.2025 bis Montag, 20.10.2025",
+      "text": "<p>Von Freitag, den 17. Oktober (ab 7:57 Uhr) bis Montag, den 20. Oktober (bis 4:09 Uhr) entfallen die Züge zwischen Mühldorf und Neumarkt-St Veit wegen Bauarbeiten. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "17.10.2025",
+      "durationEnd": "20.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/2021d914-7605-41ca-8aba-2635c46c0a70",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB45",
+          "filterName": "Bus RB45",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 44",
+          "filterName": "RB 44",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 45",
+          "filterName": "RB 45",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.10.2025 09:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/54066532-090e-4c75-9f64-04fcda4815c5",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
+    },
+    {
       "id": "e08feab6-da56-4466-bd6a-00106b71151b",
       "disruptionId": "4dc00e24-7faa-4100-b04e-3e5383c1b201",
       "author": "SUEDOSTBAYERNBAHN",
@@ -933,6 +979,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "8dcab4a1-01da-4e69-864f-38fc3e10fa8e",
+      "disruptionId": "44d72aa4-ace2-484a-974d-364b6eb86df1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 3 / S 5: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Derzeit kommt es auf der Linien S 3 / S 5 in Richtung Holzkirchen / Kreuzstraße zu vereinzelten Ausfällen. \n\nEs kann auch noch zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes am Ostbahnhof.</p>",
+      "durationBegin": "08.10.2025",
+      "durationEnd": "08.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/44d72aa4-ace2-484a-974d-364b6eb86df1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-08/ace0f0b6-e92f-4caf-bf80-60e03ec94676reisendenkarte_20251008-093032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-08/ace0f0b6-e92f-4caf-bf80-60e03ec94676reisendenkarte_20251008-093032.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.10.2025 09:30:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.10.2025 09:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8dcab4a1-01da-4e69-864f-38fc3e10fa8e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
