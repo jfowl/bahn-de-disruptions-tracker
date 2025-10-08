@@ -47,6 +47,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section2"
     },
     {
+      "id": "0b202c1f-7420-4a23-a1fc-da7514b4cfe3",
+      "disruptionId": "ccb7d4a5-13f3-404f-8256-e16cba70ce00",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Aufgrund einer Oberleitungsstörung/Stellwerksstörung/Reparatur an der Strecke zwischen ORT und ORT ist der Zugverkehr beeinträchtigt.",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Morsum und Klanxbüll kommt es zu Beeinträchtigungen.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland (Sylt) - Hamburg-Altona): Die Züge verkehren mit Verspätungen und Teilausfällen.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "08.10.2025",
+      "durationEnd": "08.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/ccb7d4a5-13f3-404f-8256-e16cba70ce00",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.10.2025 12:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0b202c1f-7420-4a23-a1fc-da7514b4cfe3",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -1073,6 +1111,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "ab4bd05e-fbcd-4a54-b528-0088039904f3",
+      "disruptionId": "a508cd75-799b-4ea5-be33-bb73d65e7677",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Endmeldung Stammstrecke: Feuerwehreinsatz beendet",
+      "summary": "Die S-Bahnen halten wieder regulär am Hauptbahnhof.",
+      "text": "<p>Der Feuerwehreinsatz ist beendet.</p>",
+      "durationBegin": "08.10.2025",
+      "durationEnd": "08.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/a508cd75-799b-4ea5-be33-bb73d65e7677",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.10.2025 12:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab4bd05e-fbcd-4a54-b528-0088039904f3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
