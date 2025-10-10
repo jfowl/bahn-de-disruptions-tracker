@@ -2,54 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "ef964b4a-e2b5-4c85-9cbe-3d9af15e85b2",
-      "disruptionId": "acbe3bc4-645e-48f7-a471-faedd095d974",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Bitterfeld und Berlin",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Roßlau(Elbe) und Bad Belzig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 45 - 60 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Halle(S)/Leipzig und Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Störung wird vsl. bis in die späten Nachmittagsstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/acbe3bc4-645e-48f7-a471-faedd095d974",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-10/e40ea53d-f824-4315-a355-2eeb85b77516reisendenkarte_20251009-162130.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-10/e40ea53d-f824-4315-a355-2eeb85b77516reisendenkarte_20251009-162130.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.10.2025 16:21:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "TH",
-        "BY",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.10.2025 09:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ef964b4a-e2b5-4c85-9cbe-3d9af15e85b2",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "158f84c6-c4a3-4305-ac09-f1d7e70ada7c",
       "disruptionId": "4fb872de-f571-4ebf-8a74-5d3fc37d3e43",
       "author": "FERNVERKEHR_AG",
@@ -1486,6 +1438,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "685cf46a-1b08-4756-a363-9fd54668676a",
+      "disruptionId": "4d3a6bd5-4ecc-4401-ac45-9333dc752e7c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kann es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten kommen.",
+      "text": "<p>Der Grund für diese Beeinträchtigungen war eine zuvor erfolgte Reparatur an einem Signal.</p>",
+      "durationBegin": "10.10.2025",
+      "durationEnd": "10.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/4d3a6bd5-4ecc-4401-ac45-9333dc752e7c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.10.2025 15:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/685cf46a-1b08-4756-a363-9fd54668676a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
