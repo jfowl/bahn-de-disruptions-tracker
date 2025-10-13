@@ -254,6 +254,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "29c0396d-a45c-4c6d-900a-6b9632b92b5f",
+      "disruptionId": "ea1f2613-96fa-4989-8e58-e9ce4ea10990",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 6 Zorneding: Polizeieinsatz",
+      "summary": "Im Bereich Zorneding sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen. </p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/ea1f2613-96fa-4989-8e58-e9ce4ea10990",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 00:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/29c0396d-a45c-4c6d-900a-6b9632b92b5f",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
+    },
+    {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
       "disruptionId": "4cea9d38-ee65-4557-9fe3-e4f8e93cd602",
       "author": "S_BAHN_RM",
@@ -1151,9 +1188,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 3 Olching ↔ Lochhausen: Reparatur an einem Signal",
-      "summary": "Zwischen Olching und Lochhausen kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 3 Olching ↔ Lochhausen",
+      "summary": "Zwischen Olching und Lochhausen kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "13.10.2025",
       "durationEnd": "14.10.2025",
       "mapHref": "https://karte.bahn.de/detail/ab7e4541-3f88-4199-95b5-f51081eb2b36",
@@ -1173,7 +1210,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.10.2025 00:00",
+      "lastModified": "14.10.2025 00:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
