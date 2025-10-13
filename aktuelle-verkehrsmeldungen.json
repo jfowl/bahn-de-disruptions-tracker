@@ -261,18 +261,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Baierbrunn: Reparatur an einem Signal",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Baierbrunn kommt es zu Verspätungen von bis zu 20 Minuten zusätzlich kommt es noch zu vorzeitigen Zugwenden.",
+      "headline": "S 7, S 20 Ebenhausen-Schäftlarn ↔ Baierbrunn sowie im weiterem Verlauf : Reparatur an einem Signal",
+      "summary": "Zwischen Ebenhausen-Schäftlarn und Baierbrunn sowie im weiterem Verlauf  kommt es zu Verspätungen von bis zu 20 Minuten teilweise auch höher,  zusätzlich kommt es noch zu vorzeitigen Zugwenden .",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "13.10.2025",
       "durationEnd": "13.10.2025",
       "mapHref": "https://karte.bahn.de/detail/b288b76a-26fa-49ab-9b35-daabcc0c0f27",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-13/f639d5a9-5912-463d-bbdf-0e372c235ac7reisendenkarte_20251013-061950.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-13/f639d5a9-5912-463d-bbdf-0e372c235ac7reisendenkarte_20251013-061950.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-13/a9b47d16-1637-45bf-8b9d-c4cfab0cb89creisendenkarte_20251013-071320.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-13/a9b47d16-1637-45bf-8b9d-c4cfab0cb89creisendenkarte_20251013-071320.png",
           "info": "",
-          "alt": "Reisendenkarte 13.10.2025 06:19:50",
+          "alt": "Reisendenkarte 13.10.2025 07:13:20",
           "openInNewTab": true
         }
       ],
@@ -286,12 +286,17 @@
       ],
       "lines": [
         {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 7",
           "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.10.2025 06:37",
+      "lastModified": "13.10.2025 07:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
