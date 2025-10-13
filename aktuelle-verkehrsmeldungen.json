@@ -2,6 +2,88 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0e0acb5b-5a4a-49b3-b2a0-432967251ebc",
+      "disruptionId": "86da25f6-d740-4062-99d4-0651a789278d",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen auf der Strecke zwischen Hannover Hbf und Wunstorf",
+      "summary": "Aufgrund einer Oberleitungsstörung zwischen Hannover Hbf und Wunstorf ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Die Züge fallen zwischen Hannover Hbf und Wunstorf aus. Züge aus Richtung Bremen Hbf enden und beginnen in Wunstorf. Der Halt Hannover Hbf entfällt. Nutzen Sie zwischen Wunstorf und Hannover Hbf bitte die S-Bahn-Linien S1 und S2.</li><li>RE 8 (Bremerhaven-Lehe – Hannover Hbf): Die Züge fallen zwischen Hannover Hbf und Wunstorf aus. Züge aus Richtung Bremen Hbf enden und beginnen in Wunstorf. Der Halt Hannover Hbf entfällt. Nutzen Sie zwischen Wunstorf und Hannover Hbf bitte die S-Bahn-Linien S1 und S2. Weitere Informationen folgen.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "13.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/86da25f6-d740-4062-99d4-0651a789278d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-13/3a1458fc-9df7-4d7a-bf02-4a3250b396f2reisendenkarte_20251013-143319.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-13/3a1458fc-9df7-4d7a-bf02-4a3250b396f2reisendenkarte_20251013-143319.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.10.2025 14:33:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2025 14:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0e0acb5b-5a4a-49b3-b2a0-432967251ebc",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -524,6 +606,63 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
+    },
+    {
+      "id": "7ece30a9-6496-433c-9736-22a8f8c54eef",
+      "disruptionId": "41a4ea39-0548-4e3a-b474-3485473edc52",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚍Ersatzverkehr mit Bus -\nBraunschweig Hbf ⇄ Schöppenstedt",
+      "summary": "🚉 Linie: RB 45 (Braunschweig Hbf ⇄ Schöppenstedt)                                                      \n📅 Datum: Freitag, 05.12.2025 00:00 Uhr bis Dienstag, 09.12.2025 23:59 Uhr",
+      "text": "<p>🚧&nbsp;<strong>Betroffene Stationen:</strong> Braunschweig Hbf, Wolfenbüttel, Dettum, Schöppenstedt</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Vom 5. Dezember bis 9. Dezember fällt die RB 45 ganztägig zwischen Braunschweig Hbf und Schöppenstedt aus.</p><p>↪️<strong>&nbsp;Alternative:</strong> Ein Ersatzverkehr mit Bus wird eingerichtet. Sobald uns der Ersatzfahrplan vorliegt, aktualisieren wir diese Meldung.</p><p>🔜 Die Fahrplandaten werden von uns in Kürze aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung kurz vor Reiseantritt.</p><p>📞&nbsp;Noch Fragen? Sie erreichen den Kundendialog von DB Regio Niedersachsen / Bremen unter der Rufnummer 0511 45901645.</p>",
+      "durationBegin": "05.12.2025",
+      "durationEnd": "09.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/41a4ea39-0548-4e3a-b474-3485473edc52",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-13/6d645f2d-9162-4fa2-8947-21752410dae5reisendenkarte_20251013-143856.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-13/6d645f2d-9162-4fa2-8947-21752410dae5reisendenkarte_20251013-143856.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.10.2025 14:38:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de/",
+          "label": "Informationen zur Lage der Ersatzhaltestellen finden Sie in der Bahnhofssuche auf bahnhof.de in der Kachel \"Ersatzverkehr\"",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Noch Fragen? Unser Regionaler Kundendialog hilft gern weiter!",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 45",
+          "filterName": "RB 45",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2025 14:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7ece30a9-6496-433c-9736-22a8f8c54eef",
+      "magnoliaPath": "/aktuell/nord/additional_service_construction"
     },
     {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
