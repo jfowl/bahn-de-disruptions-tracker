@@ -100,6 +100,44 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "28ba5926-aa4a-41a8-835d-c07ed2b2639a",
+      "disruptionId": "cd043900-c169-4f98-86d9-5f1b39a6a798",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S2: Aktuell fährt keine S2 zwischen Wohltorf und Aumühle. Grund: Technische Störung an der Strecke. ",
+      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen .",
+      "text": "<p> </p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/cd043900-c169-4f98-86d9-5f1b39a6a798",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 14:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/28ba5926-aa4a-41a8-835d-c07ed2b2639a",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -432,81 +470,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
     },
     {
-      "id": "209ae079-f9d1-417d-ba04-927aa49c10fe",
-      "disruptionId": "9afb6e89-e571-4b3b-b0c8-4ca02c0d6f39",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: Stammstrecke  am Hauptbahnhof",
-      "summary": "Die S-Bahnen halten wieder am Hauptbahnhof.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/9afb6e89-e571-4b3b-b0c8-4ca02c0d6f39",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/53691a74-78d4-4e74-8022-213c04ef047areisendenkarte_20251014-124420.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/53691a74-78d4-4e74-8022-213c04ef047areisendenkarte_20251014-124420.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.10.2025 12:44:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.10.2025 13:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/209ae079-f9d1-417d-ba04-927aa49c10fe",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
-    },
-    {
       "id": "39466ef5-a3b0-4d57-9983-9f9622e948db",
       "disruptionId": "adbb012b-5b3a-4edc-865c-c5b9bb4ecda3",
       "author": "S_BAHN_RM",
@@ -542,6 +505,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39466ef5-a3b0-4d57-9983-9f9622e948db",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
+    },
+    {
+      "id": "17fdf6ae-c905-4c58-89e4-f1c778165af6",
+      "disruptionId": "7231872e-d4e7-4712-a9f0-b90ca2005c63",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
+      },
+      "headline": "Kein barrierefreier Zugang zu Gleis 3+4 am Hauptbahnhof / No barrier-free access to platform 3+4 at central station",
+      "summary": "Der Aufzug zu Gleis 3+4 am Hauptbahnhof ist außer Betrieb. Bitte fahren Sie weiter bis Landwehr oder Hammerbrook und kehren Sie zurück, um den Aufzug an Gleis 1+2 zu nutzen. / Elevator to platform 3+4 at Hauptbahnhof out of service. Ride to Landwehr or Hammerbrook and return to use elevator at platform 1+2.",
+      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 3+4 am Hauptbahnhof ist derzeit nicht möglich.</strong></p><p>Bitte:</p><ul><li>Zur nächsten Station weiterfahren: S1=Landwehr, S2=Berliner Tor, S3/S5=Hammerbrook</li><li>In die Gegenrichtung umsteigen und zurück zum Hauptbahnhof fahren (Einfahrt auf Gleis 1+2), dort funktioniert der Aufzug.</li></ul><p>Weitere Infos:&nbsp;www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 3+4 is currently unavailable.</strong></p><p>Please:</p><ul><li>Continue to the next station: S1=Landwehr, S2=Berliner Tor, S3/S5=Hammerbrook</li><li>Switch directions and return to platform 1+2 at Hauptbahnhof (lift is in service).</li></ul><p>More info:&nbsp;www.hvv.de/en/lifts</p>",
+      "durationBegin": "08.10.2025",
+      "durationEnd": "15.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/7231872e-d4e7-4712-a9f0-b90ca2005c63",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 14:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/17fdf6ae-c905-4c58-89e4-f1c778165af6",
+      "magnoliaPath": "/aktuell/nord/modified_service_other_cause"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
@@ -1051,6 +1066,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "5bbe0dbc-2246-4a54-9500-4d9df6235fb5",
+      "disruptionId": "bb21181e-14b5-4a0d-82db-3ab2976de8ef",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 2 Dachau",
+      "summary": "Die Züge können wieder im Bereich Dachau fahren.",
+      "text": "<p>Es&nbsp;kommt&nbsp;zu&nbsp;keinen Beeinträchtigungen mehr.&nbsp;</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/bb21181e-14b5-4a0d-82db-3ab2976de8ef",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/7f31431b-58c7-431d-ad36-1521b1c90c0freisendenkarte_20251014-142203.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/7f31431b-58c7-431d-ad36-1521b1c90c0freisendenkarte_20251014-142203.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.10.2025 14:22:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 14:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5bbe0dbc-2246-4a54-9500-4d9df6235fb5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
