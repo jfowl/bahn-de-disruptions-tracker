@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "63ea6de3-4259-478c-b65c-a833cfa2574a",
+      "disruptionId": "b7053fb0-5efc-4851-83f5-c71dc1978fc3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Fürstenwalde (Spree)",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am Mittwoch, den 15.10.2025 kommt es in Fürstenwalde (Spree) zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 80 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC-Züge zwischen Warschau – Frankfurt (Oder) – Berlin</li><li>EC-Züge zwischen Przemysl Glowny – Krakau – Frankfurt (Oder) - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.10.2025",
+      "durationEnd": "15.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/b7053fb0-5efc-4851-83f5-c71dc1978fc3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-14/21b3ecfa-3246-4917-8435-bfa3e4cebdc3reisendenkarte_20251014-121313.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-14/21b3ecfa-3246-4917-8435-bfa3e4cebdc3reisendenkarte_20251014-121313.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.10.2025 12:13:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.10.2025 12:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/63ea6de3-4259-478c-b65c-a833cfa2574a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -254,93 +300,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "7ba6dce9-1c21-4f13-9e85-28168c28b15a",
-      "disruptionId": "001d61d6-bdb2-4379-8cce-f9ac8342b531",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke/Gesamtnetz: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Der S-Bahnverkehr auf der Stammstrecke und im weiteren Verlauf im Gesamtnetz hat sich weitestgehend normalisiert. Es kommt nur noch vereinzelt zu geringfügigen Verspätungen.",
-      "text": "<p>Es treten aktuell keine Störungen auf.</p>",
-      "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/001d61d6-bdb2-4379-8cce-f9ac8342b531",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/6921e75a-4c4e-4155-97d9-f39ec0a88724reisendenkarte_20251014-074134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/6921e75a-4c4e-4155-97d9-f39ec0a88724reisendenkarte_20251014-074134.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.10.2025 07:41:34",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/48fa5b8f-35de-4aed-9571-340340a6c262reisendenkarte_20251014-091432.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/48fa5b8f-35de-4aed-9571-340340a6c262reisendenkarte_20251014-091432.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.10.2025 09:14:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.10.2025 11:33",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7ba6dce9-1c21-4f13-9e85-28168c28b15a",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
-    },
-    {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
       "disruptionId": "4cea9d38-ee65-4557-9fe3-e4f8e93cd602",
       "author": "S_BAHN_RM",
@@ -508,58 +467,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39466ef5-a3b0-4d57-9983-9f9622e948db",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
-    },
-    {
-      "id": "17fdf6ae-c905-4c58-89e4-f1c778165af6",
-      "disruptionId": "7231872e-d4e7-4712-a9f0-b90ca2005c63",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "other_cause",
-        "label": "Beeinträchtigung durch Vandalismus"
-      },
-      "headline": "Kein barrierefreier Zugang zu Gleis 3+4 am Hauptbahnhof / No barrier-free access to platform 3+4 at central station",
-      "summary": "Der Aufzug zu Gleis 3+4 am Hauptbahnhof ist außer Betrieb. Bitte fahren Sie weiter bis Landwehr oder Hammerbrook und kehren Sie zurück, um den Aufzug an Gleis 1+2 zu nutzen. / Elevator to platform 3+4 at Hauptbahnhof out of service. Ride to Landwehr or Hammerbrook and return to use elevator at platform 1+2.",
-      "text": "<p><strong>Der barrierefreie Zugang zu Gleis 3+4 am Hauptbahnhof ist derzeit nicht möglich.</strong></p><p>Bitte:</p><ul><li>Zur nächsten Station weiterfahren: S1=Landwehr, S2=Berliner Tor, S3/S5=Hammerbrook</li><li>In die Gegenrichtung umsteigen und zurück zum Hauptbahnhof fahren (Einfahrt auf Gleis 1+2), dort funktioniert der Aufzug.</li></ul><p>Weitere Infos:&nbsp;www.hvv.de/aufzuege</p><p></p><p><strong>Barrier-free access to platform 3+4 is currently unavailable.</strong></p><p>Please:</p><ul><li>Continue to the next station: S1=Landwehr, S2=Berliner Tor, S3/S5=Hammerbrook</li><li>Switch directions and return to platform 1+2 at Hauptbahnhof (lift is in service).</li></ul><p>More info:&nbsp;www.hvv.de/en/lifts</p>",
-      "durationBegin": "08.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/7231872e-d4e7-4712-a9f0-b90ca2005c63",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.10.2025 11:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/17fdf6ae-c905-4c58-89e4-f1c778165af6",
-      "magnoliaPath": "/aktuell/nord/modified_service_other_cause"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
