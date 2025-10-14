@@ -184,28 +184,20 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "fd961dcc-1fef-4939-8bf0-53514040a9a8",
-      "disruptionId": "20fdc48e-3db6-4565-bfff-94b2fbb71afc",
+      "id": "852fca77-cbfa-46d5-80fc-debbed2ef472",
+      "disruptionId": "cea97436-3d0b-4754-850c-4e0ba3709ff5",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Endmeldung: S 4, S 6 Haar",
-      "summary": "Die Züge können wieder im Bereich Haar fahren.",
+      "headline": "Zwischenmeldung: S 2, S 4, S 6, S 8 Berg am Laim in Richtung Ebersberg",
+      "summary": "Die Züge können wieder im Bereich Berg am Laim in Richtung Ebersberg fahren.",
       "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Verspätungen von bis zu 15 Minuten und Teilausfällen.&nbsp;</p><p>Der Notarzteinsatz auf der Strecke wurde beendet.</p>",
       "durationBegin": "14.10.2025",
       "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/20fdc48e-3db6-4565-bfff-94b2fbb71afc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/a8cc7aa8-3f2c-46bb-9bab-a2680a994e4creisendenkarte_20251014-180204.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/a8cc7aa8-3f2c-46bb-9bab-a2680a994e4creisendenkarte_20251014-180204.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.10.2025 18:02:04",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/cea97436-3d0b-4754-850c-4e0ba3709ff5",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -215,6 +207,11 @@
         "BY"
       ],
       "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
         {
           "name": "S 4",
           "filterName": "S 4 München",
@@ -226,12 +223,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.10.2025 18:21",
+      "lastModified": "14.10.2025 18:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fd961dcc-1fef-4939-8bf0-53514040a9a8",
-      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency0"
+      "detailPagePath": "/service/fahrplaene/852fca77-cbfa-46d5-80fc-debbed2ef472",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency1"
     },
     {
       "id": "cc43275e-1b3e-43c2-b421-25bdf4a37e43",
@@ -1173,15 +1170,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 1 Unterschleißheim ↔ Oberschleißheim: Reparatur an einem Signal",
-      "summary": "Zwischen Unterschleißheim und Oberschleißheim kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "summary": "Zwischen Unterschleißheim und Oberschleißheim kommt es in Richtung Innenstadt zu Verspätungen von bis zu 20 Minuten.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
+      "durationEnd": "15.10.2025",
       "mapHref": "https://karte.bahn.de/detail/db81a4a9-b3a7-47a3-8e7d-76e906fe2d15",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/e0d65b4f-e550-460b-9819-f710f8907565reisendenkarte_20251014-173657.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/e0d65b4f-e550-460b-9819-f710f8907565reisendenkarte_20251014-173657.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/8d59da01-e400-44cc-8860-7172d27da45breisendenkarte_20251014-173657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/8d59da01-e400-44cc-8860-7172d27da45breisendenkarte_20251014-173657.png",
           "info": "",
           "alt": "Reisendenkarte 14.10.2025 17:36:57",
           "openInNewTab": true
@@ -1202,7 +1199,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.10.2025 18:07",
+      "lastModified": "14.10.2025 18:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
