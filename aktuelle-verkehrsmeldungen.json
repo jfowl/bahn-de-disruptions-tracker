@@ -146,53 +146,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "cc43275e-1b3e-43c2-b421-25bdf4a37e43",
-      "disruptionId": "51aec460-d241-463c-bc34-eb167c655848",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Die Strecke zwischen Muggensturm und Rastatt ist im Moment gesperrt.",
-      "summary": "Die Strecke zwischen Muggensturm und Rastatt ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Umleitungen möglich.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB41 - Karlsruhe &lt;&gt; Rastatt &lt;&gt; Forbach(Schwarzw) &lt;&gt; Freudenstadt &lt;&gt; (Schopfloch – Herrenberg)</li><li>RB44 - Karlsruhe &lt;&gt; Rastatt &lt;&gt; (Baden-Baden &lt;&gt; Achern)</li><li>RE40 - Karlsruhe &lt;&gt; Rastatt &lt;&gt; Forbach(Schwarzw) &lt;&gt; Baiersbronn &lt;&gt; Freudenstadt</li></ul><p>Wir haben einen Ersatzverkehr mit einem Bussen zwischen Rastatt und Karlsruhe Hbf für Sie eingerichtet.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/51aec460-d241-463c-bc34-eb167c655848",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 41",
-          "filterName": "RB 41",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 40",
-          "filterName": "RE 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.10.2025 19:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cc43275e-1b3e-43c2-b421-25bdf4a37e43",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -1199,6 +1152,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "f915e916-3658-4d7e-9982-6293cc74f26e",
+      "disruptionId": "34973926-2b0f-45d7-8219-acec7f5f84e2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Pasing ↔ Ostbahnhof: Reparatur an einem Signal",
+      "summary": "Zwischen Pasing und Ostbahnhof kommt es zu Verspätungen und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/34973926-2b0f-45d7-8219-acec7f5f84e2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/c7ee282b-5f38-4c92-a321-b61d03708d39reisendenkarte_20251014-203833.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/c7ee282b-5f38-4c92-a321-b61d03708d39reisendenkarte_20251014-203833.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.10.2025 20:38:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 20:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f915e916-3658-4d7e-9982-6293cc74f26e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "571ab613-cbc2-47de-b43b-d363c6ad48e2",
