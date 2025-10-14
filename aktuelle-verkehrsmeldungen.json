@@ -191,9 +191,9 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Zwischenmeldung: S 2, S 4, S 6, S 8 Berg am Laim in Richtung Ebersberg",
+      "headline": "Endmeldung: S 2, S 4, S 6, S 8 Berg am Laim in Richtung Ebersberg",
       "summary": "Die Züge können wieder im Bereich Berg am Laim in Richtung Ebersberg fahren.",
-      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Verspätungen von bis zu 15 Minuten und Teilausfällen.&nbsp;</p><p>Der Notarzteinsatz auf der Strecke wurde beendet.</p>",
+      "text": "<p>Es&nbsp;kommt&nbsp;zu&nbsp;keinen Beeinträchtigungen mehr.&nbsp;</p><p>Der Notarzteinsatz auf der Strecke wurde beendet.</p>",
       "durationBegin": "14.10.2025",
       "durationEnd": "14.10.2025",
       "mapHref": "https://karte.bahn.de/detail/cea97436-3d0b-4754-850c-4e0ba3709ff5",
@@ -223,7 +223,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.10.2025 19:01",
+      "lastModified": "14.10.2025 19:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -270,7 +270,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.10.2025 17:05",
+      "lastModified": "14.10.2025 19:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1162,6 +1162,48 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
     },
     {
+      "id": "9840143f-1033-4b8d-b25c-db6462be18e5",
+      "disruptionId": "d35367a5-584d-4d6a-ae40-1f881d9a9e5c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "⚠️ Verspätungen, Ausfälle und abweichende Wendungen auf den Linien S3 und S5",
+      "summary": "📢 Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 35.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 45.</p><p><strong>Linie 🔵 S5:</strong> <strong>Die stadtauswärts fahrenden S-Bahnen warten vor dem Hauptbahnhof ab und setzen ihre Fahrt nach geräumter Strecke fort.</strong></p><p>❌ Es kann kurzfristig zu vorzeitigen Wendungen und Ausfällen von einzelnen Fahrten kommen.</p><p><strong>🔊 Bitte achten Sie unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>ℹ️ Grund: technische Störung an einem Zug</strong></p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/d35367a5-584d-4d6a-ae40-1f881d9a9e5c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 19:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9840143f-1033-4b8d-b25c-db6462be18e5",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_vehicle"
+    },
+    {
       "id": "571ab613-cbc2-47de-b43b-d363c6ad48e2",
       "disruptionId": "db81a4a9-b3a7-47a3-8e7d-76e906fe2d15",
       "author": "S_BAHN_MUC",
@@ -1205,48 +1247,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/571ab613-cbc2-47de-b43b-d363c6ad48e2",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
-      "id": "9840143f-1033-4b8d-b25c-db6462be18e5",
-      "disruptionId": "d35367a5-584d-4d6a-ae40-1f881d9a9e5c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "⚠️ Verspätungen, Ausfälle und abweichende Wendungen auf den Linien S3 und S5",
-      "summary": "📢 Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 15.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 30.</p><p><strong>Linie 🔵 S5:</strong> <strong>S-Bahnen mit dem Start/Ziel Buxtehude fahren abweichend von und nach Barmbek.</strong></p><p>❌ Es kann kurzfristig zu vorzeitigen Wendungen und Ausfällen von einzelnen Fahrten kommen.</p><p><strong>🔊 Bitte achten Sie unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>ℹ️ Grund: technische Störung an einem Zug</strong></p>",
-      "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/d35367a5-584d-4d6a-ae40-1f881d9a9e5c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.10.2025 18:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9840143f-1033-4b8d-b25c-db6462be18e5",
-      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
