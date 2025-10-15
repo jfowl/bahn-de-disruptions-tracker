@@ -134,44 +134,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "f53206c0-73a8-432d-9e10-74b07cbcb03d",
-      "disruptionId": "39a8969a-1c87-419f-9f2f-dfbe4e58463e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S2: Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "S2: Aktuell kommt es auf der S2 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke ",
-      "text": "<p>Züge aus und in Richtung Innenstadt fahren nur bis Bergedorf, zwischen Bergedorf und Aumühle fahren Züge im Pendelbetrieb. Von und nach Aumühle ist somit ein Umstieg in Bergedorf notwendig.</p>",
-      "durationBegin": "15.10.2025",
-      "durationEnd": "15.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/39a8969a-1c87-419f-9f2f-dfbe4e58463e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.10.2025 12:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f53206c0-73a8-432d-9e10-74b07cbcb03d",
-      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -413,6 +375,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "f03c25fd-c0e1-4350-a75f-c6700435130b",
+      "disruptionId": "6b7d9c3d-aef6-4f72-844d-fc7f8ad1cb09",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 3 Mammendorf: Reparatur an einer Weiche",
+      "summary": "Die S-Bahnen zwischen Maisach und Mammendorf verkehren wieder regulär.",
+      "text": "<p>Es kommt jedoch noch zu Verspätungen bis zu 10 Minuten. Vereinzelt kann es auch zu Teilausfällen kommen.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche.</p>",
+      "durationBegin": "15.10.2025",
+      "durationEnd": "15.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/6b7d9c3d-aef6-4f72-844d-fc7f8ad1cb09",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-15/b42deaa7-9227-4bd1-8516-2554edc53096reisendenkarte_20251015-143743.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-15/b42deaa7-9227-4bd1-8516-2554edc53096reisendenkarte_20251015-143743.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.10.2025 14:37:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.10.2025 14:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f03c25fd-c0e1-4350-a75f-c6700435130b",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
