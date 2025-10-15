@@ -99,8 +99,8 @@
       "mapHref": "https://karte.bahn.de/detail/5f36c330-cfa4-427a-8af4-08ce891fcd99",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-15/b4b845a8-5fe8-4c21-a6f0-254fb8404e70reisendenkarte_20251015-151036.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-15/b4b845a8-5fe8-4c21-a6f0-254fb8404e70reisendenkarte_20251015-151036.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-15/1fe2bf90-e64d-4792-b93c-f9ca5c028ec3reisendenkarte_20251015-151036.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-15/1fe2bf90-e64d-4792-b93c-f9ca5c028ec3reisendenkarte_20251015-151036.png",
           "info": "",
           "alt": "Reisendenkarte 15.10.2025 15:10:36",
           "openInNewTab": true
@@ -109,8 +109,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://x.com/dbregio_SH",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter) ",
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
@@ -127,14 +133,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
+          "href": "https://x.com/dbregio_SH",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter) ",
           "info": "",
           "openInNewTab": true
         }
@@ -158,7 +158,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "15.10.2025 15:37",
+      "lastModified": "15.10.2025 16:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -503,51 +503,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "f03c25fd-c0e1-4350-a75f-c6700435130b",
-      "disruptionId": "6b7d9c3d-aef6-4f72-844d-fc7f8ad1cb09",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 3 Mammendorf: Reparatur an einer Weiche",
-      "summary": "Die S-Bahnen zwischen Maisach und Mammendorf verkehren wieder regulär.",
-      "text": "<p>Es kommt jedoch noch zu Verspätungen bis zu 10 Minuten. Vereinzelt kann es auch zu Teilausfällen kommen.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche.</p>",
-      "durationBegin": "15.10.2025",
-      "durationEnd": "15.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/6b7d9c3d-aef6-4f72-844d-fc7f8ad1cb09",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-15/bd6443d8-ffe4-4061-8d59-b17db29b3a74reisendenkarte_20251015-143743.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-15/bd6443d8-ffe4-4061-8d59-b17db29b3a74reisendenkarte_20251015-143743.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.10.2025 14:37:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.10.2025 15:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f03c25fd-c0e1-4350-a75f-c6700435130b",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
