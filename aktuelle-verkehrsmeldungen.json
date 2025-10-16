@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "89314284-1c06-4e33-8449-152b02f629db",
+      "disruptionId": "44bee240-20c2-40ba-a9de-3f6b364e8581",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung im Raum Würzburg",
+      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Würzburg und Fulda bzw. Würzburg und Aschaffenburg kommt es derzeit zu Verspätungen von bis zu 15 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung Hamburg / Bremen - Hannover - Kassel-Wilhelmshöhe - Würzburg - Nürnberg - München</li><li>ICE-/EC-Züge der Verbindung Ruhrgebiet - Frankfurt(M) - Würzburg - Nürnberg - München / Wien</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/44bee240-20c2-40ba-a9de-3f6b364e8581",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-16/deb645d3-d7c9-42b7-80ee-b686de5094abreisendenkarte_20251016-160505.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-16/deb645d3-d7c9-42b7-80ee-b686de5094abreisendenkarte_20251016-160505.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.10.2025 16:05:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.10.2025 16:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/89314284-1c06-4e33-8449-152b02f629db",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -252,6 +296,71 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "89ca6082-0340-4d5b-ac31-dd3b9149cbf5",
+      "disruptionId": "f0fc1945-6d90-443a-9e58-1f3a21a5bffb",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Leuchtenbergring: Reparatur an einer Weiche",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten, Umleitungen, Ausfällen und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einer Weiche.</p>",
+      "durationBegin": "16.10.2025",
+      "durationEnd": "16.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/f0fc1945-6d90-443a-9e58-1f3a21a5bffb",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-16/0dea4031-ad2d-4178-9a74-0f5bb78db451reisendenkarte_20251016-162724.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-16/0dea4031-ad2d-4178-9a74-0f5bb78db451reisendenkarte_20251016-162724.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.10.2025 16:27:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.10.2025 16:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/89ca6082-0340-4d5b-ac31-dd3b9149cbf5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
     },
     {
       "id": "19b8de9f-83ef-45ba-81cb-f7059adc6426",
