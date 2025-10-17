@@ -2,96 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "836e54c3-0c83-42e1-86a9-6173655ee28d",
-      "disruptionId": "85ab31c9-2009-4793-bb41-1e2bb03b8dd1",
-      "author": "REGIO_NORD",
+      "id": "863cf0e5-1941-4693-a4b7-5e1439ec09a2",
+      "disruptionId": "8e84d941-a4cc-4b2e-b802-6e96da53e6cb",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigung auf der Strecke zwischen Hamburg Hbf und Lübeck Hbf beendet",
-      "summary": "Die Reparatur an der Strecke zwischen Hamburg Hbf und Lübeck Hbf ist beendet. Es kann in der Folge noch zu geringen Verspätungen kommen. ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf):&nbsp;Geringe Verspätungen möglich</li><li>RE 8X (Lübeck Hbf – Hamburg Hbf): Geringe Verspätungen möglich</li><li>RE 80 ( Ahrensburg – Hamburg Hbf): Geringe Verspätungen möglich</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Geringe Verspätungen möglich</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Ulm",
+      "summary": "Aufgrund von Bauarbeiten zwischen Stuttgart Hbf und Stuttgart-Bad Cannstatt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>Diese Züge fallen zwischen Stuttgart und München aus:</p><ul><li>ICE-Züge Amsterdam / Norddeich Mole / Dortmund – Köln Messe/Deutz – Frankfurt Flughafen Fernbahnhof – Stuttgart – München</li><li>ICE-Züge Basel / Saarbrücken / Karlsruhe – Stuttgart – München</li></ul><p>Alle weiteren Züge verspäten sich zwischen Stuttgart und Ulm um wenige Minuten.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.10.2025",
-      "durationEnd": "17.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/85ab31c9-2009-4793-bb41-1e2bb03b8dd1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-17/8232747e-0b1e-4124-bcac-73657531c7careisendenkarte_20251017-065952.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-17/8232747e-0b1e-4124-bcac-73657531c7careisendenkarte_20251017-065952.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.10.2025 06:59:52",
-          "openInNewTab": true
-        }
-      ],
+      "durationEnd": "21.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/8e84d941-a4cc-4b2e-b802-6e96da53e6cb",
+      "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "  X DB Regio Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HH",
-        "SH"
+        "BW",
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 80",
-          "filterName": "RE 80",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8X",
-          "filterName": "RE 8X",
-          "property": "REGIONAL"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "17.10.2025 10:31",
+      "lastModified": "17.10.2025 12:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/836e54c3-0c83-42e1-86a9-6173655ee28d",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/863cf0e5-1941-4693-a4b7-5e1439ec09a2",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
