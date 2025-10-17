@@ -2,6 +2,100 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "836e54c3-0c83-42e1-86a9-6173655ee28d",
+      "disruptionId": "85ab31c9-2009-4793-bb41-1e2bb03b8dd1",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung auf der Strecke zwischen Hamburg Hbf und Lübeck Hbf",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Hamburg Hbf und Lübeck Hbf ist der Zugverkehr bis voraussichtlich 12:00 Uhr beeinträchtigt. Es kommt zu hohen Verspätungen und Zugausfällen sowie Zugteilausfällen. ",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf):&nbsp;Verspätung sowie Zugausfälle und Zugteilausfälle</li><li>RE 8X (Lübeck Hbf – Hamburg Hbf): Verspätung sowie Zugausfälle und Zugteilausfälle&nbsp;</li><li>RE 80 ( Ahrensburg – Hamburg Hbf): Verspätung sowie Zugausfälle und Zugteilausfälle</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Verspätung sowie Zugausfälle und Zugteilausfälle</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 30 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "17.10.2025",
+      "durationEnd": "17.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/85ab31c9-2009-4793-bb41-1e2bb03b8dd1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-17/72a2ef7d-a86a-4cb3-9b15-9fea64a1be56reisendenkarte_20251017-065952.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-10-17/72a2ef7d-a86a-4cb3-9b15-9fea64a1be56reisendenkarte_20251017-065952.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.10.2025 06:59:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "  X DB Regio Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.10.2025 07:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/836e54c3-0c83-42e1-86a9-6173655ee28d",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -252,6 +346,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "471a89c0-3318-4ce7-9a75-3331807042eb",
+      "disruptionId": "778723bf-c9eb-43fe-af4c-343d3870af10",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerkstörung in Stockach",
+      "summary": "Aufgrund einer Stellwerkstörung in Stockach kommt es auf dem Streckenabschnitt zwischen Radolfzell und Stockach derzeit zu Beeinträchtigungen im Zugverkehr. Über die Dauer der Störung liegen uns noch keine Informationen vor. Es verkehren weiterhin Züge mit Abfahrt in Stockach zur Minute 46 und in Radolfzell zur Minute 18. Es fahren Busse als Ersatz für die ausfallenden Züge in Radolfzell zur Minute 51 und in Stockach zur Minute 16. Bitte rechnen Sie mit Verspätungen und kurzfristigen Zugausfällen. Achten Sie bitte auf die Lautsprecherdurchsagen am Bahnsteig.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>S 61 (Radolfzell – Stockach) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.10.2025",
+      "durationEnd": "17.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/778723bf-c9eb-43fe-af4c-343d3870af10",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-17/0172fa52-cf37-4dcb-83a5-de571aac1757reisendenkarte_20251017-030353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-17/0172fa52-cf37-4dcb-83a5-de571aac1757reisendenkarte_20251017-030353.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.10.2025 03:03:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 61",
+          "filterName": "S 61",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.10.2025 07:11",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/471a89c0-3318-4ce7-9a75-3331807042eb",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section3"
     },
     {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
@@ -858,6 +997,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "2c93efca-3b5d-4289-a524-93ba40982343",
+      "disruptionId": "97246bd5-3e2b-4130-b897-1c6ffe6e098a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Altenerding : Reparatur an einem Signal",
+      "summary": "Im Bereich Altenerding  kommt es zu Kreuzungsverspätungen in beiden Richtungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "17.10.2025",
+      "durationEnd": "17.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/97246bd5-3e2b-4130-b897-1c6ffe6e098a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-17/72596139-e53a-447b-85df-b12a4a6dff02reisendenkarte_20251017-065736.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-17/72596139-e53a-447b-85df-b12a4a6dff02reisendenkarte_20251017-065736.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.10.2025 06:57:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.10.2025 07:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2c93efca-3b5d-4289-a524-93ba40982343",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
