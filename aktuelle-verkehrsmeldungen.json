@@ -325,51 +325,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "77e90b6d-cb6f-4f3d-a709-7d19813fd90d",
-      "disruptionId": "f681507c-d200-469c-8812-993fc4d1187c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "S5 Aying: Unbefugte Personen auf der Strecke ",
-      "summary": "Zwischen Höhenkirchen-Siegertsbrunn und Kreuzstraße sind bis auf weiteres keine Zugfahrten möglich. ❗",
-      "text": "<p>ℹ️ <strong>Wir haben einen Ersatzverkehr mit Großraumtaxis zwischen Höhenkirchen-Siegertsbrunn und Kreuzstraße für Sie eingerichtet. </strong>Bitte nutzen Sie nur die Taxis 🚕🚖(Großraumtaxis) mit speziell gekennzeichneter „Ersatzverkehr“- Beschilderung.</p><p>Grund für diese Beeinträchtigungen&nbsp;sind unbefugte Personen auf der Strecke in Aying.</p>",
-      "durationBegin": "18.10.2025",
-      "durationEnd": "18.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/f681507c-d200-469c-8812-993fc4d1187c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/486164bd-2a86-4ad9-b92a-143d5d93cf66reisendenkarte_20251018-221723.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/486164bd-2a86-4ad9-b92a-143d5d93cf66reisendenkarte_20251018-221723.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.10.2025 22:17:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.10.2025 22:31",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/77e90b6d-cb6f-4f3d-a709-7d19813fd90d",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
-    },
-    {
       "id": "9fcf09f0-1886-4c81-8b36-de6dc8b0178d",
       "disruptionId": "93bb332c-daf6-4717-9dfd-9d040b450e83",
       "author": "REGIO_BW",
@@ -615,6 +570,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "c2798036-821a-4f92-bcbc-1b0de28e2ed4",
+      "disruptionId": "45149432-4684-45d1-bb23-c2b2af73a10d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Umleitungen und Verspätungen zwischen Aschaffenburg Hbf und Frankfurt(Main)Hbf",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li><li>RE55: Frankfurt(Main)Hbf - Offenbach Hbf - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>19.10.2025 zwischen 6:00 Uhr und 18:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Umleitung der Züge zwischen Aschaffenburg Hbf und Frankfurt(Main)Hbf ohne Halt.</li><li>Es kann zu Verspätungen kommen. </li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "19.10.2025",
+      "durationEnd": "19.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/45149432-4684-45d1-bb23-c2b2af73a10d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE 54",
+          "filterName": "RE 54",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.10.2025 23:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c2798036-821a-4f92-bcbc-1b0de28e2ed4",
+      "magnoliaPath": "/aktuell/hessen/impairment_other_cause0"
     },
     {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
