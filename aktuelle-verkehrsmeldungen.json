@@ -348,56 +348,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "08b5991e-5c60-429f-8e0f-7a051ec745a2",
-      "disruptionId": "7c65daae-e6c8-483e-96ec-1b60cc04f589",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "Streckensperrung im Bereich Bahnhof Orschweier aufgehoben",
-      "summary": "Die Streckensperrung im Bereich Bahnhof Orschweier ist nach einer Reparatur an einem Zug aufgehoben. In der Folge kommt es noch zu Verspätungen, bis sich der Zugverkehr wieder stabilisiert hat.",
-      "text": "<p></p><p>Betroffene Linie(n):</p><p></p><p> * RB 26 (Offenburg – Freiburg (Breisgau)) </p><p> * RE 7 (Karlsruhe – Basel) </p><p></p><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "22.10.2025",
-      "durationEnd": "22.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/7c65daae-e6c8-483e-96ec-1b60cc04f589",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/48d941f4-b7ed-4dda-a3ca-cfa04b5b0937reisendenkarte_20251022-085301.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/48d941f4-b7ed-4dda-a3ca-cfa04b5b0937reisendenkarte_20251022-085301.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.10.2025 08:53:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 26",
-          "filterName": "RB 26",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.10.2025 09:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/08b5991e-5c60-429f-8e0f-7a051ec745a2",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_vehicle"
-    },
-    {
       "id": "f8a1e12e-9d3f-4ba0-b10e-581a569cf5dd",
       "disruptionId": "d97b2ca5-4e56-4930-b2ef-31279d832cdf",
       "author": "S_BAHN_RM",
@@ -623,6 +573,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "a7c06fa4-b886-44fc-a041-729393c10e6c",
+      "disruptionId": "ad2662b3-b0a3-4b0b-83ea-272f2cd7c282",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 22.10.2025 zwischen 13:00 Uhr und 20:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "22.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/ad2662b3-b0a3-4b0b-83ea-272f2cd7c282",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2025 09:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a7c06fa4-b886-44fc-a041-729393c10e6c",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
+    },
+    {
       "id": "e806e96e-db49-4bab-b52b-1bccc6a90737",
       "disruptionId": "4aef7b21-bf1f-4c17-bc45-b938c97ba475",
       "author": "S_BAHN_HH",
@@ -669,14 +656,14 @@
       },
       "headline": "Streckensperrung: Munderkingen - Riedlingen | Gleichzeitige Bauarbeiten in anderen Abschnitten",
       "summary": "Hangsicherung aufwändiger als geplant • Durchgehender Zugverkehr voraussichtlich ab 14. Dezember 2025 • Ein Ersatzverkehr mit Bussen ist eingerichtet ",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p></p><p>📅&nbsp;<strong>Ersatzkonzept 15.09. bis vsl. 13.12.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der Linie RE 55 und RS 3</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der Linie RE 55</li></ul><p>.</p><p>🚧 <strong>Gleichzeitige Bauarbeiten in anderen Abschnitten an folgenden Tagen</strong>:</p><ul><li>Von 24.10. (22:00 Uhr) bis 27.10. (04:45 Uhr): Bauarbeiten zwischen Schelklingen und Herrlingen. DB Regio pendelt zwischen Herrlingen <strong>⇄</strong> Ulm. Ersatzverkehr mit Bus Schelklingen <strong>⇄</strong> Herrlingen. Züge der SWEG fahren zwischen Schelklingen <strong>⇄</strong> Munderkingen.</li><li>Von 11.11. (03:00 Uhr) bis 18.11. (05:00 Uhr)<strong> </strong>Zugausfälle und Ersatzverkehr mit Bussen<strong> </strong>Riedlingen ⇄ Ehingen(Donau)</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅ Die Fahrpläne ab 10. November werden in Kürze aktualisiert.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p></p><p>📅&nbsp;<strong>Ersatzkonzept 15.09. bis vsl. 13.12.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der Linie RE 55 und RS 3</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der Linie RE 55</li></ul><p>.</p><p>🚧 <strong>Gleichzeitige Bauarbeiten in anderen Abschnitten an folgenden Tagen</strong>:</p><ul><li>Von 24.10. (22:00 Uhr) bis 27.10. (04:45 Uhr): Bauarbeiten zwischen Schelklingen und Herrlingen. DB Regio pendelt zwischen Herrlingen <strong>⇄</strong> Ulm. Ersatzverkehr mit Bus Schelklingen <strong>⇄</strong> Herrlingen. Züge der SWEG fahren zwischen Schelklingen <strong>⇄</strong> Munderkingen.</li><li>Am Abend des 10.11. (21:00 Uhr bis 01:00 Uhr) Zugausfälle und Ersatzverkehr mit Bussen Riedlingen ⇄ Ulm</li><li>Von 11.11. (03:00 Uhr) bis 18.11. (05:00 Uhr)<strong> </strong>Zugausfälle und Ersatzverkehr mit Bussen<strong> </strong>Riedlingen ⇄ Ehingen(Donau)</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅ Die Fahrpläne ab 10. November werden in Kürze aktualisiert.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "27.07.2025",
       "durationEnd": "13.12.2025",
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-17/5cddb631-717a-4924-8fd7-b8eb67997fe6reisendenkarte_20251016-232746.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-17/5cddb631-717a-4924-8fd7-b8eb67997fe6reisendenkarte_20251016-232746.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/26b918ea-8221-498f-9290-3e40fe37e29creisendenkarte_20251016-232746.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/26b918ea-8221-498f-9290-3e40fe37e29creisendenkarte_20251016-232746.png",
           "info": "",
           "alt": "Reisendenkarte 16.10.2025 23:27:46",
           "openInNewTab": true
@@ -684,7 +671,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-17/5c86fd04-9a7e-4352-8892-e6def93178bfBus%2BErsatz%2B06.10.-09.11.2025%2BStand%2B29.09..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/2b9302fb-7298-4808-9446-89ece263041dBus%2BErsatz%2B06.10.-09.11.2025%2BStand%2B29.09..pdf",
           "label": "🚌 Bus Ersatzfahrplan 06.10.-09.11.2025 Stand 29.09.",
           "info": "",
           "openInNewTab": true
@@ -692,8 +679,8 @@
       ],
       "links": [
         {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "href": "https://www.bahn.de/service/fahrplaene/f550f1d4-38c5-4d29-b804-b99372707974",
+          "label": "Zu Riedlingen ⇄ Ehingen(Donau) von 11.11. (3 Uhr)- 18.11. (5 Uhr) ",
           "info": "",
           "openInNewTab": true
         },
@@ -704,8 +691,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/fahrplaene/f550f1d4-38c5-4d29-b804-b99372707974",
-          "label": "Zu Riedlingen ⇄ Ehingen(Donau) von 11.11. (3 Uhr)- 18.11. (5 Uhr) ",
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/ed2c89ca-d145-4a67-a892-60f2b014c26a",
+          "label": "Zu Riedlingen ⇄ Ulm am Abend des 10.11. (21 Uhr - 5 Uhr)",
           "info": "",
           "openInNewTab": true
         }
@@ -723,7 +716,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.10.2025 16:40",
+      "lastModified": "22.10.2025 09:38",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
@@ -894,6 +887,61 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "29024547-add5-47f2-91bc-ec3b1644b57f",
+      "disruptionId": "0e66a67b-9bd1-4b00-a08e-178cf1bd3d1d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 2, S 4, S 6 Berg am Laim",
+      "summary": "Im Bereich Berg am Laim kommt es noch zu Folgeverspätungen von bis zu 15 Minuten, sowie Teilausfällen und vorzeitigen Wenden.",
+      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "22.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/0e66a67b-9bd1-4b00-a08e-178cf1bd3d1d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/474365a4-7842-4483-b845-149148981cf8reisendenkarte_20251022-093314.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/474365a4-7842-4483-b845-149148981cf8reisendenkarte_20251022-093314.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2025 09:33:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2025 09:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/29024547-add5-47f2-91bc-ec3b1644b57f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+    },
+    {
       "id": "92c8a423-1200-4e28-a753-698a5778f641",
       "disruptionId": "34c3d2e6-7a72-41a4-b72d-0ee65cd9a335",
       "author": "S_BAHN_MUC",
@@ -937,81 +985,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/92c8a423-1200-4e28-a753-698a5778f641",
       "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause0"
-    },
-    {
-      "id": "ba7000d6-ce6c-406e-9b9f-4221be31c3a0",
-      "disruptionId": "bc5b0d2d-e63d-41e5-a25b-7b7ab83a9539",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "Stammstrecke: Hohes Fahrgastaufkommen",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist ein hohes Fahrgastaufkommen.</p>",
-      "durationBegin": "22.10.2025",
-      "durationEnd": "22.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/bc5b0d2d-e63d-41e5-a25b-7b7ab83a9539",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/e4ace703-88ce-4895-92d6-e4ef3ddd1331reisendenkarte_20251022-085936.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/e4ace703-88ce-4895-92d6-e4ef3ddd1331reisendenkarte_20251022-085936.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.10.2025 08:59:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.10.2025 09:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ba7000d6-ce6c-406e-9b9f-4221be31c3a0",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
