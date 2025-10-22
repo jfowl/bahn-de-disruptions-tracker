@@ -2,6 +2,62 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "90ded843-cde2-4380-a5ad-63ece6cca54e",
+      "disruptionId": "abc54408-c034-4979-9505-fe950bdd10e3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Unwetterwarnung: Beeinträchtigungen im Fernverkehr in Nord- und Westdeutschland aufgrund des angekündigten Sturms möglich",
+      "summary": "Aufgrund der aktuellen Wetterwarnung des Deutsche Wetterdienstes kann es im Fernverkehr der Deutschen Bahn in Nord- und Westdeutschland zu Beeinträchtigungen im Zusammenhang mit orkanartigen Böen kommen.\n\nDerzeit liegen keine Einschränkungen aufgrund des Wetters vor.",
+      "text": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>﻿Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/abc54408-c034-4979-9505-fe950bdd10e3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-22/98cda055-089f-4789-a7c4-ebfbd19e4c95reisendenkarte_20251022-182817.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-22/98cda055-089f-4789-a7c4-ebfbd19e4c95reisendenkarte_20251022-182817.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2025 18:28:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Allgemeine Informationen zur Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NW",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.10.2025 18:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/90ded843-cde2-4380-a5ad-63ece6cca54e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/other_effect_weather_storm"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
