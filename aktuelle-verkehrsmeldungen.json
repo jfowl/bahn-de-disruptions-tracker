@@ -348,49 +348,41 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "e67a71c4-5b38-4f69-ba00-169e0ce64a2e",
-      "disruptionId": "0be87729-3f97-4a11-ab6c-67d6a917df85",
-      "author": "S_BAHN_MUC",
+      "id": "4bb1fee1-003f-4a97-b908-580528b65b91",
+      "disruptionId": "dc3fbbb5-3ba8-4fef-a78c-0bd0f625e610",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Endmeldung: S 2 Berg am Laim ↔ Erding",
-      "summary": "Die Züge können wieder zwischen Berg am Laim und Erding fahren.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 15 Minuten und Teilausfällen.</p><p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
+      "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport / Information for barrier-free  access to the Airport",
+      "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Ziel: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (Ziel: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (destination: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (destination: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p>",
       "durationBegin": "22.10.2025",
       "durationEnd": "22.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/0be87729-3f97-4a11-ab6c-67d6a917df85",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/44659245-faa7-4a48-aac0-de9195f4122areisendenkarte_20251022-101150.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/44659245-faa7-4a48-aac0-de9195f4122areisendenkarte_20251022-101150.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.10.2025 10:11:50",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/dc3fbbb5-3ba8-4fef-a78c-0bd0f625e610",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.10.2025 10:13",
-      "expand": true,
+      "lastModified": "22.10.2025 11:13",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e67a71c4-5b38-4f69-ba00-169e0ce64a2e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/4bb1fee1-003f-4a97-b908-580528b65b91",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_other"
     },
     {
       "id": "f8a1e12e-9d3f-4ba0-b10e-581a569cf5dd",
@@ -655,6 +647,50 @@
       "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
+      "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
+      "disruptionId": "bc589589-9035-433c-84ca-4dd1508531cc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2  Markt Schwaben ↔ Erding: Haltausfälle St. Koloman und Aufhausen",
+      "summary": "Die Züge der S2 halten ab Donnerstag, 30. Oktober 2025, 14 Uhr, nicht mehr in St. Koloman und Aufhausen , sondern durchfahren die Bahnhöfe in beiden Richtungen ohne Halt. ",
+      "text": "<p><strong>Für betroffene Fahrgäste der beiden Stationen verkehren ersatzweise Busse im 20-Minuten-Takt zwischen Markt Schwaben und Erding mit Halt an allen Stationen. Die Fahrzeiten der Ersatzbusse sind in der Online-Verbindungsauskunft enthalten. </strong></p><p>Der Grund ist, dass die Streckengeschwindigkeit reduziert werden muss, da bei einer Inspektion Schäden am Gleis festgestellt wurden. Diese sollen mit einer umfassenden Gleiserneuerung behoben werden, sodass die Strecke ab voraussichtlich Juni 2026 wieder mit regulärer Geschwindigkeit befahren werden kann. Um bis dahin einen stabilen Betrieb im gewohnten Takt auf der eingleisigen Strecke anbieten zu können, müssen die Halte in St. Koloman und Aufhausen leider entfallen. Die Fahrzeiten und das Fahrplanangebot auf allen übrigen Bahnhöfen der S2 bleiben unverändert.</p><p>Wir bedauern die Einschränkungen.</p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/bc589589-9035-433c-84ca-4dd1508531cc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/c171bf80-4575-4ab7-a42d-5828249d24ddreisendenkarte_20251022-012045.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/c171bf80-4575-4ab7-a42d-5828249d24ddreisendenkarte_20251022-012045.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2025 01:20:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2025 11:11",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/13bef8bd-7a9e-45bd-932e-d53e01433ac2",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
+    },
+    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -664,14 +700,14 @@
       },
       "headline": "Streckensperrung: Munderkingen - Riedlingen | Gleichzeitige Bauarbeiten in anderen Abschnitten",
       "summary": "Hangsicherung aufwändiger als geplant • Durchgehender Zugverkehr voraussichtlich ab 14. Dezember 2025 • Ein Ersatzverkehr mit Bussen ist eingerichtet ",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p></p><p>📅&nbsp;<strong>Ersatzkonzept 15.09. bis vsl. 13.12.:</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der Linie RE 55 und RS 3</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der Linie RE 55</li></ul><p>.</p><p>🚧 <strong>Gleichzeitige Bauarbeiten in anderen Abschnitten an folgenden Tagen</strong>:</p><ul><li>Von 24.10. (22:00 Uhr) bis 27.10. (04:45 Uhr): Bauarbeiten zwischen Schelklingen und Herrlingen. DB Regio pendelt zwischen Herrlingen <strong>⇄</strong> Ulm. Ersatzverkehr mit Bus Schelklingen <strong>⇄</strong> Herrlingen. Züge der SWEG fahren zwischen Schelklingen <strong>⇄</strong> Munderkingen.</li><li>Am Abend des 10.11. (21:00 Uhr bis 01:00 Uhr) Zugausfälle und Ersatzverkehr mit Bussen Riedlingen ⇄ Ulm</li><li>Von 11.11. (03:00 Uhr) bis 18.11. (05:00 Uhr)<strong> </strong>Zugausfälle und Ersatzverkehr mit Bussen<strong> </strong>Riedlingen ⇄ Ehingen(Donau)</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅ Die Fahrpläne ab 10. November werden in Kürze aktualisiert.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Ulm – Donaueschingen)</li></ul><p></p><p>📅&nbsp;<strong>Ersatzkonzept bis vsl. 13. Dezember (nicht vom 11. bis 18. November):</strong></p><ul><li>Zwischen Ulm Hbf und Munderkingen verkehren die Züge der Linie RE 55 und RS 3</li><li>Zwischen Munderkingen und Riedlingen besteht ein Ersatzverkehr mit Bussen</li><li>Zwischen Riedlingen - Herbertingen und Sigmaringen verkehren die Züge der Linie RE 55</li></ul><p>.</p><p>🚧 <strong>Gleichzeitige Bauarbeiten in anderen Abschnitten an folgenden Tagen</strong>:</p><ul><li>Von 24.10. (22:00 Uhr) bis 27.10. (04:45 Uhr): Bauarbeiten zwischen Schelklingen und Herrlingen. DB Regio pendelt zwischen Herrlingen <strong>⇄</strong> Ulm. Ersatzverkehr mit Bus Schelklingen <strong>⇄</strong> Herrlingen. Züge der SWEG fahren zwischen Schelklingen <strong>⇄</strong> Munderkingen.</li><li>Am Abend des 10.11. (21:00 Uhr bis 01:00 Uhr): Zugausfälle und Ersatzverkehr mit Bussen Riedlingen ⇄ Ulm</li><li>Von 11.11. (03:00 Uhr) bis 18.11. (05:00 Uhr):<strong> </strong>Zugausfälle und Ersatzverkehr mit Bussen<strong> </strong>Riedlingen ⇄ Ehingen(Donau)</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅ Die Fahrpläne ab 10. November werden in Kürze aktualisiert.</p><p>⚠️ Die Busse halten nicht in Rechtenstein, sondern an der Ersatzhaltestelle in Obermarchtal Sebastian-Sailer Straße. Bitte beachten Sie die geänderten Fahrzeiten der Busse. Die Fahrpläne zum Ersatzkonzept finden Sie im Anhang.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "27.07.2025",
       "durationEnd": "13.12.2025",
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/26b918ea-8221-498f-9290-3e40fe37e29creisendenkarte_20251016-232746.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/26b918ea-8221-498f-9290-3e40fe37e29creisendenkarte_20251016-232746.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/11e749db-c761-48fa-bb5d-dd34e3ad9debreisendenkarte_20251016-232746.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/11e749db-c761-48fa-bb5d-dd34e3ad9debreisendenkarte_20251016-232746.png",
           "info": "",
           "alt": "Reisendenkarte 16.10.2025 23:27:46",
           "openInNewTab": true
@@ -679,13 +715,19 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/2b9302fb-7298-4808-9446-89ece263041dBus%2BErsatz%2B06.10.-09.11.2025%2BStand%2B29.09..pdf",
-          "label": "🚌 Bus Ersatzfahrplan 06.10.-09.11.2025 Stand 29.09.",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-22/21026483-49e7-4c31-b76c-87bdc966ac76Bus%2BErsatz%2B06.10.-09.11.2025%2BStand%2B22.10..pdf",
+          "label": "🚌 Bus Ersatzfahrplan 06.10.-09.11.2025 Stand 22.10.",
           "info": "",
           "openInNewTab": true
         }
       ],
       "links": [
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/ed2c89ca-d145-4a67-a892-60f2b014c26a",
+          "label": "Zu Riedlingen ⇄ Ulm am Abend des 10.11. (21 Uhr - 5 Uhr)",
+          "info": "",
+          "openInNewTab": true
+        },
         {
           "href": "https://www.bahn.de/service/fahrplaene/f550f1d4-38c5-4d29-b804-b99372707974",
           "label": "Zu Riedlingen ⇄ Ehingen(Donau) von 11.11. (3 Uhr)- 18.11. (5 Uhr) ",
@@ -703,12 +745,6 @@
           "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
           "info": "",
           "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/fahrplaene/ed2c89ca-d145-4a67-a892-60f2b014c26a",
-          "label": "Zu Riedlingen ⇄ Ulm am Abend des 10.11. (21 Uhr - 5 Uhr)",
-          "info": "",
-          "openInNewTab": true
         }
       ],
       "properties": [
@@ -724,7 +760,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.10.2025 09:38",
+      "lastModified": "22.10.2025 11:20",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
@@ -893,6 +929,124 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "67620ff6-d0b6-4999-b308-7f9c3076f7fa",
+      "disruptionId": "2b244518-2766-441c-91d5-33efc7bfe726",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "unknown_cause",
+        "label": "Unbekannte Ursache"
+      },
+      "headline": "Stammstrecke: Haltezeitüberschreitung",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 15 Minuten, sowie vorzeitigen Wenden und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine längere Haltezeit am Bahnhof Marienplatz.</p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "22.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/2b244518-2766-441c-91d5-33efc7bfe726",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/e81c8161-f8bf-4f99-a71e-f24960b9df44reisendenkarte_20251022-110232.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-22/e81c8161-f8bf-4f99-a71e-f24960b9df44reisendenkarte_20251022-110232.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2025 11:02:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2025 11:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/67620ff6-d0b6-4999-b308-7f9c3076f7fa",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_unknown_cause"
+    },
+    {
+      "id": "12b25953-c52e-4de9-9f08-947bbe2887b8",
+      "disruptionId": "cd9011cc-3d1a-470d-972b-8f251cfd5522",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Gelsenkirchen und Münster (West)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Gelsenkirchen und Münster (Westf)  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen. Der Halt Recklinghausen Hbf entfällt. Die Züge erhalten ca. 15 Minuten Verspätung.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, RJ- und IC- Züge zwischen Hamburg/Ostfriesland - Ruhrgebiet - Frankfurt (Main) - Süddeutschland/Schweiz/Österreich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Züge des Regionalverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/cd9011cc-3d1a-470d-972b-8f251cfd5522",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-22/38639ce5-ce84-4a88-a944-248f41e7d932reisendenkarte_20251022-111849.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-22/38639ce5-ce84-4a88-a944-248f41e7d932reisendenkarte_20251022-111849.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.10.2025 11:18:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.10.2025 11:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/12b25953-c52e-4de9-9f08-947bbe2887b8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
