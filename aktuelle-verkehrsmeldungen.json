@@ -2,65 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "90ded843-cde2-4380-a5ad-63ece6cca54e",
-      "disruptionId": "abc54408-c034-4979-9505-fe950bdd10e3",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
-      },
-      "headline": "Unwetter: Beeinträchtigungen im Fernverkehr in Nord- und Süd-/Westdeutschland aufgrund des Sturms ",
-      "summary": "Aufgrund des aktuellen Unwetters kommt es im Fernverkehr der Deutschen Bahn in Nord- und Süd-/Westdeutschland zu Beeinträchtigungen im Zusammenhang mit orkanartigen Böen .\n\nDerzeit liegen einzelne kleine Einschränkungen aufgrund des Wetters vor. ",
-      "text": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Es kommt zu einzelnen Umleitungen, Haltausfällen und Ausfällen. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.10.2025",
-      "durationEnd": "24.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/abc54408-c034-4979-9505-fe950bdd10e3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-24/396954f5-b7ab-4112-965a-b0e45fd364e9reisendenkarte_20251023-164142.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-24/396954f5-b7ab-4112-965a-b0e45fd364e9reisendenkarte_20251023-164142.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.10.2025 16:41:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Allgemeine Informationen zur Ihren Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "BW",
-        "SL",
-        "NW",
-        "HB",
-        "NI",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.10.2025 06:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/90ded843-cde2-4380-a5ad-63ece6cca54e",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/other_effect_weather_storm"
-    },
-    {
       "id": "0d7886de-0904-4149-abbb-eac6f7edbc23",
       "disruptionId": "65c6a859-aa74-46a5-b411-7fbfacbb200e",
       "author": "FERNVERKEHR_AG",
@@ -105,6 +46,59 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0d7886de-0904-4149-abbb-eac6f7edbc23",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "90ded843-cde2-4380-a5ad-63ece6cca54e",
+      "disruptionId": "abc54408-c034-4979-9505-fe950bdd10e3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Unwetter: Beeinträchtigungen im Fernverkehr in Norddeutschland aufgrund des Sturms ",
+      "summary": "Aufgrund des aktuellen Unwetters kommt es im Fernverkehr der Deutschen Bahn in Norddeutschland zu Beeinträchtigungen im Zusammenhang mit orkanartigen Böen .\n\nDerzeit liegen einzelne kleinere Einschränkungen aufgrund des Wetters vor. ",
+      "text": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/abc54408-c034-4979-9505-fe950bdd10e3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-24/42315f73-45eb-4234-a9a3-d9ec5fe63495reisendenkarte_20251024-102958.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-24/42315f73-45eb-4234-a9a3-d9ec5fe63495reisendenkarte_20251024-102958.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.10.2025 10:29:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Allgemeine Informationen zur Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.10.2025 10:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/90ded843-cde2-4380-a5ad-63ece6cca54e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/other_effect_weather_storm"
     },
     {
       "id": "8338d323-792d-49d9-9740-dcd6259e9fd9",
@@ -1420,19 +1414,19 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
-      "id": "2184fd67-6101-4229-aa29-39915f564f8b",
-      "disruptionId": "b40dcd65-0605-4ae9-938e-a7db26cc51ab",
+      "id": "ca0fde17-2a6b-49bc-8462-a610521de12a",
+      "disruptionId": "ada475c2-b665-427d-ae60-72b91d9a8b07",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S7, S 8 Ursache",
-      "summary": "Im Gesamtnetz kommt es zu Verspätungen von 5 bis 10 Minuten",
-      "text": "<p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6,  S 8 Pasing ↔ Ostbahnhof: bereits abgeschlossene ärztliche Versorgung eines Fahrgastes.",
+      "summary": "Zwischen Pasing und Ostbahnhof in Richtung Ostbahnhof kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist bereits abgeschlossene  ärztliche Versorgung eines Fahrgastes.</p>",
       "durationBegin": "24.10.2025",
       "durationEnd": "24.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/b40dcd65-0605-4ae9-938e-a7db26cc51ab",
+      "mapHref": "https://karte.bahn.de/detail/ada475c2-b665-427d-ae60-72b91d9a8b07",
       "images": [],
       "downloads": [],
       "links": [],
@@ -1451,11 +1445,6 @@
         {
           "name": "S 2",
           "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
           "property": "SBAHN"
         },
         {
@@ -1479,67 +1468,17 @@
           "property": "SBAHN"
         },
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2025 09:27",
+      "lastModified": "24.10.2025 10:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2184fd67-6101-4229-aa29-39915f564f8b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_weather_storm"
-    },
-    {
-      "id": "7a068ced-4ef1-46e3-af80-184392b2bc28",
-      "disruptionId": "e44a1f7d-6901-49a1-a5fc-65470c6eb631",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 1 Moosach ↔ Feldmoching: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Moosach und Feldmoching kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "24.10.2025",
-      "durationEnd": "24.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/e44a1f7d-6901-49a1-a5fc-65470c6eb631",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/bbe0b403-20d2-4bfb-bd14-cd9439b4a08creisendenkarte_20251024-083734.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/bbe0b403-20d2-4bfb-bd14-cd9439b4a08creisendenkarte_20251024-083734.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.10.2025 08:37:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.10.2025 08:39",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7a068ced-4ef1-46e3-af80-184392b2bc28",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/ca0fde17-2a6b-49bc-8462-a610521de12a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
