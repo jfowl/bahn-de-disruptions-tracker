@@ -107,6 +107,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "c6add2d1-ab13-4b50-9af1-b707a5974545",
+      "disruptionId": "92e4b57a-04ed-4d38-a328-7ef0698a3a6a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Störung S3/S5",
+      "summary": "Auf den Linien S3 und S5 kommt es aktuell zu Verspätungen und Ausfällen. Die S3 fährt nur zwischen Pinneberg und Harburg Rathaus. Der Grund ist eine technische Störung an einem Zug.",
+      "text": "<p>  </p>",
+      "durationBegin": "24.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/92e4b57a-04ed-4d38-a328-7ef0698a3a6a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2025 06:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c6add2d1-ab13-4b50-9af1-b707a5974545",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
+    },
+    {
       "id": "8338d323-792d-49d9-9740-dcd6259e9fd9",
       "disruptionId": "c34fdffc-e1c5-404d-ba30-9265fe9180fb",
       "author": "REGIO_NORD",
@@ -1491,7 +1535,15 @@
       "durationBegin": "24.10.2025",
       "durationEnd": "24.10.2025",
       "mapHref": "https://karte.bahn.de/detail/a8c7060e-fe03-44b0-a579-6a994b066d36",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/e342191f-5eb6-4eee-9d97-52ae30e23b4creisendenkarte_20251024-063255.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/e342191f-5eb6-4eee-9d97-52ae30e23b4creisendenkarte_20251024-063255.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.10.2025 06:32:55",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -1512,7 +1564,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2025 06:21",
+      "lastModified": "24.10.2025 06:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
