@@ -720,51 +720,6 @@
       "magnoliaPath": "/aktuell/hessen/impairment_other_cause0"
     },
     {
-      "id": "e7814e73-5276-44b8-be5e-aa514a7177c5",
-      "disruptionId": "cab229d9-50d6-4fba-bce2-2b87c0afa53c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Augsburg und Nürnberg",
-      "summary": "Aufgrund von Bauarbeiten zwischen Nürnberg und Donauwörth ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE/IC/NJ-Züge zwischen Nürnberg und München (planmäßig über Augsburg und Donauwörth verkehrend) werden über Ingolstadt umgeleitet. Bei diesen entfallen die Halte Treuchtlingen, Donauwörth, Augsburg Hbf und München-Pasing.</li></ul><p>Gäste von/nach Treuchtlingen, Donauwörth, Augsburg Hbf und München-Pasing nutzen bitte die verbliebenen Züge bzw. Nahverkehrsverbindungen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.10.2025",
-      "durationEnd": "27.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/cab229d9-50d6-4fba-bce2-2b87c0afa53c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-21/759ef5df-2c9f-4db9-91c8-ba99142e5c17reisendenkarte_20251021-160930.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-21/759ef5df-2c9f-4db9-91c8-ba99142e5c17reisendenkarte_20251021-160930.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.10.2025 16:09:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.10.2025 16:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7814e73-5276-44b8-be5e-aa514a7177c5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
       "disruptionId": "4cea9d38-ee65-4557-9fe3-e4f8e93cd602",
       "author": "S_BAHN_RM",
@@ -1025,6 +980,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/13bef8bd-7a9e-45bd-932e-d53e01433ac2",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
+    },
+    {
+      "id": "62dc5ec6-a1a8-4fa6-b735-4a32fd5e4e50",
+      "disruptionId": "6fe719d5-5a59-48a2-a291-930ffc6b9fb8",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S1: Aktuell fährt keine S1 zwischen Altona und Klein Flottbek. Grund: Notarzteinsatz auf der Strecke. ",
+      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen.",
+      "text": "<p>...</p>",
+      "durationBegin": "25.10.2025",
+      "durationEnd": "25.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/6fe719d5-5a59-48a2-a291-930ffc6b9fb8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.10.2025 00:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/62dc5ec6-a1a8-4fa6-b735-4a32fd5e4e50",
+      "magnoliaPath": "/aktuell/nord/additional_service_police_activity"
     },
     {
       "id": "4099c952-2055-4edc-8b87-4e32c0715e20",
