@@ -678,6 +678,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "00261c28-51be-48f1-a43e-25ea03c73d8b",
+      "disruptionId": "00691057-1bb2-421b-a129-d4ac7b7c1571",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 3 Maisach ↔ Deisenhofen: Bauarbeiten",
+      "summary": "heute Nachmittag entfallen auf der Linie S 3 alle S-Bahnen des 10-Minuten-Takts.",
+      "text": "<p></p><p>Zusätzlich kann es zu Verspätungen von 5 bis 10 Minuten kommen.</p><p>Der Grund hierfür sind Bauarbeiten im Bereich Olching.</p>",
+      "durationBegin": "24.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/00691057-1bb2-421b-a129-d4ac7b7c1571",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2025 15:33",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/00261c28-51be-48f1-a43e-25ea03c73d8b",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction"
+    },
+    {
       "id": "6fc2a74c-1154-4b39-9c7e-9e6aa8f70320",
       "disruptionId": "d4e55c5d-b1c7-4b28-87f6-88a678409ab3",
       "author": "S_BAHN_RM",
@@ -904,6 +941,49 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "3b342baa-61fa-4ecc-b724-5b1e2192b679",
+      "disruptionId": "06414561-8186-445f-b199-b0caac212e54",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 4 - zwischen Ueckermünde Stadthafen und Pasewalk Hbf sowie zwischen Pasewalk Hbf und Stettin Hbf",
+      "summary": "Mittwoch, 29.10.2025 03:30 Uhr bis vsl. Sonntag, 02.11.2025 22:00 Uhr ",
+      "text": "<p>Betroffene Linie: <strong>RE4</strong></p><p>Wegen Personalausfall beim Infrastrukturbetreiber kommt es vom 29. Oktober 2025 bis 02. November 2025 zu Zugausfällen zwischen Ueckermünde Stadthafen und Pasewalk Hbf sowie zwischen Pasewalk Hbf und Stettin Hbf.</p><p>Zeitraum der Zugausfälle:</p><p><strong>29.10.2025 </strong> <strong>von 04:00 Uhr – 06:00 Uhr</strong></p><p><strong>29.10. – 02.11.2025 </strong>\t<strong>von jeweils 16:00 Uhr – 06:00 Uhr</strong></p><p><strong>02.11. 2025 </strong> <strong>von 16:00 Uhr – 22:00 Uhr</strong></p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächliche Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "29.10.2025",
+      "durationEnd": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/06414561-8186-445f-b199-b0caac212e54",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.10.2025 15:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3b342baa-61fa-4ecc-b724-5b1e2192b679",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_other_cause"
     },
     {
       "id": "4447a9f8-15b7-4d8a-a56d-10f85e5bd451",
@@ -1462,6 +1542,83 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "f23d1959-7b21-4b25-a6b2-3ae96253b7c5",
+      "disruptionId": "1c3f72c0-d726-4654-b314-023167993b7c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Gesamtnetz: Witterungsbedingte Beeinträchtigungen",
+      "summary": "Im Gesamtnetz kommt es zu Verspätungen von 10 bis 15 Minuten und zu kurzfristigen Teilausfällen .",
+      "text": "<p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
+      "durationBegin": "24.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/1c3f72c0-d726-4654-b314-023167993b7c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2025 15:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f23d1959-7b21-4b25-a6b2-3ae96253b7c5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_weather_storm0"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
