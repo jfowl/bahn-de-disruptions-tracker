@@ -263,8 +263,8 @@
         "label": "Unfall an einem Bahnübergang"
       },
       "headline": "Verkehrsmeldung für die Linie(n) RE 4 - Linda (Elster)",
-      "summary": " Donnerstag, 23.10.2025 11:29 Uhr bis vsl. Freitag, 24.10.2025 14:00 Uhr ",
-      "text": "<p>Aufgrund eines Unfalls kommt es am Donnerstag, 23.10.2025 11:29 Uhr bis vsl. Freitag, 24.10.2025 14:00 Uhr zu Fahrtausfällen im Raum Linda (Elster).</p><p>Betroffene Linien: RE 4</p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet. Der Halt Linda ist aktuell nicht anfahrbar.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "summary": " Donnerstag, 23.10.2025 11:29 Uhr bis vsl. Freitag, 24.10.2025 18:00 Uhr ",
+      "text": "<p>Aufgrund eines Unfalls kommt es am Donnerstag, 23.10.2025 11:29 Uhr bis vsl. Freitag, 24.10.2025 18:00 Uhr zu Fahrtausfällen im Raum Linda (Elster).</p><p>Betroffene Linien: RE 4</p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet. Der Halt Linda ist aktuell nicht anfahrbar.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "23.10.2025",
       "durationEnd": "24.10.2025",
       "mapHref": "https://karte.bahn.de/detail/03f22f78-20d0-492f-ba25-e9d231a49933",
@@ -298,7 +298,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.10.2025 12:25",
+      "lastModified": "24.10.2025 11:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1414,6 +1414,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "374cf392-cd10-44cc-9f8a-6b706deac8d2",
+      "disruptionId": "4d89067e-d57b-4eec-ad91-b9e257404605",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 5 Hohenbrunn: Reparatur an einem Signal",
+      "summary": "Im Bereich Hohenbrunn in beide Richtungen kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen .",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "24.10.2025",
+      "durationEnd": "24.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/4d89067e-d57b-4eec-ad91-b9e257404605",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/336062ed-7f10-44cf-ba8d-1ed0d62ec636reisendenkarte_20251024-111859.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/336062ed-7f10-44cf-ba8d-1ed0d62ec636reisendenkarte_20251024-111859.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.10.2025 11:18:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2025 11:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/374cf392-cd10-44cc-9f8a-6b706deac8d2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+    },
+    {
       "id": "ca0fde17-2a6b-49bc-8462-a610521de12a",
       "disruptionId": "ada475c2-b665-427d-ae60-72b91d9a8b07",
       "author": "S_BAHN_MUC",
@@ -1422,7 +1467,7 @@
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
       "headline": "S 1, S 2, S 3, S 4, S 5, S 6,  S 8 Pasing ↔ Ostbahnhof: bereits abgeschlossene ärztliche Versorgung eines Fahrgastes.",
-      "summary": "Zwischen Pasing und Ostbahnhof in Richtung Ostbahnhof kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "summary": "Zwischen Pasing und Ostbahnhof  kommt es zu Verspätungen von 5 bis 10 Minuten.",
       "text": "<p>Der Grund hierfür ist bereits abgeschlossene  ärztliche Versorgung eines Fahrgastes.</p>",
       "durationBegin": "24.10.2025",
       "durationEnd": "24.10.2025",
@@ -1473,7 +1518,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2025 10:16",
+      "lastModified": "24.10.2025 11:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
