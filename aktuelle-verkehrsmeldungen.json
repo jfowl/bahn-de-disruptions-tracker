@@ -693,8 +693,8 @@
       "mapHref": "https://karte.bahn.de/detail/76c22abe-1e90-470c-842d-679173da9461",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/0eaa94f3-cc8c-4f9f-b96e-33e7935eb013reisendenkarte_20251024-155836.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/0eaa94f3-cc8c-4f9f-b96e-33e7935eb013reisendenkarte_20251024-155836.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/48780918-ee1b-4075-be21-e8e4406bdbc8reisendenkarte_20251024-155836.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-24/48780918-ee1b-4075-be21-e8e4406bdbc8reisendenkarte_20251024-155836.png",
           "info": "",
           "alt": "Reisendenkarte 24.10.2025 15:58:36",
           "openInNewTab": true
@@ -710,12 +710,32 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2025 16:19",
+      "lastModified": "24.10.2025 16:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1587,83 +1607,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
-    },
-    {
-      "id": "f23d1959-7b21-4b25-a6b2-3ae96253b7c5",
-      "disruptionId": "1c3f72c0-d726-4654-b314-023167993b7c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Gesamtnetz: Witterungsbedingte Beeinträchtigungen",
-      "summary": "Im Gesamtnetz kommt es zu Verspätungen von 10 bis 15 Minuten und zu kurzfristigen Teilausfällen .",
-      "text": "<p>Der Grund hierfür sind witterungsbedingte Beeinträchtigungen.</p>",
-      "durationBegin": "24.10.2025",
-      "durationEnd": "24.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/1c3f72c0-d726-4654-b314-023167993b7c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.10.2025 15:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f23d1959-7b21-4b25-a6b2-3ae96253b7c5",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_weather_storm0"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
