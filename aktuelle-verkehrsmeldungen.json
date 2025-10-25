@@ -920,10 +920,10 @@
         "label": "Bauarbeiten"
       },
       "headline": "Der Bahnhof Lohnweiler ist im Moment beeinträchtigt.",
-      "summary": "Der Bahnhof Lohnweiler ist beeinträchtigt.  Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund sind Bauarbeiten am Bahnsteig. Der Halt Lohnweiler entfällt.",
+      "summary": "Der Bahnhof Lohnweiler ist beeinträchtigt.  Dauer der Beeinträchtigung bis vsl. 07.11.2025 Der Grund sind Bauarbeiten am Bahnsteig. Der Halt Lohnweiler entfällt.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB66 - Kaiserslautern – Wolfstein – Lauterecken-Grumbach </li></ul><p><strong>Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</strong></p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können und die Mitnahme von Fahrrädern aus Kapazitätsgründen leider nicht möglich ist</p><p></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "25.10.2025",
-      "durationEnd": "25.10.2025",
+      "durationEnd": "07.11.2025",
       "mapHref": "https://karte.bahn.de/detail/e4790521-061c-4f10-bca3-2bca785c61b0",
       "images": [],
       "downloads": [],
@@ -941,10 +941,9 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "25.10.2025 10:56",
+      "lastModified": "25.10.2025 12:22",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c7ad3dd2-b8b2-4d50-b1f9-294fc8ed44ff",
       "magnoliaPath": "/aktuell/mitte/stop_moved_construction"
     },
@@ -1508,6 +1507,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "8482c209-2b1b-490a-98e7-1f7927fcc8dc",
+      "disruptionId": "3affcc58-7e80-4b97-8a1b-221e2ba042e5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "25.10.2025",
+      "durationEnd": "25.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/3affcc58-7e80-4b97-8a1b-221e2ba042e5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-25/65bd1d6d-3c14-4893-bf90-f2d483358aa1reisendenkarte_20251025-115503.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-25/65bd1d6d-3c14-4893-bf90-f2d483358aa1reisendenkarte_20251025-115503.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.10.2025 11:55:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.10.2025 11:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8482c209-2b1b-490a-98e7-1f7927fcc8dc",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
