@@ -624,6 +624,68 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "72b43873-1bad-4b49-9eb1-9b780a04549c",
+      "disruptionId": "180686b5-c370-407d-b88b-6231c2ae3310",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle zwischen Bad Mergentheim und Crailsheim",
+      "summary": "Am Montag, den 27. Oktober und Dienstag, den 28. Oktober, kommt es auf der Strecke zwischen Bad Mergentheim und Crailsheim in der Zeit von vsl. 05:00 und 06:00 Uhr, sowie zwischen 16:00 und 23:00 Uhr, zu einzelnen Zugausfällen. Der Grund dafür ist ein kurzfristiger Personalausfall im Stellwerk Niederstetten. Ein Ersatzverkehr mit Bussen ist eingerichtet. Den Fahrplan der Busse finden Sie im Anhang.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.10.2025",
+      "durationEnd": "28.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/180686b5-c370-407d-b88b-6231c2ae3310",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-25/5445cf81-54b2-46ec-8da9-1614346bcb26reisendenkarte_20251024-165651.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-25/5445cf81-54b2-46ec-8da9-1614346bcb26reisendenkarte_20251024-165651.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.10.2025 16:56:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-25/adc5632c-3bd0-45a2-9623-f5057cbec5b327%252B28.10.25%2BTNI%2BTagdienst.pdf",
+          "label": "27+28.10.25 TNI Tagdienst.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 87",
+          "filterName": "RB 87",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 88",
+          "filterName": "RB 88",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 87",
+          "filterName": "RE 87",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.10.2025 09:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/72b43873-1bad-4b49-9eb1-9b780a04549c",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_other_cause"
+    },
+    {
       "id": "6fc2a74c-1154-4b39-9c7e-9e6aa8f70320",
       "disruptionId": "d4e55c5d-b1c7-4b28-87f6-88a678409ab3",
       "author": "S_BAHN_RM",
@@ -1409,51 +1471,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6f1c4421-3ffd-4df9-908d-3e72518c3c6b",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
-      "id": "001bd1e2-9b5c-47c2-9832-d82d39b63a5d",
-      "disruptionId": "2e2f5667-cc2c-446c-bc70-84358acc55b6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Endmeldung: S 5 Aying",
-      "summary": "Im Bereich Aying kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "25.10.2025",
-      "durationEnd": "25.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/2e2f5667-cc2c-446c-bc70-84358acc55b6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-25/51534c61-f0d2-411a-a0bc-032d72047a32reisendenkarte_20251025-080133.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-25/51534c61-f0d2-411a-a0bc-032d72047a32reisendenkarte_20251025-080133.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.10.2025 08:01:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.10.2025 08:08",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/001bd1e2-9b5c-47c2-9832-d82d39b63a5d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle1"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
