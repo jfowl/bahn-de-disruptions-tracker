@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "4f31ff6b-f78e-47c1-9821-a90ba30bb5ea",
-      "disruptionId": "4793416c-9efe-4bbf-9f1e-236bb23886b2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Oldenburg und Leer",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in  Kayhauserfeld  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Augustfehn, Westerstede-Ocholt, Bad Zwischenahn, Oldenburg, Hude, Delmenhorst, Bremen, Verden und Nienburg und Verspätungen von 40 Min.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge zwischen Norddeich Mole und Hannover.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis zum Nachmittag erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/4793416c-9efe-4bbf-9f1e-236bb23886b2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-26/05d23922-2adc-4710-b902-a7caad28fe42reisendenkarte_20251026-095127.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-26/05d23922-2adc-4710-b902-a7caad28fe42reisendenkarte_20251026-095127.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.10.2025 09:51:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "26.10.2025 09:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/4f31ff6b-f78e-47c1-9821-a90ba30bb5ea",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "c4aaeef3-8565-4f30-ae96-dd4f9dc24cd9",
       "disruptionId": "1dbf7f16-abb5-4667-881f-46c4e18753e4",
       "author": "REGIO_NORD",
@@ -1591,6 +1547,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1f86ed37-aedc-451e-929c-07991e31c9f8",
       "magnoliaPath": "/aktuell/suedostbayernbahn/significant_delays_construction"
+    },
+    {
+      "id": "8706a2dd-2fb7-4d91-b114-ef2c722a1e92",
+      "disruptionId": "d67df947-f2b9-4b67-8e64-607a05a7caf6",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Information für Fahrgäste der Linie S1",
+      "summary": "Aktuell kommt es auf der Linie S1 zu Verspätungen und Umleitungen einzelner Verbindungen. Bitte achten Sie auf die Anzeigen und Ansagen an den Zügen. Grund: umgestürzter Baum auf der Strecke",
+      "text": "<p>Die S-Bahnen der Linie S2, die wegen der Bauarbeiten abweichend als S1 fahren, fahren aktuell nur zwischen Altona und Hauptbahnhof.</p>",
+      "durationBegin": "26.10.2025",
+      "durationEnd": "26.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/d67df947-f2b9-4b67-8e64-607a05a7caf6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.10.2025 14:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8706a2dd-2fb7-4d91-b114-ef2c722a1e92",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
