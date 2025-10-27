@@ -350,25 +350,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "76d04aa6-b5e0-4711-9df8-5a795abf35e7",
-      "disruptionId": "4721acac-21c8-49bd-8b1c-488aa0e8db73",
+      "id": "43452eac-7206-428c-896f-936470c5da0e",
+      "disruptionId": "fe1e3356-565f-4a1b-9d94-2834c03e7aee",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
       },
-      "headline": "S 8 Herrsching: Ärztliche Versorgung eines Fahrgastes beendet",
+      "headline": "Stammstrecke / Gesamtnetz: Vorangegangene technische Störung an einem Fahrzeug",
       "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes in Seefeld-Hechendorf.</p>",
+      "text": "<p>Der Grund dafür ist eine vorangegangene technische Störung an einem Fahrzeug.</p>",
       "durationBegin": "27.10.2025",
       "durationEnd": "27.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/4721acac-21c8-49bd-8b1c-488aa0e8db73",
+      "mapHref": "https://karte.bahn.de/detail/fe1e3356-565f-4a1b-9d94-2834c03e7aee",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-27/ee5ed4b4-48d6-4b4e-a4d0-a9334610d291reisendenkarte_20251027-144732.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-27/ee5ed4b4-48d6-4b4e-a4d0-a9334610d291reisendenkarte_20251027-144732.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-27/7d4ff4ce-661b-42fd-9cd3-347492cdcadcreisendenkarte_20251027-171301.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-27/7d4ff4ce-661b-42fd-9cd3-347492cdcadcreisendenkarte_20251027-171301.png",
           "info": "",
-          "alt": "Reisendenkarte 27.10.2025 14:47:32",
+          "alt": "Reisendenkarte 27.10.2025 17:13:01",
           "openInNewTab": true
         }
       ],
@@ -382,17 +382,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.10.2025 16:01",
+      "lastModified": "27.10.2025 17:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/76d04aa6-b5e0-4711-9df8-5a795abf35e7",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/43452eac-7206-428c-896f-936470c5da0e",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
     },
     {
       "id": "daab86f0-b0b1-4585-98e6-a02570a94e3b",
