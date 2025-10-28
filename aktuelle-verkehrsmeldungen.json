@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "bf5a6b3d-0449-447d-bf98-b04416dd8418",
+      "disruptionId": "1588925f-6b18-4951-b4d9-feeb582cba6b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Westerland(Sylt) und Hamburg",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Westerland(Sylt) und Hamburg kommt es derzeit zu Zugausfällen im Fernverkehr der Deutschen Bahn",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge der Verbindung Westerland(Sylt) - Hamburg - Frankfurt(M) - Süddeutschland</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende zwischen Westerland(Sylt) und Hamburg nutzen bitte die Ersatzverbindungen des Nahverkehrs .</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/1588925f-6b18-4951-b4d9-feeb582cba6b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-28/6f521044-99b6-40f5-879b-5604ed9d2707reisendenkarte_20251028-143640.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-28/6f521044-99b6-40f5-879b-5604ed9d2707reisendenkarte_20251028-143640.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.10.2025 14:36:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.10.2025 14:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/bf5a6b3d-0449-447d-bf98-b04416dd8418",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -252,6 +297,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "b8a77c04-aaef-486a-9a03-851b788986a8",
+      "disruptionId": "ed4cbc94-2196-48fd-b2d6-65cf4bf4bb20",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: Fünf-Minuten-Takt aktuell nur zw. Poppenbüttel und Othmarschen",
+      "summary": "S1: Aktuell fährt die S1 nur zwischen Poppenbüttel und Othmarschen alle fünf Minuten. Grund: Technische Störung an der Strecke.",
+      "text": "<p> </p>",
+      "durationBegin": "28.10.2025",
+      "durationEnd": "28.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/ed4cbc94-2196-48fd-b2d6-65cf4bf4bb20",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2025 14:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b8a77c04-aaef-486a-9a03-851b788986a8",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
     },
     {
       "id": "ae6783b8-33b0-481b-93ef-8d80d3c966de",
