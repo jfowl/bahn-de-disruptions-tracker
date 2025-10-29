@@ -88,44 +88,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_police_activity"
     },
     {
-      "id": "f4ad7c94-0dd0-45c4-a4e7-8cad4b68a7b4",
-      "disruptionId": "27551d16-fa2f-448e-a7c9-695c03321f7a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Fünf-Minuten-Takt aktuell nur zw. Poppenbüttel und Othmarschen",
-      "summary": "S1: Aktuell fährt die S1 nur zwischen Poppenbüttel und Othmarschen alle fünf Minuten. Grund: Technische Störung an der Strecke.",
-      "text": "<p>   </p>",
-      "durationBegin": "29.10.2025",
-      "durationEnd": "29.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/27551d16-fa2f-448e-a7c9-695c03321f7a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.10.2025 06:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f4ad7c94-0dd0-45c4-a4e7-8cad4b68a7b4",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -1215,6 +1177,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "ac6992b4-b0af-46c3-aa84-2c64724f8597",
+      "disruptionId": "2358f2e9-b005-4e8d-8b62-6d155f5d6506",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerkstörung in Gingen (Fils)",
+      "summary": "Wegen einem defekten Stellwerk in Gingen Fils ist die Strecke zwischen Süßen und Geislingen Steige gesperrt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Die Züge aus Richtung Friedrichshafen Stadt enden in Ulm Hbf, die Züge aus Richtung Stuttgart enden in Göppingen. Reisende von Ulm Hbf nach Stuttgart Hbf benutzen bitte den RE 200 bis Wendlingen und weiter mit MEX 12 nach Stuttgart Hbf. Reisende von Stuttgart Hbf nach Ulm Hbf, fahren bitte mit MEX 12 bis  Wendlingen (Neckar) dann weiter mit RE 200 nach Ulm Hbf. Bitte achten Sie auf die Lautsprecherdurchsagen am Bahnsteig.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "29.10.2025",
+      "durationEnd": "29.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/2358f2e9-b005-4e8d-8b62-6d155f5d6506",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/c354bc9b-035a-495f-a0fe-88fccf1db8ccreisendenkarte_20251029-071239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/c354bc9b-035a-495f-a0fe-88fccf1db8ccreisendenkarte_20251029-071239.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.10.2025 07:12:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.10.2025 09:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ac6992b4-b0af-46c3-aa84-2c64724f8597",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "7fa54489-e009-4774-af52-02dcd177f447",
       "disruptionId": "5c630d2c-9c7b-4b0d-8020-b4cefa525119",
       "author": "S_BAHN_MUC",
@@ -1298,51 +1305,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7fa54489-e009-4774-af52-02dcd177f447",
       "magnoliaPath": "/aktuell/bayern/significant_delays_weather_storm"
-    },
-    {
-      "id": "ac6992b4-b0af-46c3-aa84-2c64724f8597",
-      "disruptionId": "2358f2e9-b005-4e8d-8b62-6d155f5d6506",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerkstörung in Gingen (Fils)",
-      "summary": "Wegen einem defekten Stellwerk in Gingen Fils ist die Strecke zwischen Süßen und Geislingen Steige gesperrt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Die Züge aus Richtung Friedrichshafen Stadt enden in Amstetten (Württ), die Züge aus Richtung Stuttgart enden in Göppingen. Achten Sie auf die Lautsprecherdurchsagen am Bahnsteig.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "29.10.2025",
-      "durationEnd": "29.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/2358f2e9-b005-4e8d-8b62-6d155f5d6506",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/5f5ecbd7-7447-4f3d-9a9a-e503764e7641reisendenkarte_20251029-071239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/5f5ecbd7-7447-4f3d-9a9a-e503764e7641reisendenkarte_20251029-071239.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.10.2025 07:12:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.10.2025 08:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ac6992b4-b0af-46c3-aa84-2c64724f8597",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
