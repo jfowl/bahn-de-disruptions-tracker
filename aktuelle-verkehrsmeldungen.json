@@ -312,16 +312,16 @@
         "category": "police_activity",
         "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Entschärfung einer Weltkriegsbombe in Osnabrück ",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 09.11.2025, ab etwa 07:00 Uhr kommt es in Osnabrück zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch.",
+      "headline": "Kampfmittelsondierung in Osnabrück am 09.11.2025",
+      "summary": "Aufgrund einer Kampfmittelsondierung wird es am 09.11.2025 ab etwa 07:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn kommen. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch.",
       "text": "<p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "09.11.2025",
       "durationEnd": "09.11.2025",
       "mapHref": "https://karte.bahn.de/detail/0ca162b5-97c1-479f-9e63-39253947237a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/d490c66d-a160-4cfa-8bb0-aa82837e1d96reisendenkarte_20251029-083753.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/d490c66d-a160-4cfa-8bb0-aa82837e1d96reisendenkarte_20251029-083753.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/07fd8b96-0e23-4ed0-bf95-d7b871af146freisendenkarte_20251029-083753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/07fd8b96-0e23-4ed0-bf95-d7b871af146freisendenkarte_20251029-083753.png",
           "info": "",
           "alt": "Reisendenkarte 29.10.2025 08:37:53",
           "openInNewTab": true
@@ -342,7 +342,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.10.2025 08:40",
+      "lastModified": "29.10.2025 11:33",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/19f452fb-a70b-47ec-8316-12fade399f72",
@@ -440,6 +440,56 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "cd4aba17-a33b-493c-ad91-e981af257fbb",
+      "disruptionId": "6d4ee1df-e2eb-4a4b-9446-de3a1774a36c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 6 Trudering - Ebersberg : Unbefugte Personen auf der Strecke",
+      "summary": "auf der Linie S 6 kommt es zu Verspätungen von bis zu 20 Minuten. Vereinzelt kommt es auch zu vorzeitigen Zugwenden.\n\nDie S-Bahnen können sowohl im Bereich Grafing, als auch zwischen Haar und Trudering nur mit verminderter Geschwindigkeit befahren.",
+      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "29.10.2025",
+      "durationEnd": "29.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/6d4ee1df-e2eb-4a4b-9446-de3a1774a36c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/ac658862-a327-4b87-b819-766bb4cf03b8reisendenkarte_20251029-114614.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/ac658862-a327-4b87-b819-766bb4cf03b8reisendenkarte_20251029-114614.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.10.2025 11:46:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.10.2025 11:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cd4aba17-a33b-493c-ad91-e981af257fbb",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "80498afb-796b-439e-9445-cf6e63a34e02",
       "disruptionId": "c7610217-d88b-4dde-947e-cff48808dbd4",
       "author": "S_BAHN_MUC",
@@ -483,51 +533,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/80498afb-796b-439e-9445-cf6e63a34e02",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle0"
-    },
-    {
-      "id": "478f79ae-e238-4228-b5a3-ddf949e5e3d4",
-      "disruptionId": "628eda3e-e2a1-40ac-b9cf-861736c0284b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "S3 Holzkirchen - Deisenhofen: Unbefugte Person auf der Strecke",
-      "summary": "Es kommt auf der S3 aktuell zu Verspätungen von bis zu 10 Minuten. Vereinzelt kommt es zu vorzeitigen Zugwenden.",
-      "text": "<p>Die S-Bahnen können den Streckenabschnitt zw. Holzkirchen und Deisenhofen nur mit verminderter Geschwindigkeit befahren.</p><p>Grund ist eine unbefugte Person auf der Strecke.</p>",
-      "durationBegin": "29.10.2025",
-      "durationEnd": "29.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/628eda3e-e2a1-40ac-b9cf-861736c0284b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/35c152f0-482b-4ebe-9f18-4847f783be96reisendenkarte_20251029-104602.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/35c152f0-482b-4ebe-9f18-4847f783be96reisendenkarte_20251029-104602.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.10.2025 10:46:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.10.2025 10:50",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/478f79ae-e238-4228-b5a3-ddf949e5e3d4",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
@@ -1177,6 +1182,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "5d738be2-1eee-4835-9a62-94b5b8d1792a",
+      "disruptionId": "826a85ef-0339-4300-9f59-afc11082866b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einem Signal",
+      "summary": "Zwischen Markt Schwaben und Erding ist die Strecke gesperrt. Die S-Bahnen wenden in Markt Schwaben.",
+      "text": "<p>Ein Ersatzverkehr zwischen Markt Schwaben und Erding ist in Planung.</p><p>Bitte rechnen Sie mit verlängerten Reisezeiten .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "29.10.2025",
+      "durationEnd": "29.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/826a85ef-0339-4300-9f59-afc11082866b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/4056b8cd-9c1b-4050-89ff-63f37ddc62bareisendenkarte_20251029-113323.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/4056b8cd-9c1b-4050-89ff-63f37ddc62bareisendenkarte_20251029-113323.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.10.2025 11:33:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.10.2025 11:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5d738be2-1eee-4835-9a62-94b5b8d1792a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
