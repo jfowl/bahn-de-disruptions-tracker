@@ -386,6 +386,50 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "19f452fb-a70b-47ec-8316-12fade399f72",
+      "disruptionId": "0ca162b5-97c1-479f-9e63-39253947237a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Osnabrück ",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 09.11.2025, ab etwa 07:00 Uhr kommt es in Osnabrück zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch.",
+      "text": "<p>Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.11.2025",
+      "durationEnd": "09.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/0ca162b5-97c1-479f-9e63-39253947237a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/d490c66d-a160-4cfa-8bb0-aa82837e1d96reisendenkarte_20251029-083753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-29/d490c66d-a160-4cfa-8bb0-aa82837e1d96reisendenkarte_20251029-083753.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.10.2025 08:37:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.10.2025 08:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/19f452fb-a70b-47ec-8316-12fade399f72",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -1179,15 +1223,15 @@
         "label": "Witterungsbedingte Beeinträchtigungen"
       },
       "headline": "Stammstrecke / Gesamtnetz: Witterungsbedingte Beeinträchtigungen",
-      "summary": "Auf der Stammstrecke und im Gesamtnetz kommt es teilweise zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
+      "summary": "Auf der Stammstrecke und im Gesamtnetz kommt es vereinzelten zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür sind witterungsbedingte Beeinträchtigungen, die die S-Bahnen in den Außenbereichen erhalten und die auch auf die Stammstrecke übertragen werden.</p>",
       "durationBegin": "29.10.2025",
       "durationEnd": "29.10.2025",
       "mapHref": "https://karte.bahn.de/detail/5c630d2c-9c7b-4b0d-8020-b4cefa525119",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/e1a2782c-f41f-4ca7-a177-58a1d98a6844reisendenkarte_20251029-074948.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/e1a2782c-f41f-4ca7-a177-58a1d98a6844reisendenkarte_20251029-074948.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/ae59aabb-0d5b-4bd1-882a-648e785a71a8reisendenkarte_20251029-074948.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/ae59aabb-0d5b-4bd1-882a-648e785a71a8reisendenkarte_20251029-074948.png",
           "info": "",
           "alt": "Reisendenkarte 29.10.2025 07:49:48",
           "openInNewTab": true
@@ -1248,12 +1292,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.10.2025 07:51",
-      "expand": false,
+      "lastModified": "29.10.2025 08:48",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7fa54489-e009-4774-af52-02dcd177f447",
       "magnoliaPath": "/aktuell/bayern/significant_delays_weather_storm"
+    },
+    {
+      "id": "ac6992b4-b0af-46c3-aa84-2c64724f8597",
+      "disruptionId": "2358f2e9-b005-4e8d-8b62-6d155f5d6506",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerkstörung in Gingen (Fils)",
+      "summary": "Wegen einem defekten Stellwerk in Gingen Fils ist die Strecke zwischen Süßen und Geislingen Steige gesperrt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Die Züge aus Richtung Friedrichshafen Stadt enden in Amstetten (Württ), die Züge aus Richtung Stuttgart enden in Göppingen. Achten Sie auf die Lautsprecherdurchsagen am Bahnsteig.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "29.10.2025",
+      "durationEnd": "29.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/2358f2e9-b005-4e8d-8b62-6d155f5d6506",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/5f5ecbd7-7447-4f3d-9a9a-e503764e7641reisendenkarte_20251029-071239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-29/5f5ecbd7-7447-4f3d-9a9a-e503764e7641reisendenkarte_20251029-071239.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.10.2025 07:12:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.10.2025 08:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ac6992b4-b0af-46c3-aa84-2c64724f8597",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
