@@ -2,64 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "c83b1f74-b472-46ac-9b57-8530c653febe",
-      "disruptionId": "3154d5e4-f80d-4bdc-a313-3ccb1d7da349",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Hamburg/Hannover/Braunschweig",
-      "summary": "Aufgrund eines defekten Triebfahrzeugs an einem Güterzug im Bereich Berlin-Spandau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 30 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE/IC Züge Berlin - Amsterdam</li><li>ICE/EC/RJ Züge Berlin - Hamburg</li><li>ICE Züge Berlin - Hannover</li><li>ICE Züge Berlin - Braunschweig</li></ul><p>Das Personal vor Ort arbeitet an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/3154d5e4-f80d-4bdc-a313-3ccb1d7da349",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-30/acc50d8e-fee6-40ac-93e2-df0013b5592dreisendenkarte_20251030-063835.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-30/acc50d8e-fee6-40ac-93e2-df0013b5592dreisendenkarte_20251030-063835.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.10.2025 06:38:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.10.2025 06:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/c83b1f74-b472-46ac-9b57-8530c653febe",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_vehicle"
-    },
-    {
       "id": "21bf7813-57b0-4f60-b146-0a41fd6e942f",
       "disruptionId": "0f6e18ea-ac31-4875-ab3d-808634863c45",
       "author": "REGIO_NORD",
@@ -394,12 +336,18 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "BW"
       ],
       "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2 Rhein-Neckar",
+          "property": "REGIONAL"
+        },
         {
           "name": "S 1",
           "filterName": "S 1 Rhein-Neckar",
@@ -421,7 +369,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.10.2025 20:37",
+      "lastModified": "30.10.2025 06:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -564,6 +512,81 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "19a08857-d9a7-42ee-8a29-d133a37807ba",
+      "disruptionId": "736b29a0-643c-44c9-bee5-86b5e3523c61",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Notarzteinsatz auf der Strecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu  20 Minuten sowie zu vorzeitigen Wenden auf den Außenbereichen der S-Bahn.",
+      "text": "<p>Grund ist ein vorangegangener Notarzteinsatz am Hirschgarten.</p>",
+      "durationBegin": "30.10.2025",
+      "durationEnd": "30.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/736b29a0-643c-44c9-bee5-86b5e3523c61",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/59bb97c2-039a-482d-91af-c064bb700a67reisendenkarte_20251030-070304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/59bb97c2-039a-482d-91af-c064bb700a67reisendenkarte_20251030-070304.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.10.2025 07:03:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.10.2025 07:06",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/19a08857-d9a7-42ee-8a29-d133a37807ba",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency2"
+    },
+    {
       "id": "db219123-f5fc-4465-b62d-a0c6875649db",
       "disruptionId": "f420f6a2-4d4a-489d-9d5f-ec5b3e763b1f",
       "author": "REGIO_MITTE",
@@ -579,8 +602,8 @@
       "mapHref": "https://karte.bahn.de/detail/f420f6a2-4d4a-489d-9d5f-ec5b3e763b1f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-10-29/77300742-520a-4b79-8e04-9ef4e7f19c55reisendenkarte_20251029-121123.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-10-29/77300742-520a-4b79-8e04-9ef4e7f19c55reisendenkarte_20251029-121123.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-10-30/faa6ed51-7ec0-4164-88f7-ddec74e2fca3reisendenkarte_20251029-121123.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2025-10-30/faa6ed51-7ec0-4164-88f7-ddec74e2fca3reisendenkarte_20251029-121123.png",
           "info": "",
           "alt": "Reisendenkarte 29.10.2025 12:11:23",
           "openInNewTab": true
@@ -589,12 +612,18 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "BW"
       ],
       "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2 Rhein-Neckar",
+          "property": "REGIONAL"
+        },
         {
           "name": "S 1",
           "filterName": "S 1 Rhein-Neckar",
@@ -616,7 +645,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.10.2025 20:21",
+      "lastModified": "30.10.2025 06:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1361,20 +1390,28 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
-      "id": "94bb3aaa-3147-45f4-82bd-700d46a2a61d",
-      "disruptionId": "421e7f46-0f17-4ab8-94d5-bbdaa8b43e83",
+      "id": "9cf61885-d9ce-490a-b000-9ddb258617d2",
+      "disruptionId": "8d124e85-cead-4f63-bc91-361eac6c34ad",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 2 Dachau ↔ Erdweg: Reparatur an einem Signal",
-      "summary": "Zwischen Dachau und Erdweg kommt es zu Verspätungen von bis zu 30 Minuten vereinzelt auch höher, sowie zu Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 4 Grafrath ↔ Fürstenfeldbruck: Reparatur an der Strecke",
+      "summary": "Zwischen Grafrath und Fürstenfeldbruck kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen .\n\nDie S - Bahnen fahren in dem betroffenen Bereich langsamer.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "30.10.2025",
       "durationEnd": "30.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/421e7f46-0f17-4ab8-94d5-bbdaa8b43e83",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/8d124e85-cead-4f63-bc91-361eac6c34ad",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/8475ca48-ff47-49f3-8794-4ccb75e3088dreisendenkarte_20251030-072210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/8475ca48-ff47-49f3-8794-4ccb75e3088dreisendenkarte_20251030-072210.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.10.2025 07:22:10",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -1385,17 +1422,22 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.10.2025 06:27",
+      "lastModified": "30.10.2025 07:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/94bb3aaa-3147-45f4-82bd-700d46a2a61d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
+      "detailPagePath": "/service/fahrplaene/9cf61885-d9ce-490a-b000-9ddb258617d2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
