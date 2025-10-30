@@ -102,44 +102,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_police_activity"
     },
     {
-      "id": "3ae7f5a4-075e-4a0e-aca9-92db44fbf973",
-      "disruptionId": "4506d740-3a6c-4419-9fd5-427040550fb1",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Fünf-Minuten-Takt aktuell nur zw. Poppenbüttel und Othmarschen",
-      "summary": "S1: Aktuell fährt die S1 nur zwischen Poppenbüttel und Othmarschen alle fünf Minuten. Grund: Technische Störung an der Strecke.",
-      "text": "<p>   </p>",
-      "durationBegin": "30.10.2025",
-      "durationEnd": "30.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/4506d740-3a6c-4419-9fd5-427040550fb1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.10.2025 07:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3ae7f5a4-075e-4a0e-aca9-92db44fbf973",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -355,6 +317,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c0818a82-0d47-46f4-a4e4-dc22062f8802",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
+    },
+    {
+      "id": "8ac5a97e-c24c-44ea-aa06-bbc33605546c",
+      "disruptionId": "1482abde-ae39-49ee-b186-329ba028ac18",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1 S 2 Abweichende Linienführung: Reparatur an einer Weiche",
+      "summary": "Die S-Bahnen der Linie S 1 wenden in Moosach die S-Bahnen der Linie S 2 werden in Richtung Dachau/Petershausen umgeleitet.",
+      "text": "<p><strong>S 1 Freising</strong>/<strong>Flughafen </strong>↔ <strong>Leuchtenbergring</strong></p><ol><li>Die S-Bahnen aus Richtung <strong>Freising</strong>/<strong>Flughafen </strong>beginnen/enden in <strong>Moosach</strong></li></ol><ul><li>Die Halte zwischen <strong>Moosach </strong>und <strong>Leuchtenbergring </strong>entfallen</li></ul><p>Alternativen<strong>: </strong></p><ul><li><strong>Moosach ↔ Marienplatz U3</strong></li><li><strong>Feldmoching ↔ Hauptbahnhof U2</strong></li></ul><p></p><p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 wird zwischen <strong>Riem </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Obermenzing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S2 verkehrt zwischen <strong>Obermenzing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Riem </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li><strong>Ostbahnhof ↔ Leuchtenbergring: S4, S6, S8</strong></li><li><strong>Ostbahnhof ↔ Berg am Laim: S4, S6</strong></li></ul></li></ul><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "30.10.2025",
+      "durationEnd": "30.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/1482abde-ae39-49ee-b186-329ba028ac18",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/900fd686-ba7e-426d-b669-5a2da213e74breisendenkarte_20251030-091439.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/900fd686-ba7e-426d-b669-5a2da213e74breisendenkarte_20251030-091439.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.10.2025 09:14:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.10.2025 09:20",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8ac5a97e-c24c-44ea-aa06-bbc33605546c",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "72c2f11c-37dc-45d8-8737-b1eec2458e03",
