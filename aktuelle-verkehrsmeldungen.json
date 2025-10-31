@@ -11,7 +11,7 @@
       },
       "headline": "Teilausfälle im Raum Weinheim(Bergstr)Hbf",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen und der S-Bahn Rhein-Neckar kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S6: Mainz Hbf - Worms Hbf - Mannheim Hbf - Weinheim(Bergstr)Hbf - Bensheim</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 31.10.2025 zwischen 13:00 Uhr und 15:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge der Linie S6 aus Richtung Mainz Hbf enden vorzeitig in Ladenburg und wenden dort.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Mainz Hbf - Mannheim Hbf - Bensheim</li><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB67/68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf) - Schwetzingen (- Hockenheim)</li><li>RB69: Weinheim(Bergstr)Hbf - Fürth(Odenw)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 31.10.2025 zwischen 13:00 Uhr und 15:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der S6 enden vorzeitig in Ladenburg und wenden dort.</li><li>Die Züge der RB69 aus Richtung Fürth(Odenw) enden vorzeitig in Birkenau und wenden dort.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><ul><li>RE60, RB67/68: Es ist ab 14:15 Uhr ein Ersatzverkehr mit 7 Bussen der Firma Holiday Reisen zwischen Ladenburg und Bensheim eingerichtet.</li><li>RB69: Es ist ab 14:15 Uhr ein Ersatzverkehr mit jeweils 1 Bus zwischen Weinheim(Bergstr)Hbf und Birkenau eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
       "durationBegin": "31.10.2025",
       "durationEnd": "31.10.2025",
       "mapHref": "https://karte.bahn.de/detail/0750ac63-b266-4497-ab3e-eda936c8d18d",
@@ -19,7 +19,8 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "BW",
@@ -27,12 +28,32 @@
       ],
       "lines": [
         {
+          "name": "RB 67",
+          "filterName": "RB 67",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 68",
+          "filterName": "RB 68",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 69",
+          "filterName": "RB 69",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 60",
+          "filterName": "RE 60",
+          "property": "REGIONAL"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 Rhein-Neckar",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.10.2025 12:45",
+      "lastModified": "31.10.2025 13:37",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -607,15 +628,15 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Reparaturarbeiten zw. Tübingen Hbf und Balingen(Württ)",
-      "summary": "Die Strecke zwischen Tübingen Hbf und Balingen(Württ) ist derzeit beeinträchtigt. Die Beeinträchtigung dauert voraussichtlich bis 14:00 Uhr. Grund ist eine Reparatur an der Strecke zwischen Balingen (Württ) und Endingen (Württ). Die Züge fahren im betroffenen Abschnitt langsamer. In der Folge kommt es zu Verspätungen und Teilausfällen. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "summary": "Die Strecke zwischen Tübingen Hbf und Balingen(Württ) ist derzeit beeinträchtigt. Die Beeinträchtigung dauert voraussichtlich bis Betriebsschluss. Grund ist eine Reparatur an der Strecke zwischen Balingen (Württ) und \nAlbstadt-Ebingen. Die Züge fahren im betroffenen Abschnitt langsamer. In der Folge kommt es zu Verspätungen und Teilausfällen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "31.10.2025",
       "durationEnd": "31.10.2025",
       "mapHref": "https://karte.bahn.de/detail/b74b15c1-34fc-4fa1-bc33-949180cc3a2e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-31/1821ab6b-7792-4bf0-bdb0-806cb0df4ca1reisendenkarte_20251031-074255.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-31/1821ab6b-7792-4bf0-bdb0-806cb0df4ca1reisendenkarte_20251031-074255.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-31/5decc876-b095-47b3-9acf-d56c3f6a673freisendenkarte_20251031-074255.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-10-31/5decc876-b095-47b3-9acf-d56c3f6a673freisendenkarte_20251031-074255.png",
           "info": "",
           "alt": "Reisendenkarte 31.10.2025 07:42:55",
           "openInNewTab": true
@@ -636,7 +657,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "31.10.2025 08:16",
+      "lastModified": "31.10.2025 13:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -928,6 +949,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3b342baa-61fa-4ecc-b724-5b1e2192b679",
       "magnoliaPath": "/aktuell/nordost/reduced_service_other_cause"
+    },
+    {
+      "id": "68161347-c047-44cb-adb5-6f692080d2c9",
+      "disruptionId": "58807e9f-dcf7-49b7-9007-a8abaad3c94a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Rosenheimer Platz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Rosenheimer Platz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Ostbahnhof oder Isartor.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Rosenheimer Platz.</p>",
+      "durationBegin": "31.10.2025",
+      "durationEnd": "31.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/58807e9f-dcf7-49b7-9007-a8abaad3c94a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-31/b4f14169-055a-405b-8093-ec133dd9d831reisendenkarte_20251031-133734.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-31/b4f14169-055a-405b-8093-ec133dd9d831reisendenkarte_20251031-133734.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.10.2025 13:37:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.10.2025 13:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/68161347-c047-44cb-adb5-6f692080d2c9",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
     },
     {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
