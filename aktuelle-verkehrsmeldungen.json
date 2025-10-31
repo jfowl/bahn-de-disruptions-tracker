@@ -319,6 +319,48 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "e85d7b97-4235-4f5e-9a06-4cf7f856bd35",
+      "disruptionId": "dbe43da8-07b1-40a5-8ebd-6d2647dcd0dc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 / S 1 Abweichende Linienführung: ",
+      "summary": "Die S-Bahnen der Linien S 1 und S 2 werden umgeleitet.",
+      "text": "<p><strong>S 1</strong> Freising/Flughafen ↔ Leuchtenbergring</p><ul><li>Verkehrt nur <strong>Freising/Flughafen</strong> ↔ <strong>Hauptbahnhof (Gleise 27-36)</strong>, ohne Halt zwischen <strong>Moosach </strong>↔ <strong>Hauptbahnhof</strong>.</li></ul><p><strong>S 2 Erding → Petershausen/Altomünster</strong></p><ul><li>Die S2 wird zwischen&nbsp;<strong>Riem&nbsp;</strong>→&nbsp;<strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong>&nbsp;→&nbsp;<strong>Obermenzing&nbsp;</strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte&nbsp;<strong>Leuchtenbergring&nbsp;</strong>und&nbsp;<strong>Berg am Laim&nbsp;</strong>entfallen.&nbsp;</li></ul><p><strong>S 2 Petershausen /Altomünster – Erding</strong></p><ul><li>Die S2 verkehrt zwischen&nbsp;<strong>Obermenzing&nbsp;</strong>→&nbsp;<strong>Ostbahnhof&nbsp;</strong>→&nbsp;<strong>Riem&nbsp;</strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring:&nbsp;<strong>S4, S6, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim:&nbsp;<strong>S4, S6</strong></li></ul></li></ul><p>Zwischen <strong>Dachau Bahnhof</strong> ↔ <strong>Altomünster</strong> ist ein 60-Minuten-Takt. ℹ️&nbsp;<strong>Zusätzlich haben wir einen Ersatzverkehr zwischen Dachau Bahnhof und Altomünster für Sie eingerichtet.</strong></p><p>Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge❕</p><p></p><p><strong>❗Zur Entlastung der Strecke fallen heute folgende Züge der Linie S 2 des 10-Minuten-Takts teilweise oder ganz aus:❗</strong></p><p><strong>S 2 Dachau → Ostbahnhof </strong>&nbsp;</p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li></ul><p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;(Komplet Ausfall)</li><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → (Ausfall bis Dachau Bahnhof)</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → (Ausfall bis Dachau Bahnhof)</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr →(Ausfall bis Dachau Bahnhof)</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;(Komplet Ausfall)</li></ul><p></p><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "31.10.2025",
+      "durationEnd": "31.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/dbe43da8-07b1-40a5-8ebd-6d2647dcd0dc",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.10.2025 05:19",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e85d7b97-4235-4f5e-9a06-4cf7f856bd35",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "72c2f11c-37dc-45d8-8737-b1eec2458e03",
       "disruptionId": "fe563fd5-8a63-44e9-8372-0c5903311962",
       "author": "REGIO_MITTE",
@@ -841,136 +883,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c7ad3dd2-b8b2-4d50-b1f9-294fc8ed44ff",
       "magnoliaPath": "/aktuell/mitte/stop_moved_construction"
-    },
-    {
-      "id": "4a45cc5b-7976-426f-b4d8-c840f2c64997",
-      "disruptionId": "a132e743-5b46-4e7c-b65c-336058ed7f45",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke in den Nächten 27. bis 31. Oktober 2025",
-      "summary": "Wegen Bauarbeiten für die 2. Stammstrecke in Laim kommt es im Zeitraum vom 27. bis 31. Oktober 2025 jeweils nachts von 22:20 Uhr bis 5:00 Uhr zu Fahrplanänderungen zwischen Ostbahnhof und Pasing.",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>Zwischen Pasing ↔ Laim ↔ Hirschgarten ↔ Donnersbergerbrücke fahren Ersatzbusse.</strong></p><p>Zwischen Ostbahnhof und Donnersbergerbrücke fahren nur bestimmte S-Bahnen:</p><p><strong>Die S 3 fährt auf der Stammstrecke zwischen Donnersbergerbrücke ↔ Holzkirchen. Die&nbsp;S 8&nbsp;fährt zwischen Donnersbergerbrücke ↔ Flughafen. Die&nbsp;S 2&nbsp;fährt zwischen Hackerbrücke ↔ Erding.</strong></p><p><strong>S 1:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach.</li></ul><p><strong>S 2:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke.</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren im 30-Minuten-Takt.</li></ul><p></p><p><strong>S 3:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</li></ul><p><strong>S 4:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing.</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus.</li></ul><p><strong>S 5:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof.</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p><strong>S 6:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2.</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing. Ab ca. 00:40 Uhr verkehren die Züge der Linie S6 dann zwischen Tutzing und Hauptbahnhof, ab Pasing ohne Halt bis Hauptbahnhof.</li></ul><p></p><p><strong>S 7:</strong></p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</li></ul><p><strong>S 8:</strong></p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke.</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing.</li></ul><p><strong>Hinweis:</strong></p><p><strong>Bitte beachten Sie, dass sich die Ersatzhaltestelle am Hirschgarten in Richtung Donnersbergerbrücke an der Landsberger Straße befindet.</strong></p><p><strong>Alle aktuellen Baustellen finden Sie auch im Internet unter:</strong></p><p><strong>www.s-bahn-muenchen.de/de/fahren/baustellen/stammstrecke</strong></p>",
-      "durationBegin": "29.10.2025",
-      "durationEnd": "31.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/a132e743-5b46-4e7c-b65c-336058ed7f45",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/22273606-d4a8-4a9e-979a-f81911303b66reisendenkarte_20251027-064813.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/22273606-d4a8-4a9e-979a-f81911303b66reisendenkarte_20251027-064813.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.10.2025 06:48:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/88d844a4-594e-44b4-9f52-1047939ab2fbFpl%252BS4%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S4+Laim+1+Sep-31+Okt",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/da26e922-ca43-44c9-abad-acefab68f97aFpl%252BS2%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S2+Laim+1+Sep-31+Okt.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/bc291cfb-6fc7-487b-8adb-34ba623b5fc8Fpl%252BS6%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S6+Laim+1+Sep-31+Okt",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/c0e0895a-c9f0-455f-885d-1b866f9ce30cFpl%252BS3%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S3+Laim+1+Sep-31+Okt.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/9647e03f-8238-4eea-88ea-955b6dc64f2aFpl%252BS8%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S8+Laim+1+Sep-31+Okt",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/e9d96cd2-11ef-4b08-bb7b-8f3d4429ae2fFpl%252BS1%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S1+Laim+1+Sep-31+Okt",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/146d237c-f525-44e5-bf67-b4f942e71dd2Fpl%252BSEV%252BMMDN-MP%252B1%252BSep-31%252BOkt.pdf",
-          "label": "SEV+MMDN-MP+1+Sep-31+Okt.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/6092ae38-fc5d-4063-9645-337101c8169cHirschgarten%252BSEV%252Bbis%252BMMDN.pdf",
-          "label": "Hirschgarten+SEV+bis+MMDN",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-30/9d3ad526-3b1a-4661-a3d3-f5a9f6e1841bFpl%252BS5%252BTSP%252BLaim%252B1%252BSep-31%252BOkt.pdf",
-          "label": "S5+Laim+1+Sep-31+Okt",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.10.2025 20:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4a45cc5b-7976-426f-b4d8-c840f2c64997",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
       "id": "d3bd210e-a7a2-411d-b203-08e8bbb70e61",
