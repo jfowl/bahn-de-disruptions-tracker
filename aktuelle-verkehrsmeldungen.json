@@ -386,18 +386,18 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Stammstrecke Hauptbahnhof: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Hauptbahnhof sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 25 Minuten und Teilausfällen. </p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "Endmeldung: Stammstrecke Hauptbahnhof",
+      "summary": "Die Züge können wieder im Bereich Hauptbahnhof fahren.",
+      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Folgeverspätungen von bis zu 40 Minuten und Teilausfällen.&nbsp;</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
       "durationBegin": "01.11.2025",
       "durationEnd": "01.11.2025",
       "mapHref": "https://karte.bahn.de/detail/d7cbb8c8-e48e-4ef5-8b28-3ba17c48d5cd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/7069593f-12ce-4bc3-b9e1-41e290819c63reisendenkarte_20251101-203036.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/7069593f-12ce-4bc3-b9e1-41e290819c63reisendenkarte_20251101-203036.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/2764c874-9014-4ea4-991a-06b3108a064dreisendenkarte_20251101-211038.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/2764c874-9014-4ea4-991a-06b3108a064dreisendenkarte_20251101-211038.png",
           "info": "",
-          "alt": "Reisendenkarte 01.11.2025 20:30:36",
+          "alt": "Reisendenkarte 01.11.2025 21:10:38",
           "openInNewTab": true
         }
       ],
@@ -436,7 +436,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.11.2025 20:32",
+      "lastModified": "01.11.2025 21:12",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -884,6 +884,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "58fbe86c-d649-4961-8907-5d343bbb396d",
+      "disruptionId": "5e1cba92-3154-425d-8cdb-de72147bab64",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Verspätungen, Umleitungen und Teilausfälle zwischen Gelnhausen - Wächtersbach - Steinau(Straße)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Fulda)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 2. November von 2:30 Uhr bis ca. 6:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Einige Züge halten am nächsten Bahnhof und warten die Dauer der Sperrung ab.</li><li>Einige Züge werden zwischen Hanau Hbf und Flieden in beiden Richtungen ohne Zwischenhalt umgeleitet.</li><li>Es kommt es zu teilweise hohen Verspätungen. Es kann auch zu kurzfristigen Teil- sowie Zugausfällen kommen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "02.11.2025",
+      "durationEnd": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/5e1cba92-3154-425d-8cdb-de72147bab64",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-01/85d0d1da-83e6-4ae1-b7c9-182274a897a3reisendenkarte_20251101-211908.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-01/85d0d1da-83e6-4ae1-b7c9-182274a897a3reisendenkarte_20251101-211908.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.11.2025 21:19:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "01.11.2025 21:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/58fbe86c-d649-4961-8907-5d343bbb396d",
+      "magnoliaPath": "/aktuell/hessen/impairment_other_cause0"
     },
     {
       "id": "db219123-f5fc-4465-b62d-a0c6875649db",
@@ -1831,6 +1881,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "a00c3d4d-bae7-4e28-85b2-78952eae71d3",
+      "disruptionId": "0e450eb4-1b22-40e0-b79a-87967f4f6078",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4 Grafrath ↔ Geltendorf: Reparatur an einem Signal",
+      "summary": "Zwischen Grafrath und Geltendorf kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "01.11.2025",
+      "durationEnd": "01.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/0e450eb4-1b22-40e0-b79a-87967f4f6078",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/e2be943e-7bbc-4fa4-932c-dc10c51ba4dfreisendenkarte_20251101-202313.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/e2be943e-7bbc-4fa4-932c-dc10c51ba4dfreisendenkarte_20251101-202313.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.11.2025 20:23:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.11.2025 20:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a00c3d4d-bae7-4e28-85b2-78952eae71d3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
       "id": "47a93930-8767-4081-9830-08531b4d700f",
       "disruptionId": "992d3aac-edd8-4398-ba7c-8d3381b697e5",
       "author": "S_BAHN_MUC",
@@ -1874,51 +1969,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/47a93930-8767-4081-9830-08531b4d700f",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
-    },
-    {
-      "id": "a00c3d4d-bae7-4e28-85b2-78952eae71d3",
-      "disruptionId": "0e450eb4-1b22-40e0-b79a-87967f4f6078",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 4 Grafrath ↔ Geltendorf: Reparatur an einem Signal",
-      "summary": "Zwischen Grafrath und Geltendorf kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "01.11.2025",
-      "durationEnd": "01.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/0e450eb4-1b22-40e0-b79a-87967f4f6078",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/72894916-071f-421f-ada9-436f966b6aa8reisendenkarte_20251101-202313.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-01/72894916-071f-421f-ada9-436f966b6aa8reisendenkarte_20251101-202313.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.11.2025 20:23:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.11.2025 20:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a00c3d4d-bae7-4e28-85b2-78952eae71d3",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "30420e98-0dc9-4ee7-bc7f-490a6ec0e93f",
