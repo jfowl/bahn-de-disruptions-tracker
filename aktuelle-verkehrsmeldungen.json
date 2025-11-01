@@ -1020,6 +1020,63 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "f4fb430b-596e-4993-be81-be5c1222fc10",
+      "disruptionId": "dcfd9d41-01a1-4f98-a5b4-e8a602018fdd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof",
+      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Hackerbrücke.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "01.11.2025",
+      "durationEnd": "01.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/dcfd9d41-01a1-4f98-a5b4-e8a602018fdd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.11.2025 08:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f4fb430b-596e-4993-be81-be5c1222fc10",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
+    },
+    {
       "id": "4fd44ce6-d215-4096-a279-f741dfdedec6",
       "disruptionId": "e6489c24-e1ae-4155-9334-54911565e8f5",
       "author": "S_BAHN_RM",
@@ -1854,6 +1911,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "30420e98-0dc9-4ee7-bc7f-490a6ec0e93f",
+      "disruptionId": "1d4ff496-d90a-46ad-bb4c-f11bebbf0e45",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Beeinträchtigungen zwischen Rosenheim und Salzburg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Rosenheim und Prien am Chiemsee ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE/EC/RJ/IC-Züge zwischen Rosenheim und Freilassing/Salzburg verspäten sich bis 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/1d4ff496-d90a-46ad-bb4c-f11bebbf0e45",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-01/b79d77b0-f458-43c6-a1dc-9de81a62a622reisendenkarte_20251101-075343.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-01/b79d77b0-f458-43c6-a1dc-9de81a62a622reisendenkarte_20251101-075343.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.11.2025 07:53:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.11.2025 07:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/30420e98-0dc9-4ee7-bc7f-490a6ec0e93f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
