@@ -200,6 +200,50 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "2642c066-4008-4f63-b329-50731289c4f9",
+      "disruptionId": "8baf70c5-eeb6-4b4b-9a3f-059e8b4add7e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Wuppertal und Hagen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Schwelm und Hagen-Haspe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich um etwa 10 - 30 Minuten. Einzelne Züge werden umgeleitet und halten deshalb nicht in Solingen Hbf, Wuppertal Hbf und Hagen Hbf.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Wuppertal und Hagen</li><li>einzelne ICE Sprinterzüge zwischen Köln und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/8baf70c5-eeb6-4b4b-9a3f-059e8b4add7e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-02/9d132c58-6d85-4779-ae76-67686d93ab33reisendenkarte_20251102-195345.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-02/9d132c58-6d85-4779-ae76-67686d93ab33reisendenkarte_20251102-195345.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.11.2025 19:53:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.11.2025 19:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2642c066-4008-4f63-b329-50731289c4f9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section4"
+    },
+    {
       "id": "f1d9ba99-09cd-4630-80d4-c3327b90c31c",
       "disruptionId": "740df64b-0f50-4037-8d2d-4d63f555a6e9",
       "author": "FERNVERKEHR_AG",
@@ -289,71 +333,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "115474ea-a0a1-4126-ba81-f9b552fadfc7",
-      "disruptionId": "b48a8662-322d-4719-836b-f274fb17c5c7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "Stammstrecke Hackerbrücke: Gegenstände auf der Strecke",
-      "summary": "Im Bereich Hackerbrücke kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind Gegenstände auf der Strecke.</p>",
-      "durationBegin": "02.11.2025",
-      "durationEnd": "02.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/b48a8662-322d-4719-836b-f274fb17c5c7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-02/349cda8f-2b56-461c-8f7a-19a410deea40reisendenkarte_20251102-192237.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-02/349cda8f-2b56-461c-8f7a-19a410deea40reisendenkarte_20251102-192237.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.11.2025 19:22:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.11.2025 19:36",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/115474ea-a0a1-4126-ba81-f9b552fadfc7",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section13"
     },
     {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
@@ -1635,6 +1614,71 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "115474ea-a0a1-4126-ba81-f9b552fadfc7",
+      "disruptionId": "b48a8662-322d-4719-836b-f274fb17c5c7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "Endmeldung: Stammstrecke Hackerbrücke",
+      "summary": "Im Bereich Hackerbrücke kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Die Gegenstände auf der Strecke wurden beseitigt.</p>",
+      "durationBegin": "02.11.2025",
+      "durationEnd": "02.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/b48a8662-322d-4719-836b-f274fb17c5c7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-02/bd864067-ea23-4e83-968a-650b81727d86reisendenkarte_20251102-201119.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-02/bd864067-ea23-4e83-968a-650b81727d86reisendenkarte_20251102-201119.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.11.2025 20:11:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.11.2025 20:13",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/115474ea-a0a1-4126-ba81-f9b552fadfc7",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section13"
     },
     {
       "id": "30420e98-0dc9-4ee7-bc7f-490a6ec0e93f",
