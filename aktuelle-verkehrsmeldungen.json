@@ -48,88 +48,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
     },
     {
-      "id": "dcd5261b-9dfe-4ed7-8ce5-cfc278781682",
-      "disruptionId": "08340ac6-0762-4a39-abae-05d50d64fc51",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S2: Aktuell keine S-Bahnen zwischen Billwerder-Moorfleet und Tiefstack.",
-      "summary": "S2: Aktuell fährt die S2 aus und in Richtung Aumühle nur zwischen Aumühle und Billwerder-Moorfleet. Zwischen Billwerder-Moorfleet und Berliner Tor fahren Busse statt S-Bahnen. Die Ersatzbusse fahren entsprechend angepasst. Grund: Bauarbeiten.",
-      "text": "<p> </p>",
-      "durationBegin": "03.11.2025",
-      "durationEnd": "03.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/08340ac6-0762-4a39-abae-05d50d64fc51",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.11.2025 08:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dcd5261b-9dfe-4ed7-8ce5-cfc278781682",
-      "magnoliaPath": "/aktuell/nord/impairment_construction"
-    },
-    {
-      "id": "1d853a43-1e89-4332-8db3-bfd61c4f2a76",
-      "disruptionId": "269762d0-2687-4de8-98d9-6b3f85492297",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Dortmund und Münster(Westf)",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Dortmund und Münster(Westf) kommt es derzeit zu Beeinträchtigungen und Verspätungen von ca. 15 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge der Verbindung Hamburg - Dortmund - Köln - Frankfurt(M) - München / Basel</li><li>Einzelne IC-Züge der Verbindung Hannover - Dortmund - Köln - Mainz - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/269762d0-2687-4de8-98d9-6b3f85492297",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-03/e7f56630-93fe-4e04-bc42-ccab862ad911reisendenkarte_20251103-073419.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-03/e7f56630-93fe-4e04-bc42-ccab862ad911reisendenkarte_20251103-073419.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.11.2025 07:34:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.11.2025 07:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1d853a43-1e89-4332-8db3-bfd61c4f2a76",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "21bf7813-57b0-4f60-b146-0a41fd6e942f",
       "disruptionId": "0f6e18ea-ac31-4875-ab3d-808634863c45",
       "author": "REGIO_NORD",
@@ -806,6 +724,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f5ad4e9f-3360-4d32-a083-64c050751ed0",
+      "disruptionId": "0faaf788-b183-4d46-a191-9dc000210984",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 1 Freising/Flughafen: Technischer Defekt an einem Bahnübergang",
+      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett zum Flughafen.",
+      "text": "<p>Der Grund hierfür ist ein technischer defekt an einem Bahnhof.</p>",
+      "durationBegin": "03.11.2025",
+      "durationEnd": "03.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/0faaf788-b183-4d46-a191-9dc000210984",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/a9ff14c2-80e7-4619-8bf1-cc7cb41f797dreisendenkarte_20251103-115425.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/a9ff14c2-80e7-4619-8bf1-cc7cb41f797dreisendenkarte_20251103-115425.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.11.2025 11:54:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.11.2025 11:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f5ad4e9f-3360-4d32-a083-64c050751ed0",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -895,61 +858,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
-    },
-    {
-      "id": "4fd44ce6-d215-4096-a279-f741dfdedec6",
-      "disruptionId": "e6489c24-e1ae-4155-9334-54911565e8f5",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Teilausfälle im Raum Frankfurt(Main)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 03.11.2025 von 06:00 Uhr bis ca. 12:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der RE20 und RB22 aus Richtung Limburg(Lahn) enden vorzeitig in Hofheim(Taunus) und wenden dort.</li><li>Die Züge der RB34 aus Richtung Glauburg-Stockheim enden vorzeitig in Bad Vilbel und wenden dort.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>RE20 und RB22: Nutzen Sie alternativ die S2 zwischen Hofheim(Taunus) und Frankfurt(Main)Hbf.</li><li>RB34: Nutzen Sie alternativ die S6 zwischen Bad Vilbel und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "03.11.2025",
-      "durationEnd": "03.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/e6489c24-e1ae-4155-9334-54911565e8f5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-10-31/07deda9c-c3b7-4a08-a5b7-b81e0af87022reisendenkarte_20251031-162326.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-10-31/07deda9c-c3b7-4a08-a5b7-b81e0af87022reisendenkarte_20251031-162326.png",
-          "info": "",
-          "alt": "Reisendenkarte 31.10.2025 16:23:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 34",
-          "filterName": "RB 34",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.10.2025 16:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4fd44ce6-d215-4096-a279-f741dfdedec6",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause3"
     },
     {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
