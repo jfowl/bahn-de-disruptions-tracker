@@ -48,60 +48,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
     },
     {
-      "id": "44d8ab02-8ca1-47f2-b187-5246ff727162",
-      "disruptionId": "b88fb1d5-1c96-43b4-a76a-fc18fa1eb03e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Wetterbedingte Einschränkungen",
-      "summary": "Aktuell kann es aufgrund von wetterbedingten Einschränkungen zu Ausfällen und Abweichungen auf allen S-Bahnlinien kommen. Bitte achten Sie auf Durchsagen und Anzeigen am Bahnsteig und den Zügen.",
-      "text": "<p>  </p>",
-      "durationBegin": "03.11.2025",
-      "durationEnd": "03.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/b88fb1d5-1c96-43b4-a76a-fc18fa1eb03e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.11.2025 17:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/44d8ab02-8ca1-47f2-b187-5246ff727162",
-      "magnoliaPath": "/aktuell/nord/impairment_weather_storm"
-    },
-    {
       "id": "21bf7813-57b0-4f60-b146-0a41fd6e942f",
       "disruptionId": "0f6e18ea-ac31-4875-ab3d-808634863c45",
       "author": "REGIO_NORD",
@@ -777,6 +723,56 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "778a68a1-36df-49bf-8aea-c495d9f628d0",
+      "disruptionId": "b10e15df-e852-4e55-b603-599e265086e7",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Bahnübergangsstörung in Schwörstadt",
+      "summary": "Auf Grund einer Bahnübergangsstörung in Schwörstadt kommt es in der Folge zu Verspätungen und Teilausfälle da die Züge langsamer fahren. Die Störung wird im Tagesverlauf des 04.11.25 behoben. Bitte prüfen Sie ihre Reiseverbindung und achten Sie auf Lautsprecherdurchsagen am Bahnsteig.  ",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 30 (Basel Bad Bf – Lauchringen) </li><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "03.11.2025",
+      "durationEnd": "04.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/b10e15df-e852-4e55-b603-599e265086e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-03/fb22f709-5cce-4391-b839-2642d1ece1b5reisendenkarte_20251103-170256.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-03/fb22f709-5cce-4391-b839-2642d1ece1b5reisendenkarte_20251103-170256.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.11.2025 17:02:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 30",
+          "filterName": "RB 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.11.2025 20:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/778a68a1-36df-49bf-8aea-c495d9f628d0",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -875,21 +871,13 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Teilausfälle im Raum Frankfurt(Main)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 3. November von 15:30 Uhr bis 20:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge aus Richtung Limburg(Lahn) enden vorzeitig in Hofheim(Taunus) und wenden dort.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S2 zwischen Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "headline": "Keine Beeinträchtigungen mehr im Raum Frankfurt(Main)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu keinen weiteren Einschränkungen. Der Grund war ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><p><strong>✅ Auf der RE20 und RB22 kommt es zu keinen Beeinträchtigungen mehr.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
       "durationBegin": "03.11.2025",
       "durationEnd": "03.11.2025",
       "mapHref": "https://karte.bahn.de/detail/c0d79049-f1be-4820-a076-034941717920",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-03/af901d87-4025-4299-aafe-a49790a03d46reisendenkarte_20251103-142448.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-03/af901d87-4025-4299-aafe-a49790a03d46reisendenkarte_20251103-142448.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.11.2025 14:24:48",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -910,7 +898,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.11.2025 14:30",
+      "lastModified": "03.11.2025 20:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
