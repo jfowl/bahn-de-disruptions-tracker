@@ -671,56 +671,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_construction1"
     },
     {
-      "id": "a46183fb-92f5-4c5e-a3c8-127f9151f6c0",
-      "disruptionId": "49a57cd7-3699-464a-b2b2-1fca6cd7703e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S8, S6 Germering-Unterpfaffenhofen ↔ Pasing: Polizeieinsatz",
-      "summary": "Zwischen Germering-Unterpfaffenhofen und Pasing kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen .",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "03.11.2025",
-      "durationEnd": "03.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/49a57cd7-3699-464a-b2b2-1fca6cd7703e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/a2d3b2e1-a29a-4dca-b223-98c9949a6eb3reisendenkarte_20251103-091131.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/a2d3b2e1-a29a-4dca-b223-98c9949a6eb3reisendenkarte_20251103-091131.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.11.2025 09:11:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.11.2025 09:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a46183fb-92f5-4c5e-a3c8-127f9151f6c0",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity"
-    },
-    {
       "id": "19f452fb-a70b-47ec-8316-12fade399f72",
       "disruptionId": "0ca162b5-97c1-479f-9e63-39253947237a",
       "author": "FERNVERKEHR_AG",
@@ -854,6 +804,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "a46183fb-92f5-4c5e-a3c8-127f9151f6c0",
+      "disruptionId": "49a57cd7-3699-464a-b2b2-1fca6cd7703e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S8, S6 Germering-Unterpfaffenhofen ↔ Pasing",
+      "summary": "Zwischen Germering-Unterpfaffenhofen und Pasing kommt es noch zu vereinzelten Folgeverspätungen.",
+      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
+      "durationBegin": "03.11.2025",
+      "durationEnd": "03.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/49a57cd7-3699-464a-b2b2-1fca6cd7703e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/121b9a87-bcc8-4962-b2ac-3ddf41dde503reisendenkarte_20251103-091131.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-03/121b9a87-bcc8-4962-b2ac-3ddf41dde503reisendenkarte_20251103-091131.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.11.2025 09:11:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.11.2025 09:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a46183fb-92f5-4c5e-a3c8-127f9151f6c0",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
