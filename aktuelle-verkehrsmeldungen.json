@@ -491,6 +491,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section4"
     },
     {
+      "id": "6bbd663d-13dd-4184-8ad3-568d60b7f6f6",
+      "disruptionId": "c447cdb1-494a-4010-a489-9f61739ae52a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Helmstedt und Braunschweig",
+      "summary": "Aufgrund einer Störung an der Strecke zwischen Helmstedt und Braunschweig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden zwischen Magdeburg und Hannover umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Braunschweig entfällt. Ersatzhalte in Wolfsburg werden eingerichtet.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne IC-Züge Dresden – Leipzig – Magdeburg – Hannover – Münster (Westf) – Dortmund – Köln – Koblenz – Frankfurt (M)/Mannheim – Karlsruhe/Stuttgart</li><li>Einzelne IC-Züge Dresden – Leipzig – Magdeburg – Hannover – Osnabrück – Emden – Norddeich Mole</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Nahverkehrszüge der Linie RB40 verkehren zwischen Magdeburg und Braunschweig.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis Donnerstag, 05.11.2025, in den Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/c447cdb1-494a-4010-a489-9f61739ae52a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-05/329d3fcc-6b3a-4940-8c9f-b4921dce50d7reisendenkarte_20251105-151944.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-05/329d3fcc-6b3a-4940-8c9f-b4921dce50d7reisendenkarte_20251105-151944.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.11.2025 15:19:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.11.2025 15:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/6bbd663d-13dd-4184-8ad3-568d60b7f6f6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -999,6 +1043,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "e83611c9-edfb-487b-9f52-4a743e79b0d1",
+      "disruptionId": "b0198e58-1e62-4239-96aa-db8a8a18d986",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S5/S7 Baierbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Auf der S5/S7 kommt es in beide Richtungen zu Verspätungen von 10 bis zu 15 Minuten. Zusätzlich kommt es vereinzelt zu vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Baierbrunn.</p>",
+      "durationBegin": "05.11.2025",
+      "durationEnd": "05.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/b0198e58-1e62-4239-96aa-db8a8a18d986",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.11.2025 15:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e83611c9-edfb-487b-9f52-4a743e79b0d1",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
