@@ -1870,6 +1870,121 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "3ffd8729-3e7e-48d3-b539-14c2cdf88070",
+      "disruptionId": "dafe1da7-1fbb-428d-86d9-8f0543cd7c17",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 2, S 3, S 5, S 7, S 8 Hauptbahnhof ↔ Hackerbrücke",
+      "summary": "Die Züge können wieder zwischen Hauptbahnhof und Hackerbrücke fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 15 Minuten.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "05.11.2025",
+      "durationEnd": "05.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/dafe1da7-1fbb-428d-86d9-8f0543cd7c17",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-05/d513bdb3-1abd-46a1-a975-ab379d769bb3reisendenkarte_20251105-220806.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-05/d513bdb3-1abd-46a1-a975-ab379d769bb3reisendenkarte_20251105-220806.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.11.2025 22:08:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.11.2025 22:17",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3ffd8729-3e7e-48d3-b539-14c2cdf88070",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "214e90e8-4f30-4eac-b4cc-7c6691872da0",
+      "disruptionId": "3cc1a95d-0023-4570-be3e-e3e2c7949c40",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 7 Baierbrunn",
+      "summary": "Im Bereich Baierbrunn kommt es noch zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
+      "durationBegin": "05.11.2025",
+      "durationEnd": "05.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/3cc1a95d-0023-4570-be3e-e3e2c7949c40",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-05/88ee8283-63eb-4dba-8bb0-c1462fa2e0b5reisendenkarte_20251105-221229.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-05/88ee8283-63eb-4dba-8bb0-c1462fa2e0b5reisendenkarte_20251105-221229.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.11.2025 22:12:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.11.2025 22:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/214e90e8-4f30-4eac-b4cc-7c6691872da0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
       "disruptionId": "566a40ed-5082-4e81-914e-85d2901d9e69",
       "author": "SUEDOSTBAYERNBAHN",
