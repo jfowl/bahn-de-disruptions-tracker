@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "b995aaa9-e718-465d-b9f4-87d0a754e9c5",
-      "disruptionId": "a49f47ad-5094-47e4-9305-d0ad3ddeaffe",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Berlin und Wolfsburg ",
-      "summary": "Aufgrund einer Reparatur an der Weiche in Wustermark zwischen Berlin und Wolfsburg  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>Einzelne Züge fallen aus.</p><ul><li>ICE 1032 fällt zwischen Frankfurt (M) und Berlin aus.</li><li>ICE 609 fällt zwischen Hamburg und Berlin aus.</li><li>ICE 807 fällt zwischen Hamburg und Berlin aus.</li></ul><p>Alle weiteren Züge werden zwischen Berlin und Wolfsburg umgeleitet und verspäten sich um wenige Minuten. Einzelne Züge verspäten sich um bis zu 20 Minuten.</p><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Reparaturarbeiten werden vsl. bis in die Morgenstunden am Donnerstag, 06.11.2025, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/a49f47ad-5094-47e4-9305-d0ad3ddeaffe",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-05/c3e8e8c6-08c8-4a5d-8edd-46c07b3baab2reisendenkarte_20251104-135721.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-05/c3e8e8c6-08c8-4a5d-8edd-46c07b3baab2reisendenkarte_20251104-135721.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.11.2025 13:57:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.11.2025 18:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/b995aaa9-e718-465d-b9f4-87d0a754e9c5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "32153982-c476-49df-8ae1-0df98c6e9f59",
       "disruptionId": "2c408a60-8ef3-4403-a7cf-13a3a5840968",
       "author": "FERNVERKEHR_AG",
@@ -92,6 +46,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/32153982-c476-49df-8ae1-0df98c6e9f59",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
+    },
+    {
+      "id": "57a1bb14-f6ba-4021-9266-3e54a7f734b3",
+      "disruptionId": "bb22e446-eb15-42ce-b57f-7e942a5d4d89",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Münster und Rheine",
+      "summary": "Aufgrund von Arbeiten an einem Bahnübergang ist die Strecke zwischen Münster und Rheine derzeit gesperrt. Dadurch kommt es zu Verspätungen von 30 Min im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge der Relation Norddeich Mole - Frankfurt(M)</li><li>IC-Züge der Relation Norddeich Mole - Stuttgart</li><li>IC-Züge der Relation Norddeich Mole - Koblenz</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/bb22e446-eb15-42ce-b57f-7e942a5d4d89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-06/f539c9df-eef9-4560-a668-df73fa9bb688reisendenkarte_20251106-102049.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-06/f539c9df-eef9-4560-a668-df73fa9bb688reisendenkarte_20251106-102049.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 10:20:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.11.2025 10:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/57a1bb14-f6ba-4021-9266-3e54a7f734b3",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "c4bde108-8b20-40e9-99a3-87301b47d985",
@@ -469,6 +467,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "04480780-40ca-434e-adfc-faab025151cd",
+      "disruptionId": "bf08b29a-0afe-473e-89c4-0c0009c55d12",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 6 Heimeranplatz ↔ Pasing: Unbefugte Personen auf der Strecke",
+      "summary": "Die Züge können wieder zwischen Heimeranplatz und Pasing fahren.",
+      "text": "<p>Es kommt noch zu Verspätungen von 20 bis 25 Minuten und Teilausfällen .</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/bf08b29a-0afe-473e-89c4-0c0009c55d12",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/00877755-639b-40af-9f8b-6c2d6aaac5d9reisendenkarte_20251106-101708.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/00877755-639b-40af-9f8b-6c2d6aaac5d9reisendenkarte_20251106-101708.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 10:17:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 10:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/04480780-40ca-434e-adfc-faab025151cd",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
+    },
+    {
       "id": "49b73056-afc6-4126-aefe-ac3a8a2b2438",
       "disruptionId": "047e2799-b021-4435-94fe-ff082a32dd3f",
       "author": "S_BAHN_RM",
@@ -478,14 +521,14 @@
       },
       "headline": "Teilausfälle zwischen Rödermark-Ober Roden und Dieburg",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 6.11.25 in den Nachmittagsstunden</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RB61 entfällt daher zwischen Rödermark-Ober Roden und Dieburg.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit Bussen der Firma Holiday-Reisen zwischen Rödermark-Ober Roden und Dieburg eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 6.11.25 12:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RB61 entfällt daher zwischen Rödermark-Ober Roden und Dieburg.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit Bussen der Firma Holiday-Reisen zwischen Rödermark-Ober Roden und Dieburg eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
       "durationBegin": "05.11.2025",
       "durationEnd": "06.11.2025",
       "mapHref": "https://karte.bahn.de/detail/047e2799-b021-4435-94fe-ff082a32dd3f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-05/365a727b-6b0f-4ae0-a037-ac91a7e9437areisendenkarte_20251105-174652.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-05/365a727b-6b0f-4ae0-a037-ac91a7e9437areisendenkarte_20251105-174652.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-06/6ce27499-306a-4107-a4da-011483b8b36areisendenkarte_20251105-174652.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-06/6ce27499-306a-4107-a4da-011483b8b36areisendenkarte_20251105-174652.png",
           "info": "",
           "alt": "Reisendenkarte 05.11.2025 17:46:52",
           "openInNewTab": true
@@ -506,7 +549,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.11.2025 18:03",
+      "lastModified": "06.11.2025 10:08",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -973,6 +1016,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/19f452fb-a70b-47ec-8316-12fade399f72",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
+      "id": "698817fe-6541-441f-85f9-ee0bb1be6650",
+      "disruptionId": "9608fd0f-0c6d-48a5-9c88-4ebe04772153",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 1, S 8 Unterföhring: Defektes Stellwerk",
+      "summary": "Im Bereich Unterföhring kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/9608fd0f-0c6d-48a5-9c88-4ebe04772153",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/adeef7fa-b369-40ea-bdb4-62c54a1d9174reisendenkarte_20251106-100226.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/adeef7fa-b369-40ea-bdb4-62c54a1d9174reisendenkarte_20251106-100226.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 10:02:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 10:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/698817fe-6541-441f-85f9-ee0bb1be6650",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
@@ -1873,6 +1966,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "05525c18-d449-4df1-b244-30471cfd8a1d",
+      "disruptionId": "8e51a2a4-d1a9-41ec-90b5-b5866fe73f63",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "S 3 Olching ↔ Mammendorf: Die Verfügbarkeit der Gleise war durch einen Zug des Fernverkehrs eingeschränkt",
+      "summary": "Zwischen Olching und Mammendorf kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
+      "text": "<p>Die Verfügbarkeit der Gleise war durch einen Zug des Fernverkehrs eingeschränkt.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/8e51a2a4-d1a9-41ec-90b5-b5866fe73f63",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3902bbde-febc-4a86-8ca7-9a775a1120bdreisendenkarte_20251106-101000.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3902bbde-febc-4a86-8ca7-9a775a1120bdreisendenkarte_20251106-101000.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 10:10:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 10:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05525c18-d449-4df1-b244-30471cfd8a1d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "dfe10eee-ffc6-40d4-a5d7-84a4da9175ac",
