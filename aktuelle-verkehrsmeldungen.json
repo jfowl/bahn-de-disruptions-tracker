@@ -467,6 +467,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "04480780-40ca-434e-adfc-faab025151cd",
+      "disruptionId": "bf08b29a-0afe-473e-89c4-0c0009c55d12",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 6 Heimeranplatz ↔ Pasing",
+      "summary": "Die Züge können wieder zwischen Heimeranplatz und Pasing fahren.",
+      "text": "<p>Es kommt noch zu vereinzelten Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/bf08b29a-0afe-473e-89c4-0c0009c55d12",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/68863086-270b-411c-bd8b-a720cbaed329reisendenkarte_20251106-101708.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/68863086-270b-411c-bd8b-a720cbaed329reisendenkarte_20251106-101708.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 10:17:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 11:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/04480780-40ca-434e-adfc-faab025151cd",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
+    },
+    {
       "id": "49b73056-afc6-4126-aefe-ac3a8a2b2438",
       "disruptionId": "047e2799-b021-4435-94fe-ff082a32dd3f",
       "author": "S_BAHN_RM",
@@ -629,71 +674,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "1831ba6e-c354-43ff-b835-ebe3f542b775",
-      "disruptionId": "011cb98f-6d81-46fb-8761-85a1933a77ea",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: Stammstrecke Pasing ↔ Ostbahnhof",
-      "summary": "Die Züge können wieder zwischen Pasing und Ostbahnhof fahren. ",
-      "text": "<p>Es kommt noch zu Verspätungen von bis zu 15 Minuten und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/011cb98f-6d81-46fb-8761-85a1933a77ea",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2591f56f-433f-4096-8ac5-1290d8814c04reisendenkarte_20251106-092214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2591f56f-433f-4096-8ac5-1290d8814c04reisendenkarte_20251106-092214.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 09:22:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 09:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1831ba6e-c354-43ff-b835-ebe3f542b775",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -973,56 +953,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
     },
     {
-      "id": "698817fe-6541-441f-85f9-ee0bb1be6650",
-      "disruptionId": "9608fd0f-0c6d-48a5-9c88-4ebe04772153",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 1, S 8 Unterföhring: Defektes Stellwerk",
-      "summary": "Im Bereich Unterföhring kommt es zu Verspätungen von bis 20 Minuten, vereinzelt auch höher und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/9608fd0f-0c6d-48a5-9c88-4ebe04772153",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/d570af36-a3d3-4981-ba8c-d98b11b23a85reisendenkarte_20251106-100226.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/d570af36-a3d3-4981-ba8c-d98b11b23a85reisendenkarte_20251106-100226.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 10:02:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 10:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/698817fe-6541-441f-85f9-ee0bb1be6650",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -1114,6 +1044,42 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
+      "disruptionId": "317064a3-c5d2-4967-8e7d-02da338a8cfa",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Glashütte ⇄ (Kurort) Altenberg - Fahrtausfälle",
+      "summary": "Der Streckenabschnitt zwischen Glashütte und (Kurort) Altenberg ist im Moment gesperrt. Die Sperrung bleibt für voraussichtlich 14 Tage bestehen. Der Grund ist eine Bahnübergangsstörung",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</strong></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Bahnübergangsstörung</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zugverkehr wurde vorübergehend eingestellt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "20.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/317064a3-c5d2-4967-8e7d-02da338a8cfa",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 72",
+          "filterName": "RB 72",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.11.2025 10:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "42bd58d4-d9c3-40d9-b6b2-a1e9a7dd5c21",
       "disruptionId": "ab8cfc77-9ab5-4e29-bd91-69123d2c77b0",
       "author": "REGIO_BW",
@@ -1164,42 +1130,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/42bd58d4-d9c3-40d9-b6b2-a1e9a7dd5c21",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
-    },
-    {
-      "id": "1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
-      "disruptionId": "317064a3-c5d2-4967-8e7d-02da338a8cfa",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Glashütte ⇄ (Kurort) Altenberg - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt zwischen Glashütte und (Kurort) Altenberg ist im Moment gesperrt. Die Sperrung bleibt für voraussichtlich 14 Tage bestehen. Der Grund ist eine Bahnübergangsstörung",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</strong></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Bahnübergangsstörung</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zugverkehr wurde vorübergehend eingestellt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "20.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/317064a3-c5d2-4967-8e7d-02da338a8cfa",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RB 72",
-          "filterName": "RB 72",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.11.2025 08:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
@@ -1921,96 +1851,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
-    },
-    {
-      "id": "dfe10eee-ffc6-40d4-a5d7-84a4da9175ac",
-      "disruptionId": "817022a5-50af-4025-86b8-912ee437e886",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Endmeldung: S 6 Ebersberg",
-      "summary": "Im Bereich Ebersberg kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/817022a5-50af-4025-86b8-912ee437e886",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/038ef8d7-4869-415e-af0c-6a542417dffdreisendenkarte_20251106-093935.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/038ef8d7-4869-415e-af0c-6a542417dffdreisendenkarte_20251106-093935.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 09:39:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 10:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dfe10eee-ffc6-40d4-a5d7-84a4da9175ac",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle0"
-    },
-    {
-      "id": "05525c18-d449-4df1-b244-30471cfd8a1d",
-      "disruptionId": "8e51a2a4-d1a9-41ec-90b5-b5866fe73f63",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "S 3 Olching ↔ Mammendorf: Die Verfügbarkeit der Gleise war durch einen Zug des Fernverkehrs eingeschränkt",
-      "summary": "Zwischen Olching und Mammendorf kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
-      "text": "<p>Die Verfügbarkeit der Gleise war durch einen Zug des Fernverkehrs eingeschränkt.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/8e51a2a4-d1a9-41ec-90b5-b5866fe73f63",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3902bbde-febc-4a86-8ca7-9a775a1120bdreisendenkarte_20251106-101000.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3902bbde-febc-4a86-8ca7-9a775a1120bdreisendenkarte_20251106-101000.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 10:10:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 10:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/05525c18-d449-4df1-b244-30471cfd8a1d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
