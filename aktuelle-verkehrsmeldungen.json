@@ -467,51 +467,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "04480780-40ca-434e-adfc-faab025151cd",
-      "disruptionId": "bf08b29a-0afe-473e-89c4-0c0009c55d12",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 6 Heimeranplatz ↔ Pasing",
-      "summary": "Die Züge können wieder zwischen Heimeranplatz und Pasing fahren.",
-      "text": "<p>Es kommt noch zu vereinzelten Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/bf08b29a-0afe-473e-89c4-0c0009c55d12",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/68863086-270b-411c-bd8b-a720cbaed329reisendenkarte_20251106-101708.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/68863086-270b-411c-bd8b-a720cbaed329reisendenkarte_20251106-101708.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 10:17:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 11:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/04480780-40ca-434e-adfc-faab025151cd",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
-    },
-    {
       "id": "49b73056-afc6-4126-aefe-ac3a8a2b2438",
       "disruptionId": "047e2799-b021-4435-94fe-ff082a32dd3f",
       "author": "S_BAHN_RM",
@@ -951,6 +906,71 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/19f452fb-a70b-47ec-8316-12fade399f72",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
+      "id": "c77a14e9-d5a7-4998-bbf8-3b79a8dcaafa",
+      "disruptionId": "fe1c1b8d-29f7-42c7-813e-70e3a31909e9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Karlsplatz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Karlsplatz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Marienplatz oder Hauptbahnhof.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Karlsplatz.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/fe1c1b8d-29f7-42c7-813e-70e3a31909e9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3ec7ef98-51bb-4236-af5d-f924a7bb3e57reisendenkarte_20251106-114022.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/3ec7ef98-51bb-4236-af5d-f924a7bb3e57reisendenkarte_20251106-114022.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 11:40:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 11:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c77a14e9-d5a7-4998-bbf8-3b79a8dcaafa",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
