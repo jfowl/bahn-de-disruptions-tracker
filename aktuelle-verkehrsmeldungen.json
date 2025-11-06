@@ -633,6 +633,71 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "1831ba6e-c354-43ff-b835-ebe3f542b775",
+      "disruptionId": "011cb98f-6d81-46fb-8761-85a1933a77ea",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: Stammstrecke Pasing ↔ Ostbahnhof",
+      "summary": "Die Züge können wieder zwischen Pasing und Ostbahnhof fahren. ",
+      "text": "<p>Es kommt noch zu Verspätungen von bis zu 15 Minuten und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/011cb98f-6d81-46fb-8761-85a1933a77ea",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2591f56f-433f-4096-8ac5-1290d8814c04reisendenkarte_20251106-092214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2591f56f-433f-4096-8ac5-1290d8814c04reisendenkarte_20251106-092214.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 09:22:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 09:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1831ba6e-c354-43ff-b835-ebe3f542b775",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -734,71 +799,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "1831ba6e-c354-43ff-b835-ebe3f542b775",
-      "disruptionId": "011cb98f-6d81-46fb-8761-85a1933a77ea",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Unbefugte Personen auf der Strecke",
-      "summary": "Zwischen Pasing und Ostbahnhof sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
-      "durationBegin": "06.11.2025",
-      "durationEnd": "06.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/011cb98f-6d81-46fb-8761-85a1933a77ea",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/d944d3a2-a3d3-4465-88d9-b86346699b31reisendenkarte_20251106-092214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/d944d3a2-a3d3-4465-88d9-b86346699b31reisendenkarte_20251106-092214.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.11.2025 09:22:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.11.2025 09:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1831ba6e-c354-43ff-b835-ebe3f542b775",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
       "id": "44ea67fb-4b8a-41c2-90eb-535632c2f861",
@@ -1064,6 +1064,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "42bd58d4-d9c3-40d9-b6b2-a1e9a7dd5c21",
+      "disruptionId": "ab8cfc77-9ab5-4e29-bd91-69123d2c77b0",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigungen zwischen Miltenberg und Seckach",
+      "summary": "Einzelne Zugausfälle zwischen Miltenberg - Walldürn und Seckach am Montag, 10. November und Dienstag, 11. November jeweils zwischen 12 und 21 Uhr. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk. Ein Ersatzverkehr mit Bus ist für die ausfallenden Züge eingerichtet. Die Zeiten und Standorte der Ersatzhaltestellen entnehmen Sie bitte aus dem Anhang. Nutzen Sie zudem noch die verkehrenden Züge der Linie RB 84.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 84 (Miltenberg – Seckach)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.11.2025",
+      "durationEnd": "11.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/ab8cfc77-9ab5-4e29-bd91-69123d2c77b0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-06/0216bd93-e1f5-4e50-9b0a-89623911d10breisendenkarte_20251106-093638.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-06/0216bd93-e1f5-4e50-9b0a-89623911d10breisendenkarte_20251106-093638.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 09:36:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-06/f1513d03-fe24-4243-b1e6-f966bb6187c1Ersatzfahrplan%2BMadonnenlandbahn.pdf",
+          "label": "Ersatzfahrplan Madonnenlandbahn Miltenberg - Seckach",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 84",
+          "filterName": "RB 84",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.11.2025 09:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/42bd58d4-d9c3-40d9-b6b2-a1e9a7dd5c21",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
     },
     {
       "id": "1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
@@ -1821,6 +1873,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "dfe10eee-ffc6-40d4-a5d7-84a4da9175ac",
+      "disruptionId": "817022a5-50af-4025-86b8-912ee437e886",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "S 6 Ebersberg: Technische Störung an einem Zug",
+      "summary": "Im Bereich Ebersberg kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen .",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "06.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/817022a5-50af-4025-86b8-912ee437e886",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2d03be5b-29a5-4776-bf36-b4c552a99413reisendenkarte_20251106-093935.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-06/2d03be5b-29a5-4776-bf36-b4c552a99413reisendenkarte_20251106-093935.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.11.2025 09:39:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.11.2025 09:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dfe10eee-ffc6-40d4-a5d7-84a4da9175ac",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle0"
     },
     {
       "id": "1f86ed37-aedc-451e-929c-07991e31c9f8",
