@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "1fb930b5-fa6b-42f2-87a9-3e271e2f7bae",
-      "disruptionId": "9c5bcdfa-478b-4d35-93b3-2ee0648a7eb2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Frankfurt(M) und Mannheim derzeit gesperrt. Dadurch kommt es zu Umleitungen und Verspätungen von ca. 15 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Frankfurt(M) - Mannheim - Karlsruhe - Basel</li><li>ICE-Züge der Verbindung Frankfurt(M) - Mannheim - Stuttgart - München</li><li>ICE-/TGV-Züge der Verbindung Frankfurt(M) - Mannheim - Karlsruhe/Saarbrücken - Paris</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c5bcdfa-478b-4d35-93b3-2ee0648a7eb2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/5f9d2c93-0ade-4781-9efb-9ffa435d6f9freisendenkarte_20251107-123007.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/5f9d2c93-0ade-4781-9efb-9ffa435d6f9freisendenkarte_20251107-123007.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.11.2025 12:30:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.11.2025 12:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1fb930b5-fa6b-42f2-87a9-3e271e2f7bae",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "32153982-c476-49df-8ae1-0df98c6e9f59",
       "disruptionId": "2c408a60-8ef3-4403-a7cf-13a3a5840968",
       "author": "FERNVERKEHR_AG",
@@ -775,6 +729,71 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/19f452fb-a70b-47ec-8316-12fade399f72",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
+      "id": "44cb90e6-b44b-42f7-87c9-f100c53ede87",
+      "disruptionId": "d6a2e2c7-c489-47ff-ba4e-8937658c23af",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes ",
+      "summary": "Derzeit kommt es auf der Stammstrecke in beide Richtungen zu Folgeverspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch weiterhin zu Teilausfällen.</p><p>Die ärztliche Versorgung eines Fahrgastes an der Hackerbrücke ist abgeschlossen.</p>",
+      "durationBegin": "07.11.2025",
+      "durationEnd": "07.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d6a2e2c7-c489-47ff-ba4e-8937658c23af",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-07/83c3cd82-104d-46a7-8782-cff83ec71c52reisendenkarte_20251107-125501.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-07/83c3cd82-104d-46a7-8782-cff83ec71c52reisendenkarte_20251107-125501.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.11.2025 12:55:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.11.2025 13:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/44cb90e6-b44b-42f7-87c9-f100c53ede87",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
