@@ -2,6 +2,65 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2d215b11-767f-43ae-821a-7a89ec37cf01",
+      "disruptionId": "ec8dec6a-230b-4a6a-b64f-95cad9eea515",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Nürnberg ⇄ München: Zugausfälle und Fahrzeitverlängerung",
+      "summary": "📅 30. Oktober (7 Uhr) bis 12. Dezember 2026 (23:59 Uhr)",
+      "text": "<p>👷 <strong>Grund der Bauarbeiten: </strong> Schienen- und Weichenerneuerung</p><p>🚉 <strong>Halte mit reduziertem Zugverkehr: </strong>Ingolstadt Hbf, München Hbf</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Zwischen München und Nürnberg nur noch max. 2 Züge pro Stunde, Fahrzeit verlängert sich um rund 30 Minuten</li><li>Ab Nürnberg besteht in/aus Richtung Nord-, Ost- bzw. Westdeutschland weiterhin das vollumfängliche Zugangebot</li><li>In Ingolstadt halten weiterhin stündlich Fernverkehrszüge, Direktverbindungen in/aus Richtung Hamburg entfallen, dafür stündlich von/nach Berlin</li></ul><p>✅ Die Fahrplandaten wurden bereits von uns aktualisiert. Bitte überprüfen Sie Ihre geplante Verbindung in der Fahrplanauskunft.</p>",
+      "durationBegin": "09.11.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec8dec6a-230b-4a6a-b64f-95cad9eea515",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/a6725602-4a5e-4d7c-a652-94aee9cb08e1reisendenkarte_20251107-210236.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/a6725602-4a5e-4d7c-a652-94aee9cb08e1reisendenkarte_20251107-210236.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.11.2025 21:02:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.11.2025 21:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2d215b11-767f-43ae-821a-7a89ec37cf01",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_construction"
+    },
+    {
       "id": "32153982-c476-49df-8ae1-0df98c6e9f59",
       "disruptionId": "2c408a60-8ef3-4403-a7cf-13a3a5840968",
       "author": "FERNVERKEHR_AG",
@@ -462,8 +521,8 @@
         "category": "medical_emergency",
         "label": "Notarzteinsatz auf der Strecke"
       },
-      "headline": "Notarzteinsatz zwischen Gottenheim und Freiburg Hbf",
-      "summary": "Die Strecke zwischen Gottenheim und Freiburg Hbf ist im Moment gesperrt. Dauer der Sperrung bis vsl. 20:30 Uhr. Der Grund ist ein Notarzteinsatz auf der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Für die Dauer der Sperrung wurde ein Ersatzverkehr mit Bussen eingerichtet. Es verkehrt jeweils ein Bus pro Richtung: um 19:05 Uhr ab Gottenheim und um 19:35 Uhr ab Freiburg Hbf.",
+      "headline": "Notarzteinsatz zwischen Gottenheim und Freiburg Hbf beendet",
+      "summary": "Die Strecke zwischen Gottenheim und Freiburg Hbf ist nach einem Notarzteinsatz wieder freigegeben. Bitte beachten Sie, dass es in der Folge weiterhin zu Verspätungen und möglichen Teilausfällen kommen kann, bis sich der Betrieb vollständig normalisiert hat.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 11 (Endingen – Freiburg – Titisee – Neustadt(Schwarzw)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "07.11.2025",
       "durationEnd": "07.11.2025",
@@ -489,7 +548,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.11.2025 20:15",
+      "lastModified": "07.11.2025 21:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
