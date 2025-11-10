@@ -368,6 +368,53 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d29dff20-8fc2-425b-b117-b91d5391ec30",
+      "disruptionId": "9c63918f-493f-4792-b9aa-55fdbac81d69",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S1 und S3: Alle Züge fahren wieder über Jungfernstieg",
+      "summary": "Die Züge der S1 und S3 fahren wieder über Jungfernstieg. Es ist keine Nutzung von Alternativen mehr notwendig.",
+      "text": "<p> </p>",
+      "durationBegin": "10.11.2025",
+      "durationEnd": "10.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/9c63918f-493f-4792-b9aa-55fdbac81d69",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.11.2025 06:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d29dff20-8fc2-425b-b117-b91d5391ec30",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
       "id": "3f89e727-b84f-4736-8d32-7738fd284225",
       "disruptionId": "fc3c443a-1f4b-4cb3-b71e-196e73cb650f",
       "author": "FERNVERKEHR_AG",
@@ -1080,16 +1127,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 5 Abweichende Linienführung: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kann es in Richtung Ostbahnhof zu Verspätungen von bis zu 5 Minuten kommen. Die S-Bahnen der Linie S 5 fahren abweichend der regulären Linienführung wie folgt:",
-      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ol><li>Giesing ↔ Pasing: <strong>S3</strong> Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong> S8</strong> Richtung Herrsching</li></ol><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S3 entfallen heute Vormittag bis auf folgende Ausnahmen:&nbsp;</strong></p><ol><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr</li></ol><p>Bitte beachten Sie, dass es heute Vormittag  zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von 5 bis 10 Minuten. Die Linie S 5 verkehrt nur zwischen Kreuzstraße ↔ Giesing. Zusätzlich entfallen heute Vormittag fast alle S-Bahnen der Linie S 3 des 10-Minuten-Takt. ",
+      "text": "<p>Die S 5 fährt abweichend der regulären Linienführung wie folgt:</p><p></p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur&nbsp;<strong>Kreuzstraße&nbsp;</strong>↔&nbsp;<strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong>&nbsp;S8</strong>&nbsp;Richtung Herrsching</li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S3 entfallen heute Vormittag bis auf folgende Ausnahmen:&nbsp;</strong></p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "10.11.2025",
       "durationEnd": "10.11.2025",
       "mapHref": "https://karte.bahn.de/detail/b958da0c-304e-4fcc-82d6-5c7a19473cb0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/7505ca62-1b2d-41bf-a7bd-fd14fc86c6edreisendenkarte_20251110-014033.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/7505ca62-1b2d-41bf-a7bd-fd14fc86c6edreisendenkarte_20251110-014033.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/3c191614-2310-4a0b-8b9b-0d0a50cd4308reisendenkarte_20251110-014033.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/3c191614-2310-4a0b-8b9b-0d0a50cd4308reisendenkarte_20251110-014033.png",
           "info": "",
           "alt": "Reisendenkarte 10.11.2025 01:40:33",
           "openInNewTab": true
@@ -1130,7 +1177,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.11.2025 05:38",
+      "lastModified": "10.11.2025 06:21",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1146,15 +1193,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einem Signal",
-      "summary": "Die S-Bahnen der Linie S 2 aus Richtung München wenden in Markt Schwaben. Zwischen Erding und Markt Schwaben verkehren 2 Pendelzüge. \nZudem kann es auf der Linie S 2 zu Verspätungen von 5 bis 10 Minuten und zu Zugausfällen kommen. Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:</p><p><strong>S 2 Erding → Dachau</strong></p><p>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr</p><p>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr</p><p>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uh</p><p><strong>S 2 Dachau → Ostbahnhof</strong></p><p>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr</p><p>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr</p><p>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</p><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Die S-Bahnen der Linie S 2 aus Richtung München beginnen/enden in Markt Schwaben. Zwischen Erding und Markt Schwaben verkehren 2 Pendelzüge. \nZudem kann es auf der Linie S 2 zu Verspätungen von 5 bis 10 Minuten und zu Zugausfällen kommen.",
+      "text": "<p>Zusätzlich fallen heute Vormittag folgende Züge der Linie S 2 des 10-Minuten-Takts aus:</p><p><strong>S 2 Erding → Dachau</strong></p><ul><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr</li></ul><p><strong>S 2 Dachau → Ostbahnhof</strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "10.11.2025",
       "durationEnd": "10.11.2025",
       "mapHref": "https://karte.bahn.de/detail/6e4933ee-6512-4f9f-af7c-c535a2816bfc",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/09f77a59-806f-4f57-bbbd-3106c6aa9a3freisendenkarte_20251110-024113.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/09f77a59-806f-4f57-bbbd-3106c6aa9a3freisendenkarte_20251110-024113.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/ca2954e1-2ec8-41b2-bba2-63857f7c4340reisendenkarte_20251110-024113.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/ca2954e1-2ec8-41b2-bba2-63857f7c4340reisendenkarte_20251110-024113.png",
           "info": "",
           "alt": "Reisendenkarte 10.11.2025 02:41:13",
           "openInNewTab": true
@@ -1175,7 +1222,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.11.2025 04:59",
+      "lastModified": "10.11.2025 06:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
