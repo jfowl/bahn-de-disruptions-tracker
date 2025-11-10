@@ -368,53 +368,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "d29dff20-8fc2-425b-b117-b91d5391ec30",
-      "disruptionId": "9c63918f-493f-4792-b9aa-55fdbac81d69",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S1 und S3: Alle Züge fahren wieder über Jungfernstieg",
-      "summary": "Die Züge der S1 und S3 fahren wieder über Jungfernstieg. Es ist keine Nutzung von Alternativen mehr notwendig.",
-      "text": "<p> </p>",
-      "durationBegin": "10.11.2025",
-      "durationEnd": "10.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c63918f-493f-4792-b9aa-55fdbac81d69",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.11.2025 06:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d29dff20-8fc2-425b-b117-b91d5391ec30",
-      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
-    },
-    {
       "id": "3f89e727-b84f-4736-8d32-7738fd284225",
       "disruptionId": "fc3c443a-1f4b-4cb3-b71e-196e73cb650f",
       "author": "FERNVERKEHR_AG",
@@ -549,6 +502,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "4f970edd-2c5b-4386-9a27-e5e0edda1fa3",
+      "disruptionId": "20569588-5a78-49d0-acb1-a7d0f2d4ea09",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Zugausfälle Tübingen Hbf- Reutlingen Hbf ",
+      "summary": "Aufgrund eingeschränkter Fahrzeugverfügbarkeit  kommt es zwischen Tübingen Hbf und Reutlingen Hbf zu Verspätungen und Ausfällen. Über die Dauer der Störung liegen uns noch keine Informationen vor.  Bitte Prüfen sie auch alternative Reisemöglichkeiten.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.11.2025",
+      "durationEnd": "10.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/20569588-5a78-49d0-acb1-a7d0f2d4ea09",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-10/97bb58b9-d729-4bb4-ab11-81bdeb81393ereisendenkarte_20251110-061514.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-10/97bb58b9-d729-4bb4-ab11-81bdeb81393ereisendenkarte_20251110-061514.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.11.2025 06:15:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.11.2025 06:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4f970edd-2c5b-4386-9a27-e5e0edda1fa3",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "e5508655-584a-4058-96dd-624164474baf",
@@ -1128,15 +1126,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "Stammstrecke: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von 5 bis 10 Minuten. Die Linie S 5 verkehrt nur zwischen Kreuzstraße ↔ Giesing. Zusätzlich entfallen heute Vormittag fast alle S-Bahnen der Linie S 3 des 10-Minuten-Takt. ",
-      "text": "<p>Die S 5 fährt abweichend der regulären Linienführung wie folgt:</p><p></p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur&nbsp;<strong>Kreuzstraße&nbsp;</strong>↔&nbsp;<strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong>&nbsp;S8</strong>&nbsp;Richtung Herrsching</li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S3 entfallen heute Vormittag bis auf folgende Ausnahmen:&nbsp;</strong></p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Auf der Stammstrecke kommt es in beide Richtung zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Die S 5 fährt abweichend der regulären Linienführung wie folgt:</p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur&nbsp;<strong>Kreuzstraße&nbsp;</strong>↔&nbsp;<strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Richtung Mammendorf</li><li>Pasing ↔ Weßling:<strong>&nbsp;S8</strong>&nbsp;Richtung Herrsching</li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S3 entfallen heute Vormittag bis auf folgende Ausnahmen:&nbsp;</strong></p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr</li></ul><p>Der Grund hierfür ist eine vorangegangene Reparatur an einem Signal in Laim.</p>",
       "durationBegin": "10.11.2025",
       "durationEnd": "10.11.2025",
       "mapHref": "https://karte.bahn.de/detail/b958da0c-304e-4fcc-82d6-5c7a19473cb0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/3c191614-2310-4a0b-8b9b-0d0a50cd4308reisendenkarte_20251110-014033.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/3c191614-2310-4a0b-8b9b-0d0a50cd4308reisendenkarte_20251110-014033.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/fcb43de6-02c4-4a2c-b5a1-8bf96b06a858reisendenkarte_20251110-014033.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-10/fcb43de6-02c4-4a2c-b5a1-8bf96b06a858reisendenkarte_20251110-014033.png",
           "info": "",
           "alt": "Reisendenkarte 10.11.2025 01:40:33",
           "openInNewTab": true
@@ -1177,7 +1175,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.11.2025 06:21",
+      "lastModified": "10.11.2025 06:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
