@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "c4bde108-8b20-40e9-99a3-87301b47d985",
-      "disruptionId": "147b4f55-e305-4837-be4a-a739b686284e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Beeinträchtigungen in Oldenburg(Oldb)",
-      "summary": "Aufgrund einer technischen Störung an der Strecke in Oldenburg(Oldb) kommt es derzeit zu Ausfällen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung München - Kassel-Wilhelmshöhe - Hannover - Oldenburg(Oldb) fallen zwischen Hannover und Oldenburg(Oldb) aus</li><li>IC-Züge der Verbindung Leipzig - Hannover - Bremen - Oldenburg(Oldb) - Emden - Norddeich fallen zwischen Bremen und Norddeich aus</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.11.2025",
-      "durationEnd": "11.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/147b4f55-e305-4837-be4a-a739b686284e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/4e0669c6-5601-48fe-85f1-28572be80352reisendenkarte_20251104-094805.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-07/4e0669c6-5601-48fe-85f1-28572be80352reisendenkarte_20251104-094805.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.11.2025 09:48:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.11.2025 14:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c4bde108-8b20-40e9-99a3-87301b47d985",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -633,6 +587,73 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "a025d7ab-de0b-4351-9484-9fb7a59d0dc0",
+      "disruptionId": "5a366dcc-85c7-409e-8b87-1388c5dde1b4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof beendet",
+      "summary": "Die S-Bahnen halten wieder am Hauptbahnhof.",
+      "text": "<p>Grund hierfür war ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "12.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/5a366dcc-85c7-409e-8b87-1388c5dde1b4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2025 00:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a025d7ab-de0b-4351-9484-9fb7a59d0dc0",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
+    },
+    {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
       "disruptionId": "bc589589-9035-433c-84ca-4dd1508531cc",
       "author": "S_BAHN_MUC",
@@ -830,63 +851,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2dcaf61c-caa4-4a45-94d6-8a72c5f3fa13",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction13"
-    },
-    {
-      "id": "d3bd210e-a7a2-411d-b203-08e8bbb70e61",
-      "disruptionId": "417dbf12-91fd-4e5c-9d28-946e92b230b8",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Magdeburg Hbf ⇄ Biederitz - Ersatzverkehr",
-      "summary": "Der Streckenabschnitt von Magdeburg Hbf bis Biederitz ist vom 04.11 - 11.11.2025 gesperrt. Der Grund sind kurzfristig notwendige Bauarbeiten.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund sind kurzfristig notwendige Bauarbeiten.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie RB 40 fallen zwischen Magdeburg Hbf und Biederitz aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist in Planung</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "04.11.2025",
-      "durationEnd": "11.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/417dbf12-91fd-4e5c-9d28-946e92b230b8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-10-30/55574b47-dac5-4602-ada8-305d044b4b5dreisendenkarte_20251030-114901.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-10-30/55574b47-dac5-4602-ada8-305d044b4b5dreisendenkarte_20251030-114901.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.10.2025 11:49:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-10-30/30f445e8-a440-42da-afba-502d71435cb6Ersatzfahrplan%2BLinie%2BRB%2B40%2BMagdeburg%2BHbf%2B-%2BBiederitz%2B-%2BBurg%2B04.11.%2B-%2B11.11.2025%2BRichtung%2BBurg.pdf",
-          "label": "Ersatzfahrplan Linie RB 40 04.11. - 11.11.2025 Richtung Burg",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-10-30/7a6fb6af-56c2-4648-a578-7645bec87f44Ersatzfahrplan%2BLinie%2BRB%2B40%2BMagdeburg%2BHbf%2B-%2BBiederitz%2B-%2BBurg%2B04.11.%2B-%2B11.11.2025%2BRichtung%2BMagdeburg%2BHbf.pdf",
-          "label": "Ersatzfahrplan Linie RB 40 04.11. - 11.11.2025 Richtung Magdeburg Hbf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.10.2025 13:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/d3bd210e-a7a2-411d-b203-08e8bbb70e61",
-      "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
       "id": "c76cc0fe-c977-47c7-9e41-bdb4a94b3079",
