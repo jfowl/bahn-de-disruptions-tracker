@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c4bde108-8b20-40e9-99a3-87301b47d985",
+      "disruptionId": "147b4f55-e305-4837-be4a-a739b686284e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen in Oldenburg(Oldb)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke in Oldenburg(Oldb) kommt es derzeit zu Ausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung München - Kassel-Wilhelmshöhe - Hannover - Oldenburg(Oldb) fallen zwischen Hannover und Oldenburg(Oldb) aus</li><li>IC-Züge der Verbindung Leipzig - Hannover - Bremen - Oldenburg(Oldb) - Emden - Norddeich fallen zwischen Bremen und Norddeich aus</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/147b4f55-e305-4837-be4a-a739b686284e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-12/b7662921-4d06-4a80-bb19-637a5295d297reisendenkarte_20251104-094805.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-12/b7662921-4d06-4a80-bb19-637a5295d297reisendenkarte_20251104-094805.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.11.2025 09:48:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.11.2025 02:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c4bde108-8b20-40e9-99a3-87301b47d985",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -585,73 +631,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "a025d7ab-de0b-4351-9484-9fb7a59d0dc0",
-      "disruptionId": "5a366dcc-85c7-409e-8b87-1388c5dde1b4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof beendet",
-      "summary": "Die S-Bahnen halten wieder am Hauptbahnhof.",
-      "text": "<p>Grund hierfür war ein Feuerwehreinsatz am Hauptbahnhof.</p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "12.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/5a366dcc-85c7-409e-8b87-1388c5dde1b4",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2025 00:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a025d7ab-de0b-4351-9484-9fb7a59d0dc0",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
     },
     {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
