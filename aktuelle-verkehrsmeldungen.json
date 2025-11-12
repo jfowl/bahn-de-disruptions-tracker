@@ -146,43 +146,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "c9061010-bf37-4b4e-ad5f-bd3ca39a042c",
-      "disruptionId": "376e07dd-511f-413d-8bf8-8dc50b6ac9e5",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "S3: Polizeieinsatz beendet. Die S3 fährt wieder zwischen Pinneberg und Elbgaustraße.",
-      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
-      "text": "<p> </p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "12.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/376e07dd-511f-413d-8bf8-8dc50b6ac9e5",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2025 09:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c9061010-bf37-4b4e-ad5f-bd3ca39a042c",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
-    },
-    {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
       "disruptionId": "b52f3274-67c3-4782-9d00-32253628fd7e",
       "author": "REGIO_BW",
@@ -405,6 +368,70 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
+      "disruptionId": "3ab71772-7f14-4e51-a653-06d5b393c483",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S3 / S5 Laim - Pasing: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke in beide Richtungen kommt es zu Verspätungen von 5 bis 10 Minuten. Bei den Linien der S3 und der S5 kommt es bis Freitag, den 14.11.2025 zu folgenden Änderungen im Fahrplan:",
+      "text": "<p><strong>S3 Deisenhofen ↔ Maisach</strong></p><p>Es <strong>entfallen </strong>sowohl <strong>Vormittags </strong>als auch <strong>Nachmittags alle </strong>S-Bahnen des <strong>10-Minuten-Takts</strong></p><p></p><p><strong>S5 Kreuzstraße ↔ Pasing/Weßling</strong></p><p>Die S-Bahnen verkehren nur zwischen <strong>Kreuzstraße </strong>↔ <strong>Giesing</strong></p><p><strong>Alternativen:&nbsp;</strong>&nbsp;&nbsp;</p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Mammendorf&nbsp;</li><li>Pasing&nbsp;↔&nbsp;Weßling:<strong>&nbsp;S8</strong>&nbsp;Herrsching</li></ul><p></p><p>Grund ist die andauernde Reparatur an einem Signal in Laim.</p><p>⭕Bitte beachten Sie, dass es ab Freitag, den 14.11.2025, 22:20 Uhr zu Bauarbeiten auf der Stammstrecke kommt. Die Linien der S3 und S5 verkehren ab dieser Uhrzeit gemäß Baustellenfahrplan.</p>",
+      "durationBegin": "11.11.2025",
+      "durationEnd": "14.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/3ab71772-7f14-4e51-a653-06d5b393c483",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen",
+          "label": "S-Bahn-München/Baustellen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2025 09:53",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "6a5bd71c-de85-4f88-ad60-bb34db433e9d",
       "disruptionId": "ec5466bf-ec76-463e-87ab-3818aabb82f2",
       "author": "S_BAHN_MUC",
@@ -440,55 +467,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6a5bd71c-de85-4f88-ad60-bb34db433e9d",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
-      "disruptionId": "3ab71772-7f14-4e51-a653-06d5b393c483",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S3 / S5 Laim - Pasing: Reparatur an einem Signal",
-      "summary": "Bei den Linien der S3 und der S5 kommt es bis Freitag, den 14.11.2025 zu folgenden Änderungen im Fahrplan:",
-      "text": "<p><strong>S3 Deisenhofen ↔ Maisach</strong></p><p>Es <strong>entfallen </strong>sowohl <strong>Vormittags </strong>als auch <strong>Nachmittags alle </strong>S-Bahnen des <strong>10-Minuten-Takts</strong></p><p></p><p><strong>S5 Kreuzstraße ↔ Pasing/Weßling</strong></p><p>Die S-Bahnen verkehren nur zwischen <strong>Kreuzstraße </strong>↔ <strong>Giesing</strong></p><p><strong>Alternativen:&nbsp;</strong>&nbsp;&nbsp;</p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Mammendorf&nbsp;</li><li>Pasing&nbsp;↔&nbsp;Weßling:<strong>&nbsp;S8</strong>&nbsp;Herrsching</li></ul><p></p><p>Grund ist die andauernde Reparatur an einem Signal in Laim.</p><p>⭕Bitte beachten Sie, dass es ab Freitag, den 14.11.2025, 22:20 Uhr zu Bauarbeiten auf der Stammstrecke kommt. Die Linien der S3 und S5 verkehren ab dieser Uhrzeit gemäß Baustellenfahrplan.</p>",
-      "durationBegin": "11.11.2025",
-      "durationEnd": "14.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/3ab71772-7f14-4e51-a653-06d5b393c483",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen",
-          "label": "S-Bahn-München/Baustellen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.11.2025 22:08",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
