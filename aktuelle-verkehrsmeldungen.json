@@ -17,8 +17,8 @@
       "mapHref": "https://karte.bahn.de/detail/a74a1c5a-e6a2-4262-97e0-19b7cf277e5a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/02c13bcc-436d-4b10-9837-6fb4488bec0areisendenkarte_20251112-140901.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/02c13bcc-436d-4b10-9837-6fb4488bec0areisendenkarte_20251112-140901.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/187302ea-e2a3-48d4-9779-402fef75d64ereisendenkarte_20251112-140901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/187302ea-e2a3-48d4-9779-402fef75d64ereisendenkarte_20251112-140901.png",
           "info": "",
           "alt": "Reisendenkarte 12.11.2025 14:09:01",
           "openInNewTab": true
@@ -27,8 +27,8 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
           "info": "",
           "openInNewTab": true
         },
@@ -39,26 +39,26 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://bahn.de",
           "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         },
         {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://www.bahn.de/service/mobile/db-navigator ",
           "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         }
@@ -87,7 +87,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.11.2025 15:42",
+      "lastModified": "12.11.2025 16:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -139,6 +139,50 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c4bde108-8b20-40e9-99a3-87301b47d985",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "36afe054-a03b-4650-9f98-5c5c41d9f509",
+      "disruptionId": "3ee9b079-7e1c-4694-be8f-295c55f2afe1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Hamburg und Lübeck",
+      "summary": "Aufgrund einer Reparatur an einer Weiche in Ahrensburg ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Hamburg und Lübeck fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende von/nach Lübeck Hbf nutzen bitte die verbliebenen Nahverkehrszüge zwischen Hamburg und Lübeck.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll in den heutigen Nachtstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/3ee9b079-7e1c-4694-be8f-295c55f2afe1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-12/559a2c02-9384-4345-bbaa-3928bf84fdebreisendenkarte_20251112-162455.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-12/559a2c02-9384-4345-bbaa-3928bf84fdebreisendenkarte_20251112-162455.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.11.2025 16:24:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.11.2025 16:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/36afe054-a03b-4650-9f98-5c5c41d9f509",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
@@ -237,51 +281,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "830697e1-49fe-4b69-8e64-056e9c8f1e00",
-      "disruptionId": "16454d53-36a5-469e-abdb-af23d47de003",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "Endmeldung: S 6 Starnberg ↔ Tutzing",
-      "summary": "Die Züge können wieder zwischen Starnberg und Tutzing fahren.",
-      "text": "<p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Die Gegenstände auf der Strecke wurden beseitigt.</p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "12.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/16454d53-36a5-469e-abdb-af23d47de003",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/ce00ea52-b0d2-4f3f-b5ac-96daf34d27f6reisendenkarte_20251112-153051.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/ce00ea52-b0d2-4f3f-b5ac-96daf34d27f6reisendenkarte_20251112-153051.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.11.2025 15:30:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2025 15:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/830697e1-49fe-4b69-8e64-056e9c8f1e00",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
     },
     {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
