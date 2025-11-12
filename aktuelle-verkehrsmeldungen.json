@@ -397,7 +397,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2025 10:45",
+      "lastModified": "12.11.2025 11:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -567,29 +567,35 @@
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S2: Offenbach(Main)Hbf - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 12.11.2025 zwischen 16:00 Uhr und 21:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "headline": "Teil- und Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S2: Offenbach(Main)Hbf - Dietzenbach Bahnhof</li><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 12.11.2025 zwischen 16:00 Uhr und 21:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S2 verkehrt im 30-Minuten-Takt.</li><li>Die Züge der RB61 aus Richtung Frankfurt(Main)Hbf enden vorzeitig in Rödermark-Ober Roden und wenden dort.</li></ul><p></p><p></p><strong>↪️ Empfehlungen und 🚍 Ersatzverkehr:</strong><ul><li>RB61: Es ist ein Ersatzverkehr zwischen Dieburg und Rödermark-Ober Roden eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
       "durationBegin": "12.11.2025",
-      "durationEnd": "12.11.2025",
+      "durationEnd": "13.11.2025",
       "mapHref": "https://karte.bahn.de/detail/730f9212-c999-4455-a9a1-300e22927eba",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "HE"
       ],
       "lines": [
         {
+          "name": "RB 61",
+          "filterName": "RB 61",
+          "property": "REGIONAL"
+        },
+        {
           "name": "S 2",
           "filterName": "S 2 Rhein-Main",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2025 10:39",
+      "lastModified": "12.11.2025 11:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -647,9 +653,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 6 Gauting: Reparatur an einer Weiche",
-      "summary": "Aufgrund einer Reparatur an einer Weiche in Gauting halten die S-Bahnen der Linie S6 in Fahrtrichtung stadteinwärts derzeit nicht in Gauting.",
-      "text": "<p>Fahrgäste, die in Richtung München fahren möchten, werden gebeten, zunächst in Fahrtrichtung Starnberg einzusteigen und dort in einen Gegenzug in Richtung stadteinwärts umzusteigen. Fahrgäste aus Richtung Tutzing, die in Gauting aussteigen möchten, fahren bitte bis Stockdorf und steigen dort in einen Gegenzug zurück nach Gauting um.</p>",
+      "headline": "Endmeldung: S 6 Gauting",
+      "summary": "Die S-Bahnen halten wieder Gauting.",
+      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
       "durationBegin": "12.11.2025",
       "durationEnd": "12.11.2025",
       "mapHref": "https://karte.bahn.de/detail/df24e4a0-416d-4233-bd70-9969598fa457",
@@ -669,7 +675,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2025 11:11",
+      "lastModified": "12.11.2025 11:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1040,6 +1046,53 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "7088a7e5-8b09-4372-96e5-5624e733d47d",
+      "disruptionId": "240ffdb7-9a45-40b5-9025-326a89facb57",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Reparatur an einem Signal in Ravensburg",
+      "summary": "Die Reparatur an einem Signal beeinträchtigt den Zugverkehr zwischen Aulendorf und Friedrichshafen Stadt. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Bitte Prüfen Sie Ihre Reiseverbindung. ",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "12.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/240ffdb7-9a45-40b5-9025-326a89facb57",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.11.2025 11:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7088a7e5-8b09-4372-96e5-5624e733d47d",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
