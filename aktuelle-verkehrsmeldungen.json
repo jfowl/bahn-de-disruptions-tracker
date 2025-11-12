@@ -2,6 +2,99 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c24e4563-89ab-4364-8d96-cfd879215f5c",
+      "disruptionId": "a74a1c5a-e6a2-4262-97e0-19b7cf277e5a",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Hamburg-Rahlstedt und Bad Oldesloe",
+      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Bad Oldesloe und Hamburg-Rahlstedt ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Züge enden/beginnen in Bad Oldesloe.</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Züge fallen aus.</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Züge verkehren zwischen Hamburg Hbf und Hamburg-Rahlstedt.</li></ul><p></p><p>Ein Ersatzverkehr mit sechs Bussen der Firma Busteam Deutschland und der Firma Engine Unit mit zwei Bussen ist im Pendelverkehr zwischen Bad Oldesloe und Hamburg-Rahlstedt für Sie eingerichtet.</p><p>Reisende zwischen Lübeck und Hamburg nutzen bitte zwischen Hamburg Hbf und Hamburg-Rahlstedt die planmäßig verkehrenden Züge der Linie RB 81, zwischen Hamburg-Rahlstedt und Bad Oldesloe bitte den eingerichteten Ersatzverkehr mit Bus und zwischen Bad Oldesloe und Lübeck die planmäßig verkehrenden Züge der Linie RE 8.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "12.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/a74a1c5a-e6a2-4262-97e0-19b7cf277e5a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/3174298b-b407-4b19-97c1-42a11319e744reisendenkarte_20251112-140901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-12/3174298b-b407-4b19-97c1-42a11319e744reisendenkarte_20251112-140901.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.11.2025 14:09:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH ",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.11.2025 14:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c24e4563-89ab-4364-8d96-cfd879215f5c",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "c4bde108-8b20-40e9-99a3-87301b47d985",
       "disruptionId": "147b4f55-e305-4837-be4a-a739b686284e",
       "author": "FERNVERKEHR_AG",
@@ -161,8 +254,8 @@
       "mapHref": "https://karte.bahn.de/detail/16454d53-36a5-469e-abdb-af23d47de003",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/ac567448-e649-4f01-9d86-fef68b81a435reisendenkarte_20251112-121757.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/ac567448-e649-4f01-9d86-fef68b81a435reisendenkarte_20251112-121757.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/cdaabc24-e592-427c-94ea-93ba059def85reisendenkarte_20251112-121757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/cdaabc24-e592-427c-94ea-93ba059def85reisendenkarte_20251112-121757.png",
           "info": "",
           "alt": "Reisendenkarte 12.11.2025 12:17:57",
           "openInNewTab": true
@@ -183,7 +276,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2025 12:40",
+      "lastModified": "12.11.2025 14:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -413,6 +506,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "6a5bd71c-de85-4f88-ad60-bb34db433e9d",
+      "disruptionId": "ec5466bf-ec76-463e-87ab-3818aabb82f2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Erding ↔ Riem: Reparatur an einem Signal",
+      "summary": "Zwischen Erding und Riem kommt es zu Verspätungen von 5 bis zu 10 Minuten Teilausfällen und zusätzlich ein Ersatzverkehr zwischen Markt Schwaben und Feldkirchen in Richtung stadteinwärts bis 14:30 Uhr.\n",
+      "text": "<p><strong>Ab S 2 Erding Abfahrt 13:58 → Petershausen Ankunft 15:27 halten S-Bahnen wieder planmäßig zwischen Markt Schwaben und Feldkirchen.</strong></p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "12.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/ec5466bf-ec76-463e-87ab-3818aabb82f2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/33c6452c-56ab-415b-9cf1-057b3b41af8ereisendenkarte_20251112-141303.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-12/33c6452c-56ab-415b-9cf1-057b3b41af8ereisendenkarte_20251112-141303.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.11.2025 14:13:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2025 14:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6a5bd71c-de85-4f88-ad60-bb34db433e9d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
       "disruptionId": "3ab71772-7f14-4e51-a653-06d5b393c483",
       "author": "S_BAHN_MUC",
@@ -475,43 +613,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1523b6f5-d910-42a6-bfbf-7d3dffc25ac2",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "6a5bd71c-de85-4f88-ad60-bb34db433e9d",
-      "disruptionId": "ec5466bf-ec76-463e-87ab-3818aabb82f2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Erding ↔ Riem: Reparatur an einem Signal",
-      "summary": "Zwischen Erding und Riem kommt es zu Verspätungen von 10 bis zu 15  Minuten Teilausfällen, Haltausfällen  und zusätzlich ein Ersatzverkehr zwischen Markt Schwaben und Feldkirchen in Richtung stadteinwärts .\n",
-      "text": "<p><strong>Die S-Bahnen der Linie S2 verkehren in Fahrtrichtung München zwischen Markt Schwaben und Feldkirchen ohne Zwischenhalt.</strong></p><p>Aufgrund der Haltausfällen besteht ein <strong>\"Ersatzverkehr\"</strong> zwischen Markt Schwaben und Feldkirchen mit Bussen. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung. Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "12.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/ec5466bf-ec76-463e-87ab-3818aabb82f2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2025 11:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6a5bd71c-de85-4f88-ad60-bb34db433e9d",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
