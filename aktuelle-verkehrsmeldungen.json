@@ -244,18 +244,25 @@
         "category": "medical_emergency",
         "label": "Notarzteinsatz auf der Strecke"
       },
-      "headline": "S 1 Feldmoching ↔ Moosach: Notarzteinsatz auf der Strecke",
-      "summary": "Zwischen Feldmoching und Moosach ist die Strecke gesperrt. Die S-Bahnen wenden in Feldmoching.",
-      "text": "<p></p><p><strong>Alternative:</strong></p><ul><li>U 2 : Feldmoching</li><li>U 3 : Moossach</li><li>Bus 175 Fasanerie ↔ OEZ</li><li>Die Fahrgäste mit direkten Fahrziel von/zu Flughafen nutzen die Linie S 8.</li></ul><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "headline": "Endmeldung: S 1 Feldmoching ↔ Moosach",
+      "summary": "Die Strecke zwischen Moosach und Feldmoching ist frei gegeben, daher fahren die S-Bahnen der Linie S 1 wieder Regelweg. Zwischen Feldmoching und Moosach kommt es noch zu vereinzelten Zugfolgeverspätungen und Teilausfällen .",
+      "text": "<p>Der Notarzteinsatz auf der Strecke wurde beendet.</p>",
       "durationBegin": "13.11.2025",
       "durationEnd": "13.11.2025",
       "mapHref": "https://karte.bahn.de/detail/3a8ed384-9db2-4de2-ba9b-75002a46398b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/509e8fdc-79bc-4542-9b94-06898db27587reisendenkarte_20251113-060822.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/509e8fdc-79bc-4542-9b94-06898db27587reisendenkarte_20251113-060822.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/0af4ade2-dd8d-4ef4-84e1-1a2e23efcba7reisendenkarte_20251113-060822.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/0af4ade2-dd8d-4ef4-84e1-1a2e23efcba7reisendenkarte_20251113-060822.png",
           "info": "",
           "alt": "Reisendenkarte 13.11.2025 06:08:22",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/8203171e-f670-4495-962e-0f8eeb810e1breisendenkarte_20251113-082018.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/8203171e-f670-4495-962e-0f8eeb810e1breisendenkarte_20251113-082018.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.11.2025 08:20:18",
           "openInNewTab": true
         }
       ],
@@ -274,7 +281,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.11.2025 07:21",
+      "lastModified": "13.11.2025 08:25",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -761,6 +768,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ea08d05-03f7-40a9-8c10-d5f94cc0b202",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
+    },
+    {
+      "id": "f3bc60b8-3f7b-485d-88d0-c28ba33c403a",
+      "disruptionId": "5def2d7e-83b4-4cbf-ac99-9111aa9c73d6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof",
+      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
+      "text": "<p><strong>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz.</strong></p><p>Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "13.11.2025",
+      "durationEnd": "13.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/5def2d7e-83b4-4cbf-ac99-9111aa9c73d6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/ab41bfb2-3bc5-4f6e-ae1f-2a188c311eadreisendenkarte_20251113-083139.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/ab41bfb2-3bc5-4f6e-ae1f-2a188c311eadreisendenkarte_20251113-083139.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.11.2025 08:31:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.11.2025 08:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f3bc60b8-3f7b-485d-88d0-c28ba33c403a",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity1"
     },
     {
       "id": "13bef8bd-7a9e-45bd-932e-d53e01433ac2",
