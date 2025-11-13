@@ -2,99 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "c24e4563-89ab-4364-8d96-cfd879215f5c",
-      "disruptionId": "a74a1c5a-e6a2-4262-97e0-19b7cf277e5a",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg-Rahlstedt und Bad Oldesloe ist beendet",
-      "summary": "Die Reparatur an einer Weiche zwischen Hamburg-Rahlstedt und Bad Oldesloe ist beendet.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Der erste durchfahrende Zug ist RE 11409 ab Lübeck Hbf (08:09).</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Der Betrieb wird sukzessiv wieder voll aufgenommen.</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Der erste durchfahrende Zug ist RE 11358 ab Hamburg Hbf (08:11).</li></ul><p>Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "13.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/a74a1c5a-e6a2-4262-97e0-19b7cf277e5a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-13/81347c2b-3ac6-42e2-a7bd-693548692ac2reisendenkarte_20251113-052144.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-11-13/81347c2b-3ac6-42e2-a7bd-693548692ac2reisendenkarte_20251113-052144.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.11.2025 05:21:44",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 80",
-          "filterName": "RE 80",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "13.11.2025 09:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c24e4563-89ab-4364-8d96-cfd879215f5c",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "36afe054-a03b-4650-9f98-5c5c41d9f509",
       "disruptionId": "3ee9b079-7e1c-4694-be8f-295c55f2afe1",
       "author": "FERNVERKEHR_AG",
@@ -235,6 +142,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "3b975510-898b-4e09-bb0c-7d23f11f92f2",
+      "disruptionId": "b4b5a00f-49ba-41e5-8651-45278a489a04",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 4, S 6 Haar: Reparatur an einer Weiche",
+      "summary": "Im Bereich Haar kommt es zu Verspätungen, Teilausfällen und Umleitungen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "13.11.2025",
+      "durationEnd": "13.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/b4b5a00f-49ba-41e5-8651-45278a489a04",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/39111d01-1fb4-4f38-9d0e-10f302e5afd5reisendenkarte_20251113-101535.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/39111d01-1fb4-4f38-9d0e-10f302e5afd5reisendenkarte_20251113-101535.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.11.2025 10:15:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.11.2025 10:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3b975510-898b-4e09-bb0c-7d23f11f92f2",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
     },
     {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
@@ -467,7 +424,7 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S3 / S5 Laim - Pasing: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke in beide Richtungen kommt es zu Verspätungen von 10 bis 15 Minuten und vorzeitigen Zuwendungen. Bei den Linien der S3 und der S5 kommt es bis Freitag, den 14.11.2025 zu folgenden Änderungen im Fahrplan:",
+      "summary": "Auf der Stammstrecke in beide Richtungen kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen auf den Außenästen. Bei den Linien der S3 und der S5 kommt es bis Freitag, den 14.11.2025 zu folgenden Änderungen im Fahrplan:",
       "text": "<p><strong>S3 Deisenhofen ↔ Maisach</strong></p><p>Es <strong>entfallen </strong>sowohl <strong>Vormittags </strong>als auch <strong>Nachmittags alle </strong>S-Bahnen des <strong>10-Minuten-Takts</strong></p><p></p><p><strong>S5 Kreuzstraße ↔ Pasing/Weßling</strong></p><p>Die S-Bahnen verkehren nur zwischen <strong>Kreuzstraße </strong>↔ <strong>Giesing</strong></p><p><strong>Alternativen:&nbsp;</strong>&nbsp;&nbsp;</p><ul><li>Giesing ↔ Pasing:&nbsp;<strong>S3</strong>&nbsp;Mammendorf&nbsp;</li><li>Pasing&nbsp;↔&nbsp;Weßling:<strong>&nbsp;S8</strong>&nbsp;Herrsching</li></ul><p></p><p>Grund ist die andauernde Reparatur an einem Signal in Laim.</p><p>⭕Bitte beachten Sie, dass es ab Freitag, den 14.11.2025, 22:20 Uhr zu Bauarbeiten auf der Stammstrecke kommt. Die Linien der S3 und S5 verkehren ab dieser Uhrzeit gemäß Baustellenfahrplan.</p>",
       "durationBegin": "11.11.2025",
       "durationEnd": "14.11.2025",
@@ -515,7 +472,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2025 13:24",
+      "lastModified": "13.11.2025 10:04",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1057,8 +1014,8 @@
       "mapHref": "https://karte.bahn.de/detail/e0978eaf-5451-4fcc-8e35-670495f3d9ce",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/67b44b97-15c9-4f2b-b5f2-25f37b7e404areisendenkarte_20251113-080431.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/67b44b97-15c9-4f2b-b5f2-25f37b7e404areisendenkarte_20251113-080431.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/06167ada-a214-4824-9480-078fbe56612breisendenkarte_20251113-080431.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/06167ada-a214-4824-9480-078fbe56612breisendenkarte_20251113-080431.png",
           "info": "",
           "alt": "Reisendenkarte 13.11.2025 08:04:31",
           "openInNewTab": true
@@ -1079,7 +1036,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.11.2025 09:49",
+      "lastModified": "13.11.2025 10:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
