@@ -191,52 +191,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "55ca7264-b1a0-498e-8f7f-44f28b8f5fc8",
-      "disruptionId": "5200e3a4-e6d6-44b6-acfd-0a6d4608fab1",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Umleitungen zwischen Frankfurt(Main)Süd - Hanau Hbf",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht 12./13. November von 20 Uhr bis 6 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge werden zwischen Frankfurt(Main)Süd und Hanau Hbf in beiden Richtungen ohne Zwischenhalt umgeleitet.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Beziehen Sie auch andere Verkehrsmittel mit ein, um an Ihr Reiseziel zu gelangen.</li><li>Nutzen Sie auch den Ersatzverkehr mit Bussen zwischen (Frankfurt(Main)Hbf -) Frankfurt(Main)Süd - Maintal Ost - Hanau Hbf (- Aschaffenburg Hbf).</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "12.11.2025",
-      "durationEnd": "13.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/5200e3a4-e6d6-44b6-acfd-0a6d4608fab1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-12/b8261a33-febc-4381-b9ef-f2fd9d925b88reisendenkarte_20251112-173631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-11-12/b8261a33-febc-4381-b9ef-f2fd9d925b88reisendenkarte_20251112-173631.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.11.2025 17:36:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE 54",
-          "filterName": "RE 54",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.11.2025 20:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/55ca7264-b1a0-498e-8f7f-44f28b8f5fc8",
-      "magnoliaPath": "/aktuell/hessen/detour_technical_problem_railway_section"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -281,6 +235,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "765fcf9d-cd61-4659-a31c-e07f39ca6a70",
+      "disruptionId": "3a8ed384-9db2-4de2-ba9b-75002a46398b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S 1 Feldmoching ↔ Moosach: Notarzteinsatz auf der Strecke",
+      "summary": "Zwischen Feldmoching und Moosach ist die Strecke gesperrt. Die S-Bahnen wenden in Feldmoching und Moosach.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "durationBegin": "13.11.2025",
+      "durationEnd": "13.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/3a8ed384-9db2-4de2-ba9b-75002a46398b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/d64c7b67-bd0f-4503-90ab-df9032ab217ereisendenkarte_20251113-060822.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/d64c7b67-bd0f-4503-90ab-df9032ab217ereisendenkarte_20251113-060822.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.11.2025 06:08:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.11.2025 06:10",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/765fcf9d-cd61-4659-a31c-e07f39ca6a70",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency"
     },
     {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
@@ -1086,6 +1085,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "e2ecd1dd-177b-4024-b1f2-517ede469db7",
+      "disruptionId": "92d0c05d-debe-42e2-9fd6-34dd07a04051",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Perlach kommt es zu Verspätungen und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "13.11.2025",
+      "durationEnd": "13.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/92d0c05d-debe-42e2-9fd6-34dd07a04051",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/b59d1908-a8a1-4628-83f7-ffa1cf897d3creisendenkarte_20251113-061300.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-13/b59d1908-a8a1-4628-83f7-ffa1cf897d3creisendenkarte_20251113-061300.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.11.2025 06:13:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.11.2025 06:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e2ecd1dd-177b-4024-b1f2-517ede469db7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "071ec496-07ea-4cc8-9ee4-ad7ccf3cd369",
