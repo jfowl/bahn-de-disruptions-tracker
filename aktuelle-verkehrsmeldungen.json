@@ -184,6 +184,56 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "85fa9c8e-a606-400b-829b-95c2c517b249",
+      "disruptionId": "7c67565c-a75a-4d01-a458-888027e2e8f3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 6, S 8 Gauting ↔ Starnberg: Unbefugte Personen auf der Strecke verschwunden",
+      "summary": "Zwischen Gauting und Starnberg kommt es zu Folgeverspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür waren kurzzeitig unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "15.11.2025",
+      "durationEnd": "15.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/7c67565c-a75a-4d01-a458-888027e2e8f3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-15/d7531e9f-d47b-4178-b088-2b4b57f958c0reisendenkarte_20251115-181426.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-15/d7531e9f-d47b-4178-b088-2b4b57f958c0reisendenkarte_20251115-181426.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.11.2025 18:14:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.11.2025 18:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/85fa9c8e-a606-400b-829b-95c2c517b249",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
+    },
+    {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
       "disruptionId": "b52f3274-67c3-4782-9d00-32253628fd7e",
       "author": "REGIO_BW",
@@ -1060,6 +1110,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ba3f573-1dcf-4bf2-969f-7147457e86e2",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
+    },
+    {
+      "id": "35769ecb-fa4f-4fdc-b6c1-424ecd83d55c",
+      "disruptionId": "0f20a81d-b6d1-47da-8171-188abe4f4211",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "S 3 Holzkirchen: Technischer Defekt an einem anderen Zug",
+      "summary": "Im Bereich Holzkirchen kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen. Nutzen Sie bitte zwischen Deisenhofen und Holzkirchen alternativ die Züge der BOB.",
+      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "15.11.2025",
+      "durationEnd": "15.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/0f20a81d-b6d1-47da-8171-188abe4f4211",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-15/78223549-2cb6-4af3-90ca-e5e0bc965464reisendenkarte_20251115-180827.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-15/78223549-2cb6-4af3-90ca-e5e0bc965464reisendenkarte_20251115-180827.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.11.2025 18:08:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.11.2025 18:11",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/35769ecb-fa4f-4fdc-b6c1-424ecd83d55c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "071ec496-07ea-4cc8-9ee4-ad7ccf3cd369",
