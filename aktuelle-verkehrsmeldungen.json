@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "fad28463-e2cd-447b-9cda-43bd9650a3a6",
+      "disruptionId": "6b558b8a-8bb8-4252-a8ef-11f669c32d51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover bzw. Braunschweig und Berlin",
+      "summary": "Aufgrund von Bauarbeiten zwischen Stendal und Berlin kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen und Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Hannover bzw. Braunschweig und Berlin werden in Fahrtrichtung Berlin umgeleitet und verspäten sich dadurch um etwa 70 Minuten. Die Halte Wolfsburg Hbf, Stendal Hbf und Berlin-Spandau entfallen bei diesen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.11.2025",
+      "durationEnd": "17.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/6b558b8a-8bb8-4252-a8ef-11f669c32d51",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-16/1a9466e3-f57b-4261-a133-c94fcd2449a6reisendenkarte_20251116-190907.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-16/1a9466e3-f57b-4261-a133-c94fcd2449a6reisendenkarte_20251116-190907.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.11.2025 19:09:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.11.2025 19:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fad28463-e2cd-447b-9cda-43bd9650a3a6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction0"
+    },
+    {
       "id": "741712f6-6d26-4402-a347-4643e59d91ad",
       "disruptionId": "672f43d8-4992-46d1-915c-940b53dc60cf",
       "author": "REGIO_MITTE",
@@ -837,6 +885,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4e5767d9-eb65-4029-b9be-92a496bf9f1d",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "64004637-137c-4364-b92c-dc62829c5155",
+      "disruptionId": "ad771226-a027-407a-bc80-dbafd3b8e3f0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Gilching-Argelsried ↔ Herrsching: Verlängerung der Bauarbeiten",
+      "summary": "wegen verlängerter Gleisbauarbeiten kommt es zwischen Gilching-Argelsried ↔ Herrsching auch am Montag, 17. November 2025 bis voraussichtlich 14 Uhr zu Fahrplanänderungen und Ersatzverkehr mit Bussen. \n",
+      "text": "<p>Informationen hierzu finden Sie unter: https://www.s-bahn-muenchen.de/de/fahren/baustellen/s8</p>",
+      "durationBegin": "16.11.2025",
+      "durationEnd": "17.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/ad771226-a027-407a-bc80-dbafd3b8e3f0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-16/7401d8a9-7cfa-42f5-8fc5-f189af1f96a6reisendenkarte_20251116-191945.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-16/7401d8a9-7cfa-42f5-8fc5-f189af1f96a6reisendenkarte_20251116-191945.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.11.2025 19:19:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-16/15b4477b-3351-402a-9f36-6ee99f11557dFpl%252BEV%252BMGCH-MHI%252B15-17%252BNov%2B%25281%2529.pdf",
+          "label": "S 8 Fahrplan Verlängerung Bauarbeiten bis 17.11. - ca. 14:00 Uhr",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.11.2025 19:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/64004637-137c-4364-b92c-dc62829c5155",
+      "magnoliaPath": "/aktuell/bayern/additional_service_construction0"
     },
     {
       "id": "9f95cae2-aa27-4103-8024-a3af0f245d28",
