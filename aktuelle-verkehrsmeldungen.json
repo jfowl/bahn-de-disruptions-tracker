@@ -940,25 +940,25 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
-      "id": "a6cbc08a-cec3-4409-be7d-81bf43e0bced",
-      "disruptionId": "b506fa2f-78f1-4861-a66a-f6f28745dad6",
+      "id": "5e7f677c-ded1-44f5-af57-32fa35c4f85e",
+      "disruptionId": "ba23b2b2-f653-405d-a702-8f20591d6f5f",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 7 Hohenschäftlarn ↔ Wolfratshausen",
-      "summary": "Zwischen Hohenschäftlarn und Wolfratshausen kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technischer Defekt an einem Bahnübergang in Icking wurde behoben.</p>",
+      "headline": "S 8 / S 1 Besucherpark ↔ Flughafen: Reparatur an einem Signal",
+      "summary": "Zwischen Besucherpark und Flughafen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal am Besucherpark.</p>",
       "durationBegin": "18.11.2025",
       "durationEnd": "18.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/b506fa2f-78f1-4861-a66a-f6f28745dad6",
+      "mapHref": "https://karte.bahn.de/detail/ba23b2b2-f653-405d-a702-8f20591d6f5f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-18/2cc2acf4-34bd-4c94-9875-4d57560486b8reisendenkarte_20251118-063920.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-18/2cc2acf4-34bd-4c94-9875-4d57560486b8reisendenkarte_20251118-063920.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-18/6217c852-300c-4edb-aa54-5105e6f41e98reisendenkarte_20251118-102435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-18/6217c852-300c-4edb-aa54-5105e6f41e98reisendenkarte_20251118-102435.png",
           "info": "",
-          "alt": "Reisendenkarte 18.11.2025 06:39:20",
+          "alt": "Reisendenkarte 18.11.2025 10:24:35",
           "openInNewTab": true
         }
       ],
@@ -972,17 +972,22 @@
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.11.2025 09:52",
-      "expand": false,
+      "lastModified": "18.11.2025 10:26",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a6cbc08a-cec3-4409-be7d-81bf43e0bced",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/5e7f677c-ded1-44f5-af57-32fa35c4f85e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "850ac8f7-9395-4d9b-8f20-e5479a306641",
