@@ -2,6 +2,115 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ad78bc86-b319-4739-95d4-275c73406555",
+      "disruptionId": "85cd040f-43a5-49c0-bf00-f3575fdd423e",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S5: Aktuell fährt keine S5 zwischen Neugraben und Buxtehude. Grund: Feuerwehreinsatz. ",
+      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
+      "text": "<p> </p>",
+      "durationBegin": "20.11.2025",
+      "durationEnd": "20.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/85cd040f-43a5-49c0-bf00-f3575fdd423e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.11.2025 08:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ad78bc86-b319-4739-95d4-275c73406555",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
+      "id": "f5922805-f98f-4371-a803-a2d2a55e54d7",
+      "disruptionId": "e645729b-1796-4db4-8177-29185429ba9d",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Verkehrsmeldung für die Linien RE10, RE13, RE18, RB43 und RB49 - im Raum Cottbus Hbf",
+      "summary": "Freitag, 21.11.2025 09:00 Uhr bis vsl. Freitag, 21.11.2025 12:30 Uhr ",
+      "text": "<p>Wegen der Entschärfung einer Fliegerbombe kommt es am Freitag von 09:00 bis vsl. 12:30 Uhr zu Fahrtausfällen im Raum Cottbus Hbf.</p><p>Betroffene Linien: RE10, RE13, RE18, RB43 und RB49</p><p><strong>Linien RE10 und RB43:</strong></p><p>Die Züge der Linien RE10 und RB43 fallen zwischen Cottbus Hbf und Calau (Nl) aus.</p><p><strong>Linien RE18 und RB49:</strong></p><p>Die Züge der Linien RE18 und RB49 fallen zwischen Cottbus Hbf und Drebkau aus.</p><p><strong>Linie RE13:</strong></p><p>Die Züge der RE13 fallen bis ca.13 Uhr aus.</p><p>Weitere Informationen über das Ersatzkonzept werden in Kürze bekannt gegeben.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "21.11.2025",
+      "durationEnd": "21.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/e645729b-1796-4db4-8177-29185429ba9d",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 43",
+          "filterName": "RB 43",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 18",
+          "filterName": "RE 18",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.11.2025 08:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f5922805-f98f-4371-a803-a2d2a55e54d7",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_police_activity"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -1124,9 +1233,9 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten und Umleitungen.",
-      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen auf den Außenästen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
       "durationBegin": "20.11.2025",
       "durationEnd": "20.11.2025",
       "mapHref": "https://karte.bahn.de/detail/c67ec4e8-b41f-4e4d-9b0f-b771634e24ea",
@@ -1176,7 +1285,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.11.2025 07:50",
+      "lastModified": "20.11.2025 08:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
