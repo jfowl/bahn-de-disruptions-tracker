@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "ad78bc86-b319-4739-95d4-275c73406555",
-      "disruptionId": "85cd040f-43a5-49c0-bf00-f3575fdd423e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S5: Aktuell fährt keine S5 zwischen Neugraben und Buxtehude. Grund: Feuerwehreinsatz. ",
-      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
-      "text": "<p> </p>",
-      "durationBegin": "20.11.2025",
-      "durationEnd": "20.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/85cd040f-43a5-49c0-bf00-f3575fdd423e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.11.2025 08:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ad78bc86-b319-4739-95d4-275c73406555",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
-    },
-    {
       "id": "f5922805-f98f-4371-a803-a2d2a55e54d7",
       "disruptionId": "e645729b-1796-4db4-8177-29185429ba9d",
       "author": "REGIO_NORDOST",
@@ -1226,54 +1188,41 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
-      "id": "b14845cb-aef2-4049-81c2-e1ab0b29b6d7",
-      "disruptionId": "9be307c1-9510-42e0-9b73-7d8bfa403927",
-      "author": "S_BAHN_MUC",
+      "id": "99ff3d89-b352-4c98-8475-81d11486e3df",
+      "disruptionId": "6159d25a-c6c2-48e1-a212-900fc3842a6b",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 4, S 6 Haar ↔ Trudering: Reparatur an einer Weiche",
-      "summary": "Zwischen Haar und Trudering kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "19.11.2025",
+      "headline": "Verspätungen und Abweichungen vom Fahrplan auf den Linien S1 und S3",
+      "summary": "S1 und S3: Aktuell kommt es auf den Linien S1 und S3 zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit alternativ auch die U-Bahnen und Busse. Grund: Signalstörung ",
+      "text": "<p></p>",
+      "durationBegin": "20.11.2025",
       "durationEnd": "20.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/9be307c1-9510-42e0-9b73-7d8bfa403927",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-20/04ea5684-ff6f-4eef-a01c-b5c7b6798f4dreisendenkarte_20251119-162130.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-20/04ea5684-ff6f-4eef-a01c-b5c7b6798f4dreisendenkarte_20251119-162130.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.11.2025 16:21:30",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/6159d25a-c6c2-48e1-a212-900fc3842a6b",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.11.2025 07:45",
+      "lastModified": "20.11.2025 09:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b14845cb-aef2-4049-81c2-e1ab0b29b6d7",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+      "detailPagePath": "/service/fahrplaene/99ff3d89-b352-4c98-8475-81d11486e3df",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
