@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "7477f09b-844a-4b2d-9dfe-b896c7353e60",
-      "disruptionId": "7a135bd4-9d86-44cc-a63b-3f90f3652645",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S1: Aktuell fährt die S1 zwischen Poppenbüttel und Blankenese nur alle zehn Minuten. Grund: Technische Störung an der Strecke. Die Verstärkerlinie endet vorerst in Othmarschen.",
-      "summary": " ",
-      "text": "<p> </p>",
-      "durationBegin": "21.11.2025",
-      "durationEnd": "21.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/7a135bd4-9d86-44cc-a63b-3f90f3652645",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.11.2025 07:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7477f09b-844a-4b2d-9dfe-b896c7353e60",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "f5922805-f98f-4371-a803-a2d2a55e54d7",
       "disruptionId": "e645729b-1796-4db4-8177-29185429ba9d",
       "author": "REGIO_NORDOST",
@@ -663,6 +625,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "7477f09b-844a-4b2d-9dfe-b896c7353e60",
+      "disruptionId": "7a135bd4-9d86-44cc-a63b-3f90f3652645",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Informationen für Fahrgäste der Linie S1",
+      "summary": "Aktuell fährt die S1 zwischen Othmarschen und Blankenese nur alle zehn Minuten. Grund: Technische Störung an der Strecke.",
+      "text": "<p> </p>",
+      "durationBegin": "21.11.2025",
+      "durationEnd": "21.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/7a135bd4-9d86-44cc-a63b-3f90f3652645",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.11.2025 08:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7477f09b-844a-4b2d-9dfe-b896c7353e60",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
