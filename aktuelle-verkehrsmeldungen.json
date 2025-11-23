@@ -500,51 +500,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "12e4a4e4-2478-4f93-8832-56a0e0c26035",
-      "disruptionId": "a47044af-f0b0-45ef-9970-73b25aca05c2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 8 Weßling ↔ Herrsching: Defektes Stellwerk",
-      "summary": "Zwischen Weßling und Herrsching sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Weßling.</p><p>Ein Ersatzverkehr zwischen Weßling und Herrsching ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "23.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/a47044af-f0b0-45ef-9970-73b25aca05c2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-23/51cdcde6-239d-4871-8197-fbcf8fed1e04reisendenkarte_20251123-233649.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-23/51cdcde6-239d-4871-8197-fbcf8fed1e04reisendenkarte_20251123-233649.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.11.2025 23:36:49",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.11.2025 23:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/12e4a4e4-2478-4f93-8832-56a0e0c26035",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
-    },
-    {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
       "disruptionId": "558f3685-ac19-44be-83c4-075a8818fa9b",
       "author": "REGIO_BW",
@@ -1073,6 +1028,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
+    },
+    {
+      "id": "0be9b5b7-8e48-4595-9bfd-51ab28782a96",
+      "disruptionId": "c62d587d-689b-4b2e-98a1-9344b48d323c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Wetterbedingte Beeinträchtigung ",
+      "text": "<p>🔧 Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "23.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/c62d587d-689b-4b2e-98a1-9344b48d323c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.11.2025 23:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0be9b5b7-8e48-4595-9bfd-51ab28782a96",
+      "magnoliaPath": "/aktuell/nord/significant_delays_weather_storm"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
