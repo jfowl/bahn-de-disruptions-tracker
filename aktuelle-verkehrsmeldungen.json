@@ -642,6 +642,53 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 1, S 8 Flughafen: Feuerwehreinsatz",
+      "summary": "Im Bereich Flughafen ist die Strecke gesperrt. Die S-Bahnen wenden am Besucherpark.",
+      "text": "<p>Ein Ersatzverkehr zwischen Besucherpark und Flughafen ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten.</p><p>Der Grund hierfür ist ein Feuerwehreinsatz.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 05:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
+    },
+    {
       "id": "085d1ca9-738a-45c9-80d2-189c7095714e",
       "disruptionId": "ebb94b82-d61b-4877-a20a-5574fa3f8fc4",
       "author": "S_BAHN_MUC",
@@ -690,51 +737,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/085d1ca9-738a-45c9-80d2-189c7095714e",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
-    },
-    {
-      "id": "babe3c08-a307-41df-895d-9578fc3cffb2",
-      "disruptionId": "dc5b06f3-04ef-45b2-910e-aa33c6909fd2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Endmeldung: S 8 Ismaning ↔ Flughafen",
-      "summary": "Die Züge können wieder zwischen Ismaning und Flughafen fahren.",
-      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird 05:30 Uhr eingestellt.</p><p>Die Bauarbeiten wurden beendet.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/dc5b06f3-04ef-45b2-910e-aa33c6909fd2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a7add16a-2130-4489-9ad6-0fc751314b8freisendenkarte_20251124-041448.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a7add16a-2130-4489-9ad6-0fc751314b8freisendenkarte_20251124-041448.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 04:14:48",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 05:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/babe3c08-a307-41df-895d-9578fc3cffb2",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
