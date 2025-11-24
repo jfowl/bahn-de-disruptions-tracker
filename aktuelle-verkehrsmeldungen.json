@@ -158,56 +158,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "f8ddf52b-0f65-493d-b467-7435fccb11a7",
-      "disruptionId": "a80fb496-f45a-4b28-adec-36fb5faf81a9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S4, S6 Haar ↔ Trudering",
-      "summary": "Die Züge können wieder zwischen Haar und Trudering fahren.",
-      "text": "<p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/a80fb496-f45a-4b28-adec-36fb5faf81a9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5d250277-55de-40ca-a41a-231d8a979742reisendenkarte_20251124-153804.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5d250277-55de-40ca-a41a-231d8a979742reisendenkarte_20251124-153804.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 15:38:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 15:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f8ddf52b-0f65-493d-b467-7435fccb11a7",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -1100,6 +1050,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
+    },
+    {
+      "id": "b4a4cf9c-8578-4594-ab31-c0c2af57e119",
+      "disruptionId": "5bc09fc2-26d7-4dfc-a511-479f0a1e7e93",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stamm Ostbahnhof ↔ Pasing: Reparatur an einem Signal in Pasing",
+      "summary": "Zwischen Ostbahnhof und Pasing in beide Richtungen kommt es zu Verspätungen von bis zu 20 Minuten, Teilausfällen und Umleitungen möglich.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal in Pasing.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/5bc09fc2-26d7-4dfc-a511-479f0a1e7e93",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/365e702c-7c4e-4f68-bbd4-3a36f6c8c9bfreisendenkarte_20251124-164540.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/365e702c-7c4e-4f68-bbd4-3a36f6c8c9bfreisendenkarte_20251124-164540.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 16:45:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 16:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b4a4cf9c-8578-4594-ab31-c0c2af57e119",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
