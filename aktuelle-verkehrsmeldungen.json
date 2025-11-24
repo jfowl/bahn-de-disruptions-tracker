@@ -60,6 +60,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "815e3b20-04c2-4dac-8073-21bb7b771afa",
+      "disruptionId": "74ca22c3-92d2-43cf-9daa-56e8bd72e368",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": " Aktuell besteht kein Zugverkehr zwischen Neugraben und Buxtehude. Grund: Technische Störung am RE5. ",
+      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis.",
+      "text": "<p>Zwischen Stade und Buxtehude besteht ein Pendelverkehr.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/74ca22c3-92d2-43cf-9daa-56e8bd72e368",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 12:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/815e3b20-04c2-4dac-8073-21bb7b771afa",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -621,51 +659,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
-    },
-    {
-      "id": "0b1695e7-1a2c-4e49-b05c-499aa8af41b9",
-      "disruptionId": "e00bbfec-2db5-4565-9189-9580163a9046",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 8 Pasing ↔ Germering-Unterpfaffenhofen",
-      "summary": "Zwischen Pasing und Germering-Unterpfaffenhofen ist die Strecke wieder freigegeben. ",
-      "text": "<p>Es kommt noch zu keinen Beeinträchtigungen mehr.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/e00bbfec-2db5-4565-9189-9580163a9046",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5f9ec7f2-295f-4dc8-a5b4-423f829c745creisendenkarte_20251124-105900.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5f9ec7f2-295f-4dc8-a5b4-423f829c745creisendenkarte_20251124-105900.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 10:59:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 11:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0b1695e7-1a2c-4e49-b05c-499aa8af41b9",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
