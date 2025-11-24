@@ -642,6 +642,51 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 1 Freising/Flughafen: Feuerwehreinsatz",
+      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Neufahrn und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ die Linie S 8.</p><p>Der Grund hierfür war ein Feuerwehreinsatz.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/fa0b8a3b-38da-4f05-ae64-aa5b9426a8abreisendenkarte_20251124-074019.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/fa0b8a3b-38da-4f05-ae64-aa5b9426a8abreisendenkarte_20251124-074019.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 07:40:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 07:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
+    },
+    {
       "id": "085d1ca9-738a-45c9-80d2-189c7095714e",
       "disruptionId": "ebb94b82-d61b-4877-a20a-5574fa3f8fc4",
       "author": "S_BAHN_MUC",
@@ -690,51 +735,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/085d1ca9-738a-45c9-80d2-189c7095714e",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
-    },
-    {
-      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S 1 Freising/Flughafen: Feuerwehreinsatz",
-      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
-      "text": "<p>Ein Ersatzverkehr zwischen Neufahrn und Flughafen ist in Planung.</p><p></p><p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ die Linie S 8.</p><p>Der Grund hierfür war ein Feuerwehreinsatz.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/61fb211c-7629-4f5c-b760-153841a6152dreisendenkarte_20251124-062442.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/61fb211c-7629-4f5c-b760-153841a6152dreisendenkarte_20251124-062442.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 06:24:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.11.2025 07:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
@@ -805,16 +805,16 @@
         "category": "police_activity",
         "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof",
-      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
-      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Hackerbrücke.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "headline": "Endmeldung Stammstrecke: Feuerwehreinsatz beendet",
+      "summary": "Die S-Bahnen halten wieder regulär am Hauptbahnhof.",
+      "text": "<p>Der Feuerwehreinsatz ist beendet.</p>",
       "durationBegin": "24.11.2025",
       "durationEnd": "24.11.2025",
       "mapHref": "https://karte.bahn.de/detail/2e29ce21-e661-4747-a1c5-1bb6323e35b7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/d0a39592-db49-44e4-86e0-128a78795f39reisendenkarte_20251124-073246.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/d0a39592-db49-44e4-86e0-128a78795f39reisendenkarte_20251124-073246.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/ee639d4a-9a1d-4949-a3de-8b541f564699reisendenkarte_20251124-073246.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/ee639d4a-9a1d-4949-a3de-8b541f564699reisendenkarte_20251124-073246.png",
           "info": "",
           "alt": "Reisendenkarte 24.11.2025 07:32:46",
           "openInNewTab": true
@@ -860,7 +860,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 07:34",
+      "lastModified": "24.11.2025 07:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
