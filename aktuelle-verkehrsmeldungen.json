@@ -642,6 +642,51 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 1 Freising/Flughafen",
+      "summary": "Ab 09:00 Uhr verkehren die Züge zwischen Neufahrn und Flughafen wieder auf Regelweg.\n\nDer Ersatzverkehr mit Bussen und Großraumtaxis wird ab 09:00 Uhr eingestellt.",
+      "text": "<p>Grund hierfür war ein Feuerwehreinsatz.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a3c16a60-441e-4a97-be89-349a99552799reisendenkarte_20251124-074019.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a3c16a60-441e-4a97-be89-349a99552799reisendenkarte_20251124-074019.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 07:40:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 08:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
+    },
+    {
       "id": "085d1ca9-738a-45c9-80d2-189c7095714e",
       "disruptionId": "ebb94b82-d61b-4877-a20a-5574fa3f8fc4",
       "author": "S_BAHN_MUC",
@@ -690,51 +735,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/085d1ca9-738a-45c9-80d2-189c7095714e",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
-    },
-    {
-      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S 1 Freising/Flughafen: Feuerwehreinsatz",
-      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Neufahrn und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ die Linie S 8.</p><p>Der Grund hierfür war ein Feuerwehreinsatz.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/fa0b8a3b-38da-4f05-ae64-aa5b9426a8abreisendenkarte_20251124-074019.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/fa0b8a3b-38da-4f05-ae64-aa5b9426a8abreisendenkarte_20251124-074019.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 07:40:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 07:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
@@ -1122,7 +1122,7 @@
       },
       "headline": "Verspätungen und Abweichungen vom Fahrplan",
       "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Wetterbedingte Beeinträchtigung ",
-      "text": "<p>Aktuell fahren die S-Bahnen wie folgt:</p><p></p><p>S1</p><p>Die S1 fährt aktuell nur alle 10 Minuten. Die Züge fahren mit allen sechs Wagen von und zum Airport. Von und nach Poppenbüttel ist in Ohlsdorf ein Umstieg erforderlich.</p><p></p><p>S2</p><p>Die S2 fährt aktuell nur alle 10 Minuten. Von und nach Aumühle ist in Bergedorf ein Umstieg erforderlich.</p><p></p><p>S3</p><p>Die S3 fährt auf ihrem regulären Linienweg.</p><p></p><p>S5</p><p>Die S5 fährt wieder auf ihrem regulären Linienweg.</p>",
+      "text": "<p>Aktuell fahren die S-Bahnen wie folgt:</p><p></p><p>S1</p><p>Die S1 fährt aktuell nur alle 10 Minuten. Teilweise fahren die Züge mit allen sechs Wagen zum Airport. Bitte auf die Anzeigen an den Zügen und Stationen achten.</p><p></p><p>S2</p><p>Die S2 fährt aktuell nur alle 10 Minuten nach Altona über Jungfernstieg und nach Aumühle über Dammtor.</p><p></p><p>S3</p><p>Die S3 fährt auf ihrem regulären Linienweg.</p><p></p><p>S5</p><p>Die S5 fährt wieder auf ihrem regulären Linienweg.</p>",
       "durationBegin": "23.11.2025",
       "durationEnd": "24.11.2025",
       "mapHref": "https://karte.bahn.de/detail/c62d587d-689b-4b2e-98a1-9344b48d323c",
@@ -1157,7 +1157,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 08:07",
+      "lastModified": "24.11.2025 08:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
