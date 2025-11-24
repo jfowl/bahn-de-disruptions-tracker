@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "e1e35427-5c13-4f8a-b57a-050c3386c822",
+      "disruptionId": "ad0414e2-a030-428e-8a9b-759d7b875e0c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Wolfsburg und Stendal (- Berlin)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Oebisfelde und Gardelegen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 70 Minuten. Einzelne Züge entfallen auf ihrem gesamten Laufweg.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Sprinter Züge zwischen Berlin und Köln</li><li>ICE Sprinter Züge zwischen Berlin und Frankfurt(M)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/ad0414e2-a030-428e-8a9b-759d7b875e0c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-24/7018c042-6fd8-40ad-85ce-112ba812d0e0reisendenkarte_20251124-092345.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-24/7018c042-6fd8-40ad-85ce-112ba812d0e0reisendenkarte_20251124-092345.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 09:23:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.11.2025 09:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e1e35427-5c13-4f8a-b57a-050c3386c822",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -381,83 +439,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "56880aaa-e9d4-4e8e-9b40-b5395237fbaf",
-      "disruptionId": "0b4cc4b0-9947-4de3-a062-58a59c53ab27",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Gesamtnetz S-Bahn München: Amtliche Wetterwarnung vor Eisglätte",
-      "summary": "Vorsicht! Rutschgefahr durch Eisglätte an den Bahnsteigen! ",
-      "text": "<p>Danger! Please be careful due to ice on all train platforms! </p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/0b4cc4b0-9947-4de3-a062-58a59c53ab27",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 04:12",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/56880aaa-e9d4-4e8e-9b40-b5395237fbaf",
-      "magnoliaPath": "/aktuell/bayern/impairment_weather_winter"
-    },
-    {
       "id": "d45e668b-d351-4d47-9a0e-b4c3bbdeab24",
       "disruptionId": "522ebd94-7320-4058-a906-6802d6fac458",
       "author": "FERNVERKEHR_AG",
@@ -642,51 +623,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S 1 Freising/Flughafen",
-      "summary": "Ab 09:00 Uhr verkehren die Züge zwischen Neufahrn und Flughafen wieder auf Regelweg.\n\nDer Ersatzverkehr mit Bussen und Großraumtaxis wird ab 09:00 Uhr eingestellt.",
-      "text": "<p>Grund hierfür war ein Feuerwehreinsatz.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a3c16a60-441e-4a97-be89-349a99552799reisendenkarte_20251124-074019.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/a3c16a60-441e-4a97-be89-349a99552799reisendenkarte_20251124-074019.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 07:40:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 08:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
-    },
-    {
       "id": "085d1ca9-738a-45c9-80d2-189c7095714e",
       "disruptionId": "ebb94b82-d61b-4877-a20a-5574fa3f8fc4",
       "author": "S_BAHN_MUC",
@@ -694,16 +630,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Ersatzprogramm Westkreuz",
-      "summary": "Die Linien S 6 und S 8 verkehren wieder auf Regelweg mit allen Halten. Auf der Linie S 8 kommt es noch zu Folgeverspätungen von 10 bis 15 Minuten.  ",
-      "text": "<p>Die Reparatur an einem Signal besteht aber weiterhin.</p>",
+      "headline": "Endmeldung: Ersatzprogramm Westkreuz",
+      "summary": "Die Linien S 6 und S 8 verkehrt wieder auf Regelweg mit allen Halten. \n\nEs kommt zu keinen Beeinträchtigungen mehr. ",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "24.11.2025",
       "durationEnd": "24.11.2025",
       "mapHref": "https://karte.bahn.de/detail/ebb94b82-d61b-4877-a20a-5574fa3f8fc4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/20b50d3e-b110-4480-95be-674af70f1d66reisendenkarte_20251124-061334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/20b50d3e-b110-4480-95be-674af70f1d66reisendenkarte_20251124-061334.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/8106bd48-c9ad-4787-a5f7-a61a06dd357ereisendenkarte_20251124-061334.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/8106bd48-c9ad-4787-a5f7-a61a06dd357ereisendenkarte_20251124-061334.png",
           "info": "",
           "alt": "Reisendenkarte 24.11.2025 06:13:34",
           "openInNewTab": true
@@ -729,12 +665,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 08:04",
+      "lastModified": "24.11.2025 09:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/085d1ca9-738a-45c9-80d2-189c7095714e",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
+    },
+    {
+      "id": "ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "disruptionId": "91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Endmeldung: S 1 Freising/Flughafen",
+      "summary": "Die Züge verkehren ab Neufahrn wieder zum Flughafen. Es kann noch zu Folgeverspätungen und Teilausfällen kommen. ",
+      "text": "<p>Grund hierfür war ein Feuerwehreinsatz.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/91a63de1-d1c1-4d60-aba3-bf12038505d8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5272d364-247e-4ce2-a0f0-2fcc61469db0reisendenkarte_20251124-092255.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/5272d364-247e-4ce2-a0f0-2fcc61469db0reisendenkarte_20251124-092255.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 09:22:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 09:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab6d1743-450b-44d8-a7e3-a54c77cfc8ca",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_police_activity"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
@@ -796,6 +777,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3e39cd55-74b2-471a-b4d2-53a536d4312e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause"
+    },
+    {
+      "id": "b16789c7-4e6a-44e4-9b1e-ec69d06017d7",
+      "disruptionId": "560ee556-b735-416b-a91f-abb1ab8ad5f0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Rosenheimer Platz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Rosenheimer Platz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Ostbahnhof oder Isartor.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Rosenheimer Platz.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/560ee556-b735-416b-a91f-abb1ab8ad5f0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/b941fb1f-8770-409f-82f0-eef188e14bfcreisendenkarte_20251124-092731.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/b941fb1f-8770-409f-82f0-eef188e14bfcreisendenkarte_20251124-092731.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 09:27:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 09:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b16789c7-4e6a-44e4-9b1e-ec69d06017d7",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
@@ -1113,56 +1169,54 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
     },
     {
-      "id": "0be9b5b7-8e48-4595-9bfd-51ab28782a96",
-      "disruptionId": "c62d587d-689b-4b2e-98a1-9344b48d323c",
-      "author": "S_BAHN_HH",
+      "id": "46a64317-3702-465c-98bf-6e64e35deda5",
+      "disruptionId": "075782c5-8ef2-42e0-b613-f659476c9b97",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Wetterbedingte Beeinträchtigung ",
-      "text": "<p>Aktuell fahren die S-Bahnen wie folgt:</p><p></p><p>S1</p><p>Die S1 fährt aktuell nur alle 10 Minuten. Teilweise fahren die Züge mit allen sechs Wagen zum Airport. Bitte auf die Anzeigen an den Zügen und Stationen achten.</p><p></p><p>S2</p><p>Die S2 fährt aktuell nur alle 10 Minuten nach Altona über Jungfernstieg und nach Aumühle über Dammtor.</p><p></p><p>S3</p><p>Die S3 fährt auf ihrem regulären Linienweg.</p><p></p><p>S5</p><p>Die S5 fährt wieder auf ihrem regulären Linienweg.</p>",
-      "durationBegin": "23.11.2025",
+      "headline": "S 4 Haar in Richtung Trudering : Polizeieinsatz",
+      "summary": "Im Bereich Haar in Richtung Trudering kommt es zu Verspätungen von bis zu 30 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "24.11.2025",
       "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/c62d587d-689b-4b2e-98a1-9344b48d323c",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/075782c5-8ef2-42e0-b613-f659476c9b97",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/912e7480-fdb9-4315-bf52-d07dad64ad5dreisendenkarte_20251124-085257.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/912e7480-fdb9-4315-bf52-d07dad64ad5dreisendenkarte_20251124-085257.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.11.2025 08:52:57",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 08:30",
+      "lastModified": "24.11.2025 08:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0be9b5b7-8e48-4595-9bfd-51ab28782a96",
-      "magnoliaPath": "/aktuell/nord/significant_delays_weather_storm"
+      "detailPagePath": "/service/fahrplaene/46a64317-3702-465c-98bf-6e64e35deda5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
