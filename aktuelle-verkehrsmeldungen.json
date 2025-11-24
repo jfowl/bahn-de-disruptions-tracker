@@ -1009,28 +1009,20 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
     },
     {
-      "id": "b4a4cf9c-8578-4594-ab31-c0c2af57e119",
-      "disruptionId": "5bc09fc2-26d7-4dfc-a511-479f0a1e7e93",
+      "id": "8aba0863-72d7-4967-b357-62b7f8d9731e",
+      "disruptionId": "c2c5abd5-edf4-4dd0-ac2d-60007131573b",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Stamm Ostbahnhof ↔ Pasing: Reparatur an einem Signal in Pasing",
-      "summary": "Zwischen Ostbahnhof und Pasing in beide Richtungen kommt es noch zu vereinzelten Verspätungen von bis zu 15 Minuten, Teilausfällen .",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal in Pasing.</p>",
+      "headline": "Endmeldung: S 8 Weßling ↔ Herrsching",
+      "summary": "Zwischen Weßling und Herrsching kommt es noch zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Das Grund dafür war defektes Stellwerk.</p>",
       "durationBegin": "24.11.2025",
       "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/5bc09fc2-26d7-4dfc-a511-479f0a1e7e93",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/375988db-7101-400a-b30c-0b715f01bac9reisendenkarte_20251124-164540.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-24/375988db-7101-400a-b30c-0b715f01bac9reisendenkarte_20251124-164540.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 16:45:40",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/c2c5abd5-edf4-4dd0-ac2d-60007131573b",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -1041,42 +1033,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 20:22",
-      "expand": false,
+      "lastModified": "24.11.2025 21:03",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b4a4cf9c-8578-4594-ab31-c0c2af57e119",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/8aba0863-72d7-4967-b357-62b7f8d9731e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "aaf67047-f27e-4eae-a7c8-aed557f6c660",
@@ -1087,7 +1054,7 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "S 7: Weiche",
-      "summary": "Weiterhin kommt es auf der Linie S 7 in Richtung Wolfratshausen zu Verspätungen von bis zu 20 Minuten und Teilausfällen. \n\nDie vorherigen Zugfolgeverspätungen sind größtenteils abgebaut ✅.",
+      "summary": "Weiterhin kommt es auf der Linie S 7 in Richtung Wolfratshausen zu Verspätungen von bis zu 10 Minuten und Teilausfällen. \n\nDie vorherigen Zugfolgeverspätungen sind größtenteils abgebaut ✅.",
       "text": "<p>Neu: Aufgrund einer Reparatur an einer Weiche in Icking kann es weiterhin zu Einschränkungen kommen. </p>",
       "durationBegin": "24.11.2025",
       "durationEnd": "24.11.2025",
@@ -1108,7 +1075,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2025 19:53",
+      "lastModified": "24.11.2025 20:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
