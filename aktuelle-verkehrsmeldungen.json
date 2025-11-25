@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "31927c35-d0bd-4331-98e9-5d3e3ac9cd3b",
-      "disruptionId": "89729973-25d4-445d-9719-dd304ca86958",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Berlin und Dresden",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Großenhain zwischen Berlin und Dresden  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von ca. 20 Min.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>RJ-, EC- und IC-Züge zwischen (Rostock -) Berlin und Dresden (- Prag/Chemnitz)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/89729973-25d4-445d-9719-dd304ca86958",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-24/1a34e547-56b3-4b49-85ed-3e75225cba28reisendenkarte_20251124-172915.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-24/1a34e547-56b3-4b49-85ed-3e75225cba28reisendenkarte_20251124-172915.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.11.2025 17:29:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.11.2025 17:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/31927c35-d0bd-4331-98e9-5d3e3ac9cd3b",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "b8008e78-cb62-4a28-9e63-5a8ef18b1c3d",
       "disruptionId": "edae3006-51b2-474c-aafd-4046403df53b",
       "author": "REGIO_NORDOST",
@@ -532,6 +487,50 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d45e668b-d351-4d47-9a0e-b4c3bbdeab24",
+      "disruptionId": "522ebd94-7320-4058-a906-6802d6fac458",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streikankündigung in Belgien",
+      "summary": "In Belgien wurden im Zeitraum 23.11. - 26.11.2025 Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr zwischen Deutschland und Belgien zu Einschränkungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Bruxelles/Brüssel - Aachen - Köln - Frankfurt(Main) werden innerhalb Belgiens umgeleitet<ul><li>Züge nach Bruxelles/Brüssel verspäten sich um ca. 20 Minuten</li><li>Züge nach Deutschland verkehren ca. 20 Minuten früher ab Bruxelles/Brüssel</li></ul></li></ul><p>Bitte planen Sie für Reisen von und nach Belgien mehr Zeit ein.&nbsp;Bitte beachten Sie, dass es im inländischen Verkehr in Belgien zu starken Beeinträchtigungen kommen kann.</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.11.2025",
+      "durationEnd": "26.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/522ebd94-7320-4058-a906-6802d6fac458",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/fahrgastrechte",
+          "label": "Allgemeine Information zu Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.11.2025 07:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d45e668b-d351-4d47-9a0e-b4c3bbdeab24",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
+    },
+    {
       "id": "76a037e4-f979-4a42-b686-107b19cc0c0e",
       "disruptionId": "f37cefa1-7cec-4dbf-bd8e-066c4b490c8a",
       "author": "REGIO_BW",
@@ -580,50 +579,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/76a037e4-f979-4a42-b686-107b19cc0c0e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "d45e668b-d351-4d47-9a0e-b4c3bbdeab24",
-      "disruptionId": "522ebd94-7320-4058-a906-6802d6fac458",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streikankündigung in Belgien",
-      "summary": "In Belgien wurden im Zeitraum 23.11. - 26.11.25 Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr zwischen Deutschland und Belgien zu Einschränkungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Brüssel - Aachen - Köln - Frankfurt/Main verspäten sich bis zu 20 Min aufgrund einer Schließung der Hochgeschwindigkeitsstrecke in Belgien</li><li>NJ-Züge zwischen Brüssel – Aachen – Mannheim – Wien<ol><li>vom 23.11. auf 24.11.25: NJ 478 / 40468 endet in Köln Hbf, die Halte Aachen Hbf, Liège-Guillemins, Brüssel-Nord und Brüssel-Midi entfallen</li><li>vom 24.11. auf 25.11.25: NJ 479 / 40425 beginnt in Köln-Ehrenfeld, die Halte Brüssel-Midi, Brüssel-Nord, Liège-Guillemins und Aachen Hbf entfallen</li></ol></li></ul><p>Bitte planen Sie für Reisen von und nach Belgien mehr Zeit ein.&nbsp;Bitte beachten Sie, dass es im inländischen Verkehr in Brüssel zu starken Beeinträchtigungen kommen kann.</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.11.2025",
-      "durationEnd": "26.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/522ebd94-7320-4058-a906-6802d6fac458",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/fahrgastrechte",
-          "label": "Allgemeine Information zu Ihren Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.11.2025 09:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d45e668b-d351-4d47-9a0e-b4c3bbdeab24",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
       "id": "fb8da989-8038-4956-bc53-d473958bed81",
