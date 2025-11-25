@@ -2,6 +2,63 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "b8008e78-cb62-4a28-9e63-5a8ef18b1c3d",
+      "disruptionId": "edae3006-51b2-474c-aafd-4046403df53b",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verkehrsmeldung für die Linien RE 15 und RE 18 ",
+      "summary": " Dienstag, 25.11.2025 05:52 Uhr bis vsl. Donnerstag, 27.11.2025 18:30  ",
+      "text": "<p>Aufgrund einer Störung an der Oberleitung in Großenhain Cottb Bf kommt es am Dienstag, 25.11.2025 05:52 Uhr bis vsl. Donnerstag, 27.11.2025 18:30  zu Beeinträchtigung.</p><p>Betroffene Linien: <strong>RE 15 und RE 18</strong></p><p>Die Züge der RE15 und RE18 werden umgeleitet. Die Halte in Lampertswalde und Ortrand entfallen.</p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "25.11.2025",
+      "durationEnd": "27.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/edae3006-51b2-474c-aafd-4046403df53b",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE 15",
+          "filterName": "RE 15",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 18",
+          "filterName": "RE 18",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.11.2025 09:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b8008e78-cb62-4a28-9e63-5a8ef18b1c3d",
+      "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "3e2e8d5e-ced6-47da-941b-eec618a6da2a",
       "disruptionId": "31783ee3-5f48-472e-a527-6f1bb0750e6f",
       "author": "S_BAHN_HH",
@@ -39,62 +96,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/3e2e8d5e-ced6-47da-941b-eec618a6da2a",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "b8008e78-cb62-4a28-9e63-5a8ef18b1c3d",
-      "disruptionId": "edae3006-51b2-474c-aafd-4046403df53b",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Verkehrsmeldung für die Linien RE 15 und RE 18 ",
-      "summary": " Dienstag, 25.11.2025 05:52 Uhr bis vsl. Dienstag, 25.11.2025 23:59 Uhr ",
-      "text": "<p>Aufgrund einer Störung an der Oberleitung in Großenhain Cottb Bf kommt es am Dienstag, 25.11.2025 05:52 Uhr bis vsl. Dienstag, 25.11.2025 23:59 Uhr zu Beeinträchtigung.</p><p>Betroffene Linien: <strong>RE 15 und RE 18</strong></p><p>Die Züge der RE15 und RE18 werden umgeleitet. Die Halte in Lampertswalde und Ortrand entfallen.</p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "25.11.2025",
-      "durationEnd": "25.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/edae3006-51b2-474c-aafd-4046403df53b",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RE 15",
-          "filterName": "RE 15",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 18",
-          "filterName": "RE 18",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.11.2025 06:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b8008e78-cb62-4a28-9e63-5a8ef18b1c3d",
-      "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section1"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
@@ -314,6 +315,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
     },
     {
+      "id": "a1e24c36-db72-4f1b-aabe-c25f17bb5184",
+      "disruptionId": "99957d45-d68e-42c3-98d2-903f293ecba0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Endmeldung: S7, S20 Solln - Heimeranplatz",
+      "summary": "Auf der Strecke der S7  kommt es noch zu vereinzelten Folgeverspätungen. ",
+      "text": "<p>Grund hierfür war die eingeschränkte Verfügbarkeit der Gleise im Bereich des Bahnhofs Mittersendling.</p>",
+      "durationBegin": "25.11.2025",
+      "durationEnd": "25.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/99957d45-d68e-42c3-98d2-903f293ecba0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-25/633d5c3d-2873-4a72-a704-e513b8fa58a9reisendenkarte_20251125-045447.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-25/633d5c3d-2873-4a72-a704-e513b8fa58a9reisendenkarte_20251125-045447.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.11.2025 04:54:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.11.2025 09:53",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a1e24c36-db72-4f1b-aabe-c25f17bb5184",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "835817a9-088f-4ae3-88e0-4586e5a78cd1",
       "disruptionId": "a318400e-eebb-409e-b594-edbcf51a9f32",
       "author": "S_BAHN_MUC",
@@ -382,56 +433,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/835817a9-088f-4ae3-88e0-4586e5a78cd1",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "a1e24c36-db72-4f1b-aabe-c25f17bb5184",
-      "disruptionId": "99957d45-d68e-42c3-98d2-903f293ecba0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "S7, S20 Solln - Heimeranplatz",
-      "summary": "Auf der Strecke der S7  kommt es noch zu Verspätungen und Teilausfällen. \nDie S-Bahnen der Linie S 20 entfallen heute Früh zwischen Höllriegelskreuth und Pasing aus.",
-      "text": "<p>Grund hierfür war die eingeschränkte Verfügbarkeit der Gleise im Bereich des Bahnhofs Mittersendling.</p>",
-      "durationBegin": "25.11.2025",
-      "durationEnd": "25.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/99957d45-d68e-42c3-98d2-903f293ecba0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-25/6a4286ef-fa2e-4f15-99bb-8eaf14bb8935reisendenkarte_20251125-045447.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-25/6a4286ef-fa2e-4f15-99bb-8eaf14bb8935reisendenkarte_20251125-045447.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.11.2025 04:54:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.11.2025 09:19",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a1e24c36-db72-4f1b-aabe-c25f17bb5184",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "bfa6dba7-de99-4ec0-9315-5366ba3f219d",
