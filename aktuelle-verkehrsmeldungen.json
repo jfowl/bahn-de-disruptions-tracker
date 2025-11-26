@@ -956,25 +956,70 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
     },
     {
-      "id": "8a751a66-c729-4f0b-be3b-8131bcb88561",
-      "disruptionId": "c31f4027-af6f-4a04-a13b-a49be0c4c5e8",
+      "id": "ab7952fd-a215-4f6c-b503-9258478043ae",
+      "disruptionId": "8c0a0ab6-a77e-4487-8e7c-801ffccec5e6",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "Endmeldung: Stammstrecke Ostbahnhof ↔ Pasing",
-      "summary": "Zwischen Ostbahnhof und Pasing kommt es noch zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür war ein kurzfristiger Personalausfall.</p>",
+      "headline": "Endmeldung: S 6 Starnberg ↔ Gauting",
+      "summary": "Die Züge können wieder zwischen Starnberg und Gauting fahren.",
+      "text": "<p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Der Polizeieinsatz ist beendet.</p>",
       "durationBegin": "26.11.2025",
       "durationEnd": "26.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/c31f4027-af6f-4a04-a13b-a49be0c4c5e8",
+      "mapHref": "https://karte.bahn.de/detail/8c0a0ab6-a77e-4487-8e7c-801ffccec5e6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/7c0fcd89-f644-4b67-abaa-ac0b3dfd5465reisendenkarte_20251126-175946.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/7c0fcd89-f644-4b67-abaa-ac0b3dfd5465reisendenkarte_20251126-175946.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/54bed4dd-250d-45d5-9076-7bf38f899439reisendenkarte_20251126-184634.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/54bed4dd-250d-45d5-9076-7bf38f899439reisendenkarte_20251126-184634.png",
           "info": "",
-          "alt": "Reisendenkarte 26.11.2025 17:59:46",
+          "alt": "Reisendenkarte 26.11.2025 18:46:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2025 18:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab7952fd-a215-4f6c-b503-9258478043ae",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
+    },
+    {
+      "id": "1ef2f0b5-4f00-4503-9d31-974e90936df4",
+      "disruptionId": "d65c7857-c167-4ff2-886e-618c9da72754",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Erdweg: Reparatur an einem Signal",
+      "summary": "Im Bereich Erdweg kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "26.11.2025",
+      "durationEnd": "26.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d65c7857-c167-4ff2-886e-618c9da72754",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/d600d745-4e2c-4aac-ba78-13c80ec6372freisendenkarte_20251126-182509.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-26/d600d745-4e2c-4aac-ba78-13c80ec6372freisendenkarte_20251126-182509.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.11.2025 18:25:09",
           "openInNewTab": true
         }
       ],
@@ -991,34 +1036,14 @@
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "26.11.2025 18:02",
+      "lastModified": "26.11.2025 18:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8a751a66-c729-4f0b-be3b-8131bcb88561",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause1"
+      "detailPagePath": "/service/fahrplaene/1ef2f0b5-4f00-4503-9d31-974e90936df4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
