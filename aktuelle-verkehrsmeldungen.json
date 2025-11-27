@@ -433,8 +433,8 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Zugausfälle in Hessen",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 27.11. von 14:00 Uhr bis 20:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RE20/RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 27.11. von 14:00 Uhr bis 20:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die RE20/RB22 fällt zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf aus.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "27.11.2025",
       "durationEnd": "27.11.2025",
       "mapHref": "https://karte.bahn.de/detail/8ad8cb38-9a78-4080-8c54-c01a9a02d761",
@@ -442,19 +442,30 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "HE"
       ],
       "lines": [
         {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
           "name": "S 1",
           "filterName": "S 1 Rhein-Main",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.11.2025 11:50",
+      "lastModified": "27.11.2025 13:56",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -999,6 +1010,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
+    },
+    {
+      "id": "2696b3e5-d396-4ffb-abc9-1f336b71b7e1",
+      "disruptionId": "c495c3e8-7520-4165-8611-01c79482ad17",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 8 Weßling ↔ Seefeld-Hechendorf: Defektes Stellwerk",
+      "summary": "Zwischen Weßling und Seefeld-Hechendorf kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "27.11.2025",
+      "durationEnd": "27.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/c495c3e8-7520-4165-8611-01c79482ad17",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/6fe58e93-dd86-4a46-92f0-a4d34e7308b1reisendenkarte_20251127-125112.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/6fe58e93-dd86-4a46-92f0-a4d34e7308b1reisendenkarte_20251127-125112.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.11.2025 12:51:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2025 13:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2696b3e5-d396-4ffb-abc9-1f336b71b7e1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
