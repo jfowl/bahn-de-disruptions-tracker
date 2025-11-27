@@ -219,51 +219,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
     },
     {
-      "id": "d0a614c5-2810-4799-95a4-8ea11282a0eb",
-      "disruptionId": "13ee6992-ae77-4e64-8a85-6aaf9141d8d6",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Reparatur an einer Weiche",
-      "summary": "Die Strecke von Aulendorf bis Kißlegg ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einer Weiche. Bitte rechnen Sie mit einer Verspätung von bis zu 30 Minuten.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.11.2025",
-      "durationEnd": "27.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/13ee6992-ae77-4e64-8a85-6aaf9141d8d6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-27/3bd2b80c-68e2-4c82-975d-5c76e6c0d2a3reisendenkarte_20251127-053125.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-11-27/3bd2b80c-68e2-4c82-975d-5c76e6c0d2a3reisendenkarte_20251127-053125.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.11.2025 05:31:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.11.2025 06:03",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d0a614c5-2810-4799-95a4-8ea11282a0eb",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "bfa6dba7-de99-4ec0-9315-5366ba3f219d",
       "disruptionId": "5d09c6b8-49e4-43d9-b1c8-07a8c29e0efd",
       "author": "S_BAHN_MUC",
@@ -564,6 +519,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "70184d4c-034f-4eee-93f6-4b29c868ed43",
+      "disruptionId": "4fe3ef85-614b-4c9c-8c8b-f88d72464e6f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 20 Mittersendling: Reparatur an einem Signal",
+      "summary": "Die S-Bahnen der Linie S 20 entfallen heute Früh zwischen Höllriegelskreuth und Pasing aus.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "27.11.2025",
+      "durationEnd": "27.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/4fe3ef85-614b-4c9c-8c8b-f88d72464e6f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/7e49439d-8540-4a28-b514-d6a4d31f81c8reisendenkarte_20251127-065737.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/7e49439d-8540-4a28-b514-d6a4d31f81c8reisendenkarte_20251127-065737.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.11.2025 06:57:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2025 07:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70184d4c-034f-4eee-93f6-4b29c868ed43",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
