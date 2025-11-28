@@ -618,43 +618,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "2f5cffd2-b622-4603-a2dd-c154a2f56fc8",
-      "disruptionId": "eaf9d0bd-87ed-4631-ab7c-0cb210b738d3",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "ℹ️ Information für Fahrgäste der Linie 🟢 S1",
-      "summary": "Aktuell fährt die Linie S1 zwischen Othmarschen und Blankenese alle zehn Minuten. Jede zweite Fahrt ab Poppenbüttel endet vorzeitig in Othmarschen. Fahrgäste in Richtung Blankenese bitte in Othmarschen umsteigen.",
-      "text": "<p>Grund: technische Störung an der Strecke</p>",
-      "durationBegin": "28.11.2025",
-      "durationEnd": "28.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/eaf9d0bd-87ed-4631-ab7c-0cb210b738d3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.11.2025 08:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2f5cffd2-b622-4603-a2dd-c154a2f56fc8",
-      "magnoliaPath": "/aktuell/nord/reduced_service_unknown_cause"
-    },
-    {
       "id": "3e39cd55-74b2-471a-b4d2-53a536d4312e",
       "disruptionId": "558f3685-ac19-44be-83c4-075a8818fa9b",
       "author": "REGIO_BW",
@@ -1009,6 +972,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
+    },
+    {
+      "id": "5a8dab39-803e-42b5-bcde-d16861b8a8f4",
+      "disruptionId": "3059e928-b432-4aa9-af86-c2b0250eacce",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 4, S 6 Pasing: Bauarbeiten",
+      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "durationBegin": "28.11.2025",
+      "durationEnd": "28.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/3059e928-b432-4aa9-af86-c2b0250eacce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/b9925617-9ca4-42bb-99e1-73a56107e9efreisendenkarte_20251128-092438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/b9925617-9ca4-42bb-99e1-73a56107e9efreisendenkarte_20251128-092438.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.11.2025 09:24:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.11.2025 09:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5a8dab39-803e-42b5-bcde-d16861b8a8f4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
