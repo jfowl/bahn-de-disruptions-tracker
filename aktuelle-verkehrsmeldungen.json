@@ -2,6 +2,55 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "fb2ade13-de5d-41fd-9269-5b96d6920e4a",
+      "disruptionId": "a6a852e6-17fd-4dd7-b682-6d3c066b47fa",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Wolfsburg und Stendal (- Berlin)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Wolfsburg und Stendal im Bereich Gardelegen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um bis zu 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hannover und Berlin</li><li>ICE Sprinter Züge Ruhrgebiet - Berlin</li><li>ICE Züge zwischen Braunschweig und Berlin</li><li>ICE Sprinter (Paris -) Frankfurt(M) - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/a6a852e6-17fd-4dd7-b682-6d3c066b47fa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-28/f6861a2c-676b-40b1-9103-f5970072ac18reisendenkarte_20251128-131535.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-28/f6861a2c-676b-40b1-9103-f5970072ac18reisendenkarte_20251128-131535.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.11.2025 13:15:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "BW",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.11.2025 13:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fb2ade13-de5d-41fd-9269-5b96d6920e4a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -98,6 +147,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "3b9752d0-de05-4360-b852-9c3918b089b1",
+      "disruptionId": "d6a11f8b-3f7a-4a10-98a1-5d4309f233e0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S 2 Altenerding ↔ Erding",
+      "summary": "Zwischen Altenerding und Erding waren kurzfristig keine Zugfahrten möglich.",
+      "text": "<p>Für Reisende besteht in diesem Streckenabschnitt, aufgrund der Haltausfälle in Ottenhofen und St. Koloman, regulär ein Ersatzverkehr (20-Minuten-Takt) mit Halt an allen Bahnhöfen. Für die Lage der Ersatzverkehrhaltestellen beachten sie den Fahrplan im Anhang.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür war eine erneute Reparatur an der Weiche in Altenerding.</p>",
+      "durationBegin": "28.11.2025",
+      "durationEnd": "28.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d6a11f8b-3f7a-4a10-98a1-5d4309f233e0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/937df163-c2ee-44c9-8392-2c0dd74d4a1creisendenkarte_20251128-111304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/937df163-c2ee-44c9-8392-2c0dd74d4a1creisendenkarte_20251128-111304.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.11.2025 11:13:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/f4fc1cc8-276c-4bc7-8ea2-baa736d2732f2025_10_22-S2-SEV-data%2B%25282%2529.pdf",
+          "label": "Ersatzverkehr von Markt Schwaben bis Erding",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.11.2025 13:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3b9752d0-de05-4360-b852-9c3918b089b1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
@@ -920,56 +1021,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
-    },
-    {
-      "id": "5a8dab39-803e-42b5-bcde-d16861b8a8f4",
-      "disruptionId": "3059e928-b432-4aa9-af86-c2b0250eacce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 4, S 6 Pasing: Bauarbeiten",
-      "summary": "Im Bereich Pasing kommt weiterhin es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "28.11.2025",
-      "durationEnd": "28.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/3059e928-b432-4aa9-af86-c2b0250eacce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/f0f92b09-644a-4ffe-a91b-718144bed891reisendenkarte_20251128-092438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/f0f92b09-644a-4ffe-a91b-718144bed891reisendenkarte_20251128-092438.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.11.2025 09:24:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.11.2025 12:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5a8dab39-803e-42b5-bcde-d16861b8a8f4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
