@@ -100,6 +100,58 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "3b9752d0-de05-4360-b852-9c3918b089b1",
+      "disruptionId": "d6a11f8b-3f7a-4a10-98a1-5d4309f233e0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Altenerding ↔ Erding: Reparatur an einer Weiche",
+      "summary": "Zwischen Altenerding und Erding sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Markt Schwaben.</p><p>Für Reisende besteht in diesem Streckenabschnitt, aufgrund der Haltausfälle in Ottenhofen und St. Koloman, regulär ein Ersatzverkehr (20-Minuten-Takt) mit Halt an allen Bahnhöfen. Für die Lage der Ersatzverkehrhaltestellen beachten sie den Fahrplan im Anhang.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche in Altenerding.</p>",
+      "durationBegin": "28.11.2025",
+      "durationEnd": "28.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d6a11f8b-3f7a-4a10-98a1-5d4309f233e0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/713604cd-193e-4d5c-8852-86c4b57d8b6areisendenkarte_20251128-111304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/713604cd-193e-4d5c-8852-86c4b57d8b6areisendenkarte_20251128-111304.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.11.2025 11:13:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/e3e860d7-9990-4d3c-bc6f-a2e4f056d1f12025_10_22-S2-SEV-data%2B%25282%2529.pdf",
+          "label": "Ersatzverkehr von Markt Schwaben bis Erding",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.11.2025 11:18",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3b9752d0-de05-4360-b852-9c3918b089b1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
+    },
+    {
       "id": "c0818a82-0d47-46f4-a4e4-dc22062f8802",
       "disruptionId": "b52f3274-67c3-4782-9d00-32253628fd7e",
       "author": "REGIO_BW",
@@ -875,56 +927,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
-    },
-    {
-      "id": "5a8dab39-803e-42b5-bcde-d16861b8a8f4",
-      "disruptionId": "3059e928-b432-4aa9-af86-c2b0250eacce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 4, S 6 Pasing: Bauarbeiten",
-      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "28.11.2025",
-      "durationEnd": "28.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/3059e928-b432-4aa9-af86-c2b0250eacce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/5500627f-52dd-4017-9489-2c4bcdc39f3areisendenkarte_20251128-092438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-28/5500627f-52dd-4017-9489-2c4bcdc39f3areisendenkarte_20251128-092438.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.11.2025 09:24:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.11.2025 10:18",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5a8dab39-803e-42b5-bcde-d16861b8a8f4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
