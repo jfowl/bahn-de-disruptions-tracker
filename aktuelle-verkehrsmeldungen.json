@@ -602,7 +602,7 @@
       },
       "headline": "Zugausfälle in Hessen",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. November ab ca. 20 Uhr bis zum 29. November ca. 12 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge der S5 fallen aus.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S3 und S4 zwischen Frankfurt-Rödelheim und Frankfurt(Main)Süd.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Bis zum 29. November - Tagesende.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der S5 fallen aus.</li><li>Die S1 verkehrt im 30-Minuten-Takt.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ zur S5 die S3 und S4 zwischen Frankfurt-Rödelheim -Frankfurt(Main)Süd.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "28.11.2025",
       "durationEnd": "29.11.2025",
       "mapHref": "https://karte.bahn.de/detail/3a2b19fe-cd78-4693-9a1e-0658f421e78b",
@@ -617,12 +617,17 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 Rhein-Main",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.11.2025 22:57",
+      "lastModified": "29.11.2025 06:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
