@@ -273,6 +273,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "58772f85-0f6a-48a4-939d-c255ba626ef5",
+      "disruptionId": "d7cb50ab-bdc5-47a0-a168-10865afbbae8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 6: Polizeieinsatz",
+      "summary": "Der Bahnhof Haar ist derzeit gesperrt. ",
+      "text": "<p>Bitte rechnen Sie auf der Linie S 6 in beiden Richtungen mit Verspätungen. Kurzfristige Zugausfälle und vorzeitige Zugwenden sind möglich. </p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "29.11.2025",
+      "durationEnd": "29.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d7cb50ab-bdc5-47a0-a168-10865afbbae8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-29/c3240b64-9245-4ed6-ad36-10017970c6cfreisendenkarte_20251129-153139.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-29/c3240b64-9245-4ed6-ad36-10017970c6cfreisendenkarte_20251129-153139.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.11.2025 15:31:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.11.2025 15:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/58772f85-0f6a-48a4-939d-c255ba626ef5",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
+    },
+    {
       "id": "1cc62384-87ea-41dd-bd32-b129d8ef117d",
       "disruptionId": "048b0278-3a2c-4abf-9023-cfe5ceb5eecb",
       "author": "S_BAHN_MUC",
@@ -939,43 +984,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "eb90649f-b30a-46a8-a020-14c64a71233c",
-      "disruptionId": "91fa96f2-80f5-4b3c-bb63-fcbca6f948f7",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Die Züge beginnen und enden auch wieder in Poppenbüttel.",
-      "summary": "Die S1 fährt auch wieder durchgängig von und nach Poppenbüttel. Es ist kein Umstieg in Ohlsdorf mehr erforderlich.",
-      "text": "<p>Die S1 beginnt und endet auch wieder in Poppenbüttel. Von und nach Wellingsbüttel und Poppenbüttel ist kein Umstieg in Ohlsdorf mehr erforderlich.</p>",
-      "durationBegin": "29.11.2025",
-      "durationEnd": "29.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/91fa96f2-80f5-4b3c-bb63-fcbca6f948f7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.11.2025 15:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eb90649f-b30a-46a8-a020-14c64a71233c",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
     },
     {
       "id": "81df2597-9c92-4c48-80c3-03351589462e",
