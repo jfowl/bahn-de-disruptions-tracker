@@ -51,6 +51,54 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
     },
     {
+      "id": "fe91b51e-a3cc-44f2-b346-7c4bd65c1650",
+      "disruptionId": "d18522d7-04ba-4742-8837-b20aad1052a1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Düsseldorf",
+      "summary": "Aufgrund einer Reparatur der Oberleitung an der Strecke zwischen Köln und Düsseldorf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um 15 - 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Köln und Düsseldorf</li><li>ICE Sprinter Züge zwischen Köln und Hamburg</li><li>ICE Sprinter Züge zwischen Köln und Berlin</li><li>ICE Züge zwischen Köln und Amsterdam</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/d18522d7-04ba-4742-8837-b20aad1052a1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-29/eec07b1d-9ce2-407d-930f-353da784e86freisendenkarte_20251129-155618.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-11-29/eec07b1d-9ce2-407d-930f-353da784e86freisendenkarte_20251129-155618.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.11.2025 15:56:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.11.2025 15:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fe91b51e-a3cc-44f2-b346-7c4bd65c1650",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section2"
+    },
+    {
       "id": "70ce3829-5f50-41dd-a2ef-dea3ae3bf249",
       "disruptionId": "5c7fcbf7-ac6d-446f-a394-73a0480a13e5",
       "author": "REGIO_NORDOST",
@@ -271,51 +319,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "58772f85-0f6a-48a4-939d-c255ba626ef5",
-      "disruptionId": "d7cb50ab-bdc5-47a0-a168-10865afbbae8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 6: Polizeieinsatz",
-      "summary": "Der Bahnhof Haar ist derzeit gesperrt. ",
-      "text": "<p>Bitte rechnen Sie auf der Linie S 6 in beiden Richtungen mit Verspätungen. Kurzfristige Zugausfälle und vorzeitige Zugwenden sind möglich. </p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "29.11.2025",
-      "durationEnd": "29.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/d7cb50ab-bdc5-47a0-a168-10865afbbae8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-29/c3240b64-9245-4ed6-ad36-10017970c6cfreisendenkarte_20251129-153139.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-29/c3240b64-9245-4ed6-ad36-10017970c6cfreisendenkarte_20251129-153139.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.11.2025 15:31:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.11.2025 15:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/58772f85-0f6a-48a4-939d-c255ba626ef5",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
     },
     {
       "id": "1cc62384-87ea-41dd-bd32-b129d8ef117d",
