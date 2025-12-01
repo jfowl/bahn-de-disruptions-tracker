@@ -2,6 +2,55 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "6cb84fa6-2ccb-4e77-8c3a-a27331d89e5f",
+      "disruptionId": "57d2aaed-a849-4823-96a5-61f1893a0d0f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "⚠️ Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
+      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Verspätungen von bis zu 5 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 10 Minuten, und zwischen Altona und Bergedorf nur alle 10 Minuten.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>🔊 Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: mehrere vorangegangene Rettungswageneinsätze</strong></p>",
+      "durationBegin": "01.12.2025",
+      "durationEnd": "01.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/57d2aaed-a849-4823-96a5-61f1893a0d0f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.12.2025 18:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6cb84fa6-2ccb-4e77-8c3a-a27331d89e5f",
+      "magnoliaPath": "/aktuell/nord/reduced_service_medical_emergency"
+    },
+    {
       "id": "935d1230-0197-4934-8b7c-60d83c3e62c0",
       "disruptionId": "2c0e519f-a487-4812-adcb-c577bcad247b",
       "author": "FERNVERKEHR_AG",
@@ -593,43 +642,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "9ad28fb4-bd98-4b60-83d9-96af7fca771f",
-      "disruptionId": "5ea952da-1c1a-4d31-baec-994290b0f654",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "❗Information für Fahrgäste der Linie 🔴 S2",
-      "summary": "Aktuell fährt die 🔴 S2 zwischen Bergedorf und Altona alle zehn Minuten 🕐.",
-      "text": "<p>Fahrgäste an den Stationen Diebsteich, Holstenstraße, Sternschanze und Dammtor nutzen bitte alternativ auch die Linie 🔵 S5.</p>",
-      "durationBegin": "01.12.2025",
-      "durationEnd": "01.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/5ea952da-1c1a-4d31-baec-994290b0f654",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.12.2025 17:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9ad28fb4-bd98-4b60-83d9-96af7fca771f",
-      "magnoliaPath": "/aktuell/nord/reduced_service_other_cause"
-    },
-    {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -922,43 +934,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3972fe3-b0b0-4984-890a-9a688b7175b0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
-    },
-    {
-      "id": "e8ee7116-0e5c-4b28-bf71-3179d763d8d7",
-      "disruptionId": "004cbf8a-dcb7-49fd-80b2-ad9ae255b34a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf der Linie S3 zu Abweichungen vom Fahrplan und Verspätungen. Grund: vorheriger Rettungswageneinsatz ",
-      "text": "<p>Keine weiteren Informationen</p>",
-      "durationBegin": "01.12.2025",
-      "durationEnd": "01.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/004cbf8a-dcb7-49fd-80b2-ad9ae255b34a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.12.2025 17:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e8ee7116-0e5c-4b28-bf71-3179d763d8d7",
-      "magnoliaPath": "/aktuell/nord/detour_medical_emergency"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
