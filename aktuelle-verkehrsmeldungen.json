@@ -11,7 +11,7 @@
       },
       "headline": "⚠️ Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
       "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Verspätungen von bis zu 5 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 10 Minuten, und zwischen Altona und Bergedorf nur alle 10 Minuten.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>🔊 Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: mehrere vorangegangene Rettungswageneinsätze</strong></p>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Verspätungen von bis zu 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 5 Minuten.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 30 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 30 Minuten.</p><p><strong>🔊 Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: mehrere vorangegangene Rettungswageneinsätze</strong></p>",
       "durationBegin": "01.12.2025",
       "durationEnd": "01.12.2025",
       "mapHref": "https://karte.bahn.de/detail/57d2aaed-a849-4823-96a5-61f1893a0d0f",
@@ -43,7 +43,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.12.2025 18:39",
+      "lastModified": "01.12.2025 19:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -640,6 +640,81 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "e2c229f2-8c51-4b15-b7c6-1a8ba8aa00bd",
+      "disruptionId": "04a484f4-777b-4a33-bdee-a9bedfb5aa29",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Stammstrecke Marienplatz : Polizeieinsatz",
+      "summary": "Die S-Bahnen in Richtung Ostbahnhof halten derzeit nicht am Marienplatz.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "01.12.2025",
+      "durationEnd": "01.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/04a484f4-777b-4a33-bdee-a9bedfb5aa29",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-01/ad9930dd-01e7-4371-a5f2-6516bcf56cf3reisendenkarte_20251201-185401.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-01/ad9930dd-01e7-4371-a5f2-6516bcf56cf3reisendenkarte_20251201-185401.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.12.2025 18:54:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.12.2025 19:20",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e2c229f2-8c51-4b15-b7c6-1a8ba8aa00bd",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
