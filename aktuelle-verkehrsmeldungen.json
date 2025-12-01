@@ -2,55 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "6cb84fa6-2ccb-4e77-8c3a-a27331d89e5f",
-      "disruptionId": "57d2aaed-a849-4823-96a5-61f1893a0d0f",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "⚠️ Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Verspätungen von bis zu 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 5 Minuten.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 25 Minuten.</p><p><strong>🔊 Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: mehrere vorangegangene Rettungswageneinsätze</strong></p>",
-      "durationBegin": "01.12.2025",
-      "durationEnd": "01.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/57d2aaed-a849-4823-96a5-61f1893a0d0f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.12.2025 19:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6cb84fa6-2ccb-4e77-8c3a-a27331d89e5f",
-      "magnoliaPath": "/aktuell/nord/reduced_service_medical_emergency"
-    },
-    {
       "id": "935d1230-0197-4934-8b7c-60d83c3e62c0",
       "disruptionId": "2c0e519f-a487-4812-adcb-c577bcad247b",
       "author": "FERNVERKEHR_AG",
@@ -729,6 +680,48 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d7c94de9-8adb-4ec1-acdf-60176e008759",
       "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
+    },
+    {
+      "id": "6162c9a2-d15c-4a1b-a11f-243b5c91a2ba",
+      "disruptionId": "d318cd5c-b59d-4180-be99-611afc47265a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "✅ S3 und S5: Polizeieinsatz beendet. Die S3 und S5 fährt wieder zwischen Pinneberg und Elbgaustraße.",
+      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
+      "text": "<p> </p>",
+      "durationBegin": "01.12.2025",
+      "durationEnd": "01.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/d318cd5c-b59d-4180-be99-611afc47265a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.12.2025 20:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6162c9a2-d15c-4a1b-a11f-243b5c91a2ba",
+      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
