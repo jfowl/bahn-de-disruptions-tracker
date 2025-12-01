@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3511eeeb-e0f1-405e-a210-397fcc749238",
+      "disruptionId": "508deb72-0f54-4b71-9ea6-b7359c93d14d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung in Hanau Hbf",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Hanau Hbf kommt es am 01.12.2025 zwischen 16 Uhr und 20 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Würzburg und Frankfurt(M)</li></ul><p>Die Züge der Relation Würzburg - Frankfurt(M) <strong>ohne Halt in Hanau Hbf</strong> werden in beiden Richtungen umgeleitet und verspäten sich dadurch um ca. 20 Minuten. </p><p>Die Züge der Relation Würzburg - Frankfurt(M) <strong>mit Halt in Hanau Hbf</strong> werden nicht umgeleitet.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.12.2025",
+      "durationEnd": "01.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/508deb72-0f54-4b71-9ea6-b7359c93d14d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-01/bf825120-c896-4ca2-ba8d-df6c972ca00freisendenkarte_20251201-133335.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-01/bf825120-c896-4ca2-ba8d-df6c972ca00freisendenkarte_20251201-133335.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.12.2025 13:33:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.12.2025 13:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3511eeeb-e0f1-405e-a210-397fcc749238",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_other_cause"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -359,81 +406,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "1a4a7699-0802-4820-9103-1daaa8f56735",
-      "disruptionId": "16cc62ab-5d3a-499a-9e4f-f5e623694fc1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke Richtung Ostbahnhof: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Aktuell kommt es auf der Stammstrecke in Richtung Ostbahnhof nur noch zu geringfügigen Verspätungen.",
-      "text": "<p>Auf den Außenästen der S-Bahnen kommt es teilweise noch zu vorzeitigen Zugwenden.</p><p>Die ärztliche Versorgung eines Fahrgastes am Hirschgarten ist beendet.</p>",
-      "durationBegin": "01.12.2025",
-      "durationEnd": "01.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/16cc62ab-5d3a-499a-9e4f-f5e623694fc1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-01/1b525c55-f120-4537-8018-80c1e1ccc41breisendenkarte_20251201-114304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-01/1b525c55-f120-4537-8018-80c1e1ccc41breisendenkarte_20251201-114304.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.12.2025 11:43:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.12.2025 12:40",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1a4a7699-0802-4820-9103-1daaa8f56735",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
