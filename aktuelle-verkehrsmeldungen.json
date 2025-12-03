@@ -391,6 +391,51 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "7438a0c1-7dc2-4107-aaad-2abc2d431c81",
+      "disruptionId": "03f1cb4f-028f-43f7-8e6c-eb8946a115c2",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Ausfälle beim Schienenersatzverkehr mit Bussen zwischen Biberach(Riß) und Aulendorf. Zusätzliche Busse sind eingerichtet. ",
+      "summary": "Der Schienenersatzverkehr mit Bussen von Biberach(Riß) bis Aulendorf ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 04.12.2025 , 01:00 Uhr. Der Grund sind technische Defekte an zwei der eingesetzten Busse.  Es kommt derzeit zu Fahrtausfällen. Wir haben für Sie einen zusätzlichen Pendelverkehr mit zwei Bussen eingerichtet. Die Busse fahren jeweils gegen 19:15 Uhr ab Biberach und Aulendorf.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RS 2 / RS 21 (Ulm – Biberach(Riß)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "03.12.2025",
+      "durationEnd": "04.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/03f1cb4f-028f-43f7-8e6c-eb8946a115c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-03/a05a7b8c-a634-417f-82a4-01d57836fc2ereisendenkarte_20251203-181833.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-03/a05a7b8c-a634-417f-82a4-01d57836fc2ereisendenkarte_20251203-181833.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.12.2025 18:18:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.12.2025 18:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7438a0c1-7dc2-4107-aaad-2abc2d431c81",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_vehicle"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -635,13 +680,21 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7, S 20 Solln: Reparatur an der Strecke",
-      "summary": "Heute Nachmittag entfallen einige S-Bahnen der Linie S20.",
-      "text": "<p>Im Bereich Solln kommt es zudem zu Verspätungen von bis zu 15 Minuten und Teilausfällen. Grund ist eine Reparatur an der Strecke.</p>",
+      "headline": "S 7, Solln: Reparatur an der Strecke",
+      "summary": "Im Bereich Solln kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "03.12.2025",
       "durationEnd": "03.12.2025",
       "mapHref": "https://karte.bahn.de/detail/442c3d79-fa70-4995-b927-712e600bf662",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-03/5745a0d2-a459-4eb0-b11f-97136b1194aareisendenkarte_20251203-184413.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-03/5745a0d2-a459-4eb0-b11f-97136b1194aareisendenkarte_20251203-184413.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.12.2025 18:44:13",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -662,7 +715,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.12.2025 17:18",
+      "lastModified": "03.12.2025 18:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
