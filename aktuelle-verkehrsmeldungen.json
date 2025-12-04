@@ -361,25 +361,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "1e604e5d-26b2-4014-8f05-093d957ff705",
-      "disruptionId": "990034d1-f0d7-4a47-9369-aa2aa6c77984",
+      "id": "99314c76-b831-4181-9964-484e6741cdff",
+      "disruptionId": "4ac5027f-029f-466a-a724-f6b41ad4090a",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 5 Aying: Reparatur an einem Signal",
-      "summary": "Es kommt bei der S5 noch zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "headline": "S4, S6 Trudering - Haar: Unbefugte Personen auf der Strecke",
+      "summary": "Derzeit kommt es bei der S4 und S6 noch zu Folgeverspätungen von bis zu 20 Minuten.",
+      "text": "<p>Die S-Bahnen können den Streckenabschnitt wieder mit regulärer Geschwindigkeit befahren . Es kommt teilweise zu vorzeitigen Zugwenden.</p><p>Die unbefugten Personen haben die Strecke verlassen.</p>",
       "durationBegin": "04.12.2025",
       "durationEnd": "04.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/990034d1-f0d7-4a47-9369-aa2aa6c77984",
+      "mapHref": "https://karte.bahn.de/detail/4ac5027f-029f-466a-a724-f6b41ad4090a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/9ef35e14-5904-429d-a7a6-0e7dc7a558e7reisendenkarte_20251204-151813.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/9ef35e14-5904-429d-a7a6-0e7dc7a558e7reisendenkarte_20251204-151813.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/d837f11c-6330-4031-a9d4-0d52d8ad8b68reisendenkarte_20251204-155743.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/d837f11c-6330-4031-a9d4-0d52d8ad8b68reisendenkarte_20251204-155743.png",
           "info": "",
-          "alt": "Reisendenkarte 04.12.2025 15:18:13",
+          "alt": "Reisendenkarte 04.12.2025 15:57:43",
           "openInNewTab": true
         }
       ],
@@ -392,93 +392,23 @@
         "BY"
       ],
       "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.12.2025 15:42",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1e604e5d-26b2-4014-8f05-093d957ff705",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "dbb4846a-fa17-47c8-81a5-10381c85ebe3",
-      "disruptionId": "fc83b482-efbd-482f-8547-f4512e28951b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Stammstrecke: Polizeieinsatz",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Folgeverspätungen von bis zu 10 Minuten sowie zu vereinzelten vorzeitigen Wenden auf den Außenbereichen der S-Bahnen.",
-      "text": "<p>Grund ist ein vorangegangener Polizeieinsatz an der Donnersbergerbrücke</p>",
-      "durationBegin": "04.12.2025",
-      "durationEnd": "04.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/fc83b482-efbd-482f-8547-f4512e28951b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/b53c2044-d4b0-4cb5-aa80-3a517f444533reisendenkarte_20251204-152457.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/b53c2044-d4b0-4cb5-aa80-3a517f444533reisendenkarte_20251204-152457.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.12.2025 15:24:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
         {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "04.12.2025 15:27",
+      "lastModified": "04.12.2025 16:20",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dbb4846a-fa17-47c8-81a5-10381c85ebe3",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity1"
+      "detailPagePath": "/service/fahrplaene/99314c76-b831-4181-9964-484e6741cdff",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
