@@ -62,8 +62,8 @@
       "mapHref": "https://karte.bahn.de/detail/e0d99ad5-5b61-4320-ae06-4284314b4260",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-04/3b2699ff-73ab-46f7-9e1a-fb512d09a7b5reisendenkarte_20251203-152141.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-04/3b2699ff-73ab-46f7-9e1a-fb512d09a7b5reisendenkarte_20251203-152141.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-04/6ac66e4e-ae71-46c7-b45e-46f0f1cc30a8reisendenkarte_20251203-152141.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-04/6ac66e4e-ae71-46c7-b45e-46f0f1cc30a8reisendenkarte_20251203-152141.png",
           "info": "",
           "alt": "Reisendenkarte 03.12.2025 15:21:41",
           "openInNewTab": true
@@ -78,12 +78,6 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
           "label": "bahn.de/fahrgastrechte ",
           "info": "",
@@ -92,6 +86,12 @@
         {
           "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
           "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         }
@@ -120,7 +120,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "04.12.2025 05:39",
+      "lastModified": "04.12.2025 08:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -440,81 +440,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "e3a4485b-665d-4ca5-9a1b-2d03d6c14274",
-      "disruptionId": "3c035dcd-3bef-4a9a-ba20-374763d0d028",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Stammstrecke: Feuerwehreinsatz am Isartor",
-      "summary": "Die S-Bahnen halten derzeit nicht am Isartor.",
-      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Rosenheimer Platz oder Marienplatz.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Isartor.</p>",
-      "durationBegin": "04.12.2025",
-      "durationEnd": "04.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/3c035dcd-3bef-4a9a-ba20-374763d0d028",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/e556d773-247e-4a6a-8de4-2f49bf9bbaacreisendenkarte_20251204-075521.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/e556d773-247e-4a6a-8de4-2f49bf9bbaacreisendenkarte_20251204-075521.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.12.2025 07:55:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.12.2025 07:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e3a4485b-665d-4ca5-9a1b-2d03d6c14274",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
@@ -846,51 +771,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "da0aa9e0-333a-4cc5-9a08-117a40ec2115",
-      "disruptionId": "86712a97-a5aa-4658-b2bb-e707ebcb964b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 8 Johanneskirchen",
-      "summary": "Im Bereich Johanneskirchen kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "04.12.2025",
-      "durationEnd": "04.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/86712a97-a5aa-4658-b2bb-e707ebcb964b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/39e76f11-fbb2-454b-b514-e8d3b1cf7670reisendenkarte_20251204-070304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/39e76f11-fbb2-454b-b514-e8d3b1cf7670reisendenkarte_20251204-070304.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.12.2025 07:03:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.12.2025 07:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/da0aa9e0-333a-4cc5-9a08-117a40ec2115",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
-    },
-    {
       "id": "2f072484-1b41-4e90-a09f-dc518c9c5320",
       "disruptionId": "789cc200-a76d-44e6-9bde-faa31c8cdd19",
       "author": "S_BAHN_MUC",
@@ -906,8 +786,8 @@
       "mapHref": "https://karte.bahn.de/detail/789cc200-a76d-44e6-9bde-faa31c8cdd19",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/0c502a28-ae23-48b5-a768-c380451673aereisendenkarte_20251204-050843.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/0c502a28-ae23-48b5-a768-c380451673aereisendenkarte_20251204-050843.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/c6c63fa4-d860-43cf-81c4-e649ec6b42fdreisendenkarte_20251204-050843.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-04/c6c63fa4-d860-43cf-81c4-e649ec6b42fdreisendenkarte_20251204-050843.png",
           "info": "",
           "alt": "Reisendenkarte 04.12.2025 05:08:43",
           "openInNewTab": true
@@ -928,7 +808,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.12.2025 07:30",
+      "lastModified": "04.12.2025 08:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
