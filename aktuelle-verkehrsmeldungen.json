@@ -428,51 +428,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "52397fcb-588f-4231-aa8a-f8938a109a45",
-      "disruptionId": "e460b627-811b-44df-bfaf-157f1b5a150c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 7  Ebenhausen-Schäftlarn",
-      "summary": "Der Bahnübergang bei Ebenhausen- Schäftlarn wurde nochmal repariert.",
-      "text": "<p>Es kann noch zu Folgeverspätungen von bis zu 10 Minuten kommen. Der Grund dafür war ein erneut aufgetretener technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "08.12.2025",
-      "durationEnd": "08.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/e460b627-811b-44df-bfaf-157f1b5a150c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/640a85f4-8884-45f7-9e37-e1f9dc16965areisendenkarte_20251208-063420.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/640a85f4-8884-45f7-9e37-e1f9dc16965areisendenkarte_20251208-063420.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.12.2025 06:34:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.12.2025 14:31",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/52397fcb-588f-4231-aa8a-f8938a109a45",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -611,6 +566,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "c10dbcd7-c341-43a8-a784-e95e591273e6",
+      "disruptionId": "9acd60a9-b7b9-4a18-9b38-c0d44e125292",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Einzelne Zugausfälle zwischen Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 8. Dezember von 15 bis 19 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Fahrten der S8 mit Fahrtziel und -beginn in Kelsterbach, Frankfurt(M) Flughafen Regionalbf und Frankfurt(Main)Hbf fallen aus. Die S8 verkehrt somit im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "08.12.2025",
+      "durationEnd": "08.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/9acd60a9-b7b9-4a18-9b38-c0d44e125292",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.12.2025 14:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c10dbcd7-c341-43a8-a784-e95e591273e6",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
       "id": "f7ecd1e4-1e4b-4952-bc59-5e561b0365d8",
