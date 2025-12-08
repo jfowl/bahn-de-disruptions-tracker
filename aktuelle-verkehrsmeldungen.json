@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "dd85717b-37e7-47df-acf1-bba00b6bc8b3",
-      "disruptionId": "de1a7047-5512-4e12-9f79-fb4080818abf",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover und Bremen",
-      "summary": "Aufgrund einer Oberleitungsstörung an der Strecke in Wunstorf zwischen Hannover und Bremen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Teilausfällen und Ausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Züge des Fernverkehrs zwischen Hannover und Bremen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/de1a7047-5512-4e12-9f79-fb4080818abf",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-08/09ef65e3-f95c-48c1-9163-8021af220f61reisendenkarte_20251208-092328.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-08/09ef65e3-f95c-48c1-9163-8021af220f61reisendenkarte_20251208-092328.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.12.2025 09:23:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.12.2025 09:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/dd85717b-37e7-47df-acf1-bba00b6bc8b3",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -421,14 +377,14 @@
       },
       "headline": "S 7  Ebenhausen-Schäftlarn: Technischer Defekt an einem Bahnübergang",
       "summary": "Auf der S7 kommt es erneut zu Verspätungen von bis zu 20 Minuten und vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang bei Ebenhausen-Schäftlarn ist erneut aufgetreten.</p>",
+      "text": "<p>Der technische Defekt an einem Bahnübergang bei Ebenhausen-Schäftlarn ist wieder aufgetreten.</p>",
       "durationBegin": "08.12.2025",
       "durationEnd": "08.12.2025",
       "mapHref": "https://karte.bahn.de/detail/e460b627-811b-44df-bfaf-157f1b5a150c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/e0add87c-a8e5-4b39-8fa6-6ddd4e876fabreisendenkarte_20251208-063420.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/e0add87c-a8e5-4b39-8fa6-6ddd4e876fabreisendenkarte_20251208-063420.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/5d1ad047-0ab8-46fe-89f9-27a3efb59130reisendenkarte_20251208-063420.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-08/5d1ad047-0ab8-46fe-89f9-27a3efb59130reisendenkarte_20251208-063420.png",
           "info": "",
           "alt": "Reisendenkarte 08.12.2025 06:34:20",
           "openInNewTab": true
@@ -449,7 +405,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.12.2025 10:23",
+      "lastModified": "08.12.2025 11:19",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -717,19 +673,24 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "08.12.2025 10:24",
+      "lastModified": "08.12.2025 10:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
