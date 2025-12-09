@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bc01f3f6-270a-4f26-a680-588430eeb5b3",
-      "disruptionId": "08a81464-b147-4e5a-9eb8-365b61d2975f",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Dessau ⇄ Magdeburg - Fahrtausfälle",
-      "summary": "Die Strecke von Dessau bis Magdeburg Hbf ist im Moment teilweise gesperrt. Die Dauer der Sperrung liegt voraussichtlich bis Mittwoch, den 10.12.2025 vor.\n Der Grund ist eine Reparatur an der Oberleitung.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Oberleitung.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kann zwischen Dessau und Magdeburg nur jeder zweite Zug fahren.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Magdeburg und Dessau für Sie eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "08.12.2025",
-      "durationEnd": "10.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/08a81464-b147-4e5a-9eb8-365b61d2975f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.12.2025 16:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bc01f3f6-270a-4f26-a680-588430eeb5b3",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -653,6 +615,81 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/19a90d96-1995-49cb-bbe2-25dbd6b420ee",
       "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "e0bc52e8-ce04-40f2-9661-a66de7c98110",
+      "disruptionId": "ee604e7a-c0a6-4a75-b2bb-169ef045e648",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Hauptbahnhof",
+      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz(Stachus).</p><p>Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "09.12.2025",
+      "durationEnd": "09.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/ee604e7a-c0a6-4a75-b2bb-169ef045e648",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/badffe35-80f5-4185-be8d-16a22d62a17dreisendenkarte_20251209-114116.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/badffe35-80f5-4185-be8d-16a22d62a17dreisendenkarte_20251209-114116.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.12.2025 11:41:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.12.2025 11:43",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e0bc52e8-ce04-40f2-9661-a66de7c98110",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
