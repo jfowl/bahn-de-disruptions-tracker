@@ -435,85 +435,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "814b1299-6e1c-4b93-9938-6037f36a32a9",
-      "disruptionId": "0f61d1a6-19aa-4b3b-8152-1a7a7a9972d1",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Vorangegangener Rettungswageneinsatz. ",
-      "text": "<p> </p>",
-      "durationBegin": "09.12.2025",
-      "durationEnd": "09.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/0f61d1a6-19aa-4b3b-8152-1a7a7a9972d1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.12.2025 16:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/814b1299-6e1c-4b93-9938-6037f36a32a9",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
-    },
-    {
-      "id": "d9ef9e37-c727-4db7-ab8b-f86e74194ea5",
-      "disruptionId": "940fe298-2599-49f6-976a-33d4f387f468",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf der Linie S2 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Polizeieinsatz. ",
-      "text": "<p>Bitte auf Ansagen und Anzeigen achten.</p>",
-      "durationBegin": "09.12.2025",
-      "durationEnd": "09.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/940fe298-2599-49f6-976a-33d4f387f468",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.12.2025 15:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d9ef9e37-c727-4db7-ab8b-f86e74194ea5",
-      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
-    },
-    {
       "id": "739b679f-fac7-4e14-9ebf-e20161970fe5",
       "disruptionId": "0004f239-40f3-4c62-9eab-a3c5c08c7a62",
       "author": "REGIO_NORD",
@@ -1210,6 +1131,106 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "b6a9fd98-6134-487b-8623-47bb7a41f24b",
+      "disruptionId": "bf536daf-ba3a-4343-b0f3-b0196d1b8804",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 5, S 8 Germering-Unterpfaffenhofen: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Germering-Unterpfaffenhofen kommt es zu Verspätungen und Teilausfällen.",
+      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "09.12.2025",
+      "durationEnd": "09.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/bf536daf-ba3a-4343-b0f3-b0196d1b8804",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/0cfee1d9-efe1-4620-9d93-98d3cbe72037reisendenkarte_20251209-182245.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/0cfee1d9-efe1-4620-9d93-98d3cbe72037reisendenkarte_20251209-182245.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.12.2025 18:22:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.12.2025 18:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b6a9fd98-6134-487b-8623-47bb7a41f24b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
+      "id": "feb48184-b06d-4dd4-88c5-5589ef65e241",
+      "disruptionId": "b23127c9-26f7-4731-9019-f8f0bd65bf69",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 4 Geltendorf: Vorübergehend verminderte Geschwindigkeit auf der Strecke",
+      "summary": "Im Bereich Geltendorf kommt es in Richtung stadteinwärts zu Verspätungen von 10 bis 15 Minuten und vorzeitige Zugwenden .",
+      "text": "<p>Der Grund hierfür ist eine vorübergehende verminderte Geschwindigkeit auf der Strecke.</p>",
+      "durationBegin": "09.12.2025",
+      "durationEnd": "09.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/b23127c9-26f7-4731-9019-f8f0bd65bf69",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/5d3108f7-1ea5-4ac0-9268-a81805cf6f64reisendenkarte_20251209-180310.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/5d3108f7-1ea5-4ac0-9268-a81805cf6f64reisendenkarte_20251209-180310.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.12.2025 18:03:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.12.2025 18:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/feb48184-b06d-4dd4-88c5-5589ef65e241",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ca998968-3a74-4965-b80c-3fbdaa6fd504",
