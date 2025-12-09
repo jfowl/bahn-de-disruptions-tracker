@@ -1106,8 +1106,8 @@
       "mapHref": "https://karte.bahn.de/detail/b23127c9-26f7-4731-9019-f8f0bd65bf69",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/f94a9a50-64e5-484f-927c-610d0ea28177reisendenkarte_20251209-180310.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/f94a9a50-64e5-484f-927c-610d0ea28177reisendenkarte_20251209-180310.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/208caef7-c0ed-4607-966e-88479684ecebreisendenkarte_20251209-180310.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/208caef7-c0ed-4607-966e-88479684ecebreisendenkarte_20251209-180310.png",
           "info": "",
           "alt": "Reisendenkarte 09.12.2025 18:03:10",
           "openInNewTab": true
@@ -1123,12 +1123,17 @@
       ],
       "lines": [
         {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.12.2025 20:12",
+      "lastModified": "09.12.2025 20:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
