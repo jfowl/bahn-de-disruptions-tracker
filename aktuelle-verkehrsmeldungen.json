@@ -465,8 +465,8 @@
       "mapHref": "https://karte.bahn.de/detail/577a4cc0-3ddb-443d-887f-dd67a1e7a204",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-10/8914c579-3b0d-403a-84d3-8933d8fc5587reisendenkarte_20251210-184731.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-10/8914c579-3b0d-403a-84d3-8933d8fc5587reisendenkarte_20251210-184731.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-10/ef7ad300-d20f-4eae-8bec-b83104fba44dreisendenkarte_20251210-184731.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-10/ef7ad300-d20f-4eae-8bec-b83104fba44dreisendenkarte_20251210-184731.png",
           "info": "",
           "alt": "Reisendenkarte 10.12.2025 18:47:31",
           "openInNewTab": true
@@ -497,7 +497,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.12.2025 21:03",
+      "lastModified": "10.12.2025 21:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -644,6 +644,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
+      "disruptionId": "f7018558-911e-47fe-b628-62cd0bcff7e7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4 Geltendorf: Reparatur an der Strecke",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "10.12.2025",
+      "durationEnd": "11.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/f7018558-911e-47fe-b628-62cd0bcff7e7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.12.2025 21:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
+    },
+    {
       "id": "42f69964-1103-4c62-a5f1-8d71c3c1af4f",
       "disruptionId": "43773bbd-94ce-4717-860b-ff9441a4dc6d",
       "author": "SUEDOSTBAYERNBAHN",
@@ -716,43 +753,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/131a6b97-3faf-422c-846e-8ee0b34e0bf0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/impairment_other_cause4"
-    },
-    {
-      "id": "7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
-      "disruptionId": "f7018558-911e-47fe-b628-62cd0bcff7e7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Geltendorf: Reparatur an der Strecke",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "10.12.2025",
-      "durationEnd": "10.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/f7018558-911e-47fe-b628-62cd0bcff7e7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.12.2025 21:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
