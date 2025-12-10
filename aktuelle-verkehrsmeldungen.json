@@ -2,6 +2,57 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4d3c7b4d-d5fd-497e-9a6a-8ebbadf9a07c",
+      "disruptionId": "442282fb-f70d-46e7-9180-a4cee30df2c2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Hanau",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am Donnerstag, 11.12.2025 kommt es in Hanau zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen vsl. umgeleitet werden und verspäten sich dadurch.",
+      "text": "<p>Im Laufe des heutigen Nachmittags erwarten wir nähere Informationen seitens der zuständigen Behörden. Danach wird diese Meldung schnellstmöglich aktualisiert.</p><p>Die Stadt Hanau informiert auf ihrer Webseite.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/442282fb-f70d-46e7-9180-a4cee30df2c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-10/14691c4b-2533-46b1-98b4-6ce0daf40615reisendenkarte_20251210-132801.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-10/14691c4b-2533-46b1-98b4-6ce0daf40615reisendenkarte_20251210-132801.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.12.2025 13:28:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.hanau.de/contentpool/adhoc-meldungen/index.html",
+          "label": "Webseite der Stadt Hanau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.12.2025 13:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4d3c7b4d-d5fd-497e-9a6a-8ebbadf9a07c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -368,25 +419,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "ac9f9149-df41-4150-8e2c-8617af5c8611",
-      "disruptionId": "e922891b-4b8c-47ee-982c-4c6eb09b6998",
+      "id": "46ac2dfc-6e9d-4c49-a74f-6a4a1cd74f30",
+      "disruptionId": "fbe88c84-711c-4957-9f23-f010e31d40d3",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "Stammstrecke - Gesamtnetz: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kommt es nach einer vorangegangenen Störung in beide Richtungen weiterhin teilweise zu Verspätungen von bis zu 20 Minuten und zusätzlich zu vereinzelten Zugwenden auf den Außenbereichen..",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "10.12.2025",
-      "durationEnd": "10.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/e922891b-4b8c-47ee-982c-4c6eb09b6998",
+      "headline": "S 4 Puchheim: Polizeieinsatz",
+      "summary": "Im Bereich Puchheim kommt es zu keinen weiteren Verspätungen mehr.",
+      "text": "<p>Die S-Bahnen können in diesem Bereich wieder mit regulärer Geschwindigkeit fahren.</p><p>Es kommt noch zu Folgeverspätungen von bis zu 20 Minuten, vereinzelt auch höher, sowie zu vorzeitigen Zugwenden.\t</p><p>Der Polizeieinsatz wurde beendet.</p>",
+      "durationBegin": "11.12.2025",
+      "durationEnd": "11.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/fbe88c84-711c-4957-9f23-f010e31d40d3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-10/69de2f69-786d-489d-a791-ec30d7820f34reisendenkarte_20251210-085921.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-10/69de2f69-786d-489d-a791-ec30d7820f34reisendenkarte_20251210-085921.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-10/3c2400d9-b2d1-412a-8791-eb39407bc067reisendenkarte_20251210-131957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-10/3c2400d9-b2d1-412a-8791-eb39407bc067reisendenkarte_20251210-131957.png",
           "info": "",
-          "alt": "Reisendenkarte 10.12.2025 08:59:21",
+          "alt": "Reisendenkarte 10.12.2025 13:19:57",
           "openInNewTab": true
         }
       ],
@@ -400,47 +451,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "10.12.2025 12:45",
+      "lastModified": "10.12.2025 13:45",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ac9f9149-df41-4150-8e2c-8617af5c8611",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/46ac2dfc-6e9d-4c49-a74f-6a4a1cd74f30",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
     },
     {
       "id": "739b679f-fac7-4e14-9ebf-e20161970fe5",
