@@ -418,68 +418,6 @@
       "magnoliaPath": "/aktuell/suedost/massive_impairment_construction"
     },
     {
-      "id": "4168f21d-0a0d-4f99-a083-bc7fef182589",
-      "disruptionId": "f4852f08-9264-4c2e-9d4a-3085abea7c1a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Stammstrecke / Gesamtnetz: Polizeieinsatz beendet",
-      "summary": "Die Züge verkehren wieder.",
-      "text": "<p>Es kommt jedoch noch zu Folgeverspätungen, Umleitungen, Ausfällen und Teilausfällen.</p><p>Der Grund dafür war ein Polizeieinsatz in Pasing.</p>",
-      "durationBegin": "10.12.2025",
-      "durationEnd": "10.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/f4852f08-9264-4c2e-9d4a-3085abea7c1a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.12.2025 17:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4168f21d-0a0d-4f99-a083-bc7fef182589",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -577,6 +515,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
+      "disruptionId": "f7018558-911e-47fe-b628-62cd0bcff7e7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4 Geltendorf: Reparatur an der Strecke",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "10.12.2025",
+      "durationEnd": "10.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/f7018558-911e-47fe-b628-62cd0bcff7e7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.12.2025 18:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7f132938-b2d6-4dcc-ab28-f45c05f6bc16",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
+    },
+    {
       "id": "429a8575-0cd7-41fa-a2e3-6dc990171900",
       "disruptionId": "ba321fae-19fc-45f7-bb73-402b52e0a051",
       "author": "S_BAHN_MUC",
@@ -584,9 +559,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 3 Holzkirchen: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal bei Otterfing.</p>",
+      "headline": "S 3 Holzkirchen: Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal bei Otterfing.</p>",
       "durationBegin": "10.12.2025",
       "durationEnd": "10.12.2025",
       "mapHref": "https://karte.bahn.de/detail/ba321fae-19fc-45f7-bb73-402b52e0a051",
@@ -606,7 +581,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.12.2025 17:24",
+      "lastModified": "10.12.2025 18:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
