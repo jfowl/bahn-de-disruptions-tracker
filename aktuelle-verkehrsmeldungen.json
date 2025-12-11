@@ -153,80 +153,6 @@
       "magnoliaPath": "/aktuell/nord/detour_construction"
     },
     {
-      "id": "a4b9b175-ac5e-423f-b85e-5d8e12aeaf47",
-      "disruptionId": "41dcb57c-65e9-4b88-af67-3e58690760ed",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg Hbf und Hamburg-Altona",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Hamburg Hbf und Hamburg-Altona ist der Zugverkehr beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 7 (Flensburg/Kiel Hbf – Hamburg Hbf): Die Züge der RE 7 enden/beginnen in Hamburg -Altona. Nutzen Sie zwischen Hamburg -Altona und Hamburg Hbf die S-Bahn Linien S 2 und S 3.</li><li>RE 70 (Kiel Hbf – Hamburg Hbf): Die Züge der RE 70 enden/beginnen planmäßig in Hamburg Hbf.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 30 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "10.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/41dcb57c-65e9-4b88-af67-3e58690760ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-11/b8fb1c8d-13d2-437d-a036-37196884541breisendenkarte_20251210-144546.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-11/b8fb1c8d-13d2-437d-a036-37196884541breisendenkarte_20251210-144546.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.12.2025 14:45:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 70",
-          "filterName": "RE 70",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.12.2025 19:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a4b9b175-ac5e-423f-b85e-5d8e12aeaf47",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
@@ -572,6 +498,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "043c6cc8-4a11-4ba0-9897-c7c42adbe227",
+      "disruptionId": "681e3342-9d85-4784-a65b-b67fa2244663",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 8 Herrsching: Technischer Defekt an einem Stellwerk",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Stellwerk bei Seefeld-Hechendorf.</p>",
+      "durationBegin": "11.12.2025",
+      "durationEnd": "11.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/681e3342-9d85-4784-a65b-b67fa2244663",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.12.2025 20:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/043c6cc8-4a11-4ba0-9897-c7c42adbe227",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
