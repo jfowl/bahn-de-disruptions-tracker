@@ -312,51 +312,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "b86a32df-0765-4b8b-8151-0b90c928150f",
-      "disruptionId": "59685a31-eb5d-422b-a224-3e8604a5fe47",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 1 Feldmoching ↔ Neufahrn: Reparatur an einer Weiche",
-      "summary": "Zwischen Feldmoching und Neufahrn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Feldmoching und Neufahrn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Feldmoching und Neufahrn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "12.12.2025",
-      "durationEnd": "12.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/59685a31-eb5d-422b-a224-3e8604a5fe47",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/ca66c27f-fa15-4926-8e64-ae5e771660a1reisendenkarte_20251212-064434.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/ca66c27f-fa15-4926-8e64-ae5e771660a1reisendenkarte_20251212-064434.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.12.2025 06:44:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.12.2025 14:29",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b86a32df-0765-4b8b-8151-0b90c928150f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -552,6 +507,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "b86a32df-0765-4b8b-8151-0b90c928150f",
+      "disruptionId": "59685a31-eb5d-422b-a224-3e8604a5fe47",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1 Feldmoching ↔ Neufahrn: Reparatur an einer Weiche beendet",
+      "summary": "Die S-Bahnen der Linie S 1 verkehren wieder auf dem Regelweg.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war eine Reparatur an einer Weiche.</p>",
+      "durationBegin": "12.12.2025",
+      "durationEnd": "12.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/59685a31-eb5d-422b-a224-3e8604a5fe47",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/a943b170-d440-490d-ad23-cc974f8ed48ereisendenkarte_20251212-154653.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/a943b170-d440-490d-ad23-cc974f8ed48ereisendenkarte_20251212-154653.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.12.2025 15:46:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.12.2025 16:15",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b86a32df-0765-4b8b-8151-0b90c928150f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
