@@ -381,16 +381,16 @@
       },
       "headline": "S 1 Feldmoching ↔ Neufahrn: Reparatur an einer Weiche",
       "summary": "Zwischen Feldmoching und Neufahrn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in/von Richtung München wenden in Feldmoching. Die S-Bahnen in/von Richtung Freising/Flughafen verkehren  abwechselnd zwischen Neufahrn und Freising bzw. Flughafen.</p><p>Ein Ersatzverkehr zwischen Feldmoching und Neufahrn ist in Planung.</p><p></p><p>Reparatur an einer Weiche</p>",
+      "text": "<p>Die S-Bahnen wenden in Feldmoching und Neufahrn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Feldmoching und Neufahrn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "12.12.2025",
       "durationEnd": "12.12.2025",
       "mapHref": "https://karte.bahn.de/detail/59685a31-eb5d-422b-a224-3e8604a5fe47",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/eb4c7386-fd83-4486-87c6-c3fd06148616reisendenkarte_20251212-053655.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/eb4c7386-fd83-4486-87c6-c3fd06148616reisendenkarte_20251212-053655.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/7398f78a-cd2c-418d-8509-035364922550reisendenkarte_20251212-064434.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-12/7398f78a-cd2c-418d-8509-035364922550reisendenkarte_20251212-064434.png",
           "info": "",
-          "alt": "Reisendenkarte 12.12.2025 05:36:55",
+          "alt": "Reisendenkarte 12.12.2025 06:44:34",
           "openInNewTab": true
         }
       ],
@@ -409,7 +409,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.12.2025 05:59",
+      "lastModified": "12.12.2025 06:46",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -752,6 +752,61 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "33339c71-8068-490b-902c-198fd5e015bd",
+      "disruptionId": "c4ddf68a-b332-46a5-961b-3a492ac60e3d",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Reparatur an der Strecke zwischen Basel Bad Bf und Rheinfelden(Bad)",
+      "summary": "Die Strecke von Basel Bad Bf bis Rheinfelden(Baden) ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einer Weiche. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bus ist eingerichtet. Dieser beginnt um 08:30Uhr in Basel Bad Bf. ",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 30 (Basel Bad Bf – Lauchringen) </li><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "12.12.2025",
+      "durationEnd": "12.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/c4ddf68a-b332-46a5-961b-3a492ac60e3d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-12/b819e9e6-e24e-4fb2-8cb1-b7532ac1aabcreisendenkarte_20251212-054725.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-12/b819e9e6-e24e-4fb2-8cb1-b7532ac1aabcreisendenkarte_20251212-054725.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.12.2025 05:47:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 30",
+          "filterName": "RB 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.12.2025 06:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/33339c71-8068-490b-902c-198fd5e015bd",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "56523e59-e9d1-4e04-82cb-dcd1c7b2ca4e",
