@@ -265,6 +265,56 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "b0100c61-867f-4246-b562-1c6a3b9256ff",
+      "disruptionId": "e0de8a58-0faf-42ab-92ae-ab3628a36108",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen in Bad Krozingen",
+      "summary": "Aufgrund eines Notarzteinsatzes in Bad Krozingen kommt es zu erheblichen Beeinträchtigungen. Der Bahnhof ist zur Zeit gesperrt. Die Sperrung dauert voraussichtlich bis 17:00 Uhr.  In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge aus Richtung Offenburg beginnen und enden in Freiburg(Breisgau) Hbf und die Züge aus Richtung Basel Bad Bf beginnen und enden in Müllheim im Markgräflerland. Ab ca. 14:45 Uhr ist ein Ersatzverkehr mit zwei Bussen zwischen Müllheim im Markgräflerland und Freiburg(Breisgau) Hbf eingerichtet. Dieser Bus fährt als Expressbus und hält nur in Heitersheim, Bad Krozingen und Freiburg(Breisgau) Hbf. Ab ca. 15:00 Uhr sind zwei Busse ab Freiburg(Breisgau) Hbf mit allen Unterwegshalten bis Müllheim im Markgräflerland eingerichtet. Bitte prüfen Sie auch alternative Verkehrsmittel, um an ihr Reiseziel zu kommen. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li><li></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "14.12.2025",
+      "durationEnd": "14.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/e0de8a58-0faf-42ab-92ae-ab3628a36108",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-14/517ec033-7c27-42ec-abeb-5c52bc114bc0reisendenkarte_20251214-152528.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-14/517ec033-7c27-42ec-abeb-5c52bc114bc0reisendenkarte_20251214-152528.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.12.2025 15:25:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 27",
+          "filterName": "RB 27",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.12.2025 15:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b0100c61-867f-4246-b562-1c6a3b9256ff",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_medical_emergency0"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -348,73 +398,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "bb0e6f69-2cdf-462d-be33-7f36d270912f",
-      "disruptionId": "ba31aaea-ac46-449e-9743-b56ecf85ee42",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Endmeldung: Ersatzprogramm Stammstrecke/Gesamtnetz",
-      "summary": "Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten. ",
-      "text": "<p>Der Feuerwehreinsatz wurde beendet.</p>",
-      "durationBegin": "14.12.2025",
-      "durationEnd": "14.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/ba31aaea-ac46-449e-9743-b56ecf85ee42",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.12.2025 15:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bb0e6f69-2cdf-462d-be33-7f36d270912f",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
     },
     {
       "id": "fb8da989-8038-4956-bc53-d473958bed81",
@@ -1142,6 +1125,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/9e6dadee-e2c0-4032-971a-139bf1ca9c28",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
+    },
+    {
+      "id": "73146bde-c82e-4bc7-b060-944551b88036",
+      "disruptionId": "f414b7ec-24ea-40b8-bbed-f450da5a6241",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Feldmoching ↔ Moosach: Reparatur an einem Signal",
+      "summary": "Zwischen Feldmoching und Moosach kommt es zu Verspätungen von bis zu 30 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "14.12.2025",
+      "durationEnd": "14.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/f414b7ec-24ea-40b8-bbed-f450da5a6241",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.12.2025 15:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/73146bde-c82e-4bc7-b060-944551b88036",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "8f974516-db9b-4f27-8f16-9c13e577976b",
