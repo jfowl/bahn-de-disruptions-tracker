@@ -924,71 +924,54 @@
       "magnoliaPath": "/aktuell/nord/additional_service_construction"
     },
     {
-      "id": "9e6dadee-e2c0-4032-971a-139bf1ca9c28",
-      "disruptionId": "bdbae619-c223-415f-8df1-af049fa97689",
-      "author": "REGIO_BW",
+      "id": "8f974516-db9b-4f27-8f16-9c13e577976b",
+      "disruptionId": "1a329d91-7aef-449e-b77f-59e4f07d49ff",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Offenburg Bf ⇄ Basel Bad Bf:                                                              \nEinzelne Zugausfälle und Ersatzverkehr mit Bus",
-      "summary": "📅 In den Nächten Freitag, 09. Januar 2026, 21:40 Uhr bis Montag, 12. Januar 2026, 01:00 Uhr (21:40 Uhr bis 02:00 Uhr)",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li></ul><p><strong>Streckenabschnitt Offenburg Bf ⇄ Basel Bad Bf:</strong></p><ul><li>Es entfallen einzelne Züge der Linien RE 7, RB 26 und RB 27 und werden durch Busse ersetzt</li></ul><p></p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> </p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌ Die Fahrplandaten werden von uns in Kürze aktualisiert</p><p><strong>Grund der Bauarbeiten: </strong>Mehrere Baumaßnahmen in unterschiedlichen Abschnitten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
-      "durationBegin": "09.01.2026",
-      "durationEnd": "12.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/bdbae619-c223-415f-8df1-af049fa97689",
+      "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck fahren die S-Bahnen weiterhin mit verminderter Geschwindigkeit, deswegen kann es sporadisch zu Verspätungen von 5 bis 10 Minuten und zu kurzfristigen, vorzeitigen Zugwendungen kommen. ",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "13.12.2025",
+      "durationEnd": "15.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/1a329d91-7aef-449e-b77f-59e4f07d49ff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-11/81ceff98-d6cf-44d9-aaa0-9ef4947d3360reisendenkarte_20251211-100756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-11/81ceff98-d6cf-44d9-aaa0-9ef4947d3360reisendenkarte_20251211-100756.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/15bdca5a-3631-437d-8d1a-8f25a23cc8cbreisendenkarte_20251213-180726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/15bdca5a-3631-437d-8d1a-8f25a23cc8cbreisendenkarte_20251213-180726.png",
           "info": "",
-          "alt": "Reisendenkarte 11.12.2025 10:07:56",
+          "alt": "Reisendenkarte 13.12.2025 18:07:26",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB 26",
-          "filterName": "RB 26",
-          "property": "REGIONAL"
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
         },
         {
-          "name": "RB 27",
-          "filterName": "RB 27",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "11.12.2025 10:12",
+      "lastModified": "15.12.2025 09:04",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9e6dadee-e2c0-4032-971a-139bf1ca9c28",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8f974516-db9b-4f27-8f16-9c13e577976b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "f84e5e70-37cc-4116-9ccd-f430c8add9ad",
@@ -999,15 +982,15 @@
         "label": "Technische Störung am Zug"
       },
       "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "15.12.2025",
       "durationEnd": "15.12.2025",
       "mapHref": "https://karte.bahn.de/detail/371132ee-3b21-44b8-8b04-da1a875232d7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/ea560fe5-a3cc-4e81-b5b8-6bb2ea909428reisendenkarte_20251215-081753.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/ea560fe5-a3cc-4e81-b5b8-6bb2ea909428reisendenkarte_20251215-081753.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/f5f1fd3b-1afa-4622-b567-daa9aefe182creisendenkarte_20251215-081753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/f5f1fd3b-1afa-4622-b567-daa9aefe182creisendenkarte_20251215-081753.png",
           "info": "",
           "alt": "Reisendenkarte 15.12.2025 08:17:53",
           "openInNewTab": true
@@ -1058,62 +1041,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.12.2025 08:20",
+      "lastModified": "15.12.2025 08:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f84e5e70-37cc-4116-9ccd-f430c8add9ad",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
-    },
-    {
-      "id": "8f974516-db9b-4f27-8f16-9c13e577976b",
-      "disruptionId": "1a329d91-7aef-449e-b77f-59e4f07d49ff",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "13.12.2025",
-      "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/1a329d91-7aef-449e-b77f-59e4f07d49ff",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/2214e3a1-dfd6-4862-a064-ea8d0a2752e8reisendenkarte_20251213-180726.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/2214e3a1-dfd6-4862-a064-ea8d0a2752e8reisendenkarte_20251213-180726.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.12.2025 18:07:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.12.2025 07:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8f974516-db9b-4f27-8f16-9c13e577976b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
