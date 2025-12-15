@@ -378,18 +378,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von bis zu 20 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.\n",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S 4, S 20 Geltendorf ↔ Pasing: Reparatur an der Strecke",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von bis zu 10 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
+      "text": "<p><strong>Heute Nachmittag kommt es auf der Linie S20 zu folgenden Teilausfällen:</strong></p><p>S20 Abfahrt Pasing 16:50 Uhr - Ankunft Geltendorf 17:18 Uhr</p><p>S20 Abfahrt Pasing 17:49 Uhr - Ankunft Geltendorf 18:24 Uhr</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "15.12.2025",
       "durationEnd": "15.12.2025",
       "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/81aafa70-716c-4cf6-bf44-5c4131742984reisendenkarte_20251215-104556.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/81aafa70-716c-4cf6-bf44-5c4131742984reisendenkarte_20251215-104556.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/a8120ea1-db8b-4f52-8f0f-27c77dd71f9ereisendenkarte_20251215-121654.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/a8120ea1-db8b-4f52-8f0f-27c77dd71f9ereisendenkarte_20251215-121654.png",
           "info": "",
-          "alt": "Reisendenkarte 15.12.2025 10:45:56",
+          "alt": "Reisendenkarte 15.12.2025 12:16:54",
           "openInNewTab": true
         }
       ],
@@ -403,12 +403,17 @@
       ],
       "lines": [
         {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.12.2025 10:50",
+      "lastModified": "15.12.2025 12:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
