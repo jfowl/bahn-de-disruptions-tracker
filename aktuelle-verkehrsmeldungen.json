@@ -63,8 +63,8 @@
       "mapHref": "https://karte.bahn.de/detail/3e6aea24-36dc-4471-b593-90a655b14ac2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-14/4f8a612e-653c-45c2-b1b4-1f813c08fd62reisendenkarte_20251214-093402.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-14/4f8a612e-653c-45c2-b1b4-1f813c08fd62reisendenkarte_20251214-093402.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-15/916caa7b-7c70-4323-b22e-d311dd973d6freisendenkarte_20251214-093402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-15/916caa7b-7c70-4323-b22e-d311dd973d6freisendenkarte_20251214-093402.png",
           "info": "",
           "alt": "Reisendenkarte 14.12.2025 09:34:02",
           "openInNewTab": true
@@ -107,7 +107,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.12.2025 19:39",
+      "lastModified": "15.12.2025 08:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -743,48 +743,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "eb357ad6-7d07-48b3-80ef-1df94a66c0b3",
-      "disruptionId": "95af00e3-1b83-4349-8a02-03b9d4a8b402",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Falkenberg ⇄ Torgau - Ersatzverkehr",
-      "summary": "Der Streckenabschnitt zwischen Falkenberg und Torgau ist in den Nächten 13.12/14.12.2025 sowie 14.12/15.12.2025 jeweils zwischen 20:30 Uhr bis 08:00 Uhr beeinträchtigt. Dauer der Störung bis vsl. 15.12.2025, 08:00 Uhr. Der Grund ist ein unbesetztes Stellwerk.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Markkleeberg-Gaschwitz - Leipzig-Connewitz - Leipzig Hbf (tief) - Torgau - Falkenberg</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein unbesetztes Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie S4 fallen zwischen Falkenberg und Torgau aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist zwischen Falkenberg und Torgau eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "13.12.2025",
-      "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/95af00e3-1b83-4349-8a02-03b9d4a8b402",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.12.2025 21:18",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eb357ad6-7d07-48b3-80ef-1df94a66c0b3",
-      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section0"
-    },
-    {
       "id": "68692310-ad22-4b00-b3b6-ce4d3d482f78",
       "disruptionId": "900de878-7c07-4aa5-8676-6bb3f4a6f8fa",
       "author": "REGIO_SUEDOST",
@@ -1033,25 +991,25 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
     },
     {
-      "id": "baad8cc6-aae3-4e2b-8d59-f441e61d887a",
-      "disruptionId": "637798e1-62ac-4726-be6c-77b7ce5533f5",
+      "id": "f84e5e70-37cc-4116-9ccd-f430c8add9ad",
+      "disruptionId": "371132ee-3b21-44b8-8b04-da1a875232d7",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einem Signal",
-      "summary": "Zwischen Markt Schwaben und Erding kommt es zu Verspätungen und Teilausfällen.\nDie S - Bahnen fahren in dem betroffenen Bereich langsamer.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
       "durationBegin": "15.12.2025",
       "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/637798e1-62ac-4726-be6c-77b7ce5533f5",
+      "mapHref": "https://karte.bahn.de/detail/371132ee-3b21-44b8-8b04-da1a875232d7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/0e5532c6-f9c1-46a4-9f25-67ec8bf3f14creisendenkarte_20251215-071111.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/0e5532c6-f9c1-46a4-9f25-67ec8bf3f14creisendenkarte_20251215-071111.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/ea560fe5-a3cc-4e81-b5b8-6bb2ea909428reisendenkarte_20251215-081753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/ea560fe5-a3cc-4e81-b5b8-6bb2ea909428reisendenkarte_20251215-081753.png",
           "info": "",
-          "alt": "Reisendenkarte 15.12.2025 07:11:11",
+          "alt": "Reisendenkarte 15.12.2025 08:17:53",
           "openInNewTab": true
         }
       ],
@@ -1065,17 +1023,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "15.12.2025 07:14",
+      "lastModified": "15.12.2025 08:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/baad8cc6-aae3-4e2b-8d59-f441e61d887a",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/f84e5e70-37cc-4116-9ccd-f430c8add9ad",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "8f974516-db9b-4f27-8f16-9c13e577976b",
@@ -1086,15 +1074,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "13.12.2025",
       "durationEnd": "15.12.2025",
       "mapHref": "https://karte.bahn.de/detail/1a329d91-7aef-449e-b77f-59e4f07d49ff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/e8dc1639-f404-40ea-955c-a1c33d7953c1reisendenkarte_20251213-180726.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/e8dc1639-f404-40ea-955c-a1c33d7953c1reisendenkarte_20251213-180726.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/2214e3a1-dfd6-4862-a064-ea8d0a2752e8reisendenkarte_20251213-180726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/2214e3a1-dfd6-4862-a064-ea8d0a2752e8reisendenkarte_20251213-180726.png",
           "info": "",
           "alt": "Reisendenkarte 13.12.2025 18:07:26",
           "openInNewTab": true
@@ -1120,7 +1108,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.12.2025 05:37",
+      "lastModified": "15.12.2025 07:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
