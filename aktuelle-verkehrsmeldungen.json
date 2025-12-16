@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "2d4c017f-0532-47ee-9a4e-6e75c8bccec8",
-      "disruptionId": "03c66730-0c5c-445d-8456-bae0e36f0735",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Oberhausen und Arnhem",
-      "summary": "Aufgrund einer Reparatur an der Strecke bei Friedrichsfeld (Niederrhein) ist die Strecke zwischen Friedrichsfeld (Niederrhein) und Wesel derzeit gesperrt. Dadurch ist der internationale Fernverkehr der Deutschen Bahn zwischen Deutschland und den Niederlanden beeinträchtigt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die ICE-Züge der Linie Frankfurt(M) - Köln - Amsterdam werden zwischen Köln und Utrecht umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Die Halte Düsseldorf Hbf, Duisburg Hbf, Oberhausen Hbf und Arnhem Centraal entfallen. Ersatzhalt Mönchengladbach Hbf.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/03c66730-0c5c-445d-8456-bae0e36f0735",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-16/1b6cc28e-197d-476f-b632-17c2037de153reisendenkarte_20251216-160309.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-16/1b6cc28e-197d-476f-b632-17c2037de153reisendenkarte_20251216-160309.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.12.2025 16:03:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.12.2025 16:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/2d4c017f-0532-47ee-9a4e-6e75c8bccec8",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
-    },
-    {
       "id": "b81bd605-4190-449b-8220-0aeaf4984d15",
       "disruptionId": "3e6aea24-36dc-4471-b593-90a655b14ac2",
       "author": "S_BAHN_RM",
@@ -615,6 +570,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "1fc2e9ab-dea9-44db-9195-b7530cdfdd49",
+      "disruptionId": "4495cab2-d8d2-45ee-be5a-8465252e384e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Magdeburg Hbf ⇄ Genthin - Fahrtausfälle",
+      "summary": "📅 Dienstag, 16.12.2025, 22:00 Uhr bis Freitag, 19.12.2025, 04:00 Uhr",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge fallen jeweils zwischen 22:00 Uhr bis 04:00 Uhr zwischen Magdeburg und Genthin aus.</p><p>↪️<strong>&nbsp;Alternative:</strong> Zwischen Magdeburg und Genthin fährt ein Ersatzverkehr mit Bus. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "16.12.2025",
+      "durationEnd": "19.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/4495cab2-d8d2-45ee-be5a-8465252e384e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-12-16/15e729a6-522e-455a-a083-9c660ed935efreisendenkarte_20251216-163738.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-12-16/15e729a6-522e-455a-a083-9c660ed935efreisendenkarte_20251216-163738.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.12.2025 16:37:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.12.2025 16:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1fc2e9ab-dea9-44db-9195-b7530cdfdd49",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_construction"
     },
     {
       "id": "68e2aa9b-9bc1-4265-bf7e-f3f1f5cf01b7",
