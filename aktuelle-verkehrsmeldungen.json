@@ -390,6 +390,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
     },
     {
+      "id": "40632301-72af-4a1c-9f70-6a8bca1af137",
+      "disruptionId": "e13173c5-ce41-47fd-bd1d-ff3c92bc1da8",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S1, S3, S7: Aktuell fahren keine Züge über Jungfernstieg.",
+      "summary": "Aktuell werden alle Züge derS1, S3, S7 über Dammtor umgeleitet. Die S3 hält nicht in Altona. Grund: Feuerwehreinsatz",
+      "text": "<p>..</p>",
+      "durationBegin": "16.12.2025",
+      "durationEnd": "16.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/e13173c5-ce41-47fd-bd1d-ff3c92bc1da8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.12.2025 10:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/40632301-72af-4a1c-9f70-6a8bca1af137",
+      "magnoliaPath": "/aktuell/nord/detour_police_activity"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -998,41 +1036,48 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "ffe22250-00cd-4775-9025-995d34cd3240",
-      "disruptionId": "066e89c4-d78f-4589-916d-d6baa18997c8",
-      "author": "S_BAHN_MUC",
+      "id": "bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
+      "disruptionId": "5e02796d-ae4c-46f5-aabb-9bf478cb9f89",
+      "author": "SUEDOSTBAYERNBAHN",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Endmeldung: S 8 Flughafen Terminal",
-      "summary": "Das Gleis 2 am Flughafen ist wieder freigegeben. ",
-      "text": "<p>Zugfahrten am Flughafen sind wieder uneingeschränkt möglich.</p><p>Der Polizeieinsatz am Flughafen ist beendet.</p>",
-      "durationBegin": "16.12.2025",
-      "durationEnd": "16.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/066e89c4-d78f-4589-916d-d6baa18997c8",
-      "images": [],
+      "headline": "RB 52 / Prien - Aschau / Montag, 05.01.2026 bis Donnerstag, 08.01.2026 / Bauarbeiten",
+      "summary": "von Montag, 05.01.2026 bis Donnerstag, 08.01.2026",
+      "text": "<p>Von Montag, den 05. Januar (20:31 Uhr) bis Donnerstag, den 08. Januar (22:31 Uhr) entfallen zwei Zugverbindungen ersatzlos zwischen Rosenheim und Prien (a. Chiemsee) wegen Bauarbeiten.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "08.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/5e02796d-ae4c-46f5-aabb-9bf478cb9f89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedostbayernbahn/2025-12-16/c312cbce-d6b6-44fd-9e5c-cc9402ba0649reisendenkarte_20251216-103730.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedostbayernbahn/2025-12-16/c312cbce-d6b6-44fd-9e5c-cc9402ba0649reisendenkarte_20251216-103730.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.12.2025 10:37:30",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.12.2025 10:33",
+      "lastModified": "16.12.2025 10:46",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ffe22250-00cd-4775-9025-995d34cd3240",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+      "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
       "id": "0e041366-89f5-46db-8991-1e20d7c987dd",
@@ -1042,9 +1087,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Stammstrecke: Polizeieinsatz",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten, Umleitungen und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz am Karlsplatz.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof vereinzelten Folgeverspätungen.",
+      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
       "durationBegin": "16.12.2025",
       "durationEnd": "16.12.2025",
       "mapHref": "https://karte.bahn.de/detail/d683615a-28f6-4706-8c7d-62efafbd5e59",
@@ -1094,7 +1139,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.12.2025 10:21",
+      "lastModified": "16.12.2025 10:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
