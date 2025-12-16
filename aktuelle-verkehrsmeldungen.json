@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c141d3ae-2f89-49c7-a379-cd5ca6149162",
+      "disruptionId": "be5a6457-3c5a-4bfa-ae8d-06fa43106915",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Information S3/S5",
+      "summary": "Voraussichtlich zwischen 12 Uhr und 14 Uhr Busse statt S-Bahnen zwischen Neugraben und Wilhelmsburg. Der RE5 hält zusätzlich in Neugraben. ",
+      "text": "<p>Weitere Informationen zu den Abfahrten der Busse um 12 Uhr.</p>",
+      "durationBegin": "16.12.2025",
+      "durationEnd": "16.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/be5a6457-3c5a-4bfa-ae8d-06fa43106915",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.12.2025 10:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c141d3ae-2f89-49c7-a379-cd5ca6149162",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "017abed0-a22e-45b1-8f0d-038bbbe1d305",
       "disruptionId": "9d08cbab-ed33-4a89-9eda-b02c9eae1f29",
       "author": "FERNVERKEHR_AG",
@@ -388,44 +432,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c2516643-62d0-4e8c-b45d-f93552db05e5",
       "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
-    },
-    {
-      "id": "40632301-72af-4a1c-9f70-6a8bca1af137",
-      "disruptionId": "e13173c5-ce41-47fd-bd1d-ff3c92bc1da8",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S1, S3, S7: Aktuell fahren keine Züge über Jungfernstieg.",
-      "summary": "Aktuell werden alle Züge derS1, S3, S7 über Dammtor umgeleitet. Die S3 hält nicht in Altona. Grund: Feuerwehreinsatz",
-      "text": "<p>..</p>",
-      "durationBegin": "16.12.2025",
-      "durationEnd": "16.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/e13173c5-ce41-47fd-bd1d-ff3c92bc1da8",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.12.2025 10:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/40632301-72af-4a1c-9f70-6a8bca1af137",
-      "magnoliaPath": "/aktuell/nord/detour_police_activity"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -1078,73 +1084,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "0e041366-89f5-46db-8991-1e20d7c987dd",
-      "disruptionId": "d683615a-28f6-4706-8c7d-62efafbd5e59",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof vereinzelten Folgeverspätungen.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "16.12.2025",
-      "durationEnd": "16.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/d683615a-28f6-4706-8c7d-62efafbd5e59",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.12.2025 10:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0e041366-89f5-46db-8991-1e20d7c987dd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
