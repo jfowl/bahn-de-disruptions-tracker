@@ -1076,6 +1076,131 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "91eb25f1-478c-4946-aa06-62eab952cf06",
+      "disruptionId": "b8297675-0997-462b-a17e-0c19d2943231",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 1 / S 8 Flughafen Terminal",
+      "summary": "Das Gleis 1 am Flughafen ist wieder freigegeben. ",
+      "text": "<p>Zugfahrten am Flughafen sind wieder uneingeschränkt möglich. </p><p>Der Polizeieinsatz am Flughafen ist beendet.</p>",
+      "durationBegin": "17.12.2025",
+      "durationEnd": "17.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/b8297675-0997-462b-a17e-0c19d2943231",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/bf18fd27-4a2a-4149-8c6f-2a392e3725a6reisendenkarte_20251217-083258.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/bf18fd27-4a2a-4149-8c6f-2a392e3725a6reisendenkarte_20251217-083258.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.12.2025 08:32:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.12.2025 08:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/91eb25f1-478c-4946-aa06-62eab952cf06",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
+    },
+    {
+      "id": "f0f9c41a-9414-4969-8ca4-c2455cbe81ed",
+      "disruptionId": "88c91846-4c0e-4d74-87d0-4dddab38c5f4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten, Umleitungen und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "17.12.2025",
+      "durationEnd": "17.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/88c91846-4c0e-4d74-87d0-4dddab38c5f4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/1820ffc0-7779-4c59-be24-6c47c1d6382freisendenkarte_20251217-083921.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/1820ffc0-7779-4c59-be24-6c47c1d6382freisendenkarte_20251217-083921.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.12.2025 08:39:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.12.2025 08:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f0f9c41a-9414-4969-8ca4-c2455cbe81ed",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+    },
+    {
       "id": "b0dd59c9-3915-4e6e-985d-66ae65c935d8",
       "disruptionId": "a9488c9c-5406-4367-a58a-8200fb2a108d",
       "author": "FERNVERKEHR_AG",
