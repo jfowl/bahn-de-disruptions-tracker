@@ -796,49 +796,6 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_construction"
     },
     {
-      "id": "76958b70-ece6-4ddf-9cc4-a622a54ded0e",
-      "disruptionId": "9c1b059f-9877-4a39-adf9-1d788c31850a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Münster (Westf) und Recklinghausen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Münster (Westf) und Recklinghausen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen und Verspätungen bis zu 15 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln - Münster (Westf) - Hannover - Berlin</li><li>ICE- und IC-Züge zwischen Köln - Hamburg - Rostock - Stralsund</li><li>IC-Züge zwischen Köln - Emden - Norddeich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Züge des Regionalverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c1b059f-9877-4a39-adf9-1d788c31850a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-17/46911195-30a6-4d1c-b7d8-f1386c39af81reisendenkarte_20251217-043832.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-17/46911195-30a6-4d1c-b7d8-f1386c39af81reisendenkarte_20251217-043832.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.12.2025 04:38:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "17.12.2025 05:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/76958b70-ece6-4ddf-9cc4-a622a54ded0e",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section0"
-    },
-    {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -1122,6 +1079,61 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "e1d94f41-323b-4c93-b65e-ae4fa5169e6e",
+      "disruptionId": "8c8d8e5a-d6b9-4a90-9622-de19809c7752",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S2, S4, S6  Berg am Laim: Polizeieinsatz beendet",
+      "summary": "Im Bereich Berg am Laim sind wieder uneingeschränkt Zugfahrten möglich. ",
+      "text": "<p>Es kommt zu  Folgeverspätungen von bis zu 15 Minuten und  vereinzelten Teilausfällen.</p><p>Der Polizeieinsatz wurde beendet</p>",
+      "durationBegin": "17.12.2025",
+      "durationEnd": "17.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/8c8d8e5a-d6b9-4a90-9622-de19809c7752",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/019d48ac-5f45-400f-a2da-756db2b12ec5reisendenkarte_20251217-215448.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/019d48ac-5f45-400f-a2da-756db2b12ec5reisendenkarte_20251217-215448.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.12.2025 21:54:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.12.2025 22:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e1d94f41-323b-4c93-b65e-ae4fa5169e6e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity2"
     },
     {
       "id": "b0dd59c9-3915-4e6e-985d-66ae65c935d8",
