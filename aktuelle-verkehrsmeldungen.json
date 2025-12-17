@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2d346a1b-27bf-481d-b869-d016bc40f6d5",
+      "disruptionId": "3e52f72d-43a4-4e7a-8780-8a1a0d482f8d",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE10 - Leipzig Hbf - Eilenburg - Ersatzverkehr",
+      "summary": "Montag, 05.01.2026, 22:00 Uhr bis Dienstag, 06.01.2026, 01:20 Uhr",
+      "text": "<p>Einige Züge der Linie RE10 (RE18398 Leipzig Hbf - Cottbus und RE18397 Frankfurt (Oder) - Leipzig Hbf) fallen zwischen Leipzig Hbf und Eilenburg aus und werden durch Busse ersetzt.Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.✅Die geänderten Fahrpläne sind ab 19.12.25 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p><p></p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "06.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/3e52f72d-43a4-4e7a-8780-8a1a0d482f8d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-12-17/7b6579e5-5bff-4f20-9723-694b4e7c869ereisendenkarte_20251217-151224.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-12-17/7b6579e5-5bff-4f20-9723-694b4e7c869ereisendenkarte_20251217-151224.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.12.2025 15:12:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-12-17/8c4dceac-6618-4bd8-b408-3bfbd90318d9Baufl%2B47053%2BEilenburg%2B-%2BLeipzig%2BHbf%2B%2528RE10%2529%2B05.01.2026.pdf",
+          "label": "Baufl 47053 Eilenburg - Leipzig Hbf (RE10) 05.01.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.12.2025 15:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2d346a1b-27bf-481d-b869-d016bc40f6d5",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction13"
+    },
+    {
       "id": "01ed8baa-abc2-4984-948f-676ca27a6973",
       "disruptionId": "6c5fea57-1a88-4423-992b-24f1b2d334a7",
       "author": "REGIO_NORD",
@@ -346,58 +404,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "08223d2c-1bf3-47b0-a2f4-4e3def5a8b7f",
-      "disruptionId": "cb5299a3-4e38-4601-9b6e-e8740d10de30",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S3/S5: Aktuell noch Einschränkungen auf beiden Linien.",
-      "summary": "Es kommt es nach einer Störung noch zu Einschränkungen auf den Linien S3 und S5.",
-      "text": "<p>Die S3 und S5 fahren wieder durchgängig zwischen Stade bzw. Neugraben und Elbgaustraße bzw. Pinneberg. Nach einer Störung kann es auf beiden Linien noch zu Ausfällen und Unregelmäßigkeiten kommen. Bitte achten Sie weiterhin auf die Ansagen und Anzeigen am Bahnsteig sowie an den Zügen.</p>",
-      "durationBegin": "17.12.2025",
-      "durationEnd": "17.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/cb5299a3-4e38-4601-9b6e-e8740d10de30",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.12.2025 14:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/08223d2c-1bf3-47b0-a2f4-4e3def5a8b7f",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
