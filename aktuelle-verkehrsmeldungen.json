@@ -491,25 +491,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "320dd452-dca5-4927-84fd-d0648a4bb402",
-      "disruptionId": "fa533928-a8bd-44ca-a563-75442b2e3118",
-      "author": "S_BAHN_S",
+      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Die Strecke zwischen Neustadt-Hohenacker und Waiblingen ist wieder freigegeben. Es kommt vorübergehend noch zu Folgeabweichungen.",
-      "summary": "Die Strecke zwischen Neustadt-Hohenacker und Waiblingen ist wieder befahrbar. Es kommt vorübergehend noch zu Folgeabweichungen.",
-      "text": "<p>Die Strecke zwischen <strong>Neustadt-Hohenacker</strong> und <strong>Waiblingen</strong> ist wieder freigegeben. Damit können die S-Bahnen der <strong>Linie S3</strong> ab sofort wieder <strong>planmäßig verkehren</strong>. Es kommt vorübergehend noch zu Folgeabweichungen.</p><p>Bitte beachten Sie weiterhin die <strong>aktuellen Lautsprecherdurchsagen</strong> sowie die <strong>Anzeigen an den Bahnsteigen</strong>, um über kurzfristige Änderungen informiert zu sein.</p><p>Wir empfehlen Ihnen zudem, bei Ihrer Reiseplanung die <strong>digitale Reiseauskunft</strong> zu nutzen, um aktuelle Informationen zu erhalten.</p><p>Weitere Informationen unter s-bahn-stuttgart.de/betriebslage</p>",
-      "durationBegin": "17.12.2025",
-      "durationEnd": "17.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/fa533928-a8bd-44ca-a563-75442b2e3118",
+      "headline": "S 4, S 20 Geltendorf ↔ Pasing: Reparatur an der Strecke ",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
+      "text": "<p></p><p>Der Grund hierfür ist weiterhin eine Reparatur an der Strecke.</p>",
+      "durationBegin": "15.12.2025",
+      "durationEnd": "18.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-12-17/ec17670f-393b-4b7a-8f7f-7796ecc1f357reisendenkarte_20251217-164400.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-12-17/ec17670f-393b-4b7a-8f7f-7796ecc1f357reisendenkarte_20251217-164400.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/5ada2e3d-27bd-4930-8890-e2583a42c93creisendenkarte_20251215-121654.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-17/5ada2e3d-27bd-4930-8890-e2583a42c93creisendenkarte_20251215-121654.png",
           "info": "",
-          "alt": "Reisendenkarte 17.12.2025 16:44:00",
+          "alt": "Reisendenkarte 15.12.2025 12:16:54",
           "openInNewTab": true
         }
       ],
@@ -519,21 +519,26 @@
         "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 Stuttgart",
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.12.2025 18:25",
+      "lastModified": "17.12.2025 19:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/320dd452-dca5-4927-84fd-d0648a4bb402",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "261b06bf-e622-4c14-a30a-649699e4e67e",
@@ -660,19 +665,19 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "a68a7eb6-8e48-42ef-9a6f-d08220bfb6f8",
-      "disruptionId": "0f121958-74c5-4f64-91f4-39f96bdb9557",
+      "id": "68e2aa9b-9bc1-4265-bf7e-f3f1f5cf01b7",
+      "disruptionId": "c9f669df-64dc-465b-bae2-06436118a2df",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 2 Dachau ↔ München Ost: Technische Störung an einem Zug",
-      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Dachau → München Ost </strong>&nbsp;</p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:08 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "17.12.2025",
-      "durationEnd": "17.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/0f121958-74c5-4f64-91f4-39f96bdb9557",
+      "headline": "S 20: Reparatur an der Strecke",
+      "summary": "Am Donnerstag, den 18.12.2025, verkehrt die Linie S 20 ganztägig nur zw. Pasing und Höllriegelskreuth. Am Freitag, den 19.12.2025, verkehrt die Linie S 20 in der Früh nur zw. Pasing und Höllriegelskreuth.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "16.12.2025",
+      "durationEnd": "19.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/c9f669df-64dc-465b-bae2-06436118a2df",
       "images": [],
       "downloads": [],
       "links": [],
@@ -684,17 +689,22 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.12.2025 16:49",
+      "lastModified": "17.12.2025 19:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a68a7eb6-8e48-42ef-9a6f-d08220bfb6f8",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
+      "detailPagePath": "/service/fahrplaene/68e2aa9b-9bc1-4265-bf7e-f3f1f5cf01b7",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
@@ -784,48 +794,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1fc2e9ab-dea9-44db-9195-b7530cdfdd49",
       "magnoliaPath": "/aktuell/suedost/reduced_service_construction"
-    },
-    {
-      "id": "68e2aa9b-9bc1-4265-bf7e-f3f1f5cf01b7",
-      "disruptionId": "c9f669df-64dc-465b-bae2-06436118a2df",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 20: Reparatur an der Strecke",
-      "summary": "Am Mittwoch, den 17.12.2025, verkehrt die Linie S 20 nur zwischen Pasing und Höllriegelskreuth.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "16.12.2025",
-      "durationEnd": "17.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/c9f669df-64dc-465b-bae2-06436118a2df",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.12.2025 16:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/68e2aa9b-9bc1-4265-bf7e-f3f1f5cf01b7",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "76958b70-ece6-4ddf-9cc4-a622a54ded0e",
