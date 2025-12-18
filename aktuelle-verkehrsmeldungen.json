@@ -366,6 +366,56 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4, S 20 Geltendorf ↔ Pasing: Reparatur an der Strecke ",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
+      "text": "<p></p><p>Der Grund hierfür ist weiterhin eine Reparatur an der Strecke.</p>",
+      "durationBegin": "15.12.2025",
+      "durationEnd": "19.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/a34f8b4b-362c-49f1-9164-f368be2f10dfreisendenkarte_20251215-121654.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/a34f8b4b-362c-49f1-9164-f368be2f10dfreisendenkarte_20251215-121654.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.12.2025 12:16:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.12.2025 23:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
       "disruptionId": "6aacc5e0-37b7-4738-9b47-c4dd69871e89",
       "author": "REGIO_BW",
@@ -905,6 +955,86 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "82901a36-1cc7-4240-b8bd-1bbddbfa1e6f",
+      "disruptionId": "153e6bfc-91a1-4b54-9af6-888dd7a87ef6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Stammstrecke: Kurzfristige Weichenarbeiten",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür sind kurzfristige Weichenarbeiten an der Donnersbergerbrücke.</p>",
+      "durationBegin": "18.12.2025",
+      "durationEnd": "19.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/153e6bfc-91a1-4b54-9af6-888dd7a87ef6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/780a30bf-23b2-4e04-b58b-d71c747aae57reisendenkarte_20251218-231029.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/780a30bf-23b2-4e04-b58b-d71c747aae57reisendenkarte_20251218-231029.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.12.2025 23:10:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.12.2025 23:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/82901a36-1cc7-4240-b8bd-1bbddbfa1e6f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_construction0"
     },
     {
       "id": "b970260c-d304-42b1-b3bc-86a99e9b0eec",
