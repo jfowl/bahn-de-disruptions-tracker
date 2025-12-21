@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "b25f293d-563d-4a4c-992f-91316662e6f9",
+      "disruptionId": "a22e0cac-21f8-41dd-b9ab-92b7ec2479bc",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Dortmund und Hamm (Westf)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Dortmund und Hamm (Westf)  entstehen massive Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen, Haltausfälle und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE Linien zwischen Hannover und Köln/Mönchengladbach/Aachen, die planmäßig über Dortmund, Bochum, Essen, Duisburg und Düsseldorf verkehren</li><li>Alle IC Linien zwischen Hannover und Köln, die planmäßig über Dortmund verkehren</li><li>Alle IC Linien zwichen Kassel-Wilhelmshöhe und Köln, die planmäßig über Dortmund verkehren</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.12.2025",
+      "durationEnd": "21.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/a22e0cac-21f8-41dd-b9ab-92b7ec2479bc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-21/7fbf3825-f245-44a0-a5b8-a711342fe007reisendenkarte_20251221-103955.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-21/7fbf3825-f245-44a0-a5b8-a711342fe007reisendenkarte_20251221-103955.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.12.2025 10:39:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.12.2025 10:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b25f293d-563d-4a4c-992f-91316662e6f9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "05040807-3c0b-435e-a7d8-c7cc8e6917ba",
       "disruptionId": "6c8dab8f-3af0-4585-8703-825726f1e74c",
       "author": "REGIO_NORDOST",
@@ -340,6 +387,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "04406fb2-52ae-4adc-8423-a4988fd0aa4e",
+      "disruptionId": "972f94a7-cb82-47a1-abec-8cfad0b203de",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 6 Trudering ↔ Zorneding: Notarzteinsatz auf der Strecke",
+      "summary": "Zwischen Trudering und Zorneding ist die Strecke gesperrt. Die S-Bahnen wenden in Trudering und Zorneding.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Trudering und Zorneding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen der Linie S 4 beginnen/enden am&nbsp;<strong>Leuchtenbergring.</strong></p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "durationBegin": "21.12.2025",
+      "durationEnd": "21.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/972f94a7-cb82-47a1-abec-8cfad0b203de",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-21/1a0a5373-37ee-4813-95ac-852148487ab3reisendenkarte_20251221-102312.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-21/1a0a5373-37ee-4813-95ac-852148487ab3reisendenkarte_20251221-102312.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.12.2025 10:23:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.12.2025 10:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/04406fb2-52ae-4adc-8423-a4988fd0aa4e",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_medical_emergency"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
