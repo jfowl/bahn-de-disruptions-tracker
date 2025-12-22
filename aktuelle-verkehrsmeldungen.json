@@ -298,51 +298,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "9ff84d70-cc67-48a1-9508-24ebe1844df9",
-      "disruptionId": "bd1ca160-1150-468c-89a6-33142f708e46",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Dachau ↔ Altomünster: Reparatur an der Strecke",
-      "summary": "Zwischen Dachau und Altomünster sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Dachau.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Dachau und Altomünster eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke in Erdweg.</p>",
-      "durationBegin": "22.12.2025",
-      "durationEnd": "22.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/bd1ca160-1150-468c-89a6-33142f708e46",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/04dd3cc9-ff6a-4a51-bca2-d4bd859d9cacreisendenkarte_20251222-143151.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/04dd3cc9-ff6a-4a51-bca2-d4bd859d9cacreisendenkarte_20251222-143151.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.12.2025 14:31:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.12.2025 14:33",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9ff84d70-cc67-48a1-9508-24ebe1844df9",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -524,6 +479,101 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4 Geltendorf ↔ Pasing: Reparatur an der Strecke ",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von bis zu 10 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
+      "text": "<p></p><p>Der Grund hierfür ist weiterhin eine Reparatur an der Strecke.</p>",
+      "durationBegin": "15.12.2025",
+      "durationEnd": "27.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/5439e813-476a-4214-94ba-23e178d391b1reisendenkarte_20251215-121654.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/5439e813-476a-4214-94ba-23e178d391b1reisendenkarte_20251215-121654.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.12.2025 12:16:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.12.2025 15:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "9ff84d70-cc67-48a1-9508-24ebe1844df9",
+      "disruptionId": "bd1ca160-1150-468c-89a6-33142f708e46",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ Altomünster: Reparatur an der Strecke beendet",
+      "summary": "Zwischen Dachau und Altomünster sind wieder Zugfahrten möglich.",
+      "text": "<p>Bitte rechnen Sie mit Folgeverspätungen und Teilausfällen.</p><p>Der Grund hierfür war eine Reparatur an der Strecke in Erdweg.</p>",
+      "durationBegin": "22.12.2025",
+      "durationEnd": "22.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/bd1ca160-1150-468c-89a6-33142f708e46",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/f872919f-b429-4a88-b604-1c6ecbfeecd7reisendenkarte_20251222-145810.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/f872919f-b429-4a88-b604-1c6ecbfeecd7reisendenkarte_20251222-145810.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.12.2025 14:58:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.12.2025 15:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9ff84d70-cc67-48a1-9508-24ebe1844df9",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
       "disruptionId": "6aacc5e0-37b7-4738-9b47-c4dd69871e89",
       "author": "REGIO_BW",
@@ -558,56 +608,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_other_cause"
-    },
-    {
-      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
-      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Geltendorf ↔ Pasing: Reparatur an der Strecke ",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
-      "text": "<p></p><p>Der Grund hierfür ist weiterhin eine Reparatur an der Strecke.</p>",
-      "durationBegin": "15.12.2025",
-      "durationEnd": "27.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/196f9215-f6e5-4d09-b943-9e8df324d4b4reisendenkarte_20251215-121654.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/196f9215-f6e5-4d09-b943-9e8df324d4b4reisendenkarte_20251215-121654.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.12.2025 12:16:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.12.2025 09:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "fb8da989-8038-4956-bc53-d473958bed81",
