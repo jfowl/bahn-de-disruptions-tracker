@@ -311,7 +311,15 @@
       "durationBegin": "22.12.2025",
       "durationEnd": "22.12.2025",
       "mapHref": "https://karte.bahn.de/detail/bd1ca160-1150-468c-89a6-33142f708e46",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/04dd3cc9-ff6a-4a51-bca2-d4bd859d9cacreisendenkarte_20251222-143151.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/04dd3cc9-ff6a-4a51-bca2-d4bd859d9cacreisendenkarte_20251222-143151.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.12.2025 14:31:51",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -327,8 +335,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.12.2025 12:59",
-      "expand": false,
+      "lastModified": "22.12.2025 14:33",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9ff84d70-cc67-48a1-9508-24ebe1844df9",
@@ -516,6 +524,42 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
+      "disruptionId": "6aacc5e0-37b7-4738-9b47-c4dd69871e89",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Kurzfristiger Personalausfall im Stellwerk Singen(Hohentwiel)",
+      "summary": "Dauer der Beeinträchtigung von Samstag, 20. bis Mittwoch, 31. Dezember, ganztägig. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk Singen(Hohentwiel).",
+      "text": "<p>Die Züge der Linie <strong>S6 der SBB GmbH</strong> aus <strong>Richtung Konstanz</strong> beginnen und enden<strong> bereits in Singen(Htw.)</strong>. Die Züge der Linie <strong>RE 2 (Schwarzwaldbahn) fahren planmäßig</strong>, halten jedoch zusätzlich in Mühlhausen(b Engen) und Welschingen-Neuhausen. Einzelne Züge halten zusätzlich noch in Singen Landesgartenschau. In der Folge kommt es zu leichten Verspätungen von bis zu 5 Minuten bei den Züge der Linie RE 2. <strong>Anschluss in Donaueschingen in Richtung Freiburg(Breisgau) besteht weiterhin.</strong> Stündlich verkehrt zudem noch ein Ersatzverkehr für die ausfallenden Züge der Linie S6 der SBB GmbH zwischen Engen und Singen(Htw.) mit allen Unterwegshalten.<strong> Bitte beachten Sie, dass der Bus in Singen(Htw.) vom ZOB Kante F abfährt. </strong>Genauere Abfahrtszeiten der Busse liegen aktuell noch nicht vor.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "20.12.2025",
+      "durationEnd": "31.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/6aacc5e0-37b7-4738-9b47-c4dd69871e89",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.12.2025 14:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_other_cause"
+    },
+    {
       "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
       "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
       "author": "S_BAHN_MUC",
@@ -564,42 +608,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
-      "disruptionId": "6aacc5e0-37b7-4738-9b47-c4dd69871e89",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Kurzfristiger Personalausfall im Stellwerk Singen(Hohentwiel)",
-      "summary": "Dauer der Beeinträchtigung von Samstag, 20. bis Mittwoch, 31. Dezember, ganztägig. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk Singen(Hohentwiel).",
-      "text": "<p>Die Züge der Linie <strong>S6 der SBB GmbH</strong> aus <strong>Richtung Konstanz</strong> beginnen und enden<strong> bereits in Singen(Htw.)</strong>. Die Züge der Linie <strong>RE 2 (Schwarzwaldbahn) fahren planmäßig</strong>, halten jedoch zusätzlich in Mühlhausen(b Engen) und Welschingen-Neuhausen. Einzelne Züge halten zusätzlich noch in Singen Landesgartenschau. In der Folge kommt es zu leichten Verspätungen von bis zu 5 Minuten bei den Züge der Linie RE 2. <strong>Anschluss in Donaueschingen in Richtung Freiburg(Breisgau) besteht weiterhin.</strong> Stündlich verkehrt zudem noch ein Ersatzverkehr für die ausfallenden Züge der Linie S6 der SBB GmbH zwischen Engen und Singen(Htw.) mit allen Unterwegshalten.<strong> Bitte beachten Sie das des Bus in Singen vom ZOB Kante F abfährt. </strong>Genauere Abfahrtszeiten der Busse liegen aktuell noch nicht vor.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "20.12.2025",
-      "durationEnd": "31.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/6aacc5e0-37b7-4738-9b47-c4dd69871e89",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.12.2025 06:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_other_cause"
     },
     {
       "id": "fb8da989-8038-4956-bc53-d473958bed81",
@@ -776,56 +784,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50983bb9-fb68-4b04-af50-972b8299525e",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "fd501f03-b226-43d7-805d-072d6823821a",
-      "disruptionId": "15e7931d-f488-434c-bc2e-a20bd418b315",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 20 Geltendorf/Buchenau - Pasing : Reparatur an der Strecke",
-      "summary": "Heute Montag, den 22.12., entfallen Vormittags alle Züge der Linie S20 im Streckenabschnitt Geltendorf/Buchenau – Pasing.",
-      "text": "<p>Reisende in/aus Richtung <strong>Höllriegelskreuth </strong>benutzen bitte die <strong>S 4 </strong>bis/ab <strong>Pasing</strong>, dort besteht Anschluss an die/von der Linie der <strong>S20</strong>.</p><p>Grund ist eine Reparatur an der Strecke im Bereich des Bahnhofs Buchenau.</p>",
-      "durationBegin": "21.12.2025",
-      "durationEnd": "22.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/15e7931d-f488-434c-bc2e-a20bd418b315",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/7dc6250b-461d-464f-a917-6e49d61016eareisendenkarte_20251221-143346.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-22/7dc6250b-461d-464f-a917-6e49d61016eareisendenkarte_20251221-143346.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.12.2025 14:33:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.12.2025 09:54",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fd501f03-b226-43d7-805d-072d6823821a",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
