@@ -298,6 +298,88 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "4cc220ab-9294-4750-9b75-62a543b334a8",
+      "disruptionId": "b611f681-c17a-4f7c-9b9e-22feb9d9cd2e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 Freising / Flughafen: Polizeieinsatz",
+      "summary": "Aktuell ist kein Zugverkehr zwischen Feldmoching und Oberschleißheim möglich.",
+      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Polizeieinsatz.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort informieren.</p>",
+      "durationBegin": "23.12.2025",
+      "durationEnd": "23.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/b611f681-c17a-4f7c-9b9e-22feb9d9cd2e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/7795a1c6-90fa-4986-8f3a-a988cb4ee748reisendenkarte_20251223-155125.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/7795a1c6-90fa-4986-8f3a-a988cb4ee748reisendenkarte_20251223-155125.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.12.2025 15:51:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.12.2025 15:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4cc220ab-9294-4750-9b75-62a543b334a8",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
+    },
+    {
+      "id": "7d378b98-9b13-4a04-a62f-3799cfcfc6c0",
+      "disruptionId": "f9592e12-7c17-4b35-b439-cc6f6bb1059c",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Zugausfälle zwischen Glauburg-Stockheim - Bad Vilbel",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 23.12.2025 ab 13:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Strecke ist derzeit gesperrt</li></ul><strong>🚍 Ersatzverkehr:</strong><ul><li>Ab ca. 14 Uhr ist ein Ersatzverkehr mit neun Bussen zwischen Glauburg-Stockheim und Frankfurt(Main)Hbf eingerichtet. Beachten Sie, dass es durch den langen Streckenverlauf zu teils längeren Verzögerungen bei den einzelnen Busfahrten kommen kann.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "23.12.2025",
+      "durationEnd": "23.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/f9592e12-7c17-4b35-b439-cc6f6bb1059c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 34",
+          "filterName": "RB 34",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.12.2025 15:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7d378b98-9b13-4a04-a62f-3799cfcfc6c0",
+      "magnoliaPath": "/aktuell/hessen/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -486,16 +568,16 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "S 2 Erding: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine ärztliche Versorgung eines Fahrgastes bei Altenerding.</p>",
+      "headline": "S 2 Erding: Ärztliche Versorgung eines Fahrgastes beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes bei Altenerding.</p>",
       "durationBegin": "23.12.2025",
       "durationEnd": "23.12.2025",
       "mapHref": "https://karte.bahn.de/detail/38310005-ceec-4601-80d5-01029e395487",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/b30af857-319e-446b-a94d-ddb140285980reisendenkarte_20251223-151853.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/b30af857-319e-446b-a94d-ddb140285980reisendenkarte_20251223-151853.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/f8905e3e-ebab-44bb-b9aa-338a9cee0d20reisendenkarte_20251223-151853.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-23/f8905e3e-ebab-44bb-b9aa-338a9cee0d20reisendenkarte_20251223-151853.png",
           "info": "",
           "alt": "Reisendenkarte 23.12.2025 15:18:53",
           "openInNewTab": true
@@ -516,7 +598,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.12.2025 15:20",
+      "lastModified": "23.12.2025 15:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
