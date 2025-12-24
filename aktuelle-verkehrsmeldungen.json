@@ -297,49 +297,6 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
-      "id": "3a9865cf-42b9-47a9-9f7f-57b70482ed1c",
-      "disruptionId": "09002369-4198-4518-8f96-f36a5d9e6ffb",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Köln und Koblenz",
-      "summary": "Aufgrund eines defekten Stellwerkes in Bonn zwischen Köln und Koblenz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen, Haltausfällen und Umleitungen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Züge zwischen Köln und Koblenz. Züge werden von Köln bis Koblenz über die rechte Rheinseite umgeleitet. Es fällt der Halt Bonn aus Ersatzhalt Bonn-Beuel.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. </p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/09002369-4198-4518-8f96-f36a5d9e6ffb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-24/c5c8cd2c-5e42-473c-a7b5-5a662f5f09e6reisendenkarte_20251224-162752.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-24/c5c8cd2c-5e42-473c-a7b5-5a662f5f09e6reisendenkarte_20251224-162752.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.12.2025 16:27:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.12.2025 16:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3a9865cf-42b9-47a9-9f7f-57b70482ed1c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -423,6 +380,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "f5b0eecd-eb27-4ca3-8b62-28964aefbc02",
+      "disruptionId": "444e705b-8f4f-4808-af73-5e07f09bb02d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 6 Tutzing: Reparatur an der Strecke",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "24.12.2025",
+      "durationEnd": "24.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/444e705b-8f4f-4808-af73-5e07f09bb02d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-24/a723f708-f701-42af-af36-2aba9eb769afreisendenkarte_20251224-205346.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-24/a723f708-f701-42af-af36-2aba9eb769afreisendenkarte_20251224-205346.png",
+          "info": "",
+          "alt": "Reisendenkarte 24.12.2025 20:53:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.12.2025 20:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f5b0eecd-eb27-4ca3-8b62-28964aefbc02",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
