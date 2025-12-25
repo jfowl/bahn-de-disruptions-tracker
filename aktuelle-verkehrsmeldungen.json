@@ -179,6 +179,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "dec8e364-25d4-4119-bbfe-b8019ee55fa4",
+      "disruptionId": "7de3caff-8f3c-4c3c-bd9e-fab2ef0ddb85",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 6 Starnberg ↔ Tutzing: Polizeieinsatz",
+      "summary": "Zwischen Starnberg und Tutzing sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. </p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "25.12.2025",
+      "durationEnd": "25.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/7de3caff-8f3c-4c3c-bd9e-fab2ef0ddb85",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/e3834763-2fd2-4c9e-9ad6-1d62daea4017reisendenkarte_20251225-143337.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/e3834763-2fd2-4c9e-9ad6-1d62daea4017reisendenkarte_20251225-143337.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.12.2025 14:33:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.12.2025 14:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dec8e364-25d4-4119-bbfe-b8019ee55fa4",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -731,6 +776,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "61cd8b13-9a51-4b61-a0be-3cb075f7002b",
+      "disruptionId": "60d9417c-206d-4ac0-9a83-0a2b2e10e6e0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Ingolstadt und München kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Verspätungen von bis zu 20 Minuten kommen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und NJ- Züge zwischen Nürnberg und München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis 29.12.2025. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.12.2025",
+      "durationEnd": "29.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/60d9417c-206d-4ac0-9a83-0a2b2e10e6e0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-25/3a6b7f2a-4f24-442f-8e98-b7b8aa1cc0f6reisendenkarte_20251225-135149.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-12-25/3a6b7f2a-4f24-442f-8e98-b7b8aa1cc0f6reisendenkarte_20251225-135149.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.12.2025 13:51:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.12.2025 13:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/61cd8b13-9a51-4b61-a0be-3cb075f7002b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "9da8f54b-9744-446e-9699-f4147f7ad6bc",
