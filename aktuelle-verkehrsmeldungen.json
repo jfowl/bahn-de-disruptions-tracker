@@ -179,49 +179,41 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "00ee3dfa-ece9-4f47-afb1-538190d0aa34",
-      "disruptionId": "74736677-9293-41be-a268-7652e514821a",
-      "author": "S_BAHN_MUC",
+      "id": "e1cce765-446b-4def-b427-555a7ce8c727",
+      "disruptionId": "a62242ae-36e2-498b-802f-246c92e5a111",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "S 6 Ebersberg: Defektes Stellwerk",
-      "summary": "Aktuell ist kein Zugverkehr im Bereich Haar möglich.",
-      "text": "<p>Die S 6 wendet in Leuchtenbergring und Zorneding.</p><p>Bitte nutzen Sie auch die S 4 und die U-Bahn zur Weiterfahrt.</p><p>Ein Ersatzverkehr zwischen Trudering und Zorneding mit Taxis und einem Bus ist eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein defektes Stellwerk.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "headline": "S7: Aktuell fährt keine S7 zwischen Berliner Tor und Bergedorf. Grund: Polizeieinsatz. ",
+      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis sowie die Linienbusse und U-Bahnen.. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
+      "text": "<p> </p>",
       "durationBegin": "27.12.2025",
       "durationEnd": "27.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/74736677-9293-41be-a268-7652e514821a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-27/d162d57c-16a0-4adf-ac96-9b8ee0b19421reisendenkarte_20251227-161515.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-27/d162d57c-16a0-4adf-ac96-9b8ee0b19421reisendenkarte_20251227-161515.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.12.2025 16:15:15",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/a62242ae-36e2-498b-802f-246c92e5a111",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 6",
-          "filterName": "S 6 München",
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.12.2025 16:38",
-      "expand": true,
+      "lastModified": "27.12.2025 17:51",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/00ee3dfa-ece9-4f47-afb1-538190d0aa34",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section6"
+      "detailPagePath": "/service/fahrplaene/e1cce765-446b-4def-b427-555a7ce8c727",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity1"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
@@ -351,6 +343,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "00ee3dfa-ece9-4f47-afb1-538190d0aa34",
+      "disruptionId": "74736677-9293-41be-a268-7652e514821a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 6 Ebersberg: Defektes Stellwerk beendet",
+      "summary": "Der Zugverkehr im Bereich Haar ist wieder möglich.",
+      "text": "<p>Die S 6 verkehren wieder auf dem Regelweg.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein defektes Stellwerk.</p>",
+      "durationBegin": "27.12.2025",
+      "durationEnd": "27.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/74736677-9293-41be-a268-7652e514821a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-27/5a061217-fc8d-4c25-b333-7b964e006e96reisendenkarte_20251227-173712.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-27/5a061217-fc8d-4c25-b333-7b964e006e96reisendenkarte_20251227-173712.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.12.2025 17:37:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.12.2025 17:40",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/00ee3dfa-ece9-4f47-afb1-538190d0aa34",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section6"
     },
     {
       "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
