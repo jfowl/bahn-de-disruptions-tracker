@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a4bbb295-0516-4ee7-8766-464629464578",
+      "disruptionId": "64054b9f-b1ea-4b06-be52-93e307ec6768",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB 20 - Zugausfall Potsdam Park Sanssouci <> Potsdam Griebnitzsee, zusätzlicher Halt in Werder (Havel) sowie frühere Fahrzeiten",
+      "summary": "Freitag, 16.01.2026, 06:00 Uhr bis Freitag, 16.01.2026, 09:00 Uhr",
+      "text": "<p>•\tRE 18450 (planmäßig 4:48 Uhr ab Potsdam Hbf) fährt ab Potsdam Hbf 1 Min. früher und wird über Werder (Havel) (zusätzlicher Halt) umgeleitet.•\tRE 18453 (planmäßige Ankunft 7:20 Uhr in Potsdam Griebnitzsee) wird über Werder (Havel) (zusätzlicher Halt) umgeleitet und fällt von Potsdam Park Sanssouci bis Potsdam Griebnitzsee aus.•\tRE 18456 (planmäßig 7:41 Uhr ab Potsdam Griebnitzsee) fällt von Potsdam Griebnitzsee bis Potsdam Park Sanssouci aus und fährt ab Potsdam Park Sanssouci 5 Min. früher.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "16.01.2026",
+      "durationEnd": "16.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/64054b9f-b1ea-4b06-be52-93e307ec6768",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 20",
+          "filterName": "RB 20",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a4bbb295-0516-4ee7-8766-464629464578",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_construction21"
+    },
+    {
       "id": "ceb7ac04-d692-4e7a-a2ca-a1dba1c29382",
       "disruptionId": "e5232440-a951-4581-b88c-7be6ea38273a",
       "author": "REGIO_NORDOST",
@@ -114,6 +152,103 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/508ae750-db3b-4e65-80ee-e22c2fab634f",
       "magnoliaPath": "/aktuell/nordost/stop_moved_construction0"
+    },
+    {
+      "id": "8d37843a-028f-41f5-8f6c-30f75d1626fb",
+      "disruptionId": "898ba452-8b48-4b6e-b80c-daba4ad172d2",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf den Linien RE 5, RE 1, RE 2, RE 4 und S 2 - Ersatzverkehr Lübeck Hbf/Grevesmühlen <> Rostock Hbf sowie frühere Fahrzeiten",
+      "summary": "Montag, 12.01.2026, 21:00 Uhr bis Dienstag, 13.01.2026, 05:00 Uhr",
+      "text": "<p>•\tEinzelne Züge der Linien RE 1 (RE 4320), RE 2 (RE 56874) und RE 5 (RE 3525) fahren von Rostock Hbf bis Güstrow/Herrenberg bis zu 8 Min. früher.•\tEinzelne Züge der Linie RE 1 fallen zwischen Grevesmühlen und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne Züge der Linie RE 2 fallen zwischen Lübeck Hbf und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne S-Bahnen der Linie S 2 fallen zwischen Güstrow und Rostock Hbf aus und werden durch Busse ersetzt.•\tRE 5364 fährt ab Neubrandenburg bis zu 14 Min. früher.•\tBitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p>",
+      "durationBegin": "12.01.2026",
+      "durationEnd": "13.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/898ba452-8b48-4b6e-b80c-daba4ad172d2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE2",
+          "filterName": "Bus RE2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.12.2025 15:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8d37843a-028f-41f5-8f6c-30f75d1626fb",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction30"
+    },
+    {
+      "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
+      "disruptionId": "78ef1c37-0ced-453d-9055-71042e79ba1e",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie S 3 - Ersatzverkehr Rostock Hbf <> Güstrow",
+      "summary": "Donnerstag, 15.01.2026, 21:30 Uhr bis Freitag, 16.01.2026, 01:15 Uhr",
+      "text": "<p>Einzelne S-Bahnen (S 33476 und 33475) dieser Linie fallen zwischen Rostock Hbf und Güstrow aus und werden durch Busse ersetzt. Bitte beachten Sie die vom S-Bahn-Verkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "16.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/78ef1c37-0ced-453d-9055-71042e79ba1e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8e92c12b-9ce6-482b-bbee-e7de517df32c",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction29"
     },
     {
       "id": "e9ac0d0d-591c-4d93-9988-566d4eb89135",
@@ -657,56 +792,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
-      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Geltendorf ↔ Pasing: Reparatur an der Strecke ",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von bis zu 10 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit. ",
-      "text": "<p></p><p>Der Grund hierfür ist weiterhin eine Reparatur an der Strecke.</p>",
-      "durationBegin": "29.12.2025",
-      "durationEnd": "29.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-29/c23f1e54-6901-4e05-8f53-8fa5d4c01d8dreisendenkarte_20251215-121654.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-29/c23f1e54-6901-4e05-8f53-8fa5d4c01d8dreisendenkarte_20251215-121654.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.12.2025 12:16:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.12.2025 06:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "a430a217-cb7a-4a52-90d9-a37f79aa5c1e",
       "disruptionId": "6aacc5e0-37b7-4738-9b47-c4dd69871e89",
       "author": "REGIO_BW",
@@ -832,6 +917,58 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "35ab4207-fea7-4d77-9a44-c9e5b754b745",
+      "disruptionId": "3f19cdc6-0606-4b13-9fee-121b5c19737d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Frankfurt-Griesheim - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Offenbach(Main)Hbf - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 29. Dezember zwischen 16 Uhr und 20 Uhr</li><li>Am 30. Dezember zwischen 16 Uhr und 20 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "29.12.2025",
+      "durationEnd": "30.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/3f19cdc6-0606-4b13-9fee-121b5c19737d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.12.2025 14:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/35ab4207-fea7-4d77-9a44-c9e5b754b745",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
+    },
+    {
       "id": "dec64bd7-5289-43e5-814b-fe8d879470e6",
       "disruptionId": "6309623c-8f2a-4824-b81d-3fe9f7e67a47",
       "author": "S_BAHN_MUC",
@@ -867,58 +1004,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dec64bd7-5289-43e5-814b-fe8d879470e6",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
-    },
-    {
-      "id": "35ab4207-fea7-4d77-9a44-c9e5b754b745",
-      "disruptionId": "3f19cdc6-0606-4b13-9fee-121b5c19737d",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Frankfurt-Griesheim - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Offenbach(Main)Hbf - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 29. Dezember zwischen 16 Uhr und 20 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "29.12.2025",
-      "durationEnd": "29.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/3f19cdc6-0606-4b13-9fee-121b5c19737d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.12.2025 11:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/35ab4207-fea7-4d77-9a44-c9e5b754b745",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause"
     },
     {
       "id": "c658b220-a4d6-408f-bcfd-586d06e80f62",
@@ -1267,51 +1352,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "61e4552d-c222-4285-ae16-1c78a980eeb6",
-      "disruptionId": "7be1434c-e307-41f7-ae4d-d698c2f17e1f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung S 7 Icking ↔ Ebenhausen-Schäftlarn: Reparatur an einem Signal",
-      "summary": "Zwischen Icking und Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen. Zusätzlich verkehrt bis 15 Uhr ein Ersatzverkehr mit Bus zwischen Baierbrunn u. Wolfratshausen.",
-      "text": "<p>Die Reparatur an einem Signal ist beendet.</p>",
-      "durationBegin": "29.12.2025",
-      "durationEnd": "29.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/7be1434c-e307-41f7-ae4d-d698c2f17e1f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-29/c83f15d2-2ee6-4e81-b04c-2bc79a22c05creisendenkarte_20251229-125136.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-29/c83f15d2-2ee6-4e81-b04c-2bc79a22c05creisendenkarte_20251229-125136.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.12.2025 12:51:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.12.2025 14:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/61e4552d-c222-4285-ae16-1c78a980eeb6",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "a6aae37f-cd37-40d1-a3ca-928a42633749",
