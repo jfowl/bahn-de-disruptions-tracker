@@ -181,6 +181,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "fde2e41d-4669-46e1-883f-7e117fa5510e",
+      "disruptionId": "2ad38146-d209-46bf-820b-71c8632ab130",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Teilausfälle zwischen Bad Wildungen - Wabern(Bz Kassel)",
+      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 31. Dezember von 20 Uhr bis voraussichtlich  22 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Es kommt zu Teilausfällen zwischen Bad Wildungen - Wabern(Bz Kassel).</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "31.12.2025",
+      "durationEnd": "31.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/2ad38146-d209-46bf-820b-71c8632ab130",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-31/6f7de063-bddf-4e94-9087-693be8f06b9dreisendenkarte_20251231-174510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-12-31/6f7de063-bddf-4e94-9087-693be8f06b9dreisendenkarte_20251231-174510.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.12.2025 17:45:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 39",
+          "filterName": "RB 39",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.12.2025 17:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fde2e41d-4669-46e1-883f-7e117fa5510e",
+      "magnoliaPath": "/aktuell/hessen/no_service_other_cause"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -308,6 +353,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "a404777b-0b84-4e00-b2ad-bacb31887cb6",
+      "disruptionId": "2258970c-d022-4238-b6fb-61a5b350224f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 15 Minuten und zu vorzeitigen Zugwenden auf den Außenbereichen.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "31.12.2025",
+      "durationEnd": "31.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/2258970c-d022-4238-b6fb-61a5b350224f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-31/52b391a7-889f-4477-95a8-5f1e5539cf83reisendenkarte_20251231-174214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-31/52b391a7-889f-4477-95a8-5f1e5539cf83reisendenkarte_20251231-174214.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.12.2025 17:42:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.12.2025 17:44",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a404777b-0b84-4e00-b2ad-bacb31887cb6",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "38ced2fc-3b51-483f-bd22-298d617f57c5",
