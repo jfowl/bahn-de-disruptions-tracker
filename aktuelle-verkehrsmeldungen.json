@@ -317,16 +317,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 8 Flughafen ↔ Ismaning: Reparatur an einer Weiche",
-      "summary": "Zwischen Flughafen und Ismaning sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Ismaning.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Großraumtaxis zwischen Ismaning und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "Endmeldung: S 8 Flughafen ↔ Ismaning",
+      "summary": "Die Züge können wieder zwischen Flughafen und Ismaning fahren.",
+      "text": "<p>Der Ersatzverkehr mit einem Bus und Großraumtaxis wird um 08:00 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
       "durationBegin": "01.01.2026",
       "durationEnd": "01.01.2026",
       "mapHref": "https://karte.bahn.de/detail/18cb726f-52ff-4479-ac2f-416b15242ea6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/9e251140-6fd4-4153-88ba-7da07fdc5306reisendenkarte_20260101-060657.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/9e251140-6fd4-4153-88ba-7da07fdc5306reisendenkarte_20260101-060657.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/a2f020c1-e4bf-4402-bc80-a5337e65729ereisendenkarte_20260101-060657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/a2f020c1-e4bf-4402-bc80-a5337e65729ereisendenkarte_20260101-060657.png",
           "info": "",
           "alt": "Reisendenkarte 01.01.2026 06:06:57",
           "openInNewTab": true
@@ -352,7 +352,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.01.2026 06:15",
+      "lastModified": "01.01.2026 07:27",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -814,6 +814,101 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "529942c3-102b-4141-9dc6-32a6920dee52",
+      "disruptionId": "80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Endmeldung: S 7 Wolfratshausen",
+      "summary": "Im Bereich Wolfratshausen kommt es noch zu Folgeverspätungen von bis zu 15 Minuten.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
+      "durationBegin": "01.01.2026",
+      "durationEnd": "01.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/2d5cda59-2d1d-4515-adce-9a2f8d167ac4reisendenkarte_20260101-064218.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/2d5cda59-2d1d-4515-adce-9a2f8d167ac4reisendenkarte_20260101-064218.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.01.2026 06:42:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.01.2026 07:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/529942c3-102b-4141-9dc6-32a6920dee52",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
+      "id": "93af1a64-2472-489c-82ef-a5ea11f9c7b3",
+      "disruptionId": "d31fa6fd-0235-4be8-a283-e946593b739c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S 1 Freising/Flughafen",
+      "summary": "Die Züge verkehren ab Neufahrn wieder zum Flughafen. Der Ersatzverkehr mit einem Bus und Großraumtaxis wird um 08:00 Uhr eingestellt. ",
+      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "01.01.2026",
+      "durationEnd": "01.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/d31fa6fd-0235-4be8-a283-e946593b739c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/f1e38532-ff9f-46ea-8931-11a525d2f6d2reisendenkarte_20260101-070425.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/f1e38532-ff9f-46ea-8931-11a525d2f6d2reisendenkarte_20260101-070425.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.01.2026 07:04:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.01.2026 07:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/93af1a64-2472-489c-82ef-a5ea11f9c7b3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "212c3292-0c6d-4cf0-b4d5-059262ec9081",
       "disruptionId": "b83e4b0d-5300-470f-a5fa-886e9f6ee09b",
       "author": "S_BAHN_MUC",
@@ -887,96 +982,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/212c3292-0c6d-4cf0-b4d5-059262ec9081",
       "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
-    },
-    {
-      "id": "529942c3-102b-4141-9dc6-32a6920dee52",
-      "disruptionId": "80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 7 Wolfratshausen: Technische Störung an einem Zug",
-      "summary": "Im Bereich Wolfratshausen kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "01.01.2026",
-      "durationEnd": "01.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/557ae27a-20b5-437a-b3f7-7d58695910b7reisendenkarte_20260101-064218.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/557ae27a-20b5-437a-b3f7-7d58695910b7reisendenkarte_20260101-064218.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 06:42:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.01.2026 06:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/529942c3-102b-4141-9dc6-32a6920dee52",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
-    },
-    {
-      "id": "93af1a64-2472-489c-82ef-a5ea11f9c7b3",
-      "disruptionId": "d31fa6fd-0235-4be8-a283-e946593b739c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 1 Freising/Flughafen: Reparatur an einer Weiche",
-      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising. Wir haben zwischen Neufahrn und Flughafen einen Ersatzverkehr mit Bussen bereitgestellt. Benutzen sie bitte nur die Fahrzeuge mit spezieller \"EV\"-Beschilderung.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "01.01.2026",
-      "durationEnd": "01.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/d31fa6fd-0235-4be8-a283-e946593b739c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/f7234518-6176-4f28-949e-50115f0b531ereisendenkarte_20260101-055820.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/f7234518-6176-4f28-949e-50115f0b531ereisendenkarte_20260101-055820.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 05:58:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.01.2026 06:23",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/93af1a64-2472-489c-82ef-a5ea11f9c7b3",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
