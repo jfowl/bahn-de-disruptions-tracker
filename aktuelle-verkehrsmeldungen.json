@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
+      "disruptionId": "67dad6ba-cb76-48b3-8ad0-e5255333996f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Wolfsburg und Göttingen",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Hildesheim und Göttingen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Berlin und Frankfurt(M) mit planmäßigen Halt in Braunschweig und Hildesheim werden zwischen Wolfsburg und Göttingen umgeleitet und verspäten sich dadurch um etwa 10 Minuten. Die Halte Braunschweig Hbf und Hildesheim Hbf entfallen. Die ICE-Züge halten zusätzlich in Wolfsburg Hbf und Hannover Messe/Laatzen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/67dad6ba-cb76-48b3-8ad0-e5255333996f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/dd48f340-5349-47d4-b10b-0dec265ebb09reisendenkarte_20260101-110722.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/dd48f340-5349-47d4-b10b-0dec265ebb09reisendenkarte_20260101-110722.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.01.2026 11:07:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.01.2026 11:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0191126e-faa8-4834-81b3-ddc6d807559f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
       "disruptionId": "78ef1c37-0ced-453d-9055-71042e79ba1e",
       "author": "REGIO_NORDOST",
@@ -762,51 +807,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "7e9a269b-5dab-46a6-9146-7809bf0eaa38",
-      "disruptionId": "cb818327-edd8-473e-8510-b1fc3bdebbac",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Allach: Reparatur an einem Signal",
-      "summary": "Im Bereich Allach kommt es zu Verspätungen von 10 bis 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "01.01.2026",
-      "durationEnd": "01.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/cb818327-edd8-473e-8510-b1fc3bdebbac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/d2b76ced-038e-4e19-92e8-78fafcf8c2d3reisendenkarte_20260101-085819.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/d2b76ced-038e-4e19-92e8-78fafcf8c2d3reisendenkarte_20260101-085819.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 08:58:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.01.2026 10:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7e9a269b-5dab-46a6-9146-7809bf0eaa38",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "ebaa5593-83c6-4e17-b50c-b6ca8cc5258b",
