@@ -821,16 +821,16 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Folgeverspätungen von bis zu 15 Minuten.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
       "durationBegin": "01.01.2026",
       "durationEnd": "01.01.2026",
       "mapHref": "https://karte.bahn.de/detail/b83e4b0d-5300-470f-a5fa-886e9f6ee09b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/be8b1fe8-9505-46e4-8a6f-b4204ebb0a1areisendenkarte_20260101-063510.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/be8b1fe8-9505-46e4-8a6f-b4204ebb0a1areisendenkarte_20260101-063510.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/91aea3ea-03ec-4e2a-abec-b492820bffe0reisendenkarte_20260101-063510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/91aea3ea-03ec-4e2a-abec-b492820bffe0reisendenkarte_20260101-063510.png",
           "info": "",
           "alt": "Reisendenkarte 01.01.2026 06:35:10",
           "openInNewTab": true
@@ -881,12 +881,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.01.2026 06:36",
+      "lastModified": "01.01.2026 06:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/212c3292-0c6d-4cf0-b4d5-059262ec9081",
       "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+    },
+    {
+      "id": "529942c3-102b-4141-9dc6-32a6920dee52",
+      "disruptionId": "80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 7 Wolfratshausen: Technische Störung an einem Zug",
+      "summary": "Im Bereich Wolfratshausen kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "01.01.2026",
+      "durationEnd": "01.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/80bc6a34-1fca-4f83-ad61-706c1ab7f1af",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/557ae27a-20b5-437a-b3f7-7d58695910b7reisendenkarte_20260101-064218.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/557ae27a-20b5-437a-b3f7-7d58695910b7reisendenkarte_20260101-064218.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.01.2026 06:42:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.01.2026 06:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/529942c3-102b-4141-9dc6-32a6920dee52",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "93af1a64-2472-489c-82ef-a5ea11f9c7b3",
