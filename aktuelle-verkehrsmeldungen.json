@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f8b81e45-33bb-4ce6-9c93-093a21440fc3",
+      "disruptionId": "df42e56f-768d-4388-b3d3-c94130d0387b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingt verminderte Geschwindigkeit"
+      },
+      "headline": "Beeinträchtigungen aufgrund Sturm",
+      "summary": "Aktuell kommt es zwischen Berlin und Hannover bzw. Hamburg aufgrund einer Sturmwarnung zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Berlin und Hannover verspäten sich um etwa 30 Minuten</li><li>Alle ICE-Züge zwischen Berlin und Göttingen/Kassel verspäten sich um etwa 30 Minuten</li><li>Alle ICE-Züge zwischen Berlin und Hamburg verspäten sich um etwa 10 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/df42e56f-768d-4388-b3d3-c94130d0387b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/87d0b9c6-1784-40e9-9f63-dc4180381babreisendenkarte_20260101-124735.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/87d0b9c6-1784-40e9-9f63-dc4180381babreisendenkarte_20260101-124735.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.01.2026 12:47:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "BE",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.01.2026 12:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f8b81e45-33bb-4ce6-9c93-093a21440fc3",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_weather_storm"
+    },
+    {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
       "disruptionId": "67dad6ba-cb76-48b3-8ad0-e5255333996f",
       "author": "FERNVERKEHR_AG",
@@ -807,51 +855,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "7e9a269b-5dab-46a6-9146-7809bf0eaa38",
-      "disruptionId": "cb818327-edd8-473e-8510-b1fc3bdebbac",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 2 Allach",
-      "summary": "Im Bereich Allach kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "01.01.2026",
-      "durationEnd": "01.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/cb818327-edd8-473e-8510-b1fc3bdebbac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/96a05cbb-bd90-466d-a84d-5a39d38fc0a6reisendenkarte_20260101-123433.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-01/96a05cbb-bd90-466d-a84d-5a39d38fc0a6reisendenkarte_20260101-123433.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 12:34:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.01.2026 12:36",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7e9a269b-5dab-46a6-9146-7809bf0eaa38",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "ebaa5593-83c6-4e17-b50c-b6ca8cc5258b",
