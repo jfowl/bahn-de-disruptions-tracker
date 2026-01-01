@@ -2,39 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f8b81e45-33bb-4ce6-9c93-093a21440fc3",
-      "disruptionId": "df42e56f-768d-4388-b3d3-c94130d0387b",
+      "id": "386e6cb4-c83d-4372-86c5-123ce072b875",
+      "disruptionId": "08bc9743-68b9-40ef-a2c5-9e3d483a8d35",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingt verminderte Geschwindigkeit"
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Beeinträchtigungen aufgrund Sturm",
-      "summary": "Aktuell kommt es zwischen Berlin und Hannover bzw. Hamburg aufgrund einer Sturmwarnung zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Berlin und Hannover verspäten sich um etwa 30 Minuten</li><li>Alle ICE-Züge zwischen Berlin und Göttingen/Kassel verspäten sich um etwa 30 Minuten</li><li>Alle ICE-Züge zwischen Berlin und Hamburg verspäten sich um etwa 10 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen im internationalen Verkehr zwischen Deutschland und Frankreich",
+      "summary": "In Frankreich kommt es derzeit zu witterungsbedingten Beeinträchtigungen. Dadurch kommt es im grenzüberschreitenden Fernverkehr zwischen Deutschland und Frankreich Ausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>Am Do, 01.01.2026</strong><ul><li>TGV 9577 (Paris - München) fällt zwischen Stuttgart und München aus</li></ul></li></ul><p></p><ul><li><strong>Am Fr, 02.01.2026</strong><ul><li>ICE 9550, ICE 9557, ICE 9558, ICE 9563, TGV 9576, ICE 9578 und ICE 9579 fallen aus</li><li>ICE 9553 (Paris - Frankfurt(M) fällt zwischen Paris und Saarbrücken aus</li><li>ICE 9556 (Frankfurt(M) - Paris) fällt zwischen Saarbrücken und Paris aus</li><li>ICE 9591 (Paris - Berlin) fällt zwischen Paris und Frankfurt(M) aus</li><li>ICE 9555 (Paris - Frankfurt(M) wird innerhalb Frankreichs umgeleitet und verspätet sich um etwa 120 Minuten</li><li>ICE 9590 (Berlin - Paris) wird innerhalb Frankreichs umgeleitet und verspätet sich um etwa 150 Minuten</li></ul></li></ul><p>Es gelten die tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "01.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/df42e56f-768d-4388-b3d3-c94130d0387b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/87d0b9c6-1784-40e9-9f63-dc4180381babreisendenkarte_20260101-124735.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/87d0b9c6-1784-40e9-9f63-dc4180381babreisendenkarte_20260101-124735.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 12:47:35",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/08bc9743-68b9-40ef-a2c5-9e3d483a8d35",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "LONG_DISTANCE"
       ],
       "states": [
-        "BB",
-        "HH",
+        "ST",
         "BE",
-        "NW",
-        "NI",
-        "HE"
+        "TH",
+        "SL",
+        "HE",
+        "RP"
       ],
       "lines": [
         {
@@ -43,11 +35,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "01.01.2026 12:51",
+      "lastModified": "01.01.2026 14:04",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f8b81e45-33bb-4ce6-9c93-093a21440fc3",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_weather_storm"
+      "detailPagePath": "/service/fahrplaene/386e6cb4-c83d-4372-86c5-123ce072b875",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_winter"
     },
     {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
@@ -855,91 +847,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "ebaa5593-83c6-4e17-b50c-b6ca8cc5258b",
-      "disruptionId": "a893db4c-f2aa-4b6f-af41-396225ca8c9d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Instandhaltungsarbeiten im Citytunnel von Sonntag, 04.01.2026 ca. 23:00 Uhr bis Montag, 05.01.2026 ca. 03:00 Uhr",
-      "summary": "Die Instandhaltungsarbeiten auf der Strecke zw. Hbf und Altona über Jungfernstieg und Landungsbrücken sind in die Fahrpläne eingearbeitet und erscheinen nicht als kurzfristige Bauarbeiten im DB Navigator sowie den Apps. In der Zeit fahren die S-Bahnen wie folgt: ",
-      "text": "<p><strong>S1: </strong></p><p>Die S1 wird zwischen Hauptbahnhof und Altona über Dammtor und Holstenstraße umgeleitet und fährt ab dort regulär weiter in Richtung Wedel und Airport / Poppenbüttel. Erste Abfahrt über Dammtor:</p><p>Hauptbahnhof --&gt; Altona: 23:18 ab Hauptbahnhof</p><p>Altona --&gt; Hauptbahnhof: 23:32 ab Altona</p><p></p><p><strong>S3:</strong></p><p>Die S3 wird ebenfalls über Dammtor und Holstenstraße umgeleitet und fährt regulär weiter in Richtung Pinneberg und Neugraben. Der Halt in Altona entfällt. Erste Abfahrt über Dammtor:</p><p>Hauptbahnhof --&gt; Elbgaustraße: 23:16 ab Hauptbahnhof</p><p>Holstenstraße --&gt; Neugraben: 23:32 ab Holstenstraße</p><p>Zusätzlich fahren alle 20 Minuten Pendelzüge zwischen Altona und Elbgaustraße.</p><p>Die S3 von Hauptbahnhof in Richtung Elbgaustraße / Pinneberg und von Hauptbahnhof Richtung Neugraben fahren sechs Minuten früher ab als gewohnt. Grund sind die kürzeren Fahrzeiten über Dammtor.</p><p></p><p><strong>S5:</strong></p><p>Die S5 fällt zwischen Elbgaustraße und Hauptbahnhof aus und fährt nur zwischen Hauptbahnhof und Stade. Abfahrt der letzten durchgängigen Züge:</p><p>Elbgaustraße --&gt; Stade: 23:03 ab Elbgaustraße</p><p>Hauptbahnhof --&gt; Elbgaustraße: 23:22 ab Hauptbahnhof</p><p></p><p><strong>S2 / S7:</strong></p><p>Die S7 fährt als S2 und wird über Dammtor und Holstenstraße nach Diebsteich umgeleitet. Der Start- und Endhalt Altona entfällt. Fahrgäste von und nach Altona nutzen zwischen Altona und Diebsteich bitte die Pendelzüge der S3. Erste Abfahrt der S2 über Dammtor um 23:20 ab Hauptbahnhof.</p><p>In Richtung Aumühle fahren die Züge von Holstenstraße, Sternschanze, Dammtor und Hauptbahnhof zwei Minuten früher.</p><p></p><p>Bitte prüfen Sie vor der Abfahrt ihre Reiseverbindung im DB Navigator sowie in den hvv-Apps. Achten Sie während der Fahrt auch auf die Ansagen und Anzeigen am und im Zug sowie auf den Bahnsteigen.</p><p></p><p><strong>Grund:</strong></p><p>Die DB InfraGO führt Instandhaltungsarbeiten im Citytunnel gezielt während der Nachtzeit von Sonntagabend bis Montagmorgen durch, wenn weniger Fahrgäste unterwegs sind.</p><p></p><p>Die regelmäßigen Instandhaltungsarbeiten in den Nächten von Sonntag auf Montag im Citytunnel sind aktuell für das gesamte Jahr 2026 geplant. Wenn die DB InfraGO zum gleichen Zeitpunkt Bauarbeiten auf der Verbindungsbahn (Verbindung über Dammtor) durchführt oder wenn größere Baumaßnahmen in anderen Bereichen des S-Bahnnetztes stattfinden, finden die Instandhaltungsarbeiten im Citytunnel nicht statt.&nbsp;</p>",
-      "durationBegin": "25.01.2026",
-      "durationEnd": "26.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/a893db4c-f2aa-4b6f-af41-396225ca8c9d",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "DB Fahrplanauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
-          "label": "Fahrplanauskunft hvv",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.01.2026 09:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ebaa5593-83c6-4e17-b50c-b6ca8cc5258b",
-      "magnoliaPath": "/aktuell/nord/detour_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
