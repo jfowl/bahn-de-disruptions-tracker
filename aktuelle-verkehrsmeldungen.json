@@ -46,12 +46,12 @@
       "disruptionId": "dcbc3191-fdfb-4aac-9800-382ed701ecb1",
       "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
       },
-      "headline": "❗Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1: </strong>Die Züge fahren aktuell nur alle 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> fährt aktuell nicht. Bitte auf die S7 ausweichen.</p><p><strong>Linie 🟣 S3:</strong> wird aktuell über Dammtor umgeleitet.</p><p><strong>Linie 🔵 S5:</strong> fährt auf regulärem Linienweg.</p><p><strong>Linie 🟠 S7:</strong> fährt auf regulärem Linienweg</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen. Nutzen Sie in der Innenstadt auch die U-Bahnen und Linienbusse.</strong></p>",
+      "headline": "Verspätungen, Ausfälle und Fahrzeitverlängerungen auf allen Linien",
+      "summary": "Aktuell kommt es auf allen Linien zu Unregelmäßigkeiten Grund: Witterungsbedingte Störungen.",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1: </strong>Die S1 fährt bis Betriebsschluss alle 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Die S2 fährt bis Betriebsschluss nicht.</p><p><strong>Linie 🟣 S3:</strong> Die S3 fährt regulär, allerdings mit Verspätung.</p><p><strong>Linie 🔵 S5:</strong> fährt aktuell nur zwischen Stade und Neugraben. Zwischen Neugraben und Elbgaustraße bitte auf die S3 ausweichen.</p><p><strong>Linie 🟠 S7:</strong> Die S7 fährt regulär, allerdings mit Verspätung.</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen. Nutzen Sie in der Innenstadt auch die U-Bahnen und Linienbusse.</strong></p>",
       "durationBegin": "02.01.2026",
       "durationEnd": "02.01.2026",
       "mapHref": "https://karte.bahn.de/detail/dcbc3191-fdfb-4aac-9800-382ed701ecb1",
@@ -113,7 +113,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.01.2026 09:56",
+      "lastModified": "02.01.2026 10:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -725,6 +725,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4f6ce709-4c16-494d-a6f7-fcc595454fea",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "81146ab3-b30c-4f5b-9543-9bcfa4501495",
+      "disruptionId": "b03d1f73-fb4b-498f-8a7f-673c893b322b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Baustelleninformation zur Linie S 2 am 02.01.2026",
+      "summary": "Heute entfallen zwischen 12:00 Uhr und 14:00 Uhr die Zugfahrten zwischen Dachau Bahnhof und Altomünster.\nFür die Dauer der Sperrung haben wir einen Ersatzverkehr mit Bussen zwischen Dachau Bahnhof und Altomünster eingerichtet. Bitte nutzen Sie ausschließlich die Fahrzeuge mit deutlicher „Ersatzverkehr“-Beschilderung.\n\nBitte rechnen Sie mit Verspätungen und Teilausfällen und planen Sie mehr Zeit ein.",
+      "text": "<p>Grund hierfür ist eine kurzfristige Reparatur auf der Strecke.</p>",
+      "durationBegin": "02.01.2026",
+      "durationEnd": "02.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/b03d1f73-fb4b-498f-8a7f-673c893b322b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/e644014e-646a-4a09-9a49-c037c1fa1fe3reisendenkarte_20260102-101931.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/e644014e-646a-4a09-9a49-c037c1fa1fe3reisendenkarte_20260102-101931.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.01.2026 10:19:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.01.2026 10:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/81146ab3-b30c-4f5b-9543-9bcfa4501495",
+      "magnoliaPath": "/aktuell/bayern/additional_service_technical_problem_railway_section"
     },
     {
       "id": "f3f6d580-a5a7-494c-b98f-ae0c042ea335",
