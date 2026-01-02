@@ -51,7 +51,7 @@
       },
       "headline": "Verspätungen, Ausfälle und Fahrzeitverlängerungen auf allen Linien",
       "summary": "Aktuell kommt es auf allen Linien zu Unregelmäßigkeiten Grund: Witterungsbedingte Störungen.",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1: </strong>Die S1 fährt bis Betriebsschluss alle 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Die S2 fährt bis Betriebsschluss nicht.</p><p><strong>Linie 🟣 S3:</strong> Die S3 fährt regulär, allerdings mit Verspätung.</p><p><strong>Linie 🔵 S5:</strong> fährt aktuell nur zwischen Stade und Neugraben. Zwischen Neugraben und Elbgaustraße bitte auf die S3 ausweichen.</p><p><strong>Linie 🟠 S7:</strong> Die S7 fährt regulär, allerdings mit Verspätung.</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen. Nutzen Sie in der Innenstadt auch die U-Bahnen und Linienbusse.</strong></p>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1: </strong>Die S1 fährt bis Betriebsschluss alle 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Die S2 fährt bis Betriebsschluss nicht.</p><p><strong>Linie 🟣 S3:</strong> Die S3 fährt aktuell über Holstenstraße, Sternschanze und Dammtor. In Richtung Altona, Landungsbrücken und Jungfernstieg bitte ab Dammtor und Sternschanze auf die U-Bahnen ausweichen. Zwischen Altona und Hauptbahnhof bitte die S1 benutzen.</p><p><strong>Linie 🔵 S5:</strong> Die S5 fährt aktuell nur zwischen Stade und Neugraben. Zwischen Neugraben und Elbgaustraße bitte auf die S3 ausweichen.</p><p><strong>Linie 🟠 S7:</strong> Die S7 fährt regulär, allerdings mit Verspätung.</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen. Nutzen Sie in der Innenstadt auch die U-Bahnen und Linienbusse.</strong></p>",
       "durationBegin": "02.01.2026",
       "durationEnd": "02.01.2026",
       "mapHref": "https://karte.bahn.de/detail/dcbc3191-fdfb-4aac-9800-382ed701ecb1",
@@ -113,7 +113,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.01.2026 10:32",
+      "lastModified": "02.01.2026 11:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -562,6 +562,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "1d50dcf8-5b1a-4212-9601-dbc3d29a74ce",
+      "disruptionId": "1173fd77-9bf3-4173-9dbc-b238ef1b629d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Frankfurt-Griesheim - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S5: Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Am 2. Januar zwischen 13:45 Uhr und 22:15 Uhr</li><li>Am 3. Januar zwischen 13:45 Uhr und 22:15 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "02.01.2026",
+      "durationEnd": "03.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/1173fd77-9bf3-4173-9dbc-b238ef1b629d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.01.2026 11:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1d50dcf8-5b1a-4212-9601-dbc3d29a74ce",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause0"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
