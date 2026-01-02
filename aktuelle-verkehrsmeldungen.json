@@ -1122,50 +1122,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
-      "id": "76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
-      "disruptionId": "32e97034-3582-4f2d-8722-26bf487be6b8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen in Essen Hbf",
-      "summary": "Aufgrund einer Reparatur an einem Signal in Essen Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und IC- Züge mit Halt in Essen Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.01.2026",
-      "durationEnd": "18.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/32e97034-3582-4f2d-8722-26bf487be6b8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/d562d244-bf6e-4705-b6b5-ebacf9623950reisendenkarte_20260102-175214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/d562d244-bf6e-4705-b6b5-ebacf9623950reisendenkarte_20260102-175214.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.01.2026 17:52:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "02.01.2026 17:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
-    },
-    {
       "id": "a5fe059e-0512-422c-b326-f0269336dea7",
       "disruptionId": "e105fa9a-2eec-4902-8b84-aac0c65fc80d",
       "author": "S_BAHN_MUC",
@@ -1173,16 +1129,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 1, S 2 Laim: Reparatur an einem Signal",
-      "summary": "Im Bereich Laim kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 1, S 2 Laim",
+      "summary": "Im Bereich Laim kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "02.01.2026",
       "durationEnd": "02.01.2026",
       "mapHref": "https://karte.bahn.de/detail/e105fa9a-2eec-4902-8b84-aac0c65fc80d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/0caf4ea1-5199-4096-a07f-5f903650b206reisendenkarte_20260102-174240.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/0caf4ea1-5199-4096-a07f-5f903650b206reisendenkarte_20260102-174240.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/faab83df-4b9c-4c8b-9cf4-a5427a9b3b6breisendenkarte_20260102-174240.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/faab83df-4b9c-4c8b-9cf4-a5427a9b3b6breisendenkarte_20260102-174240.png",
           "info": "",
           "alt": "Reisendenkarte 02.01.2026 17:42:40",
           "openInNewTab": true
@@ -1208,12 +1164,56 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.01.2026 17:48",
+      "lastModified": "02.01.2026 18:38",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a5fe059e-0512-422c-b326-f0269336dea7",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+    },
+    {
+      "id": "76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
+      "disruptionId": "32e97034-3582-4f2d-8722-26bf487be6b8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen in Essen Hbf",
+      "summary": "Aufgrund einer Reparatur an einem Signal in Essen Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 10 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und IC- Züge mit Halt in Essen Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.01.2026",
+      "durationEnd": "18.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/32e97034-3582-4f2d-8722-26bf487be6b8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/3e482157-4d80-42c8-82db-d783896f2951reisendenkarte_20260102-175214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/3e482157-4d80-42c8-82db-d783896f2951reisendenkarte_20260102-175214.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.01.2026 17:52:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.01.2026 18:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
