@@ -254,6 +254,52 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "7ff56d35-493b-449b-95a5-d958fd9a9a70",
+      "disruptionId": "10a2c633-bddb-4827-a84e-1ccd286ab6f5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Würzburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es am Sa, den 03.01.2026 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Frankfurt(M) und Würzburg werden im Zeitraum von 13:00 Uhr bis 16:00 Uhr zwischen Hanau und Würzburg umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Der Halt Aschaffenburg Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "03.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/10a2c633-bddb-4827-a84e-1ccd286ab6f5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/7479f5bf-e407-46be-bd07-7ed17e60a953reisendenkarte_20260102-180410.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/7479f5bf-e407-46be-bd07-7ed17e60a953reisendenkarte_20260102-180410.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.01.2026 18:04:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.01.2026 18:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7ff56d35-493b-449b-95a5-d958fd9a9a70",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_other_cause"
+    },
+    {
       "id": "cb3ff6c5-dfc2-47ff-8407-676930c7a2d7",
       "disruptionId": "d355996f-6381-4a60-9f4d-a37d5cd71c8d",
       "author": "S_BAHN_RM",
@@ -349,6 +395,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "4789bdfb-f5e5-4ccf-b2df-a7ed7368caf2",
+      "disruptionId": "3e8ea1ce-70c9-46d9-a212-9385c6f21a6c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 2 Riem: Kurzfristige Bauarbeiten",
+      "summary": "In Riem kommt es am Samstag, den 03.01.26, im Zeitraum von 9:00 Uhr bis 11:00 Uhr zu Änderungen im Fahrplan mit Ausfällen und Ersatzverkehr. ",
+      "text": "<p>Grund hierfür sind kurzfristige Bauarbeiten an einer Weiche in Riem.</p><p>Sobald genauere Informationen zu den betroffenen Zügen vorhanden sind, informieren wir Sie.</p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "03.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/3e8ea1ce-70c9-46d9-a212-9385c6f21a6c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/18a72f37-e74c-4af0-863d-06e065c2fc75reisendenkarte_20260102-181055.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/18a72f37-e74c-4af0-863d-06e065c2fc75reisendenkarte_20260102-181055.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.01.2026 18:10:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.01.2026 18:13",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4789bdfb-f5e5-4ccf-b2df-a7ed7368caf2",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
@@ -1029,6 +1120,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
+      "disruptionId": "32e97034-3582-4f2d-8722-26bf487be6b8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen in Essen Hbf",
+      "summary": "Aufgrund einer Reparatur an einem Signal in Essen Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und IC- Züge mit Halt in Essen Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.01.2026",
+      "durationEnd": "18.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/32e97034-3582-4f2d-8722-26bf487be6b8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/d562d244-bf6e-4705-b6b5-ebacf9623950reisendenkarte_20260102-175214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-02/d562d244-bf6e-4705-b6b5-ebacf9623950reisendenkarte_20260102-175214.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.01.2026 17:52:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.01.2026 17:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/76a67cd0-9de5-46c1-90c8-86bc3bf7a699",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "a5fe059e-0512-422c-b326-f0269336dea7",
