@@ -51,73 +51,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
     },
     {
-      "id": "d431a8f6-721f-4452-8bd6-1fc7ebd30dab",
-      "disruptionId": "e4f245ce-9230-4a92-afc7-6599c3e20021",
-      "author": "S_BAHN_HH",
+      "id": "632fa57c-0c2c-4c31-aa56-42fac40b702a",
+      "disruptionId": "8aa642d0-49fd-4778-bb17-41e4aaf918e1",
+      "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Alle Linien: Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf den Linien Alle Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Wetterbedingte Beeinträchtigung ",
-      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in Bremen Hbf",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Bremen Hbf zu Beeinträchtigungen und Verspätungen von bis zu 40 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Von der Störung können alle ICE-/IC-Züge über Bremen Hbf betroffen sein</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "03.01.2026",
-      "durationEnd": "03.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/e4f245ce-9230-4a92-afc7-6599c3e20021",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/8aa642d0-49fd-4778-bb17-41e4aaf918e1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/2ed44bd3-b1a3-48ef-bf51-119283d1952dreisendenkarte_20260103-195317.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/2ed44bd3-b1a3-48ef-bf51-119283d1952dreisendenkarte_20260103-195317.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.01.2026 19:53:17",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
         "HH",
-        "SH",
+        "NW",
+        "HB",
         "NI"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "03.01.2026 19:37",
+      "lastModified": "03.01.2026 19:55",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d431a8f6-721f-4452-8bd6-1fc7ebd30dab",
-      "magnoliaPath": "/aktuell/nord/impairment_weather_winter0"
+      "detailPagePath": "/service/fahrplaene/632fa57c-0c2c-4c31-aa56-42fac40b702a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_winter0"
     },
     {
       "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
@@ -588,6 +565,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "d431a8f6-721f-4452-8bd6-1fc7ebd30dab",
+      "disruptionId": "e4f245ce-9230-4a92-afc7-6599c3e20021",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Alle Linien: Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf den Linien Alle Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Wetterbedingte Beeinträchtigung ",
+      "text": "<p>S3: Neugraben --&gt; Pinneberg: Über Dammtor, Sternschanze, Holstenstraße. In Richtung Jungfernstieg, Landungsbrücken und Altona bitte ab Hauptbahnhof die S1 benutzen.</p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "03.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e4f245ce-9230-4a92-afc7-6599c3e20021",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.01.2026 20:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d431a8f6-721f-4452-8bd6-1fc7ebd30dab",
+      "magnoliaPath": "/aktuell/nord/impairment_weather_winter0"
     },
     {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
