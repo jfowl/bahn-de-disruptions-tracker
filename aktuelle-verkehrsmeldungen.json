@@ -496,43 +496,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "8e25de53-8074-4c7f-afd5-d56802a35b3e",
-      "disruptionId": "79a27f39-5eac-4f0d-ab42-9d13e4287e94",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1 Moosach: Reparatur an einer Weiche",
-      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist die Reparatur an einer Weiche       im Bereich Moosach.</p>",
-      "durationBegin": "03.01.2026",
-      "durationEnd": "03.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/79a27f39-5eac-4f0d-ab42-9d13e4287e94",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.01.2026 08:42",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8e25de53-8074-4c7f-afd5-d56802a35b3e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
       "id": "d22cc2ef-47b2-4b52-b270-a8facc478a98",
       "disruptionId": "2517b792-eefd-4e19-a737-5a878f089fe7",
       "author": "S_BAHN_HH",
@@ -562,7 +525,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.01.2026 07:57",
+      "lastModified": "03.01.2026 09:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -807,6 +770,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
+    },
+    {
+      "id": "391d54ad-53fe-4b59-9a2c-3eedcefa34fb",
+      "disruptionId": "68076eff-35a7-4482-882f-bec4d9745e86",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "S1: Von und nach Poppenbüttel aktuell mit Umstieg in Ohlsdorf.",
+      "summary": "Die S1 fährt aktuell mit allen sechs Wagen von und zum Hamburger Airport. Es ist ein Umstieg in Ohlsdorf erforderlich.",
+      "text": "<p>Aktuell fährt die S1 mit allen Wagen von und zum Hamburger Airport. Fahrgäste aus und in Richtung Wellingsbüttel und Poppenbüttel müssen leider in Ohlsdorf umsteigen. Grund: Wetterbedingte Beeinträchtigung</p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "03.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/68076eff-35a7-4482-882f-bec4d9745e86",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.01.2026 09:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/391d54ad-53fe-4b59-9a2c-3eedcefa34fb",
+      "magnoliaPath": "/aktuell/nord/modified_service_weather_winter"
     },
     {
       "id": "8d9ca99d-0d39-459f-8ccb-fdd98fa1be44",
