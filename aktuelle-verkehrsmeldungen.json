@@ -533,56 +533,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_weather_winter"
     },
     {
-      "id": "38ced2fc-3b51-483f-bd22-298d617f57c5",
-      "disruptionId": "ca0b1ab9-5866-40a7-b8f9-334ce5f31fad",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Rosenheim und Kufstein",
-      "summary": "Die Strecke zwischen Rosenheim und Kufstein ist derzeit nur eingleisig nutzbar. Dadurch kann es zu Verspätungen im Fernverkehr der Deutschen Bahn kommen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung München - Kufstein - Schwarzach-St.Veit</li><li>EC-/RJ-Züge der Verbindung München - Kufstein - Innsbruck</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/ca0b1ab9-5866-40a7-b8f9-334ce5f31fad",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/fc7a69f5-8183-4537-a79f-b27746a056f0reisendenkarte_20260101-043200.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/fc7a69f5-8183-4537-a79f-b27746a056f0reisendenkarte_20260101-043200.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.01.2026 04:32:00",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/7263457a-4dc7-4417-b371-66f1fc51644areisendenkarte_20251231-162828.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-01/7263457a-4dc7-4417-b371-66f1fc51644areisendenkarte_20251231-162828.png",
-          "info": "",
-          "alt": "Reisendenkarte 31.12.2025 16:28:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.01.2026 18:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/38ced2fc-3b51-483f-bd22-298d617f57c5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "author": "REGIO_NW",
       "cause": {
@@ -820,6 +770,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
+    },
+    {
+      "id": "8d9ca99d-0d39-459f-8ccb-fdd98fa1be44",
+      "disruptionId": "6d190e96-c02d-4596-96c1-c9c200da70e7",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Aufzug Hammerbrook außer Betrieb.",
+      "summary": "Der Aufzug in Hammerbrook ist voraussichtlich bis Montag den 05.01.2026 außer Betrieb.",
+      "text": "<p> </p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/6d190e96-c02d-4596-96c1-c9c200da70e7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.01.2026 08:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8d9ca99d-0d39-459f-8ccb-fdd98fa1be44",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
       "id": "4f6ce709-4c16-494d-a6f7-fcc595454fea",
