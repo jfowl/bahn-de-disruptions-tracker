@@ -304,52 +304,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_weather_storm"
     },
     {
-      "id": "a048779b-2306-4a76-a744-84137d93b790",
-      "disruptionId": "42e1e760-2034-4d7c-8d38-59942dac8fe9",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund Wintereinbruchs in Frankreich",
-      "summary": "Auswirkungen aufgrund von Winterwitterung im internationalen Fernverkehr der Deutschen Bahn zwischen Deutschland und Frankreich. \n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE 9568 Frankfurt(M) (06:53) - Paris-Est (10:36) fällt aus<ul><li>Alternative Reisemöglichkeit ICE 9556 Frankfurt(M) (08:53) - Paris-Est (12:52)</li></ul></li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.01.2026",
-      "durationEnd": "04.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/42e1e760-2034-4d7c-8d38-59942dac8fe9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/89be0568-9d4f-4870-a864-6be896fd808creisendenkarte_20260103-204247.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/89be0568-9d4f-4870-a864-6be896fd808creisendenkarte_20260103-204247.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.01.2026 20:42:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.01.2026 20:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a048779b-2306-4a76-a744-84137d93b790",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_winter1"
-    },
-    {
       "id": "6adc9598-7e38-4dfb-a900-51e3381c0ca7",
       "disruptionId": "73ebc554-ddd2-42f1-a1c0-135f25dc97a7",
       "author": "REGIO_NORD",
@@ -365,7 +319,38 @@
       "mapHref": "https://karte.bahn.de/detail/73ebc554-ddd2-42f1-a1c0-135f25dc97a7",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": " bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -480,12 +465,58 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.01.2026 20:44",
+      "lastModified": "03.01.2026 21:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6adc9598-7e38-4dfb-a900-51e3381c0ca7",
       "magnoliaPath": "/aktuell/nord/impairment_weather_storm"
+    },
+    {
+      "id": "a048779b-2306-4a76-a744-84137d93b790",
+      "disruptionId": "42e1e760-2034-4d7c-8d38-59942dac8fe9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund Wintereinbruchs in Frankreich",
+      "summary": "Auswirkungen aufgrund von Winterwitterung im internationalen Fernverkehr der Deutschen Bahn zwischen Deutschland und Frankreich. \n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE 9568 Frankfurt(M) (06:53) - Paris-Est (10:36) fällt aus<ul><li>Alternative Reisemöglichkeit ICE 9556 Frankfurt(M) (08:53) - Paris-Est (12:52)</li></ul></li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.01.2026",
+      "durationEnd": "04.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/42e1e760-2034-4d7c-8d38-59942dac8fe9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/89be0568-9d4f-4870-a864-6be896fd808creisendenkarte_20260103-204247.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-03/89be0568-9d4f-4870-a864-6be896fd808creisendenkarte_20260103-204247.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.01.2026 20:42:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.01.2026 20:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a048779b-2306-4a76-a744-84137d93b790",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_winter1"
     },
     {
       "id": "01b69f59-4400-4300-beab-d71ac78a2075",
