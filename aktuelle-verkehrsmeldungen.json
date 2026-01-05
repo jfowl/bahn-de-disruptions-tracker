@@ -443,56 +443,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_weather_storm"
     },
     {
-      "id": "01b69f59-4400-4300-beab-d71ac78a2075",
-      "disruptionId": "9fd4c6ef-11f9-4e3f-ba3a-f342fc20d72a",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Eilenburg ⇄ Falkenberg - Fahrtausfälle zwischen Falkenberg(Elster) und Eilenburg.",
-      "summary": "Die Linie S4 von Falkenberg(Elster) bis Eilenburg ist in den Nachtstunden beeinträchtigt. Dauer der Störung bis vsl. 05. Januar 2026, täglich jeweils zwischen 22:30 Uhr bis 05:00 Uhr. Der Grund ist ein unbesetztes Stellwerk bei Torgau.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein unbesetztes Stellwerk bei Torgau.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie S4 fallen zwischen Torgau und Falkenberg aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bus zwischen Eilenburg und Torgau / Falkenberg(Elster) für Sie eingerichtet. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "15.12.2025",
-      "durationEnd": "05.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/9fd4c6ef-11f9-4e3f-ba3a-f342fc20d72a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-12-15/d7b57368-2573-4743-8c7d-cd500a1bd60ereisendenkarte_20251215-144334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2025-12-15/d7b57368-2573-4743-8c7d-cd500a1bd60ereisendenkarte_20251215-144334.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.12.2025 14:43:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BB",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.12.2025 14:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/01b69f59-4400-4300-beab-d71ac78a2075",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "3eaf93dd-721f-4254-8912-66b86466657a",
       "disruptionId": "cbe88827-0243-4153-9dd6-4b014332bfb5",
       "author": "S_BAHN_HH",
@@ -704,6 +654,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "dc516081-c0ca-491a-8eb8-7769ca131330",
+      "disruptionId": "a207c744-2fbf-4b22-b0b5-8b1fbe82bc40",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S7 Baierbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Auf der S7 kommt es zu Verspätungen von bis zu 15 Minuten sowie zu vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Baierbrunn</p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/a207c744-2fbf-4b22-b0b5-8b1fbe82bc40",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/1574e2e0-60a1-4dae-a8b5-907ba4ba1975reisendenkarte_20260105-050324.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/1574e2e0-60a1-4dae-a8b5-907ba4ba1975reisendenkarte_20260105-050324.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.01.2026 05:03:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.01.2026 05:05",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc516081-c0ca-491a-8eb8-7769ca131330",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
     },
     {
       "id": "139f6677-f117-40cf-a06b-48b079755ca7",
