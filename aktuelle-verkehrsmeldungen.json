@@ -707,43 +707,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "2d0aef83-ecdb-44d2-bc6a-0a52ee912cb9",
-      "disruptionId": "eb6f6c34-3d1b-496b-b749-c8c2299cd646",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "S 2 Heimstetten: Behördliche Maßnahme",
-      "summary": "Im Bereich Heimstetten kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür sind behördliche Maßnahmen.</p>",
-      "durationBegin": "05.01.2026",
-      "durationEnd": "05.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb6f6c34-3d1b-496b-b749-c8c2299cd646",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.01.2026 18:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2d0aef83-ecdb-44d2-bc6a-0a52ee912cb9",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -1318,6 +1281,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "2d0aef83-ecdb-44d2-bc6a-0a52ee912cb9",
+      "disruptionId": "eb6f6c34-3d1b-496b-b749-c8c2299cd646",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Endmeldung: S 2 Heimstetten",
+      "summary": "Im Bereich Heimstetten kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die behördliche Maßnahme wurde beendet.</p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/eb6f6c34-3d1b-496b-b749-c8c2299cd646",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.01.2026 18:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2d0aef83-ecdb-44d2-bc6a-0a52ee912cb9",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
