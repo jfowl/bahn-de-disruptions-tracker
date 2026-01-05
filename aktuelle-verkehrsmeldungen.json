@@ -664,15 +664,15 @@
         "label": "Technischer Defekt an einem Bahnübergang"
       },
       "headline": "S7 Baierbrunn: Technischer Defekt an einem Bahnübergang",
-      "summary": "Auf der S7 kommt es zu Verspätungen von bis zu 15 Minuten sowie zu vorzeitigen Zugwenden.",
+      "summary": "Auf der S7 kommt es zu Verspätungen von bis zu 10 Minuten sowie zu vorzeitigen Zugwenden.",
       "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Baierbrunn</p>",
       "durationBegin": "05.01.2026",
       "durationEnd": "05.01.2026",
       "mapHref": "https://karte.bahn.de/detail/a207c744-2fbf-4b22-b0b5-8b1fbe82bc40",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/1574e2e0-60a1-4dae-a8b5-907ba4ba1975reisendenkarte_20260105-050324.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/1574e2e0-60a1-4dae-a8b5-907ba4ba1975reisendenkarte_20260105-050324.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/e1d3d38a-b376-421d-bd67-13ab83628f89reisendenkarte_20260105-050324.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/e1d3d38a-b376-421d-bd67-13ab83628f89reisendenkarte_20260105-050324.png",
           "info": "",
           "alt": "Reisendenkarte 05.01.2026 05:03:24",
           "openInNewTab": true
@@ -693,7 +693,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.01.2026 05:05",
+      "lastModified": "05.01.2026 05:19",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -850,6 +850,56 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "8411a08a-33c7-4877-80bf-786fe7641f49",
+      "disruptionId": "d5a0bf33-5b40-4c1f-a851-60770221df2c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 6 , S 8 Abweichende Linienführung: Reparatur an einem Signal am Hirschgarten.",
+      "summary": "Die S-Bahnen der Linien S 6 und S 8 werden umgeleitet.",
+      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 wird zwischen<strong> Trudering </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S6 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Trudering </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong> Daglfing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.&nbsp;</li><li>Die S8 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Daglfing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring ↔ Berg am Laim: <strong>S2</strong>, <strong>S4</strong></li></ul></li></ul><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/d5a0bf33-5b40-4c1f-a851-60770221df2c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/5357f35f-9abb-409d-b861-c38d98d81553reisendenkarte_20260105-060021.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/5357f35f-9abb-409d-b861-c38d98d81553reisendenkarte_20260105-060021.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.01.2026 06:00:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.01.2026 06:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8411a08a-33c7-4877-80bf-786fe7641f49",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "1315110c-732e-4596-b90a-39d33f05bfd3",
       "disruptionId": "346a7770-453d-4907-8cb1-9c04370477b9",
       "author": "S_BAHN_HH",
@@ -992,6 +1042,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
+    },
+    {
+      "id": "d267e48d-12c2-4159-a77e-1182bc3cf6da",
+      "disruptionId": "cfcc34cc-4f84-47a9-bf84-ea8f7fba1c82",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "S3: Die S3 verkehrt Richtung Pinneberg über Dammtor, Sternschanze und Holstenstaße.",
+      "summary": " ",
+      "text": "<p> </p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/cfcc34cc-4f84-47a9-bf84-ea8f7fba1c82",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.01.2026 05:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d267e48d-12c2-4159-a77e-1182bc3cf6da",
+      "magnoliaPath": "/aktuell/nord/modified_service_weather_winter3"
     },
     {
       "id": "8d9ca99d-0d39-459f-8ccb-fdd98fa1be44",
@@ -1296,6 +1388,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "1bb70dc3-c62e-4744-a889-ddb856fa12c0",
+      "disruptionId": "cf235684-74bf-443e-a375-323fdf062dc2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal am Hirschgarten.</p>",
+      "durationBegin": "05.01.2026",
+      "durationEnd": "05.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/cf235684-74bf-443e-a375-323fdf062dc2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/ea700806-66ee-46df-a186-e06f77c9b81creisendenkarte_20260105-053707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-05/ea700806-66ee-46df-a186-e06f77c9b81creisendenkarte_20260105-053707.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.01.2026 05:37:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.01.2026 05:39",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1bb70dc3-c62e-4744-a889-ddb856fa12c0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
