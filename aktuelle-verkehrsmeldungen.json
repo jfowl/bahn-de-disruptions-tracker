@@ -2,83 +2,49 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "949bb0f7-d15c-42ea-9790-9f52057289e0",
-      "disruptionId": "1ece39c2-53af-409f-9482-3d44ec1d54ef",
-      "author": "S_BAHN_HH",
+      "id": "58e5f13d-680e-481e-bc61-34062c8966f7",
+      "disruptionId": "9afacd60-5b7a-477a-a72a-83936c583921",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "⚠️ Aktuell Ausfälle, Verspätungen und Unregelmäßigkeiten auf allen Linien.",
-      "summary": "Es sind Änderungen in den Linienverläufen und Ausfälle möglich. Unten stehend erhalten Sie Informationen über das aktuelle Angebot:",
-      "text": "<p>S5: Die S5 fährt aktuell <strong>alle 20 Minuten</strong> zwischen Stade und Elbgaustraße.</p><p></p><p>🕐 Diese Meldung wird fortlaufend aktualisiert.</p><p>🔊 Bitte achten Sie auch auf die Ansagen und Anzeigen an den Bahnsteigen sowie an und in den Zügen.</p><p>Grund: Witterungsbedingte Störungen.</p>",
-      "durationBegin": "05.01.2026",
-      "durationEnd": "06.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/1ece39c2-53af-409f-9482-3d44ec1d54ef",
-      "images": [],
+      "headline": "Beeinträchtigungen zwischen Leipzig und Dresden",
+      "summary": "Aufgrund einer technischen Störung an der Strecke im Raum Riesa kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verkehren nicht zwischen Leipzig und Dresden.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Leipzig und Dresden</li><li>IC Züge zwischen Chemnitz und Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis [Prognose] erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/9afacd60-5b7a-477a-a72a-83936c583921",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-06/f601551f-8cbc-42c6-9868-13804c9015edreisendenkarte_20260106-064725.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-06/f601551f-8cbc-42c6-9868-13804c9015edreisendenkarte_20260106-064725.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.01.2026 06:47:25",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HH",
-        "SH",
-        "NI"
+        "BB",
+        "BE",
+        "SN"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.01.2026 22:29",
+      "lastModified": "06.01.2026 06:49",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/949bb0f7-d15c-42ea-9790-9f52057289e0",
-      "magnoliaPath": "/aktuell/nord/impairment_weather_winter"
+      "detailPagePath": "/service/fahrplaene/58e5f13d-680e-481e-bc61-34062c8966f7",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
@@ -813,6 +779,58 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4f783b47-fe28-47dd-a9d2-7f49355b07cf",
+      "disruptionId": "39a86c36-162d-4b21-8f5d-2c27a19737cb",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "S5: Züge fahren aktuell nur alle 20 Minuten",
+      "summary": "Die S5 fährt aktuell zwischen Elbgaustraße und Stade nur alle 20 Minuten. Abfahrt Elbgaustraße --> Neugraben auf Minute 03, 23, 43 und Neugraben --> Elbgaustraße auf Minute 12, 32, 52. Weitere Informationen finden Sie unten:",
+      "text": "<p>Die S5 fährt aktuell zwischen Elbgaustraße und Stade nur alle 20 Minuten. Grund: Witterungsbedingte Störungen. Folgende Abfahrten werden geplant aktuell angeboten:</p><p>Elbgaustraße --&gt; Neugraben: Abfahrten ab Elbgaustraße auf Minute 03, 23, und 43</p><p>Neugraben --&gt; Elbgaustraße: Abfahrten ab Neugraben auf Minute 12, 32, 52</p><p>Neugraben --&gt; Stade: Abfahrten ab Neugraben auf Minute 12, 32, 52</p><p>Stade --&gt; Neugraben: Abfahrten ab Stade auf Minute 16, 36, 56</p><p>Bei ausfallenden Fahrten der S5 nutzen Sie mit Ziel Dammtor, Sternschanze, Holstenstraße bitte:</p><ol><li>ab Elbgaustraße die S3 bis Diebsteich und steigen dort in die S2 um</li><li>ab Neugraben / Harburg die S3 bis Hauptbahnhof und steigen dort in die S2 um oder die S3 bis Altona und steigen dort in die S7 um</li></ol><p></p><p>Wegen eines Schadzuges kommt es zudem zu Verzögerungen zwischen Neugraben und Stade. Bitte hier auf Ansagen und Anzeigen achten.</p>",
+      "durationBegin": "06.01.2026",
+      "durationEnd": "06.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/39a86c36-162d-4b21-8f5d-2c27a19737cb",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.01.2026 06:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4f783b47-fe28-47dd-a9d2-7f49355b07cf",
+      "magnoliaPath": "/aktuell/nord/impairment_weather_winter0"
+    },
+    {
       "id": "17677d63-6819-4034-ba6b-2df5293d3e7f",
       "disruptionId": "071ba584-e31c-4cdc-9703-82e7491f5f11",
       "author": "S_BAHN_MUC",
@@ -969,6 +987,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "095cd0bd-fbe9-499d-8e21-5eab7b682cbd",
+      "disruptionId": "d6cf86b2-fd82-43fb-bf05-c409b92b1e69",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 4 Trudering ↔ Geltendorf: Reparatur an mehreren Weichen",
+      "summary": " Die Linie S 4 wird eingestellt.",
+      "text": "<p></p><p>Ein Ersatzverkehr zwischen Pasing und Geltendorf ist in Planung.</p><p>Bitte rechnen Sie mit einer größeren Verspätung.</p><p>Der Grund hierfür ist die Reparatur an mehreren  Weichen auf dem Gesamten Linienast .</p>",
+      "durationBegin": "06.01.2026",
+      "durationEnd": "06.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/d6cf86b2-fd82-43fb-bf05-c409b92b1e69",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-06/48c5efe4-458c-4597-8b05-6edd2cb95b0freisendenkarte_20260106-064213.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-06/48c5efe4-458c-4597-8b05-6edd2cb95b0freisendenkarte_20260106-064213.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.01.2026 06:42:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.01.2026 06:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/095cd0bd-fbe9-499d-8e21-5eab7b682cbd",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section5"
     },
     {
       "id": "91a0e958-5676-442f-b387-8cd8afb6f1b3",
