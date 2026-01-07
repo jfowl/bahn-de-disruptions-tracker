@@ -1210,6 +1210,81 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "76c11c65-563a-4c92-a812-eb72984d91ba",
+      "disruptionId": "12f43b89-9a5a-4774-baa7-e66c3a6019dd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Unbefugtes Ziehen der Notbremse"
+      },
+      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Unbefugtes Ziehen der Notbremse",
+      "summary": "Zwischen Pasing und Ostbahnhof kommt es zu Verspätungen von 15 bis zu 20 Minuten, zu Umleitungen und Teilausfällen auf Außenästen.",
+      "text": "<p>Der Grund hierfür ist das unbefugte Ziehen einer Notbremse am Hirschgarten.</p>",
+      "durationBegin": "07.01.2026",
+      "durationEnd": "07.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/12f43b89-9a5a-4774-baa7-e66c3a6019dd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/f80f5b40-4ba6-4032-999d-e4eddce9c5a6reisendenkarte_20260107-115723.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/f80f5b40-4ba6-4032-999d-e4eddce9c5a6reisendenkarte_20260107-115723.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.01.2026 11:57:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.01.2026 12:09",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/76c11c65-563a-4c92-a812-eb72984d91ba",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
+    },
+    {
       "id": "0b73f9eb-afdc-4dd4-a8b9-32881504e18a",
       "disruptionId": "f42f9b6c-56fa-4725-8b94-1c7686ac5d51",
       "author": "S_BAHN_MUC",
@@ -1218,15 +1293,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "S 6 Zorneding ↔ Haar: Reparatur an einer Weiche",
-      "summary": "Zwischen Zorneding und Haar kommt es zu Verspätungen von 15 bis 20 Minuten und zu Teilausfällen.",
+      "summary": "Zwischen Zorneding und Haar kommt es zu Verspätungen von 15 bis 20 Minuten, zu Umleitungen und zu Teilausfällen auf beiden Außenästen der Linie S6.",
       "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "07.01.2026",
       "durationEnd": "07.01.2026",
       "mapHref": "https://karte.bahn.de/detail/f42f9b6c-56fa-4725-8b94-1c7686ac5d51",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/8d323ce5-29a3-4730-ab1e-029dc65571a9reisendenkarte_20260107-105519.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/8d323ce5-29a3-4730-ab1e-029dc65571a9reisendenkarte_20260107-105519.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/c53337a6-4814-420b-8109-e50cf93f1d9breisendenkarte_20260107-105519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/c53337a6-4814-420b-8109-e50cf93f1d9breisendenkarte_20260107-105519.png",
           "info": "",
           "alt": "Reisendenkarte 07.01.2026 10:55:19",
           "openInNewTab": true
@@ -1242,12 +1317,17 @@
       ],
       "lines": [
         {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.01.2026 10:57",
+      "lastModified": "07.01.2026 12:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
