@@ -8,8 +8,8 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Bundesweit starke Winterwitterung ab 08.01.: Fernverkehr der Deutschen Bahn bundesweit mit Einschränkungen",
-      "summary": "Der Deutsche Wetterdienst kündigt Winterwitterung mit starkem Schneefall, Sturmböen und gefrierendem Regen ab 08.01. an. Es kommt zu Verspätungen und Zugausfällen im Fernverkehr. Bitte prüfen Sie, ob Sie Ihre Reise verschieben können.",
+      "headline": "Bundesweit starke Winterwitterung ab 08.01.: Fernverkehr der DB bundesweit mit Einschränkungen",
+      "summary": "Der Deutsche Wetterdienst kündigt Winterwitterung mit kräftigem Schneefall, Sturmböen und gefrierendem Regen ab 08.01. an. Es kommt zu Verspätungen und Zugausfällen im Fernverkehr der DB. Bitte prüfen Sie, ob Sie Ihre Reise verschieben können.",
       "text": "<p><strong>Gültigkeit der Tickets: </strong></p><p>Alle Fahrgäste, die bis einschließlich <strong>07.01.26</strong> ein Ticket für eine Reise im Zeitraum vom<strong>&nbsp;08.01.26</strong>&nbsp;bis&nbsp;<strong>10.01.26</strong> haben und diese aufgrund <strong>der Winterwitterung</strong> <strong>verschieben möchten</strong>, können ihr <strong>Ticket zu einem späteren Zeitpunkt nutzen</strong>. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>&nbsp;Zudem haben Fahrgäste mit Fernverkehr-Tickets im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und bereits ab heute, 07.01.26 zu fahren.</p><p>&nbsp;Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "07.01.2026",
       "durationEnd": "10.01.2026",
@@ -52,7 +52,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "07.01.2026 15:07",
+      "lastModified": "07.01.2026 15:13",
       "expand": true,
       "topDisruption": true,
       "detailPageRel": "nofollow",
@@ -1268,6 +1268,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "8b63d131-c76a-4eff-ac3e-9e23afe856bb",
+      "disruptionId": "e174485a-4d40-4c3b-8315-a47f84a81c11",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "07.01.2026",
+      "durationEnd": "07.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e174485a-4d40-4c3b-8315-a47f84a81c11",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/d1015d21-7e6e-4913-9703-fb485441c8d3reisendenkarte_20260107-153957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/d1015d21-7e6e-4913-9703-fb485441c8d3reisendenkarte_20260107-153957.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.01.2026 15:39:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.01.2026 15:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b63d131-c76a-4eff-ac3e-9e23afe856bb",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
