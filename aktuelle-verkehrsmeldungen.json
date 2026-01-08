@@ -90,89 +90,6 @@
   ],
   "disruptions": [
     {
-      "id": "7f40b889-fd58-440d-bb65-75e2803b4333",
-      "disruptionId": "e720bfc4-362a-4628-a0f0-9cb754f4fe1c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in den Niederlanden",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung in den Niederlanden zu Beeinträchtigungen. Davon können auch die ICE Züge zwischen Deutschland und Amsterdam betroffen sein.",
-      "text": "<p><strong>Betroffene Zugverbindungen:</strong></p><ul><li>ICE Züge zwischen Berlin und Amsterdam halten nicht in Apeldoorn und erhalten  30 Min Verspätung.</li><li>ICE Züge zwischen Frankfurt(M) und Amsterdam verkehren nicht zwischen Arnhem und Amsterdam.</li></ul><strong><strong>Weitere Informationen finden sie auf der Homepage der niederländischen Bahn (NS).</strong></strong>",
-      "durationBegin": "06.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/e720bfc4-362a-4628-a0f0-9cb754f4fe1c",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.ns.nl/en",
-          "label": "Webseite NS",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BE",
-        "NW",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.01.2026 11:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7f40b889-fd58-440d-bb65-75e2803b4333",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_winter0"
-    },
-    {
-      "id": "0a5d1126-c250-4b14-b644-950a842235c5",
-      "disruptionId": "256584c5-3b13-4b62-89c2-989446f4ca54",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen im internationalen Verkehr zwischen Deutschland und Frankreich",
-      "summary": "In Frankreich kommt es derzeit zu witterungsbedingten Beeinträchtigungen. Dadurch kommt es im grenzüberschreitenden Fernverkehr zwischen Deutschland und Frankreich Ausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p><strong>Am Mi, 07.01.2026</strong></p><ul><li>ICE 9550, ICE 9555, ICE 9558, ICE 9563, ICE 9573, TGV 9576, TGV 9577 und ICE 9578 fallen aus</li><li>ICE 9553 (Paris - Frankfurt(M) fällt zwischen Paris und Saarbrücken aus</li><li>ICE 9556 (Frankfurt(M) - Paris) fällt zwischen Saarbrücken und Paris aus</li><li>ICE 9590 (Berlin - Paris) fällt zwischen Strasbourg und Paris aus</li><li>ICE 9591 (Paris - Berlin) fällt zwischen Paris und Strasbourg aus</li></ul><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>www.bahn.de/service/informationen-buchung/fahrgastrechte/rechtliche-regelungen</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/256584c5-3b13-4b62-89c2-989446f4ca54",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.01.2026 22:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0a5d1126-c250-4b14-b644-950a842235c5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
-    },
-    {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
       "disruptionId": "67dad6ba-cb76-48b3-8ad0-e5255333996f",
       "author": "FERNVERKEHR_AG",
@@ -806,25 +723,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "6e094412-af9b-4ab0-bccd-f9d8715e15f2",
-      "disruptionId": "da9254a6-f3f8-4f58-b12c-1389230c5ec5",
+      "id": "aa6e0d2e-07ca-47d6-945e-01780eaad278",
+      "disruptionId": "380877a2-5663-4acc-a31c-06e9d49871e1",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "07.01.2026",
+      "headline": "S 8 Herrsching: Reparatur an einer Weiche",
+      "summary": "Es kommt zu Verspätungen und Teilausfällen.",
+      "text": "<p>Bitte beachten Sie, für folgende Fahrten besteht zwischen Seefeld-Hechendorf/Weßling und Herrsching ein Ersatzverkehr:</p><p>S 8 Abfahrt 02:10 Uhr in Seefeld-Hechendorf, Ankunft 02:15 Uhr in Herrsching</p><p>S 8 Abfahrt 05:05 Uhr in Herrsching, Ankunft 05:10 Uhr in Seefeld-Hechendorf</p><p>S 8 Abfahrt 05:25 Uhr in Herrsching, Ankunft 05:36 Uhr in Weßling</p><p>Der Grund dafür ist eine Reparatur an einer Weiche.</p>",
+      "durationBegin": "08.01.2026",
       "durationEnd": "08.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/da9254a6-f3f8-4f58-b12c-1389230c5ec5",
+      "mapHref": "https://karte.bahn.de/detail/380877a2-5663-4acc-a31c-06e9d49871e1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-08/dcda25e3-7e31-46aa-9e62-44cc44d828b4reisendenkarte_20260107-234514.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-08/dcda25e3-7e31-46aa-9e62-44cc44d828b4reisendenkarte_20260107-234514.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-08/af01ecc7-efa6-40bb-9a6a-b1bd59a36225reisendenkarte_20260108-020333.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-08/af01ecc7-efa6-40bb-9a6a-b1bd59a36225reisendenkarte_20260108-020333.png",
           "info": "",
-          "alt": "Reisendenkarte 07.01.2026 23:45:14",
+          "alt": "Reisendenkarte 08.01.2026 02:03:33",
           "openInNewTab": true
         }
       ],
@@ -838,47 +755,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.01.2026 00:30",
+      "lastModified": "08.01.2026 02:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6e094412-af9b-4ab0-bccd-f9d8715e15f2",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
+      "detailPagePath": "/service/fahrplaene/aa6e0d2e-07ca-47d6-945e-01780eaad278",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
     },
     {
       "id": "f963b486-d4f7-4533-b35f-0c545f48f809",
@@ -964,6 +851,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "1cfaa763-aa9a-4fbb-aa83-a375611f690c",
+      "disruptionId": "e97f22c2-04e0-4c64-b690-163d70f4911c",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Tübingen Hbf - Herrenberg / Tübingen Hbf - Bad Urach",
+      "summary": "Kurzfristiger Fahrzeugausfall am Do. 08.01.2026 / Fahrtausfälle / Ersatzverkehr eingerichtet",
+      "text": "<p>Aufgrund kurzfristiger Fahrzeugausfälle kommt es am <strong>Donnerstag, den 08. Januar 2026,</strong> zu Beeinträchtigungen des Regionalverkehrs der Linie <strong>RB63 </strong>zwischen <strong>Tübingen Hbf - Herrenberg / Tübingen Hbf - Bad Urach</strong> in beiden Richtungen. Folgende Leistungen entfallen auf dem gesamten Laufweg und werden durch einen <strong>Ersatzverkehr mit Bussen </strong>ersetzt:</p><p><strong>Richtung Entringen / Herrenberg:</strong></p><ul><li>RB 22711 Tübingen Hbf Abfahrt: 05:11 Uhr - Herrenberg Ankunft: 05:41 Uhr</li><li>RB 22719 Tübingen Hbf Abfahrt: 05:53 Uhr - Entringen Ankunft: 06:08 Uhr</li><li>RB 22727 Tübingen Hbf Abfahrt: 06:41 Uhr - Herrenberg Ankunft: 07:11 Uhr</li></ul><p><strong>Richtung Tübingen Hbf / Bad Urach:</strong></p><ul><li>RB 22710 Herrenberg Abfahrt: 05:49 Uhr - Tübingen Hbf Ankunft: 06:17 Uhr</li><li>RB 22712 Entringen Abfahrt: 06:20 Uhr - Bad Urach Ankunft: 07:36 Uhr <strong>(Ersatzverkehr mit Bus erst ab Tübingen Hbf)</strong></li><li>RB 22726 Herrenberg Abfahrt: 07:19 Uhr - Tübingen Hbf Ankunft: 07:47 Uhr</li><li>RB 22751 Bad Urach Abfahrt: 07:51 Uhr - Tübingen Hbf Ankunft: 08:48 Uhr</li><li>RB 22742 Tübingen Hbf Abfahrt: 09:11 Uhr - Bad Urach Ankunft: 10:06 Uhr</li><li>RB 22771 Bad Urach Abfahrt: 10:21 Uhr - Tübingen Hbf Ankunft: 11:18 Uhr</li></ul><p>Folgende Züge entfallen zudem ersatzlos und erfordern die <strong>Wahl einer anderen Verbindung:</strong></p><p><strong>Richtung Entringen / Herrenberg:</strong></p><ul><li>RB 22741 Tübingen Hbf Abfahrt: 07:53 Uhr - Entringen Ankunft: 08:08 Uhr</li></ul><p><strong>Richtung Tübingen Hbf:</strong></p><ul><li>RB 22734 Entringen Abfahrt: 08:20 Uhr - Tübingen Hbf Ankunft: 08:36 Uhr</li></ul><p>Bitte rechnen Sie zudem mit kurzfristig möglichen Ergänzungen sowie weiterer Abweichungen im Betrieb der Linie <strong>RB63</strong> und überprüfen Sie die Fahrplanauskunft daher noch einmal unmittelbar vor Reisebeginn im DB Navigator sowie auf bahn.de</p>",
+      "durationBegin": "08.01.2026",
+      "durationEnd": "08.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e97f22c2-04e0-4c64-b690-163d70f4911c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-08/3cda4346-6ac1-4aaf-9295-be25e0bd219areisendenkarte_20260108-002032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-08/3cda4346-6ac1-4aaf-9295-be25e0bd219areisendenkarte_20260108-002032.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.01.2026 00:20:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.01.2026 01:39",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1cfaa763-aa9a-4fbb-aa83-a375611f690c",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
@@ -1328,58 +1260,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/bb07f112-ea98-4cd1-94a0-ad7edd49f6d1",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "4826427b-3a85-4b6a-b6fb-5ab0ff9a5cf4",
-      "disruptionId": "e6f8cee7-af8a-426c-a620-d246223b123f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 1 Freising/Flughafen / S 8 Flughafen: Reparatur an einer Weiche am Flughafen",
-      "summary": "Aktuell verkehren die Züge ab Neufahrn komplett nach Freising.",
-      "text": "<p>Reisende aus der Innenstadt direkt zum Flughafen nutzen bitte alternativ die Linie S 8.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Neufahrn ↔ Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Auf der Linie S 8 kommt es aktuell zu Verspätungen von 10 bis 15 Minuten. Zudem sind vereinzelt Teilausfälle möglich.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Flughafen.</p>",
-      "durationBegin": "07.01.2026",
-      "durationEnd": "08.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/e6f8cee7-af8a-426c-a620-d246223b123f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.01.2026 23:44",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4826427b-3a85-4b6a-b6fb-5ab0ff9a5cf4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
