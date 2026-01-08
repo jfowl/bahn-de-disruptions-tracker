@@ -838,7 +838,7 @@
       },
       "headline": "Witterungsbedingte Einschränkungen: Beeinträchtigungen im Regionalverkehr in Baden-Württemberg",
       "summary": "Aufgrund von witterungsbedingten Einschränkungen kommt es von Freitag, den 9. Januar bis vsl. Samstag, den 10. Januar auf einigen Strecken der DB Regio Baden-Württemberg zu großen Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
-      "text": "<p><strong>Betroffene Strecken / Linien: </strong></p><ul><li><strong>RE 2 (Karlsruhe – Konstanz) </strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Hausach - St. Georgen(Schwarzw) - Villingen(Schwarzw) und Donaueschingen mit einer reduzierten Geschwindigkeit.</p><ul><li><strong>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Himmelreich - Donaueschingen und Villingen(Schwarzw) mit einer reduzierten Geschwindigkeit.</p><ul><li><strong>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Titisee und Seebrugg mit einer reduzierten Geschwindigkeit.</p><p></p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Wenn möglich verschieben Sie nicht zwingend notwendige Reisen auf einen anderen Zeitraum.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter www.bahn.de oder in der App DB Navigator.</p>",
+      "text": "<p><strong>Betroffene Strecken / Linien: </strong></p><ul><li><strong>RE 2 (Karlsruhe – Konstanz) </strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Hausach - St. Georgen(Schwarzw) - Villingen(Schwarzw) und Donaueschingen mit einer reduzierten Geschwindigkeit.</p><ul><li><strong>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Himmelreich - Donaueschingen und Villingen(Schwarzw) mit einer reduzierten Geschwindigkeit.</p><ul><li><strong>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Titisee und Seebrugg mit einer reduzierten Geschwindigkeit.</p><ul><li><strong>RB 74 (Pforzheim – Horb – Tübingen) </strong></li></ul><p>Die Züge fahren auf dem Streckenabschnitt zwischen Pforzheim Hbf und Hochdorf(b Horb) mit einer reduzierten Geschwindigkeit.</p><p></p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Wenn möglich verschieben Sie nicht zwingend notwendige Reisen auf einen anderen Zeitraum.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter www.bahn.de oder in der App DB Navigator.</p>",
       "durationBegin": "09.01.2026",
       "durationEnd": "10.01.2026",
       "mapHref": "https://karte.bahn.de/detail/710c51a7-2e7a-486a-9784-55ec36275539",
@@ -853,6 +853,11 @@
         "BW"
       ],
       "lines": [
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        },
         {
           "name": "RE 2",
           "filterName": "RE 2",
@@ -879,7 +884,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.01.2026 18:40",
+      "lastModified": "08.01.2026 21:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
