@@ -83,6 +83,85 @@
   ],
   "disruptions": [
     {
+      "id": "037bd3df-3b5c-4985-99d2-fa61d8d4ed4d",
+      "disruptionId": "6c0201fe-24ec-453e-abe0-3d2d3bb53388",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "⚠️ Witterungsbedingte Einschränkungen auf allen Linien",
+      "summary": "Aufgrund der aktuellen und erwarteten Unwetterlage, gilt den gesamten Freitag über ein eingeschränkter Sonderfahrplan. Es kann kurzfristig zu weiteren Einschränkungen kommen. ",
+      "text": "<p><strong>Kurzinformationen zu folgenden Streckenabschnitten:</strong></p><p><strong>Hauptbahnhof &lt;&gt; Harburg-Rathaus</strong> (S3/S5): aktuell fahren hier keine S-Bahnen</p><p><strong>Harburg-Rathaus &lt;&gt; Neugraben </strong>(S3/S5): aktuell Pendelverkehr</p><p><strong>Neugraben &lt;&gt; Stade </strong>(S5): aktuell Pendelverkehr</p><p></p><p><strong>Aktuell fahren die S-Bahnen wie folgt:</strong></p><p>🟢 <strong>Linie S1:</strong></p><p>Die S1 fährt in folgenden Teilabschnitten</p><p><strong>Wedel &lt;&gt; Blankenese</strong></p><p><strong>Blankenese &lt;&gt; Hamburg Airport</strong></p><p><strong>Ohlsdorf &lt;&gt; Poppenbüttel</strong></p><p></p><p>🔴 <strong>Linie S2:</strong></p><p>Die S2 entfällt.</p><p></p><p>🟣 <strong>Linie S3:</strong></p><p>Die S3 fährt aktuell in folgenden Teilabschnitten:</p><p><strong>Pinneberg --&gt; Hauptbahnhof </strong>über Landungsbrücken und Jungfernstieg</p><p><strong>Hauptbahnhof --&gt; Pinneberg</strong> über Dammtor und Sternschanze</p><p><strong>Es fahren keine S-Bahnen zwischen Hauptbahnhof und Harburg-Rathaus</strong></p><p></p><p>🔵 <strong>Linie S5</strong>:</p><p>Die S5 fährt aktuell wie folgt:</p><p><strong>Stade &lt;&gt; Neugraben</strong></p><p>Zwischen Neugraben und Altona bitte die S3 nutzen.</p><p></p><p>🟠 <strong>Linie S7:</strong></p><p>Die S7 fährt aktuell wie folgt:</p><p><strong>Altona &lt;&gt; Aumühle</strong></p><p></p><p></p><p><strong>Die Betriebslage kann sich jederzeit abhängig von der Witterung ändern, es kann somit zu weiteren Einschränkungen kommen. </strong></p><p></p><p><strong>🚨 Bitte vermeiden Sie zu Ihrer eigenen Sicherheit alle nicht unbedingt notwendigen Fahrten.❗</strong></p><p></p><p><strong>ℹ️ Für die folgenden Tage ist aktuell ein ähnliches Betriebskonzept anzunehmen. Die Informationen auf dieser Seite werden regelmäßig aktualisiert.</strong></p><p></p><p>🔊 Achten Sie bitte auf die Ansagen und Anzeiger an und in den Zügen.</p><p></p><p>ℹ️ Grund: witterungsbedingte Störungen</p>",
+      "durationBegin": "08.01.2026",
+      "durationEnd": "10.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/6c0201fe-24ec-453e-abe0-3d2d3bb53388",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.01.2026 11:54",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/037bd3df-3b5c-4985-99d2-fa61d8d4ed4d",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_weather_winter0"
+    },
+    {
       "id": "8f7aa316-5c94-4f2f-a451-69c750290519",
       "disruptionId": "0a926dcc-04ef-4da5-acc6-f206a4f1da82",
       "author": "REGIO_SUEDOST",
@@ -148,85 +227,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8f7aa316-5c94-4f2f-a451-69c750290519",
       "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
-    },
-    {
-      "id": "037bd3df-3b5c-4985-99d2-fa61d8d4ed4d",
-      "disruptionId": "6c0201fe-24ec-453e-abe0-3d2d3bb53388",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "⚠️ Witterungsbedingte Einschränkungen auf allen Linien",
-      "summary": "Aufgrund der aktuellen und erwarteten Unwetterlage, gilt den gesamten Freitag über ein eingeschränkter Sonderfahrplan. Es kann kurzfristig zu weiteren Einschränkungen kommen. ",
-      "text": "<p><strong>Sondermeldungen zu folgenden Streckenabschnitten:</strong></p><p><strong>Pinneberg &lt;&gt; Altona / Holstenstraße </strong>(S3/S5): aktuell fahren hier keine S-Bahnen</p><p><strong>Harburg-Rathaus &lt;&gt; Neugraben </strong>(S3/S5): aktuell Pendelverkehr</p><p><strong>Neugraben &lt;&gt; Stade </strong>(S5): aktuell Pendelverkehr</p><p><strong>Altona &lt;&gt; Hauptbahnhof über Dammtor </strong>(S5/S7): es fahren aktuell keine S-Bahnen über Holstenstraße, Sternschanze und Dammtor auf Anordnung der Polizei. Bitte weichen Sie hier auf die U-Bahnen aus:</p><p>Sternschanze --&gt; U3 ab Landungsbrücken</p><p>Dammtor --&gt; U1 ab Jungfernstieg</p><p></p><p><strong>Aktuell fahren die S-Bahnen wie folgt:</strong></p><p>🟢 <strong>Linie S1:</strong></p><p>Die S1 fährt in folgenden Teilabschnitten</p><p>Wedel &lt;&gt; Blankenese</p><p>Blankenese &lt;&gt; Hamburg Airport</p><p>Ohlsdorf &lt;&gt; Poppenbüttel</p><p></p><p>🔴 <strong>Linie S2:</strong></p><p>Die S2 entfällt.</p><p></p><p>🟣 <strong>Linie S3:</strong></p><p>Die S3 fährt aktuell in folgenden Teilabschnitten:</p><p>Pinneberg &lt;&gt; Harburg-Rathaus</p><p>Harburg-Rathaus &lt;&gt; Neugraben</p><p>Es fahren keine S-Bahnen zwischen Pinneberg und Altona</p><p></p><p>🔵 <strong>Linie S5</strong>:</p><p>Die S5 fährt in folgenden Teilabschnitten:</p><p><strong>Stade &lt;&gt; Neugraben</strong></p><p>Zwischen Neugraben und Altona bitte die S3 nutzen.</p><p></p><p>🟠 <strong>Linie S7:</strong></p><p>Die S7 fährt zwischen Altona und Aumühle abweichend über Jungfernstieg und Landungsbrücken.</p><p></p><p></p><p><strong>Die Betriebslage kann sich jederzeit abhängig von der Witterung ändern, es kann somit zu weiteren Einschränkungen kommen. </strong></p><p></p><p><strong>🚨 Bitte vermeiden Sie zu Ihrer eigenen Sicherheit alle nicht unbedingt notwendigen Fahrten.❗</strong></p><p></p><p><strong>ℹ️ Für die folgenden Tage ist aktuell ein ähnliches Betriebskonzept anzunehmen. Die Informationen auf dieser Seite werden regelmäßig aktualisiert.</strong></p><p></p><p>🔊 Achten Sie bitte auf die Ansagen und Anzeiger an und in den Zügen.</p><p></p><p>ℹ️ Grund: witterungsbedingte Störungen</p>",
-      "durationBegin": "08.01.2026",
-      "durationEnd": "10.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/6c0201fe-24ec-453e-abe0-3d2d3bb53388",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.01.2026 11:13",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/037bd3df-3b5c-4985-99d2-fa61d8d4ed4d",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_weather_winter0"
     },
     {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
@@ -527,7 +527,7 @@
       },
       "headline": "Witterungsbedingte Beeinträchtigungen in Schleswig-Holstein und Hamburg",
       "summary": "Aufgrund der aktuellen Witterung kommt es vsl. bis zum 12. Januar zu Verspätungen und (Teil-)Ausfällen im Regionalverkehr in Schleswig-Holstein und Hamburg. Aufgrund vereister Fahrzeuge fahren wir zudem teilweise mit verringerter Wagenanzahl und eingeschränktem Platzangebot. ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 6 (Westerland(Sylt) – Hamburg-Altona)</strong>: Die Züge der Linie RE 6 verkehren derzeit witterungsbedingt bis Pinneberg. Der Halt Hamburg-Altona entfällt. Verringerte Fahrzeugkapazitäten auf der Strecke. Die Züge der Linie RE 6 verkehren zwischen Westerland(Sylt) und Hamburg-Altona im 1-Stunden-Takt. Einige Züge verkehren mit einer verringerten Wagenanzahl. Folgende Züge müssen leider bis einschließlich 11.01. entfallen: RE 11000 06:01 Uhr ab Heide(Holst), RE 11061 06:50 Uhr ab Westerland(Sylt), RE 11052 07:00 Uhr ab Husum, RE 11054 08:30 Uhr ab Niebüll, RE 11073 12:50 Uhr ab Westerland(Sylt), RE 11066 13:56 Uhr ab Bredstedt, RE 11077 14:50 Uhr ab Westerland(Sylt), RE 11068 15:30 Uhr ab Niebüll, RE 11079 15:50 Uhr ab Westerland(Sylt), RE 11081 16:50 Uhr ab Westerland(Sylt), RE 11072 17:12 Uhr ab Bredstedt, RE 11083 17:50 Uhr ab Westerland(Sylt), RE 11085 18:50 Uhr ab Westerland(Sylt). Bitte beachten Sie, dass aufgrund der aktuellen Witterung die Trittstufen beim Ein- und Ausstieg leider nicht ausgefahren werden können. Achten Sie auf den Spalt zwischen Zug und Bahnsteigkante. Helfen Sie, wenn möglich, auch bitte anderen Reisenden beim Ein- und Ausstieg.&nbsp;</li><li><strong>RB 62 (Heide(Holst) – Itzehoe): </strong>Aufgrund von verringerten Fahrzeugkapazitäten kommt es im Streckenverlauf der Linie RB 62 zu vereinzelten Verspätungen und Zugausfällen. Folgender Zug der Linie RB 62 entfällt ab Heide(Holst): RB 11105 um 05:20 Uhr. Folgender Zug der Linie RB 62 entfällt ab Itzehoe: RB 11102 um 06:00 Uhr. Ein Ersatzverkehr mit Bus ist eingerichtet. Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator zu Ihren geplanten Reiseverbindungen.</li><li><strong>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf):</strong> Die Züge der Linie RE 7/RE 70 verkehren derzeit witterungsbedingt bis Pinneberg. Die Halte Hamburg Dammtor und Hamburg Hbf entfallen. Die Züge der Linie RE 7 verkehren zwischen Hamburg Hbf und Neumünster mit verringerter Wagenanzahl. Reisende aus Kiel Hbf in Richtung Hamburg Hbf nutzen bitte den Zugteil bis Neumünster und steigen dort in den Zugteil aus Flensburg kommend in Richtung Hamburg Hbf um. Reisende aus Hamburg Hbf in Richtung Flensburg nutzen bitte den Zugteil in Richtung Kiel Hbf und steigen in Neumünster in den Zugteil Richtung Flensburg Hbf um. Die Zugteile aus Flensburg in Richtung Hamburg Hbf sowie Hamburg Hbf in Richtung Kiel Hbf verkehren durchgängig. Die Züge der Linie RE70 verkehren planmäßig zwischen Kiel Hbf und Hamburg Hbf.</li><li><strong>RE 8 (Lübeck Hbf – Hamburg Hbf):</strong> Der Zugverkehr wird witterungsbedingt ab 12:00 Uhr bis auf weiteres eingestellt.</li><li><strong>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): </strong>Aufgrund einer witterungsbedingten Weichenstörung beginnen und enden die Züge derzeit in Ahrensburg.</li><li><strong>RE 8X (Lübeck Hbf – Hamburg Hbf): </strong>Es entfallen RE 11597 um 6:34 Uhr und RE 11599 um 07:34 Uhr ab Lübeck-Travemünde Strand sowie RE 11594 um 16:18 Uhr und RE 11596 um 17:18 Uhr ab Hamburg Hbf.</li><li><strong>RB 81 (Bad Oldesloe – Hamburg Hbf): </strong>Aufgrund einer witterungsbedingten Weichenstörung verkehren die Züge derzeit nur zwischen Ahrensburg und Bad Oldesloe. Es kommt durch verringerte Fahrzeugkapazitäten im Streckenverlauf der Linie RB 81 zu vereinzelten Verspätungen und Zugausfällen. Folgende Züge der Linie RB 81 entfallen ab Hamburg Hbf: RB 11566 um 07:26 Uhr, RB 11572 um 14:56 Uhr, RB 11582 um 15:26 Uhr, RB 11574 um 15:56 Uhr, RB 11584 um 16:26 Uhr sowie RB 11576 um 16:56 Uhr. Folgende Züge der Linie RB 81 entfallen ab Ahrensburg: RB11567 um 07:11 Uhr, RB 11557 um 07:41 Uhr, RB 11569 um 08:11 Uhr, RB 11573 um 15:41 Uhr, RB 11585 um 16:11 Uhr sowie RB 11575 um 16:41 Uhr. Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator zu Ihren geplanten Reiseverbindungen.</li><li><strong>RB 85 (Lübeck Hbf – Neustadt(Holst): </strong>Derzeit keine witterungsbedingten Beeinträchtigungen.</li><li><strong>RB 86 (Lübeck-Travemünde Strand – Lübeck Hbf): </strong>Derzeit keine witterungsbedingten Beeinträchtigungen.</li></ul><p><strong>Sehen Sie bitte von nicht notwendigen Fahrten ab und verschieben diese nach Möglichkeit auf einen späteren Zeitpunkt.</strong></p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Wir weisen Sie daraufhin, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann. Außerdem kann es aufgrund der Witterungsverhältnisse zu Ausfällen der Ersatzfahrten mit Bus kommen.</p><p>Bitte seien Sie besonders vorsichtig beim Ein- und Aussteigen. Die Bahnsteige können glatt sein.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 6 (Westerland(Sylt) – Hamburg-Altona)</strong>: Die Züge der Linie RE 6 verkehren derzeit witterungsbedingt zwischen Husum und Westerland(Sylt). Die Halte zwischen Husum und Hamburg-Altona entfallen. Verringerte Fahrzeugkapazitäten auf der Strecke. Die Züge der Linie RE 6 verkehren zwischen Westerland(Sylt) und Hamburg-Altona im 1-Stunden-Takt. Einige Züge verkehren mit einer verringerten Wagenanzahl. Folgende Züge müssen leider bis einschließlich 12.01. entfallen: RE 11000 06:01 Uhr ab Heide(Holst), RE 11061 06:50 Uhr ab Westerland(Sylt), RE 11052 07:00 Uhr ab Husum, RE 11054 08:30 Uhr ab Niebüll, RE 11073 12:50 Uhr ab Westerland(Sylt), RE 11066 13:56 Uhr ab Bredstedt, RE 11077 14:50 Uhr ab Westerland(Sylt), RE 11068 15:30 Uhr ab Niebüll, RE 11079 15:50 Uhr ab Westerland(Sylt), RE 11081 16:50 Uhr ab Westerland(Sylt), RE 11072 17:12 Uhr ab Bredstedt, RE 11083 17:50 Uhr ab Westerland(Sylt), RE 11085 18:50 Uhr ab Westerland(Sylt). Bitte beachten Sie, dass aufgrund der aktuellen Witterung die Trittstufen beim Ein- und Ausstieg leider nicht ausgefahren werden können. Achten Sie auf den Spalt zwischen Zug und Bahnsteigkante. Helfen Sie, wenn möglich, auch bitte anderen Reisenden beim Ein- und Ausstieg.&nbsp;</li><li><strong>RB 62 (Heide(Holst) – Itzehoe): </strong>Aufgrund von verringerten Fahrzeugkapazitäten kommt es im Streckenverlauf der Linie RB 62 zu vereinzelten Verspätungen und Zugausfällen. Folgender Zug der Linie RB 62 entfällt ab Heide(Holst): RB 11105 um 05:20 Uhr. Folgender Zug der Linie RB 62 entfällt ab Itzehoe: RB 11102 um 06:00 Uhr. Ein Ersatzverkehr mit Bus ist eingerichtet. Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator zu Ihren geplanten Reiseverbindungen.</li><li><strong>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf):</strong> Die Züge der Linie RE 7/RE 70 verkehren derzeit witterungsbedingt bis Pinneberg. Die Halte Hamburg Dammtor und Hamburg Hbf entfallen. Die Züge der Linie RE 7 verkehren zwischen Hamburg Hbf und Neumünster mit verringerter Wagenanzahl. ab dem <strong>10.01.</strong> nutzen Reisende aus Kiel Hbf in Richtung Hamburg Hbf bitte den Zugteil bis Neumünster und steigen dort in den Zugteil aus Flensburg kommend in Richtung Hamburg Hbf um. Reisende aus Hamburg Hbf in Richtung Flensburg nutzen bitte den Zugteil in Richtung Kiel Hbf und steigen in Neumünster in den Zugteil Richtung Flensburg Hbf um. Die Zugteile aus Flensburg in Richtung Hamburg Hbf sowie Hamburg Hbf in Richtung Kiel Hbf verkehren durchgängig. Die Züge der Linie RE70 verkehren planmäßig zwischen Kiel Hbf und Hamburg Hbf.</li><li><strong>RE 8 (Lübeck Hbf – Hamburg Hbf):</strong> Der Zugverkehr wird witterungsbedingt ab 12:00 Uhr bis auf weiteres eingestellt.</li><li><strong>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): </strong>Aufgrund einer witterungsbedingten Weichenstörung beginnen und enden die Züge derzeit in Ahrensburg.</li><li><strong>RE 8X (Lübeck Hbf – Hamburg Hbf): </strong>Es entfallen RE 11597 um 6:34 Uhr und RE 11599 um 07:34 Uhr ab Lübeck-Travemünde Strand sowie RE 11594 um 16:18 Uhr und RE 11596 um 17:18 Uhr ab Hamburg Hbf.</li><li><strong>RB 81 (Bad Oldesloe – Hamburg Hbf): </strong>Aufgrund einer witterungsbedingten Weichenstörung verkehren die Züge derzeit nur zwischen Ahrensburg und Bad Oldesloe. Es kommt durch verringerte Fahrzeugkapazitäten im Streckenverlauf der Linie RB 81 zu vereinzelten Verspätungen und Zugausfällen. Folgende Züge der Linie RB 81 entfallen ab Hamburg Hbf: RB 11566 um 07:26 Uhr, RB 11572 um 14:56 Uhr, RB 11582 um 15:26 Uhr, RB 11574 um 15:56 Uhr, RB 11584 um 16:26 Uhr sowie RB 11576 um 16:56 Uhr. Folgende Züge der Linie RB 81 entfallen ab Ahrensburg: RB11567 um 07:11 Uhr, RB 11557 um 07:41 Uhr, RB 11569 um 08:11 Uhr, RB 11573 um 15:41 Uhr, RB 11585 um 16:11 Uhr sowie RB 11575 um 16:41 Uhr. Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator zu Ihren geplanten Reiseverbindungen.</li><li><strong>RB 85 (Lübeck Hbf – Neustadt(Holst): </strong>Derzeit keine witterungsbedingten Beeinträchtigungen.</li><li><strong>RB 86 (Lübeck-Travemünde Strand – Lübeck Hbf): </strong>Derzeit keine witterungsbedingten Beeinträchtigungen.</li></ul><p><strong>Sehen Sie bitte von nicht notwendigen Fahrten ab und verschieben diese nach Möglichkeit auf einen späteren Zeitpunkt.</strong></p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Wir weisen Sie daraufhin, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann. Außerdem kann es aufgrund der Witterungsverhältnisse zu Ausfällen der Ersatzfahrten mit Bus kommen.</p><p>Bitte seien Sie besonders vorsichtig beim Ein- und Aussteigen. Die Bahnsteige können glatt sein.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "03.01.2026",
       "durationEnd": "12.01.2026",
       "mapHref": "https://karte.bahn.de/detail/73ebc554-ddd2-42f1-a1c0-135f25dc97a7",
@@ -537,18 +537,6 @@
         {
           "href": "https://www.bahn.de/service/mobile/db-navigator",
           "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         },
@@ -563,6 +551,18 @@
           "label": "Regionaler Kundendialog Schleswig-Holstein",
           "info": "",
           "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
         }
       ],
       "properties": [
@@ -574,56 +574,6 @@
       ],
       "lines": [
         {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 46",
-          "filterName": "RB 46",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 46",
-          "filterName": "RB 46",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 48",
-          "filterName": "RB 48",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 48",
-          "filterName": "RB 48",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RB 62",
           "filterName": "RB 62",
           "property": "REGIONAL"
@@ -634,16 +584,6 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RB 80",
-          "filterName": "RB 80",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 80",
-          "filterName": "RB 80",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RB 81",
           "filterName": "RB 81",
           "property": "REGIONAL"
@@ -651,26 +591,6 @@
         {
           "name": "RB 81",
           "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 82",
-          "filterName": "RB 82",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 82",
-          "filterName": "RB 82",
           "property": "REGIONAL"
         },
         {
@@ -691,26 +611,6 @@
         {
           "name": "RB 86",
           "filterName": "RB 86",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 86",
-          "filterName": "RB 86",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 86",
-          "filterName": "RB 86",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
           "property": "REGIONAL"
         },
         {
@@ -729,16 +629,6 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 62",
-          "filterName": "RE 62",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 62",
-          "filterName": "RE 62",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RE 7",
           "filterName": "RE 7",
           "property": "REGIONAL"
@@ -756,16 +646,6 @@
         {
           "name": "RE 70",
           "filterName": "RE 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
           "property": "REGIONAL"
         },
         {
@@ -799,22 +679,12 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
+          "name": "RE 8X",
+          "filterName": "RE 8X",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.01.2026 11:31",
+      "lastModified": "09.01.2026 11:56",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
