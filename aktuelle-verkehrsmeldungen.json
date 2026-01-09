@@ -83,6 +83,73 @@
   ],
   "disruptions": [
     {
+      "id": "8f7aa316-5c94-4f2f-a451-69c750290519",
+      "disruptionId": "0a926dcc-04ef-4da5-acc6-f206a4f1da82",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Witterungsbedingte Einschränkungen im Regionalverkehr in Thüringen, Sachsen und Sachsen-Anhalt",
+      "summary": "Aufgrund von witterungsbedingten Einschränkungen kommt es von Freitag, den 9. Januar bis vsl. Samstag, den 10. Januar auf einigen Strecken bei DB Regio Südost im Raum Thüringen, Sachsen und Sachsen-Anhalt zu großen Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong></p><p><strong>Thüringen:</strong></p><ul><li>RE 55/56 Nordhausen – Erfurt<ul><li>Es kommt zu massiven Verspätungen und Teilausfällen.</li></ul></li><li>RB 52 Leinefelde – Bad Langensalza – Erfurt<ul><li>Es kommt zu massiven Verspätungen und Teilausfällen.</li></ul></li></ul><p><strong>Sachsen-Anhalt:</strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig<ul><li>Die Züge fallen zwischen Dessau Hbf und Magdeburg Hbf aus.</li></ul></li><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig<ul><li>Die Züge fallen zwischen Marienborn und Braunschweig Hbf aus.</li><li>↪️Für den RB 40 ist ein Ersatzverkehr zwischen Marienborn und Braunschweig Hbf eingerichtet. Ab ca. 11 Uhr verkehren die Züge vsl. wieder bis Helmstedt. </li></ul></li></ul><p></p><p>Bitte beachten Sie, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann.&nbsp;</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de und in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "09.01.2026",
+      "durationEnd": "09.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/0a926dcc-04ef-4da5-acc6-f206a4f1da82",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-09/bf87b4e2-1ec6-49f2-965d-8f14e4d2d34dreisendenkarte_20260109-103729.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-09/bf87b4e2-1ec6-49f2-965d-8f14e4d2d34dreisendenkarte_20260109-103729.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.01.2026 10:37:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 56",
+          "filterName": "RE 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.01.2026 10:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8f7aa316-5c94-4f2f-a451-69c750290519",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
+    },
+    {
       "id": "037bd3df-3b5c-4985-99d2-fa61d8d4ed4d",
       "disruptionId": "6c0201fe-24ec-453e-abe0-3d2d3bb53388",
       "author": "S_BAHN_HH",
@@ -162,84 +229,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_weather_winter0"
     },
     {
-      "id": "8f7aa316-5c94-4f2f-a451-69c750290519",
-      "disruptionId": "0a926dcc-04ef-4da5-acc6-f206a4f1da82",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Witterungsbedingte Einschränkungen im Regionalverkehr in Thüringen, Sachsen und Sachsen-Anhalt",
-      "summary": "Aufgrund von witterungsbedingten Einschränkungen kommt es von Freitag, den 9. Januar bis vsl. Samstag, den 10. Januar auf einigen Strecken bei DB Regio Südost im Raum Thüringen, Sachsen und Sachsen-Anhalt zu großen Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong></p><p><strong>Thüringen:</strong></p><ul><li>RE 55/56 Nordhausen – Erfurt<ul><li>Es kommt zu massiven Verspätungen und Teilausfällen.</li></ul></li><li>RB 52 Leinefelde – Bad Langensalza – Erfurt<ul><li>Es kommt zu massiven Verspätungen und Teilausfällen.</li></ul></li></ul><p><strong>Sachsen-Anhalt:</strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig<ul><li>Die Züge fallen zwischen Dessau Hbf und Magdeburg Hbf aus.</li></ul></li><li>RE 30 Magdeburg – Calbe (Saale) Ost – Köthen – Halle<ul><li>Die Züge fallen aus.</li></ul></li><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig<ul><li>Die Züge fallen zwischen Marienborn und Braunschweig Hbf aus.</li><li>↪️Für den RB 40 ist ein Ersatzverkehr zwischen Marienborn und Braunschweig Hbf eingerichtet.</li></ul></li><li>S 11 Halle (Saale) Hbf - Merseburg Hbf - Querfurt<ul><li>Es finden noch vereinzelte Fahrten statt.</li></ul></li></ul><p></p><p>Bitte beachten Sie, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann.&nbsp;</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de und in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "09.01.2026",
-      "durationEnd": "09.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a926dcc-04ef-4da5-acc6-f206a4f1da82",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-09/0d81e84c-43f6-4b52-836c-b4467e0c231freisendenkarte_20260109-101257.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-09/0d81e84c-43f6-4b52-836c-b4467e0c231freisendenkarte_20260109-101257.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.01.2026 10:12:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "TH",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 52",
-          "filterName": "RB 52",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 56",
-          "filterName": "RE 56",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 11",
-          "filterName": "S 11",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.01.2026 10:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8f7aa316-5c94-4f2f-a451-69c750290519",
-      "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
-    },
-    {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
       "disruptionId": "67dad6ba-cb76-48b3-8ad0-e5255333996f",
       "author": "FERNVERKEHR_AG",
@@ -294,7 +283,7 @@
       },
       "headline": "Witterungsbedingte Beeinträchtigungen in \n\n Niedersachsen und Bremen",
       "summary": "Aufgrund der aktuellen Witterung kann es vsl. bis zum 11. Januar zu Verspätungen und (Teil-)Ausfällen im Regionalverkehr in Niedersachsen und Bremen kommen. Aufgrund vereister Fahrzeuge fahren wir zudem teilweise mit verringerter Wagenanzahl und eingeschränktem Platzangebot. Stellenweise tritt besondere Glätte durch Eisregen auf. ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RE 5 (Cuxhaven – Hamburg Hbf): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RE 8 (Bremerhaven-Lehe – Hannover Hbf):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RB 37 (Bremen – Soltau – Uelzen): </strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 38 (Hannover – Soltau – Buchholz – (Hamburg-Harburg): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 40 (Braunschweig Hbf – Helmstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 44 (Braunschweig – Salzgitter-Lebenstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 45 (Schöppenstedt - Wolfenbüttel): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt. Am <strong>09.01. </strong>entfällt RB 14255 um 22:57 Uhr ab Braunschweig sowie RB 14257 um 23:57 Uhr ab Braunschweig. Am <strong>10.01. </strong>entfällt RB 14222 um 06:34 Uhr ab Schöppenstedt.</li><li><strong>RB 46 (Braunschweig Hbf – Herzberg(Harz): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 48 (Braunschweig–Salzgitter-Lebenstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RE 62 (Löhne – Osnabrück Hbf – Rheine):</strong> Es kann witterungsbedingt zu Verspätungen und Zugausfällen kommen.</li><li><strong>RB 77 (Bünde – Hameln – Hildesheim): </strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 79 (Hildesheim – Bodenburg):</strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 80/81 (Göttingen/Bodenfelde – Nordhausen): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 82 (Göttingen – Kreiensen – Bad Harzburg): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt. Am <strong>10.01. </strong>entfällt RB 14102 um 06:36 Uhr ab Goslar.</li><li><strong>RB 86 (Einbeck Mitte – Göttingen): </strong>Es finden nur noch vereinzelte Fahrten statt.</li></ul><p>Sobald wir unseren Zugverkehr schrittweise wieder aufnehmen, informieren wir Sie an dieser Stelle.</p><p>Sehen Sie bitte von nicht notwendigen Fahrten ab und verschieben diese nach Möglichkeit auf einen späteren Zeitpunkt.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Wir weisen Sie daraufhin, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann. Außerdem kann es aufgrund der Witterungsverhältnisse zu Ausfällen der Ersatzfahrten mit Bus kommen.</p><p>Bitte seien Sie besonders vorsichtig beim Ein- und Aussteigen. Die Bahnsteige können glatt sein.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Alle Fahrgäste, die Fahrkarten des Niedersachsentarifs für die Reisetage <strong>08.01.2026 </strong>bis einschließlich <strong>10.01.2026</strong> erworben haben und ihre Reise aufgrund der Winterwitterung verschieben möchten, können ihre Fahrkarte zu einem späteren Zeitpunkt nutzen. Relationsgebundene Fahrkarten gelten dabei für die Fahrt zum ursprünglichen Zielort – auch mit einer geänderten Streckenführung.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RE 5 (Cuxhaven – Hamburg Hbf): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RE 8 (Bremerhaven-Lehe – Hannover Hbf):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe):</strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt.</li><li><strong>RB 37 (Bremen – Soltau – Uelzen): </strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 38 (Hannover – Soltau – Buchholz – (Hamburg-Harburg): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 40 (Braunschweig Hbf – Helmstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 44 (Braunschweig – Salzgitter-Lebenstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 45 (Schöppenstedt - Wolfenbüttel): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt. Am <strong>09.01. </strong>entfällt RB 14255 um 22:57 Uhr ab Braunschweig sowie RB 14257 um 23:57 Uhr ab Braunschweig. Am <strong>10.01. </strong>entfällt RB 14222 um 06:34 Uhr ab Schöppenstedt.</li><li><strong>RB 46 (Braunschweig Hbf – Herzberg(Harz): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 48 (Braunschweig–Salzgitter-Lebenstedt): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RE 62 (Löhne – Osnabrück Hbf – Rheine):</strong> Es kann witterungsbedingt zu Verspätungen und Zugausfällen kommen.</li><li><strong>RB 77 (Bünde – Hameln – Hildesheim): </strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 79 (Hildesheim – Bodenburg):</strong> Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 80/81 (Göttingen/Bodenfelde – Nordhausen): </strong>Der Zugverkehr wird witterungsbedingt bis auf Weiteres eingestellt.</li><li><strong>RB 82 (Göttingen – Kreiensen – Bad Harzburg): </strong> Der Zugverkehr wird witterungsbedingt größtenteils bis auf Weiteres eingestellt. Es finden nur noch vereinzelte Fahrten statt. Am <strong>10.01. </strong>entfällt RB 14102 um 06:36 Uhr ab Goslar.</li><li><strong>RB 86 (Einbeck Mitte – Göttingen): </strong>Es finden nur noch vereinzelte Fahrten statt.</li></ul><p>Sobald wir unseren Zugverkehr schrittweise wieder aufnehmen, informieren wir Sie an dieser Stelle.</p><p>Sehen Sie bitte von nicht notwendigen Fahrten ab und verschieben diese nach Möglichkeit auf einen späteren Zeitpunkt.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Wir weisen Sie daraufhin, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann. Außerdem kann es aufgrund der Witterungsverhältnisse zu Ausfällen der Ersatzfahrten mit Bus kommen.</p><p>Bitte seien Sie besonders vorsichtig beim Ein- und Aussteigen. Die Bahnsteige können glatt sein.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Alle Fahrgäste, die Fahrkarten des Niedersachsentarifs für die Reisetage <strong>08.01.2026 </strong>bis einschließlich <strong>10.01.2026</strong> erworben haben und ihre Reise aufgrund der Winterwitterung verschieben möchten, können ihre Fahrkarte zu einem späteren Zeitpunkt nutzen. Relationsgebundene Fahrkarten gelten dabei für die Fahrt zum ursprünglichen Zielort – auch mit einer geänderten Streckenführung.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "03.01.2026",
       "durationEnd": "11.01.2026",
       "mapHref": "https://karte.bahn.de/detail/a2808bcc-9414-4175-b13c-21f357846ad1",
@@ -302,14 +291,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator  ",
+          "href": "https://bahn.de",
+          "label": "Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator  ",
           "info": "",
           "openInNewTab": true
         },
@@ -320,14 +309,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://bahn.de",
-          "label": "Reiseauskunft",
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs",
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
           "info": "",
           "openInNewTab": true
         }
@@ -521,7 +510,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.01.2026 10:16",
+      "lastModified": "09.01.2026 10:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1009,56 +998,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "1ba646f6-1635-47fa-94ec-ada924231fc5",
-      "disruptionId": "24aedaf2-c742-415d-98bf-405511c15bac",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung S4 Leienfelsstraße - Pasing: Technischer Defekt an einem Bahnübergang",
-      "summary": "Es kommt auf der S4 zu keinen weiteren Verspätungen in Zusammenhang mit der vorangegangenen Störung mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang konnte behoben werden.</p>",
-      "durationBegin": "09.01.2026",
-      "durationEnd": "09.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/24aedaf2-c742-415d-98bf-405511c15bac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/596dca47-d42e-4679-9dcb-b85ff9a67e36reisendenkarte_20260109-074233.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/596dca47-d42e-4679-9dcb-b85ff9a67e36reisendenkarte_20260109-074233.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.01.2026 07:42:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.01.2026 10:29",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1ba646f6-1635-47fa-94ec-ada924231fc5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section9"
     },
     {
       "id": "9e695a56-195c-412d-ba3b-426a1db1d4b8",
