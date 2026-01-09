@@ -530,6 +530,82 @@
       "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
     },
     {
+      "id": "dc565247-35b3-4fa7-b050-d4aaa3c2de38",
+      "disruptionId": "fafa93bb-1b09-4076-9963-907bc535b6a9",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Witterungsbedingte Einschränkungen in Berlin und Brandenburg",
+      "summary": " Freitag, 09.01.2026 20:00 Uhr bis vsl. Samstag, 10.01.2026 12:00 Uhr ",
+      "text": "<p>Aufgrund der Winterwitterung kommt es zu Beeinträchtigungen auf folgenden Linien:</p><p><strong>RE2    Hennigsdorf - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Cottbus</strong></p><p>Es kommt zu Teilausfällen zwischen Hennigsdorf und Berlin-Spandau sowie zwischen Lübben und Cottbus.</p><p><strong>RE4    Stendal - Rathenow - Berlin - Jüterbog - Falkenberg (Elster) </strong></p><p>Der Betrieb ist derzeit eingestellt.</p><p><strong>RE10  Leipzig - Falkenberg (Elster) - Calau (NL) - Cottbus - Frankfurt (Oder)</strong></p><p>Die Linie verkehrt derzeit mit eingeschränkter Platzkapazität.</p><p>Bitte vermeiden Sie nicht notwendige Fahrten und informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "09.01.2026",
+      "durationEnd": "10.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/fafa93bb-1b09-4076-9963-907bc535b6a9",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.01.2026 20:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc565247-35b3-4fa7-b050-d4aaa3c2de38",
+      "magnoliaPath": "/aktuell/nordost/impairment_weather_winter"
+    },
+    {
       "id": "6adc9598-7e38-4dfb-a900-51e3381c0ca7",
       "disruptionId": "73ebc554-ddd2-42f1-a1c0-135f25dc97a7",
       "author": "REGIO_NORD",
@@ -947,13 +1023,21 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes ",
-      "summary": "Am Hauptbahnhof Gleis 2 sind wieder Zugfahrten möglich. Rechnen Sie noch mit Folgeverspätungen von 15 bis 20 Minuten und mit Teilausfällen.",
+      "headline": "Endmeldung Stammstrecke: Ärztliche Versorgung eines Fahrgastes ",
+      "summary": "Am Hauptbahnhof Gleis 2 sind wieder uneingeschränkt Zugfahrten möglich.",
       "text": "<p>Grund für diese Beeinträchtigungen&nbsp;war die ärztliche Versorgung eines Fahrgastes am Hauptbahnhof.</p>",
       "durationBegin": "09.01.2026",
       "durationEnd": "09.01.2026",
       "mapHref": "https://karte.bahn.de/detail/cf89e3cd-8551-482a-b29b-42694932288f",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/684925dc-9e7d-4377-823a-1a3253c134f3reisendenkarte_20260109-203909.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/684925dc-9e7d-4377-823a-1a3253c134f3reisendenkarte_20260109-203909.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.01.2026 20:39:09",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -999,12 +1083,61 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.01.2026 20:10",
-      "expand": true,
+      "lastModified": "09.01.2026 20:40",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d3ea1d64-43a9-4bd4-8949-0904a2537fb1",
       "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
+    },
+    {
+      "id": "b3ac7f98-bf31-457b-a757-72863c1c2aa9",
+      "disruptionId": "827292e6-75df-4b17-9c88-e79a313ca08d",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "witterungsbedingte Einschränkungen in Mecklenburg-Vorpommern",
+      "summary": "Freitag, 09.01.2026 20:00 Uhr bis vsl. Samstag, 10.01.2026 12:00 Uhr",
+      "text": "<p>Aufgrund der Winterwitterung kommt es zu Beeinträchtigungen auf folgenden Linien:</p><p><strong>RE2    Lübeck – Bad Kleinen </strong></p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Bitte vermeiden Sie nicht notwendige Fahrten und informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "09.01.2026",
+      "durationEnd": "10.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/827292e6-75df-4b17-9c88-e79a313ca08d",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.01.2026 20:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b3ac7f98-bf31-457b-a757-72863c1c2aa9",
+      "magnoliaPath": "/aktuell/nordost/impairment_weather_winter0"
     },
     {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
