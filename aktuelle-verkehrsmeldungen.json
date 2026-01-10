@@ -76,6 +76,201 @@
   ],
   "disruptions": [
     {
+      "id": "8f7aa316-5c94-4f2f-a451-69c750290519",
+      "disruptionId": "0a926dcc-04ef-4da5-acc6-f206a4f1da82",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Witterungsbedingte Einschränkungen im Regionalverkehr in Sachsen und Sachsen-Anhalt",
+      "summary": "Wegen des Wintereinbruchs kommt es momentan auf einigen Strecken bei DB Regio Südost in Sachsen und Sachsen-Anhalt zu Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
+      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><p><strong>Sachsen-Anhalt</strong></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li><strong>RE 13 </strong>Magdeburg – Dessau – Leipzig</li><li><strong>S 2</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Bitterfeld - Dessau Hbf/Lutherstadt Wittenberg - Zahna/Jüterbog</li></ul><p><strong>Sachsen</strong></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li>Gesamtes <strong>S-Bahn Mitteldeutschland</strong> Netz</li></ul><p><strong>Thüringen</strong></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li><strong>RE 1 </strong>Göttingen – Erfurt – Gera – Glauchau</li><li><strong>RB 52 </strong>Leinefelde – Bad Langensalza – Erfurt</li><li><strong>RB 53 </strong>Bad Langensalza – Gotha</li><li><strong>RE 11</strong> Erfurt - Gotha - Leinefelde - Göttingen</li></ul><p>Bitte beachten Sie, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann.&nbsp;</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de und in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "09.01.2026",
+      "durationEnd": "11.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/0a926dcc-04ef-4da5-acc6-f206a4f1da82",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 113",
+          "filterName": "RB 113",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 113",
+          "filterName": "RB 113",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 51",
+          "filterName": "RB 51 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 51",
+          "filterName": "RB 51 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 11",
+          "filterName": "RE 11",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 30",
+          "filterName": "S 30 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5X",
+          "filterName": "S 5X Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5X",
+          "filterName": "S 5X Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.01.2026 21:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8f7aa316-5c94-4f2f-a451-69c750290519",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
+    },
+    {
       "id": "b23a92a2-4471-49b8-ae07-6d66d30ac512",
       "disruptionId": "df7f84d0-f487-48d3-a4bb-ed10e1825be9",
       "author": "S_BAHN_HH",
@@ -168,226 +363,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b23a92a2-4471-49b8-ae07-6d66d30ac512",
       "magnoliaPath": "/aktuell/nord/massive_impairment_weather_winter1"
-    },
-    {
-      "id": "8f7aa316-5c94-4f2f-a451-69c750290519",
-      "disruptionId": "0a926dcc-04ef-4da5-acc6-f206a4f1da82",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Witterungsbedingte Einschränkungen im Regionalverkehr in Sachsen und Sachsen-Anhalt",
-      "summary": "Wegen des Wintereinbruchs kommt es momentan auf einigen Strecken bei DB Regio Südost in Sachsen und Sachsen-Anhalt zu Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
-      "text": "<p>🚉 <strong>Betroffene Linien:</strong></p><p><strong>Sachsen-Anhalt</strong></p><ul><li><strong>RB 40 </strong>Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig<ul><li>Die Züge fallen zwischen Helmstedt und Braunschweig Hbf aus.</li><li>↪️ Ein&nbsp;Ersatzverkehr mit Bus ist zwischen Helmstedt und Braunschweig eingerichtet.</li></ul></li></ul><p></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li><strong>RE 13 </strong>Magdeburg – Dessau – Leipzig</li><li><strong>S 2</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Bitterfeld - Dessau Hbf/Lutherstadt Wittenberg - Zahna/Jüterbog</li></ul><p><strong>Sachsen</strong></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li>Gesamtes <strong>S-Bahn Mitteldeutschland</strong> Netz</li></ul><p><strong>Thüringen</strong></p><p>Auf den folgenden Linien kommt es aktuell zu Verspätungen sowie möglichen Teilausfällen und Ausfällen:</p><ul><li><strong>RE 1 </strong>Göttingen – Erfurt – Gera – Glauchau</li><li><strong>RB 52 </strong>Leinefelde – Bad Langensalza – Erfurt</li><li><strong>RB 53 </strong>Bad Langensalza – Gotha</li><li><strong>RE 11</strong> Erfurt - Gotha - Leinefelde - Göttingen</li></ul><p>Bitte beachten Sie, dass bei einer notwendig werdenden Ersatzbeförderung mit Bussen aufgrund von Schnee und Straßenglätte keine zeitnahe Beförderung gewährleistet werden kann.&nbsp;</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de und in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "09.01.2026",
-      "durationEnd": "11.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a926dcc-04ef-4da5-acc6-f206a4f1da82",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "TH",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RB 113",
-          "filterName": "RB 113",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 113",
-          "filterName": "RB 113",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 51",
-          "filterName": "RB 51 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 51",
-          "filterName": "RB 51 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 52",
-          "filterName": "RB 52",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 52",
-          "filterName": "RB 52",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 11",
-          "filterName": "RE 11",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14",
-          "filterName": "RE 14 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14",
-          "filterName": "RE 14 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 50",
-          "filterName": "RE 50 Dresden",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 30",
-          "filterName": "S 30 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5X",
-          "filterName": "S 5X Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5X",
-          "filterName": "S 5X Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Mitteldeutschland",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.01.2026 18:18",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8f7aa316-5c94-4f2f-a451-69c750290519",
-      "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm1"
     },
     {
       "id": "0191126e-faa8-4834-81b3-ddc6d807559f",
@@ -1386,51 +1361,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/dcacbb99-469a-48b2-9ac4-27d129d0d1f6",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction0"
-    },
-    {
-      "id": "ae07c840-5abc-4e9f-9707-e478df216520",
-      "disruptionId": "2ce26b15-cca3-4585-9737-5eb7cecef505",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Ebenhausen-Schäftlarn: Reparatur an einem Signal",
-      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es zu Verspätungen von 15 bis 20 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "10.01.2026",
-      "durationEnd": "10.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/2ce26b15-cca3-4585-9737-5eb7cecef505",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-10/9ff124f8-5573-4740-a74f-e5f493050e76reisendenkarte_20260110-194112.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-10/9ff124f8-5573-4740-a74f-e5f493050e76reisendenkarte_20260110-194112.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.01.2026 19:41:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.01.2026 19:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ae07c840-5abc-4e9f-9707-e478df216520",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section13"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
