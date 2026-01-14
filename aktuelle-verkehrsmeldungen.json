@@ -2,6 +2,77 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d8e666ce-caf8-46ff-a7c7-2003c87bb8ab",
+      "disruptionId": "72985873-6773-46aa-b28b-c388d04885fd",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S-Bahn Mitteldeutschland - CityTunnel Leipzig gesperrt",
+      "summary": "Der CityTunnel Leipzig ist momentan für den Zugverkehr gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist eine Streckensperrung.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>S 1</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Leipzig Miltitzer Allee</li><li><strong>S 2</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Bitterfeld - Dessau Hbf/Lutherstadt Wittenberg - Zahna/Jüterbog</li><li><strong>S 3</strong> Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Böhlen (Leipzig) - Borna - Geithain</li><li><strong>S 4</strong> Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li><li><strong>S 5/S 5X</strong> Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Streckensperrung.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es zu Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "14.01.2026",
+      "durationEnd": "14.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/72985873-6773-46aa-b28b-c388d04885fd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/96357723-e845-4546-bb88-f7429e1f3152reisendenkarte_20260114-070046.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/96357723-e845-4546-bb88-f7429e1f3152reisendenkarte_20260114-070046.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.01.2026 07:00:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5X",
+          "filterName": "S 5X Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.01.2026 07:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d8e666ce-caf8-46ff-a7c7-2003c87bb8ab",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_technical_problem_vehicle"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -227,61 +298,54 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "98710540-88fc-48bf-b0de-5193d4dfe269",
-      "disruptionId": "78ab3d1b-b9b8-4c1e-8b18-6986f8566d84",
-      "author": "S_BAHN_HH",
+      "id": "7f585e98-dc34-4779-ad97-cbf79c90de20",
+      "disruptionId": "c7dbf2af-f746-4a5e-b6e0-a8cc53c6a674",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Aktuell Verspätungen auf allen Linien nach einem Notarzteinsatz",
-      "summary": "Nach einem Notarzteinsatz am Hauptbahnhof kommt es aktuell noch zu Verspätungen und Unregelmäßigkeiten. die Verstärkerzüge werden Stück für Stück wieder eingesetzt.",
-      "text": "<p> </p>",
+      "headline": "S 4 Pasing ↔ Geltendorf: Reparatur an der Strecke",
+      "summary": "Zwischen Pasing und Geltendorf kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "14.01.2026",
       "durationEnd": "14.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/78ab3d1b-b9b8-4c1e-8b18-6986f8566d84",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/c7dbf2af-f746-4a5e-b6e0-a8cc53c6a674",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/46c7d7c2-60cc-497b-846c-65d7eb225c09reisendenkarte_20260114-072657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/46c7d7c2-60cc-497b-846c-65d7eb225c09reisendenkarte_20260114-072657.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.01.2026 07:26:57",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
+          "name": "S 20",
+          "filterName": "S 20 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.01.2026 06:42",
+      "lastModified": "14.01.2026 07:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/98710540-88fc-48bf-b0de-5193d4dfe269",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/7f585e98-dc34-4779-ad97-cbf79c90de20",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -356,15 +420,15 @@
         "label": "Notarzteinsatz auf der Strecke"
       },
       "headline": "Gera ⇄ Weimar - Fahrtausfälle",
-      "summary": "Die Strecke von Gera bis Weimar ist im Moment gesperrt. Dauer der Sperrung bis vsl. 14.01.2026, 07:00 Uhr. Der Grund war ein Notarzteinsatz auf der Strecke.",
+      "summary": "Die Strecke von Gera bis Weimar war gesperrt. Streckensperrung aufgehoben.  Der Grund war ein Notarzteinsatz auf der Strecke.",
       "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 1 Göttingen – Erfurt – Gera – Glauchau</li><li>RE 3 Erfurt – Gera – Altenburg/Greiz</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund war ein Notarzteinsatz auf der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0361 5188 4477 (zum Ortstarif) zu informieren.</p>",
       "durationBegin": "14.01.2026",
       "durationEnd": "14.01.2026",
       "mapHref": "https://karte.bahn.de/detail/5058128d-35a4-4a26-a47d-d35571a7a4fb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/633bb2be-7382-43ea-af60-9a034d7091acreisendenkarte_20260114-054908.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/633bb2be-7382-43ea-af60-9a034d7091acreisendenkarte_20260114-054908.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/c9a61d3e-244b-475a-8a70-527b5af9eff4reisendenkarte_20260114-054908.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/c9a61d3e-244b-475a-8a70-527b5af9eff4reisendenkarte_20260114-054908.png",
           "info": "",
           "alt": "Reisendenkarte 14.01.2026 05:49:08",
           "openInNewTab": true
@@ -390,7 +454,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.01.2026 06:43",
+      "lastModified": "14.01.2026 06:54",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
