@@ -196,43 +196,6 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
-      "id": "6c12cfe6-8e3f-4048-b8e4-3cbfae70dacc",
-      "disruptionId": "55aed9b1-bc71-473a-bc13-8c9f8f88315a",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Die Strecke zwischen Schweich und Trier Hbf bis vsl. 15.01.2026, 11:00 Uhr beeinträchtigt.",
-      "summary": "Der Grund ist ein defektes Stellwerk.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Schweich &lt;&gt; Trier Hbf</p><p>🕜Dauer der Beeinträchtigung bis vsl. 15.01.2026, 11.00 Uhr.</p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge fallen zwischen Schweich und Trier Hbf aus.</p><p>🚍&nbsp;<strong>Alternative: </strong>Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>🚳</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "13.01.2026",
-      "durationEnd": "15.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/55aed9b1-bc71-473a-bc13-8c9f8f88315a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 71",
-          "filterName": "RB 71",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.01.2026 16:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6c12cfe6-8e3f-4048-b8e4-3cbfae70dacc",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "f37c972c-94c3-405e-966f-01a58d8ecda0",
       "disruptionId": "617c37c4-931a-4a94-b34d-ace2f1b8c1c2",
       "author": "S_BAHN_MUC",
@@ -240,16 +203,16 @@
         "category": "technical_problem_vehicle",
         "label": "Technischer Defekt an einem anderen Zug"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten und vereinzelt zu vorzeitigen Wenden auf den Außenbereichen der S-Bahn.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "Endmeldung Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es zu keinen weiteren Verspätungen in Zusammenhang mit der vorangegangenen Störung mehr.",
+      "text": "<p>Der Zug mit der technischen Störung hat die Strecke verlassen.</p>",
       "durationBegin": "14.01.2026",
       "durationEnd": "14.01.2026",
       "mapHref": "https://karte.bahn.de/detail/617c37c4-931a-4a94-b34d-ace2f1b8c1c2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/abdc966c-6234-4f7c-ab26-daefc49c7c3ereisendenkarte_20260114-162711.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/abdc966c-6234-4f7c-ab26-daefc49c7c3ereisendenkarte_20260114-162711.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/2945defa-a2b5-4040-a917-df65e5a56a91reisendenkarte_20260114-162711.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/2945defa-a2b5-4040-a917-df65e5a56a91reisendenkarte_20260114-162711.png",
           "info": "",
           "alt": "Reisendenkarte 14.01.2026 16:27:11",
           "openInNewTab": true
@@ -300,12 +263,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.01.2026 16:29",
+      "lastModified": "14.01.2026 17:41",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f37c972c-94c3-405e-966f-01a58d8ecda0",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle0"
+    },
+    {
+      "id": "6c12cfe6-8e3f-4048-b8e4-3cbfae70dacc",
+      "disruptionId": "55aed9b1-bc71-473a-bc13-8c9f8f88315a",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Die Strecke zwischen Schweich und Trier Hbf bis vsl. 15.01.2026, 11:00 Uhr beeinträchtigt.",
+      "summary": "Der Grund ist ein defektes Stellwerk.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Schweich &lt;&gt; Trier Hbf</p><p>🕜Dauer der Beeinträchtigung bis vsl. 15.01.2026, 11.00 Uhr.</p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge fallen zwischen Schweich und Trier Hbf aus.</p><p>🚍&nbsp;<strong>Alternative: </strong>Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>🚳</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "13.01.2026",
+      "durationEnd": "15.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/55aed9b1-bc71-473a-bc13-8c9f8f88315a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 71",
+          "filterName": "RB 71",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.01.2026 16:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6c12cfe6-8e3f-4048-b8e4-3cbfae70dacc",
+      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
