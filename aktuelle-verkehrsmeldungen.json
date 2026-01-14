@@ -227,6 +227,63 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "98710540-88fc-48bf-b0de-5193d4dfe269",
+      "disruptionId": "78ab3d1b-b9b8-4c1e-8b18-6986f8566d84",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Alle Linien: Aktuell Verspätungen und Unregelmäßigkeiten auf den Linien Alle Linien",
+      "summary": "Alle Linien: Aktuell kommt es zu Verspätungen und Unregelmäßigkeiten. Grund: Notarzteinsatz am Hauptbahnhof.",
+      "text": "<p> </p>",
+      "durationBegin": "14.01.2026",
+      "durationEnd": "14.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/78ab3d1b-b9b8-4c1e-8b18-6986f8566d84",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.01.2026 06:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/98710540-88fc-48bf-b0de-5193d4dfe269",
+      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+    },
+    {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
       "disruptionId": "a8a7f16f-bf27-445a-ab73-4633c547af2b",
       "author": "REGIO_SUEDOST",
@@ -289,6 +346,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "8dcbbfcd-679b-415f-8173-9175b4a4126a",
+      "disruptionId": "5058128d-35a4-4a26-a47d-d35571a7a4fb",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Gera ⇄ Altenburg - Fahrtausfälle",
+      "summary": "Die Strecke von Gera bis Altenburg ist im Moment gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist ein Notarzteinsatz auf der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 1 Göttingen – Erfurt – Gera – Glauchau</li><li>RE 3 Erfurt – Gera – Altenburg/Greiz</li><li></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Notarzteinsatz auf der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge beginnen und enden außerplanmäßig in Gera.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0361 5188 4477 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "14.01.2026",
+      "durationEnd": "14.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/5058128d-35a4-4a26-a47d-d35571a7a4fb",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/690607bc-cf09-4667-9b2e-397d35db12fareisendenkarte_20260114-054908.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/690607bc-cf09-4667-9b2e-397d35db12fareisendenkarte_20260114-054908.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.01.2026 05:49:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.01.2026 06:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8dcbbfcd-679b-415f-8173-9175b4a4126a",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_medical_emergency"
     },
     {
       "id": "af699fa9-5c83-41c2-92eb-ac2524de7bc9",
