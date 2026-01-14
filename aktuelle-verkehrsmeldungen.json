@@ -152,51 +152,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "fd02b7c3-d99a-4363-8435-47e1a536ed38",
-      "disruptionId": "521fe12a-4ed6-4bed-bb3b-aa6a8bd6c5fa",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an einer Weiche",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn wird der Zugverkehr wieder aufgenommen.",
-      "text": "<p>Erste wieder auf dem Regelweg verkehrende S-Bahnen sind:</p><ul><li>S7 Abfahrt Hauptbahnhof 16:14 Uhr → Abfahrt Höllriegelskreuth 16:35 Uhr → Ankunft Wolfratshausen 16:54 Uhr</li><li>S7 Abfahrt Wolfratshausen 16:23 Uhr → Abfahrt Höllriegelskreuth 16:45 Uhr → Ankunft Hauptbahnhof 17:08 Uhr</li></ul><p>Der Ersatzverkehr läuft mit 16:20 Uhr aus.</p><p>Die Reparatur an einer Weiche ist beendet.</p>",
-      "durationBegin": "14.01.2026",
-      "durationEnd": "14.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/521fe12a-4ed6-4bed-bb3b-aa6a8bd6c5fa",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/96c3f749-2d47-4a78-94ce-fb794dd18f9freisendenkarte_20260114-153659.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/96c3f749-2d47-4a78-94ce-fb794dd18f9freisendenkarte_20260114-153659.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.01.2026 15:36:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.01.2026 15:57",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fd02b7c3-d99a-4363-8435-47e1a536ed38",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -239,6 +194,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "f37c972c-94c3-405e-966f-01a58d8ecda0",
+      "disruptionId": "617c37c4-931a-4a94-b34d-ace2f1b8c1c2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten und vereinzelt zu vorzeitigen Wenden auf den Außenbereichen der S-Bahn.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "14.01.2026",
+      "durationEnd": "14.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/617c37c4-931a-4a94-b34d-ace2f1b8c1c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/abdc966c-6234-4f7c-ab26-daefc49c7c3ereisendenkarte_20260114-162711.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-14/abdc966c-6234-4f7c-ab26-daefc49c7c3ereisendenkarte_20260114-162711.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.01.2026 16:27:11",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.01.2026 16:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f37c972c-94c3-405e-966f-01a58d8ecda0",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle0"
     },
     {
       "id": "6c12cfe6-8e3f-4048-b8e4-3cbfae70dacc",
