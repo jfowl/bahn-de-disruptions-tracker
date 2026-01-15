@@ -333,8 +333,8 @@
       "mapHref": "https://karte.bahn.de/detail/a8a7f16f-bf27-445a-ab73-4633c547af2b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/da2aa2d5-a21c-4794-9f9e-cd3cb149d74breisendenkarte_20260112-095532.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/da2aa2d5-a21c-4794-9f9e-cd3cb149d74breisendenkarte_20260112-095532.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-15/bea1b38f-2647-4c3c-b1f2-df97d16065aareisendenkarte_20260112-095532.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-15/bea1b38f-2647-4c3c-b1f2-df97d16065aareisendenkarte_20260112-095532.png",
           "info": "",
           "alt": "Reisendenkarte 12.01.2026 09:55:32",
           "openInNewTab": true
@@ -342,14 +342,8 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/ed8e1234-53bb-473d-a38b-bba67bf3becbErsatzfahrplan%2BRB%2B72%2B15.01.-%2B31.01.%2BGlash%25C3%25BCtte%2B-%2BHeidenau.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-15/4f784497-05bc-42c4-a89e-7ba1a59684f9Ersatzfahrplan%2BRB%2B72%2B15.01.-%2B31.01.%2BGlash%25C3%25BCtte%2B-%2BHeidenau.pdf",
           "label": "Ersatzfahrplan RB 72 15.01.- 31.01. Glashütte - Heidenau.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-14/58a41e9d-70e4-4187-b41c-8148b79aacacErsatzfahrplan%2BRB%2B72%2B13.01.%2B-%2B14.01.2026%2B.Heidenau%2B-%2BKurort%2BAltenberg%2528Erzgebirge%2529.pdf",
-          "label": "Ersatzfahrplan RB 72 13.01. - 14.01.2026 .Heidenau - Kurort Altenberg(Erzgebirge).pdf",
           "info": "",
           "openInNewTab": true
         }
@@ -385,11 +379,56 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.01.2026 18:38",
+      "lastModified": "15.01.2026 00:54",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "97b99e08-fcc1-460a-ab72-3e3b1d310c42",
+      "disruptionId": "0664a84c-9220-4639-827f-0ed658b8e8d3",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Tübingen Hbf - Entringen / Herrenberg",
+      "summary": "Eingeschränkte Fahrzeugverfügbarkeit am Donnerstag, den 15. Januar 2026 / Fahrtausfälle / Beeinträchtigungen / Ersatzverkehr",
+      "text": "<p>Aufgrund einer eingeschränkten Fahrzeugverfügbarkeit entfallen am <strong>Donnerstag, den 15. Januar 2026,</strong> einige Verbindungen der Linie <strong>RB63</strong> zwischen <strong>Tübingen Hbf - Entringen / Herrenberg</strong> in beiden Richtungen. <strong>Alle ausfallenden Verbindungen werden durch Busse ersetzt.</strong></p><p>Bitte überprüfen Sie Ihre Verbindung daher noch einmal vor Reiseantritt im DB Navigator sowie auf bahn.de</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "16.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/0664a84c-9220-4639-827f-0ed658b8e8d3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-15/d374534c-0bd8-4a78-9bd2-f220da39171areisendenkarte_20260115-015155.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-15/d374534c-0bd8-4a78-9bd2-f220da39171areisendenkarte_20260115-015155.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.01.2026 01:51:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.01.2026 01:58",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/97b99e08-fcc1-460a-ab72-3e3b1d310c42",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle1"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
