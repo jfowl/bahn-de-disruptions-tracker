@@ -2,6 +2,60 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d510f1c8-d2c6-45e4-83bd-b09538f8784a",
+      "disruptionId": "c715c11f-b580-4af7-b6e2-81df6c1236c1",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S3 und S5: Verspätungen und Abweichungen vom Fahrplan",
+      "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke. ",
+      "text": "<p>Die S3 fährt aktuell nur zwischen Pinneberg und Harburg-Rathaus, die S5 fährt durch. Auf beiden Linien sind Verspätungen möglich. Bitte auf die Ansagen und Anzeigen am Zug sowie an und in den Stationen achten.</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "15.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/c715c11f-b580-4af7-b6e2-81df6c1236c1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.01.2026 13:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d510f1c8-d2c6-45e4-83bd-b09538f8784a",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "2fd75f69-93fc-4198-ab49-2a64e03a9dcf",
       "disruptionId": "afe89a1c-918c-4a17-85c4-44ea22ac9235",
       "author": "REGIO_SUEDOST",
@@ -742,6 +796,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/dcacbb99-469a-48b2-9ac4-27d129d0d1f6",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction0"
+    },
+    {
+      "id": "f9c143b7-6739-4997-be27-20c0130e4ea7",
+      "disruptionId": "e3828420-ccb4-4c06-a17b-ab875f8b142e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4 Pasing ↔ Geltendorf: Signal",
+      "summary": "Zwischen Pasing und Geltendorf kommt es noch zu Folgeverspätungen von 15 bis 20 Minuten, vereinzelt auch höher und Teilausfällen.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "15.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e3828420-ccb4-4c06-a17b-ab875f8b142e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/95726262-2011-499a-b34c-0edffa2a7850reisendenkarte_20260115-130915.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/95726262-2011-499a-b34c-0edffa2a7850reisendenkarte_20260115-130915.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.01.2026 13:09:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.01.2026 13:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f9c143b7-6739-4997-be27-20c0130e4ea7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
