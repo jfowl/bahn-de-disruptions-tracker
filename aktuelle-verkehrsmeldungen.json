@@ -11,7 +11,7 @@
       },
       "headline": "S3 und S5: Verspätungen und Abweichungen vom Fahrplan",
       "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke. ",
-      "text": "<p>Die S3 fährt aktuell nur zwischen Pinneberg und Harburg-Rathaus, die S5 fährt durch. Auf beiden Linien sind Verspätungen möglich. Bitte auf die Ansagen und Anzeigen am Zug sowie an und in den Stationen achten.</p>",
+      "text": "<p>Die 🟣 S3 fährt aktuell nur zwischen <strong>Pinneberg und Harburg-Rathaus</strong>, die 🔵 S5 fährt planmäßig bis <strong>Buxtehude oder Stade</strong>. </p><p>Auf beiden Linien sind <strong>Verspätungen möglich</strong>. </p><p>Bitte auf die 🔊 Ansagen und Anzeigen am Zug sowie an und in den Stationen achten.</p>",
       "durationBegin": "15.01.2026",
       "durationEnd": "15.01.2026",
       "mapHref": "https://karte.bahn.de/detail/c715c11f-b580-4af7-b6e2-81df6c1236c1",
@@ -48,7 +48,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.01.2026 13:41",
+      "lastModified": "15.01.2026 14:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -798,25 +798,25 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction0"
     },
     {
-      "id": "f9c143b7-6739-4997-be27-20c0130e4ea7",
-      "disruptionId": "e3828420-ccb4-4c06-a17b-ab875f8b142e",
+      "id": "5d3ffdb6-bc7e-4c88-aca5-626a5fb705c4",
+      "disruptionId": "7151c3ec-5e5f-484f-a4bb-9092ede0e258",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 4 Pasing ↔ Geltendorf: Signal",
-      "summary": "Zwischen Pasing und Geltendorf kommt es noch zu Folgeverspätungen von 15 bis 20 Minuten, vereinzelt auch höher und Teilausfällen.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "15.01.2026",
       "durationEnd": "15.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/e3828420-ccb4-4c06-a17b-ab875f8b142e",
+      "mapHref": "https://karte.bahn.de/detail/7151c3ec-5e5f-484f-a4bb-9092ede0e258",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/95726262-2011-499a-b34c-0edffa2a7850reisendenkarte_20260115-130915.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/95726262-2011-499a-b34c-0edffa2a7850reisendenkarte_20260115-130915.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/8838a857-ab31-4f33-a023-f6942140940breisendenkarte_20260115-141800.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-15/8838a857-ab31-4f33-a023-f6942140940breisendenkarte_20260115-141800.png",
           "info": "",
-          "alt": "Reisendenkarte 15.01.2026 13:09:15",
+          "alt": "Reisendenkarte 15.01.2026 14:18:00",
           "openInNewTab": true
         }
       ],
@@ -830,17 +830,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "15.01.2026 13:29",
+      "lastModified": "15.01.2026 14:21",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f9c143b7-6739-4997-be27-20c0130e4ea7",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/5d3ffdb6-bc7e-4c88-aca5-626a5fb705c4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
