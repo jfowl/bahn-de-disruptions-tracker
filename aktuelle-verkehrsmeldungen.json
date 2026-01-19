@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "cfe9c433-e704-4c54-8292-5ae6bb0c200c",
+      "disruptionId": "1612587f-e753-40a6-87ef-fd8adcae855b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "S1: Aktuell fährt keine S1 zwischen Sülldorf und Wedel. Grund: Technische Störung an der Strecke. ",
+      "summary": "Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
+      "text": "<p> </p>",
+      "durationBegin": "19.01.2026",
+      "durationEnd": "19.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/1612587f-e753-40a6-87ef-fd8adcae855b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.01.2026 06:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cfe9c433-e704-4c54-8292-5ae6bb0c200c",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_other"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -238,6 +276,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
+      "disruptionId": "2bb23883-8742-4a42-af14-a27054dc2e02",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Pforzheim Hbf und Eutingen im Gäu",
+      "summary": "Die Strecke von Pforzheim Hbf bis Eutingen im Gäu ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist eine Streckensperrung. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ab ca. 06:30 Uhr haben wir einen Ersatzverkehr mit Bussen im Pendelverkehr zwischen Pforzheim Hbf und Wildberg(Württ) für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung. ",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li><li></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "19.01.2026",
+      "durationEnd": "19.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/2bb23883-8742-4a42-af14-a27054dc2e02",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-19/9187c289-823c-4249-86db-229cf9b50c1creisendenkarte_20260119-054351.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-19/9187c289-823c-4249-86db-229cf9b50c1creisendenkarte_20260119-054351.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.01.2026 05:43:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14b",
+          "filterName": "RE 14b",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.01.2026 06:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4c6f57a1-f06b-4db7-8960-361341e131eb",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
