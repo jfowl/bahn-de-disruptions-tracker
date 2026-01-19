@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "cfe9c433-e704-4c54-8292-5ae6bb0c200c",
-      "disruptionId": "1612587f-e753-40a6-87ef-fd8adcae855b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "S1: Aktuell fährt keine S1 zwischen Sülldorf und Wedel. Grund: Technische Störung an der Strecke. ",
-      "summary": "Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis. Informationen über andere Verkehrsmittel des hvv erhalten sie unter www.hvv.de. Nutzen Sie hierbei die erweiterte Suche und wählen sie in der Verkehrsmittelwahl das Verkehrsmittel \"S-Bahn\" durch Anklicken ab.",
-      "text": "<p> </p>",
-      "durationBegin": "19.01.2026",
-      "durationEnd": "19.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/1612587f-e753-40a6-87ef-fd8adcae855b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.01.2026 08:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cfe9c433-e704-4c54-8292-5ae6bb0c200c",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_other"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -270,6 +232,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "e738439f-ac52-4b20-a493-f8c4517a5057",
+      "disruptionId": "43dfbb99-bc00-414f-a68e-962f4f1297d9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Gilching-Argelsried: Reparatur an einem Signal",
+      "summary": "Im Bereich Gilching-Argelsried kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Die S-Bahnen fahren in diesem Bereich mit verminderter Geschwindigkeit</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "19.01.2026",
+      "durationEnd": "19.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/43dfbb99-bc00-414f-a68e-962f4f1297d9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/6f8fc5a4-10ba-4c1e-840b-5dcf17fdcdb2reisendenkarte_20260119-093253.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/6f8fc5a4-10ba-4c1e-840b-5dcf17fdcdb2reisendenkarte_20260119-093253.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.01.2026 09:32:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.01.2026 09:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e738439f-ac52-4b20-a493-f8c4517a5057",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "e81dd408-cfe4-4306-bfaf-a109dbc8acf4",
       "disruptionId": "7bc4bd23-335d-4a1c-aa00-67cf8d0a1b01",
       "author": "S_BAHN_RM",
@@ -279,14 +286,14 @@
       },
       "headline": "Teil- und Zugausfälle Im Raum Frankfurt(Main)Hbf",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda  (- Bad Hersfeld - Bebra)</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (- Dieburg)</li><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 19. Januar 2026 von ca. 12:00 - 13:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die RE2 mit Fahrtziel und -beginn in Mainz Hbf fallen aus.</li><li>Die RB34 endet und wendet in Bad Vilbel.</li><li>Die RE50/RB51 endet und wendet in Offenbach(Main)Hbf.</li><li>Die RB61 endet und wendet in Neu-Isenburg.</li><li>Die S7 fällt aus.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Bitte nutzen Sie die Züge der S-Bahn zwischen Mainz Hbf/ Bad Vilbel/ Neu-Isenburg und Frankfurt(Main)Hbf. </li><li>Prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda  (- Bad Hersfeld - Bebra)</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (- Dieburg)</li><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Am 19. Januar 2026 von ca. 12:30 - 13:30 Uhr</li><li>Am 20. Januar 2026 von ca. 12:30 - 13:30 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die RE2 mit Fahrtziel und -beginn in Mainz Hbf fallen aus.</li><li>Die RB34 endet und wendet in Bad Vilbel.</li><li>Die RE50/RB51 endet und wendet in Offenbach(Main)Hbf.</li><li>Die RB61 endet und wendet in Neu-Isenburg.</li><li>Die S7 fällt aus.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Bitte nutzen Sie die Züge der S-Bahn zwischen Mainz Hbf/ Bad Vilbel/ Neu-Isenburg und Frankfurt(Main)Hbf. </li><li>Prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "19.01.2026",
-      "durationEnd": "19.01.2026",
+      "durationEnd": "20.01.2026",
       "mapHref": "https://karte.bahn.de/detail/7bc4bd23-335d-4a1c-aa00-67cf8d0a1b01",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-19/a44bdea9-51c9-4f76-9337-1b3fde1bfeeereisendenkarte_20260119-082950.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-19/a44bdea9-51c9-4f76-9337-1b3fde1bfeeereisendenkarte_20260119-082950.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-19/d49e71dc-2244-4444-9e52-beba6fd1603breisendenkarte_20260119-082950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-19/d49e71dc-2244-4444-9e52-beba6fd1603breisendenkarte_20260119-082950.png",
           "info": "",
           "alt": "Reisendenkarte 19.01.2026 08:29:50",
           "openInNewTab": true
@@ -333,7 +340,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.01.2026 08:37",
+      "lastModified": "19.01.2026 09:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -871,15 +878,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 6 Tutzing ↔ Pasing: Reparatur an einem Signal",
-      "summary": "Zwischen Tutzing und Pasing kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "summary": "Zwischen Tutzing und Pasing kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "19.01.2026",
       "durationEnd": "19.01.2026",
       "mapHref": "https://karte.bahn.de/detail/73073a61-c2fb-40da-9121-3840903cff34",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/82cf90be-66d9-4ab3-83d5-14c85b65aa6breisendenkarte_20260119-081459.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/82cf90be-66d9-4ab3-83d5-14c85b65aa6breisendenkarte_20260119-081459.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/774f9886-1c38-4445-b67f-6697889786ebreisendenkarte_20260119-081459.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-19/774f9886-1c38-4445-b67f-6697889786ebreisendenkarte_20260119-081459.png",
           "info": "",
           "alt": "Reisendenkarte 19.01.2026 08:14:59",
           "openInNewTab": true
@@ -900,7 +907,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.01.2026 08:17",
+      "lastModified": "19.01.2026 09:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
