@@ -121,8 +121,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -149,12 +149,17 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:22",
+      "lastModified": "21.01.2026 08:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -473,81 +478,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "10e73351-d3ab-47eb-81e2-c251620bde29",
-      "disruptionId": "dd0270f1-f616-409b-9877-3aab3bfd01b2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es noch zu vereinzelten Folgeverspätungen.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "21.01.2026",
-      "durationEnd": "21.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/dd0270f1-f616-409b-9877-3aab3bfd01b2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/dd43e135-c0f1-488b-ae27-3edd7b58200ereisendenkarte_20260121-094211.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/dd43e135-c0f1-488b-ae27-3edd7b58200ereisendenkarte_20260121-094211.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.01.2026 09:42:11",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.01.2026 12:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/10e73351-d3ab-47eb-81e2-c251620bde29",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "b235c0d9-ae53-48d0-b9b9-03eab793a509",
