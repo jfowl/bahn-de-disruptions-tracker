@@ -260,15 +260,15 @@
         "label": "Technischer Defekt an einem Bahnübergang"
       },
       "headline": "Beeinträchtigungen in Eutingen im Gäu",
-      "summary": "Der Bahnhof Eutingen im Gäu ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einem Bahnübergang. Die Züge fahren in dem betroffenen Streckenabschnitt langsamer. In der Folge kommt es zu Verspätungen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "summary": "Der Bahnhof Eutingen im Gäu ist nicht mehr beeinträchtigt.  Der Grund war die Reparatur an einem Bahnübergang. Rechnen Sie noch mit Verspätungen, bis der Zugverkehr sich wieder normalisiert hat. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "21.01.2026",
       "durationEnd": "21.01.2026",
       "mapHref": "https://karte.bahn.de/detail/1fc8cea9-4132-4b01-9ce2-7c3875cb96c6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/0fff0197-16c0-494f-8f49-39efb92be92creisendenkarte_20260121-104002.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/0fff0197-16c0-494f-8f49-39efb92be92creisendenkarte_20260121-104002.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/3343f649-f15b-43e1-b84d-fabf8405214areisendenkarte_20260121-104002.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/3343f649-f15b-43e1-b84d-fabf8405214areisendenkarte_20260121-104002.png",
           "info": "",
           "alt": "Reisendenkarte 21.01.2026 10:40:02",
           "openInNewTab": true
@@ -284,6 +284,11 @@
       ],
       "lines": [
         {
+          "name": "RB 14a",
+          "filterName": "RB 14a",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 14a",
           "filterName": "RE 14a",
           "property": "REGIONAL"
@@ -294,7 +299,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 10:43",
+      "lastModified": "21.01.2026 11:54",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -447,8 +452,8 @@
       "mapHref": "https://karte.bahn.de/detail/dd0270f1-f616-409b-9877-3aab3bfd01b2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/9e36ccdb-b34c-4d65-b1c6-fdf677705553reisendenkarte_20260121-094211.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/9e36ccdb-b34c-4d65-b1c6-fdf677705553reisendenkarte_20260121-094211.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/e259eb03-c429-42c5-99bb-e903d845190freisendenkarte_20260121-094211.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/e259eb03-c429-42c5-99bb-e903d845190freisendenkarte_20260121-094211.png",
           "info": "",
           "alt": "Reisendenkarte 21.01.2026 09:42:11",
           "openInNewTab": true
@@ -499,7 +504,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.01.2026 11:17",
+      "lastModified": "21.01.2026 11:56",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -613,6 +618,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "8dcd5d16-c3d5-4993-b408-edeaf4b73a5e",
+      "disruptionId": "03668aec-276f-4958-92b2-03aed91d7ec8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Beeinträchtigungen auf der Linie RE 55",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es heute, am Mittwoch 21.Januar ganztägig zu Zugausfällen zwischen Herrlingen und Donaueschingen. \nBitte nutzen Sie die alternativen Reisemöglichkeiten.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Donaueschingen – Ulm)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "21.01.2026",
+      "durationEnd": "21.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/03668aec-276f-4958-92b2-03aed91d7ec8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/b9f58f90-c223-4148-a289-ab26caf408f1reisendenkarte_20260121-111826.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/b9f58f90-c223-4148-a289-ab26caf408f1reisendenkarte_20260121-111826.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.01.2026 11:18:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.01.2026 11:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8dcd5d16-c3d5-4993-b408-edeaf4b73a5e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
