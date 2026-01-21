@@ -121,8 +121,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -149,12 +149,17 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:22",
+      "lastModified": "21.01.2026 08:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -249,6 +254,50 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
+      "disruptionId": "2bb23883-8742-4a42-af14-a27054dc2e02",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Pforzheim Hbf und Wildberg(Württ)",
+      "summary": "Der Streckenabschnitt zwischen Pforzheim Hbf und Wildberg(Württ) ist im Moment gesperrt. Die Dauer der Sperrung wird voraussichtlich bis Montag, 02. Februar andauern. Der Grund sind Gegenstände auf der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bussen ist zwischen Pforzheim Hbf und Wildberg(Württ) eingerichtet. Die Busse sind für , 21. Januar und  22. Januar in der Reiseauskunft ersichtlich. Die Reiseauskunft wird tagesaktuell angepasst. Bitte beachten Sie bei Ihrer Reiseplanung die längere Fahrzeit von dem Bus.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "19.01.2026",
+      "durationEnd": "02.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/2bb23883-8742-4a42-af14-a27054dc2e02",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/597ed458-7692-4c6b-a37f-661b93715f14reisendenkarte_20260119-114619.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/597ed458-7692-4c6b-a37f-661b93715f14reisendenkarte_20260119-114619.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.01.2026 11:46:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.01.2026 20:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4c6f57a1-f06b-4db7-8960-361341e131eb",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
@@ -832,6 +881,94 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4f6ce709-4c16-494d-a6f7-fcc595454fea",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "557e9ec6-6f5a-4526-b2d8-b9d1412f8d08",
+      "disruptionId": "24f091a8-4384-439e-8952-581ccd7eee49",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten vom 13. 01. bis 13.02.2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es zwischen Moosach/Heimeranplatz/Pasing und Trudering/Ostbahnhof zu Änderungen im Fahrplan. Die Änderungen betreffen die Nächte vom 13. Januar bis 13. Februar 2026 und gelten jeweils von 22:20 Uhr abends bis 5:00 Uhr morgens.",
+      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><ul><li>Nächte Dienstag/Mittwoch, 13./14. bis Donnerstag/Freitag, 15./16.1.2026</li><li>Nächte Mittwoch/Donnerstag, 21./22. und Donnerstag/Freitag, 22./23.1.2026</li><li>Nächte Montag/Dienstag, 26./27. bis Donnerstag/Freitag, 29./30.1.2026</li><li>Nächte Mittwoch/Donnerstag, 4./5. und Donnerstag/Freitag, 5./6.2.2026</li><li>Nächte Montag/Dienstag, 9./10. bis Donnerstag/Freitag, 12./13.2.2026</li></ul><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>Ersatzverkehr:</p><ul><li><strong>Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></li></ul><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2:</p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p>‼️Ersatzverkehr:</p><p><strong>+++ Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p><strong>+++ Bitte beachten Sie den Fahrplan. Die Haltestellen des Ersatzverkehrs finden Sie im Anhang.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "13.01.2026",
+      "durationEnd": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/24f091a8-4384-439e-8952-581ccd7eee49",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/11d0d934-f4f4-4392-b7b9-31052530dca6reisendenkarte_20251222-092728.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/11d0d934-f4f4-4392-b7b9-31052530dca6reisendenkarte_20251222-092728.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.12.2025 09:27:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/40c269da-76af-4f8d-96e4-a9c15e9d084cFpl%252BTSP%252BML%252BS%252B1-S%252B8%252B13%252BJan-13%252BFeb%252B2026.pdf",
+          "label": "ML+S+1-S+8+13+Jan-13+Feb+2026",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/663d9d81-5638-4e41-a3bf-f904e07af200Fpl%252BSEV%252BMMDN-MP%252B13%252BJan-13%252BFeb%252B2026.pdf",
+          "label": "MMDN-MP+13+Jan-13+Feb+2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.01.2026 20:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/557e9ec6-6f5a-4526-b2d8-b9d1412f8d08",
+      "magnoliaPath": "/aktuell/bayern/additional_service_construction1"
     },
     {
       "id": "84f4400b-6780-4613-93d3-f9b4327a81d0",
