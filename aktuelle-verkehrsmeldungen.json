@@ -218,8 +218,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -246,12 +246,17 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:22",
+      "lastModified": "21.01.2026 08:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -303,49 +308,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/75c31b36-8b95-4608-b954-f303579d5791",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
-    },
-    {
-      "id": "06eb49b7-5140-4130-8cb7-a638ce3b8014",
-      "disruptionId": "3ab4ae05-8b4f-4367-a122-5838d4b21fd2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "🟢S1: Technische Störung an der Strecke. Die Züge fahren zwischen Blankenese und Wedel alle 20 Minuten. ",
-      "summary": "Die Linie S1 fährt zwischen Blankenese und Wedel alle 20 Minuten.",
-      "text": "<p> </p>",
-      "durationBegin": "21.01.2026",
-      "durationEnd": "22.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/3ab4ae05-8b4f-4367-a122-5838d4b21fd2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.01.2026 00:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/06eb49b7-5140-4130-8cb7-a638ce3b8014",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
