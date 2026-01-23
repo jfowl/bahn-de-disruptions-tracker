@@ -661,6 +661,56 @@
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
+      "id": "3219fe2c-eb25-4180-b422-ab57036a3fb4",
+      "disruptionId": "c8a5854c-a35a-45e1-b755-bf81b5b061fa",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen zwischen Schrozberg/ Rot am See und Crailsheim",
+      "summary": "Der Streckenabschnitt zwischen Schrozberg/Rot am See und Crailsheim ist von Samstag, den 24.01. bis Sonntag, den 25.01. in den Morgen- und Abendstunden beeinträchtigt. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk. In der Folge kommt es zu Verspätungen und Zugausfällen. Für die ausfallenden Züge arbeiten wir an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "23.01.2026",
+      "durationEnd": "23.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/c8a5854c-a35a-45e1-b755-bf81b5b061fa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-23/0df088b6-0d51-4cbe-8de3-3bb0c9fa1c17reisendenkarte_20260123-093648.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-23/0df088b6-0d51-4cbe-8de3-3bb0c9fa1c17reisendenkarte_20260123-093648.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.01.2026 09:36:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 88",
+          "filterName": "RB 88",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 87",
+          "filterName": "RE 87",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.01.2026 09:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3219fe2c-eb25-4180-b422-ab57036a3fb4",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_other_cause0"
+    },
+    {
       "id": "54c58c0a-1c31-4bbc-bcd4-5d8442a0ce29",
       "disruptionId": "20fa8815-8840-43ad-89da-8b1b1139ffac",
       "author": "REGIO_BW",
@@ -911,73 +961,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/84f4400b-6780-4613-93d3-f9b4327a81d0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "a56ff3ea-e73d-4499-ba63-6bb268191d9e",
-      "disruptionId": "94f1f2b1-395a-473c-8942-049b6c53ef70",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: Stammstrecke Laim in Richtung Pasing",
-      "summary": "Im Bereich Laim in Richtung Pasing kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "23.01.2026",
-      "durationEnd": "23.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/94f1f2b1-395a-473c-8942-049b6c53ef70",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.01.2026 09:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a56ff3ea-e73d-4499-ba63-6bb268191d9e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
