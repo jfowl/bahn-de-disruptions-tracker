@@ -9,27 +9,12 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in Deutschland",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Ausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><p>Aktuell kann es im gesamten Bundesgebiet zu Beeinträchtigungen im Fernverkehr kommen. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Wintereinbruch: Bahnverkehr heute bundesweit beeinträchtigt",
+      "summary": "Aufgrund des Wintereinbruchs kommt es heute bundesweit zu Verspätungen und Zugausfällen. Im Laufe des Tages werden weitere Einschränkungen im Norden erwartet.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><p>Aktuell kann es im gesamten Bundesgebiet zu Beeinträchtigungen im Fernverkehr kommen. Besonders betroffen sind gegenwärtig folgende Gebiete bzw. Relationen:</p><ul><li>Auf den Relationen Berlin - Stralsund und Berlin - Rostock können aktuell keine Fernverkehrszüge verkehren</li><li>Auf der Strecke Hamburg - Hannover verkehren die Züge des Fernverkehrs mit Verspätung. Weiterhin müssen einzelne Züge auf dieser Verbindung ausfallen</li><li>In den Großräumen Stuttgart und Ulm kommt es zu Verspätungen und Zugausfällen im Fernverkehr</li></ul><p></p><p>Sobald uns weitere Informationen zu den Auswirkungen des Wintereinbruchs vorliegen, werden wir Sie an dieser Stelle informieren. </p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "26.01.2026",
       "mapHref": "https://karte.bahn.de/detail/88864cee-9067-41fe-b16d-c4991604d6b9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-26/e345d1b3-e1aa-4875-b38c-9d4c0ef55a4creisendenkarte_20260126-061815.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-26/e345d1b3-e1aa-4875-b38c-9d4c0ef55a4creisendenkarte_20260126-061815.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.01.2026 06:18:15",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-26/1c16cec5-d454-4a64-8585-ddf979b12df1reisendenkarte_20260126-072436.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-26/1c16cec5-d454-4a64-8585-ddf979b12df1reisendenkarte_20260126-072436.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.01.2026 07:24:36",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -60,8 +45,8 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "26.01.2026 07:26",
-      "expand": false,
+      "lastModified": "26.01.2026 08:53",
+      "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ef901628-4812-4e5a-b8da-6e898679eafb",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_storm"
@@ -123,6 +108,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/261629f1-3c11-42ef-a316-244efc483ccf",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
+    },
+    {
+      "id": "89cd6db9-9082-478b-89d3-637f2b797ab4",
+      "disruptionId": "bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Verkehrsmeldung für die Region Nord-Ost",
+      "summary": " Montag, 26.01.2026 08:06 Uhr bis vsl. Montag, 26.01.2026 12:00 Uhr ",
+      "text": "<p>Aufgrund von witterungsbedingten Beeinträchtigungen kommt es in der Region Nord-Ost zu Zugausfällen und Verspätungen. Der Ersatzverkehr mit Bussen ist ebenfalls betroffen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "26.01.2026",
+      "durationEnd": "26.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.01.2026 08:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/89cd6db9-9082-478b-89d3-637f2b797ab4",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_weather_storm"
     },
     {
       "id": "8efe590e-91ec-461f-ad45-30d9d70382dc",
@@ -352,7 +383,7 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Beeinträchtigungen bei der S-Bahn Rhein-Main -",
+      "headline": "Wintereinbruch: Bahnverkehr der S-Bahn Rhein-Main heute beeinträchtigt\n\nAufgrund von Wintereinbruch kommt es heute bei der S-Bahn Rhein-Main zu Verspätungen und Zugausfällen.",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
       "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li><li>S8: Wiesbaden Hbf - Mainz Hbf S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 26. Januar ganztägig</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Bitte rechnen Sie mit Verspätungen.</li><li>Auf den Linien S8/S9 kommt es beim Ersatzverkehr ebenfalls zu Ausfällen und Verspätungen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Prüfen Sie in der Frankfurter Innenstadt auch andere Verkehrsmittel wie beispielsweise U-Bahnen, Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "26.01.2026",
@@ -387,11 +418,6 @@
         {
           "name": "Bus S8X",
           "filterName": "Bus S8X",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus S9",
-          "filterName": "Bus S9",
           "property": "REGIONAL"
         },
         {
@@ -490,7 +516,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.01.2026 06:39",
+      "lastModified": "26.01.2026 08:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -598,8 +624,8 @@
       "mapHref": "https://karte.bahn.de/detail/71ac96f2-7f8d-4809-a1b9-688d76faca3a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/9375adc2-ca21-485f-b6e1-1643953ca68dreisendenkarte_20260126-030956.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/9375adc2-ca21-485f-b6e1-1643953ca68dreisendenkarte_20260126-030956.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/3606235a-54af-4e86-a3d9-1cb3d0751b13reisendenkarte_20260126-030956.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/3606235a-54af-4e86-a3d9-1cb3d0751b13reisendenkarte_20260126-030956.png",
           "info": "",
           "alt": "Reisendenkarte 26.01.2026 03:09:56",
           "openInNewTab": true
@@ -645,7 +671,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.01.2026 08:35",
+      "lastModified": "26.01.2026 08:40",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
