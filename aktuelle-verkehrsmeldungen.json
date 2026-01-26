@@ -133,9 +133,9 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Verkehrsmeldung für die Linie(n) RE3, RE30 und RE5 - Witterungsbedingte Einschränkungen in Mecklenburg-Vorpommern und Berlin/Brandenburg",
+      "headline": "Verkehrsmeldung für die Linie(n) RE 3, RE 30, RE 5, RB 23 (Usedom) und RB 24 (Usedom) - Witterungsbedingte Einschränkungen in Mecklenburg-Vorpommern und Berlin/Brandenburg",
       "summary": "Montag, 26.01.2026 08:00 Uhr bis vsl. Montag, 26.01.2026 vsl. 23 Uhr",
-      "text": "<p>Aufgrund des Wintereinbruchs kommt es heute bundesweit zu Verspätungen und Zugausfällen. Folgende Linien in Mecklenburg-Vorpommern und Berlin/Brandenburg sind stark betroffen:</p><p><strong>RE3    Stralsund - Greifswald/Schwedt (Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg </strong></p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin </strong></p><p>Auf allen 3 Linien ist der Betrieb zwischen Rostock/Stralsund und Berlin eingestellt.Derzeit finden Prüffahrten auf der Strecke statt. Weitere Informationen folgen.Die Ersatzverkehre mit Bussen sind auch von der Witterung betroffen.Auf allen anderen Linien muss derzeit aus dem gleichen Grund mit Verspätungen und Teilausfällen gerechnet werden.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Aufgrund des Wintereinbruchs kommt es heute bundesweit zu Verspätungen und Zugausfällen. Folgende Linien in Mecklenburg-Vorpommern und Berlin/Brandenburg sind stark betroffen:</p><p><strong>RE3    Stralsund - Greifswald/Schwedt (Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg </strong></p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin </strong></p><p>Auf allen 3 Linien ist der Betrieb zwischen Rostock/Stralsund und Berlin eingestellt.Derzeit finden Prüffahrten auf der Strecke statt. Weitere Informationen folgen.</p><p><strong>RB23  Züssow – Zinnowitz – Seebad Heringsdorf – Świnoujście / RB24 Peenemünde - ZinnowitzDer Zugverkehr auf der Insel Usedom wurde bis voraussichtlich 15 Uhr eingestellt.</strong></p><p>Die Ersatzverkehre mit Bussen sind auch von der Witterung betroffen.</p><p>Auf allen anderen Linien muss derzeit aus dem gleichen Grund mit Verspätungen und Teilausfällen gerechnet werden.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "26.01.2026",
       "durationEnd": "26.01.2026",
       "mapHref": "https://karte.bahn.de/detail/bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
@@ -143,14 +143,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -164,6 +164,26 @@
         "MV"
       ],
       "lines": [
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        },
         {
           "name": "RE 3",
           "filterName": "RE 3",
@@ -190,7 +210,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.01.2026 10:41",
+      "lastModified": "26.01.2026 12:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -796,6 +816,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "db023a31-1c3b-4084-b11a-81915bdbedc0",
+      "disruptionId": "3fc21a36-e62f-4a41-8179-cb85656e0f66",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Klingenberg am Main und Obernburg-Elsenfeld",
+      "summary": "Der Streckenabschnitt zwischen Klingenberg am Main und Obernburg-Elsenfeld ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund sind witterungsbedingte Beeinträchtigungen. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge aus Richtung Aschaffenburg enden und beginnen in Obernburg-Elsenfeld und die Züge aus Richtung Miltenberg enden und beginnen in Klingenberg am Main. Ab ca. 12:20 Uhr haben wir einen Ersatzverkehr mit zwei Bussen zwischen Obernburg-Elsenfeld und Klingenberg am Main im Pendelverkehr für Sie eingerichtet. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte prüfen Sie auch alternative Verkehrsmittel, um an Ihr Reiseziel zu gelangen.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "26.01.2026",
+      "durationEnd": "26.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/3fc21a36-e62f-4a41-8179-cb85656e0f66",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/0826e526-6f5a-417c-afbc-fe01642583eareisendenkarte_20260126-100403.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-26/0826e526-6f5a-417c-afbc-fe01642583eareisendenkarte_20260126-100403.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.01.2026 10:04:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 88",
+          "filterName": "RB 88",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.01.2026 12:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/db023a31-1c3b-4084-b11a-81915bdbedc0",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "c1dcfb88-cc90-453e-8e85-9a7d15a79dbf",
       "disruptionId": "cd6c51d2-0d30-426d-a29f-23ca59b6b9f8",
       "author": "S_BAHN_MUC",
@@ -904,51 +969,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f7505c00-0b53-438f-b91d-76e461c468e4",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_weather_winter"
-    },
-    {
-      "id": "12627c19-223a-4001-9b90-a520c55c8238",
-      "disruptionId": "bea67bc5-fafc-4d9c-aff7-180eda550011",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Endmeldung S2 Petershausen: Defektes Stellwerk ",
-      "summary": "Auf der Linie S2 kommt es in beide Richtungen zu keinen nennenswerten Einschränkungen mehr.",
-      "text": "<p>Das defekte Stellwerk in Petershausen wurde repariert.</p>",
-      "durationBegin": "26.01.2026",
-      "durationEnd": "26.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/bea67bc5-fafc-4d9c-aff7-180eda550011",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/484a1657-7109-414c-9f3d-13b15b85a323reisendenkarte_20260126-104226.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/484a1657-7109-414c-9f3d-13b15b85a323reisendenkarte_20260126-104226.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.01.2026 10:42:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.01.2026 12:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/12627c19-223a-4001-9b90-a520c55c8238",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
