@@ -70,7 +70,7 @@
       },
       "headline": "Verkehrsmeldung für Mecklenburg-Vorpommern und Berlin/Brandenburg ",
       "summary": "Dienstag, 27.01.2026  bis vsl.12 Uhr",
-      "text": "<p>Aufgrund des Wintereinbruchs kann es auf der RE-Linie 3 noch zu vereinzelten Verspätungen und Zugausfällen in Mecklenburg-Vorpommern und Berlin/Brandenburg kommen.</p><p></p><p></p><p></p><p></p><p><strong>RE3 Stralsund - Greifswald/Schwedt (Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg</strong></p><p>Auch die Ersatzverkehre mit Bussen sind von der Witterung betroffen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Aufgrund des Wintereinbruchs kann es auf den Linien der RE3 und RE30 sowie auf der Insel Usedom noch zu vereinzelten Verspätungen und Zugausfällen kommen.</p><p></p><p></p><p></p><p></p><p><strong>RE3 Stralsund - Greifswald/Schwedt (Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg</strong></p><p><strong>RE30 Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><p><strong>RB23 Züssow – Zinnowitz – Seebad Heringsdorf – Świnoujście </strong></p><p><strong>RB24 Peenemünde - Zinnowitz</strong></p><p></p><p>Auch die Ersatzverkehre mit Bussen sind von der Witterung betroffen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "27.01.2026",
       "durationEnd": "27.01.2026",
       "mapHref": "https://karte.bahn.de/detail/bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
@@ -78,14 +78,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -100,6 +100,26 @@
       ],
       "lines": [
         {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 3",
           "filterName": "RE 3",
           "property": "REGIONAL"
@@ -108,9 +128,14 @@
           "name": "RE 3",
           "filterName": "RE 3",
           "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.01.2026 04:49",
+      "lastModified": "27.01.2026 05:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -626,42 +651,21 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "7eb588db-47b9-4d5c-b40d-05dfb9d1a4ff",
-      "disruptionId": "24f091a8-4384-439e-8952-581ccd7eee49",
+      "id": "c6a11324-2e09-4b4d-ad0a-440fbef49b82",
+      "disruptionId": "e8f2d101-e3a8-41df-888d-818c8608dbca",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten vom 13. 01. bis 13.02.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es zwischen Moosach/Heimeranplatz/Pasing und Trudering/Ostbahnhof zu Änderungen im Fahrplan. Die Änderungen betreffen die Nächte vom 13. Januar bis 13. Februar 2026 und gelten jeweils von 22:20 Uhr abends bis 5:00 Uhr morgens.",
-      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><ul><li>Nächte Montag/Dienstag, 26./27. bis Donnerstag/Freitag, 29./30.1.2026</li><li>Nächte Mittwoch/Donnerstag, 4./5. und Donnerstag/Freitag, 5./6.2.2026</li><li>Nächte Montag/Dienstag, 9./10. bis Donnerstag/Freitag, 12./13.2.2026</li></ul><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>Ersatzverkehr:</p><ul><li><strong>Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></li></ul><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2:</p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p>‼️Ersatzverkehr:</p><p><strong>+++ Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p><strong>+++ Bitte beachten Sie den Fahrplan. Die Haltestellen des Ersatzverkehrs finden Sie im Anhang.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "13.01.2026",
-      "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/24f091a8-4384-439e-8952-581ccd7eee49",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/da19b81b-11f5-4eba-9e56-cbc4ffcb32a0reisendenkarte_20251222-092728.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/da19b81b-11f5-4eba-9e56-cbc4ffcb32a0reisendenkarte_20251222-092728.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.12.2025 09:27:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/1679cacc-f38b-4561-bbb0-972b8c56a8f6Fpl%252BTSP%252BML%252BS%252B1-S%252B8%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "ML+S+1-S+8+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-26/d0d52de2-9769-4978-95b6-6f25162962b5Fpl%252BSEV%252BMMDN-MP%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "MMDN-MP+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Endmeldung: Stammstrecke Pasing ↔ Ostbahnhof",
+      "summary": "Zwischen Pasing und Ostbahnhof kommt es in beide Richtungen noch zu Folgeverspätungen von 10 bis 15 Minuten, zu Umleitungen und zu vorzeitigen Zugwendenden auf den Außenästen.",
+      "text": "<p>Die Bauarbeiten wurden beendet.</p>",
+      "durationBegin": "27.01.2026",
+      "durationEnd": "27.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e8f2d101-e3a8-41df-888d-818c8608dbca",
+      "images": [],
+      "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
@@ -706,12 +710,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.01.2026 20:01",
-      "expand": true,
+      "lastModified": "27.01.2026 05:38",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7eb588db-47b9-4d5c-b40d-05dfb9d1a4ff",
-      "magnoliaPath": "/aktuell/bayern/additional_service_construction0"
+      "detailPagePath": "/service/fahrplaene/c6a11324-2e09-4b4d-ad0a-440fbef49b82",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
