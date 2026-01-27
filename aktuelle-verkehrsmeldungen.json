@@ -11,7 +11,7 @@
       },
       "headline": "Streikankündigung in Belgien",
       "summary": "In Belgien wurden für den Zeitraum 25.01., 22:00 Uhr - 30.01., 22:00 Uhr Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr zwischen Deutschland und Belgien zu Einschränkungen",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>NJ-Züge der Verbindung Brüssel – Aachen – München - Salzburg - Wien</li></ul><p>Bitte planen Sie für Reisen von und nach Belgien mehr Zeit ein.&nbsp;</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Brüssel – Köln – Frankfurt am Main</li><li>NJ-Züge zwischen Brüssel – Aachen – Mannheim – Hannover Messe/Laatzen / Halle (Saale) – Berlin</li></ul><p>Bitte planen Sie für Reisen von und nach Belgien mehr Zeit ein.&nbsp;</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.01.2026",
       "durationEnd": "30.01.2026",
       "mapHref": "https://karte.bahn.de/detail/28b05479-bee8-4b2f-a25a-8004a1c58f22",
@@ -53,10 +53,9 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "26.01.2026 11:41",
+      "lastModified": "19.01.2026 14:52",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/261629f1-3c11-42ef-a316-244efc483ccf",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
@@ -779,6 +778,81 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "507bf483-94a1-42b3-b811-03a743009309",
+      "disruptionId": "b1ff0cf4-26b7-4572-908a-69ec8f860b47",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "27.01.2026",
+      "durationEnd": "27.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/b1ff0cf4-26b7-4572-908a-69ec8f860b47",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-27/e680d140-a946-4b4d-b592-f176d1b797efreisendenkarte_20260127-164253.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-27/e680d140-a946-4b4d-b592-f176d1b797efreisendenkarte_20260127-164253.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.01.2026 16:42:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.01.2026 16:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/507bf483-94a1-42b3-b811-03a743009309",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "dbc36ea0-d172-4ae7-98a6-f315cd64ed8c",
       "disruptionId": "29cf7984-a812-435b-85b7-4675d135c164",
       "author": "S_BAHN_MUC",
@@ -822,6 +896,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dbc36ea0-d172-4ae7-98a6-f315cd64ed8c",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "dd7e7050-c55e-4f51-9d98-64497f7afe84",
+      "disruptionId": "6e9ebafb-c8ba-4a8f-9218-9c4e54d2d7c8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Vorabinformation: S 6 Abweichende Linienführung am Mittwoch, 28.01.2026 in der Zeit von 2 Uhr bis 11 Uhr: Reparatur an der Strecke",
+      "summary": "Die S-Bahnen der Linie S 6 werden am Mittwoch, 28.01.2026 in der Zeit von 2 Uhr bis 11 Uhr wie folgt umgeleitet.",
+      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 wird zwischen<strong> Pasing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Trudering </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S6 verkehrt zwischen <strong>Trudering </strong>→ <strong>Ostbahnhof </strong>→ <strong>Pasing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul><p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "28.01.2026",
+      "durationEnd": "28.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/6e9ebafb-c8ba-4a8f-9218-9c4e54d2d7c8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-27/820a161e-7834-48ea-8e5d-dbd7f0d4cee5reisendenkarte_20260127-161256.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-27/820a161e-7834-48ea-8e5d-dbd7f0d4cee5reisendenkarte_20260127-161256.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.01.2026 16:12:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.01.2026 16:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dd7e7050-c55e-4f51-9d98-64497f7afe84",
+      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
