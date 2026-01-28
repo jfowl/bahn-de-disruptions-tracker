@@ -178,6 +178,63 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_weather_storm"
     },
     {
+      "id": "fd088b63-9149-4a57-b062-a67827893a58",
+      "disruptionId": "35f537fc-6a74-492e-8bb2-2d310ae117d0",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verspätungen, Teil- sowie Zugausfälle zwischen Frankfurt-Höchst - Flörsheim(Main) - Hochheim(Main) - Mainz-Kastel / Mainz Hbf",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich in den Morgenstunden des 28. Januar.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 20 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 50 Minuten möglich.</li><li>Es kann auch zu Teil- und Zugausfällen kommen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "27.01.2026",
+      "durationEnd": "28.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/35f537fc-6a74-492e-8bb2-2d310ae117d0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/1c72cb1f-311a-4ffa-a94b-b33f0487cd33reisendenkarte_20260127-180959.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/1c72cb1f-311a-4ffa-a94b-b33f0487cd33reisendenkarte_20260127-180959.png",
+          "info": "",
+          "alt": "Reisendenkarte 27.01.2026 18:09:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.01.2026 11:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fd088b63-9149-4a57-b062-a67827893a58",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -439,8 +496,8 @@
       "mapHref": "https://karte.bahn.de/detail/cff41095-f1a6-4396-9424-c14e525b5080",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/d1c43265-af1a-4847-b0b4-011b39dda474reisendenkarte_20260128-111135.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/d1c43265-af1a-4847-b0b4-011b39dda474reisendenkarte_20260128-111135.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/ab02bbbd-086f-4ed1-a655-fdbd022e7e21reisendenkarte_20260128-111135.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/ab02bbbd-086f-4ed1-a655-fdbd022e7e21reisendenkarte_20260128-111135.png",
           "info": "",
           "alt": "Reisendenkarte 28.01.2026 11:11:35",
           "openInNewTab": true
@@ -461,7 +518,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.01.2026 11:15",
+      "lastModified": "28.01.2026 11:44",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -620,16 +677,16 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Teilausfälle zwischen Glauburg-Stockheim - Nidderau",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 12 Uhr des 28. Januar.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge verkehren zwischen Glauburg-Stockheim und Nidderau ohne Halt.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit zwei Bussen der Firma Holiday-Reisen GmbH zwischen den Stationen Glauburg-Stockheim - Glauburg-Glauberg - Altenstadt-Lindheim - Altenstadt(Hess) - Altenstadt-Höchst - Nidderau-Eichen - Nidderau - Nidderau-Windecken - Schöneck-Büdesheim - Schöneck-Kilianstädten - Schöneck-Oberdorfelden - Niederdorfelden - Bad Vilbel-Gronau - Bad Vilbel eingerichtet. Die Busse verkehren im Pendel ohne feste Fahrzeiten.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Keine Beeinträchtigungen mehr zwischen Glauburg-Stockheim - Nidderau",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen normalisiert sich der Bahnbetrieb wieder.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p><strong>✅ Auf der RB 34 kommt es zu keinen Beeinträchtigungen mehr.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "27.01.2026",
       "durationEnd": "28.01.2026",
       "mapHref": "https://karte.bahn.de/detail/96b35713-16cb-4b56-b44a-0ab221fca41a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/6c373d20-9bdd-4a81-89c4-3541ef3b8ddereisendenkarte_20260127-203240.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/6c373d20-9bdd-4a81-89c4-3541ef3b8ddereisendenkarte_20260127-203240.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/e677b0da-e042-43b9-b35c-ebc87b598dc2reisendenkarte_20260127-203240.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/e677b0da-e042-43b9-b35c-ebc87b598dc2reisendenkarte_20260127-203240.png",
           "info": "",
           "alt": "Reisendenkarte 27.01.2026 20:32:40",
           "openInNewTab": true
@@ -650,7 +707,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.01.2026 08:55",
+      "lastModified": "28.01.2026 11:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -914,6 +971,48 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "c7381592-62f3-4251-974f-9dd13116ab05",
+      "disruptionId": "a876e186-fdc0-4fde-a279-5c2f4103d3cf",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verspätungen und einzelne Teilausfälle in Mainz-Bischofsheim",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. Januar</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen.</li><li>Die Züge fahren mit verminderter Geschwindigkeit.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "28.01.2026",
+      "durationEnd": "28.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/a876e186-fdc0-4fde-a279-5c2f4103d3cf",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.01.2026 11:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c7381592-62f3-4251-974f-9dd13116ab05",
+      "magnoliaPath": "/aktuell/hessen/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "0e0cc48b-d10f-47ff-9549-ebce34a2464f",
       "disruptionId": "7fb495f7-481f-4626-b6c9-8c52ff280bc5",
       "author": "S_BAHN_HH",
@@ -956,19 +1055,19 @@
       "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_other"
     },
     {
-      "id": "c7381592-62f3-4251-974f-9dd13116ab05",
-      "disruptionId": "a876e186-fdc0-4fde-a279-5c2f4103d3cf",
-      "author": "S_BAHN_RM",
+      "id": "6dd6d452-a2ce-4739-86d8-daeda7fff814",
+      "disruptionId": "2ca28f11-fc89-4640-81c9-03bb1345c58e",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Verspätungen und einzelne Teilausfälle in Mainz-Bischofsheim",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. Januar</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen.</li><li>Die Züge fahren mit verminderter Geschwindigkeit.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "S5: Aktuell fahren die Züge der S5 mit Start/Ziel Neugraben abweichend zwischen Elbgaustraße und Bergedorf. Grund: technische Störung an der Strecke.",
+      "summary": " ",
+      "text": "<p> </p>",
       "durationBegin": "28.01.2026",
       "durationEnd": "28.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/a876e186-fdc0-4fde-a279-5c2f4103d3cf",
+      "mapHref": "https://karte.bahn.de/detail/2ca28f11-fc89-4640-81c9-03bb1345c58e",
       "images": [],
       "downloads": [],
       "links": [],
@@ -976,26 +1075,21 @@
         "SBAHN"
       ],
       "states": [
-        "HE"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.01.2026 08:36",
+      "lastModified": "28.01.2026 11:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7381592-62f3-4251-974f-9dd13116ab05",
-      "magnoliaPath": "/aktuell/hessen/significant_delays_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/6dd6d452-a2ce-4739-86d8-daeda7fff814",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "9abeb9dd-2e6d-429a-a4e3-d1557c1a5375",
