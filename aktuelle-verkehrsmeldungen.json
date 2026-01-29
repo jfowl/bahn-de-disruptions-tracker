@@ -129,6 +129,122 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "ae3587c0-87d1-4535-841b-b0440fd97bce",
+      "disruptionId": "f77f747d-6e3a-45cd-b823-206b81409908",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "⚠️ Information für alle Linien",
+      "summary": "Aktuell kommt es auf allen Linien zu Verspätungen und Zügen die schon vor ihrem eigentlichen Ziel wenden müssen.",
+      "text": "<p>Unsere Linien fahren aktuell wie folgt:</p><p><strong>🟢 Linie S1:</strong></p><p>Wedel / Blankenese &lt;&gt; Hamburg Airport (alle 10 Minuten)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel (Pendelbetrieb)</p><p><strong>🔴 Linie S2:</strong></p><p>Die Linie S2 entfällt aktuell.</p><p><strong>🟣 Linie S3:</strong></p><p>Neugraben &lt;&gt; Pinneberg (abweichende Wendungen in Harburg Rathaus möglich)</p><p><strong>🔵 Linie S5:</strong></p><p>Stade / Buxtehude &lt;&gt; Elbgaustraße</p><p><strong>🟠 Linie S7:</strong></p><p>Aumühle/Bergedorf &lt;&gt; Altona</p><p></p><p>🔊 Bitte achten Sie auf die Ansagen unseres Personals in den Zügen oder auf den Bahnsteigen.</p><p>ℹ️ Der Grund für die Unannehmlichkeiten ist ein vorangegangener Polizeieinsatz am Hauptbahnhof.</p>",
+      "durationBegin": "29.01.2026",
+      "durationEnd": "29.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/f77f747d-6e3a-45cd-b823-206b81409908",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.01.2026 16:22",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ae3587c0-87d1-4535-841b-b0440fd97bce",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
+    },
+    {
+      "id": "89cd6db9-9082-478b-89d3-637f2b797ab4",
+      "disruptionId": "bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Verkehrsmeldung für Mecklenburg-Vorpommern und Berlin/Brandenburg ",
+      "summary": "bis Freitag, 30.01.2026  ",
+      "text": "<p>Wegen des anhaltenden Winterwetters kann es auf den Linien der RE3 und RE30 noch zu vereinzelten Verspätungen und Zugausfällen kommen.</p><p></p><p></p><p></p><p></p><p><strong>RE3 Stralsund - Greifswald/Schwedt (Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg</strong></p><p><strong>RE30 Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><p></p><p>Auch die Ersatzverkehre mit Bussen sind von der Witterung betroffen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "27.01.2026",
+      "durationEnd": "30.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.01.2026 16:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/89cd6db9-9082-478b-89d3-637f2b797ab4",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_weather_storm"
+    },
+    {
       "id": "42346f5d-1bf1-405d-abc8-b10fd3cc38b8",
       "disruptionId": "b09f4da5-93bd-4611-b5f2-8b91553e469c",
       "author": "FERNVERKEHR_AG",
@@ -429,14 +545,14 @@
       },
       "headline": "S3 Lochhausen - Olching: Reparatur an der Strecke",
       "summary": "Die S-Bahnen fahren zwischen Lochhausen und Olching bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es in beide Richtungen teilweise zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p>Die S-Bahnen des 10-Minuten Taktes am Nachmittag verkehren nur zwischen <strong>Deisenhofen/Ostbahnhof</strong> und ↔ <strong>Pasing</strong> und entfallen mit folgenden Ausnahmen auf dem Abschnitt <strong>Pasing</strong> ↔ <strong>Maisach</strong>.</p><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li></ul><p>Die oben genannten S-Bahnen verkehren auf dem <strong>gesamten </strong>Laufweg.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Strecke zwischen Lochhausen und Olching.</p>",
+      "text": "<p>Die S-Bahnen des 10-Minuten Taktes am Nachmittag verkehren nur zwischen <strong>Deisenhofen/Ostbahnhof</strong> und ↔ <strong>Pasing</strong> und entfallen mit folgenden Ausnahmen auf dem Abschnitt <strong>Pasing</strong> ↔ <strong>Maisach</strong>.</p><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li></ul><p>Die oben genannten S-Bahnen verkehren auf dem <strong>gesamten </strong>Laufweg.</p><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Strecke zwischen Lochhausen und Olching.</p>",
       "durationBegin": "29.01.2026",
       "durationEnd": "29.01.2026",
       "mapHref": "https://karte.bahn.de/detail/57004d72-5322-4c86-9d60-572cd1b0da22",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/c60f0841-83da-4933-bb9c-139a47b051d6reisendenkarte_20260129-095146.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/c60f0841-83da-4933-bb9c-139a47b051d6reisendenkarte_20260129-095146.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/69ebc55b-654f-49bc-91e5-e595f54e837creisendenkarte_20260129-095146.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/69ebc55b-654f-49bc-91e5-e595f54e837creisendenkarte_20260129-095146.png",
           "info": "",
           "alt": "Reisendenkarte 29.01.2026 09:51:46",
           "openInNewTab": true
@@ -457,7 +573,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.01.2026 15:23",
+      "lastModified": "29.01.2026 16:01",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
