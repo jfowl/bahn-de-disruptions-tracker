@@ -246,61 +246,48 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_weather_storm"
     },
     {
-      "id": "fd088b63-9149-4a57-b062-a67827893a58",
-      "disruptionId": "35f537fc-6a74-492e-8bb2-2d310ae117d0",
-      "author": "S_BAHN_RM",
+      "id": "086625b7-7c45-4043-a246-eaa82ac5f796",
+      "disruptionId": "1a50cfb1-e7c9-4c56-b6c5-dedc7b5a51f6",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
       },
-      "headline": "Verspätungen, Teil- sowie Zugausfälle zwischen Frankfurt-Höchst - Flörsheim(Main) - Hochheim(Main) - Mainz-Kastel / Mainz Hbf",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich in die Nacht vom 28./29. Januar.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 15 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 30 Minuten möglich.</li><li>Es kann auch zu Teil- und Zugausfällen kommen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "27.01.2026",
-      "durationEnd": "29.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/35f537fc-6a74-492e-8bb2-2d310ae117d0",
+      "headline": "Beeinträchtigungen zwischen Köthen und Magdeburg",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Köthen und Magdeburg kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Leipzig - Halle (Saale) - Magdeburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/1a50cfb1-e7c9-4c56-b6c5-dedc7b5a51f6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/b0cbd01d-2642-4dc0-892f-9d77fd33213breisendenkarte_20260127-180959.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-01-28/b0cbd01d-2642-4dc0-892f-9d77fd33213breisendenkarte_20260127-180959.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-29/d1535bf7-dc8a-416c-b741-8ad72f3f2228reisendenkarte_20260129-053001.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-29/d1535bf7-dc8a-416c-b741-8ad72f3f2228reisendenkarte_20260129-053001.png",
           "info": "",
-          "alt": "Reisendenkarte 27.01.2026 18:09:59",
+          "alt": "Reisendenkarte 29.01.2026 05:30:01",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN",
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HE",
-        "RP"
+        "ST",
+        "SN"
       ],
       "lines": [
         {
-          "name": "RE 14",
-          "filterName": "RE 14",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "28.01.2026 20:46",
+      "lastModified": "29.01.2026 05:34",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fd088b63-9149-4a57-b062-a67827893a58",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/086625b7-7c45-4043-a246-eaa82ac5f796",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_other_cause"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -556,18 +543,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S7  Höllriegelskreuth - Wolfratshausen: Reparatur an einem Signal",
-      "summary": " Signalstörung in Baierbrunn bestehet weiterhin.",
-      "text": "<p>Allerdings es kommt jetzt nur noch zu Verspätungen von 10 bis 20 Minuten. Ersatzverkehr mit Großraumtaxis wird um 23:30 Uhr eingestellt.</p><p><strong>Hinweis:</strong></p><p>Bitte beachten Sie, dass es aufgrund von <strong>Bauarbeiten</strong> von<strong> 21:50 bis 2:20 Uhr </strong>auf der Linie <strong>S7</strong> <strong>zwischen Hauptbahnhof und Wolfratshausen zu Fahrplanänderungen</strong> kommt. Die Züge verkehren in diesem Abschnitt <strong>im 40-Minuten-Takt.</strong></p><p>Die Reparatur an einem Signal im Bereich des Bahnhofs Baierbrunn dauert weiterhin an.</p>",
+      "headline": "S7  Ebenhausen-Schäftlarn - Wolfratshausen: Reparatur an einem Signal",
+      "summary": "❗Aktuell haben wir Signalstörung zwischen  Ebenhausen und Wolfratshausen. ❗",
+      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit. Daher kommt es zu Verspätungen und Teilausfällen.</p><p>Ab folgenden S-Bahnen verkehrt die <strong>S 7</strong> <strong>abwechselnd im 40-Minuten Takt </strong>von/nach <strong>Wolfratshausen bzw. Baierbrunn</strong>:</p><h5><strong>München Hbf Gl.27-36 – Wolfratshausen</strong></h5><ul><li>München Hauptbahnhof Abfahrt 04:54 Uhr → Wolfratshausen Ankunft 05:34 Uhr</li><li>München Hauptbahnhof Abfahrt 05:14 Uhr → Baierbrunn Ankunft 05:39 Uhr</li></ul><p>Die S20 verkehrt auf dem Regelweg.</p><p>Der Grund hierfür ist eine erneute Reparatur an einem Signal .</p>",
       "durationBegin": "28.01.2026",
       "durationEnd": "29.01.2026",
       "mapHref": "https://karte.bahn.de/detail/8326bccf-574f-4542-8f21-055f06d0714d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/f2ded307-fabd-4b8a-afe1-3927089104abreisendenkarte_20260129-003235.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/f2ded307-fabd-4b8a-afe1-3927089104abreisendenkarte_20260129-003235.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/915a23d0-6b87-4349-ae28-6ed3dd808404reisendenkarte_20260129-052616.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/915a23d0-6b87-4349-ae28-6ed3dd808404reisendenkarte_20260129-052616.png",
           "info": "",
-          "alt": "Reisendenkarte 29.01.2026 00:32:35",
+          "alt": "Reisendenkarte 29.01.2026 05:26:16",
           "openInNewTab": true
         }
       ],
@@ -586,7 +573,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.01.2026 00:34",
+      "lastModified": "29.01.2026 05:34",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -900,94 +887,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "7eb588db-47b9-4d5c-b40d-05dfb9d1a4ff",
-      "disruptionId": "24f091a8-4384-439e-8952-581ccd7eee49",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten vom 13. 01. bis 13.02.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es zwischen Moosach/Heimeranplatz/Pasing und Trudering/Ostbahnhof zu Änderungen im Fahrplan. Die Änderungen betreffen die Nächte vom 13. Januar bis 13. Februar 2026 und gelten jeweils von 22:20 Uhr abends bis 5:00 Uhr morgens.",
-      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><ul><li>Nächte Montag/Dienstag, 26./27. bis Donnerstag/Freitag, 29./30.1.2026</li><li>Nächte Mittwoch/Donnerstag, 4./5. und Donnerstag/Freitag, 5./6.2.2026</li><li>Nächte Montag/Dienstag, 9./10. bis Donnerstag/Freitag, 12./13.2.2026</li></ul><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>Ersatzverkehr:</p><ul><li><strong>Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></li></ul><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2:</p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p>‼️Ersatzverkehr:</p><p><strong>+++ Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p><strong>+++ Bitte beachten Sie den Fahrplan. Die Haltestellen des Ersatzverkehrs finden Sie im Anhang.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "13.01.2026",
-      "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/24f091a8-4384-439e-8952-581ccd7eee49",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/650fb8bf-cf81-4e77-9711-0d4e2fe77810reisendenkarte_20251222-092728.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/650fb8bf-cf81-4e77-9711-0d4e2fe77810reisendenkarte_20251222-092728.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.12.2025 09:27:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/a298ad61-d419-4406-9ac7-bcb47f73a9f9Fpl%252BTSP%252BML%252BS%252B1-S%252B8%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "ML+S+1-S+8+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-28/6028a184-cbac-4b81-8051-3d29a4a1875eFpl%252BSEV%252BMMDN-MP%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "MMDN-MP+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.01.2026 20:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7eb588db-47b9-4d5c-b40d-05dfb9d1a4ff",
-      "magnoliaPath": "/aktuell/bayern/additional_service_construction0"
-    },
-    {
       "id": "6fbcf397-85f0-493d-b095-7f8611b79d44",
       "disruptionId": "0f6a09ce-827f-403e-b207-0a6c332e00a7",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1210,6 +1109,50 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c7381592-62f3-4251-974f-9dd13116ab05",
       "magnoliaPath": "/aktuell/hessen/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "257b9263-2897-4b13-acbf-fd330cfad227",
+      "disruptionId": "8ee740e2-efe5-4384-9900-63d49e9ff447",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Erfurt Hbf  ⇄ Weimar  - Frühere Abfahrt in Erfurt ",
+      "summary": "📅 Sonntag, 22.02.2026, 04:00 Uhr bis Sonntag, 22.02.2026, 04:50 Uhr",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RE 3 Erfurt – Gera – Altenburg/Greiz</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug RE 3949 fährt in Erfurt 25 min früher ab. </p><p>✅ Änderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "22.02.2026",
+      "durationEnd": "22.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/8ee740e2-efe5-4384-9900-63d49e9ff447",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-29/4ffb2f5e-8268-412e-844d-15e8388a6e84reisendenkarte_20260129-040450.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-29/4ffb2f5e-8268-412e-844d-15e8388a6e84reisendenkarte_20260129-040450.png",
+          "info": "",
+          "alt": "Reisendenkarte 29.01.2026 04:04:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.01.2026 04:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/257b9263-2897-4b13-acbf-fd330cfad227",
+      "magnoliaPath": "/aktuell/suedost/other_effect_construction"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
