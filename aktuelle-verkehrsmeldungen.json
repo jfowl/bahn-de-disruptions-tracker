@@ -69,6 +69,51 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
+      "id": "42346f5d-1bf1-405d-abc8-b10fd3cc38b8",
+      "disruptionId": "b09f4da5-93bd-4611-b5f2-8b91553e469c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Waren(Müritz) und Rostock",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Waren(Müritz) und Rostock zu Beeinträchtigungen und Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Berlin - Neustrelitz - Rostock - Warnemünde</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/b09f4da5-93bd-4611-b5f2-8b91553e469c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-30/b120a99a-9b88-4014-b12d-c832cc5158ccreisendenkarte_20260128-110306.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-30/b120a99a-9b88-4014-b12d-c832cc5158ccreisendenkarte_20260128-110306.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.01.2026 11:03:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.01.2026 01:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/42346f5d-1bf1-405d-abc8-b10fd3cc38b8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter0"
+    },
+    {
       "id": "89cd6db9-9082-478b-89d3-637f2b797ab4",
       "disruptionId": "bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
       "author": "REGIO_NORDOST",
@@ -124,51 +169,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/89cd6db9-9082-478b-89d3-637f2b797ab4",
       "magnoliaPath": "/aktuell/nordost/reduced_service_weather_storm"
-    },
-    {
-      "id": "42346f5d-1bf1-405d-abc8-b10fd3cc38b8",
-      "disruptionId": "b09f4da5-93bd-4611-b5f2-8b91553e469c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Waren(Müritz) und Rostock",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Waren(Müritz) und Rostock zu Beeinträchtigungen und Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Berlin - Neustrelitz - Rostock - Warnemünde</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/b09f4da5-93bd-4611-b5f2-8b91553e469c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-28/27174876-4703-463a-937d-0ba97e83619dreisendenkarte_20260128-110306.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-28/27174876-4703-463a-937d-0ba97e83619dreisendenkarte_20260128-110306.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.01.2026 11:03:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.01.2026 11:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/42346f5d-1bf1-405d-abc8-b10fd3cc38b8",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -466,16 +466,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigungen in Karlsruhe Hbf",
-      "summary": "Der Bahnhof Karlsruhe Hbf ist weiterhin beeinträchtigt.  Der Grund ist eine Reparatur an der Oberleitung. Zwischen Bahnhof Karlsruhe und Ettlingen besteht eine eingeschränkte Gleisverfügbarkeit. In der Folge kommt es zu Verspätungen und kurzfristigen Teilausfällen. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "headline": "Beeinträchtigungen in Karlsruhe Hbf beendet",
+      "summary": "Die Reparatur an der Oberleitung im Bahnhof Karlsruhe Hbf ist behoben.  Die Züge können den Bahnhof Karlsruhe Hbf wieder uneingeschränkt anfahren. Der Zugverkehr zwischen Karlsruhe -  Ettlingen ist nicht mehr beeinträchtigt.",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RE 2 (Karlsruhe – Konstanz) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "29.01.2026",
       "durationEnd": "30.01.2026",
       "mapHref": "https://karte.bahn.de/detail/b8243633-dcf2-406f-a610-84f391c1be82",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-29/dc5108c7-546d-4f85-8189-eddb12c19674reisendenkarte_20260129-201300.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-29/dc5108c7-546d-4f85-8189-eddb12c19674reisendenkarte_20260129-201300.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-30/68e0940d-49a9-4efe-ab9b-ae3305ac5737reisendenkarte_20260129-201300.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-30/68e0940d-49a9-4efe-ab9b-ae3305ac5737reisendenkarte_20260129-201300.png",
           "info": "",
           "alt": "Reisendenkarte 29.01.2026 20:13:00",
           "openInNewTab": true
@@ -501,7 +501,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "29.01.2026 23:45",
+      "lastModified": "30.01.2026 03:32",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -516,16 +516,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S7  Ebenhausen-Schäftlarn - Wolfratshausen: Reparatur an einem Signal und Reparatur einer Weiche.",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Baierbrunn verkehren die Züge mit verminderter Geschwindigkeit.",
-      "text": "<p></p><p>Daher kommt es zu Verspätungen von 10 bis 15 Minuten und zu Teilausfällen.</p><p>Die S-Bahnen der Linie S 7 fahren abwechselnd im 40-Minuten Takt von/nach Wolfratshausen bzw. Baierbrunn.</p><p><strong>Ab folgenden S-Bahnen verkehren die S-Bahnen gemäß Baustellenfahrplan im 40-Minuten-Takt. zwischen Höllriegelskreuth und Wolfratshausen:</strong></p><ul><li>S7 Abfahrt Hauptbahnhof 20:34 Uhr → Abfahrt Baierbrunn 21:00 Uhr → Ankunft Wolfratshausen 21:14 Uhr</li><li>S7 Abfahrt Wolfratshausen 21:03 Uhr → Abfahrt Baierbrunn 21:20 Uhr → Ankunft Hauptbahnhof 21:48 Uhr</li></ul><p><strong>Die S7 verkehrt gemäß Baustellenfahrplan weitestgehend in folgendem Takt:</strong></p><ul><li>Zwischen Hauptbahnhof und Harras im 20-Minuten-Takt</li><li>Zwischen Harras und Höllriegelskreuth im 60-Minuten-Takt hier besteht ergänzend Ersatzverkehr mit Bussen</li><li>Zwischen Höllriegelskreuth und Wolfratshausen im 40-Minuten-Takt</li></ul><h5></h5><p>Den genauen Baustellenfahrplan entnehmen Sie dem Anhang.</p><p>Der Grund hierfür ist eine erneute Reparatur an einem Signal in Baierbrunn und die Reparatur einer Weiche in Höllriegelskreuth.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p><h5></h5>",
+      "headline": "Endmeldung: S7  Ebenhausen-Schäftlarn - Wolfratshausen",
+      "summary": " Aktuell fährt die S 7 gemäß Baustellenfahrplan.\n",
+      "text": "<p><strong>Die S7 verkehrt gemäß Baustellenfahrplan weitestgehend in folgendem Takt:</strong></p><ul><li><ul><li>Zwischen Hauptbahnhof und Harras im 20-Minuten-Takt</li><li>Zwischen Harras und Höllriegelskreuth im 60-Minuten-Takt hier besteht ergänzend Ersatzverkehr mit Bussen</li><li>Zwischen Höllriegelskreuth und Wolfratshausen im 40-Minuten-Takt</li></ul></li></ul><p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "28.01.2026",
       "durationEnd": "30.01.2026",
       "mapHref": "https://karte.bahn.de/detail/8326bccf-574f-4542-8f21-055f06d0714d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/a024131f-05fd-4756-be0f-20e44ad5ef4breisendenkarte_20260129-052616.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/a024131f-05fd-4756-be0f-20e44ad5ef4breisendenkarte_20260129-052616.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/225d9721-2704-4216-9f8a-d4243fd6ea08reisendenkarte_20260129-052616.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/225d9721-2704-4216-9f8a-d4243fd6ea08reisendenkarte_20260129-052616.png",
           "info": "",
           "alt": "Reisendenkarte 29.01.2026 05:26:16",
           "openInNewTab": true
@@ -533,20 +533,13 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-29/4c025130-2f3b-4ad4-93a9-a00d85e641b1Baustellen-Fahrplan%2BS7%2B29.%2Bauf%2B30.01..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/f7708996-fc97-48b3-a4dc-aebf32cb6243Baustellen-Fahrplan%2BS7%2B29.%2Bauf%2B30.01..pdf",
           "label": "Baustellen-Fahrplan S7 29. auf 30.01..pdf",
           "info": "",
           "openInNewTab": true
         }
       ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen",
-          "label": "S-Bahn-München/Baustellen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
         "SBAHN"
       ],
@@ -560,12 +553,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.01.2026 23:31",
+      "lastModified": "30.01.2026 02:41",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b41fff64-f2d3-4c2b-824e-b4bc369382a7",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
+    },
+    {
+      "id": "247c9ae9-1a7e-4134-a0f3-be34720d7d24",
+      "disruptionId": "a6f0be63-bac6-4392-bb7e-9655a346498a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Lochhausen: Reparatur an der Strecke",
+      "summary": "Zwischen Lochhausen und Olching kommt es in beide Richtungen zu Verspätungen und Teilausfällen. Heute Vormittag verkehren einige Züge der Linie S 3 des 10-Minuten-Takts nur zwischen Pasing ↔ Ostbahnhof/Deisenhofen",
+      "text": "<p>Heute <strong>Vormittag</strong> verkehren folgende Züge der Linie S 3 des 10-Minuten-Takts nur zwischen Pasing ↔ Ostbahnhof/Deisenhofen. Also fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:</p><p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong></p><ul><li>S 3 Maisach Abfahrt 07:20 Uhr → Pasing Ankunft 07:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Pasing Ankunft 07:59 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Pasing Ankunft 08:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Pasing Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Pasing Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Pasing Ankunft 09:19 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Pasing Abfahrt 06:57 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:17 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:37 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:57 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 08:17 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;&nbsp;</li></ul><p>Die S-Bahnen des 10-Minuten Taktes am <strong>Nachmittag</strong> verkehren nur zwischen <strong>Deisenhofen/Ostbahnhof</strong> und ↔ <strong>Pasing</strong> und entfallen mit folgenden <strong>Ausnahmen</strong> auf dem Abschnitt <strong>Pasing</strong> ↔ <strong>Maisach</strong>.</p><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li></ul><p>Die oben genannten S-Bahnen verkehren auf dem <strong>gesamten </strong>Laufweg.</p><p></p><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke</p>",
+      "durationBegin": "30.01.2026",
+      "durationEnd": "30.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/a6f0be63-bac6-4392-bb7e-9655a346498a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/18437ccb-b40d-4bfe-a230-b63deb479718reisendenkarte_20260130-013937.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/18437ccb-b40d-4bfe-a230-b63deb479718reisendenkarte_20260130-013937.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.01.2026 01:39:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.01.2026 01:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/247c9ae9-1a7e-4134-a0f3-be34720d7d24",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
     },
     {
       "id": "a5f09090-847b-4798-a080-916bb53144c4",
