@@ -159,6 +159,50 @@
       "magnoliaPath": "/aktuell/nord/stop_moved_construction"
     },
     {
+      "id": "bcebe063-be03-4619-af75-d46c85a395c4",
+      "disruptionId": "a61161a3-6244-4349-9ef4-e150ce15cac4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Augsburg und Ulm",
+      "summary": "Aufgrund eines defekten Stellwerkes in Günzburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen, Haltausfällen und Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Züge zwischen Augsburg und Ulm verspäten sich in beiden Fahrtrichtungen um etwa 30 Minuten.</li><li>Einzelne Züge werden zwischen Augsburg und Stuttgart umgeleitet und verspäten sich dadurch um etwa 60 Minuten. In diesem Fall entfällt der Halt Ulm Hbf.</li><li>Vereinzelt kommt es auch zu Zugausfällen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/a61161a3-6244-4349-9ef4-e150ce15cac4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-31/ea8b42b0-81cd-4b9c-b483-37c23314c662reisendenkarte_20260131-171329.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-31/ea8b42b0-81cd-4b9c-b483-37c23314c662reisendenkarte_20260131-171329.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.01.2026 17:13:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.01.2026 17:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/bcebe063-be03-4619-af75-d46c85a395c4",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "63aa2a09-8c64-4e6d-99b0-af1ba157d66d",
       "disruptionId": "858c12ea-e01a-4958-badc-481aa38c9b8d",
       "author": "S_BAHN_HH",
@@ -420,6 +464,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "5d2ee959-e1dc-4c93-bc19-b73fd116b127",
+      "disruptionId": "60b3ce28-3a94-4c62-996b-280de31240f5",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen in Stockach ",
+      "summary": "Der Bahnhof Stockach ist derzeit beeinträchtigt. Grund ist ein defektes Stellwerk. Die Störung wird voraussichtlich bis Betriebsschluss bestehen. Es kommt zu Verspätungen und Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>S 61 (Radolfzell – Stockach) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "31.01.2026",
+      "durationEnd": "31.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/60b3ce28-3a94-4c62-996b-280de31240f5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-31/6797cc49-00e5-4c0f-b61f-0bfd1231962ereisendenkarte_20260131-153456.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-31/6797cc49-00e5-4c0f-b61f-0bfd1231962ereisendenkarte_20260131-153456.png",
+          "info": "",
+          "alt": "Reisendenkarte 31.01.2026 15:34:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 61",
+          "filterName": "S 61",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.01.2026 17:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5d2ee959-e1dc-4c93-bc19-b73fd116b127",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -1060,76 +1149,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "005b4f0c-8b66-4864-8fac-060090222db0",
-      "disruptionId": "11626eca-16ef-4658-9f50-47c8b0984c46",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Stammstrecke: Unbefugte Personen auf der Strecke verschwunden",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Folgeverspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Die unbefugte Person auf der Strecke ist verschwunden.</p>",
-      "durationBegin": "31.01.2026",
-      "durationEnd": "31.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/11626eca-16ef-4658-9f50-47c8b0984c46",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-31/1f74e276-4ebf-4e4f-91c1-cb10c70d0252reisendenkarte_20260131-163410.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-31/1f74e276-4ebf-4e4f-91c1-cb10c70d0252reisendenkarte_20260131-163410.png",
-          "info": "",
-          "alt": "Reisendenkarte 31.01.2026 16:34:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.01.2026 16:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/005b4f0c-8b66-4864-8fac-060090222db0",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "257b9263-2897-4b13-acbf-fd330cfad227",
