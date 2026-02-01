@@ -253,18 +253,25 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 2 Obermenzing ↔ Untermenzing: Unbefugte Personen auf der Strecke",
-      "summary": "Zwischen Obermenzing und Untermenzing sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit Verspätungen von 15 bis 20 Minuten und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "Endmeldung: S 2 Allach ↔ Isartor",
+      "summary": "Die Züge können wieder zwischen Allach und Isartor fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und vereinzelten Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
       "durationBegin": "01.02.2026",
       "durationEnd": "01.02.2026",
       "mapHref": "https://karte.bahn.de/detail/d348f868-c013-4c84-9720-c95976a5feb1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/e15a5093-971a-4d6a-a408-fc8719a68a61reisendenkarte_20260201-074630.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/e15a5093-971a-4d6a-a408-fc8719a68a61reisendenkarte_20260201-074630.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/0fdb230c-d5ba-4520-a8ad-050c681768f4reisendenkarte_20260201-074630.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/0fdb230c-d5ba-4520-a8ad-050c681768f4reisendenkarte_20260201-074630.png",
           "info": "",
           "alt": "Reisendenkarte 01.02.2026 07:46:30",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/8f599fe0-3491-4da9-9633-42f56c1ad0a9reisendenkarte_20260201-080043.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/8f599fe0-3491-4da9-9633-42f56c1ad0a9reisendenkarte_20260201-080043.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.02.2026 08:00:43",
           "openInNewTab": true
         }
       ],
@@ -283,7 +290,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.02.2026 07:48",
+      "lastModified": "01.02.2026 08:30",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -638,6 +645,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "7bee0c8b-7473-4529-ab05-b4d596158cdf",
+      "disruptionId": "398e8a80-ad2b-4ab7-aaff-c39f0a12ce17",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Mammendorf: Reparatur an der Strecke",
+      "summary": "Es kann zu Verspätungen bis zu 10 Minuten und Teilausfällen kommen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "30.01.2026",
+      "durationEnd": "01.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/398e8a80-ad2b-4ab7-aaff-c39f0a12ce17",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/ba7724af-9d2c-4822-b3fa-2cb7dc029d9creisendenkarte_20260130-235037.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/ba7724af-9d2c-4822-b3fa-2cb7dc029d9creisendenkarte_20260130-235037.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.01.2026 23:50:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.02.2026 08:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7bee0c8b-7473-4529-ab05-b4d596158cdf",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
     },
     {
       "id": "4af2c35c-0a00-448f-a3fb-9ff3ab9d1508",
