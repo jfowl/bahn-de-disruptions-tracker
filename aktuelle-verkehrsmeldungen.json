@@ -246,51 +246,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "85e64d1c-1149-4a94-9d32-0ef761f69ce2",
-      "disruptionId": "2d102262-28fc-4388-b2b0-f37bb2d6511b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "S 2 Erding: Gegenstände auf der Strecke",
-      "summary": "Aktuell ist leider kein Zugverkehr zwischen Markt Schwaben und Erding möglich.",
-      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Bitte nutzen Sie den Ersatzverkehr zwischen Markt Schwaben und Erding.</p><p>Der Grund dafür sind Gegenstände auf der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber Informieren.</p>",
-      "durationBegin": "01.02.2026",
-      "durationEnd": "01.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/2d102262-28fc-4388-b2b0-f37bb2d6511b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/b854d547-37c1-4499-af18-18348b9d5ba8reisendenkarte_20260201-210410.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/b854d547-37c1-4499-af18-18348b9d5ba8reisendenkarte_20260201-210410.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.02.2026 21:04:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.02.2026 21:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/85e64d1c-1149-4a94-9d32-0ef761f69ce2",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section11"
-    },
-    {
       "id": "2d65902d-f988-4853-8cee-b1860fc1bf92",
       "disruptionId": "9c633f61-a763-436b-b066-71026e6946ad",
       "author": "S_BAHN_MUC",
@@ -638,6 +593,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "85e64d1c-1149-4a94-9d32-0ef761f69ce2",
+      "disruptionId": "2d102262-28fc-4388-b2b0-f37bb2d6511b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S 2 Erding: Gegenstände auf der Strecke beendet",
+      "summary": "Der Zugverkehr zwischen Markt Schwaben und Erding ist wieder möglich.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür waren Gegenstände auf der Strecke.</p>",
+      "durationBegin": "01.02.2026",
+      "durationEnd": "01.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/2d102262-28fc-4388-b2b0-f37bb2d6511b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/f26d4bd0-34aa-4eb1-be39-a5cade33bc5freisendenkarte_20260201-213700.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/f26d4bd0-34aa-4eb1-be39-a5cade33bc5freisendenkarte_20260201-213700.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.02.2026 21:37:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.02.2026 21:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/85e64d1c-1149-4a94-9d32-0ef761f69ce2",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section11"
     },
     {
       "id": "7bee0c8b-7473-4529-ab05-b4d596158cdf",
