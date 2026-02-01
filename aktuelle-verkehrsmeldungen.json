@@ -246,6 +246,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "2abb8d1f-66ec-4874-9a01-206e4639ffdd",
+      "disruptionId": "d348f868-c013-4c84-9720-c95976a5feb1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 2 Obermenzing ↔ Untermenzing: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Obermenzing und Untermenzing sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit Verspätungen von 15 bis 20 Minuten und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "01.02.2026",
+      "durationEnd": "01.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/d348f868-c013-4c84-9720-c95976a5feb1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/e15a5093-971a-4d6a-a408-fc8719a68a61reisendenkarte_20260201-074630.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-01/e15a5093-971a-4d6a-a408-fc8719a68a61reisendenkarte_20260201-074630.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.02.2026 07:46:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.02.2026 07:48",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2abb8d1f-66ec-4874-9a01-206e4639ffdd",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section10"
+    },
+    {
       "id": "2d65902d-f988-4853-8cee-b1860fc1bf92",
       "disruptionId": "9c633f61-a763-436b-b066-71026e6946ad",
       "author": "S_BAHN_MUC",
@@ -418,6 +463,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "85827e82-1d7c-4ba4-91a0-c5a842caf18c",
+      "disruptionId": "ac1c3986-d6a4-4105-aa13-f62cdc53b896",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Vorabinformation: MVG wird am Montag bestreikt",
+      "summary": "Die Gewerkschaft Verdi hat für Montag, den 2. Februar 2026, zu einem ganztägigen Warnstreik aufgerufen. \n\nBetroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199.\n\nStreikbeginn ist am Montag, 3:30 Uhr, Ende am Dienstag, 3:30 Uhr.\n\nBitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.\n\n!!! Achtung: Die Nachtlinien fahren in der Nacht von Sonntag auf Montag nur bis 2:30 Uhr und rücken dann ein.\n\nHINWEIS:\nIn der Verbindungsauskunft finden Sie im Streikfall alle aktuellen Infos der MVG, die bekannt sind: \n\nunter \"Aktuelle Störungen“ auf mvg.de \nunter \"Störungen\" in der App MVGO ",
+      "text": "<p></p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong></p><p><strong>Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann. </strong></p>",
+      "durationBegin": "01.02.2026",
+      "durationEnd": "01.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/ac1c3986-d6a4-4105-aa13-f62cdc53b896",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.mvg.de/",
+          "label": "MVG",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.mvg.de/news/streik.html",
+          "label": "MVG",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.02.2026 08:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/85827e82-1d7c-4ba4-91a0-c5a842caf18c",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_strike"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -630,51 +765,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4af2c35c-0a00-448f-a3fb-9ff3ab9d1508",
       "magnoliaPath": "/aktuell/bayern/impairment_construction1"
-    },
-    {
-      "id": "7bee0c8b-7473-4529-ab05-b4d596158cdf",
-      "disruptionId": "398e8a80-ad2b-4ab7-aaff-c39f0a12ce17",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 3 Mammendorf: Reparatur an der Strecke",
-      "summary": "Es kann zu Verspätungen bis zu 10 Minuten und Teilausfällen kommen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "30.01.2026",
-      "durationEnd": "01.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/398e8a80-ad2b-4ab7-aaff-c39f0a12ce17",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-31/84288ef2-0808-4a38-90be-904e0df2fe09reisendenkarte_20260130-235037.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-31/84288ef2-0808-4a38-90be-904e0df2fe09reisendenkarte_20260130-235037.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.01.2026 23:50:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.01.2026 22:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7bee0c8b-7473-4529-ab05-b4d596158cdf",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
