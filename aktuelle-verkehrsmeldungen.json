@@ -2,6 +2,49 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "b4972bde-ec42-46a5-add8-b639c947b0a2",
+      "disruptionId": "1d9a21fc-5364-4d68-a759-a4f9b7d2dff4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S2, S7: Aktuell fährt keine S2, S7 zwischen Berliner Tor und Billwerder-Moorfleet. Grund: Feuerwehreinsatz. ",
+      "summary": "Ein Ersatzverkehr mit Taxis wird eingerichtet..",
+      "text": "<p> </p>",
+      "durationBegin": "02.02.2026",
+      "durationEnd": "02.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1d9a21fc-5364-4d68-a759-a4f9b7d2dff4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.02.2026 16:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b4972bde-ec42-46a5-add8-b639c947b0a2",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_medical_emergency"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -149,48 +192,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "b4972bde-ec42-46a5-add8-b639c947b0a2",
-      "disruptionId": "1d9a21fc-5364-4d68-a759-a4f9b7d2dff4",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "S2, S7: Aktuell fährt keine S2, S7 zwischen Berliner Tor und Billwerder-Moorfleet. Grund: Feuerwehreinsatz.",
-      "summary": "Bitte nutzen Sie alternativ Ein Ersatzverkehr mit Taxis ist eingerichtet..",
-      "text": "<p> </p>",
-      "durationBegin": "02.02.2026",
-      "durationEnd": "02.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/1d9a21fc-5364-4d68-a759-a4f9b7d2dff4",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.02.2026 15:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b4972bde-ec42-46a5-add8-b639c947b0a2",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_medical_emergency"
     },
     {
       "id": "841299d1-b1c3-468e-bd42-5aec15187c15",
@@ -456,15 +457,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 5 Hohenbrunn: Reparatur an einem Signal",
-      "summary": "Im Bereich Hohenbrunn kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "summary": "Im Bereich Hohenbrunn kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "02.02.2026",
       "durationEnd": "02.02.2026",
       "mapHref": "https://karte.bahn.de/detail/bd2dbf57-a5cd-48ad-b62c-bf36c5715e92",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-02/2ff0df23-7cda-48ef-8e94-87b6edd78fbereisendenkarte_20260202-154304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-02/2ff0df23-7cda-48ef-8e94-87b6edd78fbereisendenkarte_20260202-154304.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-02/4ce7f114-794e-4490-86bb-c2c7658afb1creisendenkarte_20260202-154304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-02/4ce7f114-794e-4490-86bb-c2c7658afb1creisendenkarte_20260202-154304.png",
           "info": "",
           "alt": "Reisendenkarte 02.02.2026 15:43:04",
           "openInNewTab": true
@@ -485,7 +486,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.02.2026 15:44",
+      "lastModified": "02.02.2026 16:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
