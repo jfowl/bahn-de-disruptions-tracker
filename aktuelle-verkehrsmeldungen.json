@@ -401,12 +401,12 @@
       "summary": "Die Linie RE 20 von Magdeburg Hbf bis Schönebeck-Bad Salzelmen ist beeinträchtigt. Dauer der Beeinträchtigung vom 17.12.2025 bis vsl. 23.02.2026. Beeinträchtigung der Gleisanlage",
       "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Beeinträchtigung der Gleisanlage</p><p>❌&nbsp;<strong>Einschränkungen: </strong></p><ul><li>Um Folgeverspätungen zu reduzieren und den übrigen Zugverkehr zu stabilisieren, fährt die Linie RE 20 vorübergehend nicht durchgehend.</li><li>Die Züge der Linie <strong>RE 20 </strong>entfallen im Abschnitt zwischen <strong>Magdeburg Hbf</strong> und <strong>Schönebeck-Bad Salzelmen</strong>.</li></ul><p>↪️&nbsp;<strong>Alternative:</strong> Nutzen Sie bitte S1 oder RB41 zwischen Schönebeck-Bad Salzelmen und Magdeburg Hbf. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
       "durationBegin": "17.12.2025",
-      "durationEnd": "23.02.2026",
+      "durationEnd": "24.02.2026",
       "mapHref": "https://karte.bahn.de/detail/a6f1fd33-a9ca-41ab-aaab-7465d230b061",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-03/af1a332c-8a33-4d3d-b320-208b37942b3creisendenkarte_20251217-022554.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-03/af1a332c-8a33-4d3d-b320-208b37942b3creisendenkarte_20251217-022554.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-03/3dce12ae-2cad-46af-bbcf-4aa5a6c3498areisendenkarte_20251217-022554.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-03/3dce12ae-2cad-46af-bbcf-4aa5a6c3498areisendenkarte_20251217-022554.png",
           "info": "",
           "alt": "Reisendenkarte 17.12.2025 02:25:54",
           "openInNewTab": true
@@ -427,11 +427,58 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.02.2026 13:16",
+      "lastModified": "03.02.2026 15:43",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50983bb9-fb68-4b04-af50-972b8299525e",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
+      "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Magdeburg Hasselbachplatz - Haltausfall",
+      "summary": "Der Bahnhof Magdeburg Hasselbachplatz  ist im Moment gesperrt. Dauer der Beeinträchtigung bis vsl. 14.12.2026 ganztägig. Der Grund sind Bauarbeiten am Haltepunkt.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>🚧 <strong>Betroffene Station:</strong> Magdeburg Hasselbachplatz  </p><p>ℹ️ <strong>Grund:</strong> Der Grund sind Bauarbeiten am Haltepunkt.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Halt Magdeburg Hasselbachplatz entfällt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "03.02.2026",
+      "durationEnd": "14.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/70d794c3-fc73-4af7-a16a-8a496bf69bcd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.02.2026 15:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
@@ -765,58 +812,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "d3ff2ffd-c6f3-444f-8f9c-d145a8106cdd",
-      "disruptionId": "6cebe6d6-f0f4-47d9-a584-010f48f3ab58",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 5 Neubiberg: Reparatur an einem Signal",
-      "summary": "Die S-Bahnen der S 5 verkehren wieder ohne Beeinträchtigungen auf dem Regelweg.",
-      "text": "<p>Die Reparatur an einem Signal besteht jedoch weiterhin.</p>",
-      "durationBegin": "03.02.2026",
-      "durationEnd": "03.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/6cebe6d6-f0f4-47d9-a584-010f48f3ab58",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/a9f4acae-e145-47e4-94ff-94384e10327dreisendenkarte_20260203-102835.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/a9f4acae-e145-47e4-94ff-94384e10327dreisendenkarte_20260203-102835.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.02.2026 10:28:35",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/4e63daa4-b176-4e59-a152-5837f172c78freisendenkarte_20260203-105735.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/4e63daa4-b176-4e59-a152-5837f172c78freisendenkarte_20260203-105735.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.02.2026 10:57:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.02.2026 14:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d3ff2ffd-c6f3-444f-8f9c-d145a8106cdd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
