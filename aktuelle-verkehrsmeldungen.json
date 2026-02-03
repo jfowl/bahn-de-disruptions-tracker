@@ -2,57 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "d2df2bd7-e130-4145-80cf-2d070a1d37da",
-      "disruptionId": "8aa1b649-8834-4c7a-9574-02184728c3e0",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚍 Busse statt S-Bahn Neugraben - Wilhelmsburg",
-      "summary": "Freitag, 06. Februar (23 Uhr) bis Sonntag, 08. Februar (Betriebsende) fahren  zwischen Neugraben und Wilhemsburg Busse statt S-Bahnen. Betroffen sind die Linien 🟣 S3 und 🔵 S5.",
-      "text": "<p>Fahrgäste die auf der Strecke von Stade/ Buxtehude bis Harburg verkehren, sind schneller mit dem RE5, es erfolgt ein zusätzlicher Halt in Neugraben.</p><p>Zwischen Hauptbahnhof und Harburg fahren RE3, RE4, RB31, RB41.</p><p>Die Fahrzeit kann sich um bis zu 20 Minuten verlängern.</p><p></p>",
-      "durationBegin": "03.02.2026",
-      "durationEnd": "09.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/8aa1b649-8834-4c7a-9574-02184728c3e0",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-02-03/3026adfa-c132-4263-a39c-e352bc58c4cd745_26_Neugraben-Wilhelmsburg.pdf",
-          "label": "Stationsaushang",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.02.2026 13:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d2df2bd7-e130-4145-80cf-2d070a1d37da",
-      "magnoliaPath": "/aktuell/nord/additional_service_construction0"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -320,6 +269,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "55efeb50-7093-4107-928a-28a8a6ca34b6",
+      "disruptionId": "262ff307-a747-41cc-9b3c-b35d26c18181",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S 5 Kreuzstraße",
+      "summary": "Die Züge können wieder im Bereich Kreuzstraße fahren.",
+      "text": "<p>Es kommt noch zu vereinzelten Folgeverspätungen.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "03.02.2026",
+      "durationEnd": "03.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/262ff307-a747-41cc-9b3c-b35d26c18181",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/8e75aa8e-4424-4670-983c-deb4e4b2e71breisendenkarte_20260203-165635.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-03/8e75aa8e-4424-4670-983c-deb4e4b2e71breisendenkarte_20260203-165635.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.02.2026 16:56:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.02.2026 17:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/55efeb50-7093-4107-928a-28a8a6ca34b6",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
