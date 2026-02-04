@@ -156,6 +156,44 @@
       "magnoliaPath": "/aktuell/nordost/additional_service_construction4"
     },
     {
+      "id": "e05a5e6d-6a79-400e-a9ca-52ae10151dd3",
+      "disruptionId": "7a659f1a-204a-47fc-8f68-dcb00799c64b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S7: Aktuell fährt keine S7 zwischen Bergedorf und Aumühle. Grund: Notarzteinsatz auf der Strecke. ",
+      "summary": "Bitte nutzen Sie alternativ die Linienbusse. ",
+      "text": "<strong>Fahrtrichtung Aumühle</strong><p><strong>Bergedorf --&gt; Reinbek</strong></p><ul><li>Bus 136 --&gt; Richtung \"S Reinbek\" von der Station \"Bf. Bergedorf\" bis zur Station \"S Reinbek\"</li></ul><p><strong>Bergedorf --&gt; Aumühle</strong></p><ul><li>Bus 136 --&gt; Richtung \"S Reinbek\" von der Station \"Bf. Bergedorf\" bis zur Station \"S Reinbek\", dort Umstieg in Bus 237 Richtung \"S Aumühle\" bis zur Station \"S Aumühle\"</li></ul><p></p><strong>Fahrtrichtung Bergedorf</strong><p><strong>Reinbek --&gt; Bergedorf</strong></p><ul><li>Bus 136 --&gt; Richtung \"Bf. Bergedorf\" von der Station \"S Reinbek\" bis zur Station \"Bf. Bergedorf\"</li></ul><p><strong>Aumühle --&gt; Bergedorf</strong></p><ul><li>Bus 237 --&gt; Richtung \"Glinde, Markt\" von der Station \"S Aumühle\" bis zur Station \"S Reinbek\", dort Umstieg in Bus 136 --&gt; Richtung \"Bf. Bergedorf\" bis zur Station \"Bf. Bergedorf\"</li></ul><p></p><p><strong>Bedingt durch Umleitungen, Veranstaltungen oder Baustellen können sich die Fahrtwege einzelner Buslinien ändern. Bitte beachten Sie daher auch die Live-Fahrplanauskunft des Hamburger Verkehrsverbundes unter www.hvv.de/fahrplanauskunft . </strong></p>",
+      "durationBegin": "04.02.2026",
+      "durationEnd": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/7a659f1a-204a-47fc-8f68-dcb00799c64b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.02.2026 15:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e05a5e6d-6a79-400e-a9ca-52ae10151dd3",
+      "magnoliaPath": "/aktuell/nord/no_service_medical_emergency"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -923,6 +961,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "ad947aa9-f872-4a09-b82a-9667f8b183ae",
+      "disruptionId": "1d58b883-48b0-4d79-8b23-523aad931054",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4, S 6 Haar: Reparatur an einem Signal",
+      "summary": "Im Bereich Haar kommt es in Richtung Osten zu Verspätungen von 15 bis 20 Minuten und zu vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "04.02.2026",
+      "durationEnd": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1d58b883-48b0-4d79-8b23-523aad931054",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-04/810d593c-8768-4056-a083-6e4f4009d042reisendenkarte_20260204-154034.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-04/810d593c-8768-4056-a083-6e4f4009d042reisendenkarte_20260204-154034.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.02.2026 15:40:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.02.2026 15:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ad947aa9-f872-4a09-b82a-9667f8b183ae",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
