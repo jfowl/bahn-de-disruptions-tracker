@@ -458,6 +458,49 @@
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
+      "id": "899ddece-871a-4111-9245-708d3a614e0d",
+      "disruptionId": "2f9939d7-ba57-44a7-8adc-8b7dcbaf342a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Emden und Norddeich",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Ostfriesland zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge zwischen Emden und Norddeich fallen in beiden Fahrtrichtungen aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/2f9939d7-ba57-44a7-8adc-8b7dcbaf342a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-04/deb8da7f-8b7d-435a-b73f-a2cd474776bbreisendenkarte_20260204-124942.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-04/deb8da7f-8b7d-435a-b73f-a2cd474776bbreisendenkarte_20260204-124942.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.02.2026 12:49:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.02.2026 12:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/899ddece-871a-4111-9245-708d3a614e0d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
+    },
+    {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
       "disruptionId": "a6f1fd33-a9ca-41ab-aaab-7465d230b061",
       "author": "REGIO_SUEDOST",
@@ -500,6 +543,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50983bb9-fb68-4b04-af50-972b8299525e",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "64c8f048-54c8-4175-8e1e-9b59066bd926",
+      "disruptionId": "19eb7b13-ba68-4b4c-a614-fa510774379b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "Halle Steintorbrücke ⇄ Halle-Trotha - Haltausfälle",
+      "summary": "Die Strecke von Halle Steintorbrücke bis Halle-Trotha ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns leider noch keine Informationen vor. Der Grund ist eine Störung an einem Bahnübergang.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 5/S 5X Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Störung an einem Bahnübergang.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Teilausfällen zwischen Halle Steintorbrücke und Halle-Trotha.</p><p>↪️&nbsp;<strong>Alternative:</strong> Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>",
+      "durationBegin": "04.02.2026",
+      "durationEnd": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/19eb7b13-ba68-4b4c-a614-fa510774379b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-04/ac81e18e-3884-44fd-bc68-bd3349db814dreisendenkarte_20260204-124348.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-02-04/ac81e18e-3884-44fd-bc68-bd3349db814dreisendenkarte_20260204-124348.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.02.2026 12:43:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5X",
+          "filterName": "S 5X Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.02.2026 12:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/64c8f048-54c8-4175-8e1e-9b59066bd926",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
