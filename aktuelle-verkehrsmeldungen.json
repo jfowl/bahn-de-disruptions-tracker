@@ -187,51 +187,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "b5ab53e8-ce7a-42c4-bc3e-51b8fb66523d",
-      "disruptionId": "3217c738-cc75-4e24-9e71-2b955c0898f2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: S 2 Erdweg",
-      "summary": "Im Bereich Erdweg kommt es noch zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der Ersatzverkehr mit einem Bus wird 22:50 Uhr eingestellt.</p><p><strong>+++Bitte beachten Sie zudem die bestehenden Bauarbeiten auf der Stammstrecke +++</strong></p><p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "05.02.2026",
-      "durationEnd": "05.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/3217c738-cc75-4e24-9e71-2b955c0898f2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/0190882d-a3a7-4254-af7d-16aacef1727breisendenkarte_20260205-224543.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/0190882d-a3a7-4254-af7d-16aacef1727breisendenkarte_20260205-224543.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.02.2026 22:45:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.02.2026 22:47",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b5ab53e8-ce7a-42c4-bc3e-51b8fb66523d",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
-    },
-    {
       "id": "2d65902d-f988-4853-8cee-b1860fc1bf92",
       "disruptionId": "9c633f61-a763-436b-b066-71026e6946ad",
       "author": "S_BAHN_MUC",
@@ -1203,6 +1158,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "2d1f6c41-971b-49a9-8489-0355dce1537f",
+      "disruptionId": "8797ed89-2b7c-4993-a0db-41f5ef30c7a5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "⚠️ 🟠 S7: Verzögerungen aufgrund einer technischen Störung am Zug",
+      "summary": "Aktuell kommt es auf der Linie S7 zu Verzögerungen und Abweichungen vom Fahrplan. Die S-Bahnen fahren zwischen Berliner Tor und Billwerder-Moorfleet wechselweise auf nur einem Gleis. Grund: technische Störung am Zug",
+      "text": "<p>Keine weiteren Informationen.</p>",
+      "durationBegin": "05.02.2026",
+      "durationEnd": "06.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/8797ed89-2b7c-4993-a0db-41f5ef30c7a5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.02.2026 23:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2d1f6c41-971b-49a9-8489-0355dce1537f",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_vehicle"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
