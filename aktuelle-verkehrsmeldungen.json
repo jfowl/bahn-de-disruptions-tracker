@@ -61,7 +61,7 @@
       },
       "headline": "Witterungsbedingte Einschränkungen in Berlin/Brandenburg und Mecklenburg-Vorpommern bis vsl. Sonntag 08.02.2026, Betriebsschluss",
       "summary": "Freitag, 06.02.2026 09:00 Uhr bis vsl. Sonntag, 08.02.2026 23:59 Uhr",
-      "text": "<p>Aufgrund der anhaltenden Winterwitterung kommt es zu starken Einschränkungen im Zugverkehr auf vielen Linien in Berlin/Brandenburg und Mecklenburg-Vorpommern (z.B. durch vereiste Oberleitungen).Folgende Linien sind besonders stark betroffen:</p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><ul><li>Ausfall zahlreicher Züge</li><li>Verspätungen bei den noch fahrenden Zügen</li><li>Alternative: Bitte nutzen Sie die Züge des RE3, die jedoch ebenfalls von Verspätungen betroffen sind.</li></ul><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin RE51 Stralsund - Neustrelitz</strong></p><ul><li>zahlreiche Ausfälle und Verspätungen zwischen Stralsund und Neustrelitz</li></ul><p><strong>RE7    Dessau - Bad Belzig – Berlin - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Calau (NL) - Senftenberg</strong></p><ul><li>der Zugverkehr auf der Linie RE7 ist derzeit eingestellt</li><li>im Laufe des Vormittags können vsl. einige Züge zwischen Bad Belzig und Berlin Wannsee wieder fahren</li><li>Alternative: Zwischen Königs Wusterhausen und Lübbenau hält der RE20 auf allen Unterwegsbahnhöfen.</li></ul><p></p><p>Ein Ersatzverkehr mit Bussen kann aufgrund der aktuellen Witterung leider nicht gewährleistet werden.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Aufgrund der anhaltenden Winterwitterung kommt es vsl. noch bis zum Sonntag zu Einschränkungen im Zugverkehr auf vielen Linien in Berlin/Brandenburg und Mecklenburg-Vorpommern (z.B. durch vereiste Oberleitungen).Folgende Linien sind besonders stark betroffen:</p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><ul><li>Ausfall zahlreicher Züge</li><li>Verspätungen bei den noch fahrenden Zügen</li><li>Alternative: Bitte nutzen Sie die Züge des RE3, die jedoch ebenfalls von Verspätungen betroffen sind.</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin RE51 Stralsund - Neustrelitz</strong></p><ul><li>zahlreiche Ausfälle und Verspätungen zwischen Stralsund und Neustrelitz</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE7    Dessau - Bad Belzig – Berlin - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Calau (NL) - Senftenberg</strong></p><ul><li>der Zugverkehr auf der Linie RE7 ist derzeit bis auf wenige Ausnahmen eingestellt</li><li>einige Züge können zwischen Bad Belzig und Berlin wieder fahren</li><li>Alternative: Zwischen Königs Wusterhausen und Lübbenau hält der RE20 auf allen Unterwegsbahnhöfen.</li></ul><p>Leider werden derzeit auf Grund eines technischen Problems in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\" die Zugausfälle und Verspätungen der Linie RE7 nicht korrekt angezeigt. Bitte beachten Sie die zusätzlichen Textmeldungen an den Zügen.</p><p>Ein Ersatzverkehr mit Bussen kann aufgrund der aktuellen Witterung leider nicht gewährleistet werden.</p>",
       "durationBegin": "06.02.2026",
       "durationEnd": "08.02.2026",
       "mapHref": "https://karte.bahn.de/detail/59074b84-1f4b-4535-a344-1bae719199dc",
@@ -111,7 +111,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.02.2026 12:50",
+      "lastModified": "06.02.2026 14:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -136,20 +136,20 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
-          "label": "Fahrplanauskunft hvv",
+          "href": "https://www.bahn.de/",
+          "label": "DB Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/",
-          "label": "DB Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
+          "label": "Fahrplanauskunft hvv",
           "info": "",
           "openInNewTab": true
         }
       ],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH",
@@ -158,12 +158,22 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "06.02.2026 11:17",
+      "lastModified": "06.02.2026 14:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
