@@ -9,20 +9,12 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Berlin und Hannover",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Berlin und Hannover zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ol><li>Die ICE-Linie Berlin - Wolfsburg - Kassel Wilhelmshöhe - Frankfurt(M) - Saarbrücken fällt aus</li><li>Hamburg/Berlin – Hannover – Frankfurt (M) – Frankfurt (M) Flughafen fällt aus</li><li>Ostseebad Binz – Stralsund/Warnemünde – Rostock – Berlin – Leipzig – Jena/Elsterwerda – Dresden – Chemnitz <strong>Ausfall Einzelzüge </strong></li><li>Hamburg – Büchen – Wittenberge/Uelzen – Salzwedel – Stendal – Berlin fällt aus</li><li>Ostseebad Binz – Stralsund – Berlin – Halle (Saale) – Erfurt – Frankfurt (M) – Mannheim – Saarbrücken) fällt zwischen Berlin und Stralsund / Ostseebad Binz aus</li></ol><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Berlin und Hannover / Hamburg",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Berlin und Hannover / Hamburg zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ol><li>Die ICE-Züge Berlin - Wolfsburg - Kassel Wilhelmshöhe - Frankfurt(M) - Saarbrücken fällt aus</li><li>Die ICE-Züge Hamburg/Berlin – Hannover – Frankfurt (M) – Frankfurt (M) Flughafen fällt aus</li><li>Die ICE-Züge Hamburg – Büchen – Wittenberge/Uelzen – Salzwedel – Stendal – Berlin fällt aus</li></ol><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "04.02.2026",
       "mapHref": "https://karte.bahn.de/detail/eb3221e5-b87b-48a5-914f-970897bec7b3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-05/7d33e5e8-ba11-4f47-8c37-02cd9dd9e5c4reisendenkarte_20260204-081050.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-05/7d33e5e8-ba11-4f47-8c37-02cd9dd9e5c4reisendenkarte_20260204-081050.png",
-          "info": "",
-          "alt": "Reisendenkarte 04.02.2026 08:10:50",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -53,7 +45,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.02.2026 08:12",
+      "lastModified": "06.02.2026 14:05",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d8c5bdc3-f77e-4a55-beb7-3277ae7a9837",
@@ -215,6 +207,91 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "60ca29e5-eeb0-4d02-a681-de6aeedec4bc",
+      "disruptionId": "7395c07c-fa4f-4e3c-814f-13c3a5a61e91",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "⛔ Aufzug in Eidelstedt außer Betrieb",
+      "summary": "Aktuell ist der Aufzug längerfristig außer Betrieb. Bitte nutzen Sie wenn nötig abweichend den 🛗 Aufzug in Stellingen. Dort besteht ein ♿ barrierefreier Übergang zu den Buslinien 22 und 180.",
+      "text": "<p> </p>",
+      "durationBegin": "06.02.2026",
+      "durationEnd": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/7395c07c-fa4f-4e3c-814f-13c3a5a61e91",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.02.2026 14:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/60ca29e5-eeb0-4d02-a681-de6aeedec4bc",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other2"
+    },
+    {
+      "id": "caf49b9e-e546-4581-a2b8-79b46d5d397c",
+      "disruptionId": "1a5eb599-0de7-4e38-9b88-1c09f8961e02",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S-Bahn Mitteldeutschland - CityTunnel Leipzig gesperrt",
+      "summary": "Der CityTunnel Leipzig ist im Zeitraum vom 08.02. – 20.02.2026. Jeweils in den Nachtstunden von 21:00 Uhr bis 05:00 Uhr für den Zugverkehr gesperrt.  Der Grund sind Bauarbeiten.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>S 1</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Leipzig Miltitzer Allee</li><li><strong>S 2</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Bitterfeld - Dessau Hbf/Lutherstadt Wittenberg - Zahna/Jüterbog</li><li><strong>S 3 </strong>Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Böhlen (Leipzig) - Borna - Geithain</li><li><strong>S 4 </strong>Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li><li><strong>S 5/S 5X</strong> Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund sind Bauarbeiten.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kommt zu Fahrtausfällen, Umleitungen sowie frühere/spätere Abfahrtszeiten.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "08.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1a5eb599-0de7-4e38-9b88-1c09f8961e02",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.02.2026 13:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/caf49b9e-e546-4581-a2b8-79b46d5d397c",
+      "magnoliaPath": "/aktuell/suedost/additional_service_construction"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -259,51 +336,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "b22cbf2d-80f7-4aca-bc9b-a190770adead",
-      "disruptionId": "f76036b6-ad85-4878-856d-d8a7a3137c90",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Endmeldung: S 8 Ismaning ↔ Besucherpark",
-      "summary": "Zwischen Ismaning und Besucherpark ist die Strecke wieder freigegeben.",
-      "text": "<p>Der Ersatzverkehr mit Bussen wird 13:30 eingestellt.</p><p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Der Notarzteinsatz auf der Strecke wurde beendet.</p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "06.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/f76036b6-ad85-4878-856d-d8a7a3137c90",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/e937827b-180a-47b1-868e-b33a77679e62reisendenkarte_20260206-125251.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/e937827b-180a-47b1-868e-b33a77679e62reisendenkarte_20260206-125251.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.02.2026 12:52:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.02.2026 12:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b22cbf2d-80f7-4aca-bc9b-a190770adead",
-      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency0"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
@@ -433,51 +465,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "d3b635f4-87eb-48e3-a0c8-cc324862347a",
-      "disruptionId": "a649c9ce-3c8a-4ec9-9e9e-7999740ab6c2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 8 Neuaubing ↔ Westkreuz: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Neuaubing und Westkreuz in Richtung Flughafen kann es teilweise zu Verspätungen kommen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "06.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/a649c9ce-3c8a-4ec9-9e9e-7999740ab6c2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/3e2af0b3-1cb0-4a14-8b63-772c30334ee9reisendenkarte_20260206-094259.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/3e2af0b3-1cb0-4a14-8b63-772c30334ee9reisendenkarte_20260206-094259.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.02.2026 09:42:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.02.2026 11:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d3b635f4-87eb-48e3-a0c8-cc324862347a",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
