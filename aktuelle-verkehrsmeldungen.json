@@ -60,6 +60,73 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_winter"
     },
     {
+      "id": "c9bc3822-e9d0-42c0-b5bf-497d1e749973",
+      "disruptionId": "59074b84-1f4b-4535-a344-1bae719199dc",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Witterungsbedingte Einschränkungen in Berlin/Brandenburg und Mecklenburg-Vorpommern bis vsl. Sonntag 08.02.2026, Betriebsschluss",
+      "summary": "Freitag, 06.02.2026 09:00 Uhr bis vsl. Sonntag, 08.02.2026 23:59 Uhr",
+      "text": "<p>Aufgrund der anhaltenden Winterwitterung kommt es zu starken Einschränkungen im Zugverkehr auf vielen Linien in Berlin/Brandenburg und Mecklenburg-Vorpommern (z.B. durch vereiste Oberleitungen)Folgende Linien sind besonders stark betroffen:</p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde- Ausfall zahlreicher Züge - Verspätungen bei den noch fahrenden Zügen- Alternative: bitte nutzen Sie die Züge des RE3,  die jedoch ebenfalls von Verspätungen betroffen sind </strong></p><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin RE51 Stralsund - Neustrelitz- zahlreiche Ausfälle und Verspätungen zwischen Stralsund und Neustrelitz</strong></p><p><strong>RE7    Dessau - Bad Belzig – Berlin - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Calau (NL) - Senftenberg- der Zugverkehr auf der Linie RE7 ist derzeit eingestellt- im Laufe des Vormittags können vsl. einige Züge zwischen Bad Belzig und Berlin Wannsee wieder fahren- Alternative: Zwischen Königs Wusterhausen und Lübbenau hält der RE20 auf allen Unterwegsbahnhöfen</strong></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "06.02.2026",
+      "durationEnd": "08.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/59074b84-1f4b-4535-a344-1bae719199dc",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 51",
+          "filterName": "RE 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.02.2026 10:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c9bc3822-e9d0-42c0-b5bf-497d1e749973",
+      "magnoliaPath": "/aktuell/nordost/massive_impairment_weather_winter0"
+    },
+    {
       "id": "2d7547b1-85f1-483c-89f8-39ebf1c6443a",
       "disruptionId": "ede1c31e-2a9f-4d62-b1d2-5b915446bbd3",
       "author": "FERNVERKEHR_AG",
@@ -278,16 +345,16 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "S 7 Pullach ↔ Baierbrunn: Technische Störung an einem Zug",
-      "summary": "Zwischen Pullach und Baierbrunn kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "S 7 Pullach ↔ Baierbrunn: Defektes Stellwerk",
+      "summary": "Zwischen Pullach und Baierbrunn kommt es noch zu Folgeverspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Das defekte Stellwerk wurde repariert.</p>",
       "durationBegin": "06.02.2026",
       "durationEnd": "06.02.2026",
       "mapHref": "https://karte.bahn.de/detail/5ab9fdf3-975c-46ab-a58f-ddd93b2d9af7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/09453e64-a87f-4b05-a54a-4ea00dc4416ereisendenkarte_20260206-095011.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/09453e64-a87f-4b05-a54a-4ea00dc4416ereisendenkarte_20260206-095011.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/6ed90222-524f-4702-9743-64f50818e3b4reisendenkarte_20260206-095011.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/6ed90222-524f-4702-9743-64f50818e3b4reisendenkarte_20260206-095011.png",
           "info": "",
           "alt": "Reisendenkarte 06.02.2026 09:50:11",
           "openInNewTab": true
@@ -313,7 +380,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.02.2026 09:52",
+      "lastModified": "06.02.2026 10:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -326,18 +393,18 @@
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
+        "label": "Defektes Stellwerk"
       },
       "headline": "S 8 Neuaubing ↔ Westkreuz: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Neuaubing und Westkreuz in Richtung Flughafen kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "summary": "Zwischen Neuaubing und Westkreuz in Richtung Flughafen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
       "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "06.02.2026",
       "durationEnd": "06.02.2026",
       "mapHref": "https://karte.bahn.de/detail/a649c9ce-3c8a-4ec9-9e9e-7999740ab6c2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/6d8672e1-ba25-4cf0-8793-a52924764c92reisendenkarte_20260206-094259.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/6d8672e1-ba25-4cf0-8793-a52924764c92reisendenkarte_20260206-094259.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/06ce7760-eae3-46a7-9e1b-e525a31b2f96reisendenkarte_20260206-094259.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/06ce7760-eae3-46a7-9e1b-e525a31b2f96reisendenkarte_20260206-094259.png",
           "info": "",
           "alt": "Reisendenkarte 06.02.2026 09:42:59",
           "openInNewTab": true
@@ -358,7 +425,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.02.2026 09:44",
+      "lastModified": "06.02.2026 10:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -626,43 +693,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "3fe5d4d7-c494-477a-9069-c21675e31fc1",
-      "disruptionId": "d00556db-0ed1-4acd-b596-3b801f36e029",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "⚠️ 🔴 S2/ 🟠 S7: Ausfall der Linie S2",
-      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt nur alle zehn Minuten. ",
-      "text": "<p>Grund ist ein Vorangegangener Feuerwehreinsatz.</p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "06.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/d00556db-0ed1-4acd-b596-3b801f36e029",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.02.2026 08:15",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3fe5d4d7-c494-477a-9069-c21675e31fc1",
-      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
@@ -1091,51 +1121,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "d3791184-9732-4cd2-bf87-bcd0f39384cd",
-      "disruptionId": "97cc42dd-e74d-4627-a041-8bcc918ce05d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Endmeldung: S 6 Gauting ↔ Starnberg",
-      "summary": "Zwischen Gauting und Starnberg kommt es noch zu vereinzelten Verspätungen.",
-      "text": "<p>Die Brücke wurde begutachtet und ist wieder uneingeschränkt befahrbar.</p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "06.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/97cc42dd-e74d-4627-a041-8bcc918ce05d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/251c681a-8563-4bae-a5d0-4fc002d7d62creisendenkarte_20260206-080905.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-06/251c681a-8563-4bae-a5d0-4fc002d7d62creisendenkarte_20260206-080905.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.02.2026 08:09:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.02.2026 09:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d3791184-9732-4cd2-bf87-bcd0f39384cd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
