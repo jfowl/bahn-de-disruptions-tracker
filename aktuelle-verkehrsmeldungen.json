@@ -48,9 +48,9 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Witterungsbedingte Einschränkungen in Berlin/Brandenburg und Mecklenburg-Vorpommern bis vsl. Sonntag 08.02.2026, Betriebsschluss",
-      "summary": "Freitag, 06.02.2026 09:00 Uhr bis vsl. Sonntag, 08.02.2026 23:59 Uhr",
-      "text": "<p>Aufgrund der anhaltenden Winterwitterung kommt es vsl. noch bis zum Sonntag zu Einschränkungen im Zugverkehr auf vielen Linien in Berlin/Brandenburg und Mecklenburg-Vorpommern (z.B. durch vereiste Oberleitungen).Folgende Linien sind besonders stark betroffen:</p><p><strong>RE30  Stralsund - Greifswald - Pasewalk - Angermünde</strong></p><ul><li>Ausfall zahlreicher Züge</li><li>Verspätungen bei den noch fahrenden Zügen</li><li>Alternative: Bitte nutzen Sie die Züge des RE3, die jedoch ebenfalls von Verspätungen betroffen sind.</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin RE51 Stralsund - Neustrelitz</strong></p><ul><li>zahlreiche Ausfälle und Verspätungen zwischen Stralsund und Neustrelitz</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE7    Dessau - Bad Belzig – Berlin - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Calau (NL) - Senftenberg</strong></p><ul><li>der Zugverkehr auf der Linie RE7 ist derzeit bis auf wenige Ausnahmen eingestellt</li><li>einige Züge können zwischen Bad Belzig und Berlin wieder fahren</li><li>Alternative: Zwischen Königs Wusterhausen und Lübbenau hält der RE20 auf allen Unterwegsbahnhöfen.</li></ul><p>Leider werden derzeit auf Grund eines technischen Problems in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\" die Zugausfälle und Verspätungen der Linie RE7 nicht korrekt angezeigt. Bitte beachten Sie die zusätzlichen Textmeldungen an den Zügen.</p><p>Ein Ersatzverkehr mit Bussen kann aufgrund der aktuellen Witterung leider nicht gewährleistet werden.</p>",
+      "headline": "Witterungsbedingte Einschränkungen in Berlin/Brandenburg und Mecklenburg-Vorpommern bis vsl. Sonntag, 08.02.2026 23:59 Uhr",
+      "summary": "Aufgrund der anhaltenden Winterwitterung kommt es vsl. noch bis zum Sonntag (08.02.2026) zu Einschränkungen im Regionalverkehr auf vielen Linien in Berlin/Brandenburg und Mecklenburg-Vorpommern (z. B. durch vereiste Oberleitungen).",
+      "text": "<p>Folgende Linien sind besonders stark betroffen:</p><p><strong>RE30  Stralsund – Greifswald – Pasewalk – Angermünde</strong></p><ul><li>Ausfall zahlreicher Züge</li><li>Verspätungen bei den noch fahrenden Zügen</li><li>Alternative: Bitte nutzen Sie die Züge der Linie RE3, die jedoch ebenfalls von Verspätungen betroffen sind</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE5    Stralsund – Neustrelitz – Berlin &amp; RE51 Stralsund – Neustrelitz</strong></p><ul><li>Zahlreiche Ausfälle und Verspätungen zwischen Stralsund und Neustrelitz</li></ul><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p><p><strong>RE7    Dessau – Bad Belzig – Berlin – Königs Wusterhausen – Lübbenau (Spreew) – Senftenberg</strong></p><ul><li>Der Zugverkehr der Linie RE7 ist derzeit bis auf wenige Ausnahmen eingestellt</li><li>Einige Züge können zwischen Bad Belzig und Berlin wieder fahren</li><li>Alternative: Zwischen Königs Wusterhausen und Lübbenau halten die Züge der Linie RE20 auf allen Unterwegsstationen</li></ul><p>Leider werden derzeit auf Grund eines technischen Problems in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\" die Zugausfälle und Verspätungen der Linie RE7 nicht korrekt angezeigt. Bitte beachten Sie die zusätzlichen Textmeldungen an den Zügen.</p><p>Ein Ersatzverkehr mit Bussen kann aufgrund der aktuellen Witterung leider nicht gewährleistet werden.</p>",
       "durationBegin": "06.02.2026",
       "durationEnd": "08.02.2026",
       "mapHref": "https://karte.bahn.de/detail/59074b84-1f4b-4535-a344-1bae719199dc",
@@ -58,14 +58,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -75,6 +75,7 @@
       ],
       "states": [
         "BB",
+        "ST",
         "BE",
         "MV"
       ],
@@ -100,7 +101,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.02.2026 14:57",
+      "lastModified": "06.02.2026 19:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -170,6 +171,42 @@
       "magnoliaPath": "/aktuell/nord/detour_construction"
     },
     {
+      "id": "2d7547b1-85f1-483c-89f8-39ebf1c6443a",
+      "disruptionId": "ede1c31e-2a9f-4d62-b1d2-5b915446bbd3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Stuttgart",
+      "summary": "Aufgrund von Bauarbeiten am Stellwerk im Raum Ansbach kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Nürnberg - Crailsheim - Stuttgart entfallen zwischen Nürnberg und Stuttgart</li><li>ICE Züge Würzburg - Augsburg (mit planmäßigen Halten in Augsburg, Donauwörth und Ansbach) werden verspätungsneutral via Nürnberg umgeleitet</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/ede1c31e-2a9f-4d62-b1d2-5b915446bbd3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.02.2026 19:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2d7547b1-85f1-483c-89f8-39ebf1c6443a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "8d5372ca-7cca-4d0b-a262-00c2e0a5ec51",
       "disruptionId": "90a3bed7-9b98-4382-b179-925348f85513",
       "author": "FERNVERKEHR_AG",
@@ -214,42 +251,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8d5372ca-7cca-4d0b-a262-00c2e0a5ec51",
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_other_cause"
-    },
-    {
-      "id": "2d7547b1-85f1-483c-89f8-39ebf1c6443a",
-      "disruptionId": "ede1c31e-2a9f-4d62-b1d2-5b915446bbd3",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Stuttgart",
-      "summary": "Aufgrund von Bauarbeiten am Stellwerk im Raum Ansbach kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Nürnberg - Crailsheim - Stuttgart entfallen zwischen Nürnberg und Stuttgart</li><li>ICE Züge Würzburg - Augsburg (mit planmäßigen Halten in Augsburg, Donauwörth und Ansbach) werden verspätungsneutral via Nürnberg umgeleitet</li><li>IC Züge Karlsruhe - Stuttgart - Nürnberg entfallen zwischen Karlsruhe und Nürnberg</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende Nürnberg - Stuttgart - Karlsruhe direkt nutzen bitte Züge über Ulm bzw. Frankfurt(M)/Mannheim</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/ede1c31e-2a9f-4d62-b1d2-5b915446bbd3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.02.2026 21:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/2d7547b1-85f1-483c-89f8-39ebf1c6443a",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "60ca29e5-eeb0-4d02-a681-de6aeedec4bc",
@@ -711,16 +712,16 @@
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Verkehrsmeldung für die Linie RE 4 - Abschnitte Pasewalk – Szczecin Glowny und Pasewalk – Ueckermünde Stadthafen\n",
-      "summary": "bis vsl. Freitag, 13.02.2026 23:59 Uhr",
-      "text": "<p><strong>RE4    Bützow – Neubrandenburg – Pasewalk – Szczecin Glowny / Ueckermünde Stadthafen</strong></p><p>Die Züge der Linie RE4 fallen bis Tagesende 13.02.2026 in allen Nächten (Montag bis Freitag jeweils 16.30 - 06.30 Uhr, Samstag und Sonntag jeweils 18.00 - 06.00 Uhr) zwischen Pasewalk und Szczecin Glowny sowie zwischen Pasewalk und Ueckermünde Stadthafen aus.</p><p>Die ausfallenden Züge werden durch Busse ersetzt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de</p><p>Grund ist ein Personalausfall beim Infrastrukturbetreiber.</p>",
+      "headline": "Zugausfälle auf zwei Abschnitten der Linie RE4: Pasewalk – Szczecin Glowny und Pasewalk – Ueckermünde Stadthafen\n",
+      "summary": "Bis voraussichtlich Freitag, 13.02.2026 23:59 Uhr: Nur abends und nachts – Ausfall der Züge und Ersatzverkehr mit Bussen",
+      "text": "<p>Die Züge der Linie RE4 fallen bis Freitag, 13.02.2026 (Tagesende) abends und nachts (Montag bis Freitag jeweils 16.30 - 06.30 Uhr, Samstag und Sonntag jeweils 18.00 - 06.00 Uhr) zwischen Pasewalk und Szczecin Glowny sowie zwischen Pasewalk und Ueckermünde Stadthafen aus.</p><p><strong>Die ausfallenden Züge werden durch Busse ersetzt.</strong></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de</p><p>Grund ist ein Personalausfall beim Infrastrukturbetreiber.</p>",
       "durationBegin": "05.02.2026",
       "durationEnd": "13.02.2026",
       "mapHref": "https://karte.bahn.de/detail/1f930914-7300-4ed7-9242-b8b9eee19a81",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/9f853634-5bcd-4c9c-81f5-589b00480b96reisendenkarte_20260205-180446.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/9f853634-5bcd-4c9c-81f5-589b00480b96reisendenkarte_20260205-180446.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/485089eb-51f9-440a-bf1f-445f3c79470creisendenkarte_20260205-180446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/485089eb-51f9-440a-bf1f-445f3c79470creisendenkarte_20260205-180446.png",
           "info": "",
           "alt": "Reisendenkarte 05.02.2026 18:04:46",
           "openInNewTab": true
@@ -748,7 +749,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.02.2026 18:42",
+      "lastModified": "06.02.2026 19:31",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/b829653b-3281-42f2-bd1b-84fad865579d",
