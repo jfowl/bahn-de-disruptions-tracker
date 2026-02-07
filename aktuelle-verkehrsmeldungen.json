@@ -468,68 +468,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "2ae88fa3-2245-4443-be79-4a96bba4ff91",
-      "disruptionId": "709de658-4f38-4655-ae8c-af7864a9e949",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 1, S 2, S 3, S 4, S 5, S 6, S 8 Laim: Polizeieinsatz",
-      "summary": "Im Bereich Laim sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden in Richtung Ostbahnhof derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 30 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "07.02.2026",
-      "durationEnd": "07.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/709de658-4f38-4655-ae8c-af7864a9e949",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.02.2026 20:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2ae88fa3-2245-4443-be79-4a96bba4ff91",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity3"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -1303,6 +1241,68 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "2ae88fa3-2245-4443-be79-4a96bba4ff91",
+      "disruptionId": "709de658-4f38-4655-ae8c-af7864a9e949",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 1, S 2, S 3, S 4, S 5, S 6, S 8 Laim",
+      "summary": "Die Züge können wieder im Bereich Laim fahren.",
+      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Verspätungen von bis zu 10 Minuten und Teilausfällen.&nbsp;</p><p>Der Polizeieinsatz ist beendet.</p>",
+      "durationBegin": "07.02.2026",
+      "durationEnd": "07.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/709de658-4f38-4655-ae8c-af7864a9e949",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.02.2026 20:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2ae88fa3-2245-4443-be79-4a96bba4ff91",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity3"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
