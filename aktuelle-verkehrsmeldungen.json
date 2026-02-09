@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "52052fa7-438b-4de5-82f3-eefb836ab2d2",
+      "disruptionId": "edb3fa6f-7b3b-48a6-a94a-eb4150bb891d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S3: Technische Störung an der Strecke",
+      "summary": "Aktuell kommt es auf der Linie S3 zu Verspätungen und Fahrten, die schon vor ihrem geplanten Ziel enden. Der Grund ist eine technische Störung an der Strecke. ",
+      "text": "<p>..</p>",
+      "durationBegin": "09.02.2026",
+      "durationEnd": "09.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/edb3fa6f-7b3b-48a6-a94a-eb4150bb891d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.02.2026 15:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/52052fa7-438b-4de5-82f3-eefb836ab2d2",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "1248b56c-b175-400b-8619-3aec6f6f8a3a",
       "disruptionId": "4e4e8c58-2903-4cc6-8f36-2323b05bf339",
       "author": "S_BAHN_HH",
@@ -254,6 +292,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "e292886c-69ec-472d-832b-09696d964b2d",
+      "disruptionId": "d17d3cc4-cbee-4ee7-bdfd-68e17369eb46",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 7 / S 20: Polizeieinsatz",
+      "summary": "Aktuell ist leider kein Zugverkehr zwischen Heimeranplatz und Mittersendling möglich.",
+      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Polizeieinsatz.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "durationBegin": "09.02.2026",
+      "durationEnd": "09.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/d17d3cc4-cbee-4ee7-bdfd-68e17369eb46",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-09/6498bc25-92db-499e-8629-fb96cac96ecdreisendenkarte_20260209-154902.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-09/6498bc25-92db-499e-8629-fb96cac96ecdreisendenkarte_20260209-154902.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.02.2026 15:49:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.02.2026 15:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e292886c-69ec-472d-832b-09696d964b2d",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
