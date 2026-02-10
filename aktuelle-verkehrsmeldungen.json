@@ -51,6 +51,52 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "a32c0e7a-ee94-444f-bc9e-fad4e09225d8",
+      "disruptionId": "d27569e8-eb10-48eb-a931-d1120489e42c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Augsburg",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Stuttgart und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Zusatzverspätungen bis zu 120 Min und Teil- und Ausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE / IC / EC / RJ und TGV Züge im Abschnitt Stuttgart - Augsburg</li><li>EN und NJ Züge im Abschnitt Stuttgart - Augsburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis [Prognose] erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/d27569e8-eb10-48eb-a931-d1120489e42c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-10/1655b485-c4bd-42ff-b923-fb595a80056ereisendenkarte_20260210-183055.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-10/1655b485-c4bd-42ff-b923-fb595a80056ereisendenkarte_20260210-183055.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 18:30:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.02.2026 18:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a32c0e7a-ee94-444f-bc9e-fad4e09225d8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "1248b56c-b175-400b-8619-3aec6f6f8a3a",
       "disruptionId": "4e4e8c58-2903-4cc6-8f36-2323b05bf339",
       "author": "S_BAHN_HH",
@@ -432,6 +478,156 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "e589d4f6-6a71-4d8b-93f0-73a2bed9915f",
+      "disruptionId": "471d03c2-a79e-479a-ab16-cf5410bf8c7c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Vorangegangener technischer Defekt an einem Fahrzeug",
+      "summary": "Es kommt noch zu Verspätungen bis zu 25 Minuten, Umleitungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war ein vorangegangener technischer Defekt an einem Fahrzeug.</p><p>Und zusätzlich eine ärztliche Versorgung eines Fahrgastes. </p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/471d03c2-a79e-479a-ab16-cf5410bf8c7c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/beb84e20-b030-4d05-9787-8b9f5c902391reisendenkarte_20260210-174026.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/beb84e20-b030-4d05-9787-8b9f5c902391reisendenkarte_20260210-174026.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 17:40:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 18:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e589d4f6-6a71-4d8b-93f0-73a2bed9915f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle0"
+    },
+    {
+      "id": "519b5197-a7f6-44fe-b034-badca32b6031",
+      "disruptionId": "1cbd63e6-ee49-49af-9933-47c9e90c47a9",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen in Ulm Hbf",
+      "summary": "Der Bahnhof Ulm Hbf ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist ein defektes Stellwerk. Derzeit sind keine Zugfahrten im Bahnhof möglich. Unsere Züge beginnen und enden vorzeitig. In der Folge kommt es zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit zwei Bussen zwischen Ulm Hbf und Laupheim West im Pendelverkehr für Sie eingerichtet. Ab ca. 19:15 Uhr haben wir einen Ersatzverkehr mit zwei Bussen zwischen Ulm Hbf und Beimerstetten im Pendelverkehr für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung. Weitere Ersatzverkehre sind noch in Planung.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 200 (Wendlingen – Ulm) </li><li>RE 50 (Aalen – Ulm) </li><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RS 2 / RS 21 (Ulm – Biberach(Riß)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1cbd63e6-ee49-49af-9933-47c9e90c47a9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-10/2ee43531-6870-4c52-b6fd-139cf0d9bf7breisendenkarte_20260210-182131.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-10/2ee43531-6870-4c52-b6fd-139cf0d9bf7breisendenkarte_20260210-182131.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 18:21:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB RS2",
+          "filterName": "RB RS2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB RS21",
+          "filterName": "RB RS21",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 200",
+          "filterName": "RE 200",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.02.2026 18:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/519b5197-a7f6-44fe-b034-badca32b6031",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section2"
     },
     {
       "id": "f6eda365-d0b1-44a4-999e-51f09c1b4104",
