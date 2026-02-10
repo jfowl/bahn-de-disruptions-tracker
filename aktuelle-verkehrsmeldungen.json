@@ -1149,6 +1149,95 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "12923f21-265d-457d-9b2d-f36e30c11617",
+      "disruptionId": "6decac7a-8bee-4b1c-a64d-54a3d2b14573",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Es kommt zu Verspätungen auf der Linie Bus RE22",
+      "summary": "Aufgrund von Feuerwehreinsatz auf der A93 kommt es zu Verspätungen auf der Linie Bus RE22. Es wird eine Umleitung gefahren, wodurch es zu Verspätung kommen wird..",
+      "text": "<p><strong>Zeitraum:</strong> Dienstag, 10. Februar 2026, 06:44 Uhr bis Dienstag, 10. Februar 2026, 09:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22</p><p>Grund hierfür sind Feuerwehreinsatz auf der A93.</p><p><strong>Unsere Empfehlung: </strong></p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6decac7a-8bee-4b1c-a64d-54a3d2b14573",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/detail/6decac7a-8bee-4b1c-a64d-54a3d2b14573",
+          "label": "Zur Störungskarte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE22",
+          "filterName": "Bus RE22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.02.2026 06:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/12923f21-265d-457d-9b2d-f36e30c11617",
+      "magnoliaPath": "/aktuell/significant_delays_police_activity"
+    },
+    {
+      "id": "1986af42-05db-4677-80fe-23c30353653e",
+      "disruptionId": "11a4eaa4-8eeb-40ca-9ce9-bf9a9fc76a73",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 4, S 6 Grafing Bahnhof: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Grafing Bahnhof kommt es in beide Richtungen zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen .",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/11a4eaa4-8eeb-40ca-9ce9-bf9a9fc76a73",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/fe6e0f1d-a915-4fe1-ab1c-b3eb0c8bcffbreisendenkarte_20260210-063506.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/fe6e0f1d-a915-4fe1-ab1c-b3eb0c8bcffbreisendenkarte_20260210-063506.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 06:35:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 06:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1986af42-05db-4677-80fe-23c30353653e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "c113c2bf-bc4c-40d5-95c2-e9ed4f62b1a0",
       "disruptionId": "376f3cf6-a601-4ea3-8895-3fa2eefac1de",
       "author": "S_BAHN_MUC",
