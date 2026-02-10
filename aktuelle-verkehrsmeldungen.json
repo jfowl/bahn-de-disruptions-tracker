@@ -785,13 +785,20 @@
       },
       "headline": "⛔ Aufzug in Wilhelmsburg außer Betrieb",
       "summary": "An der Station Wilhelmsburg ist derzeit der Aufzug zum Bahnsteig außer Betrieb. \nBitte klappen Sie diese Meldung auf, um Alternativen zu sehen.",
-      "text": "<p>Für Fahrgäste, die in Wilhelmsburg einsteigen möchten:</p><p></p><p><strong>Bus 13 </strong>(Abfahrtsbereich A) <strong>bis S Veddel</strong>, dann Umstieg in S3 oder S5 (barrierefrei über Aufzug).</p><p></p><p>Für Fahrgäste, die in Wilhelmsburg aussteigen möchten:</p><p></p><p>S3 / S5 bis <strong>S Veddel </strong>(barrierefrei über Aufzug), dort <strong>Umstieg in Bus 13 Richtung Kirchdorf Süd</strong> (Abfahrtsbereich A) bis S Wilhelmsburg.</p>",
+      "text": "<p>Für Fahrgäste, die in Wilhelmsburg einsteigen möchten:</p><p><strong>Bus 13 </strong>(Abfahrtsbereich A) <strong>bis S Veddel</strong>, dann Umstieg in S3 oder S5 (barrierefrei über Aufzug).</p><p></p><p>Für Fahrgäste, die in Wilhelmsburg aussteigen möchten:</p><p>S3 / S5 bis <strong>S Veddel </strong>(barrierefrei über Aufzug), dort <strong>Umstieg in Bus 13 Richtung Kirchdorf Süd</strong> (Abfahrtsbereich A) bis S Wilhelmsburg.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "09.02.2026",
       "durationEnd": "11.02.2026",
       "mapHref": "https://karte.bahn.de/detail/21d14532-34b6-41cf-b656-d5e5988ce9bc",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
+          "label": "„Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft“ ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "SBAHN"
       ],
@@ -810,7 +817,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.02.2026 08:23",
+      "lastModified": "10.02.2026 09:00",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1157,50 +1164,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
-      "id": "12923f21-265d-457d-9b2d-f36e30c11617",
-      "disruptionId": "6decac7a-8bee-4b1c-a64d-54a3d2b14573",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Es kommt zu Verspätungen auf der Linie Bus RE22",
-      "summary": "Aufgrund von Feuerwehreinsatz auf der A93 kommt es zu Verspätungen auf der Linie Bus RE22. Es wird eine Umleitung gefahren, wodurch es zu Verspätung kommen wird..",
-      "text": "<p><strong>Zeitraum:</strong> Dienstag, 10. Februar 2026, 06:44 Uhr bis Dienstag, 10. Februar 2026, 12:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22</p><p>Grund hierfür sind Feuerwehreinsatz auf der A93.</p><p><strong>Unsere Empfehlung: </strong></p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
-      "durationBegin": "10.02.2026",
-      "durationEnd": "10.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/6decac7a-8bee-4b1c-a64d-54a3d2b14573",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/6decac7a-8bee-4b1c-a64d-54a3d2b14573",
-          "label": "Zur Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE22",
-          "filterName": "Bus RE22",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.02.2026 07:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/12923f21-265d-457d-9b2d-f36e30c11617",
-      "magnoliaPath": "/aktuell/significant_delays_police_activity"
-    },
-    {
       "id": "c113c2bf-bc4c-40d5-95c2-e9ed4f62b1a0",
       "disruptionId": "376f3cf6-a601-4ea3-8895-3fa2eefac1de",
       "author": "S_BAHN_MUC",
@@ -1210,7 +1173,7 @@
       },
       "headline": "Vorabinformation: MVG wird am Mittwoch, den 11. Februar 2026 bestreikt ",
       "summary": "MVG wird am Mittwoch, den 11. Februar 2026 bestreikt",
-      "text": "<p>Die Gewerkschaft Verdi hat für Mittwoch, den 11. Februar 2026, zu einem ganztägigen Warnstreik aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong></p><p><strong>Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</strong></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
+      "text": "<p>Die Gewerkschaft Verdi hat für Mittwoch, den <strong>11. Februar 2026</strong>, zu einem <strong>ganztägigen</strong> <strong>Warnstreik </strong>aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p><strong>❗Die&nbsp;U-Bahn&nbsp;fährt&nbsp;nur zwischen 17:30 Uhr und Betriebsschluss im Abschnitt Marienplatz↔Fröttmaning.&nbsp;</strong>Damit ist das Pokalspiel im Fröttmaninger Stadion (20:45 Uhr) mit der U-Bahn zu erreichen.</p><p><strong>Bitte beachten Sie:&nbsp;</strong></p><p>Ab ca.<strong> 22:20</strong> Uhr beginnen <strong>Bauarbeiten</strong> auf der <strong>S-Bahn-Stammstrecke</strong> mit <strong>Ersatzverkehr </strong>zwischen <strong>Donnersbergerbrücke↔Pasing:</strong> Baustellen auf der Stammstrecke der S-Bahn München</p><p></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
       "durationBegin": "09.02.2026",
       "durationEnd": "11.02.2026",
       "mapHref": "https://karte.bahn.de/detail/376f3cf6-a601-4ea3-8895-3fa2eefac1de",
@@ -1260,7 +1223,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.02.2026 14:55",
+      "lastModified": "10.02.2026 09:23",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
