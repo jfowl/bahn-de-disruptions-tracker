@@ -2,6 +2,97 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a780c338-03c6-4c77-81e5-9b4bc647b396",
+      "disruptionId": "eedd5c9e-aa67-4deb-a975-19b849c63337",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt(M)",
+      "summary": "Aufgrund von Bauarbeiten auf der Schnellfahrstrecke zwischen Köln und Frankfurt(M) ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt es zu Verspätungen und Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Köln und Frankfurt(M) werden umgeleitet und verspäten sich dadurch um etwa 75 Minuten. Diese Züge halten nicht in Siegburg/Bonn, Montabaur und Limburg Süd.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "11.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/eedd5c9e-aa67-4deb-a975-19b849c63337",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-11/eccabb51-12cd-41ae-b0d4-00ae0d9d6c2ereisendenkarte_20260211-075151.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-11/eccabb51-12cd-41ae-b0d4-00ae0d9d6c2ereisendenkarte_20260211-075151.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.02.2026 07:51:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.02.2026 07:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a780c338-03c6-4c77-81e5-9b4bc647b396",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "62dcb438-e00e-4e42-9e24-8d7ef25425d2",
+      "disruptionId": "55cc06ef-299a-4f6c-a0ca-1d1aad27fda4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Aschaffenburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Großauheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) und Aschaffenburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/55cc06ef-299a-4f6c-a0ca-1d1aad27fda4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-11/5b81b806-37e0-4ef2-9d71-12a480bc2172reisendenkarte_20260211-075851.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-11/5b81b806-37e0-4ef2-9d71-12a480bc2172reisendenkarte_20260211-075851.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.02.2026 07:58:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.02.2026 08:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/62dcb438-e00e-4e42-9e24-8d7ef25425d2",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_other_cause0"
+    },
+    {
       "id": "1248b56c-b175-400b-8619-3aec6f6f8a3a",
       "disruptionId": "4e4e8c58-2903-4cc6-8f36-2323b05bf339",
       "author": "S_BAHN_HH",
@@ -385,6 +476,71 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "80a4bd0e-255d-4150-8813-2bec7c456303",
+      "disruptionId": "98905ac8-cb80-475e-90ee-38876c920bf6",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Reparatur an einem Signal bei Mengen",
+      "summary": "Der Streckenabschnitt zwischen Herbertingen und Sigmaringen ist im Moment beeinträchtigt.  Dauer der Beeinträchtigung bis vsl. 11.02.2026 mittags.  Der Grund ist eine Reparatur an einem Signal bei Mengen. Rechnen Sie bitte mit Verspätungen. Bitte überprüfen Sie Ihre Verbindungen nochmals vor Fahrtantritt.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li><li>RE 55 (Donaueschingen – Ulm)</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "11.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/98905ac8-cb80-475e-90ee-38876c920bf6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-11/4f15ae4a-1db5-4bc6-bb26-a77cfb317525reisendenkarte_20260211-031507.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-11/4f15ae4a-1db5-4bc6-bb26-a77cfb317525reisendenkarte_20260211-031507.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.02.2026 03:15:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.02.2026 07:47",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/80a4bd0e-255d-4150-8813-2bec7c456303",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "f8ad9e4b-a0e1-48d5-86d9-973903a1485b",
       "disruptionId": "d84b1f4e-b81e-4e5e-8f41-244d2f8bced6",
       "author": "REGIO_BW",
@@ -465,71 +621,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cc380c51-5b54-4327-b9f7-1b062f20364c",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "80a4bd0e-255d-4150-8813-2bec7c456303",
-      "disruptionId": "98905ac8-cb80-475e-90ee-38876c920bf6",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Reparatur an einem Signal bei Mengen",
-      "summary": "Der Streckenabschnitt zwischen Herbertingen und Sigmaringen ist im Moment erheblich beeinträchtigt.  Dauer der Beeinträchtigung bis vsl. 11.02.2026 mittags.  Der Grund ist eine Reparatur an einem Signal bei Mengen. Die Züge verkehren zwischen Mengen in Richtung Sigmaringen mit verminderter Geschwindigkeit. Rechnen Sie bitte mit hohen Verspätungen und möglichen Teilausfällen. Bitte überprüfen Sie Ihre Verbindungen nochmals vor Fahrtantritt.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li><li>RE 55 (Donaueschingen – Ulm)</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "10.02.2026",
-      "durationEnd": "11.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/98905ac8-cb80-475e-90ee-38876c920bf6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-11/89559e0d-a048-4190-947b-323809268ae5reisendenkarte_20260211-031507.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-11/89559e0d-a048-4190-947b-323809268ae5reisendenkarte_20260211-031507.png",
-          "info": "",
-          "alt": "Reisendenkarte 11.02.2026 03:15:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 55",
-          "filterName": "RB 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.02.2026 03:32",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/80a4bd0e-255d-4150-8813-2bec7c456303",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -1385,7 +1476,7 @@
       },
       "headline": "MVG wird heute, am Mittwoch, den 11. Februar 2026 bestreikt / S-Bahn München nicht betroffen",
       "summary": "Die MVG wird heute, am Mittwoch, den 11. Februar 2026 bestreikt.",
-      "text": "<p></p><p>Die Gewerkschaft Verdi hat für Mittwoch, den <strong>11. Februar 2026</strong>, zu einem <strong>ganztägigen</strong> <strong>Warnstreik </strong>aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p><strong>❗Die&nbsp;U-Bahn&nbsp;fährt&nbsp;nur zwischen 17:30 Uhr und Betriebsschluss im Abschnitt Marienplatz ↔ Fröttmaning.&nbsp;</strong>Damit ist das Pokalspiel im Fröttmaninger Stadion (20:45 Uhr) mit der U-Bahn zu erreichen.</p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p><p><strong>Bitte beachten Sie:&nbsp;</strong></p><p>Ab ca.<strong> 22:20</strong> Uhr beginnen <strong>Bauarbeiten</strong> auf der <strong>S-Bahn-Stammstrecke</strong> mit <strong>Ersatzverkehr </strong>zwischen <strong>Donnersbergerbrücke↔Pasing. </strong></p><p><strong>Informationen hierzu finden Sie unter: </strong> www.s-bahn-muenchen.de</p>",
+      "text": "<p></p><p>Die Gewerkschaft Verdi hat für Mittwoch, den <strong>11. Februar 2026</strong>, zu einem <strong>ganztägigen</strong> <strong>Warnstreik </strong>aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p><strong>❗❗Die&nbsp;U-Bahn&nbsp;fährt&nbsp;nur zwischen 17:00 Uhr und Betriebsschluss im Abschnitt Marienplatz ↔ Fröttmaning.&nbsp;</strong>Damit ist das Pokalspiel im Fröttmaninger Stadion (20:45 Uhr) mit der U-Bahn zu erreichen.</p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p><p><strong>Bitte beachten Sie:&nbsp;</strong></p><p>Ab ca.<strong> 22:20</strong> Uhr beginnen <strong>Bauarbeiten</strong> auf der <strong>S-Bahn-Stammstrecke</strong> mit <strong>Ersatzverkehr </strong>zwischen <strong>Donnersbergerbrücke↔Pasing. </strong></p><p><strong>Informationen hierzu finden Sie unter: </strong> www.s-bahn-muenchen.de</p>",
       "durationBegin": "11.02.2026",
       "durationEnd": "12.02.2026",
       "mapHref": "https://karte.bahn.de/detail/376f3cf6-a601-4ea3-8895-3fa2eefac1de",
@@ -1393,14 +1484,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen",
-          "label": "Baustellen",
+          "href": "https://www.s-bahn-muenchen.de/de/fahren/betriebslage",
+          "label": "S-Bahn ",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.s-bahn-muenchen.de/de/fahren/betriebslage",
-          "label": "S-Bahn ",
+          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen",
+          "label": "Baustellen",
           "info": "",
           "openInNewTab": true
         }
@@ -1458,7 +1549,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.02.2026 02:50",
+      "lastModified": "11.02.2026 07:51",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
