@@ -869,55 +869,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "f5645866-c991-4b25-bd07-c9bdc0f587be",
-      "disruptionId": "4c05240f-5455-496e-b3e1-7fddcb56ff5b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Aufzug in Allermöhe außer Betrieb",
-      "summary": "An der Station Allermöhe ist derzeit der Aufzug zum Bahnsteig außer Betrieb. Bitte den Aufzug in der Station Nettelnburg nutzen und zwischen Allermöhe und Nettelnburg auf die Buslinie 32 umsteigen.\n",
-      "text": "<p>Alternative, stufenfreie Verbindungen finden Sie jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
-      "durationBegin": "10.02.2026",
-      "durationEnd": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/4c05240f-5455-496e-b3e1-7fddcb56ff5b",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.02.2026 19:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f5645866-c991-4b25-bd07-c9bdc0f587be",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other1"
-    },
-    {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
       "author": "REGIO_BY",
@@ -1255,6 +1206,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "87894588-e384-4b87-9dfa-d1afbe1333ea",
+      "disruptionId": "6094658b-2b83-4552-b832-3892b4abb6dc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Behördliche Maßnahme",
+      "summary": "Zwischen Ostbahnhof und Pasing kommt es in beiden Richtungen zu Folgeverspätungen von 10 bis 15 Minuten, zu Umleitungen und zu vorzeitigen Zugwenden auf den Außenästen.",
+      "text": "<p>Der Grund hierfür waren behördliche Maßnahmen am Ostbahnhof.</p>",
+      "durationBegin": "12.02.2026",
+      "durationEnd": "12.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6094658b-2b83-4552-b832-3892b4abb6dc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/c4a3e5a4-025d-40c0-8165-3e033355c810reisendenkarte_20260212-083713.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/c4a3e5a4-025d-40c0-8165-3e033355c810reisendenkarte_20260212-083713.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.02.2026 08:37:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.02.2026 08:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/87894588-e384-4b87-9dfa-d1afbe1333ea",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
