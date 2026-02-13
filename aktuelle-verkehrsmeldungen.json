@@ -215,25 +215,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "97b811f3-ff42-4492-8d72-4dcba38ad9f2",
-      "disruptionId": "179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "id": "811e0d87-f549-4396-b4cd-38d251ca8c52",
+      "disruptionId": "882a7353-16d1-4395-82f0-ac8b8f70df00",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "S 8 Gilching-Argelsried ↔ Herrsching: Reparatur an einem Signal",
-      "summary": "Zwischen Gilching-Argelsried und Herrsching sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Gilching-Argelsried.</p><p>Ein Ersatzverkehr mit Taxis zwischen Gilching-Argelsried und Herrsching wurde für Sie eingerichtet.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 1 Freising / Flughafen: Reparatur an einer Weiche ",
+      "summary": "Aktuell kein S-Bahnverkehr zwischen Lohhof und Freising/Flughafen möglich.",
+      "text": "<p>Reisende zum Flughafen nutzen aktuell bitte die Linie S 8.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Ersatzverkehr in Planung.</p><p>Der Grund dafür ist eine Reparatur an einer Weiche.</p><p>Update folgt.</p>",
       "durationBegin": "13.02.2026",
       "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "mapHref": "https://karte.bahn.de/detail/882a7353-16d1-4395-82f0-ac8b8f70df00",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/657b3683-e484-4e8f-9d92-65cbe57ca0dbreisendenkarte_20260213-063748.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/657b3683-e484-4e8f-9d92-65cbe57ca0dbreisendenkarte_20260213-063748.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/7f8282d1-f720-4d54-8946-17b20a054f63reisendenkarte_20260213-083200.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/7f8282d1-f720-4d54-8946-17b20a054f63reisendenkarte_20260213-083200.png",
           "info": "",
-          "alt": "Reisendenkarte 13.02.2026 06:37:48",
+          "alt": "Reisendenkarte 13.02.2026 08:32:00",
           "openInNewTab": true
         }
       ],
@@ -247,17 +247,57 @@
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
           "property": "SBAHN"
-        },
+        }
+      ],
+      "lastModified": "13.02.2026 08:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/811e0d87-f549-4396-b4cd-38d251ca8c52",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section6"
+    },
+    {
+      "id": "97b811f3-ff42-4492-8d72-4dcba38ad9f2",
+      "disruptionId": "179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Weßling ↔ Herrsching: Reparatur an einem Signal",
+      "summary": "Zwischen Weßling und Herrsching sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Weßling.</p><p>Ein Ersatzverkehr mit Taxis zwischen Weßling und Herrsching wurde für Sie eingerichtet.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "13.02.2026",
+      "durationEnd": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/52d6130f-c69a-41e8-8e29-e877bedca6careisendenkarte_20260213-073254.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/52d6130f-c69a-41e8-8e29-e877bedca6careisendenkarte_20260213-073254.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.02.2026 07:32:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
         {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.02.2026 07:19",
+      "lastModified": "13.02.2026 07:35",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -307,49 +347,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "4ee09ad7-763d-441f-a3e6-dcf41b3b55d5",
-      "disruptionId": "fa82e525-54b6-488f-a48a-c22f58f7d16c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Dortmund und Münster",
-      "summary": "Aufgrund eines defekten Stellwerkes in Lünen zwischen Dortmund und Münster kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Hamburg - Bremen -&nbsp;Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Stuttgart - München</li><li>Hamburg - Bremen - Dortmund&nbsp;- Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Basel SBB (- Zürich)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative].</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/fa82e525-54b6-488f-a48a-c22f58f7d16c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/44a35348-3c5e-4913-ae99-7577394b5a4freisendenkarte_20260213-055507.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/44a35348-3c5e-4913-ae99-7577394b5a4freisendenkarte_20260213-055507.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.02.2026 05:55:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.02.2026 05:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/4ee09ad7-763d-441f-a3e6-dcf41b3b55d5",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "f81fb8db-64a9-4f02-8495-e156dbdb7ce5",
