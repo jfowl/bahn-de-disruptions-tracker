@@ -279,6 +279,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "c1c373e8-5e17-41d5-9653-fa6cd3e9fe71",
+      "disruptionId": "47663b78-10ab-4a7b-8b7f-07fa6a079e9f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S 7 Hauptbahnhof ↔ Großhesselohe-Isartalbahnhof: Notarzteinsatz auf der Strecke",
+      "summary": "Zwischen Hauptbahnhof und Großhesselohe-Isartalbahnhof sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Großhesselohe-Isartalbahnhof.</p><p>Ein Ersatzverkehr zwischen Großhesselohe-Isartalbahnhof und Donnersbergerbrücke ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "14.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/47663b78-10ab-4a7b-8b7f-07fa6a079e9f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/6651480e-c394-4c48-a919-1b9b6d99f6b5reisendenkarte_20260214-003252.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/6651480e-c394-4c48-a919-1b9b6d99f6b5reisendenkarte_20260214-003252.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.02.2026 00:32:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 00:34",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c1c373e8-5e17-41d5-9653-fa6cd3e9fe71",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency2"
+    },
+    {
       "id": "4d12fbbe-85f7-48bb-9c2f-2c021be283ee",
       "disruptionId": "b95a8695-2052-447b-93ea-e72cee4a3a1a",
       "author": "REGIO_BW",
@@ -652,57 +697,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "b829653b-3281-42f2-bd1b-84fad865579d",
-      "disruptionId": "1f930914-7300-4ed7-9242-b8b9eee19a81",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle auf zwei Abschnitten der Linie RE4: Pasewalk – Szczecin Glowny und Pasewalk – Ueckermünde Stadthafen\n",
-      "summary": "Bis voraussichtlich Freitag, 13.02.2026 23:59 Uhr: Nur abends und nachts – Ausfall der Züge und Ersatzverkehr mit Bussen",
-      "text": "<p>Die Züge der Linie RE4 fallen bis Freitag, 13.02.2026 (Tagesende) abends und nachts (Montag bis Freitag jeweils 16.30 - 06.30 Uhr, Samstag und Sonntag jeweils 18.00 - 06.00 Uhr) zwischen Pasewalk und Szczecin Glowny sowie zwischen Pasewalk und Ueckermünde Stadthafen aus.</p><p><strong>Die ausfallenden Züge werden durch Busse ersetzt.</strong></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de</p><p>Grund ist ein Personalausfall beim Infrastrukturbetreiber.</p>",
-      "durationBegin": "05.02.2026",
-      "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/1f930914-7300-4ed7-9242-b8b9eee19a81",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/485089eb-51f9-440a-bf1f-445f3c79470creisendenkarte_20260205-180446.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-06/485089eb-51f9-440a-bf1f-445f3c79470creisendenkarte_20260205-180446.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.02.2026 18:04:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.02.2026 19:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/b829653b-3281-42f2-bd1b-84fad865579d",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_other_cause"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
