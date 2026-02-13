@@ -52,59 +52,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_winter"
     },
     {
-      "id": "5ddfc846-7b67-4215-a720-f3f009693dcf",
-      "disruptionId": "2e94983e-da19-4cd1-ab29-6bf86ca34fb6",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Magdeburg und Braunschweig",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Magdeburg und Braunschweig kommt es derzeit zu Verspätungen und Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge der Verbindung Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden verspäten sich um etwa 20 Minuten</li><li>IC-Züge der Verbindung Norddeich - Bremen - Hannover - Magdeburg - Berlin - Leipzig - Dresden fallen zwischen Hannover und Dresden aus</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/2e94983e-da19-4cd1-ab29-6bf86ca34fb6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-12/5c854770-459f-43f0-b90b-3893270f67b4reisendenkarte_20260212-061546.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-12/5c854770-459f-43f0-b90b-3893270f67b4reisendenkarte_20260212-061546.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.02.2026 06:15:46",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-12/19d299cf-4e71-4d2f-838b-9b66c41fed7freisendenkarte_20260212-104031.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-12/19d299cf-4e71-4d2f-838b-9b66c41fed7freisendenkarte_20260212-104031.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.02.2026 10:40:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "12.02.2026 10:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5ddfc846-7b67-4215-a720-f3f009693dcf",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "caf49b9e-e546-4581-a2b8-79b46d5d397c",
       "disruptionId": "1a5eb599-0de7-4e38-9b88-1c09f8961e02",
       "author": "REGIO_SUEDOST",
@@ -268,6 +215,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "97b811f3-ff42-4492-8d72-4dcba38ad9f2",
+      "disruptionId": "179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Weßling ↔ Herrsching: Reparatur an einem Signal",
+      "summary": "Zwischen Weßling und Herrsching sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Weßling.</p><p>Ein Ersatzverkehr zwischen Weßling und Herrsching ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "13.02.2026",
+      "durationEnd": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/179a389f-36cc-4d70-bbb0-ca79c0242b95",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/088c0fbd-d56d-41c5-899a-18e06a250b88reisendenkarte_20260213-054849.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/088c0fbd-d56d-41c5-899a-18e06a250b88reisendenkarte_20260213-054849.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.02.2026 05:48:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.02.2026 05:51",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/97b811f3-ff42-4492-8d72-4dcba38ad9f2",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -310,6 +302,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "4ee09ad7-763d-441f-a3e6-dcf41b3b55d5",
+      "disruptionId": "fa82e525-54b6-488f-a48a-c22f58f7d16c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Münster",
+      "summary": "Aufgrund eines defekten Stellwerkes in Lünen zwischen Dortmund und Münster kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Hamburg - Bremen -&nbsp;Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Stuttgart - München</li><li>Hamburg - Bremen - Dortmund&nbsp;- Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Basel SBB (- Zürich)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative].</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/fa82e525-54b6-488f-a48a-c22f58f7d16c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/44a35348-3c5e-4913-ae99-7577394b5a4freisendenkarte_20260213-055507.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/44a35348-3c5e-4913-ae99-7577394b5a4freisendenkarte_20260213-055507.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.02.2026 05:55:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.02.2026 05:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4ee09ad7-763d-441f-a3e6-dcf41b3b55d5",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "f81fb8db-64a9-4f02-8495-e156dbdb7ce5",
@@ -952,101 +987,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "dbc6dd67-6950-4c77-9eef-c626c6e8afe5",
-      "disruptionId": "24f091a8-4384-439e-8952-581ccd7eee49",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten vom 13. 01. bis 13.02.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es zwischen Moosach/Heimeranplatz/Pasing und Trudering/Ostbahnhof zu Änderungen im Fahrplan. Die Änderungen betreffen die Nächte vom 13. Januar bis 13. Februar 2026 und gelten jeweils von 22:20 Uhr abends bis 5:00 Uhr morgens.",
-      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><ul><li>Nächte Mittwoch/Donnerstag, 4./5. und Donnerstag/Freitag, 5./6.2.2026</li><li>Nächte Montag/Dienstag, 9./10. bis Donnerstag/Freitag, 12./13.2.2026</li></ul><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>Ersatzverkehr:</p><ul><li><strong>Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></li></ul><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2:</p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing (❗beachten sie die kurzfristige bekannt gegebenen Bauarbeiten zwischen Mammendorf und Maisach/Lochhausen siehe separate Meldung ❗)</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p>‼️Ersatzverkehr:</p><p><strong>+++ Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p><strong>+++ Bitte beachten Sie den Fahrplan. Die Haltestellen des Ersatzverkehrs finden Sie im Anhang.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "13.01.2026",
-      "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/24f091a8-4384-439e-8952-581ccd7eee49",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/59ff2353-4bc8-4428-ab95-73da31b82f13reisendenkarte_20251222-092728.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/59ff2353-4bc8-4428-ab95-73da31b82f13reisendenkarte_20251222-092728.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.12.2025 09:27:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/10a2648c-3906-4d45-9be9-fc30ee2d5c2eFpl%252BTSP%252BML%252BS%252B1-S%252B8%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "ML+S+1-S+8+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/501df772-081f-4ff5-a821-e9fc4f173c92Fpl%252BSEV%252BMMDN-MP%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "MMDN-MP+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke",
-          "label": "S-Bahn-München/Baustellen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.02.2026 21:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dbc6dd67-6950-4c77-9eef-c626c6e8afe5",
-      "magnoliaPath": "/aktuell/bayern/additional_service_construction0"
     },
     {
       "id": "e0078331-cd07-4d53-a8d2-aa6876873b79",
