@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "99431384-6c77-4b6b-8ae0-9a2775c507b2",
+      "disruptionId": "037d89ef-50ac-4979-8c02-7c5c8d63796d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p></p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 30 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 30Minuten.</p><p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Vorangegangener Polizeieinsatz</strong></p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "14.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/037d89ef-50ac-4979-8c02-7c5c8d63796d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 20:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/99431384-6c77-4b6b-8ae0-9a2775c507b2",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
       "id": "2282ca7a-0eb8-4dff-a66d-1c1e3a54f857",
       "disruptionId": "e7802be0-2a8a-45fc-aea8-7159a21e1ba2",
       "author": "S_BAHN_HH",
@@ -61,49 +105,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/2282ca7a-0eb8-4dff-a66d-1c1e3a54f857",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other10"
-    },
-    {
-      "id": "99431384-6c77-4b6b-8ae0-9a2775c507b2",
-      "disruptionId": "037d89ef-50ac-4979-8c02-7c5c8d63796d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S3 und S5: Verspätungen",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p></p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 30 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 30Minuten.</p><p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Vorangegangener Polizeieinsatz</strong></p>",
-      "durationBegin": "14.02.2026",
-      "durationEnd": "14.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/037d89ef-50ac-4979-8c02-7c5c8d63796d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.02.2026 19:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/99431384-6c77-4b6b-8ae0-9a2775c507b2",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
     },
     {
       "id": "4ea00d01-9305-4a9d-b5ac-a4767e2407da",
@@ -1170,6 +1171,56 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "fa67d53a-cd90-481f-bee2-1ac1c0666db7",
+      "disruptionId": "bdc39311-2d5a-4c44-a614-9774616a7597",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4, S 6 Trudering ↔ Berg am Laim: Reparatur an einem Signal",
+      "summary": "Zwischen Trudering und Berg am Laim kommt es zu Verspätungen von bis zu 10 Minuten. Die Züge der Linie S4 wenden von Geltendorf kommend am Leuchtenbergring.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "14.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/bdc39311-2d5a-4c44-a614-9774616a7597",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/d4a71951-c3ab-462a-bd17-815382b0350breisendenkarte_20260214-195113.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/d4a71951-c3ab-462a-bd17-815382b0350breisendenkarte_20260214-195113.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.02.2026 19:51:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 20:14",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fa67d53a-cd90-481f-bee2-1ac1c0666db7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
       "id": "05ced856-449e-4a61-b9a2-7e713a580a78",
       "disruptionId": "5f1eaf68-1c7b-43e9-bdc4-cbb408a3af7f",
       "author": "S_BAHN_MUC",
@@ -1177,16 +1228,16 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "S 7 Ebenhausen-Schäftlarn: Defektes Stellwerk",
-      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "headline": "Endmeldung: S 7 Ebenhausen-Schäftlarn",
+      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es noch zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen, sowie vorzeitigen Wenden..",
+      "text": "<p>Das defekte Stellwerk wurde repariert.</p>",
       "durationBegin": "14.02.2026",
       "durationEnd": "14.02.2026",
       "mapHref": "https://karte.bahn.de/detail/5f1eaf68-1c7b-43e9-bdc4-cbb408a3af7f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/09c72c5a-c857-407d-83eb-4f4e8736ca7areisendenkarte_20260214-192421.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/09c72c5a-c857-407d-83eb-4f4e8736ca7areisendenkarte_20260214-192421.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/7cc92009-d243-42ec-b6b2-5e407694dc32reisendenkarte_20260214-192421.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/7cc92009-d243-42ec-b6b2-5e407694dc32reisendenkarte_20260214-192421.png",
           "info": "",
           "alt": "Reisendenkarte 14.02.2026 19:24:21",
           "openInNewTab": true
@@ -1207,7 +1258,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.02.2026 19:26",
+      "lastModified": "14.02.2026 19:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
