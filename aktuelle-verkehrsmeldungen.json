@@ -1034,50 +1034,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
-      "id": "796cbb3c-9a2a-4c89-a2cb-1bb9b9654eb8",
-      "disruptionId": "b299e90d-2751-4d92-9ab9-b8391dad20e8",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40 / Mühldorf - München / Samstag, 14.02.2026 / Bauarbeiten",
-      "summary": "Samstag, 14.02.2026",
-      "text": "<p>In den Abend-/Nachtstunden am Samstag, den 14. Februar entfallen einige Züge zwischen Markt Schwaben und München Ost wegen Bauarbeiten. Für die ausfallenden Züge ist ein Ersatzverkehr von Hörlkofen bis München Ost Friedenstraße mit Bussen eingerichtet. Bitte nutzen Sie zwischen München Ost und München Hbf die S-Bahn.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
-      "durationBegin": "14.02.2026",
-      "durationEnd": "14.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/b299e90d-2751-4d92-9ab9-b8391dad20e8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedostbayernbahn/2026-01-27/0958f03e-788e-43aa-9337-98a896c8db11reisendenkarte_20260127-131331.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedostbayernbahn/2026-01-27/0958f03e-788e-43aa-9337-98a896c8db11reisendenkarte_20260127-131331.png",
-          "info": "",
-          "alt": "Reisendenkarte 27.01.2026 13:13:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.01.2026 13:15",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/796cbb3c-9a2a-4c89-a2cb-1bb9b9654eb8",
-      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction0"
-    },
-    {
       "id": "0ff816af-6467-4756-b03a-761f76fb0e93",
       "disruptionId": "b10f43e4-83e1-4549-91b6-d1f9b2ad4bca",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1125,6 +1081,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "14463408-4d0b-4e50-aa04-2404ed2a4cc9",
+      "disruptionId": "66b16877-039c-4445-b561-77a2494a95b0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "15.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/66b16877-039c-4445-b561-77a2494a95b0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/443c7650-46b4-4636-ab65-085d636f6c42reisendenkarte_20260214-234210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/443c7650-46b4-4636-ab65-085d636f6c42reisendenkarte_20260214-234210.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.02.2026 23:42:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 23:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/14463408-4d0b-4e50-aa04-2404ed2a4cc9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency2"
     },
     {
       "id": "fa67d53a-cd90-481f-bee2-1ac1c0666db7",
