@@ -63,6 +63,49 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other10"
     },
     {
+      "id": "99431384-6c77-4b6b-8ae0-9a2775c507b2",
+      "disruptionId": "037d89ef-50ac-4979-8c02-7c5c8d63796d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p></p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 30 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 30Minuten.</p><p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Vorangegangener Polizeieinsatz</strong></p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "14.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/037d89ef-50ac-4979-8c02-7c5c8d63796d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 19:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/99431384-6c77-4b6b-8ae0-9a2775c507b2",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
       "id": "4ea00d01-9305-4a9d-b5ac-a4767e2407da",
       "disruptionId": "04b1eebc-e924-4b62-81a7-42ddf8bc8cf2",
       "author": "S_BAHN_RM",
@@ -1125,6 +1168,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "05ced856-449e-4a61-b9a2-7e713a580a78",
+      "disruptionId": "5f1eaf68-1c7b-43e9-bdc4-cbb408a3af7f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 7 Ebenhausen-Schäftlarn: Defektes Stellwerk",
+      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "14.02.2026",
+      "durationEnd": "14.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/5f1eaf68-1c7b-43e9-bdc4-cbb408a3af7f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/09c72c5a-c857-407d-83eb-4f4e8736ca7areisendenkarte_20260214-192421.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-14/09c72c5a-c857-407d-83eb-4f4e8736ca7areisendenkarte_20260214-192421.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.02.2026 19:24:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.02.2026 19:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05ced856-449e-4a61-b9a2-7e713a580a78",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
