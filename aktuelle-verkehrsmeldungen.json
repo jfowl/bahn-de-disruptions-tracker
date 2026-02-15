@@ -384,6 +384,58 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "1fdd2621-de2f-494a-aca9-365dde78eec3",
+      "disruptionId": "da46e712-de38-4ded-9fd6-f1a7deafa0c8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Ulm Hbf ",
+      "summary": "Witterungsbedingte Beeinträchtigungen / Erhebliche Verspätungen / Zugausfälle",
+      "text": "<p>Aufgrund von Schnee und Eis kommt es derzeit in Ulm zu starken Beeinträchtigungen.</p><p>Aktuell sind in Ulm Hbf keine Zugfahrten möglich. </p><p>Bitte rechnen Sie mit erheblichen Verspätungen und kurzfristigen Zugausfällen.</p><p>Überprüfen Sie bitte ihre Verbindung unmittelbar vor der Reise noch einmal.</p><p>Bitte beachten Sie zusätzlich die Lautsprecheransagen in den Zügen sowie auf den Bahnhöfen.</p>",
+      "durationBegin": "15.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/da46e712-de38-4ded-9fd6-f1a7deafa0c8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB RS21",
+          "filterName": "RB RS21",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.02.2026 23:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1fdd2621-de2f-494a-aca9-365dde78eec3",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_weather_winter"
+    },
+    {
       "id": "d6bb1eaf-8335-4410-98a3-9f50fd957c30",
       "disruptionId": "75fafd5f-6fc2-4c62-b910-2ec063cf2587",
       "author": "DEUTSCHE_BAHN",
@@ -1054,51 +1106,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "eb5242fa-28a5-4883-97b3-425c4c74a54f",
-      "disruptionId": "c113bd58-f8c1-47c3-8e95-8e47e5545ddd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung im Ausland"
-      },
-      "headline": "Beeinträchtigungen zwischen Amsterdam und Utrecht",
-      "summary": "Aufgrund von Bauarbeiten zwischen Amsterdam und Utrecht kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von vsl. 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, IC- und NJ- Züge zwischen Amsterdam und Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "15.02.2026",
-      "durationEnd": "15.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/c113bd58-f8c1-47c3-8e95-8e47e5545ddd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-15/faf96005-e42d-4347-8232-d1c92615ca2freisendenkarte_20260215-115306.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-15/faf96005-e42d-4347-8232-d1c92615ca2freisendenkarte_20260215-115306.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.02.2026 11:53:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "15.02.2026 11:58",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eb5242fa-28a5-4883-97b3-425c4c74a54f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_other_cause"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
