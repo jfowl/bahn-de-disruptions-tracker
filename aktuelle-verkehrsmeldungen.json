@@ -54,6 +54,65 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
     },
     {
+      "id": "273706f1-6ca6-4696-b1d4-1e59db420dd0",
+      "disruptionId": "c78bae4e-eea6-41d4-82ee-265b589b3462",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Alle Linien: Verspätungen",
+      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit innerhalb der Innenstadt auch die U-Bahnen und Linienbusse. Grund: Polizeieinsatz ",
+      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "16.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/c78bae4e-eea6-41d4-82ee-265b589b3462",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.02.2026 00:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/273706f1-6ca6-4696-b1d4-1e59db420dd0",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity1"
+    },
+    {
       "id": "071b85b8-0243-46a6-82f2-0cfd61625b18",
       "disruptionId": "155f6c3b-9626-4383-b8d3-d703feb4aefe",
       "author": "S_BAHN_HH",
@@ -393,7 +452,7 @@
       },
       "headline": "Ulm Hbf ",
       "summary": "Witterungsbedingte Beeinträchtigungen / Erhebliche Verspätungen / Zugausfälle",
-      "text": "<p>Aufgrund von Schnee und Eis kommt es derzeit in Ulm zu starken Beeinträchtigungen.</p><p>Aktuell sind in Ulm Hbf keine Zugfahrten möglich. </p><p>Bitte rechnen Sie mit erheblichen Verspätungen und kurzfristigen Zugausfällen.</p><p>Überprüfen Sie bitte ihre Verbindung unmittelbar vor der Reise noch einmal.</p><p>Bitte beachten Sie zusätzlich die Lautsprecheransagen in den Zügen sowie auf den Bahnhöfen.</p>",
+      "text": "<p>Aufgrund von Schnee und Eis kommt es derzeit in Ulm zu starken Beeinträchtigungen.</p><p>Aktuell sind im Bahnhof Ulm Hbf keine Zugfahrten möglich.</p><p>Bitte rechnen Sie mit erheblichen Verspätungen und kurzfristigen Zugausfällen.</p><p>Überprüfen Sie bitte ihre Verbindung unmittelbar vor der Reise noch einmal.</p>",
       "durationBegin": "15.02.2026",
       "durationEnd": "16.02.2026",
       "mapHref": "https://karte.bahn.de/detail/da46e712-de38-4ded-9fd6-f1a7deafa0c8",
@@ -428,49 +487,12 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "15.02.2026 23:41",
-      "expand": false,
+      "lastModified": "16.02.2026 00:24",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1fdd2621-de2f-494a-aca9-365dde78eec3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_weather_winter"
-    },
-    {
-      "id": "d6bb1eaf-8335-4410-98a3-9f50fd957c30",
-      "disruptionId": "75fafd5f-6fc2-4c62-b910-2ec063cf2587",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "demonstration",
-        "label": "Demonstration"
-      },
-      "headline": "Faschingsumzugs am Halt Neustadt a.d. Donau, Bahnhof",
-      "summary": "Aufgrund eines Faschingsumzugs wurde der Halt Neustadt a.d. Donau, Bahnhof verlegt. Der Ersatzhalt befindet sich in der Raffineriestraße. Bitte beachten Sie den verlängerten Umsteigeweg.",
-      "text": "<p><strong>Betroffene Linie(n):</strong> Bus RE18</p><p><strong>Betroffene Station(en):</strong> Neustadt a.d. Donau, Bahnhof</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien.</p>",
-      "durationBegin": "15.02.2026",
-      "durationEnd": "16.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/75fafd5f-6fc2-4c62-b910-2ec063cf2587",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE18",
-          "filterName": "Bus RE18",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.02.2026 17:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d6bb1eaf-8335-4410-98a3-9f50fd957c30",
-      "magnoliaPath": "/aktuell/massive_impairment_demonstration"
     },
     {
       "id": "f81fb8db-64a9-4f02-8495-e156dbdb7ce5",
@@ -1106,6 +1128,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "71aa9c70-6d58-4951-adc8-2d38880d4fbc",
+      "disruptionId": "c94b8cc0-1d09-4d52-8c58-49588db5e381",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 8 Neuaubing: Witterungsbedingte Beeinträchtigungen",
+      "summary": "Im Bereich Neuaubing kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
+      "durationBegin": "16.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/c94b8cc0-1d09-4d52-8c58-49588db5e381",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/7f1ecee5-53aa-4e6f-9ebf-911044dfe7bcreisendenkarte_20260216-001444.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/7f1ecee5-53aa-4e6f-9ebf-911044dfe7bcreisendenkarte_20260216-001444.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.02.2026 00:14:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.02.2026 00:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/71aa9c70-6d58-4951-adc8-2d38880d4fbc",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
