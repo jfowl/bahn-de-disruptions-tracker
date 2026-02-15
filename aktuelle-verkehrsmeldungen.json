@@ -656,6 +656,76 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section0"
     },
     {
+      "id": "b103ce04-be30-4334-a38f-b584de28bd6f",
+      "disruptionId": "2b14d649-8d95-41f4-868c-198d5aef578b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Marienplatz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Marienplatz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Hauptbahnhof.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Marienplatz.</p>",
+      "durationBegin": "15.02.2026",
+      "durationEnd": "15.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/2b14d649-8d95-41f4-868c-198d5aef578b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/4d56cc07-e14c-4a34-8bb8-ab27ada21e68reisendenkarte_20260215-221451.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/4d56cc07-e14c-4a34-8bb8-ab27ada21e68reisendenkarte_20260215-221451.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.02.2026 22:14:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.02.2026 22:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b103ce04-be30-4334-a38f-b584de28bd6f",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
+    },
+    {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
       "author": "REGIO_SUEDOST",
@@ -1063,16 +1133,16 @@
         "category": "technical_problem_railway_section",
         "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S 2 Riem ↔ Ostbahnhof: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Riem und Ostbahnhof ist die Strecke gesperrt. Die S-Bahnen wenden von Erding kommend in Riem und von Richtung Dachau kommend am Ostbahnhof.",
-      "text": "<p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 2 Feldkirchen ↔ Ostbahnhof",
+      "summary": "Zwischen Feldkirchen und Ostbahnhof ist die Strecke wieder freigegeben.",
+      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird um 22:45 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
       "durationBegin": "15.02.2026",
       "durationEnd": "15.02.2026",
       "mapHref": "https://karte.bahn.de/detail/874a2345-8700-4f50-986b-10333dec3021",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/3b8c61b3-adf0-4887-953b-017df204342ereisendenkarte_20260215-212407.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/3b8c61b3-adf0-4887-953b-017df204342ereisendenkarte_20260215-212407.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/1261cc73-6a9c-4daa-85c3-a6b3e3417b40reisendenkarte_20260215-212407.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-15/1261cc73-6a9c-4daa-85c3-a6b3e3417b40reisendenkarte_20260215-212407.png",
           "info": "",
           "alt": "Reisendenkarte 15.02.2026 21:24:07",
           "openInNewTab": true
@@ -1093,7 +1163,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.02.2026 21:35",
+      "lastModified": "15.02.2026 22:23",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
