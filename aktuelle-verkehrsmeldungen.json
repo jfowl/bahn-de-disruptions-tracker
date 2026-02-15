@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "bbd2f2a6-1ed6-43c9-9c2e-c1cba89d3b43",
+      "disruptionId": "985295b3-6afe-416a-994d-22ed40a36466",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Fahrtausfällen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hamburg - Köln - Koblenz - Frankfurt (Main) - Nürnberg - Passau</li><li>ICE-Züge zwischen Hamburg – Uelzen – Hannover – Kassel-Wilhelmshöhe – Fulda – Würzburg – Nürnberg – München</li><li>ICE-Züge zwischen Berlin - Kassel/Halle (Saale) - Frankfurt (Main)</li><li>ICE-Züge zwischen Padborg - Hamburg - Hannover - Frankfurt (Main)</li><li>ICE-/IC-Züge zwischen Basel/Saarbrücken - Stuttgart - München</li><li>IC-Züge zwischen Norddeich - Emden - Münster (Westf) - Köln - Koblenz</li><li>IC-Züge zwischen Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Brandenburg – Berlin – Cottbus/Leipzig – Dresden</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/985295b3-6afe-416a-994d-22ed40a36466",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.02.2026 12:17",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bbd2f2a6-1ed6-43c9-9c2e-c1cba89d3b43",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
+    },
+    {
       "id": "071b85b8-0243-46a6-82f2-0cfd61625b18",
       "disruptionId": "155f6c3b-9626-4383-b8d3-d703feb4aefe",
       "author": "S_BAHN_HH",
@@ -411,49 +463,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/f81fb8db-64a9-4f02-8495-e156dbdb7ce5",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
-    },
-    {
-      "id": "c3fadf6b-3cb0-43b3-af58-691091b04f2f",
-      "disruptionId": "781f7d82-d3c0-4843-86bd-93c24a592e09",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in Norddeutschland ",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Norddeutschland zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Norddeich Mole -&nbsp;Emden -&nbsp;Münster (W) - Recklinghausen - Oberhausen - Düsseldorf - Köln (-&nbsp;Koblenz)</li><li>IC Züge zwischen Norddeich Mole -&nbsp;Emden -&nbsp;Bremen -&nbsp;Hannover -&nbsp;Magdeburg -&nbsp;Leipzig (- Dresden)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/781f7d82-d3c0-4843-86bd-93c24a592e09",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/599d1adf-5fbd-4d82-a2ac-fc75ed88099breisendenkarte_20260213-124653.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-13/599d1adf-5fbd-4d82-a2ac-fc75ed88099breisendenkarte_20260213-124653.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.02.2026 12:46:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.02.2026 12:48",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/c3fadf6b-3cb0-43b3-af58-691091b04f2f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_winter"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
