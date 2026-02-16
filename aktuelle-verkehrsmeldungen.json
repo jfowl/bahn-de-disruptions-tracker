@@ -62,8 +62,8 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S3: Ersatzverkehr mit Bussen und Taxis.",
-      "summary": "Zwischen Altona/ Holstenstraße und Stellingen ist ein Ersatzverkehr mit Bussen und Taxis eingerichtet.\n\nS3: Pendelverkehr zwischen Pinneberg und Stellingen.\nS5: Fährt bis Altona durch den Citytunnel.\nS7: Fährt bis Altona durch den Citytunnel.",
-      "text": "<p> </p>",
+      "summary": "Zwischen Altona/ Holstenstraße und Stellingen ist ein Ersatzverkehr mit Bussen und Taxis eingerichtet.\n\n",
+      "text": "<p>S3: Pendelverkehr zwischen Pinneberg und Stellingen.</p><p>S7: Fährt bis Altona durch den Citytunnel.</p>",
       "durationBegin": "16.02.2026",
       "durationEnd": "16.02.2026",
       "mapHref": "https://karte.bahn.de/detail/d1117913-d3c6-4bcb-83e8-913574638986",
@@ -95,12 +95,50 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.02.2026 19:40",
+      "lastModified": "16.02.2026 20:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/86bc5c19-ad1c-4189-aa63-a861e2c8bbf6",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "19ca68c4-30d9-4dbd-b2e4-c987d64935db",
+      "disruptionId": "20c8c51d-b8c6-464a-8846-6156577547d2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "⚠️ S5: Umstieg in Neugraben",
+      "summary": "Aktuell ist bei Fahrten zwischen Hamburg und Buxtehude beziehungsweise Stade ein Umstieg in Neugraben erforderlich.",
+      "text": "<p>Durch den Umstieg sind Verspätungen möglich. Der Grund ist eine Technische Störung an der Strecke.</p>",
+      "durationBegin": "16.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/20c8c51d-b8c6-464a-8846-6156577547d2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.02.2026 20:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/19ca68c4-30d9-4dbd-b2e4-c987d64935db",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
     },
     {
       "id": "caf49b9e-e546-4581-a2b8-79b46d5d397c",
@@ -359,7 +397,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.02.2026 19:39",
+      "lastModified": "16.02.2026 20:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -505,15 +543,15 @@
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
       "headline": "Stammstrecke / Gesamtnetz: Vorangegangene ärztliche Versorgung eines Fahrgastes",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten, Umleitungen, Ausfällen und Teilausfällen.",
+      "summary": "Es kommt noch zu Folgeverspätungen, Ausfällen und Teilausfällen.",
       "text": "<p>Der Grund dafür war eine vorangegangene ärztliche Versorgung eines Fahrgastes.</p>",
       "durationBegin": "16.02.2026",
       "durationEnd": "16.02.2026",
       "mapHref": "https://karte.bahn.de/detail/1f7a7cdb-2c87-49d0-a7c7-1ab0b902b88f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/fb75d35e-8294-4403-948e-6a4122399e83reisendenkarte_20260216-195528.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/fb75d35e-8294-4403-948e-6a4122399e83reisendenkarte_20260216-195528.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/1eb5c3ca-7404-44a3-8788-1559576c279creisendenkarte_20260216-195528.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/1eb5c3ca-7404-44a3-8788-1559576c279creisendenkarte_20260216-195528.png",
           "info": "",
           "alt": "Reisendenkarte 16.02.2026 19:55:28",
           "openInNewTab": true
@@ -564,7 +602,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.02.2026 19:56",
+      "lastModified": "16.02.2026 20:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -579,16 +617,16 @@
         "category": "medical_emergency",
         "label": "Notarzteinsatz auf der Strecke"
       },
-      "headline": "Notarzteinsatzes zwischen Waiblingen und Backnang ",
-      "summary": "Aufgrund eines Notarzteinsatzes zwischen Waiblingen und Backnang ist die Strecke in beide Richtungen gesperrt. Die Streckensperrung dauert voraussichtlich bis 21:00. Weitere Informationen folgen.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Notarzteinsatzes zwischen Waiblingen und Backnang beendet",
+      "summary": "Die Sperrung zwischen Waiblingen und Backnang aufgrund eines Notarzteinsatzes wurde früher als erwartet aufgehoben. Die Strecke ist wieder freigegeben und der Zugverkehr wird aufgenommen. Bitte beachten Sie, dass es vorübergehend noch zu einzelnen Folgeverspätungen kommen kann, bis sich der Betrieb stabilisiert hat.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul>",
       "durationBegin": "16.02.2026",
       "durationEnd": "16.02.2026",
       "mapHref": "https://karte.bahn.de/detail/190bca82-e48d-4be9-9e81-2c8315022fc0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-16/448bf13e-614a-49fc-99ab-10071169a3e8reisendenkarte_20260216-185928.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-16/448bf13e-614a-49fc-99ab-10071169a3e8reisendenkarte_20260216-185928.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-16/b13d1f29-919d-4edf-9b91-2f30ca1c344areisendenkarte_20260216-185928.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-16/b13d1f29-919d-4edf-9b91-2f30ca1c344areisendenkarte_20260216-185928.png",
           "info": "",
           "alt": "Reisendenkarte 16.02.2026 18:59:28",
           "openInNewTab": true
@@ -614,57 +652,12 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.02.2026 19:02",
+      "lastModified": "16.02.2026 20:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a2c1ac2a-4252-401b-a1de-fce4b4e60d77",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_medical_emergency"
-    },
-    {
-      "id": "540f1927-c00e-4f79-813d-64a6135285bb",
-      "disruptionId": "27023d69-a02d-4a47-bdb6-3827468fa5a8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 2 Markt Schwaben: Vorangegangener technischer Defekt an einem Fahrzeug",
-      "summary": "Es kommt noch zu Folgeverspätungen bis zu 15 Minuten, Ausfällen und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein vorangegangener technischer Defekt an einem Fahrzeug.</p>",
-      "durationBegin": "16.02.2026",
-      "durationEnd": "16.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/27023d69-a02d-4a47-bdb6-3827468fa5a8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/d7acfdb1-f971-4621-8f41-6646b03a9c43reisendenkarte_20260216-183713.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/d7acfdb1-f971-4621-8f41-6646b03a9c43reisendenkarte_20260216-183713.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.02.2026 18:37:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.02.2026 18:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/540f1927-c00e-4f79-813d-64a6135285bb",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
