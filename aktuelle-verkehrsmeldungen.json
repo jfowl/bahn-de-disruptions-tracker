@@ -54,44 +54,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
     },
     {
-      "id": "dcb39fe4-4377-4e88-a404-bdc1b0c59693",
-      "disruptionId": "c577dbcb-e5ec-4a5c-a861-5eb345b7bad6",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": " S7: Verspätungen ",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Züge mit dem Ziel Bergedorf fahren abweichend nach Barmbek.</p><p>Aktuell fährt die S7 alle 20 Minuten.</p><p>Zwischen Bergedorf und Aumühle ist ein Pendelbetrieb eingerichtet.</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Technische Störung an der Strecke</strong></p>",
-      "durationBegin": "16.02.2026",
-      "durationEnd": "16.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/c577dbcb-e5ec-4a5c-a861-5eb345b7bad6",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.02.2026 11:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dcb39fe4-4377-4e88-a404-bdc1b0c59693",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "caf49b9e-e546-4581-a2b8-79b46d5d397c",
       "disruptionId": "1a5eb599-0de7-4e38-9b88-1c09f8961e02",
       "author": "REGIO_SUEDOST",
@@ -932,6 +894,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "46a08f14-ea12-4986-a8ad-1b9cde789e6d",
+      "disruptionId": "472575e0-85ea-4588-8fe7-5fc3ff291ea8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 7 Solln: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Solln kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "16.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/472575e0-85ea-4588-8fe7-5fc3ff291ea8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/7e8324c5-9640-4033-936f-bda983933e42reisendenkarte_20260216-124649.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-16/7e8324c5-9640-4033-936f-bda983933e42reisendenkarte_20260216-124649.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.02.2026 12:46:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.02.2026 12:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/46a08f14-ea12-4986-a8ad-1b9cde789e6d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
