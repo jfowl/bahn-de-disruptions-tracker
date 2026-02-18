@@ -781,58 +781,6 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
     },
     {
-      "id": "b2eb07eb-a9d0-4e00-9e6a-70bc9b46c287",
-      "disruptionId": "d25fa229-3563-4d9c-8227-22c5e1c4308f",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Jungfernstieg: Ausgang Rathausmarkt gesperrt.",
-      "summary": " Zurzeit ist der Ausgang Rathausmarkt am Jungfernstieg gesperrt.",
-      "text": "<p> </p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/d25fa229-3563-4d9c-8227-22c5e1c4308f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.02.2026 15:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b2eb07eb-a9d0-4e00-9e6a-70bc9b46c287",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
       "author": "REGIO_BY",
@@ -1077,6 +1025,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "3c2b0d19-6ced-466f-92f5-3ccc727345a1",
+      "disruptionId": "08103235-9e5c-431b-8328-281af8240c34",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Stammstrecke: Kurzzeitige Reparatur an der Oberleitung am Hauptbahnhof (tief)",
+      "summary": "Die S-Bahnen halten derzeit nicht am Hauptbahnhof (tief).",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Hackerbrücke.</p><p>Es ist mit Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen zu rechnen.</p><p>Grund hierfür ist eine kurzzeitige Reparatur an der Oberleitung am Hauptbahnhof (tief).</p>",
+      "durationBegin": "18.02.2026",
+      "durationEnd": "18.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/08103235-9e5c-431b-8328-281af8240c34",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/fb01fb0d-293d-4761-a9fd-3954abe3252areisendenkarte_20260218-172818.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/fb01fb0d-293d-4761-a9fd-3954abe3252areisendenkarte_20260218-172818.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.02.2026 17:28:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.02.2026 17:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3c2b0d19-6ced-466f-92f5-3ccc727345a1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
