@@ -338,6 +338,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "23e9040e-6a72-42a0-b33d-e7965d018462",
+      "disruptionId": "249d58b1-71b4-44d7-9ee9-7bfcdaa013d1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 5 Neubiberg ↔ Hohenbrunn: Reparatur an einem Signal",
+      "summary": "Zwischen Neubiberg und Hohenbrunn sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen in Richtung Kreuzstraße fahren bis Neubiberg und wenden dort vorzeitig.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus zwischen Neubiberg und Hohenbrunn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Zwischen Hohenbrunn und Kreuzstraße besteht ein S-Bahn-Pendelverkehr.</p><p>Bitte rechnen Sie mit erheblichen Verspätungen .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "19.02.2026",
+      "durationEnd": "19.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/249d58b1-71b4-44d7-9ee9-7bfcdaa013d1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/00331439-3506-4206-b9af-4766180a1603reisendenkarte_20260219-181644.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/00331439-3506-4206-b9af-4766180a1603reisendenkarte_20260219-181644.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.02.2026 18:16:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.02.2026 18:18",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/23e9040e-6a72-42a0-b33d-e7965d018462",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -465,76 +510,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "c81f5a76-9d8b-4087-83db-26c1b1f799cb",
-      "disruptionId": "bb125b1c-07b6-4cc5-a882-d9470e977452",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Laupheim West und Biberach(Riß)",
-      "summary": "Der Streckenabschnitt zwischen Laupheim West und Biberach(Riß) ist im Moment beeinträchtigt. Dauer der Störung bis Betriebsschluss am 19.02.26. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren in dem betroffenen Streckenabschnitt langsamer. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RS 2 / RS 21 (Ulm – Biberach(Riß)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "17.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/bb125b1c-07b6-4cc5-a882-d9470e977452",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-19/98047545-cff2-4c91-848b-d03098599539reisendenkarte_20260217-114214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-19/98047545-cff2-4c91-848b-d03098599539reisendenkarte_20260217-114214.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.02.2026 11:42:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB RS2",
-          "filterName": "RB RS2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB RS21",
-          "filterName": "RB RS21",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "19.02.2026 07:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c81f5a76-9d8b-4087-83db-26c1b1f799cb",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -1038,51 +1013,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "c941edf5-4528-4241-9010-ef7ce5961f6b",
-      "disruptionId": "bb9cd31c-c830-4c3f-aa72-c09c4f42bd32",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Arnbach ↔ Altomünster: Reparatur an der Strecke",
-      "summary": "Zwischen Arnbach und Altomünster kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "19.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/bb9cd31c-c830-4c3f-aa72-c09c4f42bd32",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/3d2791b8-0abe-4e1f-96cd-379dd41cc4acreisendenkarte_20260219-154643.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/3d2791b8-0abe-4e1f-96cd-379dd41cc4acreisendenkarte_20260219-154643.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.02.2026 15:46:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.02.2026 16:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c941edf5-4528-4241-9010-ef7ce5961f6b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
