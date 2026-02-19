@@ -1040,51 +1040,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
-      "id": "7d75dc2b-69d7-47a3-95e6-8cbc939b22f0",
-      "disruptionId": "979d0c49-182c-458b-abb8-26acd2004bfb",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S4 Buchenau ↔ Grafrath: Polizeieinsatz",
-      "summary": "Korrektur: Die S-Bahnen fahren zwischen Buchenau und Grafrath mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "19.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/979d0c49-182c-458b-abb8-26acd2004bfb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/665e1323-8526-4a95-bbec-cfe028bcc73dreisendenkarte_20260219-142022.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/665e1323-8526-4a95-bbec-cfe028bcc73dreisendenkarte_20260219-142022.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.02.2026 14:20:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.02.2026 14:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7d75dc2b-69d7-47a3-95e6-8cbc939b22f0",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity0"
-    },
-    {
       "id": "d291c446-0558-46d8-b557-b7f6f6c08867",
       "disruptionId": "0a1c9d14-ae66-4aad-af12-19eb2420f04d",
       "author": "S_BAHN_MUC",
@@ -1092,16 +1047,16 @@
         "category": "technical_problem_railway_section",
         "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S 8 Neuaubing: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Neuaubing kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 8 Neuaubing",
+      "summary": "Im Bereich Neuaubing kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
       "durationBegin": "19.02.2026",
       "durationEnd": "19.02.2026",
       "mapHref": "https://karte.bahn.de/detail/0a1c9d14-ae66-4aad-af12-19eb2420f04d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/56a33e2c-26d0-492e-b813-94b16f43f6d6reisendenkarte_20260219-141119.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/56a33e2c-26d0-492e-b813-94b16f43f6d6reisendenkarte_20260219-141119.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/1f3e0d52-06f8-412a-8e22-79b5bf2e40e3reisendenkarte_20260219-141119.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/1f3e0d52-06f8-412a-8e22-79b5bf2e40e3reisendenkarte_20260219-141119.png",
           "info": "",
           "alt": "Reisendenkarte 19.02.2026 14:11:19",
           "openInNewTab": true
@@ -1117,12 +1072,17 @@
       ],
       "lines": [
         {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.02.2026 14:13",
+      "lastModified": "19.02.2026 15:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
