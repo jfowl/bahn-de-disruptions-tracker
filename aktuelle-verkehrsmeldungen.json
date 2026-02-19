@@ -338,51 +338,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "23e9040e-6a72-42a0-b33d-e7965d018462",
-      "disruptionId": "249d58b1-71b4-44d7-9ee9-7bfcdaa013d1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 5 Neubiberg ↔ Hohenbrunn: Reparatur an einem Signal",
-      "summary": "Zwischen Neubiberg und Hohenbrunn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Kreuzstraße fahren bis Neubiberg und wenden dort vorzeitig.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus zwischen Neubiberg und Hohenbrunn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Zwischen Hohenbrunn und Kreuzstraße besteht ein S-Bahn-Pendelverkehr.</p><p>Bitte rechnen Sie mit erheblichen Verspätungen .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "19.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/249d58b1-71b4-44d7-9ee9-7bfcdaa013d1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/00331439-3506-4206-b9af-4766180a1603reisendenkarte_20260219-181644.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/00331439-3506-4206-b9af-4766180a1603reisendenkarte_20260219-181644.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.02.2026 18:16:44",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.02.2026 18:18",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/23e9040e-6a72-42a0-b33d-e7965d018462",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -425,6 +380,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "a5a40ad6-2ca2-4d14-b36d-fdc5082e2335",
+      "disruptionId": "c40b49c2-6525-4b59-9c7c-e45f63baaa7e",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Es kommt zu Massive Beeinträchtigung auf der Linie Bus RE22",
+      "summary": "Aufgrund von Schnee und Eis kommt es zu Verspätungen auf der Linie Bus RE22",
+      "text": "<p><strong>Zeitraum:</strong> Donnerstag, 19. Februar 2026, 19:04 Uhr bis Freitag, 20. Februar 2026, 06:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22</p><p>Grund hierfür sind Schnee und Eis.</p><p><strong>Unsere Empfehlung: </strong></p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
+      "durationBegin": "19.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/c40b49c2-6525-4b59-9c7c-e45f63baaa7e",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/detail/c40b49c2-6525-4b59-9c7c-e45f63baaa7e",
+          "label": "Zur Störungskarte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE22",
+          "filterName": "Bus RE22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.02.2026 19:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a5a40ad6-2ca2-4d14-b36d-fdc5082e2335",
+      "magnoliaPath": "/aktuell/massive_impairment_weather_storm"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
