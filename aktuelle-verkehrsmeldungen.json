@@ -78,7 +78,7 @@
       },
       "headline": "Verkehrsmeldung für die LinieRB 24 ",
       "summary": "Mittwoch, 18.02.2026 13:53 Uhr bis vsl. Samstag, 28.02.2026 23:30 Uhr",
-      "text": "<p>Die Züge der Linie RB24 werden ab Berlin-Lichtenberg nach Flughafen BER umgeleitet. Die Halte Berlin Ostkreuz und Berlin-Schöneweide entfallen. Grund: Reparatur an einer Weiche. Nutzen Sie andere Verkehrsmittel oder die S-Bahn</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Die Züge der Linie RB24 in Richtung Flughafen BER werden ab Berlin-Lichtenberg nach Flughafen BER umgeleitet. Die Halte Berlin Ostkreuz und Berlin-Schöneweide entfallen. Grund: Reparatur an einer Weiche. Nutzen Sie andere Verkehrsmittel oder die S-Bahn</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "18.02.2026",
       "durationEnd": "28.02.2026",
       "mapHref": "https://karte.bahn.de/detail/d9a5f491-4b10-410c-8835-b3b26df358e5",
@@ -86,14 +86,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -112,7 +112,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.02.2026 14:04",
+      "lastModified": "19.02.2026 11:03",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/55717862-1444-4399-9a6b-6bd935867f7c",
@@ -1033,6 +1033,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "34ebee46-cc57-46a8-a4b3-07e2a74b46fc",
+      "disruptionId": "31c20462-2053-4035-b84d-e48180559b11",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Stammstrecke Rosenheimer Platz: Polizeieinsatz",
+      "summary": "Im Bereich Rosenheimer Platz in Richtung Pasing kommt es zu Verspätungen und Umleitungen.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "19.02.2026",
+      "durationEnd": "19.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/31c20462-2053-4035-b84d-e48180559b11",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/450b36e6-5f55-4da6-98a8-a252a5f75846reisendenkarte_20260219-105657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-19/450b36e6-5f55-4da6-98a8-a252a5f75846reisendenkarte_20260219-105657.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.02.2026 10:56:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.02.2026 11:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/34ebee46-cc57-46a8-a4b3-07e2a74b46fc",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
