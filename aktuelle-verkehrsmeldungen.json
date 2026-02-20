@@ -306,6 +306,93 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "d834a318-ada1-4b7c-a1f4-a3d802bd130b",
+      "disruptionId": "76f58b9d-4cfd-4aba-8c35-dfc2c1c7fd06",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S 2 Riem ↔ Feldkirchen",
+      "summary": "Die Züge können wieder zwischen Riem und Feldkirchen fahren.",
+      "text": "<p>Es kommt noch zu vereinzelten Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/76f58b9d-4cfd-4aba-8c35-dfc2c1c7fd06",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/04a95cc0-f256-4c0c-bc0c-b74a4feb02d5reisendenkarte_20260220-211339.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/04a95cc0-f256-4c0c-bc0c-b74a4feb02d5reisendenkarte_20260220-211339.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 21:13:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 21:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d834a318-ada1-4b7c-a1f4-a3d802bd130b",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section8"
+    },
+    {
+      "id": "52726efa-3e1f-41a1-891b-4b9193bbb734",
+      "disruptionId": "98b1f1bf-d5dd-49e0-8523-e054beed1ecc",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S3 und S5: Streckensperrung",
+      "summary": "Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p> </p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/98b1f1bf-d5dd-49e0-8523-e054beed1ecc",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 21:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/52726efa-3e1f-41a1-891b-4b9193bbb734",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "c9c26fdf-2cd1-4f03-8151-51fc806dae66",
       "disruptionId": "45d39310-a38a-4a17-a8e7-d3286e686636",
       "author": "S_BAHN_MUC",
@@ -529,51 +616,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "5cf54451-37eb-4678-b795-223f8a0ddd34",
-      "disruptionId": "fd9466a1-32d7-4ffc-bcfc-b060ed901345",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 1 Freising / Flughafen: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten.\n\n",
-      "text": "<p>Die S-Bahnen fahren <strong>wieder </strong>zwischen Leuchtenbergring ↔ Freising/Flughafen, <strong>aber ab Neufahrn weiterhin abwechselnd nach Freising und zum Flughafen (40-Minuten-Takt).</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Als Alternative empfehlen wir auf die S-Bahnen der Linie S8 Flughafen/Airport auszuweichen.</p><p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/fd9466a1-32d7-4ffc-bcfc-b060ed901345",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/1c89b9b5-e69f-47b7-8aa9-c4ffcb7fd69freisendenkarte_20260220-122623.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/1c89b9b5-e69f-47b7-8aa9-c4ffcb7fd69freisendenkarte_20260220-122623.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 12:26:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 20:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5cf54451-37eb-4678-b795-223f8a0ddd34",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -1032,6 +1074,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "6eb3b547-c3d9-4867-983b-f9d87b727357",
+      "disruptionId": "4fa4736b-e2be-443b-aecb-7f568a3e5336",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 7 Großhesselohe-Isartalbahnhof ↔ Höllriegelskreuth",
+      "summary": "Zwischen Großhesselohe-Isartalbahnhof und Höllriegelskreuth kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/4fa4736b-e2be-443b-aecb-7f568a3e5336",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/d35af811-05d7-46b9-85b6-497454b29a78reisendenkarte_20260220-212115.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/d35af811-05d7-46b9-85b6-497454b29a78reisendenkarte_20260220-212115.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 21:21:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 21:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6eb3b547-c3d9-4867-983b-f9d87b727357",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
