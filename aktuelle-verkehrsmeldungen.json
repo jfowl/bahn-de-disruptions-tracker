@@ -11,9 +11,9 @@
       },
       "headline": "⚠️Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌ Hammerbrook </p><p></p><p>❌ Wilhelmsburg </p><p></p><p>❌ Neugraben - Gleis 2 / 3 </p><p></p><p>❌ Rothenburgsort </p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. </p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Hammerbrook</p><p></p><p>❌ Wilhelmsburg</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "18.02.2026",
-      "durationEnd": "20.02.2026",
+      "durationEnd": "23.02.2026",
       "mapHref": "https://karte.bahn.de/detail/bee10343-09cb-4e8b-af22-d8a6d475f3f5",
       "images": [],
       "downloads": [],
@@ -26,7 +26,7 @@
         },
         {
           "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsboard des HVV",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         }
@@ -61,7 +61,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.02.2026 16:08",
+      "lastModified": "20.02.2026 09:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -312,6 +312,49 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "1c86db73-b8cf-40c5-a9ab-b9112814e763",
+      "disruptionId": "fa43b64c-3f7c-4f9c-bf28-16b11f767147",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen zwischen Rosenheim und Salzburg",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es im Raum Prien am Chiemsee derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Strecke ist gesperrt. Die Züge entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC/RJ Züge München - Salzburg</li><li>RJ/EC Züge Innsbruck/Wörgl - Salzburg</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Nutzen sie die Züge des Nahverkehrs via Mühldorf(Obb), Simbach(Inn) für die Fahrt Richtung Linz/Wien.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/fa43b64c-3f7c-4f9c-bf28-16b11f767147",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/11676be3-2099-49ac-a15d-2e41923b845areisendenkarte_20260220-092238.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/11676be3-2099-49ac-a15d-2e41923b845areisendenkarte_20260220-092238.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 09:22:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.02.2026 09:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1c86db73-b8cf-40c5-a9ab-b9112814e763",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_police_activity"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -529,51 +572,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "0505d662-dd3c-445b-9ff0-8d3958e2afd5",
-      "disruptionId": "1c3cdecd-424c-4bd9-b562-753ef6c97d26",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 2 Erding: Technischer Defekt an einem Bahnübergang",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/1c3cdecd-424c-4bd9-b562-753ef6c97d26",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9024921a-f5b9-4a36-a3e1-7631e5be49a5reisendenkarte_20260220-072855.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9024921a-f5b9-4a36-a3e1-7631e5be49a5reisendenkarte_20260220-072855.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 07:28:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 08:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0505d662-dd3c-445b-9ff0-8d3958e2afd5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
-    },
-    {
       "id": "9e1743f5-2d84-4112-a8f6-39dfaffef41d",
       "disruptionId": "9c2356f0-909f-4944-8d77-3b4cee1054a6",
       "author": "S_BAHN_MUC",
@@ -581,7 +579,7 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einer Oberleitung",
+      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einem Signal",
       "summary": "Es kommt zu Verspätungen, Umleitungen, Ausfällen und Teilausfällen.",
       "text": "<p><strong>S 1 Freising und Flughafen</strong> </p><p>Verkehrt aktuell nur zwischen Freising/Flughafen und Moosach. Reisende nutzen bitte auch die U-Bahnen.</p><p><strong>S 5 Kreuzstraße</strong></p><p>Verkehrt aktuell nur zwischen Kreuzstraße und Ostbahnhof.</p><p><strong>S 8 Herrsching&nbsp;→&nbsp;Flughafen</strong></p><p>Die S-Bahnen werden zwischen Pasing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren. Der Halt am Leuchtenbergring entfällt. </p><p><strong>S 8 Flughafen&nbsp;→&nbsp;Herrsching</strong></p><p>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem&nbsp;Regelweg&nbsp;durch die Stammstrecke mit allen geplanten Halten. </p><p></p><p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "20.02.2026",
@@ -589,8 +587,8 @@
       "mapHref": "https://karte.bahn.de/detail/9c2356f0-909f-4944-8d77-3b4cee1054a6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/13e9cdd7-bcad-450c-b0d2-30f7a983887ereisendenkarte_20260220-085506.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/13e9cdd7-bcad-450c-b0d2-30f7a983887ereisendenkarte_20260220-085506.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/0769d734-d39e-4c3e-908f-f148efff2768reisendenkarte_20260220-085506.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/0769d734-d39e-4c3e-908f-f148efff2768reisendenkarte_20260220-085506.png",
           "info": "",
           "alt": "Reisendenkarte 20.02.2026 08:55:06",
           "openInNewTab": true
@@ -646,12 +644,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.02.2026 08:56",
+      "lastModified": "20.02.2026 09:08",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9e1743f5-2d84-4112-a8f6-39dfaffef41d",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section14"
+    },
+    {
+      "id": "0505d662-dd3c-445b-9ff0-8d3958e2afd5",
+      "disruptionId": "1c3cdecd-424c-4bd9-b562-753ef6c97d26",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 2 Erding: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1c3cdecd-424c-4bd9-b562-753ef6c97d26",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9024921a-f5b9-4a36-a3e1-7631e5be49a5reisendenkarte_20260220-072855.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9024921a-f5b9-4a36-a3e1-7631e5be49a5reisendenkarte_20260220-072855.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 07:28:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 08:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0505d662-dd3c-445b-9ff0-8d3958e2afd5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
     },
     {
       "id": "b3cc5cc5-7473-4ab0-becb-5f829fbe3f5a",
@@ -697,51 +740,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b3cc5cc5-7473-4ab0-becb-5f829fbe3f5a",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
-      "id": "e01d5cfb-bbe1-479d-8b69-91d260abce78",
-      "disruptionId": "862b7a8d-93e4-4750-a7c0-0600636ad378",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 5 Abweichende Linienführung: Technischer Defekt an einem Bahnübergang",
-      "summary": "Die S 5 fährt wieder Planmäßig.",
-      "text": "<p>Erster Zug von Pasing Abfahrt 09:33 Uhr.</p><p>Grund hierfür war ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/862b7a8d-93e4-4750-a7c0-0600636ad378",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/3e1609cf-b13f-40a2-8882-68525d406157reisendenkarte_20260220-060556.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/3e1609cf-b13f-40a2-8882-68525d406157reisendenkarte_20260220-060556.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 06:05:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 08:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e01d5cfb-bbe1-479d-8b69-91d260abce78",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section9"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -805,43 +803,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "d2b1505b-0d33-4338-8d62-4819498459ae",
-      "disruptionId": "e268a42c-691a-4f00-84ad-8dcb29bfd522",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "S 3 Maisach ↔ Deisenhofen: Witterungsbedingte Beeinträchtigungen",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 3 Maisach → München Ost → Deisenhofen</strong></p><ul><li>S 3 Maisach Abfahrt 07:40 Uhr → München Ost Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → München Ost Ankunft 08:39 Uhr</li></ul><p><strong>S 3 Deisenhofen → München Ost → Maisach</strong></p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → München Ost Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → München Ost Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:00 Uhr → München Ost Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → München Ost Abfahrt 08:17 Uhr → Pasing Ankunft 08:35 Uhr</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür sind witterungsbedingten Beeinträchtigungen.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/e268a42c-691a-4f00-84ad-8dcb29bfd522",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 05:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d2b1505b-0d33-4338-8d62-4819498459ae",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_weather_winter"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
