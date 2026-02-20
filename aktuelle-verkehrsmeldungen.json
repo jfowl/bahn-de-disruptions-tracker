@@ -265,6 +265,51 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "d81d857a-c6eb-494f-b467-0a289f6f1704",
+      "disruptionId": "e43ff880-94aa-46de-944a-9b3cd1df17d6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an der Oberleitung",
+      "summary": "Der Streckenabschnitt zwischen Dachau und Petershausen ist weiterhin gesperrt. ",
+      "text": "<p>S-Bahnen von Dachau verkehren ohne Halt nach Petershausen. S-Bahnen von Petershausen verkehren ohne Halt nach Dachau.</p><p>Der Ersatzverkehr mit Großraumtaxis und Bussen bleibt weiterhin bestehen. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p> Die Reparatur an der Oberleitung dauert noch an.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/e43ff880-94aa-46de-944a-9b3cd1df17d6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/48c0a99d-284b-43fa-ab83-00f355cc7b2breisendenkarte_20260220-050213.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/48c0a99d-284b-43fa-ab83-00f355cc7b2breisendenkarte_20260220-050213.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 05:02:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 06:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d81d857a-c6eb-494f-b467-0a289f6f1704",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "a5a40ad6-2ca2-4d14-b36d-fdc5082e2335",
       "disruptionId": "c40b49c2-6525-4b59-9c7c-e45f63baaa7e",
       "author": "DEUTSCHE_BAHN",
@@ -307,51 +352,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a5a40ad6-2ca2-4d14-b36d-fdc5082e2335",
       "magnoliaPath": "/aktuell/massive_impairment_weather_storm"
-    },
-    {
-      "id": "d81d857a-c6eb-494f-b467-0a289f6f1704",
-      "disruptionId": "e43ff880-94aa-46de-944a-9b3cd1df17d6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an der Oberleitung",
-      "summary": "Der Streckenabschnitt zwischen Dachau und Petershausen ist weiterhin gesperrt. ",
-      "text": "<p>Die S-Bahnen wenden in Dachau.</p><p>Der Ersatzverkehr mit Großraumtaxis bleibt weiterhin bestehen. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p> Die Reparatur an der Oberleitung dauert noch an.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/e43ff880-94aa-46de-944a-9b3cd1df17d6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/fd254c77-a4dc-4a76-9552-9744214702dareisendenkarte_20260220-050213.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/fd254c77-a4dc-4a76-9552-9744214702dareisendenkarte_20260220-050213.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 05:02:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 05:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d81d857a-c6eb-494f-b467-0a289f6f1704",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -448,11 +448,19 @@
       },
       "headline": "S 5 Abweichende Linienführung: Technischer Defekt an einem Bahnübergang",
       "summary": "Die S 5 fährt abweichend der regulären Linienführung wie folgt:",
-      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Leuchtenbergring.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Ostbahnhof ↔ Weßling:<strong> S8</strong> Richtung Herrsching</li></ul></li></ul><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Ostbahnhof ↔ Weßling:<strong> S8</strong> Richtung Herrsching</li></ul></li></ul><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "20.02.2026",
       "durationEnd": "20.02.2026",
       "mapHref": "https://karte.bahn.de/detail/862b7a8d-93e4-4750-a7c0-0600636ad378",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/2f48b248-9c89-41a1-819c-d3ee2b266d9freisendenkarte_20260220-060556.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/2f48b248-9c89-41a1-819c-d3ee2b266d9freisendenkarte_20260220-060556.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 06:05:56",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -468,7 +476,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.02.2026 05:42",
+      "lastModified": "20.02.2026 06:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
