@@ -122,15 +122,15 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Ansbach (-Stuttgart)",
-      "summary": "Ein Baum ist auf die Strecke zwischen Nürnberg und Ansbach gestürzt und hat die Oberleitung beschädigt. Dies beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Nürnberg und Stuttgart in beiden Fahrtrichtungen. Es kommt zu Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Stuttgart - Nürnberg</li><li>IC Züge Stuttgart - Nürnberg</li></ul><p>Die Behebung der Störung soll vsl. bis zur Mittagszeit erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Stuttgart",
+      "summary": "Ein Baum ist auf die Strecke zwischen Nürnberg und Ansbach gestürzt und hat die Oberleitung beschädigt. Dies beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Nürnberg und Stuttgart in beiden Fahrtrichtungen. Es kommt zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Nürnberg - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.02.2026",
       "mapHref": "https://karte.bahn.de/detail/c4d8e2f6-afc1-46d3-aa11-a183ba30727f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/8a521493-ea6e-43db-90d7-7b4461efdd11reisendenkarte_20260220-083245.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/8a521493-ea6e-43db-90d7-7b4461efdd11reisendenkarte_20260220-083245.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/d6223bfa-b81b-4383-9ee7-8591309a58adreisendenkarte_20260220-083245.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/d6223bfa-b81b-4383-9ee7-8591309a58adreisendenkarte_20260220-083245.png",
           "info": "",
           "alt": "Reisendenkarte 20.02.2026 08:32:45",
           "openInNewTab": true
@@ -152,7 +152,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.02.2026 08:34",
+      "lastModified": "20.02.2026 12:36",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/113ed65b-9c76-42bb-99f9-24fed3e3069a",
@@ -528,6 +528,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "5cf54451-37eb-4678-b795-223f8a0ddd34",
+      "disruptionId": "fd9466a1-32d7-4ffc-bcfc-b060ed901345",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 1 Freising / Flughafen: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/fd9466a1-32d7-4ffc-bcfc-b060ed901345",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/617f78b7-b4fe-4416-85a6-108d7d3c0341reisendenkarte_20260220-122623.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/617f78b7-b4fe-4416-85a6-108d7d3c0341reisendenkarte_20260220-122623.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 12:26:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 12:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5cf54451-37eb-4678-b795-223f8a0ddd34",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
+    },
+    {
       "id": "9e1743f5-2d84-4112-a8f6-39dfaffef41d",
       "disruptionId": "9c2356f0-909f-4944-8d77-3b4cee1054a6",
       "author": "S_BAHN_MUC",
@@ -535,16 +580,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an einem Signal",
-      "summary": "Die Stammstrecke ist zwischen Pasing und Ostbahnhof gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen und Teilausfällen. Der Grund hierfür ist eine Reparatur an einem Signal.",
-      "text": "<p>Die S-Bahnen fahren wie folgt:&nbsp;</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong></li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong></li><li>Moosach ↔ Pasing: <strong>Bus 162</strong></li><li>Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: <strong>U5</strong>; Ostbahnhof ↔ Flughafen: <strong>S8</strong>&nbsp;</li></ul></li></ul><p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 verkehrt auf dem Regelweg.</li></ul><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt auf dem Regelweg.</li></ul><p><strong>S 4 Geltendorf ↔ Trudering</strong></p><ul><li>Die S4 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Hauptbahnhof Gleise 27-36</strong>. Ohne Halt zwischen <strong>Pasing </strong>↔ <strong>Hauptbahnhof.</strong></li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S 6 verkehrt auf dem Regelweg.</li></ul><p><strong>S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></p><ul><li>Die S7 verkehrt auf dem Regelweg <strong>Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S 8 verkehrt auf dem Regelweg.</li></ul><p>Die S 20 entfällt.</p><p><strong>Alternativen zwischen Pasing und München Ostbahnhof für beide Richtungen:</strong>&nbsp;</p><ul><li><ul><li><strong>Tram 16 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor&nbsp;</li><li><strong>Tram 17 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 18 mit Halten</strong>: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Giesing&nbsp;</li><li><strong>Tram 19 mit Halten</strong>: Pasing ↔ Laim(Fürstenrieder Straße) ↔ Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Leuchtenbergring(Einsteinstraße) ↔ Berg am Laim&nbsp;</li><li><strong>Tram 20 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Ostbahnhof ↔ Leuchtenbergring(Ampfingstraße)&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Ostbahnhof ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li><li><strong>U5 mit Halten</strong>: Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof ↔ Heimeranplatz ↔ Laimer Platz; <strong>Bus 57:</strong> Laimer Platz ↔ Pasing&nbsp;</li><li><strong>Bus 130/157 mit Halten</strong>: Pasing ↔ Laim ↔ Heimeranplatz&nbsp;</li></ul></li></ul><p>Informieren Sie sich wegen Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</p><p>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</p><p>DB-Fahrscheine werden für die Dauer der Störung in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.&nbsp;</p>",
+      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an einem Signal beendet",
+      "summary": "Bitte rechnen Sie noch mit Verspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an einem Signal.",
+      "text": "<p>Die S-Bahnen fahren wie folgt:&nbsp;</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong></li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong></li><li>Moosach ↔ Pasing: <strong>Bus 162</strong></li><li>Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: <strong>U5</strong>; Ostbahnhof ↔ Flughafen: <strong>S8</strong>&nbsp;</li></ul></li></ul><p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 verkehrt auf dem Regelweg.</li></ul><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt auf dem Regelweg.</li></ul><p><strong>S 4 Geltendorf ↔ Trudering</strong></p><ul><li>Die S4 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Hauptbahnhof Gleise 27-36</strong>. Ohne Halt zwischen <strong>Pasing </strong>↔ <strong>Hauptbahnhof.</strong></li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S 6 verkehrt auf dem Regelweg.</li></ul><p><strong>S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></p><ul><li>Die S7 verkehrt auf dem Regelweg <strong>Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S 8 verkehrt auf dem Regelweg.</li></ul><p>Die S 20 entfällt.</p><p>Informieren Sie sich wegen Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</p><p>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</p><p>DB-Fahrscheine werden für die Dauer der Störung in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.&nbsp;</p>",
       "durationBegin": "20.02.2026",
       "durationEnd": "20.02.2026",
       "mapHref": "https://karte.bahn.de/detail/9c2356f0-909f-4944-8d77-3b4cee1054a6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/10e3f8d6-dabf-45ff-81aa-097a3b5be57breisendenkarte_20260220-112359.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/10e3f8d6-dabf-45ff-81aa-097a3b5be57breisendenkarte_20260220-112359.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/8907b1cb-1fd4-424d-93d3-d560f3d3c65dreisendenkarte_20260220-112359.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/8907b1cb-1fd4-424d-93d3-d560f3d3c65dreisendenkarte_20260220-112359.png",
           "info": "",
           "alt": "Reisendenkarte 20.02.2026 11:23:59",
           "openInNewTab": true
@@ -605,102 +650,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.02.2026 11:43",
+      "lastModified": "20.02.2026 12:21",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9e1743f5-2d84-4112-a8f6-39dfaffef41d",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section14"
-    },
-    {
-      "id": "b3cc5cc5-7473-4ab0-becb-5f829fbe3f5a",
-      "disruptionId": "5da3a455-52ab-449f-92d3-d92ea7037703",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S 2 Petershausen: Erneute Reparatur an der Oberleitung beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine Reparatur an der Oberleitung.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/5da3a455-52ab-449f-92d3-d92ea7037703",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/fdc672c7-00aa-4ed8-848d-0f8502f79894reisendenkarte_20260220-084442.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/fdc672c7-00aa-4ed8-848d-0f8502f79894reisendenkarte_20260220-084442.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 08:44:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "20.02.2026 11:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b3cc5cc5-7473-4ab0-becb-5f829fbe3f5a",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
-      "id": "0505d662-dd3c-445b-9ff0-8d3958e2afd5",
-      "disruptionId": "1c3cdecd-424c-4bd9-b562-753ef6c97d26",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 2 Erding: Technischer Defekt an einem Bahnübergang",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "20.02.2026",
-      "durationEnd": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/1c3cdecd-424c-4bd9-b562-753ef6c97d26",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/73c304b5-1f27-45ec-b792-4023bdf12452reisendenkarte_20260220-072855.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/73c304b5-1f27-45ec-b792-4023bdf12452reisendenkarte_20260220-072855.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 07:28:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 09:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0505d662-dd3c-445b-9ff0-8d3958e2afd5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -924,14 +879,14 @@
       },
       "headline": "Baustelleninformation zur Linie Stammstrecke am Nächte 24./25. und 25./26. Februar 2026",
       "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten von Dienstag/Mittwoch, 24./25.Februar und Mittwoch/Donnerstag, 25./26.Februar 2026 jeweils von 22:10 bis 4:40 Uhr zwischen Ostbahnhof ↔ Pasing zu Fahrplanäderungen mit frühere Abfahrten, Umleitungen und Haltausfällen.",
-      "text": "<p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>S1:</p><ul><li>Züge fahren planmäßig nach Fahrplan</li><li>die ersten beiden Züge früh fahren von Leuchtenbergring bis Moosach 5 Minuten früher</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus</li></ul><p>S6:</p><ul><li>Züge in Richtung Tutzing erhalten ab Ostbahnhof und ab Pasing jeweils ca. 10 Minuten Verspätung</li><li>Züge in Richtung Ebersberg fahren planmäßig</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Die Linien S1, S2 und S7 fahren planmäßig und die S6 fährt als einzige Linie zwischen Ostbahnhof und Pasing.</p><p></p><p>Bitte planen Sie mehr Zeit für Ihre Fahrt ein.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><p></p><p></p><ul><li>Nächte Dienstag/Mittwoch, 24./25. und Mittwoch/Donnerstag, 25./26.2.2026</li><li>Nächte Mittwoch/Donnerstag, 11./12.3 und Donnerstag/Freitag, 12./13.3.2026</li></ul><p></p><p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>S1:</p><ul><li>Züge fahren planmäßig nach Fahrplan</li><li>die ersten beiden Züge früh fahren von Leuchtenbergring bis Moosach 5 Minuten früher</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus</li></ul><p>S6:</p><ul><li>Züge in Richtung Tutzing erhalten ab Ostbahnhof und ab Pasing jeweils ca. 10 Minuten Verspätung</li><li>Züge in Richtung Ebersberg fahren planmäßig</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Die Linien S1, S2 und S7 fahren planmäßig und die S6 fährt als einzige Linie zwischen Ostbahnhof und Pasing.</p><p></p><p>Bitte planen Sie mehr Zeit für Ihre Fahrt ein.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "24.02.2026",
       "durationEnd": "13.03.2026",
       "mapHref": "https://karte.bahn.de/detail/eb16f2c6-0fa7-4c88-b6db-63ccac50dd28",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/d8d0e989-7a5e-465f-a660-bef3a1d76c1dreisendenkarte_20260214-154657.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/d8d0e989-7a5e-465f-a660-bef3a1d76c1dreisendenkarte_20260214-154657.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/989cb2e5-6c86-4eb4-8f90-8d4b8cbe7be2reisendenkarte_20260214-154657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/989cb2e5-6c86-4eb4-8f90-8d4b8cbe7be2reisendenkarte_20260214-154657.png",
           "info": "",
           "alt": "Reisendenkarte 14.02.2026 15:46:57",
           "openInNewTab": true
@@ -939,7 +894,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/23a9bc43-5059-49f5-8fe1-a09bebc81d09Fpl%252BESP%252BLaim%252BS%252B1-S%252B8%252B24%252BFeb-13%252BM%25C3%25A4rz.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/f38464cb-aed8-4d06-b860-3d9e4d89c181Fpl%252BESP%252BLaim%252BS%252B1-S%252B8%252B24%252BFeb-13%252BM%25C3%25A4rz.pdf",
           "label": "Stammstrecke Fahrplan 24./25.2. und Mi./Do., 25./26.2.2026 und  11./12.3. und Do./Fr., 12./13.3.2026",
           "info": "",
           "openInNewTab": true
@@ -989,9 +944,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.02.2026 08:01",
+      "lastModified": "20.02.2026 12:29",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7e200e1a-da36-4443-b629-30093f516c2c",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
