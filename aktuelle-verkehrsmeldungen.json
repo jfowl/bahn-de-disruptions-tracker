@@ -311,6 +311,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "c9c26fdf-2cd1-4f03-8151-51fc806dae66",
+      "disruptionId": "45d39310-a38a-4a17-a8e7-d3286e686636",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S 2 Erding: Reparatur an einer Oberleitung",
+      "summary": "Aktuell keine Zugfahrten zwischen Markt Schwaben und Erding möglich.",
+      "text": "<p>Ein Ersatzverkehr ist in Planung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an einer Oberleitung.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren. </p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/45d39310-a38a-4a17-a8e7-d3286e686636",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9a563879-a106-44e3-8aab-4845460db5a6reisendenkarte_20260220-125726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/9a563879-a106-44e3-8aab-4845460db5a6reisendenkarte_20260220-125726.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 12:57:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 12:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c9c26fdf-2cd1-4f03-8151-51fc806dae66",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -526,6 +571,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "70f724a2-670d-4cb5-9112-ad7e24575526",
+      "disruptionId": "6accf2af-f062-4220-b474-3ff7012076e7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6accf2af-f062-4220-b474-3ff7012076e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/5c62f457-e694-4a42-b92d-7fdc49975b3ereisendenkarte_20260220-124233.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/5c62f457-e694-4a42-b92d-7fdc49975b3ereisendenkarte_20260220-124233.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 12:42:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 12:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70f724a2-670d-4cb5-9112-ad7e24575526",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
     },
     {
       "id": "5cf54451-37eb-4678-b795-223f8a0ddd34",
@@ -868,88 +988,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "7e200e1a-da36-4443-b629-30093f516c2c",
-      "disruptionId": "eb16f2c6-0fa7-4c88-b6db-63ccac50dd28",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Linie Stammstrecke am Nächte 24./25. und 25./26. Februar 2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten von Dienstag/Mittwoch, 24./25.Februar und Mittwoch/Donnerstag, 25./26.Februar 2026 jeweils von 22:10 bis 4:40 Uhr zwischen Ostbahnhof ↔ Pasing zu Fahrplanäderungen mit frühere Abfahrten, Umleitungen und Haltausfällen.",
-      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><p></p><p></p><ul><li>Nächte Dienstag/Mittwoch, 24./25. und Mittwoch/Donnerstag, 25./26.2.2026</li><li>Nächte Mittwoch/Donnerstag, 11./12.3 und Donnerstag/Freitag, 12./13.3.2026</li></ul><p></p><p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>S1:</p><ul><li>Züge fahren planmäßig nach Fahrplan</li><li>die ersten beiden Züge früh fahren von Leuchtenbergring bis Moosach 5 Minuten früher</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus</li></ul><p>S6:</p><ul><li>Züge in Richtung Tutzing erhalten ab Ostbahnhof und ab Pasing jeweils ca. 10 Minuten Verspätung</li><li>Züge in Richtung Ebersberg fahren planmäßig</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Die Linien S1, S2 und S7 fahren planmäßig und die S6 fährt als einzige Linie zwischen Ostbahnhof und Pasing.</p><p></p><p>Bitte planen Sie mehr Zeit für Ihre Fahrt ein.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "24.02.2026",
-      "durationEnd": "13.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb16f2c6-0fa7-4c88-b6db-63ccac50dd28",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/989cb2e5-6c86-4eb4-8f90-8d4b8cbe7be2reisendenkarte_20260214-154657.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/989cb2e5-6c86-4eb4-8f90-8d4b8cbe7be2reisendenkarte_20260214-154657.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.02.2026 15:46:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/f38464cb-aed8-4d06-b860-3d9e4d89c181Fpl%252BESP%252BLaim%252BS%252B1-S%252B8%252B24%252BFeb-13%252BM%25C3%25A4rz.pdf",
-          "label": "Stammstrecke Fahrplan 24./25.2. und Mi./Do., 25./26.2.2026 und  11./12.3. und Do./Fr., 12./13.3.2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.02.2026 12:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7e200e1a-da36-4443-b629-30093f516c2c",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "2d44b964-3cdb-42cd-8c81-a12ace2d99ba",
