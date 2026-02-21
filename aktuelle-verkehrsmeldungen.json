@@ -2,64 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "52ba8121-7e2e-45e1-adb5-172b10c8667f",
-      "disruptionId": "7e4c073b-1f74-4ec8-b9ce-4f755d14886d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Köln und Siegburg",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Köln und Frankfurt(M) beeinträchtigt. Die Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 10 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Frankfurt (M) und Köln, die nicht in Koblenz halten</li></ul><p>Der Einsatz wird mindestens bis in die Mittagsstunden andauern. Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/7e4c073b-1f74-4ec8-b9ce-4f755d14886d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/da3e9f7e-f1f7-48f9-8c74-5db0640d5aa9reisendenkarte_20260221-072830.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/da3e9f7e-f1f7-48f9-8c74-5db0640d5aa9reisendenkarte_20260221-072830.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.02.2026 07:28:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.02.2026 07:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/52ba8121-7e2e-45e1-adb5-172b10c8667f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_medical_emergency"
-    },
-    {
       "id": "aea6a390-4a6d-4bb7-86d3-df424f98dd42",
       "disruptionId": "bee10343-09cb-4e8b-af22-d8a6d475f3f5",
       "author": "S_BAHN_HH",
@@ -172,6 +114,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
+      "id": "cfda5cdc-837d-4b99-b4de-35e427d42b9d",
+      "disruptionId": "393e69b9-ab4e-4bba-a5f3-4611f1119d84",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Leipzig und Dresden",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen und Verspätungen bis zu 20 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge auf der Verbindung Leipzig - Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/393e69b9-ab4e-4bba-a5f3-4611f1119d84",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/892b0d5d-4158-4a9c-824b-dc60fe088b7freisendenkarte_20260220-172829.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/892b0d5d-4158-4a9c-824b-dc60fe088b7freisendenkarte_20260220-172829.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 17:28:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.02.2026 08:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/cfda5cdc-837d-4b99-b4de-35e427d42b9d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "55717862-1444-4399-9a6b-6bd935867f7c",
       "disruptionId": "d9a5f491-4b10-410c-8835-b3b26df358e5",
       "author": "REGIO_NORDOST",
@@ -221,50 +207,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/55717862-1444-4399-9a6b-6bd935867f7c",
       "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "cfda5cdc-837d-4b99-b4de-35e427d42b9d",
-      "disruptionId": "393e69b9-ab4e-4bba-a5f3-4611f1119d84",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Leipzig und Dresden",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen und Verspätungen bis zu 20 Minuten im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge auf der Verbindung Leipzig - Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/393e69b9-ab4e-4bba-a5f3-4611f1119d84",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/6218bd52-c818-45c6-a517-ad78a0e6ac3ereisendenkarte_20260220-172829.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-20/6218bd52-c818-45c6-a517-ad78a0e6ac3ereisendenkarte_20260220-172829.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 17:28:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.02.2026 17:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/cfda5cdc-837d-4b99-b4de-35e427d42b9d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "e2b32398-acc5-423a-8ff3-6440666e8858",
@@ -560,8 +502,8 @@
       "mapHref": "https://karte.bahn.de/detail/aeedb8af-e6ca-402b-801a-3885e7bee8a3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/322b159a-f907-46d7-adef-ec40b881576areisendenkarte_20260221-065701.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/322b159a-f907-46d7-adef-ec40b881576areisendenkarte_20260221-065701.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/014f8741-a2c5-4c36-b72e-d2536e427d4ereisendenkarte_20260221-065701.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/014f8741-a2c5-4c36-b72e-d2536e427d4ereisendenkarte_20260221-065701.png",
           "info": "",
           "alt": "Reisendenkarte 21.02.2026 06:57:01",
           "openInNewTab": true
@@ -582,7 +524,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.02.2026 06:58",
+      "lastModified": "21.02.2026 08:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
