@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "06b39d4a-1d50-49b0-b8dc-da3f04e73de7",
+      "disruptionId": "7cf806bb-57c4-4d8b-ba6b-29d350355731",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
+      "summary": "Aufgrund einer Oberleitungsstörung an der Strecke zwischen Frankfurt (M) Hbf und Koblenz Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE Verkehre zwischen Frankfurt und Koblenz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/7cf806bb-57c4-4d8b-ba6b-29d350355731",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/c6bba5fb-33c3-453c-94df-68d924fb18f6reisendenkarte_20260221-085651.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/c6bba5fb-33c3-453c-94df-68d924fb18f6reisendenkarte_20260221-085651.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.02.2026 08:56:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.02.2026 09:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/06b39d4a-1d50-49b0-b8dc-da3f04e73de7",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "aea6a390-4a6d-4bb7-86d3-df424f98dd42",
       "disruptionId": "bee10343-09cb-4e8b-af22-d8a6d475f3f5",
       "author": "S_BAHN_HH",
@@ -502,8 +560,8 @@
       "mapHref": "https://karte.bahn.de/detail/aeedb8af-e6ca-402b-801a-3885e7bee8a3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/014f8741-a2c5-4c36-b72e-d2536e427d4ereisendenkarte_20260221-065701.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/014f8741-a2c5-4c36-b72e-d2536e427d4ereisendenkarte_20260221-065701.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/01c767ed-9013-4dcd-aee8-877179466d25reisendenkarte_20260221-065701.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-21/01c767ed-9013-4dcd-aee8-877179466d25reisendenkarte_20260221-065701.png",
           "info": "",
           "alt": "Reisendenkarte 21.02.2026 06:57:01",
           "openInNewTab": true
@@ -524,7 +582,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.02.2026 08:11",
+      "lastModified": "21.02.2026 09:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
