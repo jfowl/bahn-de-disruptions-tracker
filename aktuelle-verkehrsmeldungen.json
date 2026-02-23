@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "97c138e4-621d-4cbc-9fc0-77efb39de617",
-      "disruptionId": "b5a85f84-4903-4de8-950c-2915adf2d4e1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen im Raum Bremen",
-      "summary": "Aufgrund eines defekten Stellwerkes in Bremen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Halte Bremen Hbf, Oldenburg (Olden), Leer (Ostf), Augustfehn, Westerstede Ocholt, Bad Zwischenahn, Hude und Delmenhorst entfallen. Einzelne Züge halten ersatzweise in Rotenburg (Wümme) und Kirchweyhe.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE Züge zwischen Berlin – Hannover – Bremen – Oldenburg (Oldb) fallen zwischen Oldenburg (Oldb) und Hannover Hbf aus.</li><li>ICE Züge zwischen Emden – Bremen – Hannover –&nbsp;Magdeburg - Leipzig fallen zwischen Emden und Hannover aus.</li><li>ICE Züge zwischen Greifswald/Ostseebad Binz – Stralsund – Rostock/Westerland (Sylt)/Hamburg – Bremen – Münster (Westf) – Köln – Frankfurt (M) Flughafen – Mannheim – Schweiz/Stuttgart – München werden umgeleitet.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.02.2026",
-      "durationEnd": "23.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/b5a85f84-4903-4de8-950c-2915adf2d4e1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-23/37a76c43-7895-4151-b73a-d92e924431b6reisendenkarte_20260223-134603.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-23/37a76c43-7895-4151-b73a-d92e924431b6reisendenkarte_20260223-134603.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.02.2026 13:46:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.02.2026 14:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/97c138e4-621d-4cbc-9fc0-77efb39de617",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "aea6a390-4a6d-4bb7-86d3-df424f98dd42",
       "disruptionId": "bee10343-09cb-4e8b-af22-d8a6d475f3f5",
       "author": "S_BAHN_HH",
@@ -478,6 +431,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "7e2b3e13-ed21-40e4-9464-7d081254072c",
+      "disruptionId": "a052b896-4499-45f6-8210-6c933ed4e2c0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 3 Giesing ↔ Deisenhofen: Reparatur an einem Signal",
+      "summary": "Zwischen Giesing und Deisenhofen kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>In diesem Bereich fahren die S-Bahnen mit reduzierter Geschwindigkeit.</p><p>Zusätzlich entfallen  heute Nachmittag einige Züge der Linie S 3 des 10-Minuten-Takts aus.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "23.02.2026",
+      "durationEnd": "23.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/a052b896-4499-45f6-8210-6c933ed4e2c0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-23/650fce35-b73f-459c-95f5-fa44db91dee7reisendenkarte_20260223-165030.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-23/650fce35-b73f-459c-95f5-fa44db91dee7reisendenkarte_20260223-165030.png",
+          "info": "",
+          "alt": "Reisendenkarte 23.02.2026 16:50:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.02.2026 17:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7e2b3e13-ed21-40e4-9464-7d081254072c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
