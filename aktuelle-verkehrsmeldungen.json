@@ -123,7 +123,7 @@
       },
       "headline": "Verkehrsmeldung für die Linie RE 7 ",
       "summary": "Donnerstag, 19.02.2026 03:00 Uhr bis vsl. Donnerstag, 26.02.2026 bis Tagesende",
-      "text": "<p>Die Züge der Linie RE7 werden ab Berlin Ostkreuz (Gleis13/14) bis Berlin-Wannsee über Berlin Gesundbrunnen (mit Halt) umgeleitet. Die Halte Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten und Berlin-Charlottenburg entfallen.</p><p>Nutzen Sie als Alternative die Züge der Linie RE1 oder die S-Bahn.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Die meisten Züge der Linie RE7 werden zwischen Berlin Ostkreuz (Gleis 13/14) und Berlin-Wannsee über Berlin Gesundbrunnen (mit Halt) umgeleitet. Die Halte Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten und Berlin-Charlottenburg entfallen. Einzelne Züge verkehren auf dem planmäßigen Fahrweg.</p><p>Nutzen Sie als Alternative die Züge der Linie RE1 oder die S-Bahn.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "19.02.2026",
       "durationEnd": "26.02.2026",
       "mapHref": "https://karte.bahn.de/detail/ca54f7fe-6cc6-4583-a17c-da4b386d6529",
@@ -131,14 +131,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -157,7 +157,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.02.2026 15:12",
+      "lastModified": "24.02.2026 13:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -305,6 +305,48 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "308336c5-d401-4f43-ab9e-a71acc154af4",
+      "disruptionId": "552a14bf-785a-4622-ba2d-51b0b3d9a4db",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Erdrutsch"
+      },
+      "headline": "Die Strecke zwischen Eberbach und Zwingenberg(Baden) ist nur eingleisig befahrbar. Züge fahren langsamer.",
+      "summary": "Der Grund ist ein Erdrutsch.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Eberbach &lt;&gt; Zwingenberg(Baden)</p><p>🕜<strong>Dauer der Beeinträchtigung vsl. bis zum 25.02.2026, 18:00 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu Verspätungen und Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen ab ca.13:45 Uhr zwischen Eberbach und Mosbach-Neckarelz und weiter nach Osterburken für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "24.02.2026",
+      "durationEnd": "26.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/552a14bf-785a-4622-ba2d-51b0b3d9a4db",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2026 14:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/308336c5-d401-4f43-ab9e-a71acc154af4",
+      "magnoliaPath": "/aktuell/mitte/massive_impairment_weather_storm"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -398,17 +440,17 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Reparatur an der Strecke zwischen Backnang und Oppenweiler",
-      "summary": "Der Streckenabschnitt von Backnang bis Oppenweiler ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit Bus zwischen Backnang und Oppenweiler für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "summary": "Der Streckenabschnitt von Backnang bis Oppenweiler ist im Moment gesperrt. Dauer der Sperrung bis vsl. 25.02.2026, 02:00 Uhr . Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit Bus zwischen Backnang und Oppenweiler für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges und achten Sie bitte auf Lautsprecherdurchsagen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "24.02.2026",
       "durationEnd": "24.02.2026",
       "mapHref": "https://karte.bahn.de/detail/5aadca24-9bd6-4c45-ad33-37aecb54569a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-24/d75cebde-a67a-4861-98fd-c3642b152605reisendenkarte_20260224-105746.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-24/d75cebde-a67a-4861-98fd-c3642b152605reisendenkarte_20260224-105746.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-24/403ff103-d0bd-40aa-b3e1-a01da16e1b56reisendenkarte_20260224-144045.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-24/403ff103-d0bd-40aa-b3e1-a01da16e1b56reisendenkarte_20260224-144045.png",
           "info": "",
-          "alt": "Reisendenkarte 24.02.2026 10:57:46",
+          "alt": "Reisendenkarte 24.02.2026 14:40:45",
           "openInNewTab": true
         }
       ],
@@ -432,7 +474,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.02.2026 12:44",
+      "lastModified": "24.02.2026 14:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
