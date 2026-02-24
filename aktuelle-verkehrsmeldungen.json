@@ -11,7 +11,7 @@
       },
       "headline": "⚠️Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌ Hammerbrook</p><p></p><p>❌ Wilhelmsburg (Aufzug zum Bahnsteig)</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Wilhelmsburg (Aufzug zum Bahnsteig)</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "18.02.2026",
       "durationEnd": "27.02.2026",
       "mapHref": "https://karte.bahn.de/detail/bee10343-09cb-4e8b-af22-d8a6d475f3f5",
@@ -61,7 +61,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.02.2026 09:59",
+      "lastModified": "24.02.2026 08:45",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -112,6 +112,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d19a04ae-7522-415a-a391-11a96bbfc426",
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+    },
+    {
+      "id": "688fc331-d585-4a8d-8395-f27e05182a38",
+      "disruptionId": "80942252-8da5-4f25-99fe-6c70410eb6e3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S3: Dringende Reparaturarbeiten an der Strecke",
+      "summary": "Am 24.02.2026 fahren zwischen 10 Uhr und 11 Uhr die Züge der Linie S3 nur zwischen Hammerbrook und Pinneberg. Nutzen Sie zwischen Hammerbrook und Neugraben bitte die S5. Grund: Dringende Reparaturarbeiten an der Strecke.",
+      "text": "<p>  </p>",
+      "durationBegin": "24.02.2026",
+      "durationEnd": "24.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/80942252-8da5-4f25-99fe-6c70410eb6e3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2026 09:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/688fc331-d585-4a8d-8395-f27e05182a38",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "e2b32398-acc5-423a-8ff3-6440666e8858",
@@ -388,81 +426,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "d0d64804-4a61-40a5-a63a-7ca362a0514c",
-      "disruptionId": "790dcda7-41b9-48c3-8b0b-98912a035008",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke / Gesamtnetz: Ärztliche Versorgung eines Fahrgastes beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes.</p>",
-      "durationBegin": "24.02.2026",
-      "durationEnd": "24.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/790dcda7-41b9-48c3-8b0b-98912a035008",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/36fed4bf-b8fc-4d84-a0c7-b09fc6240c9dreisendenkarte_20260224-072202.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/36fed4bf-b8fc-4d84-a0c7-b09fc6240c9dreisendenkarte_20260224-072202.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.02.2026 07:22:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.02.2026 07:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d0d64804-4a61-40a5-a63a-7ca362a0514c",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
