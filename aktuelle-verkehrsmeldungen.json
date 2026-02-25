@@ -69,6 +69,44 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "f572dba6-d391-47af-8ccb-69f9b5951ef2",
+      "disruptionId": "84bec2f3-1916-4324-96f1-ff0372f08746",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "⚠️ S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben",
+      "summary": "Aktuell fahren S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben. Fahrgäste mit den Zielen Fischbek, Neu Wulmstorf oder Buxtehude, bitte vorher in die S5 mit Ziel Stade umsteigen. Grund: Technische Störung an der Strecke",
+      "text": "<p>Um so schnell wie möglich wieder nach Plan fahren zu können und die Auswirkungen auf alle anderen Linien so klein wie möglich zu halten, müssen wir die Linie S5 leider schon in Neugraben wenden lassen.</p><p>Das an manchen S-Bahnen noch Buxtehude steht, lässt sich leider nicht immer vermeiden und ein Umstellen unterwegs, würde teilweise noch mehr Verspätungen zur Folge haben. </p><p>Wir hoffen die Info's zu den Abweichungen erreichen alle Fahrgäste die es betrifft noch rechtzeitig.</p>",
+      "durationBegin": "25.02.2026",
+      "durationEnd": "25.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/84bec2f3-1916-4324-96f1-ff0372f08746",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.02.2026 20:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f572dba6-d391-47af-8ccb-69f9b5951ef2",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "42e778ca-4066-40bf-9426-c3980ef989fc",
       "disruptionId": "465ac4f4-2c0c-4f85-ab81-b4a24eb70fd3",
       "author": "FERNVERKEHR_AG",
@@ -149,51 +187,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "b176e755-96e5-423b-b6af-b6807004e483",
-      "disruptionId": "698ac36e-bcfe-4df2-93ab-309d61591230",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 5 Hohenbrunn ↔ Höhenkirchen-Siegertsbrunn: Reparatur an einem Signal",
-      "summary": "Die Züge können wieder zwischen Hohenbrunn und Höhenkirchen-Siegertsbrunn fahren.",
-      "text": "<p><strong>Die S-Bahnen der Linie S5 verkehren mit folgender Fahrt wieder auf dem Regelweg:</strong></p><h5><strong>S 5 Germering-Unterpfaffenhofen ↔ Kreuzstraße</strong></h5><h5></h5><h5></h5><h5>S5 Germering-Unterpfaffenhofen Abfahrt 19:01 Uhr → Neubiberg Abfahrt 19:51 Uhr → Kreuzstraße Ankunft 20:13 Uhr</h5><p><strong> S 5 Kreuzstraße ↔ Germering-Unterpfaffenhofen </strong></p><p>S5 Aying Abfahrt 19:11 Uhr → Höhenkirchen-Siegertsbrunn&nbsp;19:21 Uhr → Pasing Ankunft 20:03 Uhr</p><p>Der Ersatzverkehr mit Großraumtaxis zwischen Hohenbrunn und Höhenkirchen-Siegertsbrunn wird um 19:30 Uhr eingestellt. Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür war eine Reparatur an einem Signal.</p>",
-      "durationBegin": "25.02.2026",
-      "durationEnd": "25.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/698ac36e-bcfe-4df2-93ab-309d61591230",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/664ac819-1782-4a3b-bd1a-a35afe6f20d4reisendenkarte_20260225-192941.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/664ac819-1782-4a3b-bd1a-a35afe6f20d4reisendenkarte_20260225-192941.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.02.2026 19:29:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.02.2026 19:35",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b176e755-96e5-423b-b6af-b6807004e483",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
