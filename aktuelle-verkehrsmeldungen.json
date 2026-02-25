@@ -322,81 +322,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "a62409a1-d56d-4d8f-bcfc-a8a927482cba",
-      "disruptionId": "c5cb82f1-dc9e-45e1-9f12-3d77feffe022",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Stammstrecke / Gesamtnetz: Vorangegangene Reparatur an einem Signal",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p><strong>S5 Kreuzstraße:</strong>&nbsp;</p><p>Die S-Bahnen der S 5 fahren wieder auf dem Regelweg.</p><p>Der Grund dafür war eine Reparatur an einem Signal.</p>",
-      "durationBegin": "25.02.2026",
-      "durationEnd": "25.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/c5cb82f1-dc9e-45e1-9f12-3d77feffe022",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/901ff974-0e4d-444c-bfe1-3504f6c650bfreisendenkarte_20260225-101508.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/901ff974-0e4d-444c-bfe1-3504f6c650bfreisendenkarte_20260225-101508.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.02.2026 10:15:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.02.2026 11:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a62409a1-d56d-4d8f-bcfc-a8a927482cba",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
       "disruptionId": "a6f1fd33-a9ca-41ab-aaab-7465d230b061",
       "author": "REGIO_SUEDOST",
@@ -494,6 +419,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
+    },
+    {
+      "id": "69a4d2e8-3933-48af-adbe-c6d9e73b8de0",
+      "disruptionId": "511d7acc-9201-4385-b1ee-2ee9b8794cdc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 8 Herrsching: Polizeieinsatz",
+      "summary": "Aktuell halten keine S-Bahnen an der Station Germering-Unterpfaffenhofen.",
+      "text": "<p>Der Grund dafür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "25.02.2026",
+      "durationEnd": "25.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/511d7acc-9201-4385-b1ee-2ee9b8794cdc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/c7473fac-2aa2-4a0e-99e1-866d5a19d139reisendenkarte_20260225-121451.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/c7473fac-2aa2-4a0e-99e1-866d5a19d139reisendenkarte_20260225-121451.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.02.2026 12:14:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.02.2026 12:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/69a4d2e8-3933-48af-adbe-c6d9e73b8de0",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
@@ -693,6 +663,63 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "6450aafb-08ff-4421-a62d-a2f532a1072e",
+      "disruptionId": "d7daea27-d9b8-458d-bb7c-90118dd488d9",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Stuttgart Hbf ⇄ Ulm Hbf:                                                              \nNächtliche Zugausfälle",
+      "summary": "📅 Mittwoch, 15.04.2026 auf Donnerstag, 16.04.2026 (22:00 Uhr bis 05:00 Uhr)",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p><strong>Zugausfälle:</strong> Stuttgart Hbf -&gt; Ulm Hbf</p><ul><li>RE 5 (4235), Abfahrt in Stuttgart Hbf um 21:37 Uhr</li><li>RE 5 (4237), Abfahrt in Stuttgart Hbf um 22:39 Uhr</li><li>RE 5 (4239), Abfahrt in Stuttgart Hbf um 23:39 Uhr</li></ul><p><strong>Zugausfälle:</strong> Ulm Hbf -&gt; Stuttgart Hbf</p><ul><li>RE 5 (4232), Abfahrt in Ulm Hbf um 21:15 Uhr</li><li>RE 5 (4234), Abfahrt in Ulm Hbf um 22:15 Uhr</li><li>RE 5 (4236), Abfahrt in Ulm Hbf um 23:15 Uhr</li></ul><p><strong>Alternative Reisemöglichkeiten:</strong></p><ul><li>In Geislingen verkehrt um 00:50 Uhr ein Ersatzbus ohne Zwischenhalt nach Ulm Hbf mit Ankunft in Ulm Hbf um 01:30 Uhr. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten vom Bus. <strong>Ersatzhaltestellen:</strong> Geislingen(Steige) ZOB, Ulm Hbf/ZOB Bussteig I/J</li></ul><p></p><ul><li>Reisende Stuttgart Hbf ⇄ Ulm Hbf können alternativ die Linie RE 200 über Wendlingen(Neckar) nutzen, da in dieser Nacht RE 200 (16081) bereits in Wendlingen(Neckar) beginnt (Abfahrt um 00:24 Uhr) und RE 200 (16080), Abfahrt in Ulm Hbf um 23:29 Uhr, ausnahmsweise bis Wendlingen(Neckar) fährt (Ankunft um 23:59 Uhr). Auf dem Streckenabschnitt Stuttgart Hbf ⇄ Wendlingen(Neckar) verkehren die S-Bahnen der Linie S 1</li></ul><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌ Die Fahrplandaten werden von uns in Kürze aktualisiert</p><p><strong>Grund der Bauarbeiten: </strong>Instandhaltungsarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
+      "durationBegin": "15.04.2026",
+      "durationEnd": "16.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/d7daea27-d9b8-458d-bb7c-90118dd488d9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-25/062cdffc-e7fc-4c18-a374-2bdcff988a11reisendenkarte_20260225-114555.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-25/062cdffc-e7fc-4c18-a374-2bdcff988a11reisendenkarte_20260225-114555.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.02.2026 11:45:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.02.2026 12:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/6450aafb-08ff-4421-a62d-a2f532a1072e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction2"
     },
     {
       "id": "e0078331-cd07-4d53-a8d2-aa6876873b79",
