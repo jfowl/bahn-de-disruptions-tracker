@@ -322,51 +322,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "8799747c-e3a2-4c9c-9b6e-b9a1fdad1ea3",
-      "disruptionId": "f2402f4d-03d0-42a2-95af-b5d2fa746d8b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 8 Freiham",
-      "summary": "Die Weichenstörung bei Freiham ist behoben",
-      "text": "<p>Es kann noch zu Folgeverspätungen und Teilausfällen kommen</p>",
-      "durationBegin": "25.02.2026",
-      "durationEnd": "25.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/f2402f4d-03d0-42a2-95af-b5d2fa746d8b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/7cac747c-5eb3-4421-aa6a-2dc80b48c6f4reisendenkarte_20260225-134626.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/7cac747c-5eb3-4421-aa6a-2dc80b48c6f4reisendenkarte_20260225-134626.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.02.2026 13:46:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.02.2026 14:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8799747c-e3a2-4c9c-9b6e-b9a1fdad1ea3",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
-    },
-    {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
       "disruptionId": "a6f1fd33-a9ca-41ab-aaab-7465d230b061",
       "author": "REGIO_SUEDOST",
@@ -766,6 +721,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5ca20036-191a-4671-9d67-c02c03f584f0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction3"
+    },
+    {
+      "id": "441080d9-3dd4-40b5-b435-2e05deeb7e2c",
+      "disruptionId": "afd3db52-5e0b-4e42-a216-137f72793d0d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4, S 6 Zorneding ↔ Haar: Reparatur an einem Signal",
+      "summary": "Zwischen Zorneding und Haar kommt es zu Verspätungen von bis zu 10 Minuten und zu vorzeitigen Zugwenden.",
+      "text": "<p></p><p>In diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.</p><p></p><p><strong>❗Die​ S-​Bahnen der Linie S4 verkehren nur zwischen Geltendorf und Trudering.</strong></p><p>Der Grund hierfür ist eine Reparatur an einem Signal bei Zorneding.</p>",
+      "durationBegin": "25.02.2026",
+      "durationEnd": "25.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/afd3db52-5e0b-4e42-a216-137f72793d0d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/43212522-fe47-422a-8a25-4503c15db2c6reisendenkarte_20260225-151701.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/43212522-fe47-422a-8a25-4503c15db2c6reisendenkarte_20260225-151701.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.02.2026 15:17:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.02.2026 16:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/441080d9-3dd4-40b5-b435-2e05deeb7e2c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
