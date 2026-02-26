@@ -521,6 +521,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "50d1ddc2-e0a3-4d4d-92f3-e1b0bfde47ce",
+      "disruptionId": "17c0fa1b-fd88-4676-a9ce-705214b7429f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Endmeldung: S 1, S 8 Flughafen ↔ Besucherpark",
+      "summary": "Zwischen Flughafen und Besucherpark ist die Strecke wieder freigegeben. ",
+      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 10 Minuten.</p><p>Der Polizeieinsatz ist beendet.</p>",
+      "durationBegin": "26.02.2026",
+      "durationEnd": "26.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/17c0fa1b-fd88-4676-a9ce-705214b7429f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/8a698c96-ad3f-48e0-a1a7-1668bf9d0cb1reisendenkarte_20260226-220112.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/8a698c96-ad3f-48e0-a1a7-1668bf9d0cb1reisendenkarte_20260226-220112.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.02.2026 22:01:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.02.2026 22:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/50d1ddc2-e0a3-4d4d-92f3-e1b0bfde47ce",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
+    },
+    {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
       "author": "REGIO_SUEDOST",
@@ -900,126 +950,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction3"
     },
     {
-      "id": "e6f9cd7b-1180-4b7c-9c91-6724516ba8d2",
-      "disruptionId": "79a48086-2462-43f8-8841-1cfd2383cc09",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 8 Neuaubing: Reparatur an einem Signal",
-      "summary": "Im Bereich Neuaubing kommt es in Richtung Stadtauswärts zu vereinzelten Verspätungen von bis zu 10 Minuten .",
-      "text": "<p>In diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "26.02.2026",
-      "durationEnd": "26.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/79a48086-2462-43f8-8841-1cfd2383cc09",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/b1826c2b-b22e-4e98-bcbf-b4fa9f886034reisendenkarte_20260226-200950.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/b1826c2b-b22e-4e98-bcbf-b4fa9f886034reisendenkarte_20260226-200950.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.02.2026 20:09:50",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.02.2026 21:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e6f9cd7b-1180-4b7c-9c91-6724516ba8d2",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
-    },
-    {
-      "id": "4d6391f9-1960-499d-978b-b795b6726c41",
-      "disruptionId": "4ad6660d-a65e-4eca-85bf-a8cd24709f0d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Polizeieinsatz",
-      "summary": "Zwischen Pasing und Ostbahnhof kommt es in Richtung Ostbahnhof zu Folgeverspätungen von 15 bis 20 Minuten, zu Umleitungen und zu Teilausfällen auf den östlichen Außenästen.",
-      "text": "<p>Es kommt zum Rückstau in Richtung Ostbahnhof.</p><p>Der Grund hierfür war ein Polizeieinsatz am Marienplatz.</p>",
-      "durationBegin": "26.02.2026",
-      "durationEnd": "26.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/4ad6660d-a65e-4eca-85bf-a8cd24709f0d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/41e5fee8-0d70-47fc-af3d-5b24c9f29ce0reisendenkarte_20260226-204327.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/41e5fee8-0d70-47fc-af3d-5b24c9f29ce0reisendenkarte_20260226-204327.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.02.2026 20:43:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.02.2026 21:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4d6391f9-1960-499d-978b-b795b6726c41",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
-    },
-    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
@@ -1190,8 +1120,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.02.2026 14:21",
-      "expand": false,
+      "lastModified": "26.02.2026 22:33",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d0dcf795-987e-4bd3-858a-f3e652f1e2b0",
