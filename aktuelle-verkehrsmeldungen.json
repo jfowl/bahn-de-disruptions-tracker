@@ -386,16 +386,16 @@
         "category": "technical_problem_railway_section",
         "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S 2 Erding: Technischer Defekt an einem Bahnübergang",
-      "summary": "Es kommt zu vereinzelten Verspätungen von 5 bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 2 Markt Schwaben",
+      "summary": "Im Bereich Markt Schwaben kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
       "durationBegin": "26.02.2026",
       "durationEnd": "26.02.2026",
       "mapHref": "https://karte.bahn.de/detail/71ce527f-1072-4ca9-bd0f-dae930fa8c95",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/9fceb558-a2b6-405b-bbf4-10e8456f7d1breisendenkarte_20260226-101419.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/9fceb558-a2b6-405b-bbf4-10e8456f7d1breisendenkarte_20260226-101419.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/cc9d6621-791d-4091-bd16-04ba86e6f3e1reisendenkarte_20260226-101419.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/cc9d6621-791d-4091-bd16-04ba86e6f3e1reisendenkarte_20260226-101419.png",
           "info": "",
           "alt": "Reisendenkarte 26.02.2026 10:14:19",
           "openInNewTab": true
@@ -416,12 +416,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.02.2026 15:45",
+      "lastModified": "26.02.2026 16:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d227f240-464d-4e9b-a545-d6d57ae71fa0",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section9"
+    },
+    {
+      "id": "b9c53388-fe24-40ca-87a3-e42d4554a934",
+      "disruptionId": "7a29a31b-545e-466c-af0b-e5ae6abae5ff",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S1: Abweichung",
+      "summary": "S1: Aktuell fährt die S1 zwischen Othmarschen und Poppenbüttel alle fünf Minuten.",
+      "text": "<p>Auf den übrigen Streckenabschnitten fährt die S1 alle 10 Minuten.</p>",
+      "durationBegin": "26.02.2026",
+      "durationEnd": "26.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/7a29a31b-545e-466c-af0b-e5ae6abae5ff",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.02.2026 16:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b9c53388-fe24-40ca-87a3-e42d4554a934",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
     },
     {
       "id": "f2d26b75-81de-44a8-8a5c-9222b15b827e",
@@ -866,51 +903,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5ca20036-191a-4671-9d67-c02c03f584f0",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction3"
-    },
-    {
-      "id": "cd4da153-3dbb-4f82-b67f-e2b0df58e676",
-      "disruptionId": "7373f15e-cec6-4310-b2ca-3b6732ec8405",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 3 Otterfing ↔ Sauerlach",
-      "summary": "Zwischen Otterfing und Sauerlach kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "26.02.2026",
-      "durationEnd": "26.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/7373f15e-cec6-4310-b2ca-3b6732ec8405",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/12f9698d-8485-415f-b75a-eb7c68624623reisendenkarte_20260226-143635.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/12f9698d-8485-415f-b75a-eb7c68624623reisendenkarte_20260226-143635.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.02.2026 14:36:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.02.2026 15:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cd4da153-3dbb-4f82-b67f-e2b0df58e676",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
