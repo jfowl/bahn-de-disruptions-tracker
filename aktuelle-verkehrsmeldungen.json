@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a417b1c8-a1ff-4229-8792-9b8c2fc3eabd",
+      "disruptionId": "74c8ad63-9bdb-49d8-b042-484c3725401b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Siegburg",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Köln und Siegburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Verkehre die von Köln über die Schnellfahrstrecke Richtung Frankfurt verkehren sowie Gegenrichtung</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/74c8ad63-9bdb-49d8-b042-484c3725401b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-01/7a3c8813-d532-43c7-b1c0-af8a547ac511reisendenkarte_20260301-142121.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-01/7a3c8813-d532-43c7-b1c0-af8a547ac511reisendenkarte_20260301-142121.png",
+          "info": "",
+          "alt": "Reisendenkarte 01.03.2026 14:21:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.03.2026 14:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a417b1c8-a1ff-4229-8792-9b8c2fc3eabd",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "aea6a390-4a6d-4bb7-86d3-df424f98dd42",
       "disruptionId": "bee10343-09cb-4e8b-af22-d8a6d475f3f5",
       "author": "S_BAHN_HH",
@@ -546,51 +604,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "9ef3b866-7df3-431f-89ba-fa0dea833064",
-      "disruptionId": "a98a5586-d93f-47fd-a75a-545705b1c2ee",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 1 Feldmoching ↔ Unterschleißheim: Defektes Stellwerk",
-      "summary": "Zwischen Feldmoching und Unterschleißheim kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "01.03.2026",
-      "durationEnd": "01.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/a98a5586-d93f-47fd-a75a-545705b1c2ee",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-01/220f920c-9d65-4cf3-ab8c-6361cf99e663reisendenkarte_20260301-135214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-01/220f920c-9d65-4cf3-ab8c-6361cf99e663reisendenkarte_20260301-135214.png",
-          "info": "",
-          "alt": "Reisendenkarte 01.03.2026 13:52:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.03.2026 13:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9ef3b866-7df3-431f-89ba-fa0dea833064",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
