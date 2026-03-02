@@ -574,51 +574,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
-      "id": "66dd31dc-e765-42ac-9850-f0b1de9abeac",
-      "disruptionId": "47987d0b-6ea5-4d2b-a077-3c48fa984d9c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: S 3 Maisach ↔ Mammendorf",
-      "summary": "Zwischen Maisach und Mammendorf ist die Strecke wieder freigegeben. ",
-      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 10 Minuten und vorzeitigen Wenden.</p><p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "02.03.2026",
-      "durationEnd": "02.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/47987d0b-6ea5-4d2b-a077-3c48fa984d9c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/65762b1f-6d46-4fe4-86fd-dd348aa8e35freisendenkarte_20260302-170116.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/65762b1f-6d46-4fe4-86fd-dd348aa8e35freisendenkarte_20260302-170116.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.03.2026 17:01:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.03.2026 18:14",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/66dd31dc-e765-42ac-9850-f0b1de9abeac",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity0"
-    },
-    {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
       "author": "REGIO_SUEDOST",
@@ -772,6 +727,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "8082cf17-8b6c-48f7-b997-a943241fea00",
+      "disruptionId": "5a23ed94-2cae-4ae8-8e02-5b662454f83d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal am Isartor.</p>",
+      "durationBegin": "02.03.2026",
+      "durationEnd": "02.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/5a23ed94-2cae-4ae8-8e02-5b662454f83d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/c5ed47d9-9670-42d3-b96c-dc850f1f7899reisendenkarte_20260302-191755.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/c5ed47d9-9670-42d3-b96c-dc850f1f7899reisendenkarte_20260302-191755.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.03.2026 19:17:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.03.2026 19:19",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8082cf17-8b6c-48f7-b997-a943241fea00",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
