@@ -117,6 +117,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "06431ae5-21c7-40b0-9a8f-c3ae41d758cc",
+      "disruptionId": "19448438-b062-4d90-9da7-29d825de2c7d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Fulda und Eisenach",
+      "summary": "Aufgrund einer Weichenstörung an der Strecke zwischen Fulda und Eisenach kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 10 - 20 Minuten ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin -&nbsp;Leipzig -&nbsp;Erfurt - Fulda - Frankfurt (M) -&nbsp;Mannheim -&nbsp;Stuttgart -&nbsp;München</li><li>Ostseebad Binz - Berlin -&nbsp;Halle (S) -&nbsp;Erfurt -&nbsp;Frankfurt (M) (-Saarbrücken)</li><li>Wiesbaden -&nbsp;Frankfurt (M) -&nbsp;Erfurt -&nbsp;Leipzig -&nbsp;Dresden</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative]. Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis [Prognose] erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Die nächste Aktualisierung dieser Meldung erfolgt spätestens am [AktualisierungszeitpunktMeldung].</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/19448438-b062-4d90-9da7-29d825de2c7d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-02/b0463c98-58fd-4481-bfb6-afbb327e316dreisendenkarte_20260302-094147.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-02/b0463c98-58fd-4481-bfb6-afbb327e316dreisendenkarte_20260302-094147.png",
+          "info": "",
+          "alt": "Reisendenkarte 02.03.2026 09:41:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.03.2026 09:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/06431ae5-21c7-40b0-9a8f-c3ae41d758cc",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "333b261d-591e-42f7-a38f-0be3617d5c7b",
       "disruptionId": "01da3994-b1de-42dd-92ad-d56ec4b884b4",
       "author": "REGIO_NORDOST",
@@ -334,51 +378,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "31ea5656-9bce-4bf7-aa0a-94df75bd0bc1",
-      "disruptionId": "c92035eb-0573-4945-a140-729253cb750e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Markt Schwaben ↔ in Richtung Feldkirchen : Reparatur an einem Signal",
-      "summary": "Zwischen Markt Schwaben und Feldkirchen kommt es in Richtung Feldkirchen zu Verspätungen von 10 bis 15 Minuten und zu Teilausfällen.",
-      "text": "<p>Die Züge fahren in dem betroffenen Bereich langsamer.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "02.03.2026",
-      "durationEnd": "02.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/c92035eb-0573-4945-a140-729253cb750e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/f335e02c-c9c6-436f-a362-c5e6c3e76d47reisendenkarte_20260302-070351.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/f335e02c-c9c6-436f-a362-c5e6c3e76d47reisendenkarte_20260302-070351.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.03.2026 07:03:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.03.2026 08:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/31ea5656-9bce-4bf7-aa0a-94df75bd0bc1",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "b718e128-8abd-46ed-8e20-0419073c731a",
