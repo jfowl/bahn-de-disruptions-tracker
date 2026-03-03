@@ -117,6 +117,44 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "078b60e1-e7e0-4f86-9f36-4bcdd1b5f860",
+      "disruptionId": "49462ac2-2477-46e2-8513-92493c5a4c56",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3: Polizeieinsatz am Bahnhof Thesdorf",
+      "summary": "Aktuell hält die S3 nicht in Thesdorf. Grund: Polizeieinsatz am Bf.Thesdorf.",
+      "text": "<p>Nutzen Sie alternativ: den Ersatzverkehr mit Bussen zwischen Pinneberg-Thesdorf-Halstenbek..</p>",
+      "durationBegin": "03.03.2026",
+      "durationEnd": "03.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/49462ac2-2477-46e2-8513-92493c5a4c56",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.03.2026 05:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/078b60e1-e7e0-4f86-9f36-4bcdd1b5f860",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
       "id": "333b261d-591e-42f7-a38f-0be3617d5c7b",
       "disruptionId": "01da3994-b1de-42dd-92ad-d56ec4b884b4",
       "author": "REGIO_NORDOST",
@@ -336,6 +374,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "3a4c5aad-c47a-486c-b1d4-d695aca13dd8",
+      "disruptionId": "fb102b88-e8b6-4982-8e90-6ef81bb0e866",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 1 Freising / Flughafen: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "03.03.2026",
+      "durationEnd": "03.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/fb102b88-e8b6-4982-8e90-6ef81bb0e866",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-03/b996f747-965e-43d1-89a9-10d112ae8b7creisendenkarte_20260303-050414.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-03/b996f747-965e-43d1-89a9-10d112ae8b7creisendenkarte_20260303-050414.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.03.2026 05:04:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.03.2026 05:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3a4c5aad-c47a-486c-b1d4-d695aca13dd8",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "b718e128-8abd-46ed-8e20-0419073c731a",
       "disruptionId": "1ce28296-1c1c-4ce3-a43e-2ee22c675466",
       "author": "FERNVERKEHR_AG",
@@ -544,85 +627,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "230444b0-b5f3-4294-b828-28865879b68f",
-      "disruptionId": "bba9b2fc-0ba0-4315-b5e6-2968c4e74158",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten Stammstrecke in der Nacht 2./3. März 2026 von 21:20 Uhr bis 04:40 Uhr",
-      "summary": "Ostbahnhof/Trudering ◄► Pasing/Heimeranplatz",
-      "text": "<h3><strong>Änderung im Fahrplan:</strong></h3><p><strong>S1</strong></p><p>beginnt/endet am Ostbahnhof.</p><p><strong>S2</strong></p><p>West beginnt/endet am Ostbahnhof.</p><p>Ost beginnt/endet am Ostbahnhof Gleis 6-13</p><p>die Halte Leuchtenbergring und Berg am Laim entfallen.</p><p><strong>S4</strong></p><p>West beginnt/endet in Pasing</p><p>der Abschnitt Pasing bis Trudering entfällt.</p><p><strong>S6</strong></p><p>West beginnt/endet am Heimeranplatz Gl. 11, ohne Halt zwischen Pasing und Heimeranplatz.</p><p>Ost beginnt/endet in Trudering.</p><p><strong>S8</strong></p><p>West beginnt/endet in Pasing.</p><p>Ost beginnt/endet am Ostbahnhof Gleis 1.</p><p><strong>S3, S5 und S7</strong></p><p>verkehrt planmäßig.</p><p></p><p><strong>Grund:</strong></p><p>Bauarbeiten zur 2. Stammstrecke.</p><p><strong>Hinweis:</strong></p><p>Beachten Sie, daß die S8 am Leuchtenbergring in beiden Richtungen über Gleis 1 fährt.</p><p>Von 2 bis 4 Uhr kommt es bei der S8 Richtung Flughafen zwischen Hackerbrücke und Ostbahnhof zu Gleisänderungen.</p><p><strong>Es besteht Ersatzverkehr zwischen Ostbahnhof und Trudering mit Halt am Leuchtenbergring und in Berg am Laim.</strong></p>",
-      "durationBegin": "02.03.2026",
-      "durationEnd": "03.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/bba9b2fc-0ba0-4315-b5e6-2968c4e74158",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-02/b28f0e93-cde7-4dcf-9bdd-1b3a46e1bc11Fpl%252BS2-S%252B8%252BSEV%252B2.-3.3.26.pdf",
-          "label": "Fpl+S2-S+8+SEV+2.-3.3.26.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.03.2026 22:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/230444b0-b5f3-4294-b828-28865879b68f",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
