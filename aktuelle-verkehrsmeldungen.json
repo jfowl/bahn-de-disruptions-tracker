@@ -383,7 +383,7 @@
       },
       "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt-Höchst - Wiesbaden Hbf",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>unbekannt</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt zwischen Rödermark-Ober Roden und Flörsheim(Main).</li><li>Der Zugverkehr staut sich zur Zeit, aus diesem Grund kommt es auch zu Verspätungen auf der S2.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><ul><li>Wir haben einen Ersatzverkehr mit 4 Bussen der Firma Holiday Reisen zwischen Flörsheim(Main) und Wiesbaden Hbf eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>unbekannt</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt zwischen Rödermark-Ober Roden und Flörsheim(Main).</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><ul><li>Wir haben einen Ersatzverkehr mit 4 Bussen der Firma Holiday Reisen zwischen Flörsheim(Main) und Wiesbaden Hbf eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "03.03.2026",
       "durationEnd": "03.03.2026",
       "mapHref": "https://karte.bahn.de/detail/2df57a34-96ea-4a16-a306-b878f8d3e6e9",
@@ -404,11 +404,6 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
@@ -417,19 +412,59 @@
           "name": "S 1",
           "filterName": "S 1 Rhein-Main",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "03.03.2026 10:47",
+      "lastModified": "03.03.2026 11:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/25192338-93e2-4537-b09b-77ea48a9a3e2",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "ce501977-b22f-4684-be57-6529ee8f1ea5",
+      "disruptionId": "a4565f1a-7a8c-40e1-b66b-26d4eb6e6ad6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 5 Perlach ↔ Hohenbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Perlach und Hohenbrunn kommt es zu Verspätungen von 10 bis 15 Minuten und zu Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "03.03.2026",
+      "durationEnd": "03.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/a4565f1a-7a8c-40e1-b66b-26d4eb6e6ad6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-03/67f68383-8346-4ec9-ac7e-211159c76b4creisendenkarte_20260303-112818.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-03/67f68383-8346-4ec9-ac7e-211159c76b4creisendenkarte_20260303-112818.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.03.2026 11:28:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.03.2026 11:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ce501977-b22f-4684-be57-6529ee8f1ea5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "702569b8-563c-4852-a4c7-fe18dd54f76b",
@@ -474,6 +509,68 @@
       "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
     },
     {
+      "id": "1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
+      "disruptionId": "5aadca24-9bd6-4c45-ad33-37aecb54569a",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Die Reparatur an der Strecke zwischen Backnang und Oppenweiler dauert noch an",
+      "summary": "Der Streckenabschnitt von Backnang bis Oppenweiler bleibt weiterhin gesperrt. Die Arbeiten sind umfangreicher als zunächst angenommen. Dauer der Beeinträchtigung bis vsl. 05.03.2026, 14:00 Uhr. Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>In der Folge kommt es zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit Bus zwischen Backnang und Murrhardt sowie zwischen Gaildorf West und Schwäbisch Hall-Hessental eingerichtet. Die Reiseauskunft wird tagesaktuell aktualisiert.</p><p></p><p><strong>Betroffene Linien:</strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p></p><p><strong>Zugausfälle:</strong></p><ul><li>MEX 19: Winnenden ⇄ Oppenweiler</li><li>MEX 90: Backnang ⇄ Schwäbisch Hall-Hessental</li></ul><p>Die Züge der Linie MEX 90 werden aufgrund von geplanten Bauarbeiten zwischen Stuttgart Hbf und Backnang über Marbach umgeleitet.</p><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Backnang ⇄ Murrhardt</li><li>Gaildorf West ⇄ Schwäbisch Hall-Hessental</li></ul><p><strong>Umstieg von/zu den Zügen der Linie MEX 19 Oppenweiler ⇄ Gaildorf West:</strong></p><ul><li>in Murrhardt (stündlich)</li><li>in Gaildorf West (zweistündlich)</li></ul><p><strong>Ersatzhaltestellen: </strong>Backnang ZOB, Oppenweiler Ortsmitte, Sulzbach Marktplatz, Murrhardt Bahnhof | Gaildorf West ZOB Bussteig 1, Schwäbisch Hall-Hessental Bahnhof</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "24.02.2026",
+      "durationEnd": "05.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/5aadca24-9bd6-4c45-ad33-37aecb54569a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-03-03/2d445eeb-d927-41a4-9dad-fd98c8e9e123reisendenkarte_20260228-090846.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-03-03/2d445eeb-d927-41a4-9dad-fd98c8e9e123reisendenkarte_20260228-090846.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.02.2026 09:08:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-03-03/a830612e-3f30-4f83-8a30-1686b07c2d5eBus%2BErsatzfahrplan%2BNEU.pdf",
+          "label": "🚌 Bus Ersatzfahrplan Backnang - Murrhardt 28.2. bis 4.3.2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB MEX19",
+          "filterName": "RB MEX19",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB MEX90",
+          "filterName": "RB MEX90",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE MEX90",
+          "filterName": "RE MEX90",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.03.2026 11:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "b718e128-8abd-46ed-8e20-0419073c731a",
       "disruptionId": "1ce28296-1c1c-4ce3-a43e-2ee22c675466",
       "author": "FERNVERKEHR_AG",
@@ -515,68 +612,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/b718e128-8abd-46ed-8e20-0419073c731a",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
-    },
-    {
-      "id": "1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
-      "disruptionId": "5aadca24-9bd6-4c45-ad33-37aecb54569a",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Die Reparatur an der Strecke zwischen Backnang und Oppenweiler dauert noch an",
-      "summary": "Der Streckenabschnitt von Backnang bis Oppenweiler bleibt weiterhin gesperrt. Die Arbeiten sind umfangreicher als zunächst angenommen. Dauer der Beeinträchtigung bis vsl. 05.03.2026, 02:00 Uhr. Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>In der Folge kommt es zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit Bus zwischen Backnang und Murrhardt sowie zwischen Gaildorf West und Schwäbisch Hall-Hessental eingerichtet. Die Reiseauskunft wird tagesaktuell aktualisiert.</p><p></p><p><strong>Betroffene Linien:</strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p></p><p><strong>Zugausfälle:</strong></p><ul><li>MEX 19: Winnenden ⇄ Oppenweiler</li><li>MEX 90: Backnang ⇄ Schwäbisch Hall-Hessental</li></ul><p>Die Züge der Linie MEX 90 werden aufgrund von geplanten Bauarbeiten zwischen Stuttgart Hbf und Backnang über Marbach umgeleitet.</p><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Backnang ⇄ Murrhardt</li><li>Gaildorf West ⇄ Schwäbisch Hall-Hessental</li></ul><p><strong>Umstieg von/zu den Zügen der Linie MEX 19 Oppenweiler ⇄ Gaildorf West:</strong></p><ul><li>in Murrhardt (stündlich)</li><li>in Gaildorf West (zweistündlich)</li></ul><p><strong>Ersatzhaltestellen: </strong>Backnang ZOB, Oppenweiler Ortsmitte, Sulzbach Marktplatz, Murrhardt Bahnhof | Gaildorf West ZOB Bussteig 1, Schwäbisch Hall-Hessental Bahnhof</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "24.02.2026",
-      "durationEnd": "05.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/5aadca24-9bd6-4c45-ad33-37aecb54569a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-28/6b4edb9f-6eb4-4aee-ad31-2cbdc96dd7a6reisendenkarte_20260228-090846.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-28/6b4edb9f-6eb4-4aee-ad31-2cbdc96dd7a6reisendenkarte_20260228-090846.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.02.2026 09:08:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-28/1774f13e-9e40-4c02-b1de-9168bfbb8216Bus%2BErsatzfahrplan%2BNEU.pdf",
-          "label": "🚌 Bus Ersatzfahrplan Backnang - Murrhardt 28.2. bis 4.3.2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB MEX19",
-          "filterName": "RB MEX19",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB MEX90",
-          "filterName": "RB MEX90",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE MEX90",
-          "filterName": "RE MEX90",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.02.2026 09:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
