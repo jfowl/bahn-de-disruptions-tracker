@@ -335,25 +335,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "a94391f4-41e6-42bc-827a-e7bed10411e7",
-      "disruptionId": "875cef8c-6c79-4d35-9945-df86ddd4f00e",
+      "id": "8ba0505c-b9f6-4764-b227-47b70cca1eb3",
+      "disruptionId": "010af7f3-b79f-4314-ac2d-2441bdd9ed50",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "S 4 Geltendorf: Technischer Defekt an einem Bahnübergang",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "S 1 Eching ↔ Neufahrn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Eching und Neufahrn kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "05.03.2026",
       "durationEnd": "05.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/875cef8c-6c79-4d35-9945-df86ddd4f00e",
+      "mapHref": "https://karte.bahn.de/detail/010af7f3-b79f-4314-ac2d-2441bdd9ed50",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/369353cc-98d3-4743-b439-f0705dbf16b7reisendenkarte_20260304-222949.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/369353cc-98d3-4743-b439-f0705dbf16b7reisendenkarte_20260304-222949.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/9b95ed67-2924-47a9-a68b-b40c0b6ac3b8reisendenkarte_20260305-064028.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/9b95ed67-2924-47a9-a68b-b40c0b6ac3b8reisendenkarte_20260305-064028.png",
           "info": "",
-          "alt": "Reisendenkarte 04.03.2026 22:29:49",
+          "alt": "Reisendenkarte 05.03.2026 06:40:28",
           "openInNewTab": true
         }
       ],
@@ -367,17 +367,62 @@
       ],
       "lines": [
         {
-          "name": "S 4",
-          "filterName": "S 4 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.03.2026 04:59",
+      "lastModified": "05.03.2026 06:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a94391f4-41e6-42bc-827a-e7bed10411e7",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
+      "detailPagePath": "/service/fahrplaene/8ba0505c-b9f6-4764-b227-47b70cca1eb3",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
+    },
+    {
+      "id": "99043c8f-6777-4a19-9a8b-dbdcc8018b9b",
+      "disruptionId": "e138efd4-97f3-46a2-b2f5-eff823a8cd88",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Dachau ↔ Altomünster: Reparatur an einer Weiche",
+      "summary": "Zwischen Dachau und Altomünster kommt es zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "05.03.2026",
+      "durationEnd": "05.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/e138efd4-97f3-46a2-b2f5-eff823a8cd88",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/4dec34ce-e905-41e1-accb-45093e98daaareisendenkarte_20260305-063440.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-05/4dec34ce-e905-41e1-accb-45093e98daaareisendenkarte_20260305-063440.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.03.2026 06:34:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.03.2026 06:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/99043c8f-6777-4a19-9a8b-dbdcc8018b9b",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "1b1d1e64-9b66-4e36-8cc7-574a4abb1081",
