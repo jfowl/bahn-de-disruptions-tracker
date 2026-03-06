@@ -2,73 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "aea6a390-4a6d-4bb7-86d3-df424f98dd42",
-      "disruptionId": "bee10343-09cb-4e8b-af22-d8a6d475f3f5",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
-      "summary": " ",
-      "text": "<p>❌ Landungsbrücken</p><p></p><p>❌ Tiefstack</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "02.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/bee10343-09cb-4e8b-af22-d8a6d475f3f5",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.03.2026 17:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aea6a390-4a6d-4bb7-86d3-df424f98dd42",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
-    },
-    {
       "id": "6c4e6da3-482b-475c-ac78-4368058c47ce",
       "disruptionId": "3896152e-f640-4613-b72c-8e767d3bf31f",
       "author": "FERNVERKEHR_AG",
@@ -296,6 +229,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "f145b6c4-0bb3-454a-8f2d-6aa37eb1b4a7",
+      "disruptionId": "e4ad1002-2312-4a51-9803-1bb4e709c108",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "Streikankündigung in Belgien",
+      "summary": "In Belgien wurden Streikmaßnahmen angekündigt. Dadurch kommt es im internationalen Fernverkehr zwischen Deutschland und Belgien zu Einschränkungen",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>08.03.26: NJ 468</strong> von Wien - Köln - Brüssel <strong>fällt zwischen Köln und Brüssel aus</strong></li><li><strong>09.03.26: NJ 469</strong> von Brüssel - Köln - Wien <strong>fällt zwischen Brüssel und Köln aus</strong></li></ul><p>Bitte planen Sie für Reisen von und nach Brüssel mehr Zeit ein.&nbsp;</p><p>Es gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.03.2026",
+      "durationEnd": "11.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/e4ad1002-2312-4a51-9803-1bb4e709c108",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-06/838e743d-a219-4afb-8d6c-901f9d4be0d4reisendenkarte_20260306-122845.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-06/838e743d-a219-4afb-8d6c-901f9d4be0d4reisendenkarte_20260306-122845.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.03.2026 12:28:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/fahrgastrechte",
+          "label": "Allgemeine Information zu Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.03.2026 12:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f145b6c4-0bb3-454a-8f2d-6aa37eb1b4a7",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
       "id": "99c0d2bb-8c37-49c7-aa0a-cc0064ebc632",
@@ -550,7 +535,7 @@
       },
       "headline": "Verspätungen, Umleitungen und Teil- sowie Zugausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 15:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge des Regionalverkehrs werden zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf in beiden Richtungen über eine andere Strecke umgeleitet. Dadurch staut sich der Zugverkehr zwischen Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf.</li><li>Die Züge der RE4 und RE14 fallen aus zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Einige Züge der RE20 und RB22 fallen aus zwischen Niedernhausen(Taunus) -  Hofheim(Taunus) - Frankfurt(Main)Hbf.</li><li>Es kommt auch auf der S1 und S2 zu Verspätungen von bis zu 30 Minuten. Zudem verkehrt die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 15:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge des Regionalverkehrs werden zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf in beiden Richtungen über eine andere Strecke umgeleitet. Dadurch staut sich der Zugverkehr zwischen Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf.</li><li>Die Züge der RE4 und RE14 fallen aus zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Einige Züge der RE20 und RB22 fallen aus zwischen Niedernhausen(Taunus) -  Hofheim(Taunus) - Frankfurt(Main)Hbf.</li><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "05.03.2026",
       "durationEnd": "06.03.2026",
       "mapHref": "https://karte.bahn.de/detail/2176402c-cb24-4fab-9570-08e62ae2e2a1",
@@ -601,7 +586,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.03.2026 11:39",
+      "lastModified": "06.03.2026 12:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
