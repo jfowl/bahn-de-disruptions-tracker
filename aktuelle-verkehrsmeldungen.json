@@ -13,13 +13,26 @@
       "summary": " ",
       "text": "<p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Tiefstack</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p><p></p><p></p>",
       "durationBegin": "06.03.2026",
-      "durationEnd": "13.03.2026",
+      "durationEnd": "09.03.2026",
       "mapHref": "https://karte.bahn.de/detail/70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH",
@@ -28,12 +41,32 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "06.03.2026 14:16",
+      "lastModified": "06.03.2026 14:36",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -85,6 +118,57 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6c4e6da3-482b-475c-ac78-4368058c47ce",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
+    },
+    {
+      "id": "506215fe-eff4-47c8-b01a-9e57d1c25411",
+      "disruptionId": "2e18755f-bc24-4c41-bac9-bb4689d65b4b",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) RE10 und RE11",
+      "summary": "Samstag, 07.03.2026 06:00 Uhr bis vsl. 18:00 Uhr",
+      "text": "<p>Aufgrund von Personalausfall im Stellwerk des Infrastrukturanbieters kommt es zu Fahrtausfällen zwischen <strong>Leipzig Hbf </strong>und <strong>Falkenberg (Elster)</strong> - mit Gegenrichtung auf folgenden Linien:</p><p><strong>RE11  Leipzig - Falkenberg (Elster) - Ruhland – Hoyerswerda</strong></p><p><strong>RE10  Leipzig - Falkenberg (Elster) - Calau (NL) - Cottbus - Frankfurt (Oder)</strong></p><p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "07.03.2026",
+      "durationEnd": "07.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/2e18755f-bc24-4c41-bac9-bb4689d65b4b",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.03.2026 14:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/506215fe-eff4-47c8-b01a-9e57d1c25411",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_other_cause0"
     },
     {
       "id": "333b261d-591e-42f7-a38f-0be3617d5c7b",
@@ -566,51 +650,6 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "3a5dfd35-ed86-4a9d-a719-f12c77bf71ba",
-      "disruptionId": "3a98f6a2-92c8-4c58-bc45-b127def7c2ab",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S2 Markt Schwaben ↔ Ottenhofen",
-      "summary": "Zwischen Markt Schwaben und Ottenhofen kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "06.03.2026",
-      "durationEnd": "06.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/3a98f6a2-92c8-4c58-bc45-b127def7c2ab",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-06/51204996-4d64-4ca2-9076-aa91f1e665d3reisendenkarte_20260306-133542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-06/51204996-4d64-4ca2-9076-aa91f1e665d3reisendenkarte_20260306-133542.png",
-          "info": "",
-          "alt": "Reisendenkarte 06.03.2026 13:35:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.03.2026 14:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3a5dfd35-ed86-4a9d-a719-f12c77bf71ba",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
-    },
-    {
       "id": "f30a87f8-da69-4372-b7af-6a2bcfb66caa",
       "disruptionId": "2176402c-cb24-4fab-9570-08e62ae2e2a1",
       "author": "S_BAHN_RM",
@@ -622,7 +661,7 @@
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
       "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge des Regionalverkehrs werden zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf in beiden Richtungen über eine andere Strecke umgeleitet. Dadurch staut sich der Zugverkehr zwischen Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf.</li><li>Die Züge der RE4 und RE14 fallen aus zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Einige Züge der RE20 und RB22 fallen aus zwischen Niedernhausen(Taunus) -  Hofheim(Taunus) - Frankfurt(Main)Hbf.</li><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "05.03.2026",
-      "durationEnd": "06.03.2026",
+      "durationEnd": "07.03.2026",
       "mapHref": "https://karte.bahn.de/detail/2176402c-cb24-4fab-9570-08e62ae2e2a1",
       "images": [],
       "downloads": [],
@@ -664,14 +703,9 @@
           "name": "S 1",
           "filterName": "S 1 Rhein-Main",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "06.03.2026 13:22",
+      "lastModified": "06.03.2026 14:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
