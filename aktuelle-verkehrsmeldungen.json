@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0f0e8262-0b9b-48af-84ac-aa9174099f67",
+      "disruptionId": "70d9f4b5-5ccd-4531-a284-c886e97d2265",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
+      "summary": " ",
+      "text": "<p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Tiefstack</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p><p></p><p></p>",
+      "durationBegin": "06.03.2026",
+      "durationEnd": "13.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/70d9f4b5-5ccd-4531-a284-c886e97d2265",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.03.2026 14:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0f0e8262-0b9b-48af-84ac-aa9174099f67",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
       "id": "6c4e6da3-482b-475c-ac78-4368058c47ce",
       "disruptionId": "3896152e-f640-4613-b72c-8e767d3bf31f",
       "author": "FERNVERKEHR_AG",
@@ -283,49 +322,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
-      "id": "99c0d2bb-8c37-49c7-aa0a-cc0064ebc632",
-      "disruptionId": "9b668e24-b8ef-45ff-b7ad-af2a88ca4aee",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen",
-      "summary": "Mit hoher Auslastung wird gerechnet, bitte auch die Busse der Linie RE22 nutzen",
-      "text": "<p>Mit hoher Auslastung wird gerechnet, bitte auch die Busse der Linie RE22 nutzen</p><p><strong>Alternative: </strong>BUS RE22</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien.</p>",
-      "durationBegin": "05.03.2026",
-      "durationEnd": "13.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/9b668e24-b8ef-45ff-b7ad-af2a88ca4aee",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/9b668e24-b8ef-45ff-b7ad-af2a88ca4aee",
-          "label": "Zur Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE50",
-          "filterName": "Bus RE50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.03.2026 09:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/99c0d2bb-8c37-49c7-aa0a-cc0064ebc632",
-      "magnoliaPath": "/aktuell/impairment_construction"
-    },
-    {
       "id": "b1b90869-f6b5-4b2c-b2bb-02ace1633598",
       "disruptionId": "1bdc6645-c491-44c0-82d3-621336bdd4bd",
       "author": "REGIO_NORDOST",
@@ -570,6 +566,51 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "3a5dfd35-ed86-4a9d-a719-f12c77bf71ba",
+      "disruptionId": "3a98f6a2-92c8-4c58-bc45-b127def7c2ab",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "Endmeldung: S2 Markt Schwaben ↔ Ottenhofen",
+      "summary": "Zwischen Markt Schwaben und Ottenhofen kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
+      "durationBegin": "06.03.2026",
+      "durationEnd": "06.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/3a98f6a2-92c8-4c58-bc45-b127def7c2ab",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-06/51204996-4d64-4ca2-9076-aa91f1e665d3reisendenkarte_20260306-133542.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-06/51204996-4d64-4ca2-9076-aa91f1e665d3reisendenkarte_20260306-133542.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.03.2026 13:35:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.03.2026 14:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3a5dfd35-ed86-4a9d-a719-f12c77bf71ba",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
+    },
+    {
       "id": "f30a87f8-da69-4372-b7af-6a2bcfb66caa",
       "disruptionId": "2176402c-cb24-4fab-9570-08e62ae2e2a1",
       "author": "S_BAHN_RM",
@@ -579,7 +620,7 @@
       },
       "headline": "Verspätungen, Umleitungen und Teil- sowie Zugausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis voraussichtlich 15:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge des Regionalverkehrs werden zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf in beiden Richtungen über eine andere Strecke umgeleitet. Dadurch staut sich der Zugverkehr zwischen Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf.</li><li>Die Züge der RE4 und RE14 fallen aus zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Einige Züge der RE20 und RB22 fallen aus zwischen Niedernhausen(Taunus) -  Hofheim(Taunus) - Frankfurt(Main)Hbf.</li><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE2: Frankfurt(Main)Hbf - Mainz Hbf - Bingen Hbf - Koblenz Hbf</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge des Regionalverkehrs werden zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf in beiden Richtungen über eine andere Strecke umgeleitet. Dadurch staut sich der Zugverkehr zwischen Frankfurt-Höchst - Frankfurt-Nied - Frankfurt-Griesheim - Frankfurt(Main)Hbf.</li><li>Die Züge der RE4 und RE14 fallen aus zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Einige Züge der RE20 und RB22 fallen aus zwischen Niedernhausen(Taunus) -  Hofheim(Taunus) - Frankfurt(Main)Hbf.</li><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "05.03.2026",
       "durationEnd": "06.03.2026",
       "mapHref": "https://karte.bahn.de/detail/2176402c-cb24-4fab-9570-08e62ae2e2a1",
@@ -630,7 +671,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.03.2026 12:04",
+      "lastModified": "06.03.2026 13:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
