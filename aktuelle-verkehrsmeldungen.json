@@ -2,60 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "cfc0e62c-d883-4273-8635-56f4a19b4319",
-      "disruptionId": "59918823-a454-4982-82dc-cf02462e98c9",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Alle Linien: Verspätungen",
-      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke ",
-      "text": "<p> </p>",
-      "durationBegin": "09.03.2026",
-      "durationEnd": "09.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/59918823-a454-4982-82dc-cf02462e98c9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.03.2026 14:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cfc0e62c-d883-4273-8635-56f4a19b4319",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "0f0e8262-0b9b-48af-84ac-aa9174099f67",
       "disruptionId": "70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "author": "S_BAHN_HH",
@@ -128,6 +74,52 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "8df0f7b3-3514-4ffb-956f-67d260ac1e9d",
+      "disruptionId": "f8e4af55-5958-4243-8f7c-dc9a1f40ad4b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung in Dortmund Derne",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Dortmund Derne (Dortmund - Lünen) kommt es derzeit zu Umleitungen über Hamm(W) und Zusatzverspätungen bis zu 15 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge (Hamburg – Bremen – Münster (Westf) – Köln – Frankfurt (M) Flughafen – Mannheim – Stuttgart – München)</li><li>ICE Züge (Hamburg – Bremen – Münster (Westf) – Köln – Frankfurt (M) Flughafen – Mannheim – Basel – Interlaken Ost/Brig/Zürich - Chur)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.03.2026",
+      "durationEnd": "09.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/f8e4af55-5958-4243-8f7c-dc9a1f40ad4b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-09/e8748052-97c6-4654-b04b-7ad145fded81reisendenkarte_20260309-150046.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-09/e8748052-97c6-4654-b04b-7ad145fded81reisendenkarte_20260309-150046.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.03.2026 15:00:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.03.2026 15:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8df0f7b3-3514-4ffb-956f-67d260ac1e9d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_other_cause"
+    },
+    {
       "id": "6c4e6da3-482b-475c-ac78-4368058c47ce",
       "disruptionId": "3896152e-f640-4613-b72c-8e767d3bf31f",
       "author": "FERNVERKEHR_AG",
@@ -182,7 +174,7 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S7 bis Hauptbahnhof",
-      "summary": "S7: Aufgrund einer technischen Störung an einem Signal beginnt und endet die S7 zur Zeit am Hauptbahnhof auf Gleis 2.",
+      "summary": "S7: Aufgrund einer technischen Störung an einem Signal beginnt und endet die S7 zur Zeit am Hauptbahnhof auf Gleis 3.",
       "text": "<p>Die S7 verkehrt zur Zeit zwischen Bergedorf bzw. Aumühle und Hauptbahnhof. Fahrgäste in Richtung Jungfernstieg, Landungsbrücken und Altona, steigen am Hauptbahnhof bitte in die S1, S3 und S5 um.</p>",
       "durationBegin": "09.03.2026",
       "durationEnd": "09.03.2026",
@@ -204,7 +196,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2026 14:31",
+      "lastModified": "09.03.2026 14:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -404,7 +396,7 @@
       },
       "headline": "Warnstreik Ver.di   - Fahrtausfälle SEV ",
       "summary": "Die SEV-Fahrten der Linien S 1, S 2, S 3, RB 71 und RB 72  sind am 10.03.2026 beeinträchtigt. Dauer der Beeinträchtigung vom 10.03.2026, 00:00 Uhr bis 10.03.2026, 23:59 Uhr. Der Grund ist ein Streik der Gewerkschaft ver.di.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Meißen Triebischtal – Coswig (b Dresden) – Dresden – Pirna – Schöna</li><li>S 2 Pirna – Dresden Hbf – Dresden Flughafen</li><li>S 3 Dresden – Tharandt – Freiberg</li><li>RB 71 Pirna – Neustadt (Sachs) – Sebnitz (Sachs)</li><li>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Streik der Gewerkschaft ver.di.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Auf Grund des Aufrufes der Gewerkschaft Ver.di zum <strong>Warnstreik beim Busunternehmen </strong>RVSOE (Sächsische Schweiz/Osterzgebirge) <strong>am 10. März 2026 </strong>kommt es zu<strong> Einschränkungen und Ausfällen</strong> auf folgenden<strong> Fahrten des Schienenersatzverkehrs</strong>:</p><ul><li><strong>Ersatzverkehr S1</strong> zwischen <strong>Pirna und Bad Schandau</strong> =&gt; A<strong>usfall des Ersatzverkehrs</strong>. Bitte nutzen Sie die stündlich stattfindenden Zugfahrten der S 1 zwischen Pirna und Bad Schandau.</li><li><strong>Ersatzverkehr S2</strong>&nbsp;zwischen&nbsp;<strong>Dresden-Klotzsche und Dresden Flughafen</strong>&nbsp;=&gt; <strong>Ausfall des Ersatzverkehrs</strong>. Bitte nutzen Sie die Linien des Dresdner Stadtverkehrs.</li><li><strong>Ersatzverkehr S3</strong> zwischen <strong>Dresden Hbf und Dresden-Plauen </strong>=&gt; <strong>Ausfall des Ersatzverkehrs</strong>. Bitte nutzen Sie die weiteren Fahrten des Ersatzverkehrs der Linien RB 30 und RE 3 sowie die Linien des Dresdner Stadtverkehrs.</li><li><strong>Ersatzverkehr RB 71</strong>&nbsp;zwischen&nbsp;<strong>Pirna und Dürrröhrsdorf</strong>&nbsp;=&gt; Hier haben wir ein Ersatz-Busunternehmen beauftragt, die <strong>Fahrten können stattfinden</strong></li><li><strong>Ersatzverkehr RB 72</strong> zwischen <strong>Glashütte (Sachs) und Kurort Altenberg (Erzgeb)</strong> =&gt; Hier haben wir ein Ersatz-Busunternehmen beauftragt, die <strong>Fahrten können stattfinden</strong></li></ul>",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Meißen Triebischtal – Coswig (b Dresden) – Dresden – Pirna – Schöna</li><li>S 2 Pirna – Dresden Hbf – Dresden Flughafen</li><li>S 3 Dresden – Tharandt – Freiberg</li><li>RB 71 Pirna – Neustadt (Sachs) – Sebnitz (Sachs)</li><li>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Streik der Gewerkschaft ver.di.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Auf Grund des Aufrufes der Gewerkschaft Ver.di zum <strong>Warnstreik beim Busunternehmen </strong>RVSOE (Sächsische Schweiz/Osterzgebirge) <strong>am 10. März 2026 </strong>kommt es zu<strong> Einschränkungen und Ausfällen</strong> auf folgenden<strong> Fahrten des Schienenersatzverkehrs</strong>:</p><ul><li><strong>Ersatzverkehr S1</strong> zwischen <strong>Pirna und Bad Schandau</strong> =&gt; A<strong>usfall des Ersatzverkehrs</strong>. Bitte nutzen Sie die stündlich stattfindenden Zugfahrten der S 1 zwischen Pirna und Bad Schandau.</li><li><strong>Ersatzverkehr S2</strong>&nbsp;zwischen&nbsp;<strong>Dresden-Klotzsche und Dresden Flughafen</strong>&nbsp;=&gt; <strong>Ausfall des Ersatzverkehrs</strong>. Bitte nutzen Sie die Linien des Dresdner Stadtverkehrs.</li><li><strong>Ersatzverkehr S3 </strong>zwischen<strong> Dresden Hbf</strong> und <strong>Dresden-Plauen</strong> =&gt; Zwischen <strong>7.15 Uhr </strong>und<strong> 17.15 Uhr</strong> werden die Fahrten durch ein anderes Busunternehmen erbracht. <strong>Bis 7.15 Uhr und ab 17.15 Uhr Ausfall des Ersatzverkehrs</strong>. Bitte nutzen Sie in dieser Zeit die weiteren Fahrten des Ersatzverkehrs der Linien RB 30 und RE 3 sowie die Linien des Dresdner Stadtverkehrs.</li><li><strong>Ersatzverkehr RB 71</strong>&nbsp;zwischen&nbsp;<strong>Pirna und Dürrröhrsdorf</strong>&nbsp;=&gt; Hier haben wir ein Ersatz-Busunternehmen beauftragt, die <strong>Fahrten können stattfinden</strong></li><li><strong>Ersatzverkehr RB 72</strong> zwischen <strong>Glashütte (Sachs) und Kurort Altenberg (Erzgeb)</strong> =&gt; Hier haben wir ein Ersatz-Busunternehmen beauftragt, die <strong>Fahrten können stattfinden</strong></li></ul>",
       "durationBegin": "10.03.2026",
       "durationEnd": "10.03.2026",
       "mapHref": "https://karte.bahn.de/detail/432d67ef-76c3-4da5-909c-1aa29bebc84a",
@@ -445,7 +437,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2026 10:51",
+      "lastModified": "09.03.2026 15:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -567,14 +559,14 @@
       },
       "headline": "S 6 Gauting ↔ Tutzing: Reparatur an der Strecke / 40-Minuten Takt am Montag, 9. März 26 ab ca. 5 Uhr zwischen Gauting ↔ Tutzing\n",
       "summary": "Zwischen Gauting und Tutzing kommt es zu Verspätungen von bis zu 10 Minuten.\n",
-      "text": "<p>Die Linie S 6 verkehrt im Abschnitt Gauting ↔ Tutzing <strong> im 40-Minuten-Takt:</strong></p><p><strong>Folgende S-Bahnen fahren nach Tutzing:</strong></p><p><strong>Pasing → Gauting → Tutzing </strong></p><p>S 6 Pasing Abfahrt 14:21 Uhr → Gauting Abfahrt 14:37 Uhr → Tutzing Ankunft 14:56 Uhr</p><p>S 6 Pasing Abfahrt 15:01 Uhr → Gauting Abfahrt 15:17 Uhr → Tutzing Ankunft 15:36 Uhr</p><p>S 6 Pasing Abfahrt 15:41 Uhr → Gauting Abfahrt 15:57 Uhr → Tutzing Ankunft 16:16 Uhr</p><p><strong>Tutzing → Gauting → Pasing </strong></p><p>S 6 Tutzing Abfahrt 14:44 Uhr → Gauting →15:02 Uhr → Pasing Ankunft 15:15 Uhr</p><p>S 6 Tutzing Abfahrt 15:24 Uhr → Gauting → 15:42 Uhr → Pasing Ankunft 15:55 Uhr</p><p>S6 Tutzing Abfahrt 16:04 Uhr → Gauting → 16:22 Uhr → Pasing Ankunft 16:35 Uhr</p><p><strong>Sie haben auch die Möglichkeit, Regionalzüge zu nutzen, die gemäß Fahrplan in Starnberg halten, und bis nach Starnberg zu fahren.</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "text": "<p>Die Linie S 6 verkehrt im Abschnitt Gauting ↔ Tutzing <strong> im 40-Minuten-Takt:</strong></p><p><strong>Folgende S-Bahnen fahren nach Tutzing:</strong></p><p><strong>Pasing → Gauting → Tutzing </strong></p><p>S 6 Pasing Abfahrt 14:21 Uhr → Gauting Abfahrt 14:37 Uhr → Tutzing Ankunft 14:56 Uhr</p><p>S 6 Pasing Abfahrt 15:01 Uhr → Gauting Abfahrt 15:17 Uhr → Tutzing Ankunft 15:36 Uhr</p><p>S 6 Pasing Abfahrt 15:41 Uhr → Gauting Abfahrt 15:57 Uhr → Tutzing Ankunft 16:16 Uhr</p><p><strong>Tutzing → Gauting → Pasing </strong></p><p>S 6 Tutzing Abfahrt 14:44 Uhr → Gauting → Abfahrt 15:02 Uhr → Pasing Ankunft 15:15 Uhr</p><p>S 6 Tutzing Abfahrt 15:24 Uhr → Gauting → Abfahrt 15:42 Uhr → Pasing Ankunft 15:55 Uhr</p><p>S6 Tutzing Abfahrt 16:04 Uhr → Gauting → Abfahrt 16:22 Uhr → Pasing Ankunft 16:35 Uhr</p><p><strong>Zusätzlich können sie zwischen Starnberg und Tutzing die stündlich verkehrenden Züge der Werdenfelsbahn nutzen.</strong></p><p>&nbsp;</p><p><strong>Bitte beachten sie, die ab ca. 22:00 Uhr planmäßig stattfindenden Bauarbeiten mit Ersatzverkehr mit Bussen zwischen Gauting und Tutzing.</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "08.03.2026",
       "durationEnd": "09.03.2026",
       "mapHref": "https://karte.bahn.de/detail/338235da-0f47-48d3-af2e-b1dd51443b19",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/1ffdf93b-50d3-4043-8972-23a5e62280f0reisendenkarte_20260308-223954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/1ffdf93b-50d3-4043-8972-23a5e62280f0reisendenkarte_20260308-223954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/b002896b-85bb-45f9-9cd1-0a2ad2cbb87creisendenkarte_20260308-223954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/b002896b-85bb-45f9-9cd1-0a2ad2cbb87creisendenkarte_20260308-223954.png",
           "info": "",
           "alt": "Reisendenkarte 08.03.2026 22:39:54",
           "openInNewTab": true
@@ -595,7 +587,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2026 14:33",
+      "lastModified": "09.03.2026 14:57",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
