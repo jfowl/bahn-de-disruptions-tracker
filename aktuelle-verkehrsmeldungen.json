@@ -2,6 +2,60 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "cfc0e62c-d883-4273-8635-56f4a19b4319",
+      "disruptionId": "59918823-a454-4982-82dc-cf02462e98c9",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Alle Linien: Verspätungen",
+      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke ",
+      "text": "<p> </p>",
+      "durationBegin": "09.03.2026",
+      "durationEnd": "09.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/59918823-a454-4982-82dc-cf02462e98c9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.03.2026 14:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cfc0e62c-d883-4273-8635-56f4a19b4319",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "0f0e8262-0b9b-48af-84ac-aa9174099f67",
       "disruptionId": "70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "author": "S_BAHN_HH",
@@ -11,9 +65,9 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Tiefstack</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p><p></p><p></p>",
+      "text": "<p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Tiefstack</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026. </p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 08. Juli 2026. </p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026. </p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p><p></p>",
       "durationBegin": "06.03.2026",
-      "durationEnd": "09.03.2026",
+      "durationEnd": "13.03.2026",
       "mapHref": "https://karte.bahn.de/detail/70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "images": [],
       "downloads": [],
@@ -66,7 +120,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.03.2026 14:36",
+      "lastModified": "09.03.2026 14:00",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -120,56 +174,42 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
     },
     {
-      "id": "333b261d-591e-42f7-a38f-0be3617d5c7b",
-      "disruptionId": "01da3994-b1de-42dd-92ad-d56ec4b884b4",
-      "author": "REGIO_NORDOST",
+      "id": "9ab6a0f4-8881-4390-94bd-b39b433a00bf",
+      "disruptionId": "e10f2d9b-55ad-44ca-9d42-f0c7201ddf25",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Baumaßnahme auf der Linie RE10 - Ersatzverkehr Leipzig Hbf <> Taucha (b Leipzig)",
-      "summary": "Sonntag, 15.03.2026 22:00 Uhr bis 23:59 Uhr",
-      "text": "<p>Die Züge der Linie  RE10 (RE18398 Leipzig Hbf - Cottbus und RE18397 Frankfurt (Oder) - Leipzig Hbf) fallen zwischen Leipzig Hbf und Taucha (b Leipzig) aus und werden durch Busse ersetzt.</p><p>RE 18398 (94598) fährt ab Taucha (b Leipzig) bis Cottbus Hbf in späten Fahrzeiten.</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅Die geänderten Fahrpläne sind ab 04.03.26 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
-      "durationBegin": "15.03.2026",
-      "durationEnd": "15.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/01da3994-b1de-42dd-92ad-d56ec4b884b4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-26/d70dcd94-bf4e-47bd-90ca-83576b6c4453reisendenkarte_20260226-120329.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-26/d70dcd94-bf4e-47bd-90ca-83576b6c4453reisendenkarte_20260226-120329.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.02.2026 12:03:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-26/27d2d48d-c53e-4e6e-86b8-ec832697a756Baufpl%2B47268%2BLeipzig%2B-%2BTaucha%2B%2528RE10%2529%2B15.03.26.pdf",
-          "label": "Baufpl 47268 Leipzig - Taucha (RE10) 15.03.26.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "S7 bis Hauptbahnhof",
+      "summary": "S7: Aufgrund einer technischen Störung an einem Signal beginnt und endet die S7 zur Zeit am Hauptbahnhof auf Gleis 2.",
+      "text": "<p>Die S7 verkehrt zur Zeit zwischen Bergedorf bzw. Aumühle und Hauptbahnhof. Fahrgäste in Richtung Jungfernstieg, Landungsbrücken und Altona, steigen am Hauptbahnhof bitte in die S1, S3 und S5 um.</p>",
+      "durationBegin": "09.03.2026",
+      "durationEnd": "09.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/e10f2d9b-55ad-44ca-9d42-f0c7201ddf25",
+      "images": [],
+      "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "BB",
-        "SN"
+        "HH",
+        "SH"
       ],
       "lines": [
         {
-          "name": "RE 10",
-          "filterName": "RE 10",
-          "property": "REGIONAL"
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "26.02.2026 12:50",
+      "lastModified": "09.03.2026 14:31",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/333b261d-591e-42f7-a38f-0be3617d5c7b",
-      "magnoliaPath": "/aktuell/nordost/additional_service_construction5"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9ab6a0f4-8881-4390-94bd-b39b433a00bf",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -527,14 +567,14 @@
       },
       "headline": "S 6 Gauting ↔ Tutzing: Reparatur an der Strecke / 40-Minuten Takt am Montag, 9. März 26 ab ca. 5 Uhr zwischen Gauting ↔ Tutzing\n",
       "summary": "Zwischen Gauting und Tutzing kommt es zu Verspätungen von bis zu 10 Minuten.\n",
-      "text": "<p>Die Linie S 6 verkehrt im Abschnitt Gauting ↔ Tutzing <strong> im 40-Minuten-Takt:</strong></p><p><strong>Folgende RB halten in Starnberg</strong></p><p>RB Tutzing Abfahrt 12:32 Uhr → Pasing Ankunft 12:54 Uhr</p><p>RB Tutzing Abfahrt 13:37 Uhr → Pasing Ankunft 14:02 Uhr</p><p>RB Tutzing Abfahrt 14:32 Uhr → Pasing Ankunft 14:54 Uhr</p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "text": "<p>Die Linie S 6 verkehrt im Abschnitt Gauting ↔ Tutzing <strong> im 40-Minuten-Takt:</strong></p><p><strong>Folgende S-Bahnen fahren nach Tutzing:</strong></p><p><strong>Pasing → Gauting → Tutzing </strong></p><p>S 6 Pasing Abfahrt 14:21 Uhr → Gauting Abfahrt 14:37 Uhr → Tutzing Ankunft 14:56 Uhr</p><p>S 6 Pasing Abfahrt 15:01 Uhr → Gauting Abfahrt 15:17 Uhr → Tutzing Ankunft 15:36 Uhr</p><p>S 6 Pasing Abfahrt 15:41 Uhr → Gauting Abfahrt 15:57 Uhr → Tutzing Ankunft 16:16 Uhr</p><p><strong>Tutzing → Gauting → Pasing </strong></p><p>S 6 Tutzing Abfahrt 14:44 Uhr → Gauting →15:02 Uhr → Pasing Ankunft 15:15 Uhr</p><p>S 6 Tutzing Abfahrt 15:24 Uhr → Gauting → 15:42 Uhr → Pasing Ankunft 15:55 Uhr</p><p>S6 Tutzing Abfahrt 16:04 Uhr → Gauting → 16:22 Uhr → Pasing Ankunft 16:35 Uhr</p><p><strong>Sie haben auch die Möglichkeit, Regionalzüge zu nutzen, die gemäß Fahrplan in Starnberg halten, und bis nach Starnberg zu fahren.</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "08.03.2026",
       "durationEnd": "09.03.2026",
       "mapHref": "https://karte.bahn.de/detail/338235da-0f47-48d3-af2e-b1dd51443b19",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/2fb16f06-d2ac-41b9-984f-13ea0f91c74ereisendenkarte_20260308-223954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/2fb16f06-d2ac-41b9-984f-13ea0f91c74ereisendenkarte_20260308-223954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/1ffdf93b-50d3-4043-8972-23a5e62280f0reisendenkarte_20260308-223954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/1ffdf93b-50d3-4043-8972-23a5e62280f0reisendenkarte_20260308-223954.png",
           "info": "",
           "alt": "Reisendenkarte 08.03.2026 22:39:54",
           "openInNewTab": true
@@ -555,7 +595,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2026 11:49",
+      "lastModified": "09.03.2026 14:33",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -611,51 +651,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "44dca758-8e3f-4384-830f-fd550da22da5",
-      "disruptionId": "4363254a-3aa4-4680-996d-b677f89def8f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 4 Aubing ↔ Puchheim",
-      "summary": "Zwischen Aubing und Puchheim kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "09.03.2026",
-      "durationEnd": "09.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/4363254a-3aa4-4680-996d-b677f89def8f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/9066db78-b5b4-45aa-8eb8-d188c2c129b2reisendenkarte_20260309-113120.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/9066db78-b5b4-45aa-8eb8-d188c2c129b2reisendenkarte_20260309-113120.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.03.2026 11:31:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.03.2026 12:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/44dca758-8e3f-4384-830f-fd550da22da5",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
