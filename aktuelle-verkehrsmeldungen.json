@@ -2,6 +2,60 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "e8f01a66-14b1-4a3d-8b28-2d9de9e3f739",
+      "disruptionId": "c006f20a-65d5-4d93-8724-2bc430988075",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "S1, S3, S5, S7: Technische Störung an der Strecke",
+      "summary": "Aktuell kommt es auf den Linien S1, S3, S5, S7 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke ",
+      "text": "<p>Wir fahren aktuell nach folgenden Betriebskonzept:</p><p>S1 verkehrt zwischen Wedel &lt;&gt; Altona / Berliner Tor &lt;&gt;Airport/Poppenbüttel</p><p>S3 verkehrt zwischen Pinneberg &lt;&gt; Altona / Landungsbrücken &lt;&gt; Neugraben</p><p>S5 verkehrt weiterhin in beiden Richtungen durch den Citytunnel</p><p>S7 beginnt und wendet weiterhin am Hbf auf Gleis 3</p>",
+      "durationBegin": "09.03.2026",
+      "durationEnd": "09.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/c006f20a-65d5-4d93-8724-2bc430988075",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.03.2026 20:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e8f01a66-14b1-4a3d-8b28-2d9de9e3f739",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_other"
+    },
+    {
       "id": "0f0e8262-0b9b-48af-84ac-aa9174099f67",
       "disruptionId": "70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "author": "S_BAHN_HH",
@@ -72,52 +126,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0f0e8262-0b9b-48af-84ac-aa9174099f67",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "8df0f7b3-3514-4ffb-956f-67d260ac1e9d",
-      "disruptionId": "f8e4af55-5958-4243-8f7c-dc9a1f40ad4b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung in Dortmund Derne",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Dortmund Derne (Dortmund - Lünen) kommt es derzeit zu Umleitungen über Hamm(W) und Zusatzverspätungen bis zu 15 Min.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge (Hamburg – Bremen – Münster (Westf) – Köln – Frankfurt (M) Flughafen – Mannheim – Stuttgart – München)</li><li>ICE Züge (Hamburg – Bremen – Münster (Westf) – Köln – Frankfurt (M) Flughafen – Mannheim – Basel – Interlaken Ost/Brig/Zürich - Chur)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.03.2026",
-      "durationEnd": "09.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/f8e4af55-5958-4243-8f7c-dc9a1f40ad4b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-09/e8748052-97c6-4654-b04b-7ad145fded81reisendenkarte_20260309-150046.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-09/e8748052-97c6-4654-b04b-7ad145fded81reisendenkarte_20260309-150046.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.03.2026 15:00:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.03.2026 15:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8df0f7b3-3514-4ffb-956f-67d260ac1e9d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_other_cause"
     },
     {
       "id": "5b332c3c-0275-4871-86cb-53ac42500282",
@@ -282,14 +290,14 @@
       },
       "headline": "Verspätungen und es kann zu Teil- und Zugausfällen kommen im Raum Borken(Hess)",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 9. März</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 40 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 80 Minuten möglich.</li><li>Es kann auch zu kurzfristigen Teilausfällen kommen.</li><li>Auch auf der RB39 zwischen Wabern(Bz Kassel) - Kassel kommt es zu Verspätungen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 9. März</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 40 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 80 Minuten möglich.</li><li>Auch auf der RB39 zwischen Wabern(Bz Kassel) - Kassel kommt es zu teilweise hohen Verspätungen.</li><li>Es kommt auch zu Teil- und Zugausfällen kommen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "09.03.2026",
       "durationEnd": "09.03.2026",
       "mapHref": "https://karte.bahn.de/detail/153ed808-17c9-49ce-ad2a-c2811a60e263",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-09/dc3718cb-96f6-4dc9-bbbf-4e2661facc9freisendenkarte_20260309-190952.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-09/dc3718cb-96f6-4dc9-bbbf-4e2661facc9freisendenkarte_20260309-190952.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-09/b420eb57-a6db-41b4-b2f5-2346a72f88b2reisendenkarte_20260309-190952.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-09/b420eb57-a6db-41b4-b2f5-2346a72f88b2reisendenkarte_20260309-190952.png",
           "info": "",
           "alt": "Reisendenkarte 09.03.2026 19:09:52",
           "openInNewTab": true
@@ -320,7 +328,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.03.2026 19:17",
+      "lastModified": "09.03.2026 19:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -635,18 +643,25 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 6 Gauting ↔ Tutzing: Reparatur an der Strecke / 40-Minuten Takt am Montag, 9. März 26 ab ca. 5 Uhr zwischen Gauting ↔ Tutzing\n",
-      "summary": "S 6 Gauting ↔ Tutzing: Reparatur an der Strecke / 40-Minuten Takt am Montag, 9. März 26 seit ca. 5 Uhr zwischen Gauting ↔ Tutzing.\nZwischen Gauting und Tutzing kommt es zu Verspätungen von bis zu 10 Minuten.\n",
-      "text": "<p></p><p></p><p><strong>Folgende S-Bahnen fahren nach Tutzing:</strong></p><p><strong>Pasing → Gauting → Tutzing </strong></p><ul><li>S 6 Pasing Abfahrt 18:21 Uhr → Gauting Abfahrt 18:37 Uhr → Tutzing Ankunft 18:56 Uhr</li><li>S 6 Pasing Abfahrt 19:01 Uhr → Gauting Abfahrt 19:17 Uhr → Tutzing Ankunft 19:36 Uhr</li><li>S6 Pasing Abfahrt 19:21 Uhr → Gauting Abfahrt 19:37 Uhr → Tutzing Ankunft 19:56 Uhr </li><li>S 6 Pasing Abfahrt 19:41 Uhr → Gauting Abfahrt 19:57 Uhr → Tutzing Ankunft 20:16 Uhr</li></ul><p><strong>Tutzing → Gauting → Pasing </strong></p><ul><li>S 6 Tutzing Abfahrt 18:04 Uhr → Gauting Abfahrt 18:22 Uhr → Pasing Ankunft 18:35 Uhr</li><li>S 6 Tutzing Abfahrt 18:44 Uhr → Gauting Abfahrt 19:02 Uhr → Pasing Ankunft 19:15 Uhr</li><li>S6 Tutzing Abfahrt 19:24 Uhr → Gauting Abfahrt 19:42 Uhr → Pasing Ankunft 19:55 Uhr</li></ul><p><strong>Zusätzlich können sie zwischen Starnberg und Tutzing die stündlich verkehrenden Züge der Werdenfelsbahn nutzen.</strong></p><p>&nbsp;</p><p><strong>Bitte beachten sie, die ab ca. 22:00 Uhr planmäßig stattfindenden Bauarbeiten mit Ersatzverkehr mit Bussen zwischen Gauting und Tutzing.</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "08.03.2026",
+      "headline": "S 6 Gauting ↔ Tutzing: Reparatur an der Strecke\n",
+      "summary": "\nBitte beachten sie, die ab ca. 20:00 Uhr planmäßig stattfindenden Bauarbeiten mit Ersatzverkehr mit Bussen zwischen Gauting und Tutzing.",
+      "text": "<p>Ab den folgenden S-Bahnen verkehren die Züge zwischen Tutzing und Gauting nicht. Es fährt ausschließlich Ersatzverkehr mit Bussen gemäß Baustellenfahrplan.</p><p><strong>Pasing → Gauting → Tutzing </strong></p><ul><li>S 6 Pasing Abfahrt 19:41 Uhr → Gauting Abfahrt 19:57 Uhr → Tutzing Ankunft 20:16 Uhr</li></ul><p><strong>Tutzing → Gauting → Pasing </strong></p><ul><li>S 6 Tutzing Abfahrt 19:44 Uhr → Gauting Abfahrt 20:02 Uhr → Pasing Ankunft 20:15 Uhr</li></ul><p></p><p><strong>Bitte benutzen Sie nur Fahrzeuge mit entsprechend gekennzeichneter Beschilderung.</strong></p><p></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "09.03.2026",
       "durationEnd": "09.03.2026",
       "mapHref": "https://karte.bahn.de/detail/338235da-0f47-48d3-af2e-b1dd51443b19",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/57ef34eb-11ba-410e-ae89-82726b90f07freisendenkarte_20260308-223954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/57ef34eb-11ba-410e-ae89-82726b90f07freisendenkarte_20260308-223954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/2801efa7-e8cb-4b71-9398-9107cd0f9e4areisendenkarte_20260309-195924.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/2801efa7-e8cb-4b71-9398-9107cd0f9e4areisendenkarte_20260309-195924.png",
           "info": "",
-          "alt": "Reisendenkarte 08.03.2026 22:39:54",
+          "alt": "Reisendenkarte 09.03.2026 19:59:24",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/51bbaa88-0b38-4e9c-9f68-3d5ccb001359reisendenkarte_20260309-200617.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-09/51bbaa88-0b38-4e9c-9f68-3d5ccb001359reisendenkarte_20260309-200617.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.03.2026 20:06:17",
           "openInNewTab": true
         }
       ],
@@ -665,7 +680,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.03.2026 17:36",
+      "lastModified": "09.03.2026 20:18",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
