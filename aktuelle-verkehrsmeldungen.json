@@ -13,7 +13,7 @@
       "summary": " ",
       "text": "<p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Mittlerer Landweg</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 08. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "06.03.2026",
-      "durationEnd": "13.03.2026",
+      "durationEnd": "18.03.2026",
       "mapHref": "https://karte.bahn.de/detail/70d9f4b5-5ccd-4531-a284-c886e97d2265",
       "images": [],
       "downloads": [],
@@ -66,7 +66,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.03.2026 12:01",
+      "lastModified": "13.03.2026 10:33",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -127,15 +127,22 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S7: Aufgrund von Bauarbeiten beginnt und endet die S2 und S7 zur Zeit am Hauptbahnhof auf Gleis 2. \n",
+      "headline": "🚧 S2/S7: Aufgrund von Bauarbeiten beginnt und endet die 🔴 S2 zur Zeit am Hauptbahnhof auf Gleis 2. 🚧",
       "summary": " Die Stationen Dammtor, Sternschanze und Holstenstraße erreichen Sie wie folgt:",
-      "text": "<p>Zwischen Hamburg Hbf und Sternschanze wurde ein Ersatzverkehr angefordert. Die Station Dammtor erreichen Sie alternativ mit der U1 und die Station Sternschanze erreichen Sie alternativ mit der U3. Die Station Holstenstraße erreichen Sie alternativ mit dem SEV von Altona aus oder mit den Buslinien 20 und 25.</p>",
+      "text": "<p>🚍 Zwischen Hamburg Hbf und Sternschanze ist ein Ersatzverkehr eingerichtet.</p><p>🚆 Die Station Dammtor erreichen Sie alternativ auch mit der 🔵 U1(Stephansplatz).</p><p>🚆 Die Station Sternschanze erreichen Sie alternativ auch mit der 🟡 U3.</p><p>🚍 Die Station Holstenstraße erreichen Sie alternativ mit dem Ersatzverkehr von Altona aus oder mit den Buslinien 20 und 25.</p><p></p><p></p><p><strong>🚍</strong> A replacement bus service is in operation between Hamburg Central Station (Hbf) and Sternschanze.</p><p>🚆 Dammtor station can alternatively be reached via 🔵 U1 (Stephansplatz).</p><p>🚆 Sternschanze station can alternatively be reached via 🟡 U3.</p><p>🚍 Holstenstraße station can be reached via the replacement bus service from Altona or by bus lines 20 and 25.</p>",
       "durationBegin": "13.03.2026",
       "durationEnd": "13.03.2026",
       "mapHref": "https://karte.bahn.de/detail/72df0d10-ca76-454f-bebf-cd7485fea83b",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://geofox.hvv.de/web/de/connections?clear=true&language=de",
+          "label": "HVV-Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "SBAHN"
       ],
@@ -145,60 +152,32 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 2",
           "filterName": "S 2 Hamburg",
           "property": "SBAHN"
         },
         {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
           "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.03.2026 08:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/747e16b6-1bf5-435f-a3be-5f4f94ee914a",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section3"
-    },
-    {
-      "id": "18f07b82-bc6d-47ad-b3ca-89bce69de4ee",
-      "disruptionId": "901e8154-abee-486b-9785-42c7a720f249",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S5: Verspätungen",
-      "summary": "Aktuell kommt es auf der Linie S5 zu Abweichungen vom Fahrplan. Grund: Technische Störung an der Strecke ",
-      "text": "<p> </p>",
-      "durationBegin": "13.03.2026",
-      "durationEnd": "13.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/901e8154-abee-486b-9785-42c7a720f249",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
+        },
         {
           "name": "S 5",
           "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.03.2026 08:58",
-      "expand": false,
+      "lastModified": "13.03.2026 10:32",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/18f07b82-bc6d-47ad-b3ca-89bce69de4ee",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section4"
+      "detailPagePath": "/service/fahrplaene/747e16b6-1bf5-435f-a3be-5f4f94ee914a",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section3"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -405,16 +384,16 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Verspätungen und Ausfälle im Raum Borken(Hess)",
+      "headline": "Verspätungen und Teil- sowie Zugausfälle im Raum Borken(Hess)",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen und der Kurhessenbahn kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 20 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 80 Minuten möglich.</li><li>Es kann auch zu Teil- und Zugausfällen kommen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Nutzen Sie alternativ die anderen Züge des Nahverkehrs zwischen Kassel-Wilhelmshöhe und Wabern(Bz Kassel) sowie die RT5 zwischen Baunatal-Guntershausen - Kassel-Wilhelmshöhe - Kassel Hbf.</li><li>Alternative zwischen Kassel - Fritzlar - Bad Wildungen: Nutzen Sie die Buslinie 500 zwischen den Haltestellen Bahnhof Wilhelmshöhe, Kassel - Hauptbahnhof, Kassel - Allee, Fritzlar (Ortsmitte) - Wega Ostlandsiedlung, Bad Wildungen - Bahnhof, Bad Wildungen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB38: Kassel Hbf - Kassel-Wilhelmshöhe - Edermünde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</li><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu Verspätungen von bis zu 40 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 80 Minuten möglich.</li><li>Es kann auch zu Teil- und Zugausfällen kommen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Nutzen Sie alternativ die anderen Züge des Nahverkehrs zwischen Kassel-Wilhelmshöhe und Wabern(Bz Kassel) sowie die RT5 zwischen Baunatal-Guntershausen - Kassel-Wilhelmshöhe - Kassel Hbf.</li><li>Alternative zwischen Kassel - Fritzlar - Bad Wildungen: Nutzen Sie die Buslinie 500 zwischen den Haltestellen Bahnhof Wilhelmshöhe, Kassel - Hauptbahnhof, Kassel - Allee, Fritzlar (Ortsmitte) - Wega Ostlandsiedlung, Bad Wildungen - Bahnhof, Bad Wildungen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "12.03.2026",
-      "durationEnd": "13.03.2026",
+      "durationEnd": "14.03.2026",
       "mapHref": "https://karte.bahn.de/detail/c8b01b2e-fba0-45a6-82a1-c78707109ded",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-13/a5f1d236-037f-45af-841a-6faf28ebc17creisendenkarte_20260310-175040.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-13/a5f1d236-037f-45af-841a-6faf28ebc17creisendenkarte_20260310-175040.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-13/854de1d0-b59f-472a-981b-5f01f10ba4c8reisendenkarte_20260310-175040.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-13/854de1d0-b59f-472a-981b-5f01f10ba4c8reisendenkarte_20260310-175040.png",
           "info": "",
           "alt": "Reisendenkarte 10.03.2026 17:50:40",
           "openInNewTab": true
@@ -429,6 +408,11 @@
         "HE"
       ],
       "lines": [
+        {
+          "name": "Bus RB39",
+          "filterName": "Bus RB39",
+          "property": "REGIONAL"
+        },
         {
           "name": "RB 38",
           "filterName": "RB 38",
@@ -450,12 +434,57 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "13.03.2026 08:15",
+      "lastModified": "13.03.2026 10:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/75db6339-e1a4-4e4b-91f4-1f6cd8644e91",
       "magnoliaPath": "/aktuell/hessen/impairment_construction"
+    },
+    {
+      "id": "fef72065-cd18-4b91-8794-528043af7c74",
+      "disruptionId": "8c6601dd-d8ef-4d81-ada4-427923b22da7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Endmeldung: S 1 Neufahrn ↔ Freising",
+      "summary": "die Züge können wieder zwischen Neufahrn und Freising fahren.",
+      "text": "<p>Ab den folgenden S-Bahnen verkehren die Züge der Linie S1 wieder bis nach&nbsp;Freising:</p><p><strong>S1 Leuchtenbergring→ Freising/Flughafen</strong></p><ul><li>&nbsp;S 1 Leuchtenbergring Abfahrt 09:51 Uhr → Neufahrn Abfahrt 10:36 Uhr → Freising Ankunft 10:44 Uhr</li></ul><p>&nbsp;Der Ersatzverkehr mit Großraumtaxis wird 10:30 Uhr  Uhrzeit eingestellt.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die technische Störung am Zug wurde behoben.</p>",
+      "durationBegin": "13.03.2026",
+      "durationEnd": "13.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/8c6601dd-d8ef-4d81-ada4-427923b22da7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/117133d3-40c9-420b-8fbf-b4a0aa20e137reisendenkarte_20260313-095904.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/117133d3-40c9-420b-8fbf-b4a0aa20e137reisendenkarte_20260313-095904.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.03.2026 09:59:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.03.2026 10:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fef72065-cd18-4b91-8794-528043af7c74",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "9aa9dbcd-5bab-466e-84e0-892dbe865fa1",
@@ -656,6 +685,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "1e20c248-e39f-4b1c-b6d7-6d031197a746",
+      "disruptionId": "d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 2 Röhrmoos ↔ Petershausen: Defektes Stellwerk",
+      "summary": "Zwischen Röhrmoos und Petershausen kommt es zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "13.03.2026",
+      "durationEnd": "13.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/5e2dbbf0-8d0f-4881-a720-e521c735abe5reisendenkarte_20260313-104203.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/5e2dbbf0-8d0f-4881-a720-e521c735abe5reisendenkarte_20260313-104203.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.03.2026 10:42:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.03.2026 10:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e20c248-e39f-4b1c-b6d7-6d031197a746",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "b2ffd810-fc63-4efd-b014-2abbeca8e706",
