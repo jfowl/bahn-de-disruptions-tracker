@@ -172,7 +172,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.03.2026 10:32",
+      "lastModified": "13.03.2026 11:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -224,6 +224,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "1e20c248-e39f-4b1c-b6d7-6d031197a746",
+      "disruptionId": "d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 2 Dachau ↔ Petershausen: Defektes Stellwerk",
+      "summary": "Zwischen Dachau und Petershausen ist die Strecke gesperrt. Die S-Bahnen wenden in Dachau.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Dachau und Petershausen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p></p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "13.03.2026",
+      "durationEnd": "13.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/d8e34d40-d305-4669-9528-23f035aeb9e0reisendenkarte_20260313-112457.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/d8e34d40-d305-4669-9528-23f035aeb9e0reisendenkarte_20260313-112457.png",
+          "info": "",
+          "alt": "Reisendenkarte 13.03.2026 11:24:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.03.2026 11:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e20c248-e39f-4b1c-b6d7-6d031197a746",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "2516b99e-76bd-4aab-b244-56f7c08035d8",
@@ -442,51 +487,6 @@
       "magnoliaPath": "/aktuell/hessen/impairment_construction"
     },
     {
-      "id": "fef72065-cd18-4b91-8794-528043af7c74",
-      "disruptionId": "8c6601dd-d8ef-4d81-ada4-427923b22da7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Endmeldung: S 1 Neufahrn ↔ Freising",
-      "summary": "die Züge können wieder zwischen Neufahrn und Freising fahren.",
-      "text": "<p>Ab den folgenden S-Bahnen verkehren die Züge der Linie S1 wieder bis nach&nbsp;Freising:</p><p><strong>S1 Leuchtenbergring→ Freising/Flughafen</strong></p><ul><li>&nbsp;S 1 Leuchtenbergring Abfahrt 09:51 Uhr → Neufahrn Abfahrt 10:36 Uhr → Freising Ankunft 10:44 Uhr</li></ul><p>&nbsp;Der Ersatzverkehr mit Großraumtaxis wird 10:30 Uhr  Uhrzeit eingestellt.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "13.03.2026",
-      "durationEnd": "13.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/8c6601dd-d8ef-4d81-ada4-427923b22da7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/117133d3-40c9-420b-8fbf-b4a0aa20e137reisendenkarte_20260313-095904.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/117133d3-40c9-420b-8fbf-b4a0aa20e137reisendenkarte_20260313-095904.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.03.2026 09:59:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.03.2026 10:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fef72065-cd18-4b91-8794-528043af7c74",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
-    },
-    {
       "id": "9aa9dbcd-5bab-466e-84e0-892dbe865fa1",
       "disruptionId": "ea4dc950-013a-4735-9610-5a0353e39405",
       "author": "S_BAHN_MUC",
@@ -502,8 +502,8 @@
       "mapHref": "https://karte.bahn.de/detail/ea4dc950-013a-4735-9610-5a0353e39405",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/902a4582-a7c5-4b46-80ed-5b23d90476b9reisendenkarte_20260313-012232.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/902a4582-a7c5-4b46-80ed-5b23d90476b9reisendenkarte_20260313-012232.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/f8011933-ad02-4c9b-a1e3-e79eb4d8a9d0reisendenkarte_20260313-012232.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/f8011933-ad02-4c9b-a1e3-e79eb4d8a9d0reisendenkarte_20260313-012232.png",
           "info": "",
           "alt": "Reisendenkarte 13.03.2026 01:22:32",
           "openInNewTab": true
@@ -524,7 +524,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.03.2026 09:44",
+      "lastModified": "13.03.2026 11:35",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -687,25 +687,25 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "1e20c248-e39f-4b1c-b6d7-6d031197a746",
-      "disruptionId": "d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "id": "b2ba0de2-31ce-45bf-a613-15a22d52d97a",
+      "disruptionId": "af481232-bcf4-431b-8bec-1edabf8f9aee",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "S 2 Röhrmoos ↔ Petershausen: Defektes Stellwerk",
-      "summary": "Zwischen Röhrmoos und Petershausen kommt es zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Zwischen Pasing und Ostbahnhof kommt es zu Verspätungen von 10 bis 15 Minuten und zu Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes am Rosenheimerplatz.</p>",
       "durationBegin": "13.03.2026",
       "durationEnd": "13.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/d2d7d4d6-f5a9-4d58-9d0a-68d685a31d89",
+      "mapHref": "https://karte.bahn.de/detail/af481232-bcf4-431b-8bec-1edabf8f9aee",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/5e2dbbf0-8d0f-4881-a720-e521c735abe5reisendenkarte_20260313-104203.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/5e2dbbf0-8d0f-4881-a720-e521c735abe5reisendenkarte_20260313-104203.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/56c18b5f-1d19-4b2f-9be0-d6841577e8ffreisendenkarte_20260313-114542.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/56c18b5f-1d19-4b2f-9be0-d6841577e8ffreisendenkarte_20260313-114542.png",
           "info": "",
-          "alt": "Reisendenkarte 13.03.2026 10:42:03",
+          "alt": "Reisendenkarte 13.03.2026 11:45:42",
           "openInNewTab": true
         }
       ],
@@ -719,17 +719,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "13.03.2026 10:43",
+      "lastModified": "13.03.2026 11:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1e20c248-e39f-4b1c-b6d7-6d031197a746",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
+      "detailPagePath": "/service/fahrplaene/b2ba0de2-31ce-45bf-a613-15a22d52d97a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency1"
     },
     {
       "id": "b2ffd810-fc63-4efd-b014-2abbeca8e706",
@@ -747,8 +777,8 @@
       "mapHref": "https://karte.bahn.de/detail/08ceff88-349a-416f-9c2a-e889c1ba826d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/54304532-d26b-44be-9f60-363658738b2ereisendenkarte_20260313-090053.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/54304532-d26b-44be-9f60-363658738b2ereisendenkarte_20260313-090053.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/3cfebc14-20d2-4626-a6d8-a3bcaeabea6ereisendenkarte_20260313-090053.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/3cfebc14-20d2-4626-a6d8-a3bcaeabea6ereisendenkarte_20260313-090053.png",
           "info": "",
           "alt": "Reisendenkarte 13.03.2026 09:00:53",
           "openInNewTab": true
@@ -774,7 +804,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.03.2026 09:02",
+      "lastModified": "13.03.2026 11:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
