@@ -120,6 +120,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "536fc4c3-9b12-401c-b4f7-a62df30e903f",
+      "disruptionId": "dce754aa-5f4e-417c-ad12-9f2a103a9582",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S 8 Pasing ↔ Germering-Unterpfaffenhofen: Gegenstände auf der Strecke",
+      "summary": "Zwischen Pasing und Germering-Unterpfaffenhofen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Pasing und Germering-Unterpfaffenhofen.</p><p>Bitte rechnen Sie mit Verspätungen und Umleitungen.</p><p>Der Grund hierfür sind Gegenstände auf der Strecke am Westkreuz.</p>",
+      "durationBegin": "14.03.2026",
+      "durationEnd": "14.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/dce754aa-5f4e-417c-ad12-9f2a103a9582",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/19b85a15-4850-4804-8def-d756fee2aefareisendenkarte_20260314-214009.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/19b85a15-4850-4804-8def-d756fee2aefareisendenkarte_20260314-214009.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.03.2026 21:40:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.03.2026 21:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/536fc4c3-9b12-401c-b4f7-a62df30e903f",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section9"
+    },
+    {
       "id": "2516b99e-76bd-4aab-b244-56f7c08035d8",
       "disruptionId": "7a9d388d-1b7d-4ba5-85c8-a3ec63a94526",
       "author": "REGIO_BY",
@@ -481,6 +526,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/578ca592-98f8-4648-8c4b-287b32ac3a1a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
+    },
+    {
+      "id": "dc3419b8-659d-43a8-9b12-fde82cf020ee",
+      "disruptionId": "8d4187ac-a1d9-4a9b-be01-a375de8533a8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes an der Donnersbergerbrücke.</p>",
+      "durationBegin": "14.03.2026",
+      "durationEnd": "14.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/8d4187ac-a1d9-4a9b-be01-a375de8533a8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/6678f5d1-7f12-4bb6-841b-5759b3dad331reisendenkarte_20260314-215504.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/6678f5d1-7f12-4bb6-841b-5759b3dad331reisendenkarte_20260314-215504.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.03.2026 21:55:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.03.2026 21:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc3419b8-659d-43a8-9b12-fde82cf020ee",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency3"
     },
     {
       "id": "0bf6c9dc-b2f3-41bf-a710-ab2005b9877e",
