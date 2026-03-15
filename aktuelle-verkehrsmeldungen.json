@@ -120,6 +120,56 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "d76e0916-6e7b-4bd5-b925-e6af34c3a9b4",
+      "disruptionId": "4a55ffd1-2800-47c7-85e1-93855495d1e1",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 21 / Gräfenberg - Nürnberg Nordost",
+      "summary": "Reparatur an der Strecke / Streckensperrung / Ersatzverkehr ",
+      "text": "<p>Aktuell ist die Strecke zw. <strong>Gräfenberg - Nürnberg Nordost </strong>gesperrt.</p><p>Grund: <strong>Reparatur an der Strecke</strong></p><p><strong>Ein Ersatzverkehr zwischen Gräfenberg und Nürnberg Nordost ist für Sie eingerichtet.</strong></p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "15.03.2026",
+      "durationEnd": "18.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/4a55ffd1-2800-47c7-85e1-93855495d1e1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-15/99fc2d48-561b-4b51-ae51-34c72fffaa23reisendenkarte_20260315-122325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-15/99fc2d48-561b-4b51-ae51-34c72fffaa23reisendenkarte_20260315-122325.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.03.2026 12:23:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 21",
+          "filterName": "RB 21 Nürnberg",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.03.2026 15:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d76e0916-6e7b-4bd5-b925-e6af34c3a9b4",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section10"
+    },
+    {
       "id": "2516b99e-76bd-4aab-b244-56f7c08035d8",
       "disruptionId": "7a9d388d-1b7d-4ba5-85c8-a3ec63a94526",
       "author": "REGIO_BY",
@@ -481,51 +531,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/578ca592-98f8-4648-8c4b-287b32ac3a1a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
-    },
-    {
-      "id": "f7a4e2c0-a0d4-49ac-b594-d4dddc3522ed",
-      "disruptionId": "53b6f11c-b02e-4bcc-a4e8-b6f0ef0b0425",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 8 Westkreuz ↔ Neuaubing",
-      "summary": "Die Strecke zwischen Westkreuz und Neuaubing ist wieder freigegeben.\nZwischen Westkreuz und Neuaubing kommt es noch zu Verspätungen und Teilausfällen.",
-      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "15.03.2026",
-      "durationEnd": "15.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/53b6f11c-b02e-4bcc-a4e8-b6f0ef0b0425",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-15/ff2fe387-d70a-4ca1-a38e-ecd26871b8e3reisendenkarte_20260315-144233.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-15/ff2fe387-d70a-4ca1-a38e-ecd26871b8e3reisendenkarte_20260315-144233.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.03.2026 14:42:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.03.2026 14:44",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f7a4e2c0-a0d4-49ac-b594-d4dddc3522ed",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section11"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
