@@ -74,44 +74,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "7717ffe5-5d54-4f7d-a720-e360b1fa165e",
-      "disruptionId": "316856ee-2bdd-486b-804a-d16121f61725",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S2: Technische Störung an der Strecke",
-      "summary": "Aktuell fährt die Linie S2 zwischen Sternschanze und Wohltorf alle 10 Minuten. Zwischen Wohltorf und Aumühle ist ein Ersatzverkehr mit Bussen eingerichtet. ",
-      "text": "<p>Aktuell haben wir folgende Informationen für Sie: </p><p>Die Linie S2 fährt aktuell zwischen Sternschanze und Wohltorf alle 10 Minuten.</p><p>Zwischen Wohltorf und Aumühle ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Bitte beachten Sie das der Aufzug in Wohltorf derzeit wegen Bauarbeiten außer Betrieb ist.</p><p>Achten Sie bitte auf kurzfristige Ansagen in den Zügen und an den Bahnsteigen.</p><p>Grund: Technische Störung an der Strecke.</p>",
-      "durationBegin": "17.03.2026",
-      "durationEnd": "17.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/316856ee-2bdd-486b-804a-d16121f61725",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.03.2026 15:02",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7717ffe5-5d54-4f7d-a720-e360b1fa165e",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "48a71b65-6cb9-4946-8d85-475108941d01",
       "disruptionId": "36cd5275-c7f4-46ae-ad2c-33cd646812fa",
       "author": "REGIO_NORD",
@@ -121,13 +83,38 @@
       },
       "headline": "Beeinträchtigungen zwischen Hamburg-Altona und Elmshorn\n",
       "summary": "Aufgrund eines Notarzteinsatzes zwischen Hamburg-Altona und Elmshorn  ist die Strecke in beide Richtungen gesperrt. Es sind keine Zugfahrten möglich.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 70 ( Kiel Hbf - Hamburg-Altona) Die Züge beginnen/enden in Elmshorn.</li><li>RE 7 ( Kiel Hbf/Flensburg - Hamburg-Altona) Die Züge beginnen/enden in Neumünster.</li><li>RE 6 (Westerland Sylt - Hamburg-Altona) Die Züge beginnen/enden in Itzehoe.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 70 ( Kiel Hbf - Hamburg-Altona) Die Züge beginnen/enden in Elmshorn.</li><li>RE 7 ( Kiel Hbf/Flensburg - Hamburg-Altona) Die Züge beginnen/enden in Neumünster.</li><li>RE 6 (Westerland Sylt - Hamburg-Altona) Die Züge beginnen/enden in Itzehoe.</li></ul><p>Ein Ersatzverkehr mit Bussen zwischen Elmshorn und Pinneberg durch die Firmen EngineUnit und Ambos ist eingerichtet. Zwischen Pinneberg und Hamburg-Altona nutzen Sie bitte die Züge der S-Bahn Hamburg.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 90 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "17.03.2026",
       "durationEnd": "17.03.2026",
       "mapHref": "https://karte.bahn.de/detail/36cd5275-c7f4-46ae-ad2c-33cd646812fa",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -152,7 +139,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.03.2026 14:59",
+      "lastModified": "17.03.2026 16:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -215,14 +202,14 @@
       },
       "headline": "RB 21 / Gräfenberg - Nürnberg Nordost",
       "summary": "Reparatur an der Strecke. / Streckensperrung / Ersatzverkehr ",
-      "text": "<p>Aktuell ist die Strecke zw. <strong>Gräfenberg - Nürnberg Nordost </strong>gesperrt.</p><p>Grund: <strong>Reparatur an der Strecke.</strong></p><p>Ein<strong> Ersatzverkehr mit Bussen zwischen Gräfenberg und Nürnberg Nordost</strong> ist für Sie bis Mittwoch, den 18. März 2026 eingerichtet.</p><p>Am Dienstag, 17.03.2026 werden die Buskapazitäten des Ersatzverkehrs auf dieser Strecke nochmals zusätzlich verstärkt.</p><p><strong>Der Schülerverkehr wird auch mit weiteren zusätzlichen Buskapazitäten verstärkt.</strong></p><p>Bitte beachten Sie die längere Fahrzeit des Ersatzverkehrs von bis zu 15 Minuten und die Standorte der Ersatzhaltestellen, welche nicht immer direkt am Bahnhof liegen.</p><p>Abfahrtzeiten der Schülerbusse:</p><p>Nürnberg Nordost ab 06:14 Uhr, <strong>06:50 Uhr, </strong>07:24 Uhr,/ 13:35 Uhr</p><p>Gräfenberg ab 06:25 Uhr, 07:04 Uhr,<strong> 07:43</strong> <strong>Uhr</strong> bis Eschenau(Mittelfr) / 14:05 Uhr</p><p></p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "text": "<p>Aktuell ist die Strecke zw. <strong>Gräfenberg - Nürnberg Nordost </strong>gesperrt.</p><p>Grund: <strong>Reparatur an der Strecke.</strong></p><p>Ein<strong> Ersatzverkehr mit Bussen zwischen Gräfenberg und Nürnberg Nordost</strong> ist für Sie eingerichtet. Dieser verkehrt auch am Mittwoch, den 18.03.2026 mit den verstärkten Buskapazitäten auf dieser Strecke.</p><p><strong>Der Schülerverkehr wird auch mit weiteren zusätzlichen Buskapazitäten verstärkt.</strong></p><p>Bitte beachten Sie die längere Fahrzeit des Ersatzverkehrs von bis zu 15 Minuten und die Standorte der Ersatzhaltestellen, welche nicht immer direkt am Bahnhof liegen.</p><p>Abfahrtzeiten der Schülerbusse:</p><p>Nürnberg Nordost ab 06:14 Uhr, <strong>06:50 Uhr, </strong>07:24 Uhr,/ 13:35 Uhr</p><p>Gräfenberg ab 06:25 Uhr, 07:04 Uhr,<strong> 07:43</strong> <strong>Uhr</strong> bis Eschenau(Mittelfr) / 14:05 Uhr</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
       "durationBegin": "15.03.2026",
       "durationEnd": "18.03.2026",
       "mapHref": "https://karte.bahn.de/detail/4a55ffd1-2800-47c7-85e1-93855495d1e1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-16/a6566b93-a635-47fc-8b73-50b9186ba9f8reisendenkarte_20260315-122325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-16/a6566b93-a635-47fc-8b73-50b9186ba9f8reisendenkarte_20260315-122325.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-17/a6a7c2b0-31a8-4b92-89e4-2bbb83a06eabreisendenkarte_20260315-122325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-03-17/a6a7c2b0-31a8-4b92-89e4-2bbb83a06eabreisendenkarte_20260315-122325.png",
           "info": "",
           "alt": "Reisendenkarte 15.03.2026 12:23:25",
           "openInNewTab": true
@@ -248,7 +235,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.03.2026 16:05",
+      "lastModified": "17.03.2026 15:49",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -744,6 +731,43 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "e1965638-7bd0-47d6-9318-6d777ddd678a",
+      "disruptionId": "6ab50ced-7730-447d-b1f4-14f84a179fdf",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S 1 Moosach",
+      "summary": "Im Bereich Moosach kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Die Reparatur an einer Oberleitung wurde beendet.</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "17.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/6ab50ced-7730-447d-b1f4-14f84a179fdf",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.03.2026 16:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e1965638-7bd0-47d6-9318-6d777ddd678a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
+    },
+    {
       "id": "1cd0501a-3b2b-44fd-88a2-c193d7fa3bb2",
       "disruptionId": "61cf898c-40cc-4c15-a6a0-fc254f5dc50f",
       "author": "S_BAHN_MUC",
@@ -751,16 +775,16 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 3 Sauerlach: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Sauerlach kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "Endmeldung: S 3 Sauerlach",
+      "summary": "Im Bereich Sauerlach kommt es noch zu Folgeverspätungen von bis zu 10 Minuten und vorzeitigen Wenden.",
+      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
       "durationBegin": "17.03.2026",
       "durationEnd": "17.03.2026",
       "mapHref": "https://karte.bahn.de/detail/61cf898c-40cc-4c15-a6a0-fc254f5dc50f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/79decba5-4808-48f2-801f-d3e992ace723reisendenkarte_20260317-145757.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/79decba5-4808-48f2-801f-d3e992ace723reisendenkarte_20260317-145757.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/2ab8692a-cd42-4b5c-a6bf-97c213fbaf29reisendenkarte_20260317-145757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/2ab8692a-cd42-4b5c-a6bf-97c213fbaf29reisendenkarte_20260317-145757.png",
           "info": "",
           "alt": "Reisendenkarte 17.03.2026 14:57:57",
           "openInNewTab": true
@@ -781,7 +805,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.03.2026 14:59",
+      "lastModified": "17.03.2026 15:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
