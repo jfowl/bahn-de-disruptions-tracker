@@ -673,15 +673,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 6 Haar: Reparatur an einem Signal",
-      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "summary": "Im Bereich Haar kann es zu Verspätungen von bis zu 10 Minuten kommen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "16.03.2026",
       "durationEnd": "17.03.2026",
       "mapHref": "https://karte.bahn.de/detail/69154427-8805-49ad-91ce-6e8e8499beff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-16/5d01ba70-57fb-4334-8406-7c7547b07338reisendenkarte_20260316-221526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-16/5d01ba70-57fb-4334-8406-7c7547b07338reisendenkarte_20260316-221526.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/fe2b2046-7d34-45b8-9f2c-eb36b731cbcereisendenkarte_20260316-221526.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/fe2b2046-7d34-45b8-9f2c-eb36b731cbcereisendenkarte_20260316-221526.png",
           "info": "",
           "alt": "Reisendenkarte 16.03.2026 22:15:26",
           "openInNewTab": true
@@ -697,12 +697,17 @@
       ],
       "lines": [
         {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.03.2026 23:28",
+      "lastModified": "17.03.2026 02:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
