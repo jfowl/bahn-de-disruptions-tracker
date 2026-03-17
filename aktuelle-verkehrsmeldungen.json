@@ -460,9 +460,9 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "S 7 Hauptbahnhof : Nicht beendete Bauarbeiten",
-      "summary": "Die S-Bahnen halten derzeit nicht Hauptbahnhof.",
-      "text": "<p>Der Grund hierfür sind nicht beendete Bauarbeiten.</p>",
+      "headline": "S 7 Hauptbahnhof : Verlängerte Bauarbeiten",
+      "summary": "Die Bauarbeiten auf der Linie S7 dauern an. Der Halt Hauptbahnhof entfällt weiterhin.",
+      "text": "<p>Die S-Bahnen der Linie S7 beginnen und enden weiterhin an der Donnersbergerbrücke&nbsp;<strong>Gleis 4.</strong></p><p>Nutzen Sie bitte die verkehrenden S-Bahnen zur Donnersbergerbrücke und steigen dort zur Linie S 7 um.</p><p><strong>Nach aktuellen Informationen werden die Bauarbeiten bis Betriebsschluss andauern.</strong></p><p>Bitte informieren Sie sich auf&nbsp;www.s-bahn-muenchen.de oder in der App München Navigator über ihre Verbindung.&nbsp;</p><p>Der Grund hierfür sind verlängerte Bauarbeiten.</p>",
       "durationBegin": "18.03.2026",
       "durationEnd": "19.03.2026",
       "mapHref": "https://karte.bahn.de/detail/46c698dc-9f3a-47c1-a905-03eeed626b55",
@@ -482,7 +482,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.03.2026 22:44",
+      "lastModified": "17.03.2026 23:03",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -693,6 +693,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "5e80006b-d3fc-46f2-846f-fc9be82e504b",
+      "disruptionId": "9603f4c0-c310-4199-a067-7a976c226546",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 1 Feldmoching: Bauarbeiten",
+      "summary": "Im Bereich Feldmoching kommt es zu Verspätungen von bis zu 40 Minuten.",
+      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "18.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/9603f4c0-c310-4199-a067-7a976c226546",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/44105f32-6e75-4df2-92d1-6b6284912003reisendenkarte_20260317-231506.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/44105f32-6e75-4df2-92d1-6b6284912003reisendenkarte_20260317-231506.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.03.2026 23:15:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.03.2026 23:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5e80006b-d3fc-46f2-846f-fc9be82e504b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
