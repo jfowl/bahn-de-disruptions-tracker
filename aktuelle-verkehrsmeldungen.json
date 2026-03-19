@@ -579,6 +579,101 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "9906d7da-a5b7-4f2b-8b9b-0746565de4be",
+      "disruptionId": "e08a05e1-2b84-43fb-9634-9d6a6eef0182",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 2 Altomünster ↔ Dachau: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Altomünster und Dachau kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "19.03.2026",
+      "durationEnd": "19.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/e08a05e1-2b84-43fb-9634-9d6a6eef0182",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/3d5f4ca5-2a27-4502-99ab-82bbe17c443ereisendenkarte_20260319-173110.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/3d5f4ca5-2a27-4502-99ab-82bbe17c443ereisendenkarte_20260319-173110.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.03.2026 17:31:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 17:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9906d7da-a5b7-4f2b-8b9b-0746565de4be",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
+      "id": "2e3024a6-23a5-4b63-96c8-ce2dec676903",
+      "disruptionId": "685612c5-505c-4265-b45e-35bbfc76c58c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
+      },
+      "headline": "S1: Aktuell ohne Zugteilung in Ohlsdorf",
+      "summary": "Aktuell Unregelmäßigkeiten auf der S1. Zwischen Ohlsdorf und Poppenbüttel bzw. Hamburg Airport fahren die Züge  abwechselnd alle 10 Minuten. Grund: erhöhtes Fahrgastaufkommen.",
+      "text": "<p>Zusätzlich werden die Züge nicht geteilt. Achten Sie daher auf die Ansagen und Anzeigen am Zug sowie auf und in den Stationen.</p>",
+      "durationBegin": "19.03.2026",
+      "durationEnd": "19.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/685612c5-505c-4265-b45e-35bbfc76c58c",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
+          "label": "Fahrplanauskunft hvv",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/reiseauskunft",
+          "label": "DB Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 16:59",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2e3024a6-23a5-4b63-96c8-ce2dec676903",
+      "magnoliaPath": "/aktuell/nord/detour_other_cause"
+    },
+    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
