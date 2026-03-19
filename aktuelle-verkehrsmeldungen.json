@@ -579,6 +579,81 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "8b70a5df-3478-48c9-a79b-ce09ec47cdf5",
+      "disruptionId": "d084aa04-deb8-4827-870a-c0cb3533d7d9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "19.03.2026",
+      "durationEnd": "19.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d084aa04-deb8-4827-870a-c0cb3533d7d9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/8e155159-a3aa-49c7-bc15-d9f864187857reisendenkarte_20260319-180207.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/8e155159-a3aa-49c7-bc15-d9f864187857reisendenkarte_20260319-180207.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.03.2026 18:02:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 18:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b70a5df-3478-48c9-a79b-ce09ec47cdf5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
       "id": "9906d7da-a5b7-4f2b-8b9b-0746565de4be",
       "disruptionId": "e08a05e1-2b84-43fb-9634-9d6a6eef0182",
       "author": "S_BAHN_MUC",
@@ -622,56 +697,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9906d7da-a5b7-4f2b-8b9b-0746565de4be",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
-      "id": "2e3024a6-23a5-4b63-96c8-ce2dec676903",
-      "disruptionId": "685612c5-505c-4265-b45e-35bbfc76c58c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "other_cause",
-        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
-      },
-      "headline": "S1: Aktuell ohne Zugteilung in Ohlsdorf",
-      "summary": "Aktuell Unregelmäßigkeiten auf der S1. Zwischen Ohlsdorf und Poppenbüttel bzw. Hamburg Airport fahren die Züge  abwechselnd alle 10 Minuten. Grund: erhöhtes Fahrgastaufkommen.",
-      "text": "<p>Zusätzlich werden die Züge nicht geteilt. Achten Sie daher auf die Ansagen und Anzeigen am Zug sowie auf und in den Stationen.</p>",
-      "durationBegin": "19.03.2026",
-      "durationEnd": "19.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/685612c5-505c-4265-b45e-35bbfc76c58c",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
-          "label": "Fahrplanauskunft hvv",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/fahrplaene/reiseauskunft",
-          "label": "DB Fahrplanauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.03.2026 16:59",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2e3024a6-23a5-4b63-96c8-ce2dec676903",
-      "magnoliaPath": "/aktuell/nord/detour_other_cause"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
