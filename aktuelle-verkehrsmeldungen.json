@@ -2,64 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "4ebf3665-d282-4cb4-b56e-866872c28110",
-      "disruptionId": "fb707255-7a1b-416e-8a2c-eaf005f1420f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin/Hannover und Hamburg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Uelzen und Lüneburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um bis zu 20 Minuten. Züge zwischen Hannover und Hamburg können umgeleitet werden und sich dadurch um bis zu 20 Minuten verspäten. Die Halte Celle, Uelzen und Lüneburg können entfallen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Berlin und Hamburg in beiden Fahrtrichtungen</li><li>ICE Züge zwischen Hannover und Hamburg in beiden Fahrtrichtungen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir sie weiter informieren.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/fb707255-7a1b-416e-8a2c-eaf005f1420f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/ac836fab-936a-4098-9dbd-a82dd6fb7899reisendenkarte_20260320-040128.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/ac836fab-936a-4098-9dbd-a82dd6fb7899reisendenkarte_20260320-040128.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.03.2026 04:01:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.03.2026 04:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/4ebf3665-d282-4cb4-b56e-866872c28110",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
@@ -202,53 +144,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "2497fd14-290a-4e48-a592-119ceb5509c0",
-      "disruptionId": "3e2aa9ad-44e4-4ba2-9502-28feea3f52ee",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "🟢 S1, 🟣 S3, 🔵 S5: Die S-Bahnen fahren wieder über Altona",
-      "summary": "✅ Der Betrieb zwischen Stellingen / Klein Flottbek und Landungsbrücken läuft wieder an. Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
-      "text": "<p>Da Personal und Fahrzeuge jetzt erstmal da hin müssen, wo sie laut Fahrplan eingeplant sind, kann es noch einige Zeit dauern, bis alle S-Bahnen wieder nach Plan fahren.</p>",
-      "durationBegin": "20.03.2026",
-      "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/3e2aa9ad-44e4-4ba2-9502-28feea3f52ee",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.03.2026 05:38",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2497fd14-290a-4e48-a592-119ceb5509c0",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
     },
     {
       "id": "2516b99e-76bd-4aab-b244-56f7c08035d8",
@@ -402,6 +297,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "cc65f494-db53-45bf-b7d6-2c29d69adb73",
+      "disruptionId": "74d724c5-07cf-473a-90dc-945b13e13047",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "🟢 S1: Maßnahmen zur Betriebsstabilisierung nach einem Polizeieinsatz",
+      "summary": "Aktuell fährt die S1 zwischen Poppenbüttel und Blankenese alle zehn Minuten.",
+      "text": "<p>...</p>",
+      "durationBegin": "20.03.2026",
+      "durationEnd": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/74d724c5-07cf-473a-90dc-945b13e13047",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.03.2026 06:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cc65f494-db53-45bf-b7d6-2c29d69adb73",
+      "magnoliaPath": "/aktuell/nord/reduced_service_other_cause"
+    },
+    {
       "id": "0750228b-5a3b-45a1-9c5a-11d2ae8ee6fc",
       "disruptionId": "cf174f5f-c4d3-4ba5-87ab-e6325babd87d",
       "author": "S_BAHN_HH",
@@ -409,8 +341,8 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "⚠️ 🔴 S2: Ausfall der Taktverstärker auf der Linie S2",
-      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt alle zehn Minuten. Grund: vorangegangener Polizeieinsatz.",
+      "headline": "🔴 S2: Maßnahmen zur Betriebsstabilisierung nach einem Polizeieinsatz",
+      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt alle zehn Minuten.",
       "text": "<p>Keine weiteren Informationen.</p>",
       "durationBegin": "20.03.2026",
       "durationEnd": "20.03.2026",
@@ -431,7 +363,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.03.2026 05:49",
+      "lastModified": "20.03.2026 06:12",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
