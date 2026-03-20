@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4ebf3665-d282-4cb4-b56e-866872c28110",
+      "disruptionId": "fb707255-7a1b-416e-8a2c-eaf005f1420f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin/Hannover und Hamburg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Uelzen und Lüneburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um bis zu 20 Minuten. Züge zwischen Hannover und Hamburg können umgeleitet werden und sich dadurch um bis zu 20 Minuten verspäten. Die Halte Celle, Uelzen und Lüneburg können entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Berlin und Hamburg in beiden Fahrtrichtungen</li><li>ICE Züge zwischen Hannover und Hamburg in beiden Fahrtrichtungen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir sie weiter informieren.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/fb707255-7a1b-416e-8a2c-eaf005f1420f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/ac836fab-936a-4098-9dbd-a82dd6fb7899reisendenkarte_20260320-040128.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/ac836fab-936a-4098-9dbd-a82dd6fb7899reisendenkarte_20260320-040128.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.03.2026 04:01:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.03.2026 04:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4ebf3665-d282-4cb4-b56e-866872c28110",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
@@ -144,6 +202,53 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "2497fd14-290a-4e48-a592-119ceb5509c0",
+      "disruptionId": "3e2aa9ad-44e4-4ba2-9502-28feea3f52ee",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "🟢 S1, 🟣 S3, 🔵 S5: Die S-Bahnen fahren wieder über Altona",
+      "summary": "✅ Der Betrieb zwischen Stellingen / Klein Flottbek und Landungsbrücken läuft wieder an. Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
+      "text": "<p>Da Personal und Fahrzeuge jetzt erstmal da hin müssen, wo sie laut Fahrplan eingeplant sind, kann es noch einige Zeit dauern, bis alle S-Bahnen wieder nach Plan fahren.</p>",
+      "durationBegin": "20.03.2026",
+      "durationEnd": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/3e2aa9ad-44e4-4ba2-9502-28feea3f52ee",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.03.2026 05:38",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2497fd14-290a-4e48-a592-119ceb5509c0",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
     },
     {
       "id": "2516b99e-76bd-4aab-b244-56f7c08035d8",
@@ -297,19 +402,19 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "d65ae43b-0ed7-4465-8a5c-710f92457cf4",
-      "disruptionId": "6f22d3a0-bd30-4197-a23d-a71eb1280a3d",
-      "author": "S_BAHN_MUC",
+      "id": "0750228b-5a3b-45a1-9c5a-11d2ae8ee6fc",
+      "disruptionId": "cf174f5f-c4d3-4ba5-87ab-e6325babd87d",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "strike",
-        "label": "Streik"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "Warnstreik bei der MVG am 18. und 19. März 2026. S-Bahn fährt!",
-      "summary": "Die Gewerkschaft Verdi hat zu Warnstreiks aufgerufen, von Mittwoch, 18. März ab 11 Uhr bis Donnerstag, 19. März 2026, Betriebsende (Freitag, 20.März, 4 Uhr). Betroffen sind U-Bahn, Tram und Bus. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.",
-      "text": "<p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
-      "durationBegin": "17.03.2026",
+      "headline": "⚠️ 🔴 S2: Ausfall der Taktverstärker auf der Linie S2",
+      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt alle zehn Minuten. Grund: vorangegangener Polizeieinsatz.",
+      "text": "<p>Keine weiteren Informationen.</p>",
+      "durationBegin": "20.03.2026",
       "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/6f22d3a0-bd30-4197-a23d-a71eb1280a3d",
+      "mapHref": "https://karte.bahn.de/detail/cf174f5f-c4d3-4ba5-87ab-e6325babd87d",
       "images": [],
       "downloads": [],
       "links": [],
@@ -317,61 +422,21 @@
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "filterName": "S 2 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.03.2026 22:11",
+      "lastModified": "20.03.2026 05:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d65ae43b-0ed7-4465-8a5c-710f92457cf4",
-      "magnoliaPath": "/aktuell/bayern/impairment_strike"
+      "detailPagePath": "/service/fahrplaene/0750228b-5a3b-45a1-9c5a-11d2ae8ee6fc",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
     },
     {
       "id": "303178c6-9a87-4a24-abdd-682d16e66a83",
