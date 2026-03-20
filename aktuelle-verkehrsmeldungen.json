@@ -296,46 +296,49 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "238834d7-c931-4df4-a600-f044573ef77c",
-      "disruptionId": "56f07ecd-17db-4cc9-b6fb-5b6f7f0dbfd2",
-      "author": "S_BAHN_S",
+      "id": "f070d92a-b05b-4d02-a8d5-25ed9e8e8691",
+      "disruptionId": "f6779ef0-280f-43a9-bbfa-e001e49c8dda",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
       },
-      "headline": "Behördliche Maßnahme beendet",
-      "summary": "Bahnhof Ludwigsburg freigegeben. Folgeabweichungen S4 und S5",
-      "text": "Der Bahnhof Ludwigsburg ist für den Zugverkehr wieder freigegeben. Es kommt noch zu Folgeabweichungen auf den Linien S4 und S5. Achten Sie auf die Durchsagen und Anzeigen am Bahnsteig und prüfen Sie Ihre Fahrt online.",
+      "headline": "S 2 Riem: Reparatur an einem anderen Zug",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem anderen Zug.</p>",
       "durationBegin": "20.03.2026",
       "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/56f07ecd-17db-4cc9-b6fb-5b6f7f0dbfd2",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/f6779ef0-280f-43a9-bbfa-e001e49c8dda",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/7cdc3c0e-0605-44f0-8700-bc227944cde2reisendenkarte_20260320-222539.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/7cdc3c0e-0605-44f0-8700-bc227944cde2reisendenkarte_20260320-222539.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.03.2026 22:25:39",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 4",
-          "filterName": "S 4 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Stuttgart",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.03.2026 21:00",
+      "lastModified": "20.03.2026 22:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/238834d7-c931-4df4-a600-f044573ef77c",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_police_activity0"
+      "detailPagePath": "/service/fahrplaene/f070d92a-b05b-4d02-a8d5-25ed9e8e8691",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle0"
     },
     {
       "id": "303178c6-9a87-4a24-abdd-682d16e66a83",
