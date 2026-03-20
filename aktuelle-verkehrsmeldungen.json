@@ -296,19 +296,19 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "0750228b-5a3b-45a1-9c5a-11d2ae8ee6fc",
-      "disruptionId": "cf174f5f-c4d3-4ba5-87ab-e6325babd87d",
-      "author": "S_BAHN_HH",
+      "id": "92cff6d7-4ea0-4f8d-8146-e8f7d6670460",
+      "disruptionId": "99c43f7b-6541-453f-9afc-da662f365920",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "🔴 S2: Maßnahmen zur Betriebsstabilisierung nach einem Polizeieinsatz",
-      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt alle zehn Minuten.",
-      "text": "<p>Keine weiteren Informationen.</p>",
+      "headline": "S 7 Mittersendling: Reparatur an einer Weiche",
+      "summary": "Im Bereich Mittersendling ist bis auf weiteres Eingleisig befahrbar. Deswegen kann es zu Verspätungen von bis zu 10 Minuten kommen. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
+      "text": "<p><strong>Die Züge der Linie S7 verkehren in diesem Abschnitt aktuell nur im 40-Minuten-Takt</strong>.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>Wolfratshausen ↔ Hauptbahnhof</strong></p><ul><li>Abfahrt ab Wolfratshausen 9:03 Uhr → Ankunft Mittersendling 9:35 Uhr → Hauptbahnhof 9:48 Uhr</li><li>Abfahrt ab Wolfratshausen 9:43 Uhr → Ankunft Mittersendling 10:15 Uhr → Hauptbahnhof 10:25 Uhr</li></ul><p><strong>Hauptbahnhof ↔ Wolfratshausen</strong></p><ul><li>Abfahrt ab Hauptbahnhof 10:14 Uhr → Ankunft Mittersendling 10:23 Uhr → Wolfratshausen 10:54 Uhr</li><li>Abfahrt ab Hauptbahnhof 10:54 Uhr → Ankunft Mittersendling 11:03 Uhr → Wolfratshausen 11:34 Uhr</li></ul><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "20.03.2026",
       "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/cf174f5f-c4d3-4ba5-87ab-e6325babd87d",
+      "mapHref": "https://karte.bahn.de/detail/99c43f7b-6541-453f-9afc-da662f365920",
       "images": [],
       "downloads": [],
       "links": [],
@@ -316,58 +316,21 @@
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.03.2026 08:26",
+      "lastModified": "20.03.2026 09:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0750228b-5a3b-45a1-9c5a-11d2ae8ee6fc",
-      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
-    },
-    {
-      "id": "cc65f494-db53-45bf-b7d6-2c29d69adb73",
-      "disruptionId": "74d724c5-07cf-473a-90dc-945b13e13047",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "🟢 S1: Maßnahmen zur Betriebsstabilisierung nach einem Polizeieinsatz",
-      "summary": "Aktuell fährt die S1 zwischen Poppenbüttel und Blankenese alle zehn Minuten.",
-      "text": "<p>...</p>",
-      "durationBegin": "20.03.2026",
-      "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/74d724c5-07cf-473a-90dc-945b13e13047",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.03.2026 08:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cc65f494-db53-45bf-b7d6-2c29d69adb73",
-      "magnoliaPath": "/aktuell/nord/reduced_service_other_cause"
+      "detailPagePath": "/service/fahrplaene/92cff6d7-4ea0-4f8d-8146-e8f7d6670460",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section16"
     },
     {
       "id": "303178c6-9a87-4a24-abdd-682d16e66a83",
