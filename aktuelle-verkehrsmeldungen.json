@@ -55,6 +55,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "55a4ada5-a0fc-4521-8d11-1d340e041ec2",
+      "disruptionId": "31faead7-adbe-48c1-91de-2ebca413e265",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Beeinträchtigungen zwischen Fulda und Eisenach",
+      "summary": "Aufgrund einer Störung an einem Güterzug zwischen Fulda und Eisenach kommt es derzeit zu Beeinträchtigungen und Verspätungen bis zu 30 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><p></p><ul><li>ICE-Züge der Verbindung Frankfurt(M) - Fulda - Erfurt - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/31faead7-adbe-48c1-91de-2ebca413e265",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/68a5528d-c231-460c-8473-f446bb1710eereisendenkarte_20260320-175746.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-20/68a5528d-c231-460c-8473-f446bb1710eereisendenkarte_20260320-175746.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.03.2026 17:57:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.03.2026 18:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/55a4ada5-a0fc-4521-8d11-1d340e041ec2",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -507,25 +551,25 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "1f8eade6-236d-4ca1-883b-7266597a5aaa",
-      "disruptionId": "481f0d10-a80a-483a-af63-8c14f9220f3c",
+      "id": "16012608-2d92-47d9-958b-1ab40c2eee4e",
+      "disruptionId": "c55b4d96-ab07-4613-8f12-98656b56199a",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "police_activity",
         "label": "Behördliche Maßnahme"
       },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Die behördliche Maßnahme wurde beendet.</p>",
+      "headline": "S 5 Perlach: Behördliche Maßnahme",
+      "summary": "Im Bereich Perlach kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür sind behördliche Maßnahmen.</p>",
       "durationBegin": "20.03.2026",
       "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/481f0d10-a80a-483a-af63-8c14f9220f3c",
+      "mapHref": "https://karte.bahn.de/detail/c55b4d96-ab07-4613-8f12-98656b56199a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/7d7d04c1-e9e4-48f7-b5f5-4c316696009areisendenkarte_20260320-170811.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/7d7d04c1-e9e4-48f7-b5f5-4c316696009areisendenkarte_20260320-170811.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/ce769105-09a7-4840-97f6-6a44828c2e33reisendenkarte_20260320-181329.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/ce769105-09a7-4840-97f6-6a44828c2e33reisendenkarte_20260320-181329.png",
           "info": "",
-          "alt": "Reisendenkarte 20.03.2026 17:08:11",
+          "alt": "Reisendenkarte 20.03.2026 18:13:29",
           "openInNewTab": true
         }
       ],
@@ -539,47 +583,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "20.03.2026 17:16",
+      "lastModified": "20.03.2026 18:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1f8eade6-236d-4ca1-883b-7266597a5aaa",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity0"
+      "detailPagePath": "/service/fahrplaene/16012608-2d92-47d9-958b-1ab40c2eee4e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
