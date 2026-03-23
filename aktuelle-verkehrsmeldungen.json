@@ -164,15 +164,7 @@
       "durationBegin": "23.03.2026",
       "durationEnd": "24.03.2026",
       "mapHref": "https://karte.bahn.de/detail/21b8286e-ba8e-407b-831c-84ca8f3258b4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-23/d6500b9a-8977-4e78-bbdc-cb263833a2d9reisendenkarte_20260322-201543.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-23/d6500b9a-8977-4e78-bbdc-cb263833a2d9reisendenkarte_20260322-201543.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.03.2026 20:15:43",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [
         {
@@ -200,7 +192,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.03.2026 10:35",
+      "lastModified": "23.03.2026 15:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -357,6 +349,53 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "1e724482-6593-43df-9c61-4998d89d32be",
+      "disruptionId": "bc8c8e7c-97c4-48b6-b46d-1b472c9d91c5",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verspätungen und es kann zu Umleitungen und Teilausfällen kommen in Gelnhausen",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE5 / RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda  (- Bad Hersfeld - Bebra)</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Die Sperrung geht bis vsl. 24. März.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der RE5 / RE50 fallen aus zwischen Frankfurt(Main)Hbf - Wächtersbach und verkehren somit zwischen Wächtersbach - Flieden - Fulda.</li><li>Die Züge der RB51 fallen aus zwischen Langenselbold - Wächtersbach und verkehren somit zwischen Frankfurt(Main)Hbf - Wächtersbach.</li><li>Einzelne Züge der RE5 / RE50 werden zwischen Hanau Hbf - Flieden in beiden Richtungen ohne Zwischenhalt umgeleitet.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 9 Bussen von verschiedenen Firmen zwischen Hanau Hbf - Wächtersbach eingerichtet.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "23.03.2026",
+      "durationEnd": "24.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/bc8c8e7c-97c4-48b6-b46d-1b472c9d91c5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.03.2026 15:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e724482-6593-43df-9c61-4998d89d32be",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
