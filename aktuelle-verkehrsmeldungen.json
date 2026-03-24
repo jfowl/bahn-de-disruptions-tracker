@@ -53,9 +53,9 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌Landungsbrücken</p><p></p><p>❌ Mittlerer Landweg</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 08. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌Landungsbrücken</p><p></p><p>❌ Mittlerer Landweg</p><p></p><p>❌ Thesdorf</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 08. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "18.03.2026",
-      "durationEnd": "27.03.2026",
+      "durationEnd": "03.04.2026",
       "mapHref": "https://karte.bahn.de/detail/cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "images": [],
       "downloads": [],
@@ -90,7 +90,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.03.2026 08:51",
+      "lastModified": "24.03.2026 08:34",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
@@ -351,6 +351,48 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "b981b8e1-8830-49ac-9ca5-62dff8b64355",
+      "disruptionId": "e3f4d3e4-2ff2-4540-aa34-d95b979cddd3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7, S 20 Großhesselohe-Isartalbahnhof: Reparatur an einem Signal",
+      "summary": "Im Bereich Großhesselohe-Isartalbahnhof kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "24.03.2026",
+      "durationEnd": "24.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/e3f4d3e4-2ff2-4540-aa34-d95b979cddd3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.03.2026 08:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b981b8e1-8830-49ac-9ca5-62dff8b64355",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "1e724482-6593-43df-9c61-4998d89d32be",
       "disruptionId": "bc8c8e7c-97c4-48b6-b46d-1b472c9d91c5",
       "author": "S_BAHN_RM",
@@ -411,48 +453,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1e724482-6593-43df-9c61-4998d89d32be",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "b981b8e1-8830-49ac-9ca5-62dff8b64355",
-      "disruptionId": "e3f4d3e4-2ff2-4540-aa34-d95b979cddd3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7, S 20 Großhesselohe-Isartalbahnhof: Reparatur an einem Signal",
-      "summary": "Im Bereich Großhesselohe-Isartalbahnhof kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "24.03.2026",
-      "durationEnd": "24.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/e3f4d3e4-2ff2-4540-aa34-d95b979cddd3",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.03.2026 08:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b981b8e1-8830-49ac-9ca5-62dff8b64355",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
