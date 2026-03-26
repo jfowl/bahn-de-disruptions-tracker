@@ -460,6 +460,48 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
     },
     {
+      "id": "9f62a581-375d-4b88-88c0-81f258ee72df",
+      "disruptionId": "4d841476-7d71-47bc-a6e9-4b5893474d05",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 26. März von 14 Uhr bis ca. 20 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "26.03.2026",
+      "durationEnd": "26.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/4d841476-7d71-47bc-a6e9-4b5893474d05",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.03.2026 12:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9f62a581-375d-4b88-88c0-81f258ee72df",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
       "disruptionId": "d57cfe4f-a2f8-41e6-8c19-36e27c1163f6",
       "author": "S_BAHN_MUC",
@@ -828,81 +870,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "4c9f4e0b-f24a-4719-8a50-a1f652c50538",
-      "disruptionId": "2abfe9e0-588f-44bb-82c0-ee88ea06e8e9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "Stammstrecke: Zugfolgeverspätungen",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür sind Zugfolgeverspätungen.</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/2abfe9e0-588f-44bb-82c0-ee88ea06e8e9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-26/ccfdc1da-9869-4459-bb2a-f6e518343bffst%25C3%25B6rungskarte_20260326-112745.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-26/ccfdc1da-9869-4459-bb2a-f6e518343bffst%25C3%25B6rungskarte_20260326-112745.png",
-          "info": "",
-          "alt": "Störungskarte 26.03.2026 11:27:45",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.03.2026 11:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4c9f4e0b-f24a-4719-8a50-a1f652c50538",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
