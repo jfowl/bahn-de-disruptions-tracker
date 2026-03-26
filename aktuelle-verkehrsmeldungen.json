@@ -412,43 +412,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "d113977c-b872-4041-833f-6f73ec7e9d7d",
-      "disruptionId": "42bd324b-6229-4f7e-9879-16bc9c4ba15c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S2 Poing: Polizeieinsatz",
-      "summary": "Derzeit kommt es auf der Linie S2 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p><strong>Zwischen Riem und Markt Schwaben ist wieder Zugverkehr möglich</strong>. Der Ersatzverkehr mit Bussen endet in kürze.</p><p>Grund für diese Beeinträchtigungen&nbsp;war ein Polizeieinsatz in Poing.</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/42bd324b-6229-4f7e-9879-16bc9c4ba15c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.03.2026 19:02",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d113977c-b872-4041-833f-6f73ec7e9d7d",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity1"
-    },
-    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -1090,6 +1053,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_technical_problem_it"
+    },
+    {
+      "id": "88db9b60-7f9b-44ce-a7e2-14c7c89adf5e",
+      "disruptionId": "a64b221c-8214-4f49-837a-9f18a3b78478",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "ℹ️ München Hauptbahnhof tief",
+      "summary": "Aktuell sind am Hauptbahnhof tief, die direkten Zu- und Abgänge zur U-Bahn, wegen starker Verunreinigung, gesperrt.",
+      "text": "<p><strong>Der Zugang zur U-Bahn ist nur über das „Sperrengeschoss“ (Ladengeschoss - Stockwerk über der S-Bahn Gleis 1 und 2) möglich </strong>❗</p>",
+      "durationBegin": "26.03.2026",
+      "durationEnd": "26.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/a64b221c-8214-4f49-837a-9f18a3b78478",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.03.2026 20:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/88db9b60-7f9b-44ce-a7e2-14c7c89adf5e",
+      "magnoliaPath": "/aktuell/bayern/unknown_effect_technical_problem_other"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
