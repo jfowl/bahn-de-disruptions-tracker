@@ -214,6 +214,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "3838fafd-821c-432e-a5b6-b9d3997f4a4b",
+      "disruptionId": "32e939f5-5746-411e-bcf1-2d59284df38b",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung zwischen Nagold und Wildberg (Württ)",
+      "summary": "Der Streckenabschnitt von Nagold bis Wildberg (Württ) ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. Die Züge aus Richtung Pforzheim Hbf enden und beginnen außerplanmäßig in Wildberg(Württ). Die Züge aus Richtung Horb enden und beginnen in Nagold. Ein Ersatzverkehr mit Bussen ist zwischen Nagold und Wildberg(Württ) ab ca.13 Uhr eingerichtet. Jeweils ein Bus ab Nagold und ein Bus ab Wildberg (Württ). Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "27.03.2026",
+      "durationEnd": "27.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/32e939f5-5746-411e-bcf1-2d59284df38b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-03-27/dede274e-1c20-40f9-a074-6dbda8629fc3st%25C3%25B6rungskarte_20260327-114630.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-03-27/dede274e-1c20-40f9-a074-6dbda8629fc3st%25C3%25B6rungskarte_20260327-114630.png",
+          "info": "",
+          "alt": "Störungskarte 27.03.2026 11:46:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.03.2026 12:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3838fafd-821c-432e-a5b6-b9d3997f4a4b",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -826,51 +871,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "281812d8-ed2a-4a5e-bf92-bcc20b6126d3",
-      "disruptionId": "a81aaf1c-bc4e-4f83-8c0a-8449d59f7460",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 8 Daglfing",
-      "summary": "Im Bereich Daglfing kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "27.03.2026",
-      "durationEnd": "27.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/a81aaf1c-bc4e-4f83-8c0a-8449d59f7460",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-27/a87da9c5-2813-4f79-ac52-3996cca4ada6st%25C3%25B6rungskarte_20260327-102431.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-27/a87da9c5-2813-4f79-ac52-3996cca4ada6st%25C3%25B6rungskarte_20260327-102431.png",
-          "info": "",
-          "alt": "Störungskarte 27.03.2026 10:24:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.03.2026 11:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/281812d8-ed2a-4a5e-bf92-bcc20b6126d3",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
