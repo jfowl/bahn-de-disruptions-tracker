@@ -64,8 +64,8 @@
         "label": "Bauarbeiten"
       },
       "headline": "Magdeburg Hbf ⇄ Braunschweig Hbf - Verspätungen",
-      "summary": "//01_OrtLinie_RISO Dauer der Beeinträchtigung bis vsl. 14.06.2026, ganztägig. Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> //05_Empfehlung_RISO //05_Empfehlung_RISO2</p><p>✅ //99_Abbinder</p>",
+      "summary": "Der Streckenabschnitt zwischen Magdeburg Hbf und Braunschweig Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.06.2026, ganztägig. Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 03601 799 4462 (zum Ortstarif) zu informieren.</p>",
       "durationBegin": "26.03.2026",
       "durationEnd": "14.06.2026",
       "mapHref": "https://karte.bahn.de/detail/c26fbf8d-c0e5-43e2-b471-227275001735",
@@ -81,12 +81,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RB 40",
+          "filterName": "RB 40",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.03.2026 13:26",
+      "lastModified": "30.03.2026 18:26",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
@@ -222,51 +222,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "ff3e138f-d9b0-4372-bea3-547219bd459c",
-      "disruptionId": "30bf21ee-e121-4fa0-9509-03c015e0bb37",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 7 Ebenhausen-Schäftlarn: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "30.03.2026",
-      "durationEnd": "30.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/30bf21ee-e121-4fa0-9509-03c015e0bb37",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/f92ec879-9b2c-4687-86ba-aa101ad29053st%25C3%25B6rungskarte_20260330-155542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/f92ec879-9b2c-4687-86ba-aa101ad29053st%25C3%25B6rungskarte_20260330-155542.png",
-          "info": "",
-          "alt": "Störungskarte 30.03.2026 15:55:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.03.2026 16:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ff3e138f-d9b0-4372-bea3-547219bd459c",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
