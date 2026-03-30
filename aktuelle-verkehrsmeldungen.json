@@ -139,25 +139,32 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "f6dbec48-9ff0-46e3-89bf-d4f4543cbed7",
-      "disruptionId": "5b3a21bf-93e5-479a-b0f4-64f3ee8d9a64",
+      "id": "df332fed-0a0b-486c-8de7-227a6a3c1da7",
+      "disruptionId": "386f9910-644a-4508-bab9-1f34f030133e",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 1 Neufahrn: Polizeieinsatz",
-      "summary": "Im Bereich Neufahrn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten und Teilausfällen. </p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "headline": "S 2 Dachau ↔ Altomünster: Reparatur an einem Signal",
+      "summary": "Zwischen Dachau und Altomünster sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Dachau.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Dachau und Altomünster eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal .</p>",
       "durationBegin": "30.03.2026",
       "durationEnd": "31.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/5b3a21bf-93e5-479a-b0f4-64f3ee8d9a64",
+      "mapHref": "https://karte.bahn.de/detail/386f9910-644a-4508-bab9-1f34f030133e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/7a895215-b4db-4630-9fa8-1fe0aef51786st%25C3%25B6rungskarte_20260330-225913.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/7a895215-b4db-4630-9fa8-1fe0aef51786st%25C3%25B6rungskarte_20260330-225913.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/c53598e1-e320-4d8a-b708-4b979ea9e61cst%25C3%25B6rungskarte_20260330-234529.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/c53598e1-e320-4d8a-b708-4b979ea9e61cst%25C3%25B6rungskarte_20260330-234529.png",
           "info": "",
-          "alt": "Störungskarte 30.03.2026 22:59:13",
+          "alt": "Störungskarte 30.03.2026 23:45:29",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/396ac616-f2db-4372-b294-98d3d9e1619est%25C3%25B6rungskarte_20260331-000421.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/396ac616-f2db-4372-b294-98d3d9e1619est%25C3%25B6rungskarte_20260331-000421.png",
+          "info": "",
+          "alt": "Störungskarte 31.03.2026 00:04:21",
           "openInNewTab": true
         }
       ],
@@ -171,17 +178,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.03.2026 23:00",
-      "expand": false,
+      "lastModified": "31.03.2026 00:06",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f6dbec48-9ff0-46e3-89bf-d4f4543cbed7",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
+      "detailPagePath": "/service/fahrplaene/df332fed-0a0b-486c-8de7-227a6a3c1da7",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -775,6 +782,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "f6dbec48-9ff0-46e3-89bf-d4f4543cbed7",
+      "disruptionId": "5b3a21bf-93e5-479a-b0f4-64f3ee8d9a64",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 Neufahrn: Polizeieinsatz",
+      "summary": "Im Bereich Neufahrn kommt es zu Folgeverspätungen von 15 bis zu 20 Minuten, vereinzelt höher und Teilausfällen.",
+      "text": "<p>Der Grund hierfür war ein Polizeieinsatz.</p>",
+      "durationBegin": "30.03.2026",
+      "durationEnd": "31.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/5b3a21bf-93e5-479a-b0f4-64f3ee8d9a64",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/06bb4417-b075-47c8-86d9-00514b326a95st%25C3%25B6rungskarte_20260330-233728.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/06bb4417-b075-47c8-86d9-00514b326a95st%25C3%25B6rungskarte_20260330-233728.png",
+          "info": "",
+          "alt": "Störungskarte 30.03.2026 23:37:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.03.2026 23:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f6dbec48-9ff0-46e3-89bf-d4f4543cbed7",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
