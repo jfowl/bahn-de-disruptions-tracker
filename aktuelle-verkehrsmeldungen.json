@@ -63,6 +63,44 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "73cfbafa-ae36-4ee8-88b1-97149117c19e",
+      "disruptionId": "0eaf2015-dcb0-4b04-92d0-664b2d0215f6",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB31 - kurzfristig: Umleitung und Ersatzverkehr zwischen Coswig(b Dresden) und Dresden-Neustadt",
+      "summary": "Dienstag, 31.03.2026, 00:00 Uhr bis Montag, 06.04.2026, 23:59 Uhr",
+      "text": "<p>- Umleitung der Linie RB31 zwischen Coswig(b Dresden) &lt;&gt; Dresden-Neustadt- Ersatz der ausfallenden Halte durch Busse</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze in unserer DB Regio Verkehrsinfo unter bahn.de/bb (für Berlin-Brandenburg) oder unter bahn.de/mv-fahrinfo (für Mecklenburg-Vorpommern) abrufbar.</p>",
+      "durationBegin": "31.03.2026",
+      "durationEnd": "06.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/0eaf2015-dcb0-4b04-92d0-664b2d0215f6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 31",
+          "filterName": "RB 31",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.03.2026 10:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/73cfbafa-ae36-4ee8-88b1-97149117c19e",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction1"
+    },
+    {
       "id": "a35fa81c-d965-4558-90a2-352f3a910297",
       "disruptionId": "c26fbf8d-c0e5-43e2-b471-227275001735",
       "author": "REGIO_SUEDOST",
@@ -98,6 +136,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
       "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
+    },
+    {
+      "id": "135f3b37-0bb2-47b3-bc19-de6a1c4c13e4",
+      "disruptionId": "daf7d418-c1b0-4dad-aba4-0e6872755406",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE7 - Umleitung und Haltausfall zwischen Königs Wusterhausen > Berlin-Wannsee",
+      "summary": "Dienstag, 07.04.2026, 08:30 Uhr bis Dienstag, 07.04.2026, 09:40 Uhr",
+      "text": "<p>RE 3715 (08:38 Uhr ab Königs Wusterhausen) fährt am 07.04.2026 umgeleitet zwischen Königs Wusterhausen und Berlin-Wannsee. Die Halte Berlin-Ostkreuz bis Berlin-Charlottenburg entfallen. Als Ersatz nutzen Sie bitte andere alternative Verbindungen.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze in unserer DB Regio Verkehrsinfo unter bahn.de/bb (für Berlin-Brandenburg) oder unter bahn.de/mv-fahrinfo (für Mecklenburg-Vorpommern) abrufbar.</p>",
+      "durationBegin": "07.04.2026",
+      "durationEnd": "07.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/daf7d418-c1b0-4dad-aba4-0e6872755406",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.03.2026 11:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/135f3b37-0bb2-47b3-bc19-de6a1c4c13e4",
+      "magnoliaPath": "/aktuell/nordost/detour_construction4"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -144,58 +220,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "df332fed-0a0b-486c-8de7-227a6a3c1da7",
-      "disruptionId": "386f9910-644a-4508-bab9-1f34f030133e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 2 Dachau ↔ Altomünster",
-      "summary": "Die Züge können wieder zwischen Dachau und Altomünster fahren.",
-      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird um 11:00 Uhr eingestellt.</p><p>Es kommt noch zu leichten Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "30.03.2026",
-      "durationEnd": "31.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/386f9910-644a-4508-bab9-1f34f030133e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/6b31e431-ecb9-473f-ae40-b6cf79b12efdst%25C3%25B6rungskarte_20260330-234529.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/6b31e431-ecb9-473f-ae40-b6cf79b12efdst%25C3%25B6rungskarte_20260330-234529.png",
-          "info": "",
-          "alt": "Störungskarte 30.03.2026 23:45:29",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/49e15836-47f6-4a44-bf4b-4e8568fb77e6st%25C3%25B6rungskarte_20260331-000421.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-31/49e15836-47f6-4a44-bf4b-4e8568fb77e6st%25C3%25B6rungskarte_20260331-000421.png",
-          "info": "",
-          "alt": "Störungskarte 31.03.2026 00:04:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.03.2026 09:47",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/df332fed-0a0b-486c-8de7-227a6a3c1da7",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -381,6 +405,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "e0461fb6-1388-440e-890f-47f3324bcefd",
+      "disruptionId": "b34b55c7-fad5-421a-a25e-99490dd2fb71",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Bus"
+      },
+      "headline": "Fahrt entfällt",
+      "summary": "Aufgrund einer Technischen Störung am Bus entfällt die Fahrt 22054 Abfahrt 10:20 von Nürnberg Hbf ersatzlos.",
+      "text": "<p>Wir bitten um Entschuldigung.</p><p></p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien.</p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
+      "durationBegin": "31.03.2026",
+      "durationEnd": "31.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/b34b55c7-fad5-421a-a25e-99490dd2fb71",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Nuernberg-Regensburg",
+          "label": "mehr",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE22",
+          "filterName": "Bus RE22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.03.2026 11:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e0461fb6-1388-440e-890f-47f3324bcefd",
+      "magnoliaPath": "/aktuell/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "04bfc069-81b0-4e73-ace0-1bda4bfb94f2",
