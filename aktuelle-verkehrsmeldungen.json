@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5f012932-e504-45d9-8d0b-5a373be7628c",
+      "disruptionId": "c1b7908b-3b34-4884-b6ce-f4ac64557cce",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen München und Ingolstadt",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen und Verspätungen bis zu 45 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung München - Nürnberg - Frankfurt(M) - Ruhrgebiet</li><li>ICE-Züge der Verbindung München - Nürnberg - Kassel-Wilhelmshöhe - Hamburg</li><li>ICE-Züge der Verbindung München - Nürnberg - Erfurt - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/c1b7908b-3b34-4884-b6ce-f4ac64557cce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-01/a3124a79-0c25-4e80-b638-f10f32e96e89st%25C3%25B6rungskarte_20260401-173019.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-01/a3124a79-0c25-4e80-b638-f10f32e96e89st%25C3%25B6rungskarte_20260401-173019.png",
+          "info": "",
+          "alt": "Störungskarte 01.04.2026 17:30:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.04.2026 17:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/5f012932-e504-45d9-8d0b-5a373be7628c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
@@ -244,8 +289,8 @@
       "mapHref": "https://karte.bahn.de/detail/047e2561-374b-4b50-9132-32686c3b28c7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-01/0f84f617-1d53-4ded-a63b-4e8cd3e142bast%25C3%25B6rungskarte_20260401-161120.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-01/0f84f617-1d53-4ded-a63b-4e8cd3e142bast%25C3%25B6rungskarte_20260401-161120.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-01/e31480d6-d759-4725-b724-493f5a01650cst%25C3%25B6rungskarte_20260401-161120.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-01/e31480d6-d759-4725-b724-493f5a01650cst%25C3%25B6rungskarte_20260401-161120.png",
           "info": "",
           "alt": "Störungskarte 01.04.2026 16:11:20",
           "openInNewTab": true
@@ -266,7 +311,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.04.2026 16:12",
+      "lastModified": "01.04.2026 17:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
