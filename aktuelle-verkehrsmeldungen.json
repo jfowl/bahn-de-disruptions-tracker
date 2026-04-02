@@ -20,7 +20,7 @@
       "links": [
         {
           "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -55,12 +55,56 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.04.2026 14:11",
+      "lastModified": "02.04.2026 14:58",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "a2f7eaae-77e3-461d-9c94-9bf9d7bdfb91",
+      "disruptionId": "c7058376-ca3b-4617-80dc-61160c64ed38",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung in Herford",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe in Herford ist die Strecke derzeit gesperrt. Die Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 60 Minuten. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Köln - Hannover - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/c7058376-ca3b-4617-80dc-61160c64ed38",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-02/78e00457-cb7d-46f7-be59-1cffc2049767st%25C3%25B6rungskarte_20260402-144032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-02/78e00457-cb7d-46f7-be59-1cffc2049767st%25C3%25B6rungskarte_20260402-144032.png",
+          "info": "",
+          "alt": "Störungskarte 02.04.2026 14:40:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.04.2026 14:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a2f7eaae-77e3-461d-9c94-9bf9d7bdfb91",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
     },
     {
       "id": "73cfbafa-ae36-4ee8-88b1-97149117c19e",
@@ -312,43 +356,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "241fab92-b625-444a-9a13-03a2524cd41c",
-      "disruptionId": "605a578a-8656-41b1-9a40-de736726435c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 6 Ebersberg: Reparatur an einem Signal",
-      "summary": "Im Bereich Ebersberg kommt es zu geringen Verspätungen.",
-      "text": "<p>Es kann auch zu Teilausfällen kommen. </p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "02.04.2026",
-      "durationEnd": "02.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/605a578a-8656-41b1-9a40-de736726435c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.04.2026 14:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/241fab92-b625-444a-9a13-03a2524cd41c",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "044aa888-6f83-4c54-a855-f7c28ccc3af4",
@@ -935,23 +942,23 @@
       },
       "headline": "S 8 Ostbahnhof ↔ Daglfing: Reparatur an der Strecke",
       "summary": "Zwischen Ostbahnhof und Daglfing kommt es in beiden Richtungen zu geringen Verspätungen im Zugverkehr.",
-      "text": "<p></p><p>Zudem müssen einzelne Verbindungen im Regeltakt ausfallen.</p><p><strong>Alternative: Fahrgäste zum Flughafen:</strong> </p><p>Bitte benutzen Sie die S1 Richtung Freising/Flughafen. → diese beginnen/enden am Hauptbahnhof Gl. 27-35.</p><p>Kein Halt an der Hackerbrücke</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "text": "<p>Es kann auch zu Zugausfällen kommen. </p><p>Grund ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "02.04.2026",
       "durationEnd": "02.04.2026",
       "mapHref": "https://karte.bahn.de/detail/12ef449c-6d4c-46ff-8697-44d4bd0aa3d9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/25c01ef9-cc7f-46d9-bd11-59360d00736ast%25C3%25B6rungskarte_20260402-075324.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/25c01ef9-cc7f-46d9-bd11-59360d00736ast%25C3%25B6rungskarte_20260402-075324.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/16dd9a07-ef39-46c2-8425-3b882941c73dst%25C3%25B6rungskarte_20260402-053139.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/16dd9a07-ef39-46c2-8425-3b882941c73dst%25C3%25B6rungskarte_20260402-053139.png",
           "info": "",
-          "alt": "Störungskarte 02.04.2026 07:53:24",
+          "alt": "Störungskarte 02.04.2026 05:31:39",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/1d27a369-2a31-4050-9801-7a684dc7e88fst%25C3%25B6rungskarte_20260402-053139.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/1d27a369-2a31-4050-9801-7a684dc7e88fst%25C3%25B6rungskarte_20260402-053139.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/c2d2bcfa-88c3-430c-ae7f-1c7838c00033st%25C3%25B6rungskarte_20260402-075324.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/c2d2bcfa-88c3-430c-ae7f-1c7838c00033st%25C3%25B6rungskarte_20260402-075324.png",
           "info": "",
-          "alt": "Störungskarte 02.04.2026 05:31:39",
+          "alt": "Störungskarte 02.04.2026 07:53:24",
           "openInNewTab": true
         }
       ],
@@ -970,7 +977,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.04.2026 13:38",
+      "lastModified": "02.04.2026 14:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
