@@ -367,14 +367,14 @@
       },
       "headline": "S 5 Perlach ↔ Hohenbrunn: Reparatur an einem Signal",
       "summary": "Zwischen Perlach und Hohenbrunn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Hohenbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus  zwischen Perlach und Hohenbrunn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit verlängerten Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "text": "<p>Die S-Bahnen wenden in Hohenbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Perlach und Hohenbrunn eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit verlängerten Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "05.04.2026",
       "durationEnd": "05.04.2026",
       "mapHref": "https://karte.bahn.de/detail/6b803961-96f5-4542-8a60-eec83b298c07",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/8e40f921-0261-4833-a758-5c1c624ee68dst%25C3%25B6rungskarte_20260405-151523.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/8e40f921-0261-4833-a758-5c1c624ee68dst%25C3%25B6rungskarte_20260405-151523.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/e7cf754a-7987-4fe9-8d4a-cfd82c5c12d8st%25C3%25B6rungskarte_20260405-151523.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/e7cf754a-7987-4fe9-8d4a-cfd82c5c12d8st%25C3%25B6rungskarte_20260405-151523.png",
           "info": "",
           "alt": "Störungskarte 05.04.2026 15:15:23",
           "openInNewTab": true
@@ -395,7 +395,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.04.2026 15:17",
+      "lastModified": "05.04.2026 15:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -975,6 +975,66 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
+    },
+    {
+      "id": "a9f7f0be-3d6a-4faa-98f7-7aa2a4f0bf20",
+      "disruptionId": "3aaf4ee7-d843-44ae-a13f-530c7c120810",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 3, S 4, S 6, S 8 Pasing: Reparatur an einer Weiche",
+      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 20 Minuten und zu Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "05.04.2026",
+      "durationEnd": "05.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3aaf4ee7-d843-44ae-a13f-530c7c120810",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/f62962f3-827b-43c1-af3f-6587c4ac0504st%25C3%25B6rungskarte_20260405-154816.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/f62962f3-827b-43c1-af3f-6587c4ac0504st%25C3%25B6rungskarte_20260405-154816.png",
+          "info": "",
+          "alt": "Störungskarte 05.04.2026 15:48:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.04.2026 15:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a9f7f0be-3d6a-4faa-98f7-7aa2a4f0bf20",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
