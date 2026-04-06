@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d2755e87-9043-405b-9e86-4e591516954c",
+      "disruptionId": "ceec15aa-8603-4ccd-8a37-4775b4172f2b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung in Düsseldorf Hbf",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Düsseldorf Hbf kommt es derzeit zu Beeinträchtigungen und Verspätungen von ca. 15 Minuten im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Hamburg / Berlin - Düsseldorf - Köln </li><li>EC-/IC-Züge auf der Verbindung Hamm(W) / Dortmund - Düsseldorf - Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/ceec15aa-8603-4ccd-8a37-4775b4172f2b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-06/59299ef0-4fd9-4c53-91ed-d429e20ecd42st%25C3%25B6rungskarte_20260406-194203.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-06/59299ef0-4fd9-4c53-91ed-d429e20ecd42st%25C3%25B6rungskarte_20260406-194203.png",
+          "info": "",
+          "alt": "Störungskarte 06.04.2026 19:42:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.04.2026 19:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d2755e87-9043-405b-9e86-4e591516954c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
