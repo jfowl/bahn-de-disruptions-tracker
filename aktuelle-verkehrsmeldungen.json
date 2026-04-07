@@ -184,61 +184,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "95b3a733-3a52-4d24-bc0c-a3dffc066213",
-      "disruptionId": "d12cb20b-c4e0-4616-a091-d87db0b98f4c",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Wieder normaler Zugverkehr zwischen Ulm Hbf und Laupheim West",
-      "summary": "Der Streckenabschnitt von Ulm Hbf bis Erbach(Württ) wurde wieder freigegeben. Die Strecke zwischen Erbach(Württ) und Laupheim West ist ebenso wieder normal befahrbar.  Der Grund war ein technischer Defekt an einem Güterzug. Der Zugverkehr läuft wieder an, rechnen Sie bitte noch mit Verspätungen, bis sich der Verkehr stabilisiert hat.  Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RS 2 / RS 21 (Ulm – Biberach(Riß)) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "07.04.2026",
-      "durationEnd": "07.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/d12cb20b-c4e0-4616-a091-d87db0b98f4c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-07/5fcc0842-8147-4f5d-a2f1-4adccad797ebst%25C3%25B6rungskarte_20260407-143003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-07/5fcc0842-8147-4f5d-a2f1-4adccad797ebst%25C3%25B6rungskarte_20260407-143003.png",
-          "info": "",
-          "alt": "Störungskarte 07.04.2026 14:30:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB RS2",
-          "filterName": "RB RS2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB RS21",
-          "filterName": "RB RS21",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.04.2026 16:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/95b3a733-3a52-4d24-bc0c-a3dffc066213",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -322,6 +267,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "bf89e33d-64c2-4643-a025-46d705a6802c",
+      "disruptionId": "5bacef0e-8dba-4560-b462-b93d302a6b98",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 1 Feldmoching ↔ Moosach: Defektes Stellwerk",
+      "summary": "Zwischen Feldmoching und Moosach sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Reisende zum Flughafen können, auch die Linie S 8 (Flughafen München) zu nutzen.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "07.04.2026",
+      "durationEnd": "07.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/5bacef0e-8dba-4560-b462-b93d302a6b98",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/4e80ebbf-a153-41c8-8ed7-030e006264e3st%25C3%25B6rungskarte_20260407-185936.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/4e80ebbf-a153-41c8-8ed7-030e006264e3st%25C3%25B6rungskarte_20260407-185936.png",
+          "info": "",
+          "alt": "Störungskarte 07.04.2026 18:59:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.04.2026 19:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bf89e33d-64c2-4643-a025-46d705a6802c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "044aa888-6f83-4c54-a855-f7c28ccc3af4",
