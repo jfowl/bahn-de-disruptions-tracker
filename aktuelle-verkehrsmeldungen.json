@@ -146,43 +146,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "5a54f5cf-c724-4d53-9dda-819c675fa138",
-      "disruptionId": "30ce9690-8fbe-4482-82ec-31e1fa097aa0",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "S1 : Aktuell keine S-Bahnen zwischen Ohlsdorf und Poppenbüttel.",
-      "summary": "S1 : Aktuell fährt keine S1  zwischen Ohlsdorf und Poppenbüttel. Ein Ersatzverkehr mit Bussen und Taxis wird eingeichtet. Grund: Notarzteinsatz an der Strecke. \n\nBitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
-      "text": "<p>.</p>",
-      "durationBegin": "07.04.2026",
-      "durationEnd": "07.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/30ce9690-8fbe-4482-82ec-31e1fa097aa0",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.04.2026 09:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5a54f5cf-c724-4d53-9dda-819c675fa138",
-      "magnoliaPath": "/aktuell/nord/no_service_medical_emergency"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -746,6 +709,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
+    },
+    {
+      "id": "a05f5c8b-d3db-49f7-ac3d-04d502994f13",
+      "disruptionId": "0040f3f6-b939-46b2-88af-56d40ee932c5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Feldkirchen ↔ Riem: Reparatur an einer Weiche",
+      "summary": "Zwischen Feldkirchen und Riem kommt es in Richtung stadteinwärts  zu Verspätungen von bis 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "07.04.2026",
+      "durationEnd": "07.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/0040f3f6-b939-46b2-88af-56d40ee932c5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/f7d183b9-4c4a-4f98-ab8a-2b92f1ba9325st%25C3%25B6rungskarte_20260407-104402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/f7d183b9-4c4a-4f98-ab8a-2b92f1ba9325st%25C3%25B6rungskarte_20260407-104402.png",
+          "info": "",
+          "alt": "Störungskarte 07.04.2026 10:44:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.04.2026 10:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a05f5c8b-d3db-49f7-ac3d-04d502994f13",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
