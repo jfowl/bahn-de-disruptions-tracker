@@ -100,44 +100,6 @@
       "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
     },
     {
-      "id": "135f3b37-0bb2-47b3-bc19-de6a1c4c13e4",
-      "disruptionId": "daf7d418-c1b0-4dad-aba4-0e6872755406",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baumaßnahme auf der Linie RE7 - Umleitung und Haltausfall zwischen Königs Wusterhausen > Berlin-Wannsee",
-      "summary": "Dienstag, 07.04.2026, 08:30 Uhr bis Dienstag, 07.04.2026, 09:40 Uhr",
-      "text": "<p>RE 3715 (08:38 Uhr ab Königs Wusterhausen) fährt am 07.04.2026 umgeleitet zwischen Königs Wusterhausen und Berlin-Wannsee. Die Halte Berlin-Ostkreuz bis Berlin-Charlottenburg entfallen. Als Ersatz nutzen Sie bitte andere alternative Verbindungen.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze in unserer DB Regio Verkehrsinfo unter bahn.de/bb (für Berlin-Brandenburg) oder unter bahn.de/mv-fahrinfo (für Mecklenburg-Vorpommern) abrufbar.</p>",
-      "durationBegin": "07.04.2026",
-      "durationEnd": "07.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/daf7d418-c1b0-4dad-aba4-0e6872755406",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.03.2026 11:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/135f3b37-0bb2-47b3-bc19-de6a1c4c13e4",
-      "magnoliaPath": "/aktuell/nordost/detour_construction4"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -182,6 +144,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "5a54f5cf-c724-4d53-9dda-819c675fa138",
+      "disruptionId": "30ce9690-8fbe-4482-82ec-31e1fa097aa0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S1 : Aktuell keine S-Bahnen zwischen Ohlsdorf und Poppenbüttel.",
+      "summary": "S1 : Aktuell fährt keine S1  zwischen Ohlsdorf und Poppenbüttel. Ein Ersatzverkehr mit Bussen und Taxis wird eingeichtet. Grund: Notarzteinsatz an der Strecke. \n\nBitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p>.</p>",
+      "durationBegin": "07.04.2026",
+      "durationEnd": "07.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/30ce9690-8fbe-4482-82ec-31e1fa097aa0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.04.2026 09:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5a54f5cf-c724-4d53-9dda-819c675fa138",
+      "magnoliaPath": "/aktuell/nord/no_service_medical_emergency"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -747,51 +746,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
-    },
-    {
-      "id": "25d1ebf4-cede-4c57-849a-9d17b4950d42",
-      "disruptionId": "6b6729bd-acae-4c93-83bf-fa828241e31d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 7 Mittersendling: Defektes Stellwerk",
-      "summary": "Im Bereich Mittersendling kommt es zu vereinzelten Verspätungen von 5 bis 10 Minuten .",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "07.04.2026",
-      "durationEnd": "07.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/6b6729bd-acae-4c93-83bf-fa828241e31d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/1f08ab69-3444-4094-8c27-e6c0d59f75ffst%25C3%25B6rungskarte_20260407-062846.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-07/1f08ab69-3444-4094-8c27-e6c0d59f75ffst%25C3%25B6rungskarte_20260407-062846.png",
-          "info": "",
-          "alt": "Störungskarte 07.04.2026 06:28:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.04.2026 08:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/25d1ebf4-cede-4c57-849a-9d17b4950d42",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
