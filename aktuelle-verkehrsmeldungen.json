@@ -281,50 +281,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "ae9620bb-1cd1-469d-9458-7d00514f9515",
-      "disruptionId": "965213c5-fb52-480f-a4e3-5b875021c744",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Es kommt zu Beeinträchtigung auf der Linie Bus RE22",
-      "summary": "Aufgrund von Polizeieinsatz kommt es zu Verspätungen auf der Linie Bus RE22",
-      "text": "<p><strong>Zeitraum:</strong> Samstag, 11. April 2026, 13:17 Uhr bis Samstag, 11. April 2026, 18:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22 </p><p>Grund hierfür ist ein Polizeieinsatz im Bereich des Hauptbahnhofs, wegen eines Fußballspiels.</p><p><strong>Unsere Empfehlung: </strong></p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
-      "durationBegin": "11.04.2026",
-      "durationEnd": "11.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/965213c5-fb52-480f-a4e3-5b875021c744",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/965213c5-fb52-480f-a4e3-5b875021c744",
-          "label": "Zur Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE22",
-          "filterName": "Bus RE22",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.04.2026 13:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ae9620bb-1cd1-469d-9458-7d00514f9515",
-      "magnoliaPath": "/aktuell/impairment_police_activity0"
-    },
-    {
       "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
       "disruptionId": "76843f6c-7b5d-4968-92c1-0484dba8ac95",
       "author": "REGIO_SUEDOST",
@@ -790,6 +746,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
+    },
+    {
+      "id": "ed94e61e-d93f-4660-8cdc-026997d053a7",
+      "disruptionId": "4ccf0425-b3f4-4c4c-a6ad-21f684bc0761",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 8 Johanneskirchen ↔ Flughafen: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Johanneskirchen und Flughafen ist die Strecke gesperrt. Die S-Bahnen wenden in Johanneskirchen.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen von 15 bis 20 Minuten.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "11.04.2026",
+      "durationEnd": "11.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/4ccf0425-b3f4-4c4c-a6ad-21f684bc0761",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-11/62741f09-bd13-4376-b19e-c1afeda83aeast%25C3%25B6rungskarte_20260411-181416.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-11/62741f09-bd13-4376-b19e-c1afeda83aeast%25C3%25B6rungskarte_20260411-181416.png",
+          "info": "",
+          "alt": "Störungskarte 11.04.2026 18:14:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.04.2026 18:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ed94e61e-d93f-4660-8cdc-026997d053a7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "58ea35d2-968d-4d55-a759-5971d30394ed",
