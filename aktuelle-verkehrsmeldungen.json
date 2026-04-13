@@ -69,7 +69,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌ Mittlerer Landweg</p><p></p><p>❌ Othmarschen</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Poppenbüttel - Aufzug zum Bahnsteig</p><p></p><p>❌ Agathenburg - Gleis 2 (Richtung Stade) Aufgrund von Bauarbeiten ist der Bahnübergang Wiesenweg, direkt am S-Bahnhof Agathenburg bis voraussichtlich 21.04.26 für mobilitätseingeschränkte Reisende nicht passierbar.</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 08. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 12. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Mittlerer Landweg</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Poppenbüttel - Aufzug zum Bahnsteig</p><p></p><p>❌ Agathenburg - Gleis 2 (Richtung Stade) Aufgrund von Bauarbeiten ist der Bahnübergang Wiesenweg, direkt am S-Bahnhof Agathenburg bis voraussichtlich 21.04.26 für mobilitätseingeschränkte Reisende nicht passierbar.</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "18.03.2026",
       "durationEnd": "15.04.2026",
       "mapHref": "https://karte.bahn.de/detail/cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
@@ -77,14 +77,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         }
@@ -119,7 +119,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.04.2026 10:38",
+      "lastModified": "13.04.2026 10:22",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -169,11 +169,11 @@
       "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S3: S3 Richtung Pinneberg über Dammtor, Holstenstraße Diebsteich ohne Halt in Altona",
-      "summary": ".",
-      "text": "<p>Aktuell fährt die S3 Richtung Pinneberg über Dammtor, Holstenstraße</p>",
+      "headline": "S3: S3 Richtung Pinneberg fährt über Dammtor, Holstenstraße nach Diebsteich ohne Halt in Altona",
+      "summary": "Die S3 fährt Richtung Pinneberg  über Dammtor, Holstenstraße Diebsteich ohne Halt in Altona.",
+      "text": "<p>.</p>",
       "durationBegin": "13.04.2026",
       "durationEnd": "13.04.2026",
       "mapHref": "https://karte.bahn.de/detail/c8ade1a4-6e5d-4f8c-90b6-8ef43bef3b81",
@@ -194,7 +194,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.04.2026 08:05",
+      "lastModified": "13.04.2026 09:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -246,6 +246,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "d17a8fc6-e9d3-481a-bd4f-2f518ae1b5c8",
+      "disruptionId": "746ab3c9-2242-488c-89f1-c270e6cc349b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Endmeldung: S 2 Markt Schwaben ↔ Erding",
+      "summary": "Die Züge können wieder zwischen Markt Schwaben und Erding fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen .</p><p>Das defekte Stellwerk wurde repariert.</p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/746ab3c9-2242-488c-89f1-c270e6cc349b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/87893969-fa07-4668-bdb8-feab7130be81st%25C3%25B6rungskarte_20260413-100727.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/87893969-fa07-4668-bdb8-feab7130be81st%25C3%25B6rungskarte_20260413-100727.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 10:07:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.04.2026 10:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d17a8fc6-e9d3-481a-bd4f-2f518ae1b5c8",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
@@ -377,6 +422,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
+      "disruptionId": "76843f6c-7b5d-4968-92c1-0484dba8ac95",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Magdeburg Hbf ⇄ Burg(Magdeburg) - Beeinträchtigung",
+      "summary": "Der Streckenabschnitt von Magdeburg Hbf  bis Burg(Magdeburg) ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.04.2026. Der Grund ist die Reparatur an einer Weiche.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Reparatur an einer Weiche.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Burg(Magdeburg) und Magdeburg Hbf aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Unsere Empfehlung: Nutzen Sie die Züge der Linie RE1 (ODEG), die in Magdeburg Herrenkrug, Biederitz, Gerwisch und Möser zusätzlich halten. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "09.04.2026",
+      "durationEnd": "14.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/76843f6c-7b5d-4968-92c1-0484dba8ac95",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-13/91383de6-bf6f-4ded-a422-1d379e6aff04st%25C3%25B6rungskarte_20260409-143609.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-13/91383de6-bf6f-4ded-a422-1d379e6aff04st%25C3%25B6rungskarte_20260409-143609.png",
+          "info": "",
+          "alt": "Störungskarte 09.04.2026 14:36:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.04.2026 08:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
+      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "b0e531f5-88cc-4abd-bc02-e65c3a76affc",
       "disruptionId": "946a41f0-f8e9-4252-8ae0-d19af0075de8",
       "author": "FERNVERKEHR_AG",
@@ -503,51 +593,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cc9f9571-30fa-4cce-a2b4-bb4308700c48",
       "magnoliaPath": "/aktuell/bayern/impairment_strike"
-    },
-    {
-      "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
-      "disruptionId": "76843f6c-7b5d-4968-92c1-0484dba8ac95",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Magdeburg Hbf ⇄ Burg(Magdeburg) - Beeinträchtigung",
-      "summary": "Der Streckenabschnitt von Magdeburg Hbf  bis Burg(Magdeburg) ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.04.2026. Der Grund ist die Reparatur an einer Weiche.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Reparatur an einer Weiche.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Burg(Magdeburg) und Magdeburg Hbf aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Unsere Empfehlung: Nutzen Sie die Züge der Linie RE1 (ODEG), die in Magdeburg Herrenkrug, Biederitz, Gerwisch und Möser zusätzlich halten. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "09.04.2026",
-      "durationEnd": "14.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/76843f6c-7b5d-4968-92c1-0484dba8ac95",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-10/b8c4bf48-91ea-4cd5-8607-e374dda83da7st%25C3%25B6rungskarte_20260409-143609.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-10/b8c4bf48-91ea-4cd5-8607-e374dda83da7st%25C3%25B6rungskarte_20260409-143609.png",
-          "info": "",
-          "alt": "Störungskarte 09.04.2026 14:36:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.04.2026 10:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
-      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -971,6 +1016,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
+    },
+    {
+      "id": "2ad5c20b-7e3b-4f36-9b91-3db11071a876",
+      "disruptionId": "6efeedd4-1f42-4d82-91bb-0611a87dfb05",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es weiterhin in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür war eine vorangegangene technische Störung an einem Zug.</p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/6efeedd4-1f42-4d82-91bb-0611a87dfb05",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/0680f99b-5105-4a84-b680-81e73eaac522st%25C3%25B6rungskarte_20260413-084519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/0680f99b-5105-4a84-b680-81e73eaac522st%25C3%25B6rungskarte_20260413-084519.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 08:45:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 10:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2ad5c20b-7e3b-4f36-9b91-3db11071a876",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "58ea35d2-968d-4d55-a759-5971d30394ed",
