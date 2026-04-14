@@ -2,6 +2,66 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4e5cbbf1-11df-4c1d-8963-d701faa3fcad",
+      "disruptionId": "8c6b4a43-eeaf-48b3-9f2c-6bd25357e6ce",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beendet: Beeinträchtigungen zwischen München und Ingolstadt",
+      "summary": "Das Stellwerkes in Dachau ist repariert.\n\nDer Fernverkehr der Deutschen Bahn nimmt den Betrieb zwischen Ingolstadt und München wieder auf. Anfangs kann es noch zu Zugausfällen, Haltausfällen und Verspätungen kommen.\n",
+      "text": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.04.2026",
+      "durationEnd": "14.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/8c6b4a43-eeaf-48b3-9f2c-6bd25357e6ce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-14/fd26a08f-bae7-48d2-b073-516ce7a34f75st%25C3%25B6rungskarte_20260414-125218.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-14/fd26a08f-bae7-48d2-b073-516ce7a34f75st%25C3%25B6rungskarte_20260414-125218.png",
+          "info": "",
+          "alt": "Störungskarte 14.04.2026 12:52:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.04.2026 13:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4e5cbbf1-11df-4c1d-8963-d701faa3fcad",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "20ee0ca7-a272-4e8d-b17a-d93afc239550",
       "disruptionId": "6b98bdd2-0d07-41b4-a20d-60c6341dcdf9",
       "author": "FERNVERKEHR_AG",
@@ -210,51 +270,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "40f0d85d-fd6b-4d06-a016-0caa49747312",
-      "disruptionId": "216e17d6-be5f-4150-90a2-726c296d4f14",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S2 Petershausen - Laim: Reparatur an einem Signal/ Stellwerk",
-      "summary": "Zwischen Laim und Dachau Bahnhof sind bis auf weiteres keine Zugfahrten möglich. ",
-      "text": "<p><strong>Wir haben einen Ersatzverkehr mit Großraumtaxis und Bus zwischen Dachau Bahnhof und Laim für Sie eingerichtet. </strong></p><p>ℹ️ Bitte nutzen Sie nur die mit „Ersatzverkehr“ gekennzeichneten Fahrzeuge.</p><p>Zusätzlich kommt es in beide Richtungen zu teilweise hohen Verspätungen und zusätzlichen Zugausfällen ❗</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an mehreren Signalen wegen eines Stellwerkausfalls in Dachau Bahnhof.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor ❕</p>",
-      "durationBegin": "14.04.2026",
-      "durationEnd": "14.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/216e17d6-be5f-4150-90a2-726c296d4f14",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-14/57306b90-caef-4bdc-b7e6-fcb5b17a19abst%25C3%25B6rungskarte_20260414-122754.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-14/57306b90-caef-4bdc-b7e6-fcb5b17a19abst%25C3%25B6rungskarte_20260414-122754.png",
-          "info": "",
-          "alt": "Störungskarte 14.04.2026 12:27:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.04.2026 12:43",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/40f0d85d-fd6b-4d06-a016-0caa49747312",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
-    },
-    {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
       "disruptionId": "8d2fabea-fa0d-4e45-bedf-67636fe59aea",
       "author": "FERNVERKEHR_AG",
@@ -382,6 +397,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "40f0d85d-fd6b-4d06-a016-0caa49747312",
+      "disruptionId": "216e17d6-be5f-4150-90a2-726c296d4f14",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S2 Petershausen - Laim: Reparatur an einem Signal/ Stellwerk",
+      "summary": "Zwischen Laim und Dachau Bahnhof sind wieder Zugfahrten möglich. ",
+      "text": "<p><strong>Die S-Bahnen verkehren mit folgenden Zügen wieder auf dem Regelweg:</strong></p><ul><li>S2 Abfahrt Petershausen 13:32 Uhr - Ankunft Erding 15:02 Uhr</li><li>S2 Abfahrt Erding 12:38 Uhr - Ankunft Petershausen 14:07 Uhr</li></ul><p></p><p><strong>Der Ersatzverkehr mit Großraumtaxis und Bus zwischen Laim und Dachau Bahnhof wird um 15 Uhr eingestellt.</strong></p><p>ℹ️ Bitte nutzen Sie nur die mit „Ersatzverkehr“ gekennzeichneten Fahrzeuge.</p><p>Es kommt in beide Richtungen noch zu Folgeverspätungen und vereinzelten Zugausfällen.</p><p></p><p>Die Reparatur an mehreren Signalen wegen eines Stellwerkausfalls in Dachau Bahnhof wurde beendet.</p><p></p>",
+      "durationBegin": "14.04.2026",
+      "durationEnd": "14.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/216e17d6-be5f-4150-90a2-726c296d4f14",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-14/1224496c-87af-4a6c-9836-7635ea5b4984st%25C3%25B6rungskarte_20260414-134316.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-14/1224496c-87af-4a6c-9836-7635ea5b4984st%25C3%25B6rungskarte_20260414-134316.png",
+          "info": "",
+          "alt": "Störungskarte 14.04.2026 13:43:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.04.2026 13:44",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/40f0d85d-fd6b-4d06-a016-0caa49747312",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
     },
     {
       "id": "f5cb0ffb-e8b3-413f-9f7f-374fdbfe7bb5",
