@@ -330,46 +330,86 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "148e2450-0150-4fdb-83a8-520263a4a49e",
-      "disruptionId": "734f9796-9d42-4d22-84c1-1176de348f18",
-      "author": "S_BAHN_HH",
+      "id": "759b514d-46f4-4e81-bc43-b963e5d3c711",
+      "disruptionId": "88e4985d-cb38-429a-9a73-5e5e2104743a",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "S3 und S5: Rettungswageneinsatz\n",
-      "summary": "S3/S5: Zur Zeit fahren keine Züge zwischen Hammerbrook und Wilhelmsburg. Grund ist ein RTW EInsatz.",
-      "text": "<p>Bitte nutzen Sie alternativ Busse und die U-Bahn. </p><p>Ein Ersatzverkehr mit Bussen und Taxis ist eingerichtet.</p>",
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu einen Rückstau und Verspätungen von bis zu 15 bis zu 20 Minuten. ",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
       "durationBegin": "15.04.2026",
       "durationEnd": "15.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/734f9796-9d42-4d22-84c1-1176de348f18",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/88e4985d-cb38-429a-9a73-5e5e2104743a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/20b76158-a008-4039-991f-88622037cd19st%25C3%25B6rungskarte_20260415-133700.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/20b76158-a008-4039-991f-88622037cd19st%25C3%25B6rungskarte_20260415-133700.png",
+          "info": "",
+          "alt": "Störungskarte 15.04.2026 13:37:00",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/25baff29-88f9-4e59-a343-636be664a4afst%25C3%25B6rungskarte_20260415-133723.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/25baff29-88f9-4e59-a343-636be664a4afst%25C3%25B6rungskarte_20260415-133723.png",
+          "info": "",
+          "alt": "Störungskarte 15.04.2026 13:37:23",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 3",
-          "filterName": "S 3 Hamburg",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         },
         {
           "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.04.2026 12:51",
+      "lastModified": "15.04.2026 13:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/148e2450-0150-4fdb-83a8-520263a4a49e",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency0"
+      "detailPagePath": "/service/fahrplaene/759b514d-46f4-4e81-bc43-b963e5d3c711",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle2"
     },
     {
       "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
