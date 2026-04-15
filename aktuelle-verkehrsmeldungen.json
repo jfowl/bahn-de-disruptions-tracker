@@ -74,6 +74,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "e07fd6ac-b823-4139-88c2-af78a914983e",
+      "disruptionId": "dab202ec-0780-4acd-b5bf-0540116bf7ee",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung in Dänemark zwischen Padborg und København",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Dänemark zwischen Padborg und København kommt es derzeit zu einzelnen Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>EC-Züge der Verbindung Hamburg - Padborg - København</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/dab202ec-0780-4acd-b5bf-0540116bf7ee",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-15/baa063ca-67a5-4931-8cbb-ffbaa8a5ad4est%25C3%25B6rungskarte_20260415-093207.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-15/baa063ca-67a5-4931-8cbb-ffbaa8a5ad4est%25C3%25B6rungskarte_20260415-093207.png",
+          "info": "",
+          "alt": "Störungskarte 15.04.2026 09:32:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.04.2026 09:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e07fd6ac-b823-4139-88c2-af78a914983e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "a35fa81c-d965-4558-90a2-352f3a910297",
       "disruptionId": "c26fbf8d-c0e5-43e2-b471-227275001735",
       "author": "REGIO_SUEDOST",
@@ -286,81 +330,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "c7eff5f2-740a-4ffe-83cc-4e5913ce9447",
-      "disruptionId": "48cd2d5e-c8d7-4342-aada-3960118a637c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Stammstrecke Laim ↔ Ostbahnhof: Notarzteinsatz auf der Strecke",
-      "summary": "Zwischen Laim und Ostbahnhof kommt es zu Verspätungen von bis zu 20 und vereinzelt zu 30 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
-      "durationBegin": "15.04.2026",
-      "durationEnd": "15.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/48cd2d5e-c8d7-4342-aada-3960118a637c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/5e6e68f1-a267-4449-b08b-f874c6b6a86fst%25C3%25B6rungskarte_20260415-074244.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/5e6e68f1-a267-4449-b08b-f874c6b6a86fst%25C3%25B6rungskarte_20260415-074244.png",
-          "info": "",
-          "alt": "Störungskarte 15.04.2026 07:42:44",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.04.2026 08:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7eff5f2-740a-4ffe-83cc-4e5913ce9447",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
-    },
-    {
       "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
       "disruptionId": "76843f6c-7b5d-4968-92c1-0484dba8ac95",
       "author": "REGIO_SUEDOST",
@@ -448,6 +417,43 @@
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
     },
     {
+      "id": "dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
+      "disruptionId": "fb3d723e-881a-4a7c-a610-6679a0c34c72",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "Streik Regionalbusverkehr  - Fahrtausfälle Schienenersatzverkehr",
+      "summary": "Einige SEV-Fahrten der Linie S1 sind beeinträchtigt. Dauer der Beeinträchtigung vom 15.04., 00:00 Uhr bis vsl. 17.04., 23:59 Uhr. Der Grund sind Streikauswirkungen.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Meißen Triebischtal – Coswig (b Dresden) – Dresden – Pirna – Schöna</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund sind Streikauswirkungen.</p><p>❌&nbsp;<strong>Einschränkungen: </strong>Beim<strong> Ersatzverkehr S 1 entfallen </strong>folgende Ersatzverkehrs-Fahrten:</p><ul><li>31770 (21.00 Bad Schandau – 21.27 Pirna)</li><li>31773 (22.58 Pirna – 23.54 Bad Schandau)</li><li>31774 (21.16 Schmilka – 22.27 Pirna)</li><li>31775 (23.28 Pirna – 0.24 Bad Schandau)</li><li>31776 (22.01 Bad Schandau – 22.57 Pirna)</li></ul><p></p><ul><li>Die Übernahme von einzelnen vorstehend aufgeführten Fahrten durch andere Busunternehmen ist noch<strong> in Prüfung</strong>.</li><li>Hinweis zum grenzüberschreitenden <strong>SEV 28022/28023</strong>: Durchführung der Fahrten hat die <strong>ČD via Busunternehmen „Jiří Rokos“ organisiert</strong>.&nbsp;</li></ul><p></p><p><strong>Donnerstag, 16.04.2026 und Freitag, 17.04.2026:</strong> Die Umsetzbarkeit der Ersatzverkehre befindet sich noch <strong>in Prüfung</strong>. Der überwiegende Anteil der Ersatzverkehr wird verkehren. Über einzelne Ausfälle informieren wir Sie.</p><ul><li>Hinweis zum grenzüberschreitenden <strong>SEV 28022/28023</strong>: Durchführung der Fahrten hat die <strong>ČD via Busunternehmen „Jiří Rokos“ organisiert</strong>.&nbsp;</li></ul><p></p><p>↪️&nbsp;<strong>Alternative:</strong> Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "15.04.2026",
+      "durationEnd": "17.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/fb3d723e-881a-4a7c-a610-6679a0c34c72",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Dresden",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.04.2026 09:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_strike"
+    },
+    {
       "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
       "disruptionId": "5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
       "author": "REGIO_NORDOST",
@@ -491,43 +497,6 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
     },
     {
-      "id": "dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
-      "disruptionId": "fb3d723e-881a-4a7c-a610-6679a0c34c72",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "Streik Regionalbusverkehr  - Fahrtausfälle Schienenersatzverkehr",
-      "summary": "Einige SEV-Fahrten der Linie S1 sind beeinträchtigt. Dauer der Beeinträchtigung vom 15.04., 00:00 Uhr bis vsl. 17.04., 23:59 Uhr. Der Grund sind Streikauswirkungen.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Meißen Triebischtal – Coswig (b Dresden) – Dresden – Pirna – Schöna</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund sind Streikauswirkungen.</p><p>❌&nbsp;<strong>Einschränkungen: </strong>Beim<strong> Ersatzverkehr S 1 entfallen </strong>folgende Ersatzverkehrs-Fahrten</p><ul><li>31769 (21.58 Pirna – 23.09 Schmilka)</li><li>31770 (21.00 Bad Schandau – 21.27 Pirna)</li><li>31772 (21.01 Bad Schandau – 21.57 Pirna)</li><li>31773 (22.58 Pirna – 23.54 Bad Schandau)</li><li>31774 (21.16 Schmilka – 22.27 Pirna)</li><li>31775 (23.28 Pirna – 0.24 Bad Schandau)</li><li>31776 (22.01 Bad Schandau – 22.57 Pirna)</li></ul><p></p><ul><li>Die Übernahme von einzelnen vorstehend aufgeführten Fahrten durch andere Busunternehmen ist noch<strong> in Prüfung</strong>.</li><li>Hinweis zum grenzüberschreitenden <strong>SEV 28022/28023</strong>: Durchführung der Fahrten hat die <strong>ČD via Busunternehmen „Jiří Rokos“ organisiert</strong>.&nbsp;</li></ul><p></p><p><strong>Donnerstag, 16.04.2026 und Freitag, 17.04.2026:</strong> Die Umsetzbarkeit der Ersatzverkehre befindet sich noch <strong>in Prüfung</strong>. Der überwiegende Anteil der Ersatzverkehr wird verkehren. Über einzelne Ausfälle informieren wir Sie.</p><ul><li>Hinweis zum grenzüberschreitenden <strong>SEV 28022/28023</strong>: Durchführung der Fahrten hat die <strong>ČD via Busunternehmen „Jiří Rokos“ organisiert</strong>.&nbsp;</li></ul><p></p><p>↪️&nbsp;<strong>Alternative:</strong> Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "15.04.2026",
-      "durationEnd": "17.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/fb3d723e-881a-4a7c-a610-6679a0c34c72",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.04.2026 17:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_strike"
-    },
-    {
       "id": "1a0d1a89-2143-411d-a85f-8f2edc7cfc98",
       "disruptionId": "db392a40-05a3-4f72-957f-56734d69848a",
       "author": "S_BAHN_MUC",
@@ -537,14 +506,14 @@
       },
       "headline": "Baustelleninformation zur Stammstrecke im Zeitraum vom 13. April bis 18. April 2026",
       "summary": "Wegen Vor- und Nacharbeiten zur Weichenerneuerung am Isartor kommt es im Zeitraum vom 13. April bis 18. April 2026 zu Haltausfällen.",
-      "text": "<ul><li>Haltausfall <strong>Isartor:</strong> Montag <strong>13. April</strong> ab 4:40 Uhr <strong>durchgehend bis</strong>&nbsp;Samstag, <strong>18. April 2026</strong>&nbsp;um 8 Uhr.</li></ul><p></p><ul><li>Haltausfall <strong>Rosenheimer Platz:</strong> Montag, <strong>13. April </strong>ab 4:40 Uhr <strong>durchgehend bis</strong>&nbsp;Mittwoch, <strong>15. April 2026</strong>&nbsp;um 4:40 Uhr</li></ul><p></p><p><strong>Hinweis:</strong></p><p><strong>Nutzen Sie zwischen Ostbahnhof und Pasing bitte alternative Angebote des MVV.</strong></p><p>Informationen zu dieser Baustelle finden Sie unter: Baustellen auf der Stammstrecke der S-Bahn München.</p><p>Die Angaben zu weiteren Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "text": "<ul><li>Haltausfall <strong>Isartor:</strong> Montag <strong>13. April</strong> ab 4:40 Uhr <strong>durchgehend bis</strong>&nbsp;Samstag, <strong>18. April 2026</strong>&nbsp;um 8 Uhr.</li></ul><p></p><p><strong>Hinweis:</strong></p><p><strong>Nutzen Sie zwischen Ostbahnhof und Pasing bitte alternative Angebote des MVV.</strong></p><p>Informationen zu dieser Baustelle finden Sie unter: Baustellen auf der Stammstrecke der S-Bahn München.</p><p>Die Angaben zu weiteren Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "13.04.2026",
       "durationEnd": "18.04.2026",
       "mapHref": "https://karte.bahn.de/detail/db392a40-05a3-4f72-957f-56734d69848a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/4eb87b79-ada4-437c-bbd3-31e2922c9407reisendenkarte_20260319-223139.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/4eb87b79-ada4-437c-bbd3-31e2922c9407reisendenkarte_20260319-223139.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/e6bff97d-5126-49d8-8af5-eebc8dff205creisendenkarte_20260319-223139.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-15/e6bff97d-5126-49d8-8af5-eebc8dff205creisendenkarte_20260319-223139.png",
           "info": "",
           "alt": "Reisendenkarte 19.03.2026 22:31:39",
           "openInNewTab": true
@@ -602,7 +571,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.04.2026 04:31",
+      "lastModified": "15.04.2026 08:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
