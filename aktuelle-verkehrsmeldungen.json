@@ -121,6 +121,57 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "0c6abf33-2956-49cf-840d-72fd16157de0",
+      "disruptionId": "03ca2330-78b5-405e-b1cd-caeb04432e3a",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Verkehrsmeldung für die Linie RB22 ",
+      "summary": "Ausfall der RB 22 zwischen Golm und Saarmund am Dienstag, 21.04.2026 08:00 Uhr bis vsl. Dienstag, 21.04.2026 12:00 Uhr",
+      "text": "<p>Aufgrund einer Bombenentschärfung kommt es am 21.04.2026 in der Zeit von ca. 08:00 Uhr bis 12:00 Uhr zu Fahrtausfällen auf der Linie RB22</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/03ca2330-78b5-405e-b1cd-caeb04432e3a",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.04.2026 12:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0c6abf33-2956-49cf-840d-72fd16157de0",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_police_activity"
+    },
+    {
       "id": "de8ead1f-48de-47a1-9c5a-5de6a08774ac",
       "disruptionId": "34c8c23d-a1d9-4750-92e9-da5478aacabe",
       "author": "FERNVERKEHR_AG",
@@ -375,6 +426,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "2be7ada4-58da-49e3-8f71-86eba02ad832",
+      "disruptionId": "f73d50e3-8c99-483d-b033-6df3aa65582c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 4, S 6 Haar  ↔ Zorneding ",
+      "summary": "Die Züge können wieder zwischen Haar  und Zorneding  fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen bis zu 10 Minuten .</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "16.04.2026",
+      "durationEnd": "16.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/f73d50e3-8c99-483d-b033-6df3aa65582c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/9e3bc8c5-0bb1-43d2-a5f2-bd4cce002f7fst%25C3%25B6rungskarte_20260416-123826.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/9e3bc8c5-0bb1-43d2-a5f2-bd4cce002f7fst%25C3%25B6rungskarte_20260416-123826.png",
+          "info": "",
+          "alt": "Störungskarte 16.04.2026 12:38:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.04.2026 13:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2be7ada4-58da-49e3-8f71-86eba02ad832",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
