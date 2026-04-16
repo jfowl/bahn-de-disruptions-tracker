@@ -129,8 +129,8 @@
         "label": "Entschärfung einer Fliegerbombe"
       },
       "headline": "Verkehrsmeldung für die Linie RB22 ",
-      "summary": "Ausfall der RB 22 zwischen Golm und Saarmund am Dienstag, 21.04.2026 08:00 Uhr bis vsl. Dienstag, 21.04.2026 12:00 Uhr",
-      "text": "<p>Aufgrund einer Bombenentschärfung kommt es am 21.04.2026 in der Zeit von ca. 08:00 Uhr bis 12:00 Uhr zu Fahrtausfällen auf der Linie RB22</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "summary": "Ausfall der Linie RB22 zwischen Golm und Saarmund am Dienstag, den 21.04.2026 zwischen 08:00 Uhr und ca.12:00 Uhr.",
+      "text": "<p>Aufgrund einer Bombenentschärfung kommt es am 21.04.2026 in der Zeit von ca. 08:00 Uhr bis 12:00 Uhr zu Fahrtausfällen auf der Linie RB22.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "21.04.2026",
       "durationEnd": "21.04.2026",
       "mapHref": "https://karte.bahn.de/detail/03ca2330-78b5-405e-b1cd-caeb04432e3a",
@@ -164,7 +164,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.04.2026 12:17",
+      "lastModified": "16.04.2026 14:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -297,51 +297,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "ab282adc-ba19-4dae-8413-fe8d117befce",
-      "disruptionId": "9bbc7349-ba54-4eb0-bf45-fbf4c2730afc",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "S4 Puchheim - Pasing: Beschädigung einer Brücke",
-      "summary": "Derzeit ist auf der S4 zwischen Puchheim und Pasing kein Zugverkehr möglich. Die S-Bahnen wenden an den angegebenen Halten.",
-      "text": "<p>Ein Ersatzverkehr ist in Planung.</p><p>Grund ist die Beschädigung einer Brücke in Aubing.</p>",
-      "durationBegin": "16.04.2026",
-      "durationEnd": "16.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/9bbc7349-ba54-4eb0-bf45-fbf4c2730afc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/eae0fdf2-1b01-46f8-9392-e17afdb76e5bst%25C3%25B6rungskarte_20260416-140050.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/eae0fdf2-1b01-46f8-9392-e17afdb76e5bst%25C3%25B6rungskarte_20260416-140050.png",
-          "info": "",
-          "alt": "Störungskarte 16.04.2026 14:00:50",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.04.2026 14:02",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ab282adc-ba19-4dae-8413-fe8d117befce",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
     },
     {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
@@ -513,6 +468,47 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "caeac74e-878f-497e-b2ee-6c5a86fded97",
+      "disruptionId": "80d57554-93d6-40d2-bd6a-eb475f8ee86f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Mühldorf - München / Donnerstag, 16.04.2026 bis Donnerstag, 30.04.2026 / Bauarbeiten",
+      "summary": "von Donnerstag, 16.04.2026 bis Donnerstag, 30.04.2026",
+      "text": "<p>Aufgrund Reparaturen auf der Strecken zwischen Mühldorf und München, fällt von 16. bis 30. April die RB 27059 mit Abfahrt in München Ost um 18:40 Uhr aus. Bitte nutzen Sie die nächste Verbindung. </p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "16.04.2026",
+      "durationEnd": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/80d57554-93d6-40d2-bd6a-eb475f8ee86f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB40",
+          "filterName": "Bus RB40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.04.2026 15:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/caeac74e-878f-497e-b2ee-6c5a86fded97",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/reduced_service_technical_problem_railway_section37"
     },
     {
       "id": "dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
