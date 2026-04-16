@@ -49,6 +49,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
+      "id": "fb6497e2-3754-4985-9c9e-06cf2d78586d",
+      "disruptionId": "e965c682-1d53-4c2e-add8-0af7be273e61",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu bis zu 15 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu bis zu 15 Minuten.</p><p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Technische Störung an der Strecke</strong></p>",
+      "durationBegin": "16.04.2026",
+      "durationEnd": "16.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/e965c682-1d53-4c2e-add8-0af7be273e61",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.04.2026 17:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fb6497e2-3754-4985-9c9e-06cf2d78586d",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
@@ -119,6 +163,50 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
+      "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Umleitungen und Verspätungen bis zu 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Magdeburg und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/ab4750e6-73b2-44ab-8039-0aabc65fa98f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-16/c3490efc-4f70-47d2-adbf-80c2755a3159st%25C3%25B6rungskarte_20260416-162252.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-16/c3490efc-4f70-47d2-adbf-80c2755a3159st%25C3%25B6rungskarte_20260416-162252.png",
+          "info": "",
+          "alt": "Störungskarte 16.04.2026 16:22:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.04.2026 16:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ab08986c-ac4b-494a-81de-9df7cf99d0a6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "0c6abf33-2956-49cf-840d-72fd16157de0",
