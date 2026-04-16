@@ -299,6 +299,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "ab282adc-ba19-4dae-8413-fe8d117befce",
+      "disruptionId": "9bbc7349-ba54-4eb0-bf45-fbf4c2730afc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "S4 Puchheim - Pasing: Beschädigung einer Brücke",
+      "summary": "Derzeit ist auf der S4 zwischen Puchheim und Pasing kein Zugverkehr möglich. Die S-Bahnen wenden an den angegebenen Halten.",
+      "text": "<p>Ein Ersatzverkehr ist in Planung.</p><p>Grund ist die Beschädigung einer Brücke in Aubing.</p>",
+      "durationBegin": "16.04.2026",
+      "durationEnd": "16.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/9bbc7349-ba54-4eb0-bf45-fbf4c2730afc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/eae0fdf2-1b01-46f8-9392-e17afdb76e5bst%25C3%25B6rungskarte_20260416-140050.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/eae0fdf2-1b01-46f8-9392-e17afdb76e5bst%25C3%25B6rungskarte_20260416-140050.png",
+          "info": "",
+          "alt": "Störungskarte 16.04.2026 14:00:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.04.2026 14:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab282adc-ba19-4dae-8413-fe8d117befce",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section3"
+    },
+    {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
       "disruptionId": "8d2fabea-fa0d-4e45-bedf-67636fe59aea",
       "author": "FERNVERKEHR_AG",
@@ -426,56 +471,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "2be7ada4-58da-49e3-8f71-86eba02ad832",
-      "disruptionId": "f73d50e3-8c99-483d-b033-6df3aa65582c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 4, S 6 Haar  ↔ Zorneding ",
-      "summary": "Die Züge können wieder zwischen Haar  und Zorneding  fahren.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen bis zu 10 Minuten .</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "16.04.2026",
-      "durationEnd": "16.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/f73d50e3-8c99-483d-b033-6df3aa65582c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/9e3bc8c5-0bb1-43d2-a5f2-bd4cce002f7fst%25C3%25B6rungskarte_20260416-123826.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-16/9e3bc8c5-0bb1-43d2-a5f2-bd4cce002f7fst%25C3%25B6rungskarte_20260416-123826.png",
-          "info": "",
-          "alt": "Störungskarte 16.04.2026 12:38:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.04.2026 13:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2be7ada4-58da-49e3-8f71-86eba02ad832",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -1030,49 +1025,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
-    },
-    {
-      "id": "08749682-2306-4564-b2db-b5368afa3cb2",
-      "disruptionId": "fe53cad8-4fb5-4d8b-823c-f308fef77667",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen in Dortmund Hbf",
-      "summary": "Aufgrund einer technischen Störung an der Strecke in Dortmund Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden ohne Halt in Dortmund Hbf umgeleitet und verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge mit planmäßigem Halt in Dortmund Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis 16.04.2026 nachmittags erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/fe53cad8-4fb5-4d8b-823c-f308fef77667",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-16/c3e366da-369e-45d4-baae-5f907ba4b339st%25C3%25B6rungskarte_20260416-104504.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-16/c3e366da-369e-45d4-baae-5f907ba4b339st%25C3%25B6rungskarte_20260416-104504.png",
-          "info": "",
-          "alt": "Störungskarte 16.04.2026 10:45:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.04.2026 10:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/08749682-2306-4564-b2db-b5368afa3cb2",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section0"
     },
     {
       "id": "6d8da9e4-586c-42ca-ac5d-9b97a26f1c3c",
