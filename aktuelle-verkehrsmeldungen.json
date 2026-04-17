@@ -74,6 +74,51 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "8fb849ac-d484-4e44-9dac-462fab6a70b1",
+      "disruptionId": "a36fac5f-9656-4b35-83f1-153c43173f0a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen zwischen Siegen und Hagen",
+      "summary": "Aufgrund von einem Brückenschaden ist die Strecke zwischen Siegen und Hagen ab 21.04.2026 gesperrt. Dadurch kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC Züge zwischen Münster(Westf) – Dortmund – Siegen – Gießen/Frankfurt (M)<ul><li>Die Züge fallen auf der gesamten Strecke aus.</li></ul></li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "14.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a36fac5f-9656-4b35-83f1-153c43173f0a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-17/7f0a6bf5-ba64-4d0b-9e44-9a8df71382best%25C3%25B6rungskarte_20260417-141321.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-17/7f0a6bf5-ba64-4d0b-9e44-9a8df71382best%25C3%25B6rungskarte_20260417-141321.png",
+          "info": "",
+          "alt": "Störungskarte 17.04.2026 14:13:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "17.04.2026 14:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8fb849ac-d484-4e44-9dac-462fab6a70b1",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -252,51 +297,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "5a12854c-ecce-42b0-9930-353247b302be",
-      "disruptionId": "961d44b2-5a84-4892-a846-989066c35fd9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 6 Ebersberg: Polizeieinsatz",
-      "summary": "Die Streckensperrung ist aufgehoben und der Zugverkehr wird wieder aufgenommen.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen von bis zu 10 Minuten vereinzelt noch höher zusätzlich kommt es noch zu vorzeitigen Zugwenden.</p><p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "17.04.2026",
-      "durationEnd": "17.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/961d44b2-5a84-4892-a846-989066c35fd9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/000fbe40-27da-4af7-87de-5fcb09b732eest%25C3%25B6rungskarte_20260417-142234.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/000fbe40-27da-4af7-87de-5fcb09b732eest%25C3%25B6rungskarte_20260417-142234.png",
-          "info": "",
-          "alt": "Störungskarte 17.04.2026 14:22:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.04.2026 14:24",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5a12854c-ecce-42b0-9930-353247b302be",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
-    },
-    {
       "id": "8ecddedc-6e14-489e-b177-90611461aa44",
       "disruptionId": "376000f6-a79c-4650-9df5-db3fe6ac2e7f",
       "author": "REGIO_BW",
@@ -312,17 +312,10 @@
       "mapHref": "https://karte.bahn.de/detail/376000f6-a79c-4650-9df5-db3fe6ac2e7f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/7a4eaf32-c9eb-401c-bb3f-0f2347d79a21st%25C3%25B6rungskarte_20260417-135149.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/7a4eaf32-c9eb-401c-bb3f-0f2347d79a21st%25C3%25B6rungskarte_20260417-135149.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/e8e8ebc8-a82e-4fd9-8353-c8f0a58c555cst%25C3%25B6rungskarte_20260417-144758.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/e8e8ebc8-a82e-4fd9-8353-c8f0a58c555cst%25C3%25B6rungskarte_20260417-144758.png",
           "info": "",
-          "alt": "Störungskarte 17.04.2026 13:51:49",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/f4547901-dad1-4dbf-b704-f02f65dfd3e5st%25C3%25B6rungskarte_20260417-121510.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-17/f4547901-dad1-4dbf-b704-f02f65dfd3e5st%25C3%25B6rungskarte_20260417-121510.png",
-          "info": "",
-          "alt": "Störungskarte 17.04.2026 12:15:10",
+          "alt": "Störungskarte 17.04.2026 14:47:58",
           "openInNewTab": true
         }
       ],
@@ -347,7 +340,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.04.2026 13:53",
+      "lastModified": "17.04.2026 14:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -363,17 +356,17 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an der Oberleitung",
-      "summary": "Die Strecke ist zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit längeren Reisezeiten. Der Grund hierfür ist eine Reparatur an der Oberleitung.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Ostbahnhof </strong> und <strong>Perlach ↔ Ostbahnhof </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li><li>Die S5 verkehrt nur <strong>Pasing </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen entfallen.</strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p><strong>Nach aktuellem Stand rechnen wir mit einer Prognose der Reparatur um ca. 16:00 Uhr.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im MünchenNavigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "summary": "Die Strecke ist weiterhin zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit längeren Reisezeiten. Der Grund hierfür ist eine Reparatur an der Oberleitung.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Ostbahnhof </strong> und <strong>Perlach ↔ Ostbahnhof </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt zwischen <strong>Kreuzstraße </strong>und <strong>Perlach</strong>.</li><li>Die S5 verkehrt zwischen <strong>Pasing </strong>und <strong>Ostbahnhof</strong>.</li></ul><p><strong>Heute Nachmittag entfallen die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen.</strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p><strong>Aktuell ist aufgrund des Schadens an der Oberleitung noch keine zuverlässige Prognose für die Störungsbehebung möglich.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im MünchenNavigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
       "durationBegin": "17.04.2026",
       "durationEnd": "17.04.2026",
       "mapHref": "https://karte.bahn.de/detail/24c4f369-1225-4058-95ae-234c6885b163",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/7e32bfd8-b03d-4aa2-9c67-aa4a79b83c3est%25C3%25B6rungskarte_20260417-042709.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/7e32bfd8-b03d-4aa2-9c67-aa4a79b83c3est%25C3%25B6rungskarte_20260417-042709.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/bd917217-343a-4646-9428-c0da994f29d0st%25C3%25B6rungskarte_20260417-144951.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-17/bd917217-343a-4646-9428-c0da994f29d0st%25C3%25B6rungskarte_20260417-144951.png",
           "info": "",
-          "alt": "Störungskarte 17.04.2026 04:27:09",
+          "alt": "Störungskarte 17.04.2026 14:49:51",
           "openInNewTab": true
         }
       ],
@@ -397,7 +390,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.04.2026 13:18",
+      "lastModified": "17.04.2026 15:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
