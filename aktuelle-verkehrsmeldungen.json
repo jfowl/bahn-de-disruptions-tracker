@@ -74,49 +74,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "79e10fb3-9760-4d25-945e-8de8987df131",
-      "disruptionId": "412dfa20-3228-4cdb-a250-dbf13381e0f1",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S3 S5:  S-Bahnen fahren wieder zwischen Buxtehude und Harburg Rathaus",
-      "summary": "Der Polizeieinsatz ist beendet. Es fahren wieder S-Bahnen zwischen Buxtehude und Harburg Rathaus. Der Ersatzverkehr läuft aus. Verspätungen sind noch möglich.",
-      "text": "<p>.</p>",
-      "durationBegin": "17.04.2026",
-      "durationEnd": "17.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/412dfa20-3228-4cdb-a250-dbf13381e0f1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.04.2026 09:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/79e10fb3-9760-4d25-945e-8de8987df131",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
-    },
-    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -516,6 +473,56 @@
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
     },
     {
+      "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
+      "disruptionId": "5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 4 ",
+      "summary": "bis vsl. Sonntag, 17.05.2026 23:59 Uhr",
+      "text": "<p><strong>RE4    Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p><strong>Ab 15.04.2026 für vsl. 4 Wochen:</strong></p><p>Aufgrund einer Streckensperrung fallen alle Züge der Linie RE4 zwischen Güstrow und Neubrandenburg aus. Ein Ersatzverkehr mit Bussen ist eingerichtet. Anbei finden Sie den Ersatzfahrplan.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "15.04.2026",
+      "durationEnd": "17.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-17/dffd95a2-0753-48fd-a247-345cc88cf153Ersatzfahrplan%2BLinie%2BRE%2B4%2BG%25C3%25BCstrow%2B-%2BNeubrandenburg.pdf",
+          "label": "Ersatzfahrplan Linie RE 4 Güstrow - Neubrandenburg.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.04.2026 10:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c01088d4-3958-40cc-863a-ca6530e23d2e",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "9643efbc-21ad-4383-9995-10830cf5d51e",
       "disruptionId": "b77adff5-fe41-4216-abbe-7551a10c6fd4",
       "author": "SUEDOSTBAYERNBAHN",
@@ -664,56 +671,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dc40dbd9-b105-4184-bfaa-75916b8ae0c3",
       "magnoliaPath": "/aktuell/suedost/reduced_service_strike"
-    },
-    {
-      "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
-      "disruptionId": "5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Verkehrsmeldung für die Linie RE 4 ",
-      "summary": "bis vsl. Sonntag, 17.05.2026 23:59 Uhr",
-      "text": "<p><strong>RE4    Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p><strong>Ab 15.04.2026 für vsl. 4 Wochen:</strong></p><p>Aufgrund einer Streckensperrung fallen alle Züge der Linie RE4 zwischen Güstrow und Neubrandenburg aus. Ein Ersatzverkehr mit Bussen ist eingerichtet. Anbei finden Sie den Ersatzfahrplan.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
-      "durationBegin": "15.04.2026",
-      "durationEnd": "17.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-16/4324fa90-cf2d-4bd8-9efc-a6d0daf24b04Ersatzfahrplan%2BLinie%2BRE%2BG%25C3%25BCstrow%2B-%2BNeubrandenburg.pdf",
-          "label": "Ersatzfahrplan Linie RE4 Güstrow - Neubrandenburg.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.04.2026 10:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/c01088d4-3958-40cc-863a-ca6530e23d2e",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "1a0d1a89-2143-411d-a85f-8f2edc7cfc98",
