@@ -119,6 +119,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "a520cd4c-ec2b-48f9-a585-f2017bbab447",
+      "disruptionId": "b6cd5e1e-44e4-482d-a57e-ebfd2cc86c0a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Leipzig und Halle/S + Erfurt",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Leipzig und Halle (Saale) bzw. Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>Leipzig - Erfurt - Frankfurt/M Hbf</p><p>Leipzig - Erfurt - Nürnberg - München</p><p>Leipzig - Halle (Saale) - Magdeburg </p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in den Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/b6cd5e1e-44e4-482d-a57e-ebfd2cc86c0a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/984e7829-037f-4d37-a1e2-009915f72e39st%25C3%25B6rungskarte_20260418-101440.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/984e7829-037f-4d37-a1e2-009915f72e39st%25C3%25B6rungskarte_20260418-101440.png",
+          "info": "",
+          "alt": "Störungskarte 18.04.2026 10:14:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.04.2026 10:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a520cd4c-ec2b-48f9-a585-f2017bbab447",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -297,6 +341,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "29b878fa-d770-458c-b9aa-87207ffb5d9f",
+      "disruptionId": "716d1996-7ca5-4574-ae06-c472bc97d11d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "S 6 Ebersberg: Polizeieinsatz",
+      "summary": "Aktuell ist die Strecke zwischen Haar und Zorneding gesperrt.",
+      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein Polizeieinsatz.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "durationBegin": "18.04.2026",
+      "durationEnd": "18.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/716d1996-7ca5-4574-ae06-c472bc97d11d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/a86a90a6-a873-4983-9922-b214ea68e88cst%25C3%25B6rungskarte_20260418-105259.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/a86a90a6-a873-4983-9922-b214ea68e88cst%25C3%25B6rungskarte_20260418-105259.png",
+          "info": "",
+          "alt": "Störungskarte 18.04.2026 10:52:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.04.2026 10:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/29b878fa-d770-458c-b9aa-87207ffb5d9f",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity2"
+    },
+    {
       "id": "c32a1b7a-47e6-4c60-a04b-ce17e59ef274",
       "disruptionId": "24c4f369-1225-4058-95ae-234c6885b163",
       "author": "S_BAHN_MUC",
@@ -306,14 +395,14 @@
       },
       "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an der Oberleitung",
       "summary": "Die Strecke ist weiterhin zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit längeren Reisezeiten. Der Grund hierfür ist eine Reparatur an der Oberleitung.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Ostbahnhof </strong> und <strong>Perlach ↔ Ostbahnhof </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt zwischen <strong>Aying </strong>und <strong>Perlach</strong>. (zwischen <strong>Aying </strong>und <strong>Kreuzstraße </strong>verkehren wg. Bauarbeiten planmäßig Busse)</li><li>❗Neu: Die S 5 fällt aufgrund einer Weichenstörung zwischen Pasing und Ostbahnhof aus.</li></ul><p><strong>Heute Nachmittag entfallen die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen.</strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p><strong>Aktuell ist aufgrund des Schadens an der Oberleitung noch keine zuverlässige Prognose für die Störungsbehebung möglich.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im MünchenNavigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Ostbahnhof </strong> und <strong>Perlach ↔ Ostbahnhof </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt zwischen <strong>Aying </strong>und <strong>Perlach</strong>. (zwischen <strong>Aying </strong>und <strong>Kreuzstraße </strong>verkehren wg. Bauarbeiten planmäßig Busse)</li><li>❗Neu: Die S 5 fällt aufgrund einer Weichenstörung zwischen Pasing und Ostbahnhof aus.</li></ul><p><strong>Heute Nachmittag entfallen die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen.</strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p><strong>Aktuell ist aufgrund des Schadens an der Oberleitung noch keine zuverlässige Prognose für die Störungsbehebung möglich.</strong></p><p><strong>Voraussichtliche bleibt die Strecke noch den heutigen und morgigen Tag (18.04./19.04.) gesperrt.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im MünchenNavigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
       "durationBegin": "17.04.2026",
       "durationEnd": "18.04.2026",
       "mapHref": "https://karte.bahn.de/detail/24c4f369-1225-4058-95ae-234c6885b163",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/74f78f91-2eb1-426f-b4e6-d84b71d1fc64st%25C3%25B6rungskarte_20260417-144951.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/74f78f91-2eb1-426f-b4e6-d84b71d1fc64st%25C3%25B6rungskarte_20260417-144951.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/745aa3c2-4ebb-482c-8e14-7684d2252897st%25C3%25B6rungskarte_20260417-144951.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/745aa3c2-4ebb-482c-8e14-7684d2252897st%25C3%25B6rungskarte_20260417-144951.png",
           "info": "",
           "alt": "Störungskarte 17.04.2026 14:49:51",
           "openInNewTab": true
@@ -339,7 +428,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.04.2026 07:56",
+      "lastModified": "18.04.2026 10:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
