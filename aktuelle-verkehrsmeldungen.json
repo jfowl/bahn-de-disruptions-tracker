@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Die Strecke zwischen Neu-Edingen/Friedrichsfeld und Bensheim ist im Moment beeinträchtigt.",
-      "summary": "Der Grund ist ein erhöhter Krankenstand beim Stellwerkspersonal.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Neu-Edingen/Friedrichsfeld &lt;&gt; Bensheim</p><p>🕜<strong>Dauer der Beeinträchtigung bis vsl. 20:00 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S5 - Bensheim &lt;&gt; Weinheim &lt;&gt; Mannheim &lt;&gt; Frankenthal &lt;&gt; Worms &lt;&gt; Mainz &lt;&gt; (Wiesbaden)</li><li>RB69 - Weinheim &lt;&gt; Mörlenbach &lt;&gt; Rimbach &lt;&gt; Fürth </li><li> RB68 - Schwetzingen/WieslochWalldorf &lt;&gt;  NeuEdingen/Friedrichsfeld &lt;&gt; Bensheim &lt;&gt; Darmstadt &lt;&gt; Frankfurt</li><li>RE60 - Mannheim &lt;&gt; Weinheim &lt;&gt; Bensheim &lt;&gt; Darmstadt &lt;&gt; Frankfurt </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge der Linie RB68/RE60 wenden in Heppenheim/Bensheim. Die Züge der Linie S5 wenden in Neu-Edingen/Friedrichsfeld. Die Züge der Linie RB69 verkehren zwischen Birkenau und Fürth (Odenw.).</p><p>🚍&nbsp;<strong>Alternative:</strong> Es ist ein Ersatzverkehr mit drei Bussen zwischen Bensheim und Neu-Edingen/Friedrichsfeld, einem Bus zwischen Birkenau und Weinheim sowie 16 Bussen zwischen Wiesloch-Walldorf und Bensheim ab ca.13:45 Uhr für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "headline": "Das Stellwerk zwischen Neu-Edingen/Friedrichsfeld und Bensheim konnte besetzt werden.",
+      "summary": "Das Stellwerk zwischen Neu-Edingen/Friedrichsfeld und Bensheim konnte besetzt werden. Bis sich der Bahnverkehr wieder stabilisiert hat, kommt es noch zu Beeinträchtigungen. Der Ersatzverkehr wird demnächst eingestellt.",
+      "text": "<p>🚉 <strong>Betroffene Linien waren:</strong></p><ul><li>S5 - Bensheim &lt;&gt; Weinheim &lt;&gt; Mannheim &lt;&gt; Frankenthal &lt;&gt; Worms &lt;&gt; Mainz &lt;&gt; (Wiesbaden)</li><li>RB69 - Weinheim &lt;&gt; Mörlenbach &lt;&gt; Rimbach &lt;&gt; Fürth </li><li> RB68 - Schwetzingen/WieslochWalldorf &lt;&gt;  NeuEdingen/Friedrichsfeld &lt;&gt; Bensheim &lt;&gt; Darmstadt &lt;&gt; Frankfurt</li></ul><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "20.04.2026",
       "durationEnd": "20.04.2026",
       "mapHref": "https://karte.bahn.de/detail/3c3fbb41-aea9-4cec-a04e-fc9453b0260c",
@@ -24,18 +24,13 @@
       ],
       "states": [
         "BW",
-        "HE",
+        "SL",
         "RP"
       ],
       "lines": [
         {
           "name": "RB 68",
           "filterName": "RB 68",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 69",
-          "filterName": "RB 69",
           "property": "REGIONAL"
         },
         {
@@ -49,7 +44,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.04.2026 13:29",
+      "lastModified": "20.04.2026 15:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -127,52 +122,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
-    },
-    {
-      "id": "af5eb61f-9f18-4973-959b-4e55afa20e49",
-      "disruptionId": "652b52de-2ef5-4805-89f0-f26c53338417",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Darmstadt und Heidelberg",
-      "summary": "Das Stellwerk in Weinheim(Bergstr) ist am 20.04.2026 zwischen 13 Uhr und 20 Uhr nicht besetzt. Es kommt derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE &amp; EC Züge werden zwischen Frankfurt(M) und Heidelberg Hbf umgeleitet. Die Halte in Darmstadt Hbf, Bensheim und Weinheim(Bergstr) Hbf entfallen. Eine Verspätung ist nicht zu erwarten.</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.04.2026",
-      "durationEnd": "20.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/652b52de-2ef5-4805-89f0-f26c53338417",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/31d4c1b3-0975-4381-b12c-fcfe9fb9dfa1st%25C3%25B6rungskarte_20260420-131535.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/31d4c1b3-0975-4381-b12c-fcfe9fb9dfa1st%25C3%25B6rungskarte_20260420-131535.png",
-          "info": "",
-          "alt": "Störungskarte 20.04.2026 13:15:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.04.2026 13:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/af5eb61f-9f18-4973-959b-4e55afa20e49",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
     },
     {
       "id": "8fb849ac-d484-4e44-9dac-462fab6a70b1",
@@ -407,14 +356,14 @@
       },
       "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an der Oberleitung",
       "summary": "Die Strecke zwischen Ostbahnhof und Giesing ist aktuell nur eingleisig befahrbar. Die S 5 kann wieder zwischen Ostbahnhof und Giesing verkehren. Bitte rechnen Sie mit längeren Reisezeiten. Der Grund hierfür ist eine Reparatur an der Oberleitung.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Giesing </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing/Weßling</strong></p><ul><li>Die S5 verkehrt wieder zwischen <strong>Kreuzstraße</strong> und<strong> Ostbahnhof</strong>.</li><li>Die S5 entfällt zwischen <strong>Ostbahnhof</strong> und <strong>Pasing/Weßling</strong></li></ul><p></p><p><strong>Alternative:</strong></p><ul><li>Ostbahnhof ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul><p></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p><strong>Voraussichtlich kann die Reparatur im Laufe des morgigen Tages beendet werden.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Giesing </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing/Weßling</strong></p><ul><li>Die S5 verkehrt wieder zwischen <strong>Kreuzstraße</strong> und<strong> Ostbahnhof</strong>.</li><li>Die S5 entfällt zwischen <strong>Ostbahnhof</strong> und <strong>Pasing/Weßling</strong></li></ul><p></p><p><strong>Alternative:</strong></p><p>Zusätzlich werden folgende Fahrten der<strong> S20 </strong>ab/bis <strong>Deisenhofen</strong> verlängert:</p><p><strong>S 20 Pasing ↔ Deisenhofen </strong></p><ul><li>Abfahrt Pasing 15:59 Uhr → Abfahrt Heimeranplatz 16:05 Uhr → Abfahrt Solln 16:12 Uhr → Ankunft Deisenhofen 16:18 Uhr</li><li>&nbsp;Abfahrt Pasing 16:30 Uhr → Abfahrt Heimeranplatz 16:05 Uhr → Abfahrt Solln 16:12 Uhr → Ankunft Deisenhofen 16:50 Uhr</li><li>Abfahrt Pasing 17:59 Uhr → Abfahrt Heimeranplatz 16:05 Uhr → Abfahrt Solln 16:12 Uhr → Ankunft Deisenhofen 18:18 Uhr</li></ul><p></p><ul><li>Abfahrt Deisenhofen 17:09 Uhr - Ankunft Pasing 17:30 Uhr</li><li>Abfahrt Deisenhofen 17:29 Uhr - Ankunft Pasing 17:49 Uhr</li><li>Abfahrt Deisenhofen 18:29 Uhr - Ankunft Pasing 18:50 Uhr</li></ul><p>ℹ️ Die Halte <strong>Höllriegelskreuth, Pullach und Großhesselohe Isartalbahnhof entfallen </strong>durch die Umleitung ❕</p><p></p><p></p><p>Alle anderen Linien verkehren ohne Einschränkungen.</p><p><strong>Voraussichtlich kann die Reparatur im Laufe des morgigen Tages beendet werden.</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
       "durationBegin": "17.04.2026",
       "durationEnd": "21.04.2026",
       "mapHref": "https://karte.bahn.de/detail/24c4f369-1225-4058-95ae-234c6885b163",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/d02c6e1e-3c9b-47be-a683-3ff6be38425est%25C3%25B6rungskarte_20260419-163214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/d02c6e1e-3c9b-47be-a683-3ff6be38425est%25C3%25B6rungskarte_20260419-163214.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/c86f170a-a765-4510-975d-7bbe60c083cbst%25C3%25B6rungskarte_20260419-163214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/c86f170a-a765-4510-975d-7bbe60c083cbst%25C3%25B6rungskarte_20260419-163214.png",
           "info": "",
           "alt": "Störungskarte 19.04.2026 16:32:14",
           "openInNewTab": true
@@ -440,7 +389,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.04.2026 09:40",
+      "lastModified": "20.04.2026 15:29",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
