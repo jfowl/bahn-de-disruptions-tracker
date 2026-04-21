@@ -126,7 +126,7 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Teilausfälle im Raum Frankfurt(Main)",
+      "headline": "Umleitungen und Haltausfälle im Raum Frankfurt(Main)",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
       "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>21.04., 22:00 Uhr bis vsl. 22.04., 04:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RE54 werden die Züge ohne Halt zwischen zwischen Frankfurt(Main)Hbf und Aschaffenburg Hbf umgeleitet.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>RE54: Es ist ein Ersatzverkehr mit allen Unterwegshalten zwischen Frankfurt(Main)Hbf und Aschaffenburg Hbf der Firma Holiday Reisen eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "21.04.2026",
@@ -149,7 +149,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.04.2026 16:07",
+      "lastModified": "21.04.2026 16:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -366,6 +366,81 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "aa0d461f-f7b1-4f34-944d-13c3fd2184f7",
+      "disruptionId": "6c9147af-9b4f-4752-a82f-80a5a9a638de",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Stammstrecke: Unbefugte Personen auf der Strecke ",
+      "summary": "Derzeit kommt es auf der Stammstrecke in beide Richtungen noch zu Folgeverspätungen von 20 bis 25 Minuten. ",
+      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p>Die unbefugte Person auf der Strecke am Hauptbahnhof wurde von der Bundespolizei aufgegriffen.</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/6c9147af-9b4f-4752-a82f-80a5a9a638de",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/ef85dd49-2abb-474c-bb52-12a4fa8b5069st%25C3%25B6rungskarte_20260421-172644.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/ef85dd49-2abb-474c-bb52-12a4fa8b5069st%25C3%25B6rungskarte_20260421-172644.png",
+          "info": "",
+          "alt": "Störungskarte 21.04.2026 17:26:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.04.2026 17:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aa0d461f-f7b1-4f34-944d-13c3fd2184f7",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "c32a1b7a-47e6-4c60-a04b-ce17e59ef274",
       "disruptionId": "24c4f369-1225-4058-95ae-234c6885b163",
       "author": "S_BAHN_MUC",
@@ -375,14 +450,14 @@
       },
       "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an der Oberleitung",
       "summary": "Die Strecke zwischen Ostbahnhof und Giesing ist weiterhin nur eingleisig befahrbar. Die S 5 kann wieder zwischen Ostbahnhof ↔ Kreuzstraße verkehren. Bitte rechnen Sie mit längeren Reisezeiten. Der Grund hierfür ist eine Reparatur an der Oberleitung.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Giesing </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p></p><p><strong>S 5 Kreuzstraße ↔ Pasing/Weßling</strong></p><ul><li>Die S5 verkehrt wieder zwischen <strong>Kreuzstraße</strong> und<strong> Ostbahnhof</strong>.</li><li>Die S5 entfällt zwischen <strong>Ostbahnhof</strong> und <strong>Pasing/Weßling</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Ostbahnhof ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul><p>Zusätzlich verkehren heute Nachmittag folgende Züge der Linie <strong>S 20</strong> ab/bis&nbsp;<strong>Deisenhofen</strong>&nbsp;verlängert:</p><p><strong>S 20 Pasing ↔ Deisenhofen</strong></p><ul><li>Abfahrt Pasing 15:59 Uhr → Ankunft Deisenhofen 16:18 Uhr</li><li>Abfahrt Pasing 16:30 Uhr → Ankunft Deisenhofen 16:50 Uhr</li><li>Abfahrt Pasing 17:59 Uhr → Ankunft Deisenhofen 18:18 Uhr</li></ul><p><strong>S 20 Deisenhofen ↔ Pasing</strong></p><ul><li>Abfahrt Deisenhofen 17:09 Uhr - Ankunft Pasing 17:30 Uhr</li><li>Abfahrt Deisenhofen 17:29 Uhr - Ankunft Pasing 17:49 Uhr</li><li>Abfahrt Deisenhofen 18:29 Uhr - Ankunft Pasing 18:50 Uhr</li></ul><p></p><p>❗Die Halte <strong>Höllriegelskreuth, Pullach und Großhesselohe Isartalbahnhof entfallen </strong>durch die Umleitung ❗</p><p><strong>ℹ️ Die Reparatur an der Oberleitung dauert noch an und wird voraussichtlich gegen 18:00 Uhr abgeschlossen.✅</strong></p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Deisenhofen ↔ Giesing </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt zwischen <strong>Mammendorf </strong>und <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt zwischen <strong>Holzkirchen </strong>und <strong>Deisenhofen</strong>.</li></ul><p></p><p><strong>S 5 Kreuzstraße ↔ Pasing/Weßling</strong></p><ul><li>Die S5 verkehrt wieder zwischen <strong>Kreuzstraße</strong> und<strong> Ostbahnhof</strong>.</li><li>Die S5 entfällt zwischen <strong>Ostbahnhof</strong> und <strong>Pasing/Weßling</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Ostbahnhof ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul><p>Zusätzlich verkehren heute Nachmittag folgende Züge der Linie <strong>S 20</strong> ab/bis&nbsp;<strong>Deisenhofen</strong>:</p><p><strong>S 20 Pasing ↔ Deisenhofen</strong></p><ul><li>Abfahrt Pasing 15:59 Uhr → Ankunft Deisenhofen 16:18 Uhr</li><li>Abfahrt Pasing 16:30 Uhr → Ankunft Deisenhofen 16:50 Uhr</li><li>Abfahrt Pasing 17:59 Uhr → Ankunft Deisenhofen 18:18 Uhr</li></ul><p><strong>S 20 Deisenhofen ↔ Pasing</strong></p><ul><li>Abfahrt Deisenhofen 17:09 Uhr - Ankunft Pasing 17:30 Uhr</li><li>Abfahrt Deisenhofen 17:29 Uhr - Ankunft Pasing 17:49 Uhr</li><li>Abfahrt Deisenhofen 18:29 Uhr - Ankunft Pasing 18:50 Uhr</li></ul><p></p><p>❗Die Halte <strong>Höllriegelskreuth, Pullach und Großhesselohe Isartalbahnhof entfallen </strong>durch die Umleitung ❗</p><p><strong>ℹ️ Die Reparaturarbeiten an der Oberleitung im Bereich Giesing, konnten nicht komplett abgeschlossen werden. Diese werden  den gesamten heutigen Betriebstag andauern</strong>.</p><p>Bitte Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
       "durationBegin": "17.04.2026",
       "durationEnd": "22.04.2026",
       "mapHref": "https://karte.bahn.de/detail/24c4f369-1225-4058-95ae-234c6885b163",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/04d396f9-dc47-4e41-a758-cacb2c9f3b03st%25C3%25B6rungskarte_20260419-163214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/04d396f9-dc47-4e41-a758-cacb2c9f3b03st%25C3%25B6rungskarte_20260419-163214.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/7ef5cc17-0729-4ee8-840d-2e08f0e8c536st%25C3%25B6rungskarte_20260419-163214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/7ef5cc17-0729-4ee8-840d-2e08f0e8c536st%25C3%25B6rungskarte_20260419-163214.png",
           "info": "",
           "alt": "Störungskarte 19.04.2026 16:32:14",
           "openInNewTab": true
@@ -408,72 +483,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.04.2026 15:11",
+      "lastModified": "21.04.2026 17:16",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c32a1b7a-47e6-4c60-a04b-ce17e59ef274",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "161eb2ff-519f-45aa-bf1d-2ddfaac108a4",
-      "disruptionId": "ec76de15-6a29-4ee2-a85e-53d389f6278c",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Folgeverspätungen und es kommt zu einzelnen Umleitungen, Teil- sowie Zugausfällen in Frankfurt(Main)Süd",
-      "summary": "Bei der S-Bahn Rhein-Main normalisiert sich der Bahnbetrieb wieder.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p><strong>✅ Auf der S 3, S 4, S 5 und S 6 kommt es zu Folgeverspätungen und es kommt zu einzelnen Umleitungen, Teil- sowie Zugausfällen.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "21.04.2026",
-      "durationEnd": "21.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/ec76de15-6a29-4ee2-a85e-53d389f6278c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-21/da91a7b4-513d-4919-9b11-fb49d2dcfd0est%25C3%25B6rungskarte_20260421-140306.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-21/da91a7b4-513d-4919-9b11-fb49d2dcfd0est%25C3%25B6rungskarte_20260421-140306.png",
-          "info": "",
-          "alt": "Störungskarte 21.04.2026 14:03:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.04.2026 14:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/161eb2ff-519f-45aa-bf1d-2ddfaac108a4",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
@@ -647,6 +662,80 @@
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
     },
     {
+      "id": "9c2c3d46-45fa-499c-a8e7-511a92bb8086",
+      "disruptionId": "ab477dfb-c4bb-438d-bbc6-6cd6be3c2e60",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "✅ S3: Die S3 fährt wieder von und nach Pinneberg",
+      "summary": "S3: Polizeieinsatz beendet. Die S3 fährt wieder zwischen Pinneberg und Elbgaustraße.\nEs ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
+      "text": "<p>...</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/ab477dfb-c4bb-438d-bbc6-6cd6be3c2e60",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.04.2026 17:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c2c3d46-45fa-499c-a8e7-511a92bb8086",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
+    },
+    {
+      "id": "8eb8ef50-f47b-4526-a2aa-0ea49ead0190",
+      "disruptionId": "3e40dcb2-3824-4771-8afc-2eb0f5270d99",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: technische Störung an der Strecke",
+      "summary": "S1: Aktuell fährt die S1 zwischen Othmarschen und Poppenbüttel alle fünf Minuten. Grund: technische Störung an der Strecke",
+      "text": "<p>Auf den übrigen Streckenabschnitten fährt die S1 alle 10 Minuten.</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3e40dcb2-3824-4771-8afc-2eb0f5270d99",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.04.2026 16:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8eb8ef50-f47b-4526-a2aa-0ea49ead0190",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
       "disruptionId": "5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
       "author": "REGIO_NORDOST",
@@ -663,8 +752,8 @@
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-21/41baa157-1422-4574-8d60-138df1aa9d13Ersatzverkehr%2BRE4%2Bmit%2BHaltestellen.pdf",
-          "label": "Ersatzverkehr RE4 mit Haltestellen.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-21/53f637f0-b0d9-4cda-a842-cd525d9e2e49Ersatzfahrplan%2Bmit%2BHaltestellen%2BRE4.pdf",
+          "label": "Ersatzfahrplan mit Haltestellen RE4.pdf",
           "info": "",
           "openInNewTab": true
         }
@@ -690,7 +779,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.04.2026 11:06",
+      "lastModified": "21.04.2026 16:43",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c01088d4-3958-40cc-863a-ca6530e23d2e",
