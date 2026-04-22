@@ -246,56 +246,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "3bc2c9b1-d193-4e55-822d-2506b205df35",
-      "disruptionId": "872fd3db-2b64-4ff9-8c74-4c9eeaea2d4a",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen in Ulm Hbf sind beendet",
-      "summary": "Das Stellwerk in Ulm Hbf ist nicht mehr beeinträchtigt.   Bitte rechnen Sie noch mit Verspätungen und Teilausfällen, bis sich der Zugverkehr wieder stabilisiert hat. Bitte achten Sie auf die Lautsprecherdurchsagen am Bahnsteig und in den Zügen. ",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 50 (Aalen – Ulm) </li><li>RE 55 (Donaueschingen – Ulm)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "21.04.2026",
-      "durationEnd": "22.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/872fd3db-2b64-4ff9-8c74-4c9eeaea2d4a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-22/717d8f2e-c1bf-4ffd-956f-42a3636c3bc8st%25C3%25B6rungskarte_20260421-204000.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-22/717d8f2e-c1bf-4ffd-956f-42a3636c3bc8st%25C3%25B6rungskarte_20260421-204000.png",
-          "info": "",
-          "alt": "Störungskarte 21.04.2026 20:40:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.04.2026 11:08",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3bc2c9b1-d193-4e55-822d-2506b205df35",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
       "disruptionId": "8d2fabea-fa0d-4e45-bedf-67636fe59aea",
       "author": "FERNVERKEHR_AG",
@@ -423,6 +373,93 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "1425f62d-6d7f-4088-8ae0-50b95530e0bc",
+      "disruptionId": "889a5efa-828e-4dec-b95e-896837e0c447",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 4 Fürstenfeldbruck ↔ Eichenau: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Fürstenfeldbruck und Eichenau kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Die S - Bahnen fahren in dem betroffenen Bereich langsamer.</p><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "22.04.2026",
+      "durationEnd": "22.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/889a5efa-828e-4dec-b95e-896837e0c447",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-22/d6cd0748-b8ee-478f-8d23-96ca24b33bcdst%25C3%25B6rungskarte_20260422-124114.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-22/d6cd0748-b8ee-478f-8d23-96ca24b33bcdst%25C3%25B6rungskarte_20260422-124114.png",
+          "info": "",
+          "alt": "Störungskarte 22.04.2026 12:41:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.04.2026 12:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1425f62d-6d7f-4088-8ae0-50b95530e0bc",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "12925f2e-964e-4a27-a2b7-4d5c7c0bc351",
+      "disruptionId": "9ba4930c-8f59-4bcd-95c8-4c0e99242808",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Umleitungen, Teil- sowie Zugausfälle im Raum Frankfurt-Griesheim",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 22.04., 14:15 bis vsl. 15:45 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der S1 und der S2 entfallen im genannten Zeitraum die Halte Frankfurt-Griesheim und Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Nutzen Sie die Buslinie 54 zwischen Griesheim Bahnhof, Frankfurt a.M. - Höchst Bahnhof, Frankfurt a.M..</li><li>Nutzen Sie auch die Buslinie 59 zwischen Griesheim Bahnhof, Frankfurt a.M. - Nied Bahnhof/Lotzstraße, Frankfurt a.M. - Höchst Bahnhof, Frankfurt a.M.. </li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "22.04.2026",
+      "durationEnd": "22.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/9ba4930c-8f59-4bcd-95c8-4c0e99242808",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.04.2026 12:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/12925f2e-964e-4a27-a2b7-4d5c7c0bc351",
+      "magnoliaPath": "/aktuell/hessen/impairment_police_activity"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
