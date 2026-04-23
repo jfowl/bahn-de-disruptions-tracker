@@ -1030,73 +1030,69 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/modified_service_technical_problem_railway_section"
     },
     {
-      "id": "cf215b71-f0cd-4866-a700-9142ef5be09e",
-      "disruptionId": "f1b70f21-d97e-4ed9-a47a-b524df6d9da1",
-      "author": "REGIO_BW",
+      "id": "f030c003-df56-42a5-98e1-ef7a045d8dc4",
+      "disruptionId": "103de94a-57a4-489f-a57b-d0f5505ea177",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Stuttgart ⇄ Ulm Hbf (Übersicht nächtlicher Bauarbeiten 2026)",
-      "summary": "📅 In mehreren Nächten jeweils zwischen 21:00 Uhr und 07:30 Uhr",
-      "text": "<p>⚠️ <strong>Die betroffenen Tage entnehmen Sie bitte der beigefügten Kalenderdatei, die fortlaufend ergänzt wird. </strong></p><p><strong>Betroffene Linien:</strong></p><ul><li>RE 5 (Stuttgart – Ulm)</li></ul><p><strong>Fahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus in unterschiedlichen Abschnitten</strong></p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
-      "durationBegin": "20.04.2026",
-      "durationEnd": "31.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/f1b70f21-d97e-4ed9-a47a-b524df6d9da1",
-      "images": [],
-      "downloads": [
+      "headline": "S 4 Pasing ↔ Puchheim: Reparatur an einer Weiche",
+      "summary": "Zwischen Pasing und Puchheim kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "23.04.2026",
+      "durationEnd": "23.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/103de94a-57a4-489f-a57b-d0f5505ea177",
+      "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-20/5a6b1485-4233-4b0f-8b3e-1cba1f3196be%25F0%259F%259A%258C%2BBus-Ersatzfahrplan%2B.pdf",
-          "label": "🚌 Bus-Ersatzfahrplan  11.6.2026  Geislingen (Steige) - Ulm",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/fd3ba60e-e32a-41cd-bbfd-70a5eaadbe89st%25C3%25B6rungskarte_20260423-140413.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/fd3ba60e-e32a-41cd-bbfd-70a5eaadbe89st%25C3%25B6rungskarte_20260423-140413.png",
           "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-20/6b5414d0-5bdf-4981-b049-9914ee1ca2a6%25C3%259Cbersicht%2Bn%25C3%25A4chtlicher%2BBauarbeiten%2B2026.pdf",
-          "label": "📅 Übersicht nächtlicher Bauarbeiten 2026",
-          "info": "",
+          "alt": "Störungskarte 23.04.2026 14:04:13",
           "openInNewTab": true
         }
       ],
+      "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "20.04.2026 13:39",
+      "lastModified": "23.04.2026 14:06",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/cf215b71-f0cd-4866-a700-9142ef5be09e",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f030c003-df56-42a5-98e1-ef7a045d8dc4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
-      "id": "8c03f1c0-d2e1-43a3-bb21-5c06c0318684",
-      "disruptionId": "aca30151-8cd7-456f-b13a-9a6202e19cb6",
+      "id": "b5584621-7ec0-4d15-8dd5-7d956971a816",
+      "disruptionId": "b88c54a2-fd2e-48b9-8887-2ec0268f8c19",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "Beeinträchtigungen zwischen Düsseldorf und Köln",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung im Bereich Düsseldorf-Berg zwischen Düsseldorf und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Amsterdam und Köln</li><li>ICE Züge zwischen Düsseldorf und Köln Messe/Deutz</li><li>ICE/IC Züge zwischen Düsseldorf und Köln Hbf</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Münster(E) und Recklinghausen",
+      "summary": "Ein Straßenverkehrsunfall hat die Oberleitung beschädigt. Deshalb ist die Strecke im Bereich Sythen derzeit gesperrt. Dadurch kommt es zu Umleitungen im Fernverkehr der Deutschen Bahn. Der Halt Gelsenkirchen entfällt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE Züge zwischen Köln und Münster(W), die über Gelsenkirchen/Recklinghausen fahren</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie die  Züge des Nahverkehrs nach Gelsenkirchen. </p><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "23.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/aca30151-8cd7-456f-b13a-9a6202e19cb6",
+      "mapHref": "https://karte.bahn.de/detail/b88c54a2-fd2e-48b9-8887-2ec0268f8c19",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/8c60556c-4cd6-44c4-ba3f-929a9814e562st%25C3%25B6rungskarte_20260423-121741.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/8c60556c-4cd6-44c4-ba3f-929a9814e562st%25C3%25B6rungskarte_20260423-121741.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/5e329e25-5dd8-47fc-98db-47abb21fb4e0st%25C3%25B6rungskarte_20260423-134558.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/5e329e25-5dd8-47fc-98db-47abb21fb4e0st%25C3%25B6rungskarte_20260423-134558.png",
           "info": "",
-          "alt": "Störungskarte 23.04.2026 12:17:41",
+          "alt": "Störungskarte 23.04.2026 13:45:58",
           "openInNewTab": true
         }
       ],
@@ -1115,11 +1111,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "23.04.2026 12:19",
+      "lastModified": "23.04.2026 13:47",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/8c03f1c0-d2e1-43a3-bb21-5c06c0318684",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/b5584621-7ec0-4d15-8dd5-7d956971a816",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_police_activity"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
