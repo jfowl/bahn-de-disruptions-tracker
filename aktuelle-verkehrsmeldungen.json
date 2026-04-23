@@ -119,6 +119,63 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "b5d5a499-5784-4f71-a0ce-ffdceab5a967",
+      "disruptionId": "7146a5b0-f80f-4b51-8789-72fd19e08501",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Teilausfälle zwischen Frankfurt(Main)Hbf - Mainz Hbf - Wiesbaden Hbf",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis zum 24. April bis vsl. 05:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der S8 kommt es zu Teilausfällen zwischen Mainz Hbf - Wiesbaden Hbf.</li><li>Auf der RE4 und RE14 kommt es zu Teilausfällen zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit Bussen der Firma Holiday Reisen ist zwischen Mainz Hbf - Wiesbaden Hbf eingerichtet.</li><li>Bitte nutzen Sie die Züge der S-Bahn zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li><li>Nutzen Sie auch die Buslinie 6 zwischen Hauptbahnhof, Wiesbaden – Biebrich Bahnhof Wiesbaden Ost, Wiesbaden – Mainz-Kastel Brückenkopf, Wiesbaden – Hauptbahnhof, Mainz und die Buslinie 76 zwischen Nordbahnhof, Mainz und Hauptbahnhof, Mainz. </li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "23.04.2026",
+      "durationEnd": "24.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/7146a5b0-f80f-4b51-8789-72fd19e08501",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-23/9e897fc8-01e8-4342-a596-a354997df185st%25C3%25B6rungskarte_20260423-055602.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-23/9e897fc8-01e8-4342-a596-a354997df185st%25C3%25B6rungskarte_20260423-055602.png",
+          "info": "",
+          "alt": "Störungskarte 23.04.2026 05:56:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.04.2026 11:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b5d5a499-5784-4f71-a0ce-ffdceab5a967",
+      "magnoliaPath": "/aktuell/hessen/impairment_construction"
+    },
+    {
       "id": "79656409-512c-49ac-b5e7-87db1b8c0a9d",
       "disruptionId": "3f94ab8b-5687-4080-b8e2-ea345898f1f0",
       "author": "FERNVERKEHR_AG",
@@ -470,75 +527,25 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
     },
     {
-      "id": "d293c92f-34f4-47fa-890e-1d4ee25c0541",
-      "disruptionId": "2e182877-cf69-4940-bb0b-f44fbdb754c4",
+      "id": "9191c43d-768a-4b87-b82d-87da29fa81d6",
+      "disruptionId": "d53f0752-ca5a-487c-8986-a4c21178afd9",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 5, S 8 Neuaubing: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Neuaubing kommt es noch zu Folgeverspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "23.04.2026",
       "durationEnd": "23.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/2e182877-cf69-4940-bb0b-f44fbdb754c4",
+      "mapHref": "https://karte.bahn.de/detail/d53f0752-ca5a-487c-8986-a4c21178afd9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/be63df4c-c2a2-464f-b89f-832d48e2a2bdst%25C3%25B6rungskarte_20260423-075022.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/be63df4c-c2a2-464f-b89f-832d48e2a2bdst%25C3%25B6rungskarte_20260423-075022.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/1687b253-0cc1-4851-8b5c-a778dca5fab5st%25C3%25B6rungskarte_20260423-111406.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/1687b253-0cc1-4851-8b5c-a778dca5fab5st%25C3%25B6rungskarte_20260423-111406.png",
           "info": "",
-          "alt": "Störungskarte 23.04.2026 07:50:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.04.2026 09:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d293c92f-34f4-47fa-890e-1d4ee25c0541",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
-    },
-    {
-      "id": "aec3487b-7ff7-4ce9-99f8-a549c01502bd",
-      "disruptionId": "5cf409c0-f8dc-4135-ab71-a43ae9583a22",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von 15 bis 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
-      "durationBegin": "23.04.2026",
-      "durationEnd": "23.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/5cf409c0-f8dc-4135-ab71-a43ae9583a22",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/89aa14b6-8cf2-4f3a-836e-3c1b00f959c6st%25C3%25B6rungskarte_20260423-084208.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/89aa14b6-8cf2-4f3a-836e-3c1b00f959c6st%25C3%25B6rungskarte_20260423-084208.png",
-          "info": "",
-          "alt": "Störungskarte 23.04.2026 08:42:08",
+          "alt": "Störungskarte 23.04.2026 11:14:06",
           "openInNewTab": true
         }
       ],
@@ -587,68 +594,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.04.2026 09:53",
+      "lastModified": "23.04.2026 11:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aec3487b-7ff7-4ce9-99f8-a549c01502bd",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
-    },
-    {
-      "id": "b5d5a499-5784-4f71-a0ce-ffdceab5a967",
-      "disruptionId": "7146a5b0-f80f-4b51-8789-72fd19e08501",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Teilausfälle zwischen Frankfurt(Main)Hbf - Mainz Hbf - Wiesbaden Hbf",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 23. April bis vsl. 14:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der S8 kommt es zu Teilausfällen zwischen Mainz Hbf - Wiesbaden Hbf.</li><li>Auf der RE4 und RE14 kommt es zu Teilausfällen zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit Bussen der Firma Holiday Reisen ist zwischen Mainz Hbf - Wiesbaden Hbf eingerichtet.</li><li>Bitte nutzen Sie die Züge der S-Bahn zwischen Mainz Hbf - Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "23.04.2026",
-      "durationEnd": "23.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/7146a5b0-f80f-4b51-8789-72fd19e08501",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-23/0a3fe588-a895-4f37-a100-5cfcd3091562st%25C3%25B6rungskarte_20260423-055602.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-23/0a3fe588-a895-4f37-a100-5cfcd3091562st%25C3%25B6rungskarte_20260423-055602.png",
-          "info": "",
-          "alt": "Störungskarte 23.04.2026 05:56:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE 14",
-          "filterName": "RE 14",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.04.2026 06:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b5d5a499-5784-4f71-a0ce-ffdceab5a967",
-      "magnoliaPath": "/aktuell/hessen/impairment_construction"
+      "detailPagePath": "/service/fahrplaene/9191c43d-768a-4b87-b82d-87da29fa81d6",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -1011,88 +962,6 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
     },
     {
-      "id": "5cb5515b-e913-4493-9652-142565e7bded",
-      "disruptionId": "e123b065-c0e6-4f78-b4a7-cf352f4b6159",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation Stammstrecke in den Nächten vom 22. - 24. April ",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten von Mittwoch, den 22. April auf Donnerstag, den 23. April und von Donnerstag, den 23. April auf Freitag, den 24. April jeweils von 22:20 bis 5 Uhr zwischen Ostbahnhof ↔ Pasing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und früheren Abfahrten.\n",
-      "text": "<p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/ Flughafen</strong></p><ul><li>auf der S 1 finden gleichzeitig andere Bauarbeiten statt (siehe gesonderte Plakate).</li><li>die ersten beiden Züge in der Früh fahren vom Leuchtenbergring bis Moosach ca. 8 Minuten früher ab.</li></ul><p></p><p><strong>S2 Erding ↔ Petershausen/ Altomünster</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke.</li><li>Züge in/aus Richtung Petershausen beginnen/enden am Heimeranplatz und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt.</li></ul><p></p><p><strong>S3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden am Ostbahnhof Gleis 3/4.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</li></ul><p></p><p><strong>S4 Trudering ↔ Geltendorf</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing.</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus.</li></ul><p></p><p><strong>S5 Pasing ↔ Kreuzstraße</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof Gleis 3/4.</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p></p><p><strong>S6 Ebersberg ↔ Tutzing</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden an der Donnersbergerbrücke.</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof und fahren von/bis Pasing ohne Halt.</li></ul><p></p><p><strong>S7 Hauptbahnhof ↔ Wolfratshausen</strong></p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</li></ul><p></p><p><strong>S8 Flughafen ↔ Herrsching</strong></p><ul><li>Züge fahren planmäßig zwischen Herrsching und Flughafen und als einzige Linie komplett über die Stammstrecke</li></ul><p></p><p><strong>Hinweis:</strong></p><p><strong>Zwischen Ostbahnhof und Pasing fährt nur die S 8 als einzige Linie komplett über die Stammstrecke.</strong></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "22.04.2026",
-      "durationEnd": "24.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/e123b065-c0e6-4f78-b4a7-cf352f4b6159",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/3bff016a-b910-437e-8c94-34d9a349d0dest%25C3%25B6rungskarte_20260409-121531.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/3bff016a-b910-437e-8c94-34d9a349d0dest%25C3%25B6rungskarte_20260409-121531.png",
-          "info": "",
-          "alt": "Störungskarte 09.04.2026 12:15:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-23/70446ac4-6a3f-4d3b-be4c-8e6a20671b19Fpl%252BGWB%252BMMHG-MP%252B22-24%252BApr%252B2026.pdf",
-          "label": "Stammstrecke Fahrplan 22.-24. April ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.04.2026 06:41",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5cb5515b-e913-4493-9652-142565e7bded",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
-    },
-    {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
       "author": "REGIO_BY",
@@ -1283,49 +1152,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cf215b71-f0cd-4866-a700-9142ef5be09e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
-    },
-    {
-      "id": "ad3d6ace-577d-488a-b1de-e492c48d3a01",
-      "disruptionId": "e1e94c7a-415c-4b27-92d5-4f7fc0431853",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim/Heidelberg/Karlsruhe und Stuttgart",
-      "summary": "Aufgrund einer technischen Störung an der Strecke im Bereich Vaihingen(Enz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um bis zu 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>TGV/ICE Züge Karlsruhe - Stuttgart</li><li>ICE Züge Mannheim - Stuttgart</li><li>ICE/IC Züge Heidelberg - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/e1e94c7a-415c-4b27-92d5-4f7fc0431853",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-22/278dd127-af2e-47b5-9f86-90795bfb18a4st%25C3%25B6rungskarte_20260422-190505.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-22/278dd127-af2e-47b5-9f86-90795bfb18a4st%25C3%25B6rungskarte_20260422-190505.png",
-          "info": "",
-          "alt": "Störungskarte 22.04.2026 19:05:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.04.2026 19:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ad3d6ace-577d-488a-b1de-e492c48d3a01",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
