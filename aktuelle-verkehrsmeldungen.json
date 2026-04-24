@@ -2,6 +2,84 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "39219b87-2dab-4048-826e-c3abada571ba",
+      "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
+      "summary": " ",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 11. August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p><p></p>",
+      "durationBegin": "24.04.2026",
+      "durationEnd": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "Bus S5EV",
+          "filterName": "Bus S5EV Hamburg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.04.2026 15:55",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
       "id": "8fb849ac-d484-4e44-9dac-462fab6a70b1",
       "disruptionId": "a36fac5f-9656-4b35-83f1-153c43173f0a",
       "author": "FERNVERKEHR_AG",
@@ -127,50 +205,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
       "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
-    },
-    {
-      "id": "877ea870-202d-4de4-84f2-4c00446cb336",
-      "disruptionId": "048326ce-625e-4a61-af1a-aefb6e68f37c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Stuttgart und Ulm",
-      "summary": "Aufgrund einer Reparatur an der Strecke ist die Strecke zwischen Plochingen und Wendlingen derzeit gesperrt. Dadurch kommt es zu Umleitungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich um ca. 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE, - TGV-, RJ- und IC-Züge zwischen Stuttgart und Ulm</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/048326ce-625e-4a61-af1a-aefb6e68f37c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/ecd25bbd-e9d6-455e-a902-d710e80b1d82st%25C3%25B6rungskarte_20260423-214430.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-23/ecd25bbd-e9d6-455e-a902-d710e80b1d82st%25C3%25B6rungskarte_20260423-214430.png",
-          "info": "",
-          "alt": "Störungskarte 23.04.2026 21:44:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.04.2026 22:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/877ea870-202d-4de4-84f2-4c00446cb336",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -354,51 +388,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
     },
     {
-      "id": "dafc7c0d-b94e-49a8-9e46-e8c235f859b7",
-      "disruptionId": "64934e55-5f26-44da-a86b-719c407164a4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 5 Ostbahnhof: Reparatur an einer Weiche",
-      "summary": "Im Bereich Ostbahnhof kommt es noch zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Die S-Bahnen der Linie S5 verkehren mit folgender Fahrt wieder auf dem Regelweg:</p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>S5 Kreuzstraße Abfahrt 13:47 Uhr → Ostbahnhof Abfahrt 14:23 Uhr → Pasing Ankunft 14:43 Uhr</li><li>S 5 Ostbahnhof Abfahrt 14:36 Uhr → Kreuzstraße Ankunft 15:13 Uhr</li></ul><p>Der Grund hierfür war die Reparatur an einer Weiche.</p>",
-      "durationBegin": "24.04.2026",
-      "durationEnd": "24.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/64934e55-5f26-44da-a86b-719c407164a4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/b33f60b5-4863-49eb-86b1-2e503292985ast%25C3%25B6rungskarte_20260424-132143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/b33f60b5-4863-49eb-86b1-2e503292985ast%25C3%25B6rungskarte_20260424-132143.png",
-          "info": "",
-          "alt": "Störungskarte 24.04.2026 13:21:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.04.2026 14:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dafc7c0d-b94e-49a8-9e46-e8c235f859b7",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section12"
-    },
-    {
       "id": "29565690-b98c-45c1-a0fe-f5d985dc72d6",
       "disruptionId": "ec394d6d-e6ae-42ed-8ded-d875472209e2",
       "author": "REGIO_BW",
@@ -406,18 +395,18 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Beeinträchtigungen nach Kabelbrand zwischen Stuttgart und Tübingen",
-      "summary": "Kein Zugverkehr zwischen Plochingen und Nürtingen. Die Züge der Linie RE 6 aus Richtung Sigmaringen beginnen und enden in Tübingen Hbf. Dauer der Beeinträchtigung bis 24.04.26, circa 18 Uhr. Der Grund ist die Folge aus einem Kabelbrand.  Ein Ersatzverkehr zwischen Plochingen über Wendlingen(Neckar) und Nürtingen ist eingerichtet. Nutzen Sie bitte zwischen Stuttgart - Plochingen die übrigen Züge und zwischen Nürtingen - Tübingen die Züge der Linien MEX12 und MEX 18, sowie zwischen Metzingen(Württ) und Tübingen Hbf die Züge der Linie RB63.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li></ul><p></p><p>Alternative: Reisende ab Tübingen können auch über Herrenberg (Umstieg) weiter nach Stuttgart fahren.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Störung nach Kabelbrand zwischen Plochingen und Nürtingen wurde behoben",
+      "summary": "Streckensperrung zwischen Plochingen und Nürtingen wurde aufgehoben. Die Züge der Linie RE 6 aus Richtung Sigmaringen fahren wieder auf dem regulären Weg zwischen Tübingen und Stuttgart. Der Grund war die Folge aus einem Kabelbrand. Aktuell ist noch ein Ersatzverkehr mit Bussen zwischen Plochingen über Wendlingen(Neckar) und Nürtingen ist eingerichtet, dieser endet in Kürze. In der Folge kommt es noch zu Verspätungen und Zugausfällen bis sich die Betriebslage wieder normalisiert hat.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "23.04.2026",
       "durationEnd": "24.04.2026",
       "mapHref": "https://karte.bahn.de/detail/ec394d6d-e6ae-42ed-8ded-d875472209e2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-24/3f1223fc-6210-4f9c-ab95-31a635c840b7st%25C3%25B6rungskarte_20260424-112939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-24/3f1223fc-6210-4f9c-ab95-31a635c840b7st%25C3%25B6rungskarte_20260424-112939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-24/dba9670f-106f-4f55-827e-b8a8d96fc337st%25C3%25B6rungskarte_20260424-153614.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-04-24/dba9670f-106f-4f55-827e-b8a8d96fc337st%25C3%25B6rungskarte_20260424-153614.png",
           "info": "",
-          "alt": "Störungskarte 24.04.2026 11:29:39",
+          "alt": "Störungskarte 24.04.2026 15:36:14",
           "openInNewTab": true
         }
       ],
@@ -441,7 +430,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.04.2026 11:54",
+      "lastModified": "24.04.2026 15:38",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -952,25 +941,25 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/modified_service_technical_problem_railway_section"
     },
     {
-      "id": "a6d6b8b3-ca19-43a5-82a5-cadd33d321c0",
-      "disruptionId": "605914ee-1161-4633-be65-90043c9dd400",
+      "id": "fb3b5ae8-0982-4a0e-b825-7da2703adc4b",
+      "disruptionId": "6f728c8b-4575-4dcf-a9c3-a38473437d17",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "Endmeldung: S 1 Moosach ↔ Flughafen",
-      "summary": "Die Züge können wieder zwischen Moosach und Flughafen fahren.",
-      "text": "<p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Die Reparatur an der Oberleitung wurde beendet.</p>",
+      "headline": "S 5 Höhenkirchen-Siegertsbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Die Störung besteht weiterhin, hat jedoch keine Auswirkungen auf den S-Bahn-Verkehr.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "24.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/605914ee-1161-4633-be65-90043c9dd400",
+      "mapHref": "https://karte.bahn.de/detail/6f728c8b-4575-4dcf-a9c3-a38473437d17",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/e4fda145-6df7-40fd-a8dd-62eb29378ad1st%25C3%25B6rungskarte_20260424-141211.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/e4fda145-6df7-40fd-a8dd-62eb29378ad1st%25C3%25B6rungskarte_20260424-141211.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/7f809f13-8b41-44f2-b8d2-e57647c325b2st%25C3%25B6rungskarte_20260424-145639.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-24/7f809f13-8b41-44f2-b8d2-e57647c325b2st%25C3%25B6rungskarte_20260424-145639.png",
           "info": "",
-          "alt": "Störungskarte 24.04.2026 14:12:11",
+          "alt": "Störungskarte 24.04.2026 14:56:39",
           "openInNewTab": true
         }
       ],
@@ -984,17 +973,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.04.2026 14:36",
+      "lastModified": "24.04.2026 16:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a6d6b8b3-ca19-43a5-82a5-cadd33d321c0",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/fb3b5ae8-0982-4a0e-b825-7da2703adc4b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "b5584621-7ec0-4d15-8dd5-7d956971a816",
