@@ -336,6 +336,61 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "64b4bd3b-34c8-4b13-992b-6cb01cc01abf",
+      "disruptionId": "d2a8f076-de70-42e6-ba12-9b6c076a5726",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Ulm Hbf - Memmingen",
+      "summary": "Reparatur an einem Signal ist beendet",
+      "text": "<p>Die Reparatur an einem Signal auf der Strecke zwischen <strong>Ulm Hbf und Memmingen, ist beendet.</strong> In der Folge kommt es vereinzelt noch zu Verspätungen, bis sich der Zugbetrieb wieder stabilisiert hat.</p><p></p><p>Bitte überprüfen Sie Ihre Verbindung noch einmal kurz vor der Reise.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "25.04.2026",
+      "durationEnd": "25.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/d2a8f076-de70-42e6-ba12-9b6c076a5726",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/df401fe6-b907-4093-91f7-20f8720cbb43st%25C3%25B6rungskarte_20260425-151824.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/df401fe6-b907-4093-91f7-20f8720cbb43st%25C3%25B6rungskarte_20260425-151824.png",
+          "info": "",
+          "alt": "Störungskarte 25.04.2026 15:18:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB RS7",
+          "filterName": "RB RS7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB RS71",
+          "filterName": "RB RS71",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.04.2026 16:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/64b4bd3b-34c8-4b13-992b-6cb01cc01abf",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -469,6 +524,57 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5ab22073-10c3-431b-87a3-b3511a56de8f",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
+    },
+    {
+      "id": "e7c877cc-4efb-4ebf-a565-1a2b96edc712",
+      "disruptionId": "738e3d41-513e-458f-8a1d-46e7b94ba07c",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Signalstörung zwischen Emskirchen und Neustadt(Aisch)",
+      "summary": "Aufgrund einer Störung an mehreren Signalen, kommt es zwischen Emskirchen und Neustadt (Aisch)  zu Verspätungen bei den Zügen der Linie  RE10, sowie der S6 (Nürnberg-Neustadt(Aisch)) von bis zu 30 Minuten. Bitte überprüfen Sie Ihre Reiseverbindung vor Fahrtantritt.,",
+      "text": "<p></p><p></p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "25.04.2026",
+      "durationEnd": "25.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/738e3d41-513e-458f-8a1d-46e7b94ba07c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/6b94f84f-2db6-4fa8-ba9c-955700a7e944st%25C3%25B6rungskarte_20260425-155541.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/6b94f84f-2db6-4fa8-ba9c-955700a7e944st%25C3%25B6rungskarte_20260425-155541.png",
+          "info": "",
+          "alt": "Störungskarte 25.04.2026 15:55:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.04.2026 16:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e7c877cc-4efb-4ebf-a565-1a2b96edc712",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -779,83 +885,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "e005b427-f1f8-4622-95a9-22b6b0f72c27",
-      "disruptionId": "06f89b0e-65e0-45f1-bdbe-753fc01e2860",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation für die Stammstrecke am 25. und 26. April Tagsüber",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke am Ostbahnhof kommt es am Samstag, den 25. April und am  Sonntag, den 26. April jeweils von 4 bis 16 Uhr zwischen Riem/Trudering/Ostbahnhof ↔ Pasing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.",
-      "text": "<p></p><p><strong>Änderung im Fahrplan:</strong></p><p><strong>S 1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 und halten nicht an der Hackerbrücke</li></ul><p></p><p><strong>S 2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof Gleis 6-13 und fahren von/bis Riem ohne Halt.</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Ostbahnhof</li></ul><p></p><p><strong>S 3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p></p><p><strong>S 4 Trudering/Ostbahnhof ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Trudering fallen zwischen Trudering/Ostbahnhof und Pasing aus.</li><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing.</li></ul><p></p><p>S 5 Kreuzstraße ↔ Pasing:</p><ul><li>Züge fahren planmäßig</li></ul><p></p><p><strong>S 6 Ebersberg ↔ Tutzing:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Ersatzverkehr mit Bus zwischen Trudering und Ostbahnhof.</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Heimeranplatz Gl. 11.</li></ul><p></p><p><strong>S 7 Hauptbahnhof ↔ Wolfratshausen:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p></p><p><strong>S 8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Zwischen Ostbahnhof und Pasing fahren die S 3, S 5 und S 8 planmäßig.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "25.04.2026",
-      "durationEnd": "26.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/06f89b0e-65e0-45f1-bdbe-753fc01e2860",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-25/07585f3f-55e0-41d8-b2f7-c690aaf841e4st%25C3%25B6rungskarte_20260411-074521.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-25/07585f3f-55e0-41d8-b2f7-c690aaf841e4st%25C3%25B6rungskarte_20260411-074521.png",
-          "info": "",
-          "alt": "Störungskarte 11.04.2026 07:45:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-25/270aca42-bd8f-4fd4-8b46-1742cf6497b3Fpl%252BS%252B1%252BS%252B2%252BS%252B4%252BS%252B6%252BSEV%252B25%252B26%252BApr.pdf",
-          "label": "Stammstrecke Fahrplan 25. und 26. April",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.04.2026 04:01",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e005b427-f1f8-4622-95a9-22b6b0f72c27",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
