@@ -353,12 +353,18 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "RP"
       ],
       "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
         {
           "name": "S 1",
           "filterName": "S 1 Rhein-Neckar",
@@ -370,7 +376,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.04.2026 18:48",
+      "lastModified": "25.04.2026 20:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
