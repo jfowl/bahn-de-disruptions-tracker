@@ -179,7 +179,7 @@
       },
       "headline": "❌ Einschränkungen auf der S3 und S5",
       "summary": "Aktuell kommt es auf der 🟣 S3 und 🔵 S5 zu Änderungen im Linienverlauf und Abweichungen vom Fahrplan.",
-      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong></p><p>Neugraben &lt;&gt; Wilhelmsburg </p><p>Wilhelmsburg &lt;&gt; Hammerbrook (Pendelzug)<strong> (ab 23:40 Uhr Ersatzverkehr mit Bussen)</strong></p><p>Hammerbrook &lt;&gt; Pinneberg</p><p><strong>🔵 Linie S5:</strong></p><p>Stade / Buxtehude &lt;&gt; Neugraben <strong>(letzte Anschlüsse in Neugraben: 0:12 Uhr in Richtung Wilhelmsburg und 0:52 Uhr in Richtung Stade)</strong></p><p>🔄 In Neugraben, Wilhelmsburg und Hammerbrook ist ein Umstieg erforderlich.</p><p>🕐 Es kann zu Verspätungen und Wartezeiten beim Umstieg kommen.</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
+      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong></p><p>Neugraben &lt;&gt; Wilhelmsburg</p><p>Wilhelmsburg &lt;&gt; Hauptbahnhof <strong>(Ersatzverkehr mit Bussen angefordert)</strong></p><p>Hauptbahnhof &lt;&gt; Pinneberg</p><p><strong>🔵 Linie S5:</strong></p><p>Stade / Buxtehude &lt;&gt; Neugraben <strong>(letzte Anschlüsse in Neugraben: 0:12 Uhr in Richtung Wilhelmsburg und 0:52 Uhr in Richtung Stade)</strong></p><p>🔄 In Neugraben, Wilhelmsburg und Hauptbahnhof ist ein Umstieg erforderlich.</p><p>🕐 Es kann zu Verspätungen und Wartezeiten beim Umstieg kommen.</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
       "durationBegin": "26.04.2026",
       "durationEnd": "27.04.2026",
       "mapHref": "https://karte.bahn.de/detail/e8e696b8-9ada-45a3-a150-108d80fc5054",
@@ -206,7 +206,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.04.2026 20:16",
+      "lastModified": "26.04.2026 21:43",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -444,6 +444,48 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "47c6e4f7-0135-47ba-91be-618bd39e83c0",
+      "disruptionId": "7ac6dff0-b19b-4fb5-8764-5a4440664976",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "❌ S3: Keine S-Bahnen zwischen Hauptbahnhof und Wilhelmsburg",
+      "summary": "Aktuell fahren zwischen Hauptbahnhof und Wilhelmsburg keine S-Bahnen. Ein Ersatzverkehr wurde angefordert. Grund: Notarzteinsatz an der Strecke",
+      "text": "<p>Weitere Informationen werden ermittelt.</p>",
+      "durationBegin": "26.04.2026",
+      "durationEnd": "26.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/7ac6dff0-b19b-4fb5-8764-5a4440664976",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.04.2026 21:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/47c6e4f7-0135-47ba-91be-618bd39e83c0",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -1041,25 +1083,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
-      "id": "c7870db7-5e1f-4c20-9cd6-71098933e971",
-      "disruptionId": "b08921d6-a425-4e02-82c2-daaa70c06a57",
+      "id": "7bd8860e-5504-444d-97a4-60cb3ae3f4e3",
+      "disruptionId": "c49fb27c-acda-4d4d-8bae-65e4d9a52759",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "Stammstrecke Pasing: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "Endmeldung: S 8 Flughafen ↔ Ismaning",
+      "summary": "Zwischen Flughafen und Ismaning ist die Strecke wieder freigegeben. ",
+      "text": "<p>Es kommt noch zu Folgeverspätungen.</p><p>Der Feuerwehreinsatz wurde beendet.</p>",
       "durationBegin": "26.04.2026",
       "durationEnd": "26.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/b08921d6-a425-4e02-82c2-daaa70c06a57",
+      "mapHref": "https://karte.bahn.de/detail/c49fb27c-acda-4d4d-8bae-65e4d9a52759",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/72c86d83-e933-492a-ad4e-ef6c2e48ec0bst%25C3%25B6rungskarte_20260426-204248.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/72c86d83-e933-492a-ad4e-ef6c2e48ec0bst%25C3%25B6rungskarte_20260426-204248.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/638ffe9e-32b2-413e-8102-3e15f3f18c50st%25C3%25B6rungskarte_20260426-212216.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/638ffe9e-32b2-413e-8102-3e15f3f18c50st%25C3%25B6rungskarte_20260426-212216.png",
           "info": "",
-          "alt": "Störungskarte 26.04.2026 20:42:48",
+          "alt": "Störungskarte 26.04.2026 21:22:16",
           "openInNewTab": true
         }
       ],
@@ -1073,47 +1115,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.04.2026 20:48",
+      "lastModified": "26.04.2026 21:32",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7870db7-5e1f-4c20-9cd6-71098933e971",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+      "detailPagePath": "/service/fahrplaene/7bd8860e-5504-444d-97a4-60cb3ae3f4e3",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
