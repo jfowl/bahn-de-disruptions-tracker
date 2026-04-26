@@ -164,6 +164,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "9c4aa37e-e02c-48cb-b85f-0147be2cd289",
+      "disruptionId": "e8e696b8-9ada-45a3-a150-108d80fc5054",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "❌ Einschränkungen auf der S3 und S5",
+      "summary": "Aktuell kommt es auf der 🟣 S3 und 🔵 S5 zu Änderungen im Linienverlauf und Abweichungen vom Fahrplan.",
+      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong>Neugraben &lt;&gt; Wilhelmsburg / Wilhelmsburg &lt;&gt; Hammerbrook (Pendelzug) / Hammerbrook &lt;&gt; Pinneberg</p><p><strong>🔵 Linie S5:</strong> Stade / Buxtehude &lt;&gt; Neugraben</p><p>🔄 In Neugraben, Wilhelmsburg und Hammerbrook ist ein Umstieg erforderlich.</p><p>🕐 Es kann zu Verspätungen und Wartezeiten beim Umstieg kommen.</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
+      "durationBegin": "26.04.2026",
+      "durationEnd": "26.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/e8e696b8-9ada-45a3-a150-108d80fc5054",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.04.2026 12:37",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c4aa37e-e02c-48cb-b85f-0147be2cd289",
+      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
+    },
+    {
       "id": "8fb849ac-d484-4e44-9dac-462fab6a70b1",
       "disruptionId": "a36fac5f-9656-4b35-83f1-153c43173f0a",
       "author": "FERNVERKEHR_AG",
@@ -1147,93 +1191,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5a9c640e-8f19-4244-84e0-d390ba0d39de",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
-    },
-    {
-      "id": "cde457c6-04c8-4715-909d-fde1edcde126",
-      "disruptionId": "382f4f2c-d050-4b86-9fd8-2cfe536ccb01",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 7 Pullach ↔ Höllriegelskreuth: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Pullach und Höllriegelskreuth kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen..",
-      "text": "<p>Die S - Bahnen fahren in dem betroffenen Bereich langsamer.</p><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "26.04.2026",
-      "durationEnd": "26.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/382f4f2c-d050-4b86-9fd8-2cfe536ccb01",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/44191169-41bd-4e53-bb86-d813f208ca89st%25C3%25B6rungskarte_20260426-113836.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/44191169-41bd-4e53-bb86-d813f208ca89st%25C3%25B6rungskarte_20260426-113836.png",
-          "info": "",
-          "alt": "Störungskarte 26.04.2026 11:38:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.04.2026 12:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cde457c6-04c8-4715-909d-fde1edcde126",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
-      "id": "9c4aa37e-e02c-48cb-b85f-0147be2cd289",
-      "disruptionId": "e8e696b8-9ada-45a3-a150-108d80fc5054",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "⚠️ Einschränkungen auf der S3 und S5",
-      "summary": "Aktuell kommt es auf der 🟣 S3 und 🔵 S5 zu Abweichungen vom Fahrplan. Die 🔵 S5 mit Sart/ Ziel Harburg Rathaus wird teilweise nach Barmbek umgeleitet.",
-      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong>teilweise mit Abweichungen vom Fahrplan</p><p><strong>🔵 Linie S5:</strong> Züge mit Start / Ziel Harburg Rathaus fahren zum Teil abweichend von und nach Barmbek</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
-      "durationBegin": "26.04.2026",
-      "durationEnd": "26.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/e8e696b8-9ada-45a3-a150-108d80fc5054",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.04.2026 11:59",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9c4aa37e-e02c-48cb-b85f-0147be2cd289",
-      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
