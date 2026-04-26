@@ -179,9 +179,9 @@
       },
       "headline": "❌ Einschränkungen auf der S3 und S5",
       "summary": "Aktuell kommt es auf der 🟣 S3 und 🔵 S5 zu Änderungen im Linienverlauf und Abweichungen vom Fahrplan.",
-      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong>Neugraben &lt;&gt; Wilhelmsburg / Wilhelmsburg &lt;&gt; Hammerbrook (Pendelzug) / Hammerbrook &lt;&gt; Pinneberg</p><p><strong>🔵 Linie S5:</strong> Stade / Buxtehude &lt;&gt; Neugraben</p><p>🔄 In Neugraben, Wilhelmsburg und Hammerbrook ist ein Umstieg erforderlich.</p><p>🕐 Es kann zu Verspätungen und Wartezeiten beim Umstieg kommen.</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
+      "text": "<p>Die einzelnen Linien fahren wie folgt:</p><p><strong>🟣 Linie S3: </strong></p><p>Neugraben &lt;&gt; Wilhelmsburg </p><p>Wilhelmsburg &lt;&gt; Hammerbrook (Pendelzug)<strong> (ab 23:40 Uhr Ersatzverkehr mit Bussen)</strong></p><p>Hammerbrook &lt;&gt; Pinneberg</p><p><strong>🔵 Linie S5:</strong></p><p>Stade / Buxtehude &lt;&gt; Neugraben <strong>(letzte Anschlüsse in Neugraben: 0:12 Uhr in Richtung Wilhelmsburg und 0:52 Uhr in Richtung Stade)</strong></p><p>🔄 In Neugraben, Wilhelmsburg und Hammerbrook ist ein Umstieg erforderlich.</p><p>🕐 Es kann zu Verspätungen und Wartezeiten beim Umstieg kommen.</p><p>🔊 Bitte die Anzeigen und Durchsagen an und im Zug beachten.</p><p>🔧 Grund: Störung an der Infrastruktur</p>",
       "durationBegin": "26.04.2026",
-      "durationEnd": "26.04.2026",
+      "durationEnd": "27.04.2026",
       "mapHref": "https://karte.bahn.de/detail/e8e696b8-9ada-45a3-a150-108d80fc5054",
       "images": [],
       "downloads": [],
@@ -206,7 +206,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.04.2026 19:00",
+      "lastModified": "26.04.2026 20:16",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1041,25 +1041,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
-      "id": "a6ff0040-9234-48f1-bf17-b4b220aee485",
-      "disruptionId": "04df2761-c8df-4e5f-9fb1-665f0dfa3079",
+      "id": "c7870db7-5e1f-4c20-9cd6-71098933e971",
+      "disruptionId": "b08921d6-a425-4e02-82c2-daaa70c06a57",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Endmeldung: S 6 Stockdorf",
-      "summary": "Die Züge können wieder im Bereich Stockdorf fahren.",
-      "text": "<p>Es&nbsp;kommt&nbsp;zu&nbsp;keinen Beeinträchtigungen mehr.&nbsp;</p><p>Der Polizeieinsatz ist beendet.</p>",
+      "headline": "Stammstrecke Pasing: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "26.04.2026",
       "durationEnd": "26.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/04df2761-c8df-4e5f-9fb1-665f0dfa3079",
+      "mapHref": "https://karte.bahn.de/detail/b08921d6-a425-4e02-82c2-daaa70c06a57",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/098d17a8-e31e-4f76-a760-a0c6645a64d9st%25C3%25B6rungskarte_20260426-195348.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/098d17a8-e31e-4f76-a760-a0c6645a64d9st%25C3%25B6rungskarte_20260426-195348.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/72c86d83-e933-492a-ad4e-ef6c2e48ec0bst%25C3%25B6rungskarte_20260426-204248.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/72c86d83-e933-492a-ad4e-ef6c2e48ec0bst%25C3%25B6rungskarte_20260426-204248.png",
           "info": "",
-          "alt": "Störungskarte 26.04.2026 19:53:48",
+          "alt": "Störungskarte 26.04.2026 20:42:48",
           "openInNewTab": true
         }
       ],
@@ -1073,17 +1073,47 @@
       ],
       "lines": [
         {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "26.04.2026 19:56",
-      "expand": false,
+      "lastModified": "26.04.2026 20:48",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a6ff0040-9234-48f1-bf17-b4b220aee485",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
+      "detailPagePath": "/service/fahrplaene/c7870db7-5e1f-4c20-9cd6-71098933e971",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
