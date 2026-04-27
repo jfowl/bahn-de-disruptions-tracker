@@ -133,15 +133,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Halle(Saale)Hbf ⇄ Halle-Nietleben - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt von Halle(Saale)Hbf bis Halle-Nietleben ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist die Beeinträchtigung durch Vandalismus.",
+      "summary": "Der Streckenabschnitt von Halle(Saale)Hbf bis Halle-Nietleben ist im Moment gesperrt. Dauer der Beeinträchtigung bis vsl. 28.04.26, 16:00 Uhr. Der Grund ist die Beeinträchtigung durch Vandalismus.",
       "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Borna - Geithain </li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Beeinträchtigung durch Vandalismus.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie S3 fallen zwischen Halle(Saale)Hbf und Halle-Nietleben aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
       "durationBegin": "27.04.2026",
-      "durationEnd": "27.04.2026",
+      "durationEnd": "28.04.2026",
       "mapHref": "https://karte.bahn.de/detail/4f6edc75-ac00-43e4-bb0e-e03bedbd85fe",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-27/ff47fb16-2f03-4059-a044-2197efd673abst%25C3%25B6rungskarte_20260427-021807.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-27/ff47fb16-2f03-4059-a044-2197efd673abst%25C3%25B6rungskarte_20260427-021807.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-27/43e39c71-6f56-4ed8-849d-7f5b1af339b0st%25C3%25B6rungskarte_20260427-021807.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-27/43e39c71-6f56-4ed8-849d-7f5b1af339b0st%25C3%25B6rungskarte_20260427-021807.png",
           "info": "",
           "alt": "Störungskarte 27.04.2026 02:18:07",
           "openInNewTab": true
@@ -163,7 +163,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.04.2026 06:27",
+      "lastModified": "27.04.2026 08:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -252,6 +252,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "b6f51dc0-3ce6-464a-bff8-ca9faf0ac68c",
+      "disruptionId": "aef001fe-6d1f-4ebc-b456-31b94bd64777",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Polizeieinsatz",
+      "summary": "Zwischen Deisenhofen und Holzkirchen ist die Strecke gesperrt. Die S-Bahnen wenden in Deisenhofen.",
+      "text": "<p>Ein Ersatzverkehr zwischen Deisenhofen und Holzkirchen ist in Planung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "27.04.2026",
+      "durationEnd": "27.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/aef001fe-6d1f-4ebc-b456-31b94bd64777",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/4c6593d5-bef7-472a-b1c4-a5df883c8956st%25C3%25B6rungskarte_20260427-103443.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/4c6593d5-bef7-472a-b1c4-a5df883c8956st%25C3%25B6rungskarte_20260427-103443.png",
+          "info": "",
+          "alt": "Störungskarte 27.04.2026 10:34:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.04.2026 10:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b6f51dc0-3ce6-464a-bff8-ca9faf0ac68c",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -343,6 +388,77 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "939fb9fc-05bb-4f29-975c-698137168170",
+      "disruptionId": "b3a0db01-24a0-41cc-a0d5-5596fbf2c48b",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Teil- und Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 27. April von 12:00 Uhr bis Betriebsschluss</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li><li>Die S8 mit Fahrtziel und -beginn in Kelsterbach, Frankfurt(M) Flughafen Regionalbf und Frankfurt(Main)Hbf fallen aus. Die S8 verkehrt somit im 30-Minuten-Takt.</li><li>Auf der RE20 und RB22 fallen die Züge aus zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>RE20 und RB22: Nutzen Sie die alternativ S1 und S2 zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "27.04.2026",
+      "durationEnd": "27.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/b3a0db01-24a0-41cc-a0d5-5596fbf2c48b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-27/a7bd33f0-720a-4eff-b6eb-7724ff844c2ast%25C3%25B6rungskarte_20260427-095550.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-27/a7bd33f0-720a-4eff-b6eb-7724ff844c2ast%25C3%25B6rungskarte_20260427-095550.png",
+          "info": "",
+          "alt": "Störungskarte 27.04.2026 09:55:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.04.2026 10:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/939fb9fc-05bb-4f29-975c-698137168170",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
