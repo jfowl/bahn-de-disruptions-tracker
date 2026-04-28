@@ -254,6 +254,94 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "975c182c-4b23-4e14-a629-df36637e6ac2",
+      "disruptionId": "6a670c49-630c-485a-bc61-8b6d6c4b9e90",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 1 Freising / Flughafen: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "28.04.2026",
+      "durationEnd": "28.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/6a670c49-630c-485a-bc61-8b6d6c4b9e90",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-28/032e62f6-4688-4624-811e-26bbe891f77est%25C3%25B6rungskarte_20260428-051306.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-28/032e62f6-4688-4624-811e-26bbe891f77est%25C3%25B6rungskarte_20260428-051306.png",
+          "info": "",
+          "alt": "Störungskarte 28.04.2026 05:13:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.04.2026 06:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/975c182c-4b23-4e14-a629-df36637e6ac2",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "eac6445d-6ee7-4975-a521-ff92037e08ba",
+      "disruptionId": "3b5e1e69-51bc-4451-aa17-758c2c4d0eb9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Karlsruhe",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Mannheim und Karlsruhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-, ICE- und TGV-Züge zwischen Mannheim - Karlsruhe - Bodensee/Schweiz/Frankreich</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3b5e1e69-51bc-4451-aa17-758c2c4d0eb9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-28/64a32243-13de-48b7-ae75-6faae313adefst%25C3%25B6rungskarte_20260428-042741.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-28/64a32243-13de-48b7-ae75-6faae313adefst%25C3%25B6rungskarte_20260428-042741.png",
+          "info": "",
+          "alt": "Störungskarte 28.04.2026 04:27:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.04.2026 04:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/eac6445d-6ee7-4975-a521-ff92037e08ba",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -611,95 +699,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
-    },
-    {
-      "id": "bbef98bb-92d4-4d59-90ba-2309b5e79ffd",
-      "disruptionId": "48374375-b16c-459e-918b-da4130de19ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke in den Nächten 27./28.4. bis 30.4./1.5.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es zwischen Pasing - Ostbahnhof/Giesing/Riem in den Nächten von 27., auf den 28.April, bis, 30.April auf den 01.Mai 2026 jeweils von 21:20 bis 4:40 Uhr zu Fahrplanänderungen, Umleitungen/Haltausfälle und Ersatzverkehr mit Bus.",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S 1: </strong>\t</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke)</li></ul><p><strong>S 2:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li></ul><p><strong>S 3:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p><strong>S 4:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S 5:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus</li></ul><p><strong>S 6/S 8:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Ersatzverkehr mit Bussen zwischenTrudering und Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li><li>Züge aus Richtung Tutzing fahren zum Flughafen</li><li>Züge aus Richtung Flughafen fahren nach Tutzing</li></ul><p><strong>S 7:</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "27.04.2026",
-      "durationEnd": "01.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/48374375-b16c-459e-918b-da4130de19ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/f1c09249-506e-445e-a15a-b9f5bd5194f2st%25C3%25B6rungskarte_20260427-205135.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/f1c09249-506e-445e-a15a-b9f5bd5194f2st%25C3%25B6rungskarte_20260427-205135.png",
-          "info": "",
-          "alt": "Störungskarte 27.04.2026 20:51:35",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/f2847dc6-50e4-4ab3-9498-5c2fdc6d238fst%25C3%25B6rungskarte_20260416-213902.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/f2847dc6-50e4-4ab3-9498-5c2fdc6d238fst%25C3%25B6rungskarte_20260416-213902.png",
-          "info": "",
-          "alt": "Störungskarte 16.04.2026 21:39:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-27/f60f1ecc-3c7e-4a77-a758-44ce412081feFpl%252BS1-S%252B8%252BSEV%252B27%252BApr-1%252BMai.pdf",
-          "label": "Stammstrecke+EV+27+Apr-1+Mai 2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.04.2026 21:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bbef98bb-92d4-4d59-90ba-2309b5e79ffd",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
