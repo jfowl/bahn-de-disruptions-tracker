@@ -263,6 +263,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "6edc994d-b163-444a-84b4-58c12292b109",
+      "disruptionId": "be28d9a5-3513-4547-b6e1-b4562d5dfe17",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 1 Moosach ↔ Freising/Flughafen",
+      "summary": "Die Züge können wieder zwischen Moosach und Freising/Flughafen fahren.",
+      "text": "<p>Der Ersatzverkehr mit Bussen wird 21:00 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "29.04.2026",
+      "durationEnd": "29.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/be28d9a5-3513-4547-b6e1-b4562d5dfe17",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
+          "info": "",
+          "alt": "Störungskarte 29.04.2026 19:26:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.04.2026 19:49",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6edc994d-b163-444a-84b4-58c12292b109",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -439,48 +484,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
-    },
-    {
-      "id": "ccfb856e-f80f-47ad-a0e9-b52b8fbeee27",
-      "disruptionId": "00d90f0a-7741-4245-ab7a-18df60283a56",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": " ⚠️  S3/S5: Einschränkungen auf der 🟣 S3 und 🔵 S5",
-      "summary": "Die S-Bahnen der 🟣 S3 fahren weiterhin zwischen Pinneberg und Neugraben. Die 🔵 S5 fährt nur zwischen Stade und Neugraben.",
-      "text": "<p>Zwischen Diebsteich und Hauptbahnhof bitte alternativ die 🔴 S2 nutzen.</p><p></p><p>Zwischen Elbgaustraße und Neugraben bitte alternativ die 🟣 S3 nutzen.</p><p></p><p>Grund: Signalstörung 🚦</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/00d90f0a-7741-4245-ab7a-18df60283a56",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 18:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ccfb856e-f80f-47ad-a0e9-b52b8fbeee27",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
@@ -907,96 +910,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5a9c640e-8f19-4244-84e0-d390ba0d39de",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
-    },
-    {
-      "id": "6edc994d-b163-444a-84b4-58c12292b109",
-      "disruptionId": "be28d9a5-3513-4547-b6e1-b4562d5dfe17",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 1 Oberschleißheim ↔ Lohhof: Reparatur an einem Signal",
-      "summary": "Zwischen Oberschleißheim und Lohhof kommt es in Richtung Neufahrn zu Verspätungen von bis zu 30 Minuten und vorzeitigen Wenden.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/be28d9a5-3513-4547-b6e1-b4562d5dfe17",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/ef2b8d02-a147-4835-8882-d2c3607616b0st%25C3%25B6rungskarte_20260429-171158.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/ef2b8d02-a147-4835-8882-d2c3607616b0st%25C3%25B6rungskarte_20260429-171158.png",
-          "info": "",
-          "alt": "Störungskarte 29.04.2026 17:11:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 17:48",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6edc994d-b163-444a-84b4-58c12292b109",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
-    },
-    {
-      "id": "1af127ee-62fd-4199-bf6d-4f552dfe0a43",
-      "disruptionId": "846c2beb-2331-4dec-85c0-921ee21222c1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Puchheim ↔ Pasing: Reparatur an der Strecke",
-      "summary": "Zwischen Puchheim und Pasing kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/846c2beb-2331-4dec-85c0-921ee21222c1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/d23297f7-d7c2-4f2a-97cd-595e7969de4est%25C3%25B6rungskarte_20260429-170152.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/d23297f7-d7c2-4f2a-97cd-595e7969de4est%25C3%25B6rungskarte_20260429-170152.png",
-          "info": "",
-          "alt": "Störungskarte 29.04.2026 17:01:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 17:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1af127ee-62fd-4199-bf6d-4f552dfe0a43",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
