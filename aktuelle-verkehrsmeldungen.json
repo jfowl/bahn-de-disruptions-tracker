@@ -10,14 +10,14 @@
         "label": "Streckensperrung"
       },
       "headline": "Beeinträchtigungen zwischen Osnabrück / Bielefeld und Hannover",
-      "summary": "Die Strecke ist wegen Beschädigungen der Gleise in Minden(W) gesperrt. Dadurch kommt es zu Umleitungen, Verspätungen & Ausfall von Halten bzw. Zügen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Berlin - Hannover - Hamm(W) - Ruhrgebiet werden umgeleitet und 60 Minuten verspätet. Die Halte Minden(W), Herford, Bielefeld &amp; Gütersloh entfallen. </li><li>ICE Züge zwischen Berlin und Amsterdam werden über Bremen umgeleitet und 70 Minuten verspätet. Die Halte Minden(W), Bad Oeynhausen &amp; Bünde(W) entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Die Strecke ist wegen Beschädigungen der Gleise in Minden(W) gesperrt. Dadurch kommt es zu Ausfällen von Zügen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Aachen - Köln - Hannover - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "29.04.2026",
       "mapHref": "https://karte.bahn.de/detail/ec1c98d8-6986-4ad9-a4dd-9474e3fb89b1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-29/018e25ad-1c7a-4e91-ad21-00f3cbe15853st%25C3%25B6rungskarte_20260429-045009.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-29/018e25ad-1c7a-4e91-ad21-00f3cbe15853st%25C3%25B6rungskarte_20260429-045009.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-29/c349b536-3845-43f5-bdf3-c816ba0f47f2st%25C3%25B6rungskarte_20260429-045009.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-29/c349b536-3845-43f5-bdf3-c816ba0f47f2st%25C3%25B6rungskarte_20260429-045009.png",
           "info": "",
           "alt": "Störungskarte 29.04.2026 04:50:09",
           "openInNewTab": true
@@ -42,7 +42,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.04.2026 05:23",
+      "lastModified": "29.04.2026 10:44",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8fee2ba5-2d6d-4257-8efa-6d9bfd123fc5",
@@ -125,6 +125,44 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "6edf4b76-76c8-4323-9242-7ca2e5d7d2f1",
+      "disruptionId": "8b078415-9408-4e0f-8311-3ab754a2a5b2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "S5: Entschärfung einer Fliegerbombe",
+      "summary": "S5: Zur Zeit kein Zugverkehr zwischen Neugraben <> Buxtehude. Grund: Entschärfung einer Fliegerbombe. Ein Ersatzverkehr ist eingerichtet. ",
+      "text": "<p>Die Züge der S5 fahren zwischen Stade &lt;&gt; Buxtehude und Elbgaustraße &lt;&gt; Neugraben.</p>",
+      "durationBegin": "29.04.2026",
+      "durationEnd": "29.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/8b078415-9408-4e0f-8311-3ab754a2a5b2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.04.2026 11:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6edf4b76-76c8-4323-9242-7ca2e5d7d2f1",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity1"
     },
     {
       "id": "a35fa81c-d965-4558-90a2-352f3a910297",
@@ -301,25 +339,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "b1c22abe-075f-469c-850c-860d418c36c7",
-      "disruptionId": "b3750348-df90-49bf-96df-b7224c05c414",
+      "id": "db062c5f-70d9-4ead-832c-1ddbce28aca3",
+      "disruptionId": "a74d4c78-6b23-42f6-b3b3-2c2aa2c15c8c",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "S 1 Freising und Flughafen: Reparatur an einem Signal",
-      "summary": "Die S-Bahnen der Linie S 1 verkehren bis auf weiteres zwischen Neufahrn und Freising sowie Neufahrn und Flughafen im 40-Minuten-Takt.\nIm Bereich Freising und Flughafen kommt es unter anderem zu Verspätungen von bis zu 20 Minuten und Teilausfällen.\n",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "28.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/b3750348-df90-49bf-96df-b7224c05c414",
+      "headline": "S 2 Dachau ↔ Petershausen: Kurzfristige Bauarbeiten",
+      "summary": "Aufgrund kurzfristiger Bauarbeiten werden die Züge der Linie S2 heute ab 22 Uhr bis Betriebsschluss zwischen Dachau ↔ Petershausen über die Fernbahn umgeleitet. Die Halte Hebertshausen, Röhrmoos und Vierkirchen-Esterhofen entfallen.",
+      "text": "<p>Folgende Züge enden außerplanmäßig in Dachau:</p><ul><li>S 2 Abfahrt Isartor 23:23 Uhr → Ankunft Dachau 23:51 Uhr</li><li>S 2 Abfahrt Isartor 00:03 Uhr → Ankunft Dachau 00:31 Uhr</li></ul><p>Dieser Zug verkehrt außerplanmäßig bis Petershausen:</p><ul><li>S 2 Abfahrt Isartor 23:43 Uhr → Ankunft Dachau 00:11 Uhr → Ankunft Petershausen 00:27 Uhr</li></ul><p></p><p>Für den Abschnitt zwischen Dachau ↔ Petershausen wurde ein Ersatzverkehr mit Bussen eingerichtet. Bitte nutzen Sie ausschließlich Fahrzeuge mit der speziell gekennzeichneten \"SEV\"-Beschilderung.</p><p><strong>Hinweise:</strong></p><p>Bitte beachten Sie, dass gleichzeitig Bauarbeiten auf der <strong>Stammstrecke</strong> stattfinden.</p><p>Rechnen Sie für die Dauer der Störung mit mehr Reisezeit und überprüfen Sie Ihre Verbindung vor Abfahrt auf www.s-bahn-muenchen.de oder in der App München Navigator.</p><p></p><p>Der Grund dafür sind kurzfristige Bauarbeiten.</p>",
+      "durationBegin": "29.04.2026",
+      "durationEnd": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/a74d4c78-6b23-42f6-b3b3-2c2aa2c15c8c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9b1ed292-bf01-44db-8109-acea52689550st%25C3%25B6rungskarte_20260428-220914.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9b1ed292-bf01-44db-8109-acea52689550st%25C3%25B6rungskarte_20260428-220914.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/8d673a5e-6805-4185-b1fa-441ff4f8a6afst%25C3%25B6rungskarte_20260429-111301.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/8d673a5e-6805-4185-b1fa-441ff4f8a6afst%25C3%25B6rungskarte_20260429-111301.png",
           "info": "",
-          "alt": "Störungskarte 28.04.2026 22:09:14",
+          "alt": "Störungskarte 29.04.2026 11:13:01",
           "openInNewTab": true
         }
       ],
@@ -333,17 +371,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.04.2026 08:03",
+      "lastModified": "29.04.2026 11:19",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b1c22abe-075f-469c-850c-860d418c36c7",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/db062c5f-70d9-4ead-832c-1ddbce28aca3",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -559,15 +597,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 2 Markt Schwaben ↔ Erding: Haltausfälle St. Koloman und Aufhausen",
-      "summary": "Die Züge der S 2 halten nicht in St. Koloman und Aufhausen, sondern durchfahren die Bahnhöfe in beiden Richtungen ohne Halt.",
-      "text": "<p><strong>Für betroffene Fahrgäste der beiden Stationen verkehren ersatzweise Busse im 20-Minuten-Takt zwischen Markt Schwaben und Erding mit Halt an allen Stationen. Die Fahrzeiten der Ersatzbusse sind in der Online-Verbindungsauskunft enthalten. </strong></p><p>Der Grund ist, dass die Streckengeschwindigkeit reduziert werden muss, da bei einer Inspektion Schäden am Gleis festgestellt wurden.</p><p>Diese sollen mit einer umfassenden Gleiserneuerung behoben werden, sodass die Strecke wieder mit regulärer Geschwindigkeit befahren werden kann.</p><p>Um bis dahin einen stabilen Betrieb im gewohnten Takt auf der eingleisigen Strecke anbieten zu können, müssen die Halte in St. Koloman und Aufhausen leider entfallen.</p><p>Die Fahrzeiten und das Fahrplanangebot auf allen übrigen Bahnhöfen der S 2 bleiben unverändert.</p>",
+      "summary": "Die Züge der S 2 halten bis einschließlich 01.05.2026 nicht in St. Koloman und Aufhausen, sondern durchfahren die Bahnhöfe in beiden Richtungen ohne Halt. Ab dem 02.05.2026, Betriebsbeginn halten die Pendel-S-Bahnen zwischen Markt Schwaben und Erding wieder in St. Koloman und Aufhausen.",
+      "text": "<p><strong>Für betroffene Fahrgäste der beiden Stationen verkehren ersatzweise Busse im 20-Minuten-Takt zwischen Markt Schwaben und Erding mit Halt an allen Stationen. Die Fahrzeiten der Ersatzbusse sind in der Online-Verbindungsauskunft enthalten. </strong></p><p>Der Grund ist, dass die Streckengeschwindigkeit reduziert werden muss, da bei einer Inspektion Schäden am Gleis festgestellt wurden.</p><p>Diese sollen mit einer umfassenden Gleiserneuerung behoben werden, sodass die Strecke wieder mit regulärer Geschwindigkeit befahren werden kann.</p><p>Um bis dahin einen stabilen Betrieb im gewohnten Takt auf der eingleisigen Strecke anbieten zu können, müssen die Halte in St. Koloman und Aufhausen leider entfallen.</p><p>Die Fahrzeiten und das Fahrplanangebot auf allen übrigen Bahnhöfen der S 2 bleiben unverändert.</p><p>Ab dem 02.05.2026, Betriebsbeginn halten die Pendel-S-Bahnen zwischen Markt Schwaben und Erding wieder regulär in St. Koloman und Aufhausen. Bitte beachten Sie die weiterführenden Informationen zu den Bauarbeiten Riem ↔ Markt Schwaben im Zeitraum 02.05. - 15.06.2026 unter dem Link \"Baustellen der Linie S2\".</p>",
       "durationBegin": "15.11.2025",
-      "durationEnd": "15.06.2026",
+      "durationEnd": "02.05.2026",
       "mapHref": "https://karte.bahn.de/detail/dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-28/f38bd135-e1e1-46a1-a9d7-28f7d7b1b81areisendenkarte_20260103-194509.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-28/f38bd135-e1e1-46a1-a9d7-28f7d7b1b81areisendenkarte_20260103-194509.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/2360021e-7354-432b-8f18-981aba25dc58reisendenkarte_20260103-194509.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/2360021e-7354-432b-8f18-981aba25dc58reisendenkarte_20260103-194509.png",
           "info": "",
           "alt": "Reisendenkarte 03.01.2026 19:45:09",
           "openInNewTab": true
@@ -575,7 +613,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-28/c19f4765-d0bd-47a2-9e8c-ff6edf068cb5St.%2BKoloman%2BBahnhofsplan%2Bund%2BErsatzverkehr.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/b2c95609-4502-4fdd-b854-9aa4724965f6St.%2BKoloman%2BBahnhofsplan%2Bund%2BErsatzverkehr.pdf",
           "label": "St. Koloman Bahnhofsplan und Ersatzverkehr",
           "info": "",
           "openInNewTab": true
@@ -602,9 +640,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.04.2026 13:11",
+      "lastModified": "29.04.2026 11:35",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
     },
@@ -770,8 +809,8 @@
       "mapHref": "https://karte.bahn.de/detail/128af483-44c0-4265-b3d5-abd368a29438",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-28/743f2ca2-b644-418d-9bfd-7aa31a1f7d91st%25C3%25B6rungskarte_20260424-162810.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-28/743f2ca2-b644-418d-9bfd-7aa31a1f7d91st%25C3%25B6rungskarte_20260424-162810.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/4482059e-6bbf-4729-8f6c-c464a40b86c9st%25C3%25B6rungskarte_20260424-162810.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/4482059e-6bbf-4729-8f6c-c464a40b86c9st%25C3%25B6rungskarte_20260424-162810.png",
           "info": "",
           "alt": "Störungskarte 24.04.2026 16:28:10",
           "openInNewTab": true
@@ -779,8 +818,8 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-28/b5750c94-a8ee-4fc0-8bfe-3aacb03f19a0Ersatzfahrplan%2BLinie%2BS%2B1%252C%2BRE%2B20%2B%2B29.04.-30.04.2026.pdf",
-          "label": "Ersatzfahrplan Linie S 1, RE 20  29.04.-30.04.2026",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/0bdf27f8-7801-4321-9ec5-9835e5a107eaErsatzverkehr%2BRE%2B20%2BS1%2BTangerh%25C3%25BCtte%2B-%2BWolmirstedt.pdf",
+          "label": "Ersatzverkehr RE 20 S1 ",
           "info": "",
           "openInNewTab": true
         }
@@ -805,7 +844,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.04.2026 19:52",
+      "lastModified": "29.04.2026 11:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
