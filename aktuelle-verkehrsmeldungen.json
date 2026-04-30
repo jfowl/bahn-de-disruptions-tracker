@@ -142,7 +142,14 @@
       "mapHref": "https://karte.bahn.de/detail/ada86ee7-8b91-4b7f-8cd4-c0bfc75ce4af",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-hamburg.de/fahrplan/verkehrsmeldungen/Busse-statt-S-Bahn--Wilhelmsburg-Neugraben",
+          "label": "Weitere Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "SBAHN",
         "REGIONAL"
@@ -173,7 +180,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.04.2026 16:22",
+      "lastModified": "30.04.2026 10:32",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5f50abef-0cfc-412c-8b08-9b26ef6d2e9e",
@@ -352,6 +359,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "fe25d6cf-b2bf-4c37-a262-7b0f601ee94d",
+      "disruptionId": "566c3a20-976d-40d7-aa5e-061d626b1dd3",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigung aufgrund eines Polizeieinsatzes",
+      "summary": "Beeinträchtigungen der Linien RE22\n",
+      "text": "<p>Aufgrund eines Polizeieinsatzes kommt es derzeit zu Beeinträchtigung.</p><p>Auf den <strong>Linien RE22 </strong>kommt es aktuell zu Verspätungen und Teilausfällen.</p><p>Weitere Informationen zu Verzögerungen und Ausfällen finden Sie in den digitalen Reisendeninformationskanälen.</p>",
+      "durationBegin": "01.05.2026",
+      "durationEnd": "01.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/566c3a20-976d-40d7-aa5e-061d626b1dd3",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/detail/566c3a20-976d-40d7-aa5e-061d626b1dd3",
+          "label": "Zur Störungskarte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE22",
+          "filterName": "Bus RE22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.04.2026 10:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fe25d6cf-b2bf-4c37-a262-7b0f601ee94d",
+      "magnoliaPath": "/aktuell/impairment_police_activity"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -750,25 +801,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
-      "id": "b287a376-4010-4bbf-a64c-9cb66c55fb5f",
-      "disruptionId": "92e0751e-c166-4032-b79b-15e9f4729415",
+      "id": "eb88e7fc-bc18-41c2-b1c6-ba2217650b9a",
+      "disruptionId": "fe202be8-efd0-4b0d-ac0c-3fa8dece7916",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 1 Feldmoching: Reparatur an einem Signal",
-      "summary": "Im Bereich Feldmoching kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 7 Ebenhausen-Schäftlarn: Reparatur an der Strecke",
+      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es in beiden Richtungen zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "30.04.2026",
       "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/92e0751e-c166-4032-b79b-15e9f4729415",
+      "mapHref": "https://karte.bahn.de/detail/fe202be8-efd0-4b0d-ac0c-3fa8dece7916",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/4f1780bd-673a-432d-b662-071b52d9cd0est%25C3%25B6rungskarte_20260430-092706.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/4f1780bd-673a-432d-b662-071b52d9cd0est%25C3%25B6rungskarte_20260430-092706.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/485f2a06-538f-40bf-8689-843c55f129d7st%25C3%25B6rungskarte_20260430-110317.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/485f2a06-538f-40bf-8689-843c55f129d7st%25C3%25B6rungskarte_20260430-110317.png",
           "info": "",
-          "alt": "Störungskarte 30.04.2026 09:27:06",
+          "alt": "Störungskarte 30.04.2026 11:03:17",
           "openInNewTab": true
         }
       ],
@@ -782,17 +833,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.04.2026 09:28",
+      "lastModified": "30.04.2026 11:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b287a376-4010-4bbf-a64c-9cb66c55fb5f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+      "detailPagePath": "/service/fahrplaene/eb88e7fc-bc18-41c2-b1c6-ba2217650b9a",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
