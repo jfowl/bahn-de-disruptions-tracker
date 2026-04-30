@@ -239,19 +239,20 @@
       "durationBegin": "30.04.2026",
       "durationEnd": "01.05.2026",
       "mapHref": "https://karte.bahn.de/detail/0e54e645-6942-46fb-89d0-44d505a467d6",
-      "images": [],
-      "downloads": [
+      "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/76f637ce-07fe-440d-b5f8-6006356fff74st%25C3%25B6rungskarte_20260430-224556.png",
-          "label": "Störungskarte 30.04.2026 22:45:56",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/62fd3fa2-c62f-444e-b1c5-1feeba269521st%25C3%25B6rungskarte_20260430-224556.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/62fd3fa2-c62f-444e-b1c5-1feeba269521st%25C3%25B6rungskarte_20260430-224556.png",
           "info": "",
+          "alt": "Störungskarte 30.04.2026 22:45:56",
           "openInNewTab": true
         }
       ],
+      "downloads": [],
       "links": [
         {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
@@ -262,8 +263,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "https://bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         },
@@ -298,7 +299,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.04.2026 23:25",
+      "lastModified": "30.04.2026 23:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -544,51 +545,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "079e0490-3151-456b-a18c-1a93f83965be",
-      "disruptionId": "05ff24a4-83f2-4f0c-acac-7812174a78b9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "S 2 Riem ↔ Ostbahnhof: Technischer Defekt an einem anderen Zug",
-      "summary": "Zwischen Riem und Ostbahnhof kommt es zu Verspätungen von 10 bis 15 Minuten .\n",
-      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
-      "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/05ff24a4-83f2-4f0c-acac-7812174a78b9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/366f1252-f779-46e7-9699-4020d17cab16st%25C3%25B6rungskarte_20260430-223452.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/366f1252-f779-46e7-9699-4020d17cab16st%25C3%25B6rungskarte_20260430-223452.png",
-          "info": "",
-          "alt": "Störungskarte 30.04.2026 22:34:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.04.2026 22:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/079e0490-3151-456b-a18c-1a93f83965be",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -1021,64 +977,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "5a9c640e-8f19-4244-84e0-d390ba0d39de",
-      "disruptionId": "128af483-44c0-4265-b3d5-abd368a29438",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Wolmirstedt ⇄ Tangerhütte - Ersatzverkehr",
-      "summary": "Der Streckenabschnitt zwischen Wolmirstedt und Tangerhütte ist im Moment beeinträchtigt.   Aufgrund eines Gleislagefehlers in Zielitz sind Bauarbeiten im Zeitraum vom 29. April (0.30 Uhr) bis 1. Mai (0.30 Uhr) notwendig",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Aufgrund eines Gleislagefehlers in Zielitz sind Bauarbeiten im Zeitraum vom 29. April (0.30 Uhr) bis 1. Mai (0.30 Uhr) notwendig</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Kein Zugverkehr zwischen Wolmirstedt und Tangerhütte am 29. und 30.04. wegen einer kurzfristigen Reparatur an der Strecke. </p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen wird eingerichtet. Bitte informieren Sie sich vor Reiseantritt in der Online-Auskunft über den Fahrplan. Bitte planen Sie mehr Zeit für ihre Reise ein.</p><p>✅ Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "01.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/128af483-44c0-4265-b3d5-abd368a29438",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/4482059e-6bbf-4729-8f6c-c464a40b86c9st%25C3%25B6rungskarte_20260424-162810.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/4482059e-6bbf-4729-8f6c-c464a40b86c9st%25C3%25B6rungskarte_20260424-162810.png",
-          "info": "",
-          "alt": "Störungskarte 24.04.2026 16:28:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-29/0bdf27f8-7801-4321-9ec5-9835e5a107eaErsatzverkehr%2BRE%2B20%2BS1%2BTangerh%25C3%25BCtte%2B-%2BWolmirstedt.pdf",
-          "label": "Ersatzverkehr RE 20 S1 ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 11:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5a9c640e-8f19-4244-84e0-d390ba0d39de",
-      "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
