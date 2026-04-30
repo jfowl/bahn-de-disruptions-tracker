@@ -49,22 +49,35 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
-      "id": "8c9da8a2-9838-4b00-bf03-82143eb4e296",
-      "disruptionId": "e8ddf1e4-7267-457d-a4ce-642d70e604be",
+      "id": "b507c3aa-b10f-40cb-b409-dca3a11d48f4",
+      "disruptionId": "63d9acc3-7f2b-4869-a3d3-5f627e4aeba2",
       "author": "REGIO_NORDOST",
       "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "RE 15: Störung.",
-      "summary": "Ausfall RE181288 von Ruhland (16:02) bis Hoyerswerda. Grund: Feuerwehreinsatz an der Strecke. Nutzen Sie den nachfolgenden Zug ab Ruhland und prüfen Sie bitte Ihre Reiseverbindung vor Antritt der Fahrt.",
-      "text": "<p></p>",
+      "headline": "Verkehrsmeldung für die Linie RE 5 - Stralsund / Rostock - Neustrelitz - Berlin Südkreuz\nvon Freitag, 01.05.2026 bis Sonntag, 03.05.2026 jeweils in der Zeit von 23:50 Uhr bis 04:30 Uhr ",
+      "summary": " Freitag, 01.05.2026 23:50 Uhr bis vsl. Sonntag, 03.05.2026  04:30 Uhr ",
+      "text": "<p>RE5 Rostock/Stralsund – Neustrelitz – Berlin</p><p>Aufgrund einer Streckensperrung kommt es in den Nächten 01./02.05. und 02./03.05. von 23:50 Uhr bis 04:30 Uhr zu Fahrtausfälle zwischen Oranienburg - Neustrelitz - Oranienburg</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/e8ddf1e4-7267-457d-a4ce-642d70e604be",
+      "durationEnd": "03.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/63d9acc3-7f2b-4869-a3d3-5f627e4aeba2",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -75,17 +88,17 @@
       ],
       "lines": [
         {
-          "name": "RE 15",
-          "filterName": "RE 15",
+          "name": "RE 5",
+          "filterName": "RE 5",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.04.2026 16:18",
+      "lastModified": "30.04.2026 18:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8c9da8a2-9838-4b00-bf03-82143eb4e296",
-      "magnoliaPath": "/aktuell/nordost/impairment_unknown_cause2"
+      "detailPagePath": "/service/fahrplaene/b507c3aa-b10f-40cb-b409-dca3a11d48f4",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -164,45 +177,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "d0365862-1b3f-424b-8708-af503c450601",
-      "disruptionId": "09da54eb-9845-4678-8051-06d65ed31da1",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Nähere Informationen in Kürze"
-      },
-      "headline": "RE 11: Information.",
-      "summary": "Ausfall RE18193 von Hoyerswerda (16:33) bis Ruhland. Grund: Feuerwehreinsatz an der Strecke. Nutzen Sie den nachfolgenden Zug ab Hoyerswerda und prüfen Sie bitte Ihre Reiseverbindung vor Antritt der Fahrt.",
-      "text": "<p></p>",
-      "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/09da54eb-9845-4678-8051-06d65ed31da1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 11",
-          "filterName": "RE 11",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.04.2026 16:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d0365862-1b3f-424b-8708-af503c450601",
-      "magnoliaPath": "/aktuell/nordost/other_effect_other_cause89"
     },
     {
       "id": "2f1c0322-96d3-4383-bb53-233853175bfc",
@@ -409,14 +383,14 @@
       },
       "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Feuerwehreinsatz",
       "summary": "Die Strecke ist zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen und Teilausfällen sowie Umleitungen. Der Grund hierfür ist ein Feuerwehreinsatz.",
-      "text": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>Alternativen</strong>:</p><ul><li><ul><li>Hauptbahnhof ↔ Deisenhofen: <strong>Züge der BOB </strong></li><li>Deisenhofen ↔ Neuperlach Süd: <strong>Bus 222</strong> Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong>S 5 Kreuzstraße ↔ Perlach</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen entfallen.</strong></p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen <strong>Ostbahnhof </strong>und <strong>Deisenhofen</strong>, sowieso zwischen <strong>Ostbahnhof </strong>und <strong>Perlach </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "text": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>Alternativen</strong>:</p><ul><li><ul><li>Hauptbahnhof ↔ Deisenhofen: <strong>Züge der BOB </strong></li><li>Deisenhofen ↔ Neuperlach Süd: <strong>Bus 222</strong> Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong>S 5 Kreuzstraße ↔ Perlach</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Ostbahnhof </strong>und <strong>Deisenhofen</strong>, sowieso zwischen <strong>Ostbahnhof </strong>und <strong>Perlach </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
       "durationBegin": "30.04.2026",
       "durationEnd": "30.04.2026",
       "mapHref": "https://karte.bahn.de/detail/2d09f56a-0c57-4c78-af2d-23e9a1a95e2d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/bfb6082b-75b3-4456-8685-5c37d01bce2dst%25C3%25B6rungskarte_20260430-144410.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/bfb6082b-75b3-4456-8685-5c37d01bce2dst%25C3%25B6rungskarte_20260430-144410.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/a874302c-67f1-4e69-ac27-26f931423fcbst%25C3%25B6rungskarte_20260430-144410.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/a874302c-67f1-4e69-ac27-26f931423fcbst%25C3%25B6rungskarte_20260430-144410.png",
           "info": "",
           "alt": "Störungskarte 30.04.2026 14:44:10",
           "openInNewTab": true
@@ -442,7 +416,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.04.2026 14:45",
+      "lastModified": "30.04.2026 19:31",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -675,47 +649,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c01088d4-3958-40cc-863a-ca6530e23d2e",
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "caeac74e-878f-497e-b2ee-6c5a86fded97",
-      "disruptionId": "80d57554-93d6-40d2-bd6a-eb475f8ee86f",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Mühldorf - München / Donnerstag, 16.04.2026 bis Donnerstag, 30.04.2026 / Bauarbeiten",
-      "summary": "von Donnerstag, 16.04.2026 bis Donnerstag, 30.04.2026",
-      "text": "<p>Aufgrund Reparaturen auf der Strecken zwischen Mühldorf und München, fällt von 16. bis 30. April die RB 27059 mit Abfahrt in München Ost um 18:40 Uhr aus. Bitte nutzen Sie die nächste Verbindung. </p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
-      "durationBegin": "16.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/80d57554-93d6-40d2-bd6a-eb475f8ee86f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RB40",
-          "filterName": "Bus RB40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.04.2026 15:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/caeac74e-878f-497e-b2ee-6c5a86fded97",
-      "magnoliaPath": "/aktuell/suedostbayernbahn/reduced_service_technical_problem_railway_section37"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
