@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "36c3293e-e470-4db8-89c4-b92e0d857132",
+      "disruptionId": "7e497dfc-4969-4671-8c6b-131f8ff97ac1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg/Wolfsburg und Berlin",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Stendal und Berlin kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um bis zu 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE - Züge zwischen Hamburg und Berlin</li><li>ICE - Züge zwischen Hannover und Berlin</li><li>ICE - Züge zwischen Braunschweig und Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/7e497dfc-4969-4671-8c6b-131f8ff97ac1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-30/91b56992-38d7-4aae-ae51-a8685f557b01st%25C3%25B6rungskarte_20260430-203219.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-30/91b56992-38d7-4aae-ae51-a8685f557b01st%25C3%25B6rungskarte_20260430-203219.png",
+          "info": "",
+          "alt": "Störungskarte 30.04.2026 20:32:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.04.2026 20:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/36c3293e-e470-4db8-89c4-b92e0d857132",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "8fee2ba5-2d6d-4257-8efa-6d9bfd123fc5",
       "disruptionId": "ec1c98d8-6986-4ad9-a4dd-9474e3fb89b1",
       "author": "FERNVERKEHR_AG",
@@ -58,7 +105,7 @@
       },
       "headline": "Verkehrsmeldung für die Linie RE 5 - Stralsund / Rostock - Neustrelitz - Berlin Südkreuz\nvon Freitag, 01.05.2026 bis Sonntag, 03.05.2026 jeweils in der Zeit von 23:50 Uhr bis 04:30 Uhr ",
       "summary": " Freitag, 01.05.2026 23:50 Uhr bis vsl. Sonntag, 03.05.2026  04:30 Uhr ",
-      "text": "<p>RE5 Rostock/Stralsund – Neustrelitz – Berlin</p><p>Aufgrund einer Streckensperrung kommt es in den Nächten 01./02.05. und 02./03.05. von 23:50 Uhr bis 04:30 Uhr zu Fahrtausfälle zwischen Oranienburg - Neustrelitz - Oranienburg</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>RE5 Rostock/Stralsund – Neustrelitz – Berlin</p><p>Aufgrund einer Streckensperrung kommt es in den Nächten 01./02.05. und 02./03.05. von 23:50 Uhr bis 04:30 Uhr zu Fahrtausfälle zwischen Oranienburg - Fürstenberg (Havel)  - Oranienburg</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "30.04.2026",
       "durationEnd": "03.05.2026",
       "mapHref": "https://karte.bahn.de/detail/63d9acc3-7f2b-4869-a3d3-5f627e4aeba2",
@@ -66,14 +113,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -93,7 +140,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.04.2026 18:47",
+      "lastModified": "30.04.2026 20:00",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -381,16 +428,16 @@
         "category": "police_activity",
         "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Feuerwehreinsatz",
-      "summary": "Die Strecke ist zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen und Teilausfällen sowie Umleitungen. Der Grund hierfür ist ein Feuerwehreinsatz.",
-      "text": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>Alternativen</strong>:</p><ul><li><ul><li>Hauptbahnhof ↔ Deisenhofen: <strong>Züge der BOB </strong></li><li>Deisenhofen ↔ Neuperlach Süd: <strong>Bus 222</strong> Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong>S 5 Kreuzstraße ↔ Perlach</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen <strong>Ostbahnhof </strong>und <strong>Deisenhofen</strong>, sowieso zwischen <strong>Ostbahnhof </strong>und <strong>Perlach </strong>eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "headline": "Endmeldung: Ersatzprogramm Ostbahnhof ↔ Giesing",
+      "summary": "Die Linien S 3 und S 5 verkehren wieder auf Regelweg mit allen Halten. ",
+      "text": "<p>Der Feuerwehreinsatz wurde beendet.</p>",
       "durationBegin": "30.04.2026",
       "durationEnd": "30.04.2026",
       "mapHref": "https://karte.bahn.de/detail/2d09f56a-0c57-4c78-af2d-23e9a1a95e2d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/a874302c-67f1-4e69-ac27-26f931423fcbst%25C3%25B6rungskarte_20260430-144410.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/a874302c-67f1-4e69-ac27-26f931423fcbst%25C3%25B6rungskarte_20260430-144410.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/879e00ef-6826-4ce5-b084-b5581107d4cbst%25C3%25B6rungskarte_20260430-144410.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/879e00ef-6826-4ce5-b084-b5581107d4cbst%25C3%25B6rungskarte_20260430-144410.png",
           "info": "",
           "alt": "Störungskarte 30.04.2026 14:44:10",
           "openInNewTab": true
@@ -416,7 +463,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.04.2026 19:31",
+      "lastModified": "30.04.2026 20:18",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -912,6 +959,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5a9c640e-8f19-4244-84e0-d390ba0d39de",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
+    },
+    {
+      "id": "0eb0669e-efe0-4017-991b-1c50391c2024",
+      "disruptionId": "9b4f6d04-fd07-4fcd-abe7-1476193eb0e0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Feldmoching: Reparatur an einem Signal",
+      "summary": "Im Bereich Feldmoching kommt es zu Verspätungen von bis zu 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "30.04.2026",
+      "durationEnd": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/9b4f6d04-fd07-4fcd-abe7-1476193eb0e0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/ab3f8c01-dd04-4934-9751-f504adab4b19st%25C3%25B6rungskarte_20260430-195833.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/ab3f8c01-dd04-4934-9751-f504adab4b19st%25C3%25B6rungskarte_20260430-195833.png",
+          "info": "",
+          "alt": "Störungskarte 30.04.2026 19:58:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.04.2026 20:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0eb0669e-efe0-4017-991b-1c50391c2024",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
