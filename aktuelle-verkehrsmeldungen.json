@@ -194,8 +194,8 @@
       "mapHref": "https://karte.bahn.de/detail/0e54e645-6942-46fb-89d0-44d505a467d6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/62fd3fa2-c62f-444e-b1c5-1feeba269521st%25C3%25B6rungskarte_20260430-224556.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/62fd3fa2-c62f-444e-b1c5-1feeba269521st%25C3%25B6rungskarte_20260430-224556.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-05-01/a96e8cdd-1071-48a1-9fab-61748cdd9c47st%25C3%25B6rungskarte_20260430-224556.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-05-01/a96e8cdd-1071-48a1-9fab-61748cdd9c47st%25C3%25B6rungskarte_20260430-224556.png",
           "info": "",
           "alt": "Störungskarte 30.04.2026 22:45:56",
           "openInNewTab": true
@@ -204,8 +204,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         },
@@ -216,14 +222,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "Fahrgastrechte ",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         }
@@ -242,6 +242,11 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 6x",
+          "filterName": "RE 6x",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 7",
           "filterName": "RE 7",
           "property": "REGIONAL"
@@ -252,7 +257,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "30.04.2026 23:38",
+      "lastModified": "01.05.2026 05:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
