@@ -68,14 +68,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         }
@@ -121,12 +121,50 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.04.2026 10:30",
+      "lastModified": "04.05.2026 13:04",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "ec049917-c57d-4c0d-b671-ce34ca5fb970",
+      "disruptionId": "842ab878-4a0b-47ec-9cac-85e58ff67e0f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S5: Aktuell nur Fahrten zwischen Stade und Diebsteich",
+      "summary": "Die S5 fährt aktuell nur zwischen Stade und Diebsteich. Der Grund sind kurzfristige Bauarbeiten an der Strecke.",
+      "text": "<p>Bitte nutzen Sie zwischen Pinneberg/Elbgaustraße und Diebsteich die Züge der Linie S3.</p>",
+      "durationBegin": "04.05.2026",
+      "durationEnd": "04.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/842ab878-4a0b-47ec-9cac-85e58ff67e0f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.05.2026 12:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ec049917-c57d-4c0d-b671-ce34ca5fb970",
+      "magnoliaPath": "/aktuell/nord/no_service_construction"
     },
     {
       "id": "d8901a43-7301-442f-9cd3-04ccd3a33e33",
@@ -477,8 +515,8 @@
       "mapHref": "https://karte.bahn.de/detail/0b0ead2f-3173-4565-8fc7-f723a335dafd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-04/fbe73477-0a34-4891-a0aa-c3ba35bc3d78st%25C3%25B6rungskarte_20260504-094651.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-04/fbe73477-0a34-4891-a0aa-c3ba35bc3d78st%25C3%25B6rungskarte_20260504-094651.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-04/17c45c90-5c15-4596-a457-6e0f9f6f4f6dst%25C3%25B6rungskarte_20260504-094651.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-04/17c45c90-5c15-4596-a457-6e0f9f6f4f6dst%25C3%25B6rungskarte_20260504-094651.png",
           "info": "",
           "alt": "Störungskarte 04.05.2026 09:46:51",
           "openInNewTab": true
@@ -499,7 +537,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.05.2026 11:15",
+      "lastModified": "04.05.2026 13:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -596,51 +634,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "27081d41-15ba-41bd-8d82-0b4038ae02ad",
-      "disruptionId": "65c9cb77-129f-45a1-ae77-18a3a52732c6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 7 Ebenhausen-Schäftlarn ↔ Wolfratshausen",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen kommt es zu geringen Kreuzungsverspätungen .",
-      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
-      "durationBegin": "04.05.2026",
-      "durationEnd": "04.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/65c9cb77-129f-45a1-ae77-18a3a52732c6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-04/2977fdb4-3f97-49e2-a634-a261514885b8st%25C3%25B6rungskarte_20260504-095304.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-04/2977fdb4-3f97-49e2-a634-a261514885b8st%25C3%25B6rungskarte_20260504-095304.png",
-          "info": "",
-          "alt": "Störungskarte 04.05.2026 09:53:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.05.2026 10:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/27081d41-15ba-41bd-8d82-0b4038ae02ad",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
