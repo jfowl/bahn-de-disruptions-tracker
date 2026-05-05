@@ -80,44 +80,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "e6dd3059-e91e-465c-a3aa-70c633bd4a71",
-      "disruptionId": "0eaf21d5-011e-441e-bfea-3e8032d8b5a0",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5: Fährt zwischen Stade und Diebsteich",
-      "summary": "Die S5 fährt zwischen Stade und Diebsteich. Der Grund ist eine technische Störung an der Strecke.",
-      "text": "<p>Bitte nutzen Sie zwischen Pinneberg/Elbgaustraße und Diebsteich die S3. </p>",
-      "durationBegin": "05.05.2026",
-      "durationEnd": "05.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/0eaf21d5-011e-441e-bfea-3e8032d8b5a0",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.05.2026 10:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e6dd3059-e91e-465c-a3aa-70c633bd4a71",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "5f50abef-0cfc-412c-8b08-9b26ef6d2e9e",
       "disruptionId": "ada86ee7-8b91-4b7f-8cd4-c0bfc75ce4af",
       "author": "S_BAHN_HH",
@@ -352,6 +314,50 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "ff87e1fc-b993-4447-88fe-1666164f61f8",
+      "disruptionId": "f4785412-5dd9-4508-90c5-0506cd1710bf",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Düsseldorf und Duisburg",
+      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Düsseldorf und Duisburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es entstehen Verspätungen von 10 Minuten. Einzelne Züge entfallen zwischen Essen und Düsseldorf.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC/EC-Züge zwischen Düsseldorf Hbf und Duisburg Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/f4785412-5dd9-4508-90c5-0506cd1710bf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-05/23200fb2-2f3b-44ee-8d2d-18e299342d72st%25C3%25B6rungskarte_20260505-053734.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-05/23200fb2-2f3b-44ee-8d2d-18e299342d72st%25C3%25B6rungskarte_20260505-053734.png",
+          "info": "",
+          "alt": "Störungskarte 05.05.2026 05:37:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.05.2026 13:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ff87e1fc-b993-4447-88fe-1666164f61f8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -446,7 +452,7 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Kurzfristiger Personalausfall auf einem Stellwerk",
+      "headline": "Kurzfristiger Personalausfall auf einem Stellwerk zwischen Bad Mergentheim und Crailsheim",
       "summary": "Im Zeitraum vom 06.05. bis 10.05. kommt es werktags im Zeitraum bis 6 Uhr und ab 16 Uhr und Samstag/Sonntag bis 8 Uhr und ab 18 Uhr zwischen Bad Mergentheim und Crailsheim zu Zugausfällen. Ein Ersatzverkehr mit Bussen ist eingerichtet. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.  Bitte prüfen Sie vorab ihre Reiseverbindung und achten Sie bitte auch auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
       "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p></p><p>Sobald uns nähere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "06.05.2026",
@@ -454,14 +460,21 @@
       "mapHref": "https://karte.bahn.de/detail/307d95d1-17f6-48b5-9163-246c0acec5e1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/ede5d289-7f97-42c3-aa6c-087b45130cb7st%25C3%25B6rungskarte_20260505-105042.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/ede5d289-7f97-42c3-aa6c-087b45130cb7st%25C3%25B6rungskarte_20260505-105042.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/7b0f3a09-285a-4378-8331-baae2462bfe9st%25C3%25B6rungskarte_20260505-105042.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/7b0f3a09-285a-4378-8331-baae2462bfe9st%25C3%25B6rungskarte_20260505-105042.png",
           "info": "",
           "alt": "Störungskarte 05.05.2026 10:50:42",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/6b262bcc-bd96-419b-b066-74e9c2727542Ersatzfahrplan.pdf",
+          "label": "Ersatzfahrplan.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "REGIONAL"
@@ -491,7 +504,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.05.2026 11:40",
+      "lastModified": "05.05.2026 13:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
