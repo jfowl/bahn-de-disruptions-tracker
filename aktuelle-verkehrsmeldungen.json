@@ -87,8 +87,8 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S5, S2: Änderungen der Fahrtziele",
-      "summary": "Die S5 fährt zwischen Stade und Diebsteich. Die S2 zwischen Bergedorf und Sternschanze.Der Grund ist eine technische Störung an der Strecke.",
+      "headline": "S5: Fährt zwischen Stade und Diebsteich",
+      "summary": "Die S5 fährt zwischen Stade und Diebsteich. Der Grund ist eine technische Störung an der Strecke.",
       "text": "<p>Bitte nutzen Sie zwischen Pinneberg/Elbgaustraße und Diebsteich die S3. </p>",
       "durationBegin": "05.05.2026",
       "durationEnd": "05.05.2026",
@@ -105,17 +105,12 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 5",
           "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.05.2026 06:30",
+      "lastModified": "05.05.2026 10:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -357,6 +352,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
+      "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 2 Berg am Laim ↔ Markt Schwaben: Bauarbeiten",
+      "summary": "Infos zu Bauarbeiten der S2 ",
+      "text": "<h4><strong>Änderung im Fahrplan:</strong></h4><ul><li>Ersatzverkehr mit Bus zwischen Berg am Laim bzw. Ostbahnhof und Markt Schwaben</li><li>Pendel S-Bahn zwischen Markt Schwaben und Erding nach gesondertem Fahrplan mit allen Zwischenhalten</li><li>Express-Bus zwischen Markt Schwaben und Messestadt Ost (5:30 bis 21 Uhr)</li></ul><p><strong>Hinweis:</strong></p><ul><li>Bitte beachten Sie, dass die Züge der SOB ebenfalls betroffen sind und auch Bus-Ersatzverkehr haben.</li><li>Züge aus/in Richtung Petershausen/Altomünster beginnen/enden in Riem bzw. am Ostbahnhof, Fahrgäste in/aus Richtung Erding steigen bitte in Berg am Laim in den Bus-Ersatzverkehr um, da die Ersatzhaltestelle in Riem am Bahnhof aus organisatorischen Gründen nicht angefahren werden kann und an die MVG Haltestelle „Graf-Lehndorff-Straße“ verlegt wird.</li></ul><p><strong>Änderungen der Ersatzhaltestellen:</strong></p><ul><li>Berg am Laim: Zamilastraße, Höhe Buswendeschleife (Tram)</li><li>Riem: MVG Haltestelle „Graf-Lehndorff-Straße“</li><li>Grub: Senator-Gerauer-Straße, beidseitig</li><li>Messestadt Ost: Busbahnhof MVG Haltestelle X400</li></ul><p>Weitere Infos finden Sie unter: www.bahn.de/streckenagent.</p><p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "durationBegin": "05.05.2026",
+      "durationEnd": "05.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/283d6a48-4204-4214-b8a0-16b299f63996",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/d940d1c4-c409-4fdb-8afa-1e011b457a57st%25C3%25B6rungskarte_20260505-105639.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/d940d1c4-c409-4fdb-8afa-1e011b457a57st%25C3%25B6rungskarte_20260505-105639.png",
+          "info": "",
+          "alt": "Störungskarte 05.05.2026 10:56:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.05.2026 10:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ca3b8315-7c79-4eea-bffd-8f551d7dffde",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction"
+    },
+    {
       "id": "ff87e1fc-b993-4447-88fe-1666164f61f8",
       "disruptionId": "f4785412-5dd9-4508-90c5-0506cd1710bf",
       "author": "FERNVERKEHR_AG",
@@ -442,6 +482,66 @@
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
     },
     {
+      "id": "8a3e4168-e3a9-47f2-9aeb-d9afcc6f1907",
+      "disruptionId": "307d95d1-17f6-48b5-9163-246c0acec5e1",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Kurzfristiger Personalausfall auf einem Stellwerk",
+      "summary": "Zwischen Bad Mergentheim und Crailsheim kommt es von 06.05.2026 bis 10.05.2026 im Zeitraum bis 6 Uhr und ab 16 Uhr zu Zugausfällen und Ersatzverkehr. Regulärer Zugverkehr zwischen 6 Uhr und 16 Uhr. Ein Ersatzverkehr mit Bussen ist eingerichtet. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.  Bitte prüfen Sie vorab ihre Reiseverbindung und achten Sie bitte auch auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p></p><p>Sobald uns nähere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "06.05.2026",
+      "durationEnd": "10.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/307d95d1-17f6-48b5-9163-246c0acec5e1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/e2cc21ec-793c-4e0a-91cc-3da79cf67c80st%25C3%25B6rungskarte_20260505-105042.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-05/e2cc21ec-793c-4e0a-91cc-3da79cf67c80st%25C3%25B6rungskarte_20260505-105042.png",
+          "info": "",
+          "alt": "Störungskarte 05.05.2026 10:50:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 85",
+          "filterName": "RB 85",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 87",
+          "filterName": "RB 87",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 88",
+          "filterName": "RB 88",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 87",
+          "filterName": "RE 87",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2026 11:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8a3e4168-e3a9-47f2-9aeb-d9afcc6f1907",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "9ee74a2d-bfe6-4afe-96fc-1b85e9eeaf3b",
       "disruptionId": "814e5e8a-6531-4e78-86ed-c1b66f5648cd",
       "author": "S_BAHN_MUC",
@@ -451,14 +551,14 @@
       },
       "headline": "⚠️🚧Änderungen zu den Baustelleninformationen der Linie S1, 05.05.26 - 08.05.26 ",
       "summary": "Die S-Bahnen der Linie S1 verkehren ab sofort, durchgehend bis Freitag, 08. Mai 2026, ca. 03:40 Uhr, nur bis Freising❗",
-      "text": "<p>ℹ️ Zwischen Neufahrn und München Flughafen Terminal ist ein Ersatzverkehr mit Busse und Großraumtaxen eingesetzt❕⚠️ <strong>Der Halt München Flughafen Besucherpark wird nicht angefahren. </strong>Dieser kann mit dem geplanten Ersatzverkehr zw. Terminal u. Besucherpark erreicht werden oder mit den S-Bahnen der Linie S8.</p>",
+      "text": "<p>ℹ️ Zwischen Neufahrn und München Flughafen Terminal ist ein Ersatzverkehr mit Busse und Großraumtaxen eingesetzt❕⚠️ <strong>Der Halt München Flughafen Besucherpark wird nicht angefahren. </strong>Dieser kann mit dem geplanten Ersatzverkehr zw. Terminal u. Besucherpark erreicht werden oder mit den S-Bahnen der Linie S8.</p><p><strong>Fahrgäste mit Ziel Flughafen werden gebeten, die S8 bis Flughafen Besucherpark zu nutzen </strong>und anschließend den Ersatzverkehr zum Flughafen zu nehmen.</p>",
       "durationBegin": "05.05.2026",
       "durationEnd": "08.05.2026",
       "mapHref": "https://karte.bahn.de/detail/814e5e8a-6531-4e78-86ed-c1b66f5648cd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/aa4e8c21-1952-4b97-9ea9-5109c09f2a94st%25C3%25B6rungskarte_20260505-012540.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/aa4e8c21-1952-4b97-9ea9-5109c09f2a94st%25C3%25B6rungskarte_20260505-012540.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/2546c2a1-e905-4078-be9a-7ce9085bf74est%25C3%25B6rungskarte_20260505-012540.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/2546c2a1-e905-4078-be9a-7ce9085bf74est%25C3%25B6rungskarte_20260505-012540.png",
           "info": "",
           "alt": "Störungskarte 05.05.2026 01:25:40",
           "openInNewTab": true
@@ -479,7 +579,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.05.2026 08:38",
+      "lastModified": "05.05.2026 09:53",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
