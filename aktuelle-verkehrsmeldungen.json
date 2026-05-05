@@ -223,6 +223,118 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "451078f5-37df-4905-8c31-e7668de2b2e8",
+      "disruptionId": "fa5f806e-37f9-45c7-9663-5199c6cf7134",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 1 Moosach ↔ Laim: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Moosach und Laim sind keine Zugfahrten möglich.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "05.05.2026",
+      "durationEnd": "05.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/fa5f806e-37f9-45c7-9663-5199c6cf7134",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/bd42de78-c624-4c56-b550-0b9fb408e7d3st%25C3%25B6rungskarte_20260505-193222.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/bd42de78-c624-4c56-b550-0b9fb408e7d3st%25C3%25B6rungskarte_20260505-193222.png",
+          "info": "",
+          "alt": "Störungskarte 05.05.2026 19:32:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.05.2026 19:33",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/451078f5-37df-4905-8c31-e7668de2b2e8",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
+    },
+    {
+      "id": "0ed1f10d-c4e4-43b2-b4bc-ec68c70dad31",
+      "disruptionId": "d8282ba4-3648-43ad-a980-3f98ef22f472",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 1 / S 8 Besucherpark ↔ Flughafen: Bauarbeiten",
+      "summary": "Informationen zu den aktuellen Bauarbeiten auf den Linien S 1 und S 8:",
+      "text": "<h4><strong>Änderung im Fahrplan:</strong></h4><ul><li>Ersatzverkehr mit Bussen zwischen Besucherpark und Flughafen</li></ul><p><strong>Hinweis:</strong></p><ul><li>Bitte beachten Sie, dass die Busse am Besucherpark in der Südallee auf Höhe des Parkhauses abfahren.</li></ul>",
+      "durationBegin": "05.05.2026",
+      "durationEnd": "08.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d8282ba4-3648-43ad-a980-3f98ef22f472",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:512dc9a3-c16b-40ff-9663-2182336e6057/Fpl%20SEV%20MFHB-MFHT%204-8%20Mai.pdf",
+          "label": "Ersatzfahrplan der Linien S 1 und S 8",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://s-bahn-muenchen.de/s1",
+          "label": "Baustellen der Linie S 1",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://s-bahn-muenchen.de/s8",
+          "label": "Baustellen der Linie S 8",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:d0885293-888f-4a1b-a6c2-2764403287ff/Besucherpark.pdf",
+          "label": "Umgebungsplan Besucherpark",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.05.2026 18:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0ed1f10d-c4e4-43b2-b4bc-ec68c70dad31",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction"
+    },
+    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -765,6 +877,51 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "b16c51cd-2f4a-47af-a3b1-4a7eb39e60c4",
+      "disruptionId": "3b7641a1-8052-4fac-818e-db68dd5d998e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S 4 Buchenau: Gegenstände auf der Strecke",
+      "summary": "Im Bereich Buchenau kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Ab folgenden Zug verkehren die Züge der Linie S 4 zwischen Fürstenfeldbruck und Buchenau im Gegengleis: </p><p><strong>S 4 Trudering ↔ Geltendorf</strong></p><ul><li>S 4 Zorneding Abfahrt 18:31 Uhr → Fürstenfeldbruck Abfahrt 19:28 Uhr → Geltendorf  Ankunft 19:53 Uhr</li></ul><p>Züge, die bis bzw. von/nach Buchenau fahren würden, wenden bereits in München-Fürstenfeldbruck.</p><p>Der Grund hierfür sind Gegenstände auf der Strecke.</p>",
+      "durationBegin": "05.05.2026",
+      "durationEnd": "05.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/3b7641a1-8052-4fac-818e-db68dd5d998e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/08a22c3a-6e53-4a6c-9b32-c374c108023est%25C3%25B6rungskarte_20260505-190920.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/08a22c3a-6e53-4a6c-9b32-c374c108023est%25C3%25B6rungskarte_20260505-190920.png",
+          "info": "",
+          "alt": "Störungskarte 05.05.2026 19:09:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.05.2026 19:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b16c51cd-2f4a-47af-a3b1-4a7eb39e60c4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
+    },
+    {
       "id": "10a3b274-363a-4f97-8195-b39e1760a8d5",
       "disruptionId": "c798c673-7229-4c33-aa0e-b4e2a1de7b03",
       "author": "S_BAHN_MUC",
@@ -774,14 +931,14 @@
       },
       "headline": "S 2 Hebertshausen: Reparatur an einem Signal",
       "summary": "Im Bereich Hebertshausen kommt es zu Verspätungen von 10 bis 15 Minuten und vorzeitigen Zugwenden.",
-      "text": "<p>Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:</p><p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr</li><li>❗S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:10 Uhr&nbsp;</li><li>❗S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:50 Uhr</li></ul><p></p><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;&nbsp;</li><li>❗S 2 München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>❗S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "text": "<p>In diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "05.05.2026",
       "durationEnd": "06.05.2026",
       "mapHref": "https://karte.bahn.de/detail/c798c673-7229-4c33-aa0e-b4e2a1de7b03",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/a70db2db-0986-47dd-9e02-1177f58a143bst%25C3%25B6rungskarte_20260505-152730.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/a70db2db-0986-47dd-9e02-1177f58a143bst%25C3%25B6rungskarte_20260505-152730.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/b6d74f68-9337-42ba-b726-7c7173952239st%25C3%25B6rungskarte_20260505-152730.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-05/b6d74f68-9337-42ba-b726-7c7173952239st%25C3%25B6rungskarte_20260505-152730.png",
           "info": "",
           "alt": "Störungskarte 05.05.2026 15:27:30",
           "openInNewTab": true
@@ -802,7 +959,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.05.2026 17:06",
+      "lastModified": "05.05.2026 19:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
