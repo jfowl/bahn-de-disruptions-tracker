@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "679e4d83-e793-4bbd-99e7-deaaeecd9ae9",
-      "disruptionId": "2e2dc7e4-8fc6-4abd-a19e-0f4873c62e5c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Dortmund HBF und Kassel Wilhelmshöhe ",
-      "summary": "Aufgrund eines umgestürzten Baumes im Gleis ist der Bereich Lippstadt derzeit gesperrt. Dadurch kommt es zu Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/ IC-Züge zwischen Dortmund und Kassel</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/2e2dc7e4-8fc6-4abd-a19e-0f4873c62e5c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-06/a3642885-f3e0-45ec-acd3-d1ed8f99083cst%25C3%25B6rungskarte_20260506-134529.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-06/a3642885-f3e0-45ec-acd3-d1ed8f99083cst%25C3%25B6rungskarte_20260506-134529.png",
-          "info": "",
-          "alt": "Störungskarte 06.05.2026 13:45:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.05.2026 13:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/679e4d83-e793-4bbd-99e7-deaaeecd9ae9",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -531,6 +486,63 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d6e43c46-d9cb-4a94-962d-5fb6bd8c1b13",
+      "disruptionId": "99a37003-e757-4baa-a4ba-c3fe489399fa",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Signalstörung Zuffenhausen: Fahrplanabweichungen auf den Linien S4 und S5",
+      "summary": "Fahrplanabweichungen auf den Linien S4 und S5.",
+      "text": "Wegen einer Signalstörung zwischen Kornwestheim und Zuffenhausen kommt es zu Verspätungen und Zugausfällen auf den Linien S4 und S5. Bitte informieren Sie sich weiterhin online über Ihre Reiseverbindung, um auch über kurzfristige Änderungen auf dem Laufenden zu bleiben. Achten Sie außerdem auf Lautsprecheransagen und Anzeigen an den Bahnsteigen und in unseren Zügen.",
+      "durationBegin": "06.05.2026",
+      "durationEnd": "07.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/99a37003-e757-4baa-a4ba-c3fe489399fa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-05-06/046f9120-b6e7-41b2-8937-b08b1dfb0392st%25C3%25B6rungskarte_20260506-230520.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-05-06/046f9120-b6e7-41b2-8937-b08b1dfb0392st%25C3%25B6rungskarte_20260506-230520.png",
+          "info": "",
+          "alt": "Störungskarte 06.05.2026 23:05:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "Weiterführende Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.05.2026 23:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d6e43c46-d9cb-4a94-962d-5fb6bd8c1b13",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -840,43 +852,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "49887353-da72-4463-8c38-318ed55960ca",
-      "disruptionId": "4d52fa72-bc5f-47ad-b98b-1de4711b4f20",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 6 Grafing Bahnhof ↔ Ebersberg: Technischer Defekt an mehreren Bahnübergängen",
-      "summary": "Zwischen Grafing Bahnhof und Ebersberg kommt es derzeit zu Verspätungen von bis zu 20 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an mehreren Bahnübergängen.</p>",
-      "durationBegin": "06.05.2026",
-      "durationEnd": "06.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/4d52fa72-bc5f-47ad-b98b-1de4711b4f20",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.05.2026 20:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/49887353-da72-4463-8c38-318ed55960ca",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
