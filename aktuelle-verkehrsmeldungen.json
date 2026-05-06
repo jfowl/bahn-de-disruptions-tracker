@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "679e4d83-e793-4bbd-99e7-deaaeecd9ae9",
+      "disruptionId": "2e2dc7e4-8fc6-4abd-a19e-0f4873c62e5c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund HBF und Kassel Wilhelmshöhe ",
+      "summary": "Aufgrund eines umgestürzten Baumes im Gleis ist der Bereich Lippstadt derzeit gesperrt. Dadurch kommt es zu Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/ IC-Züge zwischen Dortmund und Kassel</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/2e2dc7e4-8fc6-4abd-a19e-0f4873c62e5c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-06/a3642885-f3e0-45ec-acd3-d1ed8f99083cst%25C3%25B6rungskarte_20260506-134529.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-06/a3642885-f3e0-45ec-acd3-d1ed8f99083cst%25C3%25B6rungskarte_20260506-134529.png",
+          "info": "",
+          "alt": "Störungskarte 06.05.2026 13:45:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.05.2026 13:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/679e4d83-e793-4bbd-99e7-deaaeecd9ae9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -78,57 +123,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "e0bb0089-94f7-4e93-a66b-90034c648a9f",
-      "disruptionId": "aad6002a-bb49-4e23-9ba4-65a20b22c72a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "⚠️🟢 S1: 🚍🚖 Zwischen Blankenese und Othmarschen fahren Busse und Taxis",
-      "summary": "Aktuell fährt keine 🟢 S1 zwischen Othmarschen und Blankenese. Grund: Dringende Instandsetzungsarbeiten an der Strecke. Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis.",
-      "text": "<p>🚏 Die Haltestellen des Ersatzverkehrs finden Sie in den angehängten Dokumenten.</p>",
-      "durationBegin": "06.05.2026",
-      "durationEnd": "06.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/aad6002a-bb49-4e23-9ba4-65a20b22c72a",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-05-06/04d147b6-81e7-4959-96fe-9771e1c79c8d4817.pdf",
-          "label": "Haltestelle Ersatzverkehr Othmarschen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-05-06/e550baaf-d9c3-48af-9b4e-3e298222417c687.pdf",
-          "label": "Haltestelle Ersatzverkehr Blankenese",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.05.2026 11:23",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e0bb0089-94f7-4e93-a66b-90034c648a9f",
-      "magnoliaPath": "/aktuell/nord/additional_service_technical_problem_railway_section"
     },
     {
       "id": "5f50abef-0cfc-412c-8b08-9b26ef6d2e9e",
