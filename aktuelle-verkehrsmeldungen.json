@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "2ffca844-9cb9-4371-ba35-b13af39b49a4",
-      "disruptionId": "d34bac84-5bdc-44e0-abd5-d69f241c62d9",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Düsseldorf und Essen",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Düsseldorf und Essen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Verspätungen von ca. 5 Minuten kommen, bei einzelnen Zügen entfallen die Halte in Duisburg Hbf und/oder Düsseldorf Flughafen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge auf der Verbindung Köln - Düsseldorf - Dortmund</li><li>ICE-/IC-Züge auf der Verbindung Köln - Düsseldorf - Münster(Westf)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/d34bac84-5bdc-44e0-abd5-d69f241c62d9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-09/b4eb415e-2b74-4142-b2bd-003f44e0bf6dst%25C3%25B6rungskarte_20260509-022700.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-09/b4eb415e-2b74-4142-b2bd-003f44e0bf6dst%25C3%25B6rungskarte_20260509-022700.png",
-          "info": "",
-          "alt": "Störungskarte 09.05.2026 02:27:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.05.2026 05:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/2ffca844-9cb9-4371-ba35-b13af39b49a4",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "b40cd157-8076-4a01-aa53-a454d92f7177",
       "disruptionId": "3a00555b-d531-4773-a01b-e37883332b6b",
       "author": "FERNVERKEHR_AG",
@@ -892,6 +846,58 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "39946b4c-84e5-4081-8045-f2aaa1277b89",
+      "disruptionId": "019d4b64-7291-4e77-a7b4-8e633a094a8a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 3, S 4, S 6, S 8 Pasing: Defektes Stellwerk",
+      "summary": "Im Bereich Pasing kommt es zu erheblichen Verspätungen und vorzeitigen Zugwenden. Im Bereich Pasing sind derzeit die Zugzielanzeiger außer Betrieb und es erfolgen keine automatischen Ansagen. ",
+      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "09.05.2026",
+      "durationEnd": "09.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/019d4b64-7291-4e77-a7b4-8e633a094a8a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.05.2026 11:58",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/39946b4c-84e5-4081-8045-f2aaa1277b89",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
