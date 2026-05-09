@@ -856,8 +856,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "S 3, S 4, S 6, S 8 Pasing: Defektes Stellwerk",
-      "summary": "Im Bereich Pasing kommt es zu erheblichen Verspätungen und vorzeitigen Zugwenden. Im Bereich Pasing sind derzeit die Zugzielanzeiger außer Betrieb und es erfolgen keine automatischen Ansagen. ",
-      "text": "<p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "summary": "Im Bereich Pasing kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.\n",
+      "text": "<p></p><p>Der Grund hierfür war ein defektes Stellwerk.</p>",
       "durationBegin": "09.05.2026",
       "durationEnd": "09.05.2026",
       "mapHref": "https://karte.bahn.de/detail/019d4b64-7291-4e77-a7b4-8e633a094a8a",
@@ -892,12 +892,72 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.05.2026 11:58",
+      "lastModified": "09.05.2026 13:06",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39946b4c-84e5-4081-8045-f2aaa1277b89",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
+    },
+    {
+      "id": "7c298d3e-cc3b-4747-85e3-0bbb15b5cebb",
+      "disruptionId": "16914be1-2d78-4502-b6c1-dfbb06031f36",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Gesamtnetz: Fahrgastinformation an den Bahnsteigen gestört",
+      "summary": "Derzeit kommt es im Gesamtnetz der S-Bahn zu einer Störung der Fahrgastinformation an den Bahnsteigen. ",
+      "text": "<p>Aktuell sind keine Anzeigen und Ansagen möglich.</p><p><strong>Bitte achten Sie auf die Zugzielbeschilderung.</strong></p><p>Grund dafür ist eine IT-Störung. Wir arbeiten mit Hochdruck an der Behebung des Problems.</p><p>We are&nbsp;currently experiencing disruptions to passenger information on all platforms across the S-Bahn network.&nbsp;</p><p>Announcements and displays are temporarily out of order.</p><p><strong>Please pay attention to the train destination signs.</strong></p><p>We are actively working to resolve the technical issue.</p>",
+      "durationBegin": "09.05.2026",
+      "durationEnd": "09.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/16914be1-2d78-4502-b6c1-dfbb06031f36",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-09/60a3857d-184f-47d0-a45d-0c8a0b0bea28st%25C3%25B6rungskarte_20260509-123728.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-09/60a3857d-184f-47d0-a45d-0c8a0b0bea28st%25C3%25B6rungskarte_20260509-123728.png",
+          "info": "",
+          "alt": "Störungskarte 09.05.2026 12:37:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.05.2026 13:08",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7c298d3e-cc3b-4747-85e3-0bbb15b5cebb",
+      "magnoliaPath": "/aktuell/bayern/other_effect_technical_problem_other"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
