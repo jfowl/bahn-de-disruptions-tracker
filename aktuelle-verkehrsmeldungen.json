@@ -464,69 +464,49 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
-      "disruptionId": "7330860f-2976-4234-ab75-95ed247be231",
-      "author": "S_BAHN_MUC",
+      "id": "7a269e0b-b26a-4d58-ab63-7d05547ec754",
+      "disruptionId": "b26ced2a-b03d-4f00-a806-0ebb7bb94b59",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Stammstrecke Rosenheimer Platz: Bauarbeiten",
-      "summary": "Im Bereich Rosenheimer Platz kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen .",
-      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "15.05.2026",
-      "durationEnd": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/7330860f-2976-4234-ab75-95ed247be231",
+      "headline": "Entschärfung einer Weltkriegsbombe in Pforzheim ",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 17.05.2026 kommt es in Pforzheim zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen zwischen 10:00 Uhr und 15:00 Uhr umgeleitet werden dadurch entfallen die Halte Mühlacker und Pforzheim Hbf.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe – Stuttgart – Nürnberg – Saalfeld (Saale) – Leipzig</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.05.2026",
+      "durationEnd": "17.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/b26ced2a-b03d-4f00-a806-0ebb7bb94b59",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/dc8ae864-22b1-41e7-8c33-a52035211445st%25C3%25B6rungskarte_20260515-212541.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/dc8ae864-22b1-41e7-8c33-a52035211445st%25C3%25B6rungskarte_20260515-212541.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/e1b49ffc-76d8-4f21-8652-b182e622e7fast%25C3%25B6rungskarte_20260515-130626.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/e1b49ffc-76d8-4f21-8652-b182e622e7fast%25C3%25B6rungskarte_20260515-130626.png",
           "info": "",
-          "alt": "Störungskarte 15.05.2026 21:25:41",
+          "alt": "Störungskarte 15.05.2026 13:06:26",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "15.05.2026 21:45",
+      "lastModified": "15.05.2026 22:12",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_construction"
+      "detailPagePath": "/service/fahrplaene/7a269e0b-b26a-4d58-ab63-7d05547ec754",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
     },
     {
       "id": "b669a702-fa2f-4849-ae05-496dac14f2ab",
@@ -572,51 +552,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b669a702-fa2f-4849-ae05-496dac14f2ab",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
-    },
-    {
-      "id": "7a269e0b-b26a-4d58-ab63-7d05547ec754",
-      "disruptionId": "b26ced2a-b03d-4f00-a806-0ebb7bb94b59",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Entschärfung einer Weltkriegsbombe in Pforzheim ",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am 17.05.2026 kommt es in Pforzheim zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen zwischen 10:00 Uhr und 15:00 Uhr umgeleitet werden dadurch entfallen die Halte Mühlacker und Pforzheim Hbf.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe – Stuttgart – Nürnberg – Saalfeld (Saale) – Leipzig</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.05.2026",
-      "durationEnd": "17.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/b26ced2a-b03d-4f00-a806-0ebb7bb94b59",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/16e82399-ccfc-4723-a5f2-a9ca50bc31c6st%25C3%25B6rungskarte_20260515-130626.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/16e82399-ccfc-4723-a5f2-a9ca50bc31c6st%25C3%25B6rungskarte_20260515-130626.png",
-          "info": "",
-          "alt": "Störungskarte 15.05.2026 13:06:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "15.05.2026 13:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7a269e0b-b26a-4d58-ab63-7d05547ec754",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -802,61 +737,6 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction2"
     },
     {
-      "id": "ea9981a5-01a5-4789-a5d1-799b80ba7bfb",
-      "disruptionId": "b79859f5-9c1a-4558-839e-88b6c9182bc2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation für die S1, S2 und S3 durchgehend von 13.05.-15.05.2026",
-      "summary": "Wegen Arbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es von Mittwoch, 13. Mai 2026, ab 6 Uhr, bis Freitag, 15. Mai 2026, um 22 Uhr, auf den Linien S1, S2 und S3 zwischen Leuchtenbergring und Ostbahnhof zu Fahrplanänderungen.\n\n",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><p></p><ul><li>Die Züge der Linie S1 beginnen/enden am Ostbahnhof.</li><li>Der Abschnitt Ostbahnhof-Leuchtenbergring entfällt.</li><li><strong>Nutzen Sie hier bitte die S-Bahnen der Linie S2, S4, S6 und S8.</strong></li></ul><p></p><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><p></p><ul><li>Die <strong>10-Minuten-Takt-Verstärker </strong>zwischen Ostbahnhof und Dachau <strong>entfallen</strong> am <strong>13.5</strong>. und <strong>15.5. komplett.</strong></li><li>Einzig die direkten Züge von/nach Altomünster verkehren planmäßig.</li></ul><p></p><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><p></p><ul><li>Die Züge mit der Ankunft am Ostbahnhof um 8:39, 8:59, 9:19 und 9:39 werden am 13.5. und 15.5. nach Deisenhofen verlängert.</li><li>Die Züge mit der Abfahrt am Ostbahnhof nach Maisach 15:17, 15:37, 15:57, 16:17 Uhr beginnen bereits in Deisenhofen.</li></ul><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "13.05.2026",
-      "durationEnd": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/b79859f5-9c1a-4558-839e-88b6c9182bc2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-13/5a304930-7db8-42f6-ba37-4262aa9db9e4st%25C3%25B6rungskarte_20260429-140112.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-13/5a304930-7db8-42f6-ba37-4262aa9db9e4st%25C3%25B6rungskarte_20260429-140112.png",
-          "info": "",
-          "alt": "Störungskarte 29.04.2026 14:01:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.05.2026 04:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ea9981a5-01a5-4789-a5d1-799b80ba7bfb",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
-    },
-    {
       "id": "21d91f0f-46f0-4606-bebd-937d3e540402",
       "disruptionId": "6cd8aed8-26a2-4341-91dd-a33f24a7a783",
       "author": "REGIO_BY",
@@ -954,49 +834,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "5d64b281-ed92-4c64-8ce9-80f3872d48d9",
-      "disruptionId": "c8667243-ee67-4996-b073-2a9cf33d9bac",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Ingolstadt",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Kinding(Altmühltal) und Ingolstadt Nord kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden verspäten sich dadurch um bis zu 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Nürnberg und Ingolstadt/München</li></ul><p>Züge mit Halt in Augsburg Hbf sind nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll im Laufe des Abends des 15.05.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/c8667243-ee67-4996-b073-2a9cf33d9bac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/6ecd369f-c01f-41cf-b86a-a41fb669ca66st%25C3%25B6rungskarte_20260515-185222.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/6ecd369f-c01f-41cf-b86a-a41fb669ca66st%25C3%25B6rungskarte_20260515-185222.png",
-          "info": "",
-          "alt": "Störungskarte 15.05.2026 18:52:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "15.05.2026 18:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5d64b281-ed92-4c64-8ce9-80f3872d48d9",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
