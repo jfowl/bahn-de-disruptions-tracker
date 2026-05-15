@@ -464,46 +464,69 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "7db95c6c-93a9-469f-846d-fb832bd9e7fc",
-      "disruptionId": "b55e347d-306f-4af6-98de-410ea8c85de8",
-      "author": "S_BAHN_RM",
+      "id": "13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
+      "disruptionId": "7330860f-2976-4234-ab75-95ed247be231",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Keine Beeinträchtigungen mehr im Raum Frankfurt(Main)Hbf",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen normalisiert sich der Bahnbetrieb wieder.",
-      "text": "<strong>🚆 Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><p><strong>✅ Auf der RB22 und RE20 kommt es zu keinen Beeinträchtigungen mehr.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Stammstrecke Rosenheimer Platz: Bauarbeiten",
+      "summary": "Im Bereich Rosenheimer Platz kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen .",
+      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
       "durationBegin": "15.05.2026",
       "durationEnd": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/b55e347d-306f-4af6-98de-410ea8c85de8",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/7330860f-2976-4234-ab75-95ed247be231",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/dc8ae864-22b1-41e7-8c33-a52035211445st%25C3%25B6rungskarte_20260515-212541.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/dc8ae864-22b1-41e7-8c33-a52035211445st%25C3%25B6rungskarte_20260515-212541.png",
+          "info": "",
+          "alt": "Störungskarte 15.05.2026 21:25:41",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
         },
         {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "15.05.2026 20:04",
+      "lastModified": "15.05.2026 21:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7db95c6c-93a9-469f-846d-fb832bd9e7fc",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_construction"
     },
     {
       "id": "b669a702-fa2f-4849-ae05-496dac14f2ab",
@@ -683,6 +706,100 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "10471433-acc3-467d-9226-f1d6618d7c3e",
+      "disruptionId": "2c59e7a3-4076-4d1b-87a0-8e6acae8125c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke durchgehend von 15. bis 18. Mai",
+      "summary": "Wegen Stellwerksarbeiten am Ostbahnhof kommt es von Freitag, den 15.5. ab 21:20 Uhr durchgehend bis Montag, den 18.5.2026, um 4:40 Uhr zwischen Pasing ↔ Ostbahnhof/Johanneskirchen zu Fahrplanänderungen mit Haltausfällen, Umleitungen und Ersatzverkehr mit Bussen.\n\n",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><ul><li>Haltausfälle, Umleitungen und Ersatzverkehr mit Bussen auf allen Linien außer S7 zwischen Ostbahnhof und Isartor</li></ul><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35, kein Halt an der Hackerbrücke</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li><li>Am <strong>Sa, 16.5.</strong>&nbsp;und <strong>So, 17.5.</strong>&nbsp;zwischen 7 und 21 Uhr fährt ein Pendelzug zwischen Riem und Hauptbahnhof (Gl. 5-26)<strong>&nbsp;mit Zwischenhalt</strong>&nbsp;am Ostbahnhof Gl. 6-13.</li><li>Richtung Erding bestehen gleichzeitig Bauarbeiten zwischen Ostbahnhof/Riem und Markt Schwaben mit Ersatzverkehr mit Bussen</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing</li><li>Züge in/aus Richtung Mammendorf beginnen/enden am Isartor</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus</li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering, es besteht Ersatzverkehr mit Bussen zwischen Ostbahnhof und Trudering</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li><strong>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</strong></li></ul><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden in Johanneskirchen, es besteht Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p><strong>Nutzen Sie bitte für Ihre individuelle Reiseauskunft im oberen Bereich dieser Seite „Verbindung suchen“.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "15.05.2026",
+      "durationEnd": "18.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/2c59e7a3-4076-4d1b-87a0-8e6acae8125c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/9a44b22d-1acb-4fb9-9bb8-1cb6528c1769st%25C3%25B6rungskarte_20260501-231827.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/9a44b22d-1acb-4fb9-9bb8-1cb6528c1769st%25C3%25B6rungskarte_20260501-231827.png",
+          "info": "",
+          "alt": "Störungskarte 01.05.2026 23:18:27",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/8e1450f7-6a5f-4951-bdd1-38d2b4bc6ff1st%25C3%25B6rungskarte_20260501-231909.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/8e1450f7-6a5f-4951-bdd1-38d2b4bc6ff1st%25C3%25B6rungskarte_20260501-231909.png",
+          "info": "",
+          "alt": "Störungskarte 01.05.2026 23:19:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/f510500f-2702-43e0-9725-2e9427bee196Fpl%252BESTW%252BMOP%252BS%252B1-S%252B8%252BSEV%252B15-18%252BMai.pdf",
+          "label": "Stammstrecke Fahrplan von 15. bis 18. Mai 2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.05.2026 20:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/10471433-acc3-467d-9226-f1d6618d7c3e",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction2"
     },
     {
       "id": "ea9981a5-01a5-4789-a5d1-799b80ba7bfb",
