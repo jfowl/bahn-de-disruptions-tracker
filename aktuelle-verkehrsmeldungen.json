@@ -414,25 +414,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "0a8d2b71-9872-4856-8b1f-343c2c4c3408",
-      "disruptionId": "dd06cbf7-b151-4f14-a80b-4aac2c407ea2",
+      "id": "9a24a52a-ed12-455c-b199-e40afcf9b3b7",
+      "disruptionId": "f8b0b025-cf7a-4b16-9cb3-d789afd578ea",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "S7 Ebenhausen-Schäftlarn - Hohenschäftlarn: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie S7 in beide Richtungen zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist ein technischer Defekt an einem Bahnübergang       zwischen Ebenhausen-Schäftlarn und Hohenschäftlarn.</p>",
+      "headline": "S 7 Mittersendling: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Im Bereich Mittersendling kommt es noch zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
       "durationBegin": "18.05.2026",
       "durationEnd": "18.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/dd06cbf7-b151-4f14-a80b-4aac2c407ea2",
+      "mapHref": "https://karte.bahn.de/detail/f8b0b025-cf7a-4b16-9cb3-d789afd578ea",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/21c572f3-ac0b-4e36-be33-13fd40b75cf3st%25C3%25B6rungskarte_20260518-090853.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/21c572f3-ac0b-4e36-be33-13fd40b75cf3st%25C3%25B6rungskarte_20260518-090853.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/c86a407a-ff88-4ed5-89a6-3c876c261facst%25C3%25B6rungskarte_20260518-141632.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/c86a407a-ff88-4ed5-89a6-3c876c261facst%25C3%25B6rungskarte_20260518-141632.png",
           "info": "",
-          "alt": "Störungskarte 18.05.2026 09:08:53",
+          "alt": "Störungskarte 18.05.2026 14:16:32",
           "openInNewTab": true
         }
       ],
@@ -451,12 +451,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.05.2026 10:25",
+      "lastModified": "18.05.2026 14:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0a8d2b71-9872-4856-8b1f-343c2c4c3408",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/9a24a52a-ed12-455c-b199-e40afcf9b3b7",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
+    },
+    {
+      "id": "a124921d-e59a-4ea8-a088-94052600db31",
+      "disruptionId": "c2cd848c-837c-499f-b2d0-a5f99746744b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 1 Oberschleißheim ↔ Unterschleißheim: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Oberschleißheim und Unterschleißheim kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "18.05.2026",
+      "durationEnd": "18.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/c2cd848c-837c-499f-b2d0-a5f99746744b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/770c8bcf-f7a2-4e2c-9087-8baa9b720e7cst%25C3%25B6rungskarte_20260518-142725.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-18/770c8bcf-f7a2-4e2c-9087-8baa9b720e7cst%25C3%25B6rungskarte_20260518-142725.png",
+          "info": "",
+          "alt": "Störungskarte 18.05.2026 14:27:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.05.2026 14:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a124921d-e59a-4ea8-a088-94052600db31",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
