@@ -48,6 +48,63 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "be064e79-fd42-468e-a897-7347db566d6c",
+      "disruptionId": "d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) RB 55 und RE 6 -",
+      "summary": "Dienstag, 19.05.2026 04:38 Uhr bis vsl. Mittwoch, 20.05.2026 23:30 Uhr",
+      "text": "<p>Aufgrund einer Reparatur an der Strecke Ausfall Hennigsdorf(b Berlin) - Kremmen -  Hennigsdorf(b Berlin)</p><p><strong>RE6 und RB55</strong></p><p>Ausfall RE6 und RB55 Hennigsdorf(b Berlin) - Kremmen - Hennigsdorf(b Berlin). Grund: Reparatur an der Strecke. Es besteht Ersatzverkehr mit Bus.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "19.05.2026",
+      "durationEnd": "20.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.05.2026 04:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/be064e79-fd42-468e-a897-7347db566d6c",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -648,93 +705,61 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "25504a0e-53db-4139-b759-945a1094230b",
-      "disruptionId": "7bc7a711-3fe4-4580-81a7-79317c0e6c9c",
-      "author": "S_BAHN_MUC",
+      "id": "f29a1052-a977-4b3b-8438-08c8b4c9cb07",
+      "disruptionId": "c0c9f349-a353-4547-9a96-e465d65922df",
+      "author": "REGIO_BW",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Baustelleninformation zur Stammstrecke in der Nacht Montag/Dienstag, 18./19.5.2026",
-      "summary": "wegen Bauarbeiten zur 2. Stammstrecke kommt es zwischen Pasing ↔ Ostbahnhof/Riem/Giesing in der Nacht von Montag/Dienstag, 18./19.05.2026, von 21:20 Uhr bis 4:40 Uhr zu umfangreichen Fahrplanänderungen.",
-      "text": "<p></p><p><strong>Änderungen im Fahrplan:</strong></p><p><strong>S 1 Leuchtenbergring ↔ Freising/Flughafen: </strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke)</li></ul><p><strong>S 2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden in Markt Schwaben; <strong>zwischen Ostbahnhof und Markt Schwaben besteht Bus-Ersatzverkehr wegen gleichzeitiger Bauarbeiten auf der S 2 zwischen Riem und Markt Schwaben</strong></li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor</li></ul><p><strong>S 3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p><strong>S 4  Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus</li></ul><p><strong>S 6/S 8 Ebersberg ↔ Tutzing/ Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering.<strong> Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof</strong></li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li><li>Züge aus Richtung Tutzing fahren zum Flughafen</li><li>Züge aus Richtung Flughafen fahren nach Tutzing</li></ul><p><strong>S 7  Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p><strong>Hinweis: Es besteht ein Ersatzverkehr mit Bussen zwischen Ostbahnhof und Trudering.</strong></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "18.05.2026",
+      "headline": "Reparatur am Stellwerk Oppenweiler beendet",
+      "summary": "Der Bahnhof Oppenweiler(Württ) kann wieder normal befahren werden.  Der Grund war ein defektes Stellwerk. Der Zugverkehr wird wieder aufgenommen, bitte rechnen Sie noch mit Verspätungen, bis sich der Betrieb stabilisiert hat. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p>Berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "19.05.2026",
       "durationEnd": "19.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/7bc7a711-3fe4-4580-81a7-79317c0e6c9c",
+      "mapHref": "https://karte.bahn.de/detail/c0c9f349-a353-4547-9a96-e465d65922df",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-19/66cb2079-c943-448b-b75c-84a60be97d74reisendenkarte_20260319-080034.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-19/66cb2079-c943-448b-b75c-84a60be97d74reisendenkarte_20260319-080034.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-19/51d0667f-c61e-404b-98cc-caa1a9186b47st%25C3%25B6rungskarte_20260519-053439.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-19/51d0667f-c61e-404b-98cc-caa1a9186b47st%25C3%25B6rungskarte_20260519-053439.png",
           "info": "",
-          "alt": "Reisendenkarte 19.03.2026 08:00:34",
+          "alt": "Störungskarte 19.05.2026 05:34:39",
           "openInNewTab": true
-        }
-      ],
-      "downloads": [
+        },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-19/97ba5df4-3114-4b2c-acdd-e7cffc30a693Fpl%252BS1-S%252B8%252BSEV%252B18-19%252BMai%2B%25281%2529.pdf",
-          "label": "Fpl+S1-S+8+SEV+18-19+Mai",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-19/83b129c8-03a9-4eea-8884-fd47f8a0f41dst%25C3%25B6rungskarte_20260519-053238.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-19/83b129c8-03a9-4eea-8884-fd47f8a0f41dst%25C3%25B6rungskarte_20260519-053238.png",
           "info": "",
+          "alt": "Störungskarte 19.05.2026 05:32:38",
           "openInNewTab": true
         }
       ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen/stammstrecke",
-          "label": "Bauarbeiten auf der Stammstrecke durchgehend von 15.5 bis 18.5",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "downloads": [],
+      "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
+          "name": "RB MEX19",
+          "filterName": "RB MEX19",
+          "property": "REGIONAL"
         },
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
+          "name": "RB MEX90",
+          "filterName": "RB MEX90",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "19.05.2026 00:13",
-      "expand": true,
+      "lastModified": "19.05.2026 05:54",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/25504a0e-53db-4139-b759-945a1094230b",
-      "magnoliaPath": "/aktuell/bayern/additional_service_construction"
+      "detailPagePath": "/service/fahrplaene/f29a1052-a977-4b3b-8438-08c8b4c9cb07",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/detour_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
