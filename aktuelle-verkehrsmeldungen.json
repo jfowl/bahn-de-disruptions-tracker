@@ -566,43 +566,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "39d65789-0d75-4bbb-b68e-f3120a0ccdef",
-      "disruptionId": "af4a9591-13c7-4009-bf03-0e7698ce6578",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 1 Freising/Flughafen: Reparatur an einer Weiche",
-      "summary": "Der Zugverkehr zwischen Neufahrn und Freising wird wieder aufgenommen.",
-      "text": "<p>Erste wieder auf dem Regelweg verkehrende S-Bahnen sind:</p><ul><li>S1 Abfahrt Hauptbahnhof 20:02 Uhr → Abfahrt Neufahrn 20:36 Uhr → Ankunft Freising 20:44 Uhr</li><li>S1 Abfahrt Freising 20:14 Uhr → Abfahrt Neufahrn 20:24 Uhr → Ankunft Hauptbahnhof 20:55 Uhr</li></ul><p>Der  Ersatzverkehr zwischen Freising und Neufahrn läuft mit 21:00 Uhr aus. Bitte benutzen Sie nur die Fahrzeuge mit spezieller \"EV\"-Beschilderung.</p><p>Die Reparatur an einer Weiche in Freising ist beendet.</p>",
-      "durationBegin": "20.05.2026",
-      "durationEnd": "20.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/af4a9591-13c7-4009-bf03-0e7698ce6578",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.05.2026 20:01",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/39d65789-0d75-4bbb-b68e-f3120a0ccdef",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
       "id": "49746fce-9684-49d6-9efb-6e9b92048e81",
       "disruptionId": "f115b802-5ccc-415a-b45a-ac55a6c094bd",
       "author": "REGIO_MITTE",
@@ -952,6 +915,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "cfa3de48-ae99-44d4-b503-5dc123dd63c9",
+      "disruptionId": "5457c571-12cd-40b2-84c5-1ac65f253ea8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Zwischen Ostbahnhof und Pasing kommt es zu Folgeverspätungen von 15 bis 20 Minuten und vorzeitigen Zugwenden auf den Außenästen.",
+      "text": "<p>Der Grund hierfür war eine ärztliche Versorgung eines Fahrgastes am Karlsplatz.</p>",
+      "durationBegin": "20.05.2026",
+      "durationEnd": "20.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/5457c571-12cd-40b2-84c5-1ac65f253ea8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-20/3b0c46aa-a884-4e68-919d-35b93afa15c8st%25C3%25B6rungskarte_20260520-221757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-20/3b0c46aa-a884-4e68-919d-35b93afa15c8st%25C3%25B6rungskarte_20260520-221757.png",
+          "info": "",
+          "alt": "Störungskarte 20.05.2026 22:17:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.05.2026 22:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cfa3de48-ae99-44d4-b503-5dc123dd63c9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "7c3070f5-630d-42d5-970c-cfbbae1efa60",
