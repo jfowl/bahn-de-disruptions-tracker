@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "69bad26a-04dc-4481-8853-42cc4892a815",
+      "disruptionId": "35dffc9c-de72-42f2-b1a6-a7f8eca8e590",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf den Linien Bus RE15 und RB 31 - //Störungsgebiet",
+      "summary": "Mittwoch, 27.05.2026, 22:00 Uhr bis Samstag, 30.05.2026, 05:00 Uhr",
+      "text": "<p>//Text</p><p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅Die geänderten Fahrpläne sind bereits in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
+      "durationBegin": "27.05.2026",
+      "durationEnd": "30.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/35dffc9c-de72-42f2-b1a6-a7f8eca8e590",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-05-21/699c8fe5-1aa2-4c9b-ae4f-0a6519498cfeBaufpl%2B47552%2BZabeltitz%2B-%2BDresden%2B%2528RB31RE15%2529%2B27.-30.05.2026.pdf",
+          "label": "Baufpl 47552 Zabeltitz - Dresden (RB31RE15) 27.-30.05.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus RE15",
+          "filterName": "Bus RE15",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 31",
+          "filterName": "RB 31",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.05.2026 09:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/69bad26a-04dc-4481-8853-42cc4892a815",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_construction42"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -564,6 +614,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "449dea8b-6c02-4125-b208-9a1453e8e6ce",
+      "disruptionId": "ca72af7c-06d3-445a-9e97-afc522b62d94",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung S2 Hebertshausen - Dachau Bahnhof: Reparatur an einem Signal",
+      "summary": "Die S-Bahnen fahren zwischen Hebertshausen und Dachau Bahnhof wieder ohne Einschränkungen mit normaler Geschwindigkeit. \n\n",
+      "text": "<p>Die Reparatur an einem Signal in Hebertshausen wurde beendet.</p>",
+      "durationBegin": "21.05.2026",
+      "durationEnd": "21.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/ca72af7c-06d3-445a-9e97-afc522b62d94",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/fda29244-61f5-4623-9d48-016f002d652cst%25C3%25B6rungskarte_20260521-095028.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/fda29244-61f5-4623-9d48-016f002d652cst%25C3%25B6rungskarte_20260521-095028.png",
+          "info": "",
+          "alt": "Störungskarte 21.05.2026 09:50:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.05.2026 10:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/449dea8b-6c02-4125-b208-9a1453e8e6ce",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "49746fce-9684-49d6-9efb-6e9b92048e81",
