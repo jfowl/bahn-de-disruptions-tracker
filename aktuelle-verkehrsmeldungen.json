@@ -2,6 +2,47 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
+      "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Sonstiges"
+      },
+      "headline": "Haltestellen in Fahrtrichtung Lüneburg-Dannenberg verlegt!",
+      "summary": "Betrifft die Halte Dahlenburg Lemgrabe, Am Hasenberg und Boitze Neetzendorf, Ort",
+      "text": "<p>Aufgrund einer Routenoptimierung wurde die Haltestelle <strong>Dahlenburg Lemgrabe, Am Hasenberg </strong>in <strong>Fahrtrichtung Dannenberg (Elbe) Ostbahnhof </strong>vor die Einmündung der Straße \"<strong>Am Bahnhof</strong>\" verlegt.</p><p>Der Zustieg an der Haltestelle <strong>Boitze Neetzendorf, Ort </strong>erfolgt nun <strong>auf der gegenüberliegenden Straßenseite</strong>.</p>",
+      "durationBegin": "21.05.2026",
+      "durationEnd": "27.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/b77c6841-c341-4f02-b427-4a74f67e4da1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB32",
+          "filterName": "Bus RB32",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.05.2026 20:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
+      "magnoliaPath": "/aktuell/unknown_effect_other_cause"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -566,6 +607,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "a00e1483-5502-444d-ae9b-7bbeb0ff290c",
+      "disruptionId": "95e14034-64e5-4bf6-bf6e-4d9389349722",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Endmeldung S 1 Freising/Flughafen: Technischer Defekt an einem anderen Zug",
+      "summary": "Der S-Bahnverkehr zwischen Neufahrn und Freising läuft wieder stabil.",
+      "text": "<p>Es kommt aktuell zu keinen Verspätungen mehr.</p><p>Der zwischen Neufahrn und Freising bestehende Ersatzverkehr mit Großraumtaxis läuft mit 21:30 Uhr aus. Benutzen sie bitte nur die Fahrzeuge mit spezieller \"EV\"-Beschilderung.</p><p>Der technische Defekt an einem anderen Zug wurde behoben.</p>",
+      "durationBegin": "21.05.2026",
+      "durationEnd": "21.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/95e14034-64e5-4bf6-bf6e-4d9389349722",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/793b7a93-5f21-4dd1-bee1-443a6f36108bst%25C3%25B6rungskarte_20260521-191652.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/793b7a93-5f21-4dd1-bee1-443a6f36108bst%25C3%25B6rungskarte_20260521-191652.png",
+          "info": "",
+          "alt": "Störungskarte 21.05.2026 19:16:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.05.2026 21:19",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a00e1483-5502-444d-ae9b-7bbeb0ff290c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "49746fce-9684-49d6-9efb-6e9b92048e81",
       "disruptionId": "f115b802-5ccc-415a-b45a-ac55a6c094bd",
       "author": "REGIO_MITTE",
@@ -915,6 +1001,95 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "7c3070f5-630d-42d5-970c-cfbbae1efa60",
+      "disruptionId": "ddc9843c-19ae-4157-bb24-d59f605ca3c2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke in den Nächten 19./20. bis 21./22. Mai 2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten von Dienstag, den 19. Mai auf Mittwoch, den 20. Mai, bis Donnerstag, den 21. Mai auf Freitag, den 22. Mai 2026, jeweils von 22:20 bis 5 Uhr, zwischen Pasing ↔ Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.",
+      "text": "<p></p><p><strong>Änderung im Fahrplan:</strong></p><p><strong>Zwischen Hackerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach.</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke.</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Hauptbahnhof Gleis 22-26 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt.</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing.</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus.</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof.</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2.</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof Gleis 27-34 und fahren von/bis Pasing ohne Halt.</li></ul><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li><strong>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</strong></li></ul><p></p><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke.</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing.</li></ul><p></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "19.05.2026",
+      "durationEnd": "22.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/ddc9843c-19ae-4157-bb24-d59f605ca3c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/18ea2f28-a38f-4e06-9e86-2192a6bcb91cst%25C3%25B6rungskarte_20260502-005604.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/18ea2f28-a38f-4e06-9e86-2192a6bcb91cst%25C3%25B6rungskarte_20260502-005604.png",
+          "info": "",
+          "alt": "Störungskarte 02.05.2026 00:56:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-21/01e61efa-ced2-422f-9111-8b1a2cf618ffFpl%252BTSP%252BML%252BS%252B1-S%252B8%252B19-22%252BMai%252B2026.pdf",
+          "label": "Stammstrecke Fahrplan 19./20.5 - 21./22.5 2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen/stammstrecke",
+          "label": "Bauarbeiten auf der Stammstrecke Nächte 19./20. bis 21./22. Mai",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.05.2026 20:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7c3070f5-630d-42d5-970c-cfbbae1efa60",
+      "magnoliaPath": "/aktuell/bayern/detour_construction"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
