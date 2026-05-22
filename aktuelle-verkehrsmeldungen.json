@@ -43,45 +43,6 @@
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
     },
     {
-      "id": "2d98fac6-4977-4824-832c-92f6658fa90f",
-      "disruptionId": "dbaaa6b9-f075-4a13-976b-cb1955579c4f",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "RE 7: Störung.",
-      "summary": "Ab dem 14.05. bis vsl. 22.05. (Tagesende) entfällt der Halt in Wiesenburg (Mark). Grund: Reparatur an einer Weiche. Ein Ersatzverkehr mit Bus ist zwischen Bad Belzig - Wiesenburg (Mark) - Bad Belzig eingerichtet.",
-      "text": "<p></p>",
-      "durationBegin": "14.05.2026",
-      "durationEnd": "22.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/dbaaa6b9-f075-4a13-976b-cb1955579c4f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.05.2026 04:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2d98fac6-4977-4824-832c-92f6658fa90f",
-      "magnoliaPath": "/aktuell/nordost/impairment_unknown_cause62"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -157,6 +118,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "b4a3b378-3b16-45ef-898b-6889ffdfc6f7",
+      "disruptionId": "e643bbd5-2f64-40af-8c9e-8845a7563ada",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Sonstiges"
+      },
+      "headline": "S3, S5: Aktuell kommt es zu Verspätungen im Ersatzverkehr zwischen Wilhelmsburg und Neugraben",
+      "summary": "Aufgrund eines Verkehrsunfalls auf der Strecke kommt es bei den Bussen des Ersatzverkehrs aktuell zu Verspätungen.",
+      "text": "<p>.</p>",
+      "durationBegin": "22.05.2026",
+      "durationEnd": "22.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/e643bbd5-2f64-40af-8c9e-8845a7563ada",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.05.2026 11:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b4a3b378-3b16-45ef-898b-6889ffdfc6f7",
+      "magnoliaPath": "/aktuell/nord/impairment_other_cause"
     },
     {
       "id": "b0fda219-8720-4bca-a055-dbfc97ac6054",
@@ -310,6 +314,57 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section0"
     },
     {
+      "id": "1a2533f9-d7fc-4798-a8c6-44ef5ebd02fd",
+      "disruptionId": "3ee62512-5bc6-4151-a59c-4bdd4bf1a523",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 7 - in Wiesenburg(Mark)",
+      "summary": " Freitag, 22.05.2026 09:00 Uhr bis vsl. Freitag, 22.05.2026 23:59 Uhr ",
+      "text": "<p></p><p><strong>RE7    Dessau - Bad Belzig – Berlin - Berlin - Königs Wusterhausen - Lübbenau (Spreew) - Calau (NL) - Senftenberg</strong></p><p>Aufgrund einer Streckenstörung entfällt bis 22.05. (Tagesende) der Halt in Wiesenburg (Mark). Grund: Reparatur an einer Weiche. Ein Ersatzverkehr mit Bus ist zwischen Bad Belzig - Wiesenburg (Mark) - Bad Belzig eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "22.05.2026",
+      "durationEnd": "22.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/3ee62512-5bc6-4151-a59c-4bdd4bf1a523",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.05.2026 10:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1a2533f9-d7fc-4798-a8c6-44ef5ebd02fd",
+      "magnoliaPath": "/aktuell/nordost/stop_moved_technical_problem_railway_section"
+    },
+    {
       "id": "5f50abef-0cfc-412c-8b08-9b26ef6d2e9e",
       "disruptionId": "ada86ee7-8b91-4b7f-8cd4-c0bfc75ce4af",
       "author": "S_BAHN_HH",
@@ -454,6 +509,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "ab2aff8e-9428-478f-b9ec-cc922830f6e2",
+      "disruptionId": "822466a4-4483-45c3-94f5-e4e9b4d4ebf1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Gegenstände auf der Strecke",
+      "summary": "Zwischen Deisenhofen und Holzkirchen ist die Strecke gesperrt. Die S-Bahnen wenden in Deisenhofen.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Deisenhofen und Holzkirchen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Momentan wird eine Prognose von ca. 14:00 Uhr angegeben.</p><p>Der Grund hierfür sind Gegenstände auf der Strecke.</p>",
+      "durationBegin": "22.05.2026",
+      "durationEnd": "22.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/822466a4-4483-45c3-94f5-e4e9b4d4ebf1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-22/56e9d58e-737c-4cf9-bc45-acbd27f54718st%25C3%25B6rungskarte_20260522-095428.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-22/56e9d58e-737c-4cf9-bc45-acbd27f54718st%25C3%25B6rungskarte_20260522-095428.png",
+          "info": "",
+          "alt": "Störungskarte 22.05.2026 09:54:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.05.2026 11:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ab2aff8e-9428-478f-b9ec-cc922830f6e2",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
+    },
+    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -596,56 +696,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "853231ad-34d3-4d66-b106-72ca8aa69ec0",
-      "disruptionId": "55f772dd-b5ff-4d6d-9a95-c0f21a28f37b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 5, S 8 Neuaubing: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Neuaubing kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Die S - Bahnen fahren in dem betroffenen Bereich langsamer.</p><p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "22.05.2026",
-      "durationEnd": "22.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/55f772dd-b5ff-4d6d-9a95-c0f21a28f37b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-22/cc32b791-8e37-4a08-8c27-14495517c5f6st%25C3%25B6rungskarte_20260522-073423.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-22/cc32b791-8e37-4a08-8c27-14495517c5f6st%25C3%25B6rungskarte_20260522-073423.png",
-          "info": "",
-          "alt": "Störungskarte 22.05.2026 07:34:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.05.2026 07:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/853231ad-34d3-4d66-b106-72ca8aa69ec0",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section9"
-    },
-    {
       "id": "8ba742b7-c955-4ac6-8976-78b84e0e67cb",
       "disruptionId": "2663c20b-0e16-4b6e-b2ff-6fb47200e78d",
       "author": "SUEDOSTBAYERNBAHN",
@@ -653,11 +703,11 @@
         "category": "unknown_cause",
         "label": "Unbekannte Ursache"
       },
-      "headline": "RB 40, RB 41, RB 42, RB 44, RB 45, RB 46, RB 47, RE 4 / Bahnhof Mühldorf / Dienstag, 19.05.2026 bis Freitag 22.05.2026 ",
-      "summary": "Dienstag, 19.05.2026 bis Freitag 22.05.2026",
+      "headline": "RB 40, RB 41, RB 42, RB 44, RB 45, RB 46, RB 47, RE 4 / Bahnhof Mühldorf / Freitag, 22.05.2026 bis Dienstag 26.05.2026 ",
+      "summary": "Freitag, 22.05.2026 bis Dienstag 26.05.2026",
       "text": "<p>Im Bahnhof Mühldorf ist der Aufzug am Gleis 1 außer Betrieb. Bitte beachten Sie dies bei ihrem Ein- und Umstieg. </p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
-      "durationBegin": "19.05.2026",
-      "durationEnd": "22.05.2026",
+      "durationBegin": "22.05.2026",
+      "durationEnd": "26.05.2026",
       "mapHref": "https://karte.bahn.de/detail/2663c20b-0e16-4b6e-b2ff-6fb47200e78d",
       "images": [],
       "downloads": [],
@@ -710,7 +760,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.05.2026 12:43",
+      "lastModified": "22.05.2026 09:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
