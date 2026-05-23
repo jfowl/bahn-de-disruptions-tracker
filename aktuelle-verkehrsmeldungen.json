@@ -203,6 +203,56 @@
       "magnoliaPath": "/aktuell/nord/impairment_police_activity"
     },
     {
+      "id": "1d48edb0-9ea8-435e-8df6-132304bcf538",
+      "disruptionId": "a81f9374-041f-4701-9cf0-85dddc10c6b0",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 2 - \n Samstag, 23.05.2026 08:30 Uhr bis vsl. Sonntag, 31.05.2026 23:30 Uhr",
+      "summary": "Samstag, 23.05.2026 08:30 Uhr bis vsl. Sonntag, 31.05.2026 23:30 Uhr",
+      "text": "<p>Aufgrund einer Reparatur an der Strecke fallen die Züge des <strong>RE2</strong> ab 23.05.2026 bis vsl. 31.05.2026 zwischen Hennigsdorf(b Berlin) und Dallgow-Döberitz in beide Richtungen aus.</p><p>Ausfall der Züge der <strong>RE2</strong> Hennigsdorf(b Berlin) ↔ Dallgow-Döberitz. Weitere Informationen folgen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "23.05.2026",
+      "durationEnd": "31.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/a81f9374-041f-4701-9cf0-85dddc10c6b0",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.05.2026 08:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1d48edb0-9ea8-435e-8df6-132304bcf538",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section2"
+    },
+    {
       "id": "be064e79-fd42-468e-a897-7347db566d6c",
       "disruptionId": "d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
       "author": "REGIO_NORDOST",
@@ -494,6 +544,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "46f84184-04ab-4dbe-ac2c-37f4842819b8",
+      "disruptionId": "22c1ef99-dc1b-48d7-851c-d67bf32bed5a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Böblingen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Stuttgart Hbf und Stuttgart-Vaihingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge entfallen zwischen Stuttgart Hbf und Stuttgart-Vaihingen bzw. verspäten sich.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC Züge zwischen Stuttgart und Singen(Htw)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Züge der S1 zwischen Stuttgart Hbf und Stuttgart-Vaihingen. </p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/22c1ef99-dc1b-48d7-851c-d67bf32bed5a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/17f0f1be-05c6-45aa-bcfb-026eb7065084st%25C3%25B6rungskarte_20260523-092154.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/17f0f1be-05c6-45aa-bcfb-026eb7065084st%25C3%25B6rungskarte_20260523-092154.png",
+          "info": "",
+          "alt": "Störungskarte 23.05.2026 09:21:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2026 09:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/46f84184-04ab-4dbe-ac2c-37f4842819b8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "8ba742b7-c955-4ac6-8976-78b84e0e67cb",
@@ -922,6 +1015,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "049fe5f8-02a3-4df7-9173-b41a273acff8",
+      "disruptionId": "9541f0a9-e6bd-4a42-ab37-09a0a13cf1f0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Ingolstadt",
+      "summary": "Aufgrund unsachgemäß durchgeführten Bauarbeiten ist ein Gleis der Strecke zwischen Dachau und Ingolstadt derzeit gesperrt. Dadurch kommt es zu Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge München - Nürnberg - Berlin (Züge ohne Halt in Augsburg)</li><li>ICE Züge München - Nürnberg - Frankfurt(M)</li><li>ICE Züge München - Nürnberg - Würzburg (Züge ohne Halt in Augsburg)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/9541f0a9-e6bd-4a42-ab37-09a0a13cf1f0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/a3d3ce26-2fb0-4d13-b971-04ddb7137d43st%25C3%25B6rungskarte_20260523-084933.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/a3d3ce26-2fb0-4d13-b971-04ddb7137d43st%25C3%25B6rungskarte_20260523-084933.png",
+          "info": "",
+          "alt": "Störungskarte 23.05.2026 08:49:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2026 08:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/049fe5f8-02a3-4df7-9173-b41a273acff8",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
