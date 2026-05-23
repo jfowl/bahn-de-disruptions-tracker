@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "59e3bbc5-bfcb-4347-88ff-04e3148bd918",
+      "disruptionId": "8e2a2b81-bcd9-43e9-897c-233d962e4644",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Berlin und Lutherstadt Wittenberg",
+      "summary": "Aufgrund eines Böschungsbrandes ist die Strecke zwischen Jüterbog und Ludwigsfelde derzeit gesperrt. Dadurch müssen die Züge im Fernverkehr der Deutschen Bahn umgeleitet werden und verspäten sich um etwa 30 Minuten. Vereinzelt kann es zu Zug- oder Haltausfällen kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Berlin und Halle(S)/Leipzig</li><li>ICE Sprinter Züge zwischen Berlin und Erfurt</li><li>einzelne IC Züge zwischen Berlin und Riesa/Dresden</li></ul><p>Die Löscharbeiten sind im Gange. Jedoch können wir derzeit weder den Zeitbedarf für die Löscharbeiten noch die Schäden durch Brandeinwirkung abschätzen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/8e2a2b81-bcd9-43e9-897c-233d962e4644",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/cf666487-bbf7-4c0a-bad5-39e369f75e33st%25C3%25B6rungskarte_20260523-163149.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-23/cf666487-bbf7-4c0a-bad5-39e369f75e33st%25C3%25B6rungskarte_20260523-163149.png",
+          "info": "",
+          "alt": "Störungskarte 23.05.2026 16:31:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2026 16:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/59e3bbc5-bfcb-4347-88ff-04e3148bd918",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_police_activity"
+    },
+    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -544,61 +591,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "0824c808-f56a-4f86-aabf-00c3befbbed4",
-      "disruptionId": "3ca309a4-8a3e-4f93-9748-4a205bd69e15",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Stuttgart Hbf und Eutingen im Gäu",
-      "summary": "Der Streckenabschnitt zwischen Stuttgart Hbf und Eutingen im Gäu ist im Moment beeinträchtigt. Dauer der Störung bis vsl. mindestens 16 Uhr. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Die Züge der Linie RE 14a /b enden und beginnen außerplanmäßig in Stuttgart-Vaihingen. Reisende von und nach Stuttgart Hbf nutzen bitte die Züge der S-Bahn Stuttgart. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 4 (Stuttgart – Konstanz) </li><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "23.05.2026",
-      "durationEnd": "23.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/3ca309a4-8a3e-4f93-9748-4a205bd69e15",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-23/b5361974-6b5a-4dcb-afa7-6fd8d4ae4a0bst%25C3%25B6rungskarte_20260523-074811.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-05-23/b5361974-6b5a-4dcb-afa7-6fd8d4ae4a0bst%25C3%25B6rungskarte_20260523-074811.png",
-          "info": "",
-          "alt": "Störungskarte 23.05.2026 07:48:11",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 14a",
-          "filterName": "RE 14a",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14b",
-          "filterName": "RE 14b",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "23.05.2026 15:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0824c808-f56a-4f86-aabf-00c3befbbed4",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section6"
     },
     {
       "id": "46f84184-04ab-4dbe-ac2c-37f4842819b8",
