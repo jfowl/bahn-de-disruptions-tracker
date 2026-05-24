@@ -2,6 +2,47 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8176a120-8f7f-4637-a480-f063945a5131",
+      "disruptionId": "a5410cde-ab0c-46fa-859c-9df9cc2edb88",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Bus"
+      },
+      "headline": "Es kommt zu Massive Beeinträchtigung auf der Linie Bus X4",
+      "summary": "Aufgrund von Technische Störung am Bus kommt es zu Verspätungen auf der Linie Bus X4",
+      "text": "<p><strong>Zeitraum:</strong> Sonntag, 24. Mai 2026, 16:00 Uhr bis Sonntag, 24. Mai 2026, 18:30 Uhr</p><p><strong>Betroffene Linien:</strong> Bus X4 </p><p>Grund hierfür sind Technische Störung am Bus.</p><p><strong>Unsere Empfehlung: </strong>Keine </p>",
+      "durationBegin": "24.05.2026",
+      "durationEnd": "24.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/a5410cde-ab0c-46fa-859c-9df9cc2edb88",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus X4",
+          "filterName": "Bus X4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.05.2026 17:12",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8176a120-8f7f-4637-a480-f063945a5131",
+      "magnoliaPath": "/aktuell/massive_impairment_technical_problem_vehicle"
+    },
+    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -575,7 +616,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.05.2026 14:15",
+      "lastModified": "24.05.2026 17:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
