@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "01de1868-0a74-4a3e-bd9b-f61e43c666ce",
-      "disruptionId": "42daf87c-4913-43b7-ba6b-c2de8506c0eb",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und  Hannover/Bremen",
-      "summary": "Aufgrund einer Oberleitungsstörung an der Strecke zwischen Hamburg  und Rotenburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Teilausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Hannover - Frankfurt (M) - Mannheim - Basel (- Zürich) - (- Chur))</li><li>Hamburg - Uelzen - Salzwedel - Stendal - Berlin</li><li>Hamburg - Uelzen - Hannover - Kassel-Wilhelmshöhe - Würzburg - München</li><li>amburg - Bremen - Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Stuttgart - München</li><li>Hamburg - Bremen - Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Basel SBB (- Zürich</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/42daf87c-4913-43b7-ba6b-c2de8506c0eb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-25/134a8668-8468-476c-865e-20c27a3312f4st%25C3%25B6rungskarte_20260525-164003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-25/134a8668-8468-476c-865e-20c27a3312f4st%25C3%25B6rungskarte_20260525-164003.png",
-          "info": "",
-          "alt": "Störungskarte 25.05.2026 16:40:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "HH",
-        "BE",
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "25.05.2026 16:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/01de1868-0a74-4a3e-bd9b-f61e43c666ce",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -495,6 +448,75 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "2acf880e-2cb2-4ae8-a3d7-e94e53322e3f",
+      "disruptionId": "9ab307b3-8b2c-4397-a05e-5062d55355ec",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Strecke zwischen Stuttgart Hbf (tief) und Vaihingen wieder befahrbar",
+      "summary": "Folgeabweichungen auf allen Linien möglich",
+      "text": "Der Notarzteinsatz in Stadtmitte ist beendet und die S-Bahnen können wieder regulär zwischen Stuttgart Hbf und Vaihingen verkehren. Es kommt noch zu Folgeabweichungen auf allen Linien bis Personal und Fahrzeug an ihrem planmäßigen Ort sind. Achten Sie daher weiter auf die Durchsagen und Anzeigen am Bahnsteig und und prüfen Sie Ihre Fahrt online.",
+      "durationBegin": "25.05.2026",
+      "durationEnd": "25.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/9ab307b3-8b2c-4397-a05e-5062d55355ec",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "Weiterführende Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.05.2026 19:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2acf880e-2cb2-4ae8-a3d7-e94e53322e3f",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_medical_emergency"
     },
     {
       "id": "23d2b848-1712-449e-a7a2-0844eea3586d",
