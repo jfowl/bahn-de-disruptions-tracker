@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "01de1868-0a74-4a3e-bd9b-f61e43c666ce",
+      "disruptionId": "42daf87c-4913-43b7-ba6b-c2de8506c0eb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und  Hannover/Bremen",
+      "summary": "Aufgrund einer Oberleitungsstörung an der Strecke zwischen Hamburg  und Rotenburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Teilausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Hannover - Frankfurt (M) - Mannheim - Basel (- Zürich) - (- Chur))</li><li>Hamburg - Uelzen - Salzwedel - Stendal - Berlin</li><li>Hamburg - Uelzen - Hannover - Kassel-Wilhelmshöhe - Würzburg - München</li><li>amburg - Bremen - Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Stuttgart - München</li><li>Hamburg - Bremen - Dortmund - Köln - Frankfurt (M) Flugh. Fernbf. - Mannheim - Basel SBB (- Zürich</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/42daf87c-4913-43b7-ba6b-c2de8506c0eb",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-25/134a8668-8468-476c-865e-20c27a3312f4st%25C3%25B6rungskarte_20260525-164003.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-25/134a8668-8468-476c-865e-20c27a3312f4st%25C3%25B6rungskarte_20260525-164003.png",
+          "info": "",
+          "alt": "Störungskarte 25.05.2026 16:40:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "BE",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.05.2026 16:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/01de1868-0a74-4a3e-bd9b-f61e43c666ce",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -793,6 +840,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "7b2ac53b-489f-4809-b62e-20153e6ece84",
+      "disruptionId": "2cf61da4-8591-4b6c-b9bd-f3e73df6bdb3",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "accident",
+        "label": "Unfall an einem Bahnübergang"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) RB24 - Zinnowitz und Peenemünde (mit Gegenrichtung)",
+      "summary": "Montag, 25.05.2026 16:00 Uhr bis vsl. Montag, 25.05.2026 23:59 Uhr ",
+      "text": "<p>Aufgrund eines Unfalls am Bahnübergang kommt es zu Fahrtausfällen auf der Linie <strong>RB24 </strong>(Peenemünde - Zinnowitz - Peenemünde).</p><p>Die Züge der Linie <strong>RB24 </strong>fallen zwischen Zinnowitz und Peenemünde (mit Gegenrichtung) wegen eines Unfalle an einem Bahnübergang bis vsl. 25.05.2026 / 23:59 Uhr aus.</p><p>Nutzen Sie bitte alternative Reisemöglichkeiten und informieren Sie sich bitte vorab.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "25.05.2026",
+      "durationEnd": "25.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/2cf61da4-8591-4b6c-b9bd-f3e73df6bdb3",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.05.2026 18:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7b2ac53b-489f-4809-b62e-20153e6ece84",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_accident"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
