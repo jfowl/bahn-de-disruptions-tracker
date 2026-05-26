@@ -2,6 +2,47 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a9792d11-0a27-465d-803f-aa709e69c3c1",
+      "disruptionId": "ecd40542-5aa9-418d-b282-b5d2bae16f39",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Es kommt zu Massive Beeinträchtigung auf der Linie Bus X4",
+      "summary": "Aufgrund eines Verkehrsunfalls müssen wir weiterhin mit Beeinträchtigungen rechnen. Wir bitte um entschuldigung.",
+      "text": "<p>Aufgrund eines Verkehrsunfalls müssen wir weiterhin mit Beeinträchtigungen rechnen. Wir bitte um entschuldigung.</p>",
+      "durationBegin": "26.05.2026",
+      "durationEnd": "26.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/ecd40542-5aa9-418d-b282-b5d2bae16f39",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "BE",
+        "SH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "Bus X4",
+          "filterName": "Bus X4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.05.2026 17:04",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a9792d11-0a27-465d-803f-aa709e69c3c1",
+      "magnoliaPath": "/aktuell/massive_impairment_police_activity"
+    },
+    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -89,6 +130,51 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "dbd0ce2a-2066-47e0-9ed5-e45452e5a6da",
+      "disruptionId": "c6c29048-4a5c-4d47-95cc-479e405d80e4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Magdeburg  und Braunschweig",
+      "summary": "Aufgrund von [Weichenstörung und Signalstörung ist die Strecke zwischen Magdeburg und Braunschweig derzeit gesperrt. Dadurch kommt es zu Teilausfällen und Umleitungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Oberstdorf -) Stuttgart - Mannheim - Mainz - Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden</li><li>Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig (- Dresden)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/c6c29048-4a5c-4d47-95cc-479e405d80e4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-26/3aec3f16-37e2-489b-85e4-587b240cd881st%25C3%25B6rungskarte_20260526-163809.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-26/3aec3f16-37e2-489b-85e4-587b240cd881st%25C3%25B6rungskarte_20260526-163809.png",
+          "info": "",
+          "alt": "Störungskarte 26.05.2026 16:38:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.05.2026 16:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/dbd0ce2a-2066-47e0-9ed5-e45452e5a6da",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -97,8 +183,8 @@
         "label": "Technischer Defekt am Bahnhof"
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
-      "summary": " Für die Detailübersicht bitte die Meldung aufklappen:",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Wandsbeker Chaussee</p><p></p><p>❌ Ohlsdorf</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 15. September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 26. Oktober 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "summary": " Für die Übersicht bitte die Meldung aufklappen:",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Wandsbeker Chaussee</p><p></p><p>❌ Ohlsdorf</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>❌ Stade - Aufzug B (Personenunterführung &lt;-&gt; Bahnsteig Gleis 1)</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 15. September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 26. Oktober 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "29.05.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
@@ -106,14 +192,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -159,7 +245,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.05.2026 09:21",
+      "lastModified": "26.05.2026 16:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -452,6 +538,93 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "67294ba5-db73-42cb-b67a-7a09cb2d7069",
+      "disruptionId": "ceb10960-4d2c-43f6-9fdb-5dca0e7ac88d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "❌ S3 und S5: Feuerwehreinsatz",
+      "summary": "S3 und S5: Aktuell fährt keine S3 und S5 zwischen Hammerbrook und Wilhelmsburg. Grund: Feuerwehreinsatz. \nBitte nutzen Sie alternativ den Bus 13 oder die gekennzeichneten Taxen. Zwischen Hbf und Harburg können auch die Züge vom Fernverkehr genutzt werden.",
+      "text": "<p>...</p>",
+      "durationBegin": "26.05.2026",
+      "durationEnd": "26.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/ceb10960-4d2c-43f6-9fdb-5dca0e7ac88d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.05.2026 18:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/67294ba5-db73-42cb-b67a-7a09cb2d7069",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
+      "id": "2933c96d-1cb5-426b-b6b8-8c806c13c3a5",
+      "disruptionId": "f7a7e661-72e7-46c3-a920-77fcba497043",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1 Feldmoching ↔ Neufahrn: Reparatur an einer Weiche",
+      "summary": "Zwischen Feldmoching und Neufahrn sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Neufahrn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Neufahrn und Feldmoching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 30 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "26.05.2026",
+      "durationEnd": "26.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/f7a7e661-72e7-46c3-a920-77fcba497043",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/b73ec1aa-c22a-4362-be55-17b74d94cd36st%25C3%25B6rungskarte_20260526-180519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/b73ec1aa-c22a-4362-be55-17b74d94cd36st%25C3%25B6rungskarte_20260526-180519.png",
+          "info": "",
+          "alt": "Störungskarte 26.05.2026 18:05:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.05.2026 18:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2933c96d-1cb5-426b-b6b8-8c806c13c3a5",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "23d2b848-1712-449e-a7a2-0844eea3586d",
       "disruptionId": "a8d3a219-5e1f-4714-8a61-22d0ece6b29b",
       "author": "REGIO_BW",
@@ -639,25 +812,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "2933c96d-1cb5-426b-b6b8-8c806c13c3a5",
-      "disruptionId": "f7a7e661-72e7-46c3-a920-77fcba497043",
+      "id": "ff8a5054-7862-4bb9-b582-7ff8330e008a",
+      "disruptionId": "070b9cca-1b0e-4711-a28e-dac0580439bb",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 1 Feldmoching: Reparatur an einer Weiche",
-      "summary": "Im Bereich Feldmoching kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
-      "text": "<p>Die S - Bahnen fahren in dem betroffenen Bereich langsamer.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Icking: Reparatur an der Strecke",
+      "summary": "Zwischen Ebenhausen-Schäftlarn und Icking kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "26.05.2026",
       "durationEnd": "26.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/f7a7e661-72e7-46c3-a920-77fcba497043",
+      "mapHref": "https://karte.bahn.de/detail/070b9cca-1b0e-4711-a28e-dac0580439bb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/f78b32b9-7761-4e12-9d95-2c389d4aec84st%25C3%25B6rungskarte_20260526-151531.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/f78b32b9-7761-4e12-9d95-2c389d4aec84st%25C3%25B6rungskarte_20260526-151531.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/b7aed401-77b1-4173-aea2-71b55849c577st%25C3%25B6rungskarte_20260526-165350.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/b7aed401-77b1-4173-aea2-71b55849c577st%25C3%25B6rungskarte_20260526-165350.png",
           "info": "",
-          "alt": "Störungskarte 26.05.2026 15:15:31",
+          "alt": "Störungskarte 26.05.2026 16:53:50",
           "openInNewTab": true
         }
       ],
@@ -671,62 +844,22 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.05.2026 15:17",
+      "lastModified": "26.05.2026 18:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2933c96d-1cb5-426b-b6b8-8c806c13c3a5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "4f465605-59f6-4d48-8fec-4eea922220b8",
-      "disruptionId": "4afe3e76-9c73-407a-9347-7038de0151b6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an einer Weiche",
-      "summary": "Zwischen Dachau und Petershausen kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche. </p>",
-      "durationBegin": "26.05.2026",
-      "durationEnd": "26.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/4afe3e76-9c73-407a-9347-7038de0151b6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/12eef40e-6a7c-4cb1-8311-b5be07099001st%25C3%25B6rungskarte_20260526-145135.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/12eef40e-6a7c-4cb1-8311-b5be07099001st%25C3%25B6rungskarte_20260526-145135.png",
-          "info": "",
-          "alt": "Störungskarte 26.05.2026 14:51:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.05.2026 14:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4f465605-59f6-4d48-8fec-4eea922220b8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+      "detailPagePath": "/service/fahrplaene/ff8a5054-7862-4bb9-b582-7ff8330e008a",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "8ba742b7-c955-4ac6-8976-78b84e0e67cb",
@@ -1155,51 +1288,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "f25c06a1-179f-46b2-8f9b-d7fd365b3ffa",
-      "disruptionId": "6391521e-9467-45f3-a1bb-c25a73d4ecf4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 1 Oberschleißheim: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Oberschleißheim kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "26.05.2026",
-      "durationEnd": "26.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/6391521e-9467-45f3-a1bb-c25a73d4ecf4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/6129dbfd-7789-4146-b631-d35ed987d019st%25C3%25B6rungskarte_20260526-130322.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-26/6129dbfd-7789-4146-b631-d35ed987d019st%25C3%25B6rungskarte_20260526-130322.png",
-          "info": "",
-          "alt": "Störungskarte 26.05.2026 13:03:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.05.2026 14:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f25c06a1-179f-46b2-8f9b-d7fd365b3ffa",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
