@@ -458,43 +458,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "a06ddf8c-42ba-44a2-bb7f-d2fb120c4b00",
-      "disruptionId": "6ffeca29-19b4-47b6-a297-e3261557fb63",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Aktuelle Information zur S2 – Betriebsaufnahme auf der Stammstrecke",
-      "summary": "Die S2 verkehrt wieder mit allen Halten durch die Stammstrecke, allerdings mit Einschränkungen:",
-      "text": "<p>Die S2 wendet am Leuchtenbergring und fährt nicht weiter bis Riem.</p><p>Der Abschnitt zwischen Leuchtenbergring und Riem wird weiterhin nicht bedient. Die Wiederaufnahme dieses Streckenabschnitts ist in Arbeit.</p><p>Bitte beachten Sie die eingeschränkte Bedienung und rechnen Sie mit längeren Reisezeiten</p>",
-      "durationBegin": "30.05.2026",
-      "durationEnd": "30.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/6ffeca29-19b4-47b6-a297-e3261557fb63",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.05.2026 17:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a06ddf8c-42ba-44a2-bb7f-d2fb120c4b00",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -911,6 +874,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "8c9686b1-5da0-4ed7-8ab4-2b4652cc9b15",
+      "disruptionId": "b833ebc0-eac5-40ea-b48f-157ce51a8d93",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 1 Unterschleißheim: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Im Bereich Unterschleißheim kommt es zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "30.05.2026",
+      "durationEnd": "30.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/b833ebc0-eac5-40ea-b48f-157ce51a8d93",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-30/88b7750c-2bdb-4254-86b2-959660c849fast%25C3%25B6rungskarte_20260530-194210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-30/88b7750c-2bdb-4254-86b2-959660c849fast%25C3%25B6rungskarte_20260530-194210.png",
+          "info": "",
+          "alt": "Störungskarte 30.05.2026 19:42:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.05.2026 19:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8c9686b1-5da0-4ed7-8ab4-2b4652cc9b15",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
