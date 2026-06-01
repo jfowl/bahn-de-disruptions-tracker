@@ -9,15 +9,22 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "Beeinträchtigungen in Röhrmoos zwischen Ingolstadt und München",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ingolstadt und München kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 40 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>Dortmund - Köln Messe / Deutz - Frankfurt (M) - Würzburg - Nürnberg - München)</p><p>Teilausfall Nürnberg - München</p><p>Hamburg - Berlin - Leipzig - Erfurt - München</p><ul><li><ul><li>Von München Richtung Nürnberg Regelweg</li><li>Von Nürnberg Richtung München Umleitung über Augsburg</li><li>Haltausfall Ingolstadt</li><li>Verspätung ca: 40 Minuten</li><li>Ersatzhalt Treuchtlingen</li></ul></li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ingolstadt und München kommt es derzeit zu Umleitungen und Ausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge der Verbindung Dortmund - Köln - Frankfurt(M) - Würzburg - Nürnberg - München fallen zwischen Nürnberg und München aus.</li><li>Einzelne ICE-Züge der Verbindung Berlin - Leipzig - Erfurt - Nürnberg - München werden zwischen Nürnberg und München umgeleitet und verspäten sich um etwa 40 Minuten. Im Falle einer Umleitung entfällt der Halt in Ingolstadt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "01.06.2026",
       "mapHref": "https://karte.bahn.de/detail/a360e0b7-0149-4856-8046-21efe24c769c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/df2046a7-2db5-4dc5-a187-437bba5cda5cst%25C3%25B6rungskarte_20260601-003756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/df2046a7-2db5-4dc5-a187-437bba5cda5cst%25C3%25B6rungskarte_20260601-003756.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/cbe7cf6a-22b4-4f4f-a117-b851b98465a0st%25C3%25B6rungskarte_20260601-115200.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/cbe7cf6a-22b4-4f4f-a117-b851b98465a0st%25C3%25B6rungskarte_20260601-115200.png",
+          "info": "",
+          "alt": "Störungskarte 01.06.2026 11:52:00",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/be5ea051-cb9b-4cb9-a1db-4838361da2a8st%25C3%25B6rungskarte_20260601-003756.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/be5ea051-cb9b-4cb9-a1db-4838361da2a8st%25C3%25B6rungskarte_20260601-003756.png",
           "info": "",
           "alt": "Störungskarte 01.06.2026 00:37:56",
           "openInNewTab": true
@@ -29,8 +36,11 @@
         "LONG_DISTANCE"
       ],
       "states": [
+        "BB",
+        "BE",
+        "TH",
         "BY",
-        "NW",
+        "SN",
         "HE"
       ],
       "lines": [
@@ -40,7 +50,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "01.06.2026 05:05",
+      "lastModified": "01.06.2026 11:55",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0078d220-346f-48eb-8768-fd20b1acdbfb",
@@ -557,6 +567,88 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "1da10a34-fef1-4dea-a558-97c9c1304876",
+      "disruptionId": "09a9c44c-06df-4935-85df-bc29563ba739",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Maisach ↔ Deisenhofen: Reparatur an der Strecke",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 3 Maisach → Deisenhofen</strong>&nbsp;</p><ul><li>S 3<strong> </strong>Pasing Abfahrt 15:41 Uhr → Ostbahnhof Ankunft 15:59 Uhr / Abfahrt 16:02 Uhr → Deisenhofen Ankunft 16:21 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:01 Uhr → Ostbahnhof Ankunft 16:19 Uhr / Abfahrt 16:22 Uhr → Deisenhofen Ankunft 16:41 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:21 Uhr → Ostbahnhof Ankunft 16:39 Uhr / Abfahrt 16:42 Uhr → Deisenhofen Ankunft 17:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:59 Uhr / Abfahrt 17:02 Uhr → Deisenhofen Ankunft 17:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 17:19 Uhr / Abfahrt 17:22 Uhr → Deisenhofen Ankunft 17:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:39 Uhr / Abfahrt 17:42 Uhr → Deisenhofen Ankunft 18:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:59 Uhr / Abfahrt 18:02 Uhr → Deisenhofen Ankunft 18:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 18:19 Uhr / Abfahrt 18:22 Uhr → Deisenhofen Ankunft 18:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:39 Uhr / Abfahrt 18:42 Uhr → Deisenhofen Ankunft 19:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:59 Uhr / Abfahrt 19:02 Uhr → Deisenhofen Ankunft 19:21 Uhr&nbsp;</li></ul><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Ostbahnhof Abfahrt 15:17 Uhr → Maisach Ankunft 15:58 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:37 Uhr → Maisach Ankunft 16:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:57 Uhr → Maisach Ankunft 16:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:35 Uhr / Abfahrt 16:37 Uhr → Maisach Ankunft 17:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 16:55 Uhr / Abfahrt 16:57 Uhr → Maisach Ankunft 17:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:15 Uhr / Abfahrt 17:17 Uhr → Maisach Ankunft 17:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:35 Uhr / Abfahrt 17:37 Uhr → Maisach Ankunft 18:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 17:55 Uhr / Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:15 Uhr / Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:35 Uhr / Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:40 Uhr → Ostbahnhof Ankunft 18:55 Uhr / Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "01.06.2026",
+      "durationEnd": "01.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/09a9c44c-06df-4935-85df-bc29563ba739",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/1d9de06d-22f6-4f0f-8c52-005ebad4fb59st%25C3%25B6rungskarte_20260601-121221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/1d9de06d-22f6-4f0f-8c52-005ebad4fb59st%25C3%25B6rungskarte_20260601-121221.png",
+          "info": "",
+          "alt": "Störungskarte 01.06.2026 12:12:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.06.2026 14:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1da10a34-fef1-4dea-a558-97c9c1304876",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "a895b4c9-ff4f-4110-aea8-314ae1adec19",
+      "disruptionId": "a87f61b2-803e-4422-aa3c-f98e4210acb1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Reparatur an der Strecke",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 <strong> </strong>München Ost Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "01.06.2026",
+      "durationEnd": "01.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a87f61b2-803e-4422-aa3c-f98e4210acb1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.06.2026 14:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a895b4c9-ff4f-4110-aea8-314ae1adec19",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "f5f594b1-706d-4f2e-b662-3a02415ba2ae",
       "disruptionId": "bbafbbd3-c3ac-41af-abba-6ab414c35f93",
       "author": "S_BAHN_MUC",
@@ -564,16 +656,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 6 / S5 Abweichende Linienführung: Reparatur an der Strecke",
-      "summary": "Die S-Bahnen der Linie S 6 werden umgeleitet.",
-      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 wird zwischen<strong> Pasing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Trudering </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S6 verkehrt zwischen <strong>Trudering </strong>→ <strong>Ostbahnhof </strong>→ <strong>Pasing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>S 5 Weßling ↔ Kreuzstraße</strong></p><ul><li>Die S-Bahnen der Linie S 5 fahren zwischen <strong>Kreuzstraße ↔ Ostbahnhof</strong>.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul></li></ul><p><strong>(Nur HVZ)</strong> <strong>S 20 Geltendorf ↔ Höllriegelskreuth</strong></p><ul><li>Die Linie S 20 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Heimeranplatz Gleis 11</strong>.</li></ul><p> Auf allen Linien kommt es zu Verspätungen in Richtung Pasing → Ostbahnhof von 10 bis zu 15 Minuten.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S5 Abweichende Linienführung: Reparatur an der Strecke",
+      "summary": "S 5 Weßling ↔ Ostbahnhof",
+      "text": "<ul><li>Die S-Bahnen der Linie S 5 fahren zwischen <strong>Kreuzstraße ↔ Ostbahnhof</strong>.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul></li></ul><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "01.06.2026",
       "durationEnd": "01.06.2026",
       "mapHref": "https://karte.bahn.de/detail/bbafbbd3-c3ac-41af-abba-6ab414c35f93",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/08ceac10-ebf3-4b45-a388-867c40fff46dst%25C3%25B6rungskarte_20260601-073817.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/08ceac10-ebf3-4b45-a388-867c40fff46dst%25C3%25B6rungskarte_20260601-073817.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/2736bf34-c64c-4e79-885c-043b2dc436c1st%25C3%25B6rungskarte_20260601-073817.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/2736bf34-c64c-4e79-885c-043b2dc436c1st%25C3%25B6rungskarte_20260601-073817.png",
           "info": "",
           "alt": "Störungskarte 01.06.2026 07:38:17",
           "openInNewTab": true
@@ -594,7 +686,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.06.2026 08:56",
+      "lastModified": "01.06.2026 12:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -642,96 +734,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
-    },
-    {
-      "id": "367ffd9b-35df-4153-af71-384ad8780ac6",
-      "disruptionId": "351d957c-0e3a-4581-9279-f1e612aa6c6b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Dachau ↔ Ostbahnhof: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 06:19 Uhr → Ostbahnhof Ankunft 06:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 06:39 Uhr → Ostbahnhof Ankunft 07:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "01.06.2026",
-      "durationEnd": "01.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/351d957c-0e3a-4581-9279-f1e612aa6c6b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/a0de4daf-14ca-4201-af5e-01bdcb724fd2st%25C3%25B6rungskarte_20260531-214440.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/a0de4daf-14ca-4201-af5e-01bdcb724fd2st%25C3%25B6rungskarte_20260531-214440.png",
-          "info": "",
-          "alt": "Störungskarte 31.05.2026 21:44:40",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.06.2026 04:31",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/367ffd9b-35df-4153-af71-384ad8780ac6",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section2"
-    },
-    {
-      "id": "679675ac-3c2e-4ef4-ae36-59a993693c3b",
-      "disruptionId": "df6213b3-d811-4ffa-9afd-e13b43f64fac",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 3 Maisach ↔ Deisenhofen: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr&nbsp;</li></ul><p><strong>\tDeisenhofen → Ostbahnhof (Entfall Ostbahnhof → Pasing → Maisach)</strong></p><ul><li>S 3 Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr /</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr</li></ul><p></p><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "01.06.2026",
-      "durationEnd": "01.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/df6213b3-d811-4ffa-9afd-e13b43f64fac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/01b8eb99-1594-4926-9179-cb2633f56f22st%25C3%25B6rungskarte_20260531-222020.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/01b8eb99-1594-4926-9179-cb2633f56f22st%25C3%25B6rungskarte_20260531-222020.png",
-          "info": "",
-          "alt": "Störungskarte 31.05.2026 22:20:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.06.2026 04:31",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/679675ac-3c2e-4ef4-ae36-59a993693c3b",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
@@ -880,25 +882,25 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "115453ec-3743-43e3-9967-b78ffaf4d4cd",
-      "disruptionId": "b1f11ddd-f67e-4b67-8236-8f477a0f1907",
+      "id": "0ef49d6c-26f8-46fb-9d34-33a1791a8ad4",
+      "disruptionId": "f7edd9ea-18d2-4caf-81ae-300fb1d12d62",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 1 Feldmoching: Reparatur an einer Weiche",
-      "summary": "Im Bereich Feldmoching kommt es in Richtung Oberschleißheim zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "S 5 Giesing ↔ Perlach: Reparatur an einem Signal",
+      "summary": "Zwischen Giesing und Perlach kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "01.06.2026",
       "durationEnd": "01.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/b1f11ddd-f67e-4b67-8236-8f477a0f1907",
+      "mapHref": "https://karte.bahn.de/detail/f7edd9ea-18d2-4caf-81ae-300fb1d12d62",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/24ca04da-0f2a-4533-9c7f-78fbcd851b9est%25C3%25B6rungskarte_20260601-050801.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/24ca04da-0f2a-4533-9c7f-78fbcd851b9est%25C3%25B6rungskarte_20260601-050801.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/151b7f2f-1e94-4598-b03b-11678ac66086st%25C3%25B6rungskarte_20260601-145418.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-01/151b7f2f-1e94-4598-b03b-11678ac66086st%25C3%25B6rungskarte_20260601-145418.png",
           "info": "",
-          "alt": "Störungskarte 01.06.2026 05:08:01",
+          "alt": "Störungskarte 01.06.2026 14:54:18",
           "openInNewTab": true
         }
       ],
@@ -912,17 +914,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.06.2026 08:13",
+      "lastModified": "01.06.2026 14:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/115453ec-3743-43e3-9967-b78ffaf4d4cd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section11"
+      "detailPagePath": "/service/fahrplaene/0ef49d6c-26f8-46fb-9d34-33a1791a8ad4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
