@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "45677a48-908d-4443-a3ce-d3cf55a3c715",
-      "disruptionId": "67893e50-bc06-4471-803e-17a12417c3d1",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5 : Derzeit keine Fahrten zwischen Hauptbahnhof und Neugraben",
-      "summary": "Die S5 fährt derzeit nicht zwischen Hauptbahnhof und Neugraben. Die Züge fahren aus Richtung Elbgaustraße ab Hauptbahnhof abweichend nach Berliner Tor bzw. Bergedorf. Der Grund ist eine technische Störung an der Strecke.",
-      "text": "<p>Zur Fahrt ab / bis Stade ist ein Umstieg in Neugraben erforderlich. Auf der S3 kann es zu Verspätungen kommen. </p>",
-      "durationBegin": "02.06.2026",
-      "durationEnd": "02.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/67893e50-bc06-4471-803e-17a12417c3d1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.06.2026 11:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/45677a48-908d-4443-a3ce-d3cf55a3c715",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "9300029e-0411-416d-bfb3-66f2a50111a1",
       "disruptionId": "a3ad4e17-1c72-4d83-83ba-7084b9d33961",
       "author": "REGIO_NORDOST",
@@ -187,6 +143,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "715052d6-2718-40c3-b5e2-13910317e121",
+      "disruptionId": "6d6b74ba-d4fa-4fd4-a06d-58ed870fc7d1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen im internationalen Zugverkehr zwischen Berlin und Polen",
+      "summary": "Aufgrund eines Feuerwehreinsatzes zwischen Frankfurt(O) und Rzepin ist die Strecke derzeit gesperrt. Dadurch kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC Züge der Verbindung Berlin - Frankfurt(O) - Warschau fallen zwischen Berlin und Rzepin aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/6d6b74ba-d4fa-4fd4-a06d-58ed870fc7d1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/e45604d4-1dec-4ff6-af20-7e0030279860st%25C3%25B6rungskarte_20260602-125706.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/e45604d4-1dec-4ff6-af20-7e0030279860st%25C3%25B6rungskarte_20260602-125706.png",
+          "info": "",
+          "alt": "Störungskarte 02.06.2026 12:57:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.06.2026 14:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/715052d6-2718-40c3-b5e2-13910317e121",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "3d0d827f-bd9d-48e0-b803-3683e3d8391a",
       "disruptionId": "3243fcb5-f6ff-46e2-8a95-5935e70907a8",
       "author": "REGIO_MITTE",
@@ -316,9 +316,9 @@
         "category": "technical_problem_railway_section",
         "label": "Streckensperrung"
       },
-      "headline": "Verkehrsmeldung für die Linie RE 2 - Zwischen Berlin Ostkreuz und Hennigsdorf",
+      "headline": "Verkehrsmeldung für die Linie RE 2 - zwischen Berlin Ostkreuz und Hennigsdorf",
       "summary": "Freitag, 29.05.2026 00:00 Uhr bis vsl. Mittwoch, 10.06.2026 23:59 Uhr ",
-      "text": "<p>Die Züge der Linie RE2 werden nur in Fahrtrichtung Hennigsdorf(b Berlin) ab 02.06.2026 wegen Bauarbeiten bis 10.06.2026 ab Berlin Ostkreuz über Berlin-Lichtenberg nach Hennigsdorf(b Berlin) umgeleitet.</p><p>Die Halte in Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten, Berlin-Charlottenburg, Berlin-Spandau, Staaken und Dallgow-Döberitz entfallen. Bitte nutzen Sie alternative die S-Bahn sowie den öffentlichen Nahverkehr.</p><p>Die Züge der Linie RE2 halten in Berlin Ostkreuz abweichend auf der oberen Ebene: Gleis 13/14.</p><p>In den Nächten 02./03.06 bis 09./10.06 kommt es zusätzlich in der Zeit von 21:00 - 05:00 Uhr zu einer Sperrung zwischen Königs Wusterhausen und Brand Tropical Islands.</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Die Züge der Linie RE2 werden ab 02.06.2026 in Fahrtrichtung Hennigsdorf(b Berlin) wegen Bauarbeiten bis 10.06.2026 ab Berlin Ostkreuz über Berlin-Lichtenberg nach Hennigsdorf(b Berlin) umgeleitet.</p><p>Die Halte in Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten, Berlin-Charlottenburg, Berlin-Spandau, Staaken und Dallgow-Döberitz entfallen. Bitte nutzen Sie alternative die S-Bahn sowie den öffentlichen Nahverkehr.</p><p>Die Züge der Linie RE2 halten in Berlin Ostkreuz abweichend auf der oberen Ebene: Gleis 13/14.</p><p>In den Nächten 02./03.06 bis 09./10.06 kommt es zusätzlich in der Zeit von 21:00 - 05:00 Uhr zu einer Sperrung zwischen Königs Wusterhausen und Brand Tropical Islands. Dafür ist ein Ersatzverkehr mit Bus eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "29.05.2026",
       "durationEnd": "10.06.2026",
       "mapHref": "https://karte.bahn.de/detail/2e0cb55f-d157-4ba4-8225-81af6c74983f",
@@ -326,14 +326,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -352,7 +352,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.06.2026 09:38",
+      "lastModified": "02.06.2026 12:38",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aded5818-46aa-4510-8081-c10d84fe5a65",
@@ -808,6 +808,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "eb78ddb5-52a0-4074-92f4-275c38bb780d",
+      "disruptionId": "fd8c6d25-2102-4629-bde3-b7021c73584c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Reparatur an der Strecke",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2<strong> </strong>München Ost Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "02.06.2026",
+      "durationEnd": "02.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/fd8c6d25-2102-4629-bde3-b7021c73584c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/bbfa5974-64bf-4397-a4f0-62787708113ast%25C3%25B6rungskarte_20260602-113129.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/bbfa5974-64bf-4397-a4f0-62787708113ast%25C3%25B6rungskarte_20260602-113129.png",
+          "info": "",
+          "alt": "Störungskarte 02.06.2026 11:31:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.06.2026 14:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/eb78ddb5-52a0-4074-92f4-275c38bb780d",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section4"
+    },
+    {
+      "id": "c152bc3f-8d5f-4084-9ac6-5b62aaffdec7",
+      "disruptionId": "fdfa9d1c-93dc-45d9-8f0f-da019f756359",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Maisach ↔ Deisenhofen: Reparatur an der Strecke",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 3 Maisach → Deisenhofen</strong>&nbsp;</p><ul><li>S 3 <strong> </strong>Pasing Abfahrt 15:41 Uhr → Ostbahnhof Ankunft 15:59 Uhr / Abfahrt 16:02 Uhr → Deisenhofen Ankunft 16:21 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:01 Uhr → Ostbahnhof Ankunft 16:19 Uhr / Abfahrt 16:22 Uhr → Deisenhofen Ankunft 16:41 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:21 Uhr → Ostbahnhof Ankunft 16:39 Uhr / Abfahrt 16:42 Uhr → Deisenhofen Ankunft 17:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:59 Uhr / Abfahrt 17:02 Uhr → Deisenhofen Ankunft 17:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 17:19 Uhr / Abfahrt 17:22 Uhr → Deisenhofen Ankunft 17:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:39 Uhr / Abfahrt 17:42 Uhr → Deisenhofen Ankunft 18:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:59 Uhr / Abfahrt 18:02 Uhr → Deisenhofen Ankunft 18:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 18:19 Uhr / Abfahrt 18:22 Uhr → Deisenhofen Ankunft 18:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:39 Uhr / Abfahrt 18:42 Uhr → Deisenhofen Ankunft 19:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:59 Uhr / Abfahrt 19:02 Uhr → Deisenhofen Ankunft 19:21 Uhr&nbsp;</li></ul><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Ostbahnhof Abfahrt 15:17 Uhr → Maisach Ankunft 15:58 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:37 Uhr → Maisach Ankunft 16:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:57 Uhr → Maisach Ankunft 16:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:35 Uhr / Abfahrt 16:37 Uhr → Maisach Ankunft 17:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 16:55 Uhr / Abfahrt 16:57 Uhr → Maisach Ankunft 17:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:15 Uhr / Abfahrt 17:17 Uhr → Maisach Ankunft 17:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:35 Uhr / Abfahrt 17:37 Uhr → Maisach Ankunft 18:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 17:55 Uhr / Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:15 Uhr / Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:35 Uhr / Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:40 Uhr → Ostbahnhof Ankunft 18:55 Uhr / Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "02.06.2026",
+      "durationEnd": "02.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/fdfa9d1c-93dc-45d9-8f0f-da019f756359",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/b276b24d-ba79-43f6-b77c-1cbf9be6bed1st%25C3%25B6rungskarte_20260602-113910.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/b276b24d-ba79-43f6-b77c-1cbf9be6bed1st%25C3%25B6rungskarte_20260602-113910.png",
+          "info": "",
+          "alt": "Störungskarte 02.06.2026 11:39:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.06.2026 14:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c152bc3f-8d5f-4084-9ac6-5b62aaffdec7",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
