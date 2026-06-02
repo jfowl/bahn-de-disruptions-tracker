@@ -2,59 +2,48 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0078d220-346f-48eb-8768-fd20b1acdbfb",
-      "disruptionId": "a360e0b7-0149-4856-8046-21efe24c769c",
-      "author": "FERNVERKEHR_AG",
+      "id": "45677a48-908d-4443-a3ce-d3cf55a3c715",
+      "disruptionId": "67893e50-bc06-4471-803e-17a12417c3d1",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ingolstadt und München kommt es derzeit zu Umleitungen und Ausfällen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge der Verbindung Dortmund - Köln - Frankfurt(M) - Würzburg - Nürnberg - München fallen zwischen Nürnberg und München aus.</li><li>Einzelne ICE-Züge der Verbindung Berlin - Leipzig - Erfurt - Nürnberg - München werden zwischen Nürnberg und München umgeleitet und verspäten sich um etwa 40 Minuten. Im Falle einer Umleitung entfällt der Halt in Ingolstadt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a360e0b7-0149-4856-8046-21efe24c769c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/cbe7cf6a-22b4-4f4f-a117-b851b98465a0st%25C3%25B6rungskarte_20260601-115200.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/cbe7cf6a-22b4-4f4f-a117-b851b98465a0st%25C3%25B6rungskarte_20260601-115200.png",
-          "info": "",
-          "alt": "Störungskarte 01.06.2026 11:52:00",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/be5ea051-cb9b-4cb9-a1db-4838361da2a8st%25C3%25B6rungskarte_20260601-003756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-01/be5ea051-cb9b-4cb9-a1db-4838361da2a8st%25C3%25B6rungskarte_20260601-003756.png",
-          "info": "",
-          "alt": "Störungskarte 01.06.2026 00:37:56",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "S5 : Derzeit keine Fahrten zwischen Hauptbahnhof und Neugraben",
+      "summary": "Die S5 fährt derzeit nicht zwischen Hauptbahnhof und Neugraben. Die Züge fahren aus Richtung Elbgaustraße ab Hauptbahnhof abweichend nach Berliner Tor bzw. Bergedorf. Der Grund ist eine technische Störung an der Strecke.",
+      "text": "<p>Zur Fahrt ab / bis Stade ist ein Umstieg in Neugraben erforderlich. Auf der S3 kann es zu Verspätungen kommen. </p>",
+      "durationBegin": "02.06.2026",
+      "durationEnd": "02.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/67893e50-bc06-4471-803e-17a12417c3d1",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "BB",
-        "BE",
-        "TH",
-        "BY",
-        "SN",
-        "HE"
+        "HH",
+        "SH",
+        "NI"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "01.06.2026 11:55",
+      "lastModified": "02.06.2026 11:10",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0078d220-346f-48eb-8768-fd20b1acdbfb",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/45677a48-908d-4443-a3ce-d3cf55a3c715",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "9300029e-0411-416d-bfb3-66f2a50111a1",
@@ -198,50 +187,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "13be2a93-01e4-4806-b399-d432a4776186",
-      "disruptionId": "767f0d7a-708d-4b8e-995f-8fbd936d4573",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Stuttgart und Ulm",
-      "summary": "Aufgrund einer Reparatur an der Weiche bei Merklingen (Schwäbische Alb) auf der Schnellfahrstrecke zwischen Stuttgart und Ulm kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge werden zwischen Stuttgart und Ulm umgeleitet und verspäten sich dadurch um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Vormittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/767f0d7a-708d-4b8e-995f-8fbd936d4573",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/96c3799e-8269-4cfc-a783-b80d25160a19st%25C3%25B6rungskarte_20260602-064947.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/96c3799e-8269-4cfc-a783-b80d25160a19st%25C3%25B6rungskarte_20260602-064947.png",
-          "info": "",
-          "alt": "Störungskarte 02.06.2026 06:49:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "02.06.2026 06:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/13be2a93-01e4-4806-b399-d432a4776186",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "3d0d827f-bd9d-48e0-b803-3683e3d8391a",
       "disruptionId": "3243fcb5-f6ff-46e2-8a95-5935e70907a8",
       "author": "REGIO_MITTE",
@@ -249,7 +194,7 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "Die Strecke zwischen Worms Hbf und Biblis ist im Moment eingestellt.",
+      "headline": "Die Strecke zwischen Worms Hbf und Biblis ist eingestellt.",
       "summary": "Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit.",
       "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Worms Hbf &lt;&gt; Biblis</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB62 - Worms &lt;&gt; Hofheim &lt;&gt; Biblis </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Zugausfälle.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "02.06.2026",
@@ -272,7 +217,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.06.2026 06:46",
+      "lastModified": "02.06.2026 09:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -287,9 +232,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Die Strecke zwischen Ludwigshafen(Rh)Hbf und Mannheim Hbf ist im Moment beeinträchtigt.",
+      "headline": "Die Strecke zwischen Ludwigshafen(Rh)Hbf und Mannheim Hbf ist beeinträchtigt.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Zur Entlastung der Strecke zwischen Mannheim Hbf und Ludwigshafen Hbf halten die Züge in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🕜<strong>Dauer der Beeinträchtigung bis vsl. 08.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Zur Entlastung der Strecke zwischen Mannheim Hbf und Ludwigshafen Hbf halten die Züge in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte.</p><p>🚍&nbsp;<strong>Alternative:</strong> Bitte nutzen Sie ab Mannheim Züge der Gegenrichtung oder nutzen sie die Stadtbahnen der RNV Linie 6/6A. In der Folge kommt es auch zu Verspätungen und Teilausfällen.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "02.06.2026",
       "durationEnd": "08.06.2026",
       "mapHref": "https://karte.bahn.de/detail/b97dac1b-2e45-4a5b-be7e-ad475cf7ef61",
@@ -356,7 +301,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.06.2026 06:43",
+      "lastModified": "02.06.2026 09:04",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -373,7 +318,7 @@
       },
       "headline": "Verkehrsmeldung für die Linie RE 2 - Zwischen Berlin Ostkreuz und Hennigsdorf",
       "summary": "Freitag, 29.05.2026 00:00 Uhr bis vsl. Mittwoch, 10.06.2026 23:59 Uhr ",
-      "text": "<p>Aufgrund einer Streckenbeschädigung werden die Züge der Linie RE2 (mit Gegenrichtung) umgeleitet: Ab Berlin Ostkreuz über Berlin-Lichtenberg (mit Verkehrshalt) nach Hennigsdorf (b Berlin).</p><p>Des Weiteren werden die Züge der Linie RE2 nur in Fahrrichtung Hennigsdorf(b Berlin) ab 02.06.2026 wegen Bauarbeiten bis 10.06.2026 ab Berlin Ostkreuz über Berlin-Lichtenberg nach Hennigsdorf(b Berlin) umgeleitet.</p><p>Die Verkehrshalte Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten, Berlin-Charlottenburg, Berlin-Spandau und Dallgow-Döberitz entfallen in beiden Richtungen. Bitte nutzen Sie alternative Reisemöglichkeiten.</p><p>Die Züge der Linie RE2 halten in Berlin Ostkreuz abweichend auf der oberen Ebene: Gleis 13/14.</p><p>In den Nächten 02./03.06 bis 09./10.06 kommt es zusätzlich in der Zeit von 21:00 - 05:00 Uhr zu einer Sperrung zwischen Königs Wusterhausen und Brand Tropical Islands.</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Die Züge der Linie RE2 werden nur in Fahrtrichtung Hennigsdorf(b Berlin) ab 02.06.2026 wegen Bauarbeiten bis 10.06.2026 ab Berlin Ostkreuz über Berlin-Lichtenberg nach Hennigsdorf(b Berlin) umgeleitet.</p><p>Die Halte in Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten, Berlin-Charlottenburg, Berlin-Spandau, Staaken und Dallgow-Döberitz entfallen. Bitte nutzen Sie alternative die S-Bahn sowie den öffentlichen Nahverkehr.</p><p>Die Züge der Linie RE2 halten in Berlin Ostkreuz abweichend auf der oberen Ebene: Gleis 13/14.</p><p>In den Nächten 02./03.06 bis 09./10.06 kommt es zusätzlich in der Zeit von 21:00 - 05:00 Uhr zu einer Sperrung zwischen Königs Wusterhausen und Brand Tropical Islands.</p><p>Ein Ersatzverkehr mit Bus wird eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "29.05.2026",
       "durationEnd": "10.06.2026",
       "mapHref": "https://karte.bahn.de/detail/2e0cb55f-d157-4ba4-8225-81af6c74983f",
@@ -381,14 +326,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -407,7 +352,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.06.2026 03:44",
+      "lastModified": "02.06.2026 09:38",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aded5818-46aa-4510-8081-c10d84fe5a65",
@@ -554,7 +499,7 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "Die Strecke zwischen Bad Bergzabern und Winden(Pfalz) ist im Moment eingestellt.",
+      "headline": "Die Strecke zwischen Bad Bergzabern und Winden(Pfalz) ist eingestellt.",
       "summary": "Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit.",
       "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Bad Bergzabern &lt;&gt; Winden(Pfalz)</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB54 - Winden &lt;&gt; Bad Bergzabern </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es zu Zugausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist ab ca. 08:00 Uhr eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "02.06.2026",
@@ -586,7 +531,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.06.2026 06:47",
+      "lastModified": "02.06.2026 09:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -780,6 +725,49 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "0078d220-346f-48eb-8768-fd20b1acdbfb",
+      "disruptionId": "a360e0b7-0149-4856-8046-21efe24c769c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ingolstadt und München kommt es derzeit zu Umleitungen und Ausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge der Verbindung Dortmund - Köln - Frankfurt(M) - Würzburg - Nürnberg - München fallen zwischen Nürnberg und München aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a360e0b7-0149-4856-8046-21efe24c769c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/58d477c7-57bf-4b1f-b689-39cefc37437bst%25C3%25B6rungskarte_20260602-074754.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/58d477c7-57bf-4b1f-b689-39cefc37437bst%25C3%25B6rungskarte_20260602-074754.png",
+          "info": "",
+          "alt": "Störungskarte 02.06.2026 07:47:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.06.2026 07:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0078d220-346f-48eb-8768-fd20b1acdbfb",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -820,96 +808,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
-    },
-    {
-      "id": "aba19f16-160c-40b7-985b-a55fad53f39d",
-      "disruptionId": "15963f28-0647-4234-ab05-0ae4d2ceb858",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 3 Maisach ↔ Deisenhofen: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen / Ostbahnhof → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 07:15 Uhr → Pasing Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 07:58 Uhr</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "02.06.2026",
-      "durationEnd": "02.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/15963f28-0647-4234-ab05-0ae4d2ceb858",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/9af14f43-f141-4d88-8aed-b6543bfaf864st%25C3%25B6rungskarte_20260601-204846.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/9af14f43-f141-4d88-8aed-b6543bfaf864st%25C3%25B6rungskarte_20260601-204846.png",
-          "info": "",
-          "alt": "Störungskarte 01.06.2026 20:48:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.06.2026 05:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aba19f16-160c-40b7-985b-a55fad53f39d",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "ad1e0d35-d8a0-4498-9bd9-c2e483b2f939",
-      "disruptionId": "bf03c467-ecae-4484-b77e-48d59659bf35",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Dachau ↔ Ostbahnhof: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 06:19 Uhr → Ostbahnhof Ankunft 06:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "02.06.2026",
-      "durationEnd": "02.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/bf03c467-ecae-4484-b77e-48d59659bf35",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/0232c766-633c-4bea-9e0c-0081b2f63a9cst%25C3%25B6rungskarte_20260601-202736.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-02/0232c766-633c-4bea-9e0c-0081b2f63a9cst%25C3%25B6rungskarte_20260601-202736.png",
-          "info": "",
-          "alt": "Störungskarte 01.06.2026 20:27:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.06.2026 05:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ad1e0d35-d8a0-4498-9bd9-c2e483b2f939",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
@@ -1056,49 +954,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "0dcb37ec-2d1e-41f0-9105-6b19a8f85dc7",
-      "disruptionId": "fb3b0c1a-6598-4732-b17b-e7f5cc6e4727",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Leipzig und Dresden",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 45 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-, ICE und RJ-Züge zwischen Leipzig und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/fb3b0c1a-6598-4732-b17b-e7f5cc6e4727",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/d49ba144-79b1-44c3-a9a8-cf8b7922865bst%25C3%25B6rungskarte_20260602-053009.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-02/d49ba144-79b1-44c3-a9a8-cf8b7922865bst%25C3%25B6rungskarte_20260602-053009.png",
-          "info": "",
-          "alt": "Störungskarte 02.06.2026 05:30:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "02.06.2026 05:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0dcb37ec-2d1e-41f0-9105-6b19a8f85dc7",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
