@@ -2,6 +2,98 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
+      "disruptionId": "e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Berlin",
+      "summary": "Aufgrund von Hannover Karl-Wichert-Allee ist die Strecke zwischen Hannover und Berlin derzeit gesperrt. Dadurch kommt es zu Ausfälle, Teilausfälle und Verspätung im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Flensburg - Hamburg - Frankfurt (M) - Frankfurt (M) Flugh. Regiobf.</li><li>Aachen - Mönchengladbach- Köln / Düsseldorf - Hannover - Berlin</li><li>Aachen - Köln - Hannover - Berlin</li><li>Oberstdorf - Stuttgart - Mannheim - Mainz - Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden</li><li>Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig - Dresden</li><li>Berlin - Hannover - Osnabrück - Bad Bentheim - Amsterdam&nbsp;</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
+          "info": "",
+          "alt": "Störungskarte 04.06.2026 06:35:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NW",
+        "SN",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.06.2026 06:38",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "90fad6e5-4b25-4cf6-8bc7-3905b9cee8a7",
+      "disruptionId": "36834b37-dfc7-4884-8b9a-b6523dcbc950",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "S3/S5: Zur Zeit kommt es auf den Linien S3 und S5 zu Verspätungen und vorzeitigen Wendungen. Grund: Technische Störung an der Strecke.",
+      "text": "<p> </p>",
+      "durationBegin": "04.06.2026",
+      "durationEnd": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/36834b37-dfc7-4884-8b9a-b6523dcbc950",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2026 08:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/90fad6e5-4b25-4cf6-8bc7-3905b9cee8a7",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -386,7 +478,7 @@
       },
       "headline": "Die Strecke zwischen Trier Hbf und Saarburg(Bz Trier) ist beeinträchtigt. Züge fahren langsamer.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ab ca.19:00 Uhr für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ist für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "03.06.2026",
       "durationEnd": "07.06.2026",
       "mapHref": "https://karte.bahn.de/detail/86328076-8f6c-47b2-b936-0cb287c55486",
@@ -436,7 +528,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.06.2026 18:15",
+      "lastModified": "04.06.2026 05:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -550,8 +642,8 @@
       "mapHref": "https://karte.bahn.de/detail/7c67c66b-fbd0-4de3-88a0-2866241f4108",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/7da2c8bf-8a74-449b-aaa4-2ed7fd658b72st%25C3%25B6rungskarte_20260603-150151.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/7da2c8bf-8a74-449b-aaa4-2ed7fd658b72st%25C3%25B6rungskarte_20260603-150151.png",
           "info": "",
           "alt": "Störungskarte 03.06.2026 15:01:51",
           "openInNewTab": true
@@ -572,7 +664,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.06.2026 02:03",
+      "lastModified": "04.06.2026 08:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
