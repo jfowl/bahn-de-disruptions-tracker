@@ -2,24 +2,24 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
-      "disruptionId": "e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "id": "aae161ba-216a-4b3d-9edb-6b80a4077c80",
+      "disruptionId": "fa3f2548-89b6-4d60-bfd8-24769aeee125",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Hannover und Berlin",
-      "summary": "Aufgrund einer Oberleitungsstörung im Bereich Hannover Karl-Wichert-Allee ist die Strecke zwischen Hannover und Berlin derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Flensburg - Hamburg - Frankfurt (M) - Frankfurt (M) Flugh. Regiobf.</li><li>Aachen - Mönchengladbach- Köln / Düsseldorf - Hannover - Berlin</li><li>Aachen - Köln - Hannover - Berlin</li><li>Oberstdorf - Stuttgart - Mannheim - Mainz - Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden</li><li>Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig - Dresden</li><li>Berlin - Hannover - Osnabrück - Bad Bentheim - Amsterdam&nbsp;</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "headline": "Beeinträchtigungen zwischen Berlin und Halle bzw. Leipzig",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin und Halle bzw. Leipzig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 10 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen (Paris) - Frankfurt (Main) - Halle/Leipzig - Berlin</li><li>ICE-Züge zwischen München - Nürnberg - Halle/Leipzig - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/fa3f2548-89b6-4d60-bfd8-24769aeee125",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/40d1e40b-f93b-45f2-81e3-85101e3c6047st%25C3%25B6rungskarte_20260604-201458.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/40d1e40b-f93b-45f2-81e3-85101e3c6047st%25C3%25B6rungskarte_20260604-201458.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-05/947cae0f-316e-4727-b87d-04fcd085e876st%25C3%25B6rungskarte_20260605-035021.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-05/947cae0f-316e-4727-b87d-04fcd085e876st%25C3%25B6rungskarte_20260605-035021.png",
           "info": "",
-          "alt": "Störungskarte 04.06.2026 20:14:58",
+          "alt": "Störungskarte 05.06.2026 03:50:21",
           "openInNewTab": true
         }
       ],
@@ -32,9 +32,7 @@
         "BB",
         "ST",
         "BE",
-        "NW",
-        "SN",
-        "NI"
+        "SN"
       ],
       "lines": [
         {
@@ -43,11 +41,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "04.06.2026 20:19",
-      "expand": true,
+      "lastModified": "05.06.2026 04:20",
+      "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/aae161ba-216a-4b3d-9edb-6b80a4077c80",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -580,6 +578,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "0119be1f-4207-4efe-b88f-1f19890ca3cb",
+      "disruptionId": "efaf0b85-1388-4c18-a073-43f19195fdd9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S5 Perlach: Reparatur an einem Signal",
+      "summary": "Auf der S5 erhalten die S-Bahnen zwischen Giesing und Neubiberg Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Es kommt zusätzlich zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal im Bereich des Bahnhofs Perlach.</p>",
+      "durationBegin": "05.06.2026",
+      "durationEnd": "05.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/efaf0b85-1388-4c18-a073-43f19195fdd9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-05/40697d07-72b4-41bc-b410-443aa5ecc4a5st%25C3%25B6rungskarte_20260605-054132.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-05/40697d07-72b4-41bc-b410-443aa5ecc4a5st%25C3%25B6rungskarte_20260605-054132.png",
+          "info": "",
+          "alt": "Störungskarte 05.06.2026 05:41:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.06.2026 06:52",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0119be1f-4207-4efe-b88f-1f19890ca3cb",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
     },
     {
       "id": "edc01373-76e7-48d1-833a-565f93fbf794",
