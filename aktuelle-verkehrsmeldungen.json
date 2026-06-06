@@ -2,54 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "5dd1ec0f-6fd7-4970-889c-ec2ff6991d95",
-      "disruptionId": "b4481542-7c34-41d5-b5d5-611029db0542",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Berlin, Hannover und Nordrhein-Westfalen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Hannover ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Berlin und Nordrhein-Westfalen fallen aus.</li><li>Einzelne IC-Züge der Relation Dresden - Leipzig - Magdeburg - Hannover - Dortmund fallen zwischen Hannover und Dortmund aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Vormittagsstunden am Sa, 06.06.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/b4481542-7c34-41d5-b5d5-611029db0542",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-06/468e3fe8-249b-4a11-b771-4b624b25639est%25C3%25B6rungskarte_20260606-010604.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-06/468e3fe8-249b-4a11-b771-4b624b25639est%25C3%25B6rungskarte_20260606-010604.png",
-          "info": "",
-          "alt": "Störungskarte 06.06.2026 01:06:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "NW",
-        "SN",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.06.2026 02:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5dd1ec0f-6fd7-4970-889c-ec2ff6991d95",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "aae161ba-216a-4b3d-9edb-6b80a4077c80",
       "disruptionId": "fa3f2548-89b6-4d60-bfd8-24769aeee125",
       "author": "FERNVERKEHR_AG",
@@ -94,6 +46,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aae161ba-216a-4b3d-9edb-6b80a4077c80",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
+      "id": "0f3b3f7a-65ff-4287-9259-2e5a92795b01",
+      "disruptionId": "3a07f33e-e543-4f2c-a963-ae00c27f5cee",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover und Bremen bzw. Hamburg",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Nienburg(Weser) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge verspäten sich zwischen Hannover und Bremen sowie zwischen Hannover und Hamburg um etwa 15 Minuten</li><li>Einzelne Züge fallen zur Streckenentlastung zwischen Hamburg und Hannover aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/3a07f33e-e543-4f2c-a963-ae00c27f5cee",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-06/eb2ea011-4850-4892-9c4c-00ef7c47c123st%25C3%25B6rungskarte_20260606-065601.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-06/eb2ea011-4850-4892-9c4c-00ef7c47c123st%25C3%25B6rungskarte_20260606-065601.png",
+          "info": "",
+          "alt": "Störungskarte 06.06.2026 06:56:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2026 06:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0f3b3f7a-65ff-4287-9259-2e5a92795b01",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -182,7 +179,7 @@
       },
       "headline": "Die Strecke zwischen Ludwigshafen(Rh)Hbf und Mannheim Hbf ist beeinträchtigt.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🕜<strong>Dauer der Beeinträchtigung: täglich von 06:30 Uhr bis 22:00 Uhr, voraussichtlich bis zum 14.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Zur Entlastung der Strecke zwischen Mannheim Hbf und Ludwigshafen Hbf halten die Züge in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte.</p><p>🚍&nbsp;<strong>Alternative:</strong> Bitte nutzen Sie ab Mannheim Züge der Gegenrichtung oder nutzen sie die Stadtbahnen der RNV Linie 6/6A. In der Folge kommt es auch zu Verspätungen und Teilausfällen.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🕜<strong>Dauer der Beeinträchtigung: Täglich von 06:30 Uhr bis 22:00 Uhr, voraussichtlich bis zum 14.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Zur Entlastung der Strecke halten die Züge von Ludwigshafen(Rh)Hbf in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte. Es kann zu Verspätungen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Reisende nach Ludwigshafen(Rhein) Mitte fahren bis Mannheim Hbf und steigen dort um. Unsere Empfehlung: Nutzen Sie auch die Straßenbahnen und Busse der VRN.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "02.06.2026",
       "durationEnd": "14.06.2026",
       "mapHref": "https://karte.bahn.de/detail/b97dac1b-2e45-4a5b-be7e-ad475cf7ef61",
@@ -229,7 +226,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "05.06.2026 15:15",
+      "lastModified": "06.06.2026 06:30",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
@@ -479,7 +476,7 @@
       },
       "headline": "Die Strecke zwischen Trier Hbf und Saarburg(Bz Trier) ist beeinträchtigt. Züge fahren langsamer.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ist für Sie eingerichtet. Sowie ein Expressbus ohne weitere Zwischenhalte.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu geänderten Fahrzeiten, Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ist für Sie eingerichtet. Sowie ein Expressbus ohne weitere Zwischenhalte.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "03.06.2026",
       "durationEnd": "07.06.2026",
       "mapHref": "https://karte.bahn.de/detail/86328076-8f6c-47b2-b936-0cb287c55486",
@@ -529,7 +526,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.06.2026 07:31",
+      "lastModified": "06.06.2026 06:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
