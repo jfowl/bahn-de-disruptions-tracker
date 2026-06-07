@@ -238,49 +238,6 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section3"
     },
     {
-      "id": "9b46f784-1106-48dd-8883-6c15b6324629",
-      "disruptionId": "9c445aee-67c5-4987-a9aa-51ad0a9ca0f9",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Tiere auf der Strecke"
-      },
-      "headline": "S5: Keine Züge zwischen Neugraben und Buxtehude",
-      "summary": "Aktuell fahren zwischen Neugraben und Buxtehude keine Züge. Ein Ersatzverkehr ist zur Zeit im Aufbau. Grund: Rinder auf den Gleisen",
-      "text": "<p>Weitere Informationen werden derzeit zusammengestellt.</p>",
-      "durationBegin": "07.06.2026",
-      "durationEnd": "07.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/9c445aee-67c5-4987-a9aa-51ad0a9ca0f9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.06.2026 17:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9b46f784-1106-48dd-8883-6c15b6324629",
-      "magnoliaPath": "/aktuell/nord/additional_service_technical_problem_railway_section"
-    },
-    {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "disruptionId": "a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "author": "REGIO_SUEDOST",
@@ -412,6 +369,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "6ca0239f-9125-40cb-901c-70bb6ce7ca99",
+      "disruptionId": "96ce6f39-d1a2-4c79-8c0e-7a6859b1a54e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S3 Giesing - Deisenhofen: Gegenstände auf der Strecke ",
+      "summary": "Zwischen Giesing und Deisenhofen sind bis auf weiteres keine Zugfahrten möglich. Zusätzlich kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Die Züge aus Richtung Ostbahnhof wenden in Giesing. Aus Richtung Holzkirchen wenden die Züge in Deisenhofen.</p><p>Der Ersatzverkehr mit Großraumtaxen ist ab sofort einsatzbereit. Bitte nutzen Sie nur die Taxis (Großraumtaxis) mit speziell gekennzeichneter \"Ersatzverkehr\"- Beschilderung.</p><p>Grund für diese Beeinträchtigungen&nbsp;sind Gegenstände auf der Strecke zwischen Taufkirchen und Furth.</p>",
+      "durationBegin": "07.06.2026",
+      "durationEnd": "07.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/96ce6f39-d1a2-4c79-8c0e-7a6859b1a54e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-07/46b68a64-5c55-495b-82b3-fc75a882ab5cst%25C3%25B6rungskarte_20260607-183824.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-07/46b68a64-5c55-495b-82b3-fc75a882ab5cst%25C3%25B6rungskarte_20260607-183824.png",
+          "info": "",
+          "alt": "Störungskarte 07.06.2026 18:38:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.06.2026 19:05",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6ca0239f-9125-40cb-901c-70bb6ce7ca99",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
     },
     {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
@@ -706,6 +708,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "43bc543f-01be-42c0-ae91-2fe49b6b3c67",
+      "disruptionId": "b1fbebbe-7000-4be1-99c2-24dec571b5fa",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 4 - Pasewalk",
+      "summary": "Sonntag, 07.06.2026 10:12 Uhr bis vsl. Montag, 08.06.2026 23:50 Uhr",
+      "text": "<p><strong>RE4 Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p>Aufgrund einer Streckenstörung kommt es zu Fahrtausfällen zwischen Pasewalk – Szczecin. Es verkehrt ein Ersatzverkehr mit Bus.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "07.06.2026",
+      "durationEnd": "08.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/b1fbebbe-7000-4be1-99c2-24dec571b5fa",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2026 18:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/43bc543f-01be-42c0-ae91-2fe49b6b3c67",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
