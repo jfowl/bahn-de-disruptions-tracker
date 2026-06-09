@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "aae161ba-216a-4b3d-9edb-6b80a4077c80",
-      "disruptionId": "fa3f2548-89b6-4d60-bfd8-24769aeee125",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Halle bzw. Leipzig",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin und Halle bzw. Leipzig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen (Paris) - Frankfurt (Main) - Halle/Leipzig - Berlin</li><li>ICE-Züge zwischen München - Nürnberg - Halle/Leipzig - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/fa3f2548-89b6-4d60-bfd8-24769aeee125",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-05/947cae0f-316e-4727-b87d-04fcd085e876st%25C3%25B6rungskarte_20260605-035021.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-05/947cae0f-316e-4727-b87d-04fcd085e876st%25C3%25B6rungskarte_20260605-035021.png",
-          "info": "",
-          "alt": "Störungskarte 05.06.2026 03:50:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.06.2026 04:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/aae161ba-216a-4b3d-9edb-6b80a4077c80",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -186,6 +140,100 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "8b905c42-93f5-4843-9ea8-c0e460625b4f",
+      "disruptionId": "fd742cee-600d-45d7-8174-c9bd64c1ec1b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Magdeburg Hbf ⇄ Leipzig Hbf - Beeinträchtigung",
+      "summary": "Der Streckenabschnitt von Dessau bis Biederitz ist aktuell auf der Linie RE13 gesperrt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Oberleitung zwischen Zerbst und Güterglück.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>RE 13 Magdeburg – Dessau – Leipzig</strong></li><li><strong>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</strong></li><li><strong>RB 51 Dessau – Lutherstadt Wittenberg – Falkenberg (Elster)</strong></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Oberleitung zwischen Zerbst und Güterglück.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kommt zu Verspätungen und Ausfällen zwischen Magdeburg und Leipzig.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bus zwischen Biederitz und Dessau für Sie eingerichtet. Die erste Abfahrt in Biederitz findet gegen 13:45 Uhr statt.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/fd742cee-600d-45d7-8174-c9bd64c1ec1b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14 Mitteldeutschland",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.06.2026 13:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b905c42-93f5-4843-9ea8-c0e460625b4f",
+      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "4405ad0c-8244-4219-a2e0-8c2c046aad4f",
+      "disruptionId": "0c88e9da-0bec-4925-a6f8-8fe9af06237f",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE6 - Zugausfall zwischen Berlin-Charlottenburg > Berlin-Spandau",
+      "summary": "Dienstag, 16.06.2026, 05:00 Uhr bis 05:13 Uhr",
+      "text": "<p>•\tRE 3604 (Berlin-Charlottenburg Abf. 5:06 Uhr) fällt am 16.06.26 zwischen Berlin-Charlottenburg und Berlin-Spandau aus. Als Ersatz nutzen Sie bitte andere alternative Verbindungen</p><p></p><p>✅Die geänderten Fahrpläne sind ab 14.06.26 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
+      "durationBegin": "16.06.2026",
+      "durationEnd": "16.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/0c88e9da-0bec-4925-a6f8-8fe9af06237f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-06-09/ddfeb10f-6891-49c1-a910-97dd4129583cst%25C3%25B6rungskarte_20260609-111307.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-06-09/ddfeb10f-6891-49c1-a910-97dd4129583cst%25C3%25B6rungskarte_20260609-111307.png",
+          "info": "",
+          "alt": "Störungskarte 09.06.2026 11:13:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.06.2026 11:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4405ad0c-8244-4219-a2e0-8c2c046aad4f",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_construction56"
     },
     {
       "id": "b41fbb0d-f8dc-49b5-82a5-74e247e81512",
@@ -407,14 +455,14 @@
       },
       "headline": "Leipzig Hbf ⇄ Magdeburg Hbf - Verspätungen durch vorübergehend verminderte Geschwindigkeit auf der Strecke",
       "summary": "Die Linie RE13 zwischen Leipzig Hbf und Magdeburg ist beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 19.07.2026.\n",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig</li><li>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</li></ul><p>ℹ️ <strong>Grund:</strong> Aufgrund von Langsamfahrstellen im Streckenabschnitt Rodleben - Güterglück - Gommern kommt es ab Mittwoch, 27.05.2026 ab 12:00 Uhr bis auf Weiteres zu längerfristigen Verspätungen und Zugausfällen zwischen Biederitz und Magdeburg auf der Linie RE13/ RE14. Ursache hierfür ist der aktuell schlechte Infrastrukturzustand im Netz Magdeburg, welcher kurzfristige Geschwindigkeitsreduzierungen erforderlich macht.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen zwischen Biederitz und Magdeburg Hbf.</p><p>↪️&nbsp;<strong>Alternative:</strong> Reisende zwischen Magdeburg und Leipzig können alternativ zwischen Magdeburg und Halle (Saale) den RE30 sowie zwischen Halle (Saale) und Leipzig die Linien S5/S5X nutzen. Die Reisezeit verlängert sich dabei nur geringfügig.</p><p>Nutzen Sie alternativ auch die Züge der Linie RB40 zwischen Biederitz und Magdeburg Hbf.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig</li><li>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</li></ul><p>ℹ️ <strong>Grund:</strong> Aufgrund von Langsamfahrstellen im Streckenabschnitt Rodleben - Güterglück - Gommern kommt es ab Mittwoch, 27.05.2026 ab 12:00 Uhr bis auf Weiteres zu längerfristigen Verspätungen und Zugausfällen zwischen Biederitz und Magdeburg auf der Linie RE13/ RE14. Ursache hierfür ist der aktuell schlechte Infrastrukturzustand im Netz Magdeburg, welcher kurzfristige Geschwindigkeitsreduzierungen erforderlich macht.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen zwischen Biederitz und Magdeburg Hbf.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte beachten Sie, dass zwischen Magdeburg und Biederitz ein Ersatzverkehr mit Bus eingerichtet ist. Ebenfalls können Reisende zwischen Magdeburg und Leipzig im Streckenabschnitt Magdeburg und Halle (Saale) den RE30 sowie zwischen Halle (Saale) und Leipzig die Linien S5/S5X nutzen. Die Reisezeit verlängert sich dabei nur geringfügig.</p><p>Nutzen Sie alternativ auch die Züge der Linie RB40 zwischen Biederitz und Magdeburg Hbf.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
       "durationBegin": "27.05.2026",
       "durationEnd": "19.07.2026",
       "mapHref": "https://karte.bahn.de/detail/a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/f58dc39b-e3c0-46fc-9022-3e6c537b54dest%25C3%25B6rungskarte_20260527-123332.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/f58dc39b-e3c0-46fc-9022-3e6c537b54dest%25C3%25B6rungskarte_20260527-123332.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/da35ed55-0d80-46ce-8264-892dbef4f41fst%25C3%25B6rungskarte_20260527-123332.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/da35ed55-0d80-46ce-8264-892dbef4f41fst%25C3%25B6rungskarte_20260527-123332.png",
           "info": "",
           "alt": "Störungskarte 27.05.2026 12:33:32",
           "openInNewTab": true
@@ -422,7 +470,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/eeff6be2-bd23-41fd-b8d8-4e86652bbbb9RE%2B13.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/8c2f9927-12e2-4999-b91d-9a8c4994d91fRE%2B13.pdf",
           "label": "Ersatzfahrplan RE 13",
           "info": "",
           "openInNewTab": true
@@ -448,7 +496,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.06.2026 03:21",
+      "lastModified": "09.06.2026 13:26",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d072a0-52ca-41ed-92f3-22ebd0f5955e",
@@ -688,17 +736,17 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 6 Starnberg ↔ Tutzing: Reparatur an einem Signal",
-      "summary": "Zwischen Starnberg und Tutzing kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Zwischen Starnberg und Tutzing sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Starnberg.</p><p>Ein Ersatzverkehr zwischen Starnberg und Tutzing ist in Planung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "09.06.2026",
       "durationEnd": "09.06.2026",
       "mapHref": "https://karte.bahn.de/detail/79e6479e-6120-463b-9424-ca2d7b439e44",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/24357b1a-feed-4fc8-be27-70aafd0cbbb0st%25C3%25B6rungskarte_20260609-085813.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/24357b1a-feed-4fc8-be27-70aafd0cbbb0st%25C3%25B6rungskarte_20260609-085813.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/11a2c15d-7f66-4136-add9-b44691c5bc78st%25C3%25B6rungskarte_20260609-134627.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/11a2c15d-7f66-4136-add9-b44691c5bc78st%25C3%25B6rungskarte_20260609-134627.png",
           "info": "",
-          "alt": "Störungskarte 09.06.2026 08:58:13",
+          "alt": "Störungskarte 09.06.2026 13:46:27",
           "openInNewTab": true
         }
       ],
@@ -717,7 +765,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 10:35",
+      "lastModified": "09.06.2026 13:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -740,8 +788,8 @@
       "mapHref": "https://karte.bahn.de/detail/2b07e056-aaad-4395-85e8-cf9a08435831",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/9173af42-8f53-4006-86ec-10adccd972b5st%25C3%25B6rungskarte_20260609-095003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/9173af42-8f53-4006-86ec-10adccd972b5st%25C3%25B6rungskarte_20260609-095003.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/1556d664-a9c9-456e-b189-88bd239a7177st%25C3%25B6rungskarte_20260609-095003.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/1556d664-a9c9-456e-b189-88bd239a7177st%25C3%25B6rungskarte_20260609-095003.png",
           "info": "",
           "alt": "Störungskarte 09.06.2026 09:50:03",
           "openInNewTab": true
@@ -762,7 +810,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 09:51",
+      "lastModified": "09.06.2026 13:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -812,6 +860,53 @@
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
     },
     {
+      "id": "f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
+      "disruptionId": "82d24201-9380-4c8d-ae85-ebbb408b7eb7",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><strong>🗓️ Zeiträume:</strong><ul><li>Am 09.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li><li>Am 10.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li><li>Am 11.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "08.06.2026",
+      "durationEnd": "11.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/82d24201-9380-4c8d-ae85-ebbb408b7eb7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 13:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "43bc543f-01be-42c0-ae91-2fe49b6b3c67",
       "disruptionId": "b1fbebbe-7000-4be1-99c2-24dec571b5fa",
       "author": "REGIO_NORDOST",
@@ -856,53 +951,6 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
     },
     {
-      "id": "f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
-      "disruptionId": "82d24201-9380-4c8d-ae85-ebbb408b7eb7",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 09.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1, S2 und S5 verkehren im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "08.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/82d24201-9380-4c8d-ae85-ebbb408b7eb7",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.06.2026 21:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "0cfcccc0-ba8c-4280-b9c9-d464da832457",
       "disruptionId": "df63a2a9-eb4c-4597-b6c1-9d63ac51fc8a",
       "author": "REGIO_SUEDOST",
@@ -910,16 +958,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Schönebeck(Elbe) ⇄ Schönebeck-Bad Salzelmen - Haltausfälle",
-      "summary": "Der Streckenabschnitt von Schönebeck(Elbe) bis Schönebeck-Bad Salzelmen ist im Moment beeinträchtigt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Oberleitung.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Oberleitung.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge fallen zwischen Schönebeck(Elbe) und Schönebeck-Bad Salzelmen aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Busnotverkehr im Pendel zwischen Schönebeck(Elbe) und Schönebeck-Bad Salzelmen eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "headline": "Schönebeck(Elbe) ⇄ Schönebeck-Bad Salzelmen - Ggf. Verspätungen",
+      "summary": "Der Streckenabschnitt von Schönebeck(Elbe) bis Schönebeck-Bad Salzelmen ist wieder freigegeben.  Der Grund für die Sperrung war eine Reparatur an der Oberleitung.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund für die Sperrung war eine Reparatur an der Oberleitung.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kann noch zu Verspätungen kommen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
       "durationBegin": "08.06.2026",
       "durationEnd": "09.06.2026",
       "mapHref": "https://karte.bahn.de/detail/df63a2a9-eb4c-4597-b6c1-9d63ac51fc8a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/e995f3cc-bdb8-4d3f-97f6-7700c9e57b6bst%25C3%25B6rungskarte_20260608-142643.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/e995f3cc-bdb8-4d3f-97f6-7700c9e57b6bst%25C3%25B6rungskarte_20260608-142643.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/9ccfed06-7a92-430c-8c54-21814629cca3st%25C3%25B6rungskarte_20260608-142643.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/9ccfed06-7a92-430c-8c54-21814629cca3st%25C3%25B6rungskarte_20260608-142643.png",
           "info": "",
           "alt": "Störungskarte 08.06.2026 14:26:43",
           "openInNewTab": true
@@ -946,7 +994,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 08:54",
+      "lastModified": "09.06.2026 13:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1220,6 +1268,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c145775c-a6e2-4e38-817f-b93d33bd9941",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_technical_problem_vehicle"
+    },
+    {
+      "id": "98a2ec77-a4d8-48e9-8e84-0e9bce1aa3f5",
+      "disruptionId": "993a01aa-05fb-472c-ac4a-ce49a363590c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 7 Höllriegelskreuth: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Höllriegelskreuth kommt es noch zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/993a01aa-05fb-472c-ac4a-ce49a363590c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/821c9d32-6a26-4401-a563-28f53d4a1175st%25C3%25B6rungskarte_20260609-125410.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/821c9d32-6a26-4401-a563-28f53d4a1175st%25C3%25B6rungskarte_20260609-125410.png",
+          "info": "",
+          "alt": "Störungskarte 09.06.2026 12:54:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 13:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/98a2ec77-a4d8-48e9-8e84-0e9bce1aa3f5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
