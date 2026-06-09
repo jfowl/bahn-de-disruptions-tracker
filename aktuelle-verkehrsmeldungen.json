@@ -48,49 +48,48 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
     },
     {
-      "id": "7fdd21cf-2847-4dba-9bec-2b198ba86938",
-      "disruptionId": "5e74d1c2-1d5d-4370-aedf-7369bafddff4",
-      "author": "FERNVERKEHR_AG",
+      "id": "55384be9-944a-4a42-a0b9-acc12a64ed79",
+      "disruptionId": "e33a5ee4-879c-4ebb-a477-5b3eb933df25",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "Beeinträchtigung zwischen Bochum und Dortmund",
-      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Bochum und Dortmund kommt es derzeit zu Beeinträchtigungen Verspätungen von ca. 10 Minuten im Fernverkehr der Deutschen Bahn. Der Halt in Bochum kann bei einzelnen Zügen entfallen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Hamburg - Dortmund - Köln - Süddeutschland</li><li>ICE-Züge der Verbindung Berlin - Hannover - Dortmund - Köln</li><li>IC-Züge der Verbindung Dortmund - Köln - Mainz - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/5e74d1c2-1d5d-4370-aedf-7369bafddff4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-08/66621bc5-61f4-4698-87d1-56f494f32211st%25C3%25B6rungskarte_20260608-191052.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-08/66621bc5-61f4-4698-87d1-56f494f32211st%25C3%25B6rungskarte_20260608-191052.png",
-          "info": "",
-          "alt": "Störungskarte 08.06.2026 19:10:52",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "S3, S5: Aktuell keine S-Bahnen zwischen Wilhelmsburg und Neugraben",
+      "summary": "Derzeit fahren keine S-Bahnen zwischen Wilhelmsburg und Neugraben. Der Grund ist ein Feuerwehreinsatz. Ein Ersatzverkehr mit Bussen und Taxis ist eingerichtet. Die S5 fährt abweichend zwischen Elbgaustraße und Bergedorf.",
+      "text": "<p>.</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e33a5ee4-879c-4ebb-a477-5b3eb933df25",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "NW",
-        "NI",
-        "RP"
+        "HH",
+        "SH",
+        "NI"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "08.06.2026 19:13",
+      "lastModified": "09.06.2026 07:38",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7fdd21cf-2847-4dba-9bec-2b198ba86938",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/55384be9-944a-4a42-a0b9-acc12a64ed79",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity0"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -233,6 +232,44 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "b41fbb0d-f8dc-49b5-82a5-74e247e81512",
+      "disruptionId": "d32d3711-b351-4c25-8c27-ddd52db8d4db",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "⚠️ 🟣 S3: 20-Minuten-Takt zwischen Pinneberg und Elbgaustraße",
+      "summary": "Aktuell fährt die 🟣 S3 zwischen Pinneberg und Elbgaustraße im 20-Minuten-Takt.",
+      "text": "<p>Die S-Bahnen in Richtung Pinneberg fahren ab der Elbgaustraße wie folgt:</p><p>🕐 Auf Minute eins nach der vollen Stunde (<strong>xx:01 Uhr)</strong>,</p><p>🕐 auf Minute einundzwanzig <strong>(xx:21 Uhr)</strong></p><p>🕐 und auf Minute einundvierzig <strong>(xx:41 Uhr)</strong>.</p><p></p><p>Die S-Bahnen in Richtung Innenstadt fahren ab der Pinneberg wie folgt:</p><p>🕐 Auf Minute neun nach der vollen Stunde (<strong>xx:09 Uhr)</strong>,</p><p>🕐 auf Minute neunundzwanzig&nbsp;<strong>(xx:29 Uhr)</strong></p><p>🕐 und auf Minute neunundvierzig&nbsp;<strong>(xx:49 Uhr)</strong>.</p><p></p><p>Je nach weiterem Störgeschehen sind Abweichungen möglich.</p><p><strong>Alle weiteren Fahrten der S3 wenden vorzeitig in Elbgaustraße.</strong></p><p>🔧 Grund: technische Störung an der Strecke</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/d32d3711-b351-4c25-8c27-ddd52db8d4db",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 07:44",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b41fbb0d-f8dc-49b5-82a5-74e247e81512",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "aded5818-46aa-4510-8081-c10d84fe5a65",
       "disruptionId": "2e0cb55f-d157-4ba4-8225-81af6c74983f",
       "author": "REGIO_NORDOST",
@@ -281,6 +318,70 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aded5818-46aa-4510-8081-c10d84fe5a65",
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section3"
+    },
+    {
+      "id": "ec99db28-13aa-4b50-a46b-fa958977665f",
+      "disruptionId": "c0710cf3-aaa6-4c6d-8958-a9523803c441",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verzögerung im Betriebsablauf"
+      },
+      "headline": "Uelzen/Wittenberge ⇄ Schönebeck-Bad Salzelmen/ - Änderungen",
+      "summary": "Zur Stabilisierung des Betriebs kommt es zu früheren Abfahrten im Raum Stendal von bis zu 2 Minuten, sowie hinter Tangerhütte zu späteren Abfahrten von bis zu 5 Minuten. Weitere Details finden Sie im angehängten Fahrplan.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</strong></li><li><strong>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</strong></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Stabilisierung des Betriebs auf den Linien S1 und RE20.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "14.06.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/c0710cf3-aaa6-4c6d-8958-a9523803c441",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/1f21d155-de25-4132-9041-97a08d06ee28st%25C3%25B6rungskarte_20260609-070328.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/1f21d155-de25-4132-9041-97a08d06ee28st%25C3%25B6rungskarte_20260609-070328.png",
+          "info": "",
+          "alt": "Störungskarte 09.06.2026 07:03:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/517fbdb2-ef65-4eff-bf80-1221b02c1ecaFahrplananpassungen%2BRE20%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
+          "label": "Fahrplananpassungen RE20 vom 14.06 bis 10.07.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/6629ac06-fbea-4371-88a5-11b814466a81Fahrplananpassungen%2BS1%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
+          "label": "Fahrplananpassungen S1 vom 14.06 bis 10.07.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 07:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ec99db28-13aa-4b50-a46b-fa958977665f",
+      "magnoliaPath": "/aktuell/suedost/modified_service_other_cause"
     },
     {
       "id": "8d0b39a1-5a6b-4ae8-8793-bb6aa65e1286",
@@ -623,6 +724,48 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4211a966-6b18-4679-87bf-2f674e50c25a",
+      "disruptionId": "e37940e2-2790-4b16-b00f-6146d640c4ff",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S2, S7: Verspätungen und Ausfälle",
+      "summary": "Die technische Störung am Zug ist behoben. Es kommt aber weiterhin noch zu Folgeverspätungen. Die S2 fährt am heutigen Morgen nicht mehr.",
+      "text": "<p>.</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e37940e2-2790-4b16-b00f-6146d640c4ff",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 07:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4211a966-6b18-4679-87bf-2f674e50c25a",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -866,95 +1009,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "afc070b0-a43c-475d-aa60-032a1cde9640",
-      "disruptionId": "eae47b93-49c2-4390-94b0-42c69d75841e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Linie Stammstrecke am Nächte 8./9. bis 11./12. Juni",
-      "summary": "wegen Bauarbeiten zur 2. Stammstrecke kommt es in den Nächten von Montag, den 08. Juni, bis Freitag, den 12. Juni 2026, jeweils von 21:20 Uhr bis 4:40 Uhr, zwischen Pasing ↔ Ostbahnhof/Riem/Giesing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.\n",
-      "text": "<p></p><p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke), teilweise von/bis Moosach ohne Halt.</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden in Markt Schwaben. Zwischen Ostbahnhof und Markt Schwaben besteht Busersatzverkehr.</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor.</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus.</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11.</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus.</li></ul><p></p><p><strong>S6 Ebersberg ↔ Tutzing/ S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof.</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Harthaus. Zwischen Harthaus und Westkreuz besteht Busersatzverkehr.</li><li>Züge aus Richtung Tutzing fahren als S 8 zum Flughafen/Airport.</li><li>Züge vom Flughafen fahren ab Ostbahnhof als S 6 nach Tutzing.</li></ul><p></p><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</li></ul><p></p><p></p><p></p><p><strong>Hinweis:</strong></p><ul><li>Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof.</li><li>Zwischen Ostbahnhof und Pasing fährt nur eine Linie auf der Stammstrecke.</li><li>Die S 7 fährt planmäßig.</li></ul><p></p><p><strong>Nutzen Sie bitte für Ihre individuelle Reiseauskunft im oberen Bereich dieser Seite „Verbindung suchen“.</strong></p><p></p><p></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "08.06.2026",
-      "durationEnd": "12.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/eae47b93-49c2-4390-94b0-42c69d75841e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-08/83065d54-a034-4965-b09b-c3bef840f398st%25C3%25B6rungskarte_20260516-004542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-08/83065d54-a034-4965-b09b-c3bef840f398st%25C3%25B6rungskarte_20260516-004542.png",
-          "info": "",
-          "alt": "Störungskarte 16.05.2026 00:45:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-08/945367d1-9a53-4c3a-8af7-35ccb96d3530Fpl%252BS1-S%252B8%252BSEV%252B8-12%252BJuni.pdf",
-          "label": "Stammstrecke Fahrplan 8-12. Juni",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen/stammstrecke",
-          "label": "Bauarbeiten auf der Stammstrecke Nächte 8./9. bis 11./12. Juni",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.06.2026 20:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/afc070b0-a43c-475d-aa60-032a1cde9640",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
