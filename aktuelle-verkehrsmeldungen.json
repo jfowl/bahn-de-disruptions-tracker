@@ -142,52 +142,42 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "8b905c42-93f5-4843-9ea8-c0e460625b4f",
-      "disruptionId": "fd742cee-600d-45d7-8174-c9bd64c1ec1b",
-      "author": "REGIO_SUEDOST",
+      "id": "b41fbb0d-f8dc-49b5-82a5-74e247e81512",
+      "disruptionId": "d32d3711-b351-4c25-8c27-ddd52db8d4db",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Magdeburg Hbf ⇄ Leipzig Hbf - Beeinträchtigung",
-      "summary": "Der Streckenabschnitt von Dessau bis Biederitz ist aktuell auf der Linie RE13 gesperrt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Oberleitung zwischen Zerbst und Güterglück.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>RE 13 Magdeburg – Dessau – Leipzig</strong></li><li><strong>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</strong></li><li><strong>RB 51 Dessau – Lutherstadt Wittenberg – Falkenberg (Elster)</strong></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Oberleitung zwischen Zerbst und Güterglück.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kommt zu Verspätungen und Ausfällen zwischen Magdeburg und Leipzig.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bus zwischen Biederitz und Dessau für Sie eingerichtet. Die erste Abfahrt in Biederitz findet gegen 13:45 Uhr statt.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0341 2669 6622&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "headline": "⚠️ 🟣 S3: Pendelverkehr zwischen Elbgaustraße und Pinneberg",
+      "summary": "Aktuell fährt die 🟣 S3 zwischen Neugraben und Elbgaustraße regulär. Zwischen Elbgaustraße Gleis 2 und Pinneberg fährt ein Pendelzug. In beiden Richtungen ist ein Umstieg in Elbgaustraße erforderlich. ",
+      "text": "<p> </p>",
       "durationBegin": "09.06.2026",
       "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/fd742cee-600d-45d7-8174-c9bd64c1ec1b",
+      "mapHref": "https://karte.bahn.de/detail/d32d3711-b351-4c25-8c27-ddd52db8d4db",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "ST",
-        "SN"
+        "HH",
+        "SH"
       ],
       "lines": [
         {
-          "name": "RB 51",
-          "filterName": "RB 51 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14",
-          "filterName": "RE 14 Mitteldeutschland",
-          "property": "REGIONAL"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 13:31",
-      "expand": false,
+      "lastModified": "09.06.2026 14:50",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8b905c42-93f5-4843-9ea8-c0e460625b4f",
-      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/b41fbb0d-f8dc-49b5-82a5-74e247e81512",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "4405ad0c-8244-4219-a2e0-8c2c046aad4f",
@@ -234,44 +224,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4405ad0c-8244-4219-a2e0-8c2c046aad4f",
       "magnoliaPath": "/aktuell/nordost/reduced_service_construction56"
-    },
-    {
-      "id": "b41fbb0d-f8dc-49b5-82a5-74e247e81512",
-      "disruptionId": "d32d3711-b351-4c25-8c27-ddd52db8d4db",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "⚠️ 🟣 S3: 20-Minuten-Takt zwischen Pinneberg und Elbgaustraße",
-      "summary": "Aktuell fährt die 🟣 S3 zwischen Pinneberg und Elbgaustraße im 20-Minuten-Takt.",
-      "text": "<p>Die S-Bahnen in Richtung Pinneberg fahren ab der Elbgaustraße wie folgt:</p><p>🕐 Auf Minute eins nach der vollen Stunde (<strong>xx:01 Uhr)</strong>,</p><p>🕐 auf Minute einundzwanzig <strong>(xx:21 Uhr)</strong></p><p>🕐 und auf Minute einundvierzig <strong>(xx:41 Uhr)</strong>.</p><p></p><p>Die S-Bahnen in Richtung Innenstadt fahren ab der Pinneberg wie folgt:</p><p>🕐 Auf Minute neun nach der vollen Stunde (<strong>xx:09 Uhr)</strong>,</p><p>🕐 auf Minute neunundzwanzig&nbsp;<strong>(xx:29 Uhr)</strong></p><p>🕐 und auf Minute neunundvierzig&nbsp;<strong>(xx:49 Uhr)</strong>.</p><p></p><p>Je nach weiterem Störgeschehen sind Abweichungen möglich.</p><p><strong>Alle weiteren Fahrten der S3 wenden vorzeitig in Elbgaustraße.</strong></p><p>🔧 Grund: technische Störung an der Strecke</p>",
-      "durationBegin": "09.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/d32d3711-b351-4c25-8c27-ddd52db8d4db",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.06.2026 07:44",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b41fbb0d-f8dc-49b5-82a5-74e247e81512",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "aded5818-46aa-4510-8081-c10d84fe5a65",
@@ -728,51 +680,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "2e2405b2-66fb-41e5-89a9-de9877734444",
-      "disruptionId": "79e6479e-6120-463b-9424-ca2d7b439e44",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 6 Starnberg ↔ Tutzing: Reparatur an einem Signal",
-      "summary": "Zwischen Starnberg und Tutzing sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Starnberg.</p><p>Ein Ersatzverkehr zwischen Starnberg und Tutzing ist in Planung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "09.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/79e6479e-6120-463b-9424-ca2d7b439e44",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/11a2c15d-7f66-4136-add9-b44691c5bc78st%25C3%25B6rungskarte_20260609-134627.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/11a2c15d-7f66-4136-add9-b44691c5bc78st%25C3%25B6rungskarte_20260609-134627.png",
-          "info": "",
-          "alt": "Störungskarte 09.06.2026 13:46:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.06.2026 13:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2e2405b2-66fb-41e5-89a9-de9877734444",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "3dad7a20-138f-4448-82a2-0b00d5660c7f",
       "disruptionId": "2b07e056-aaad-4395-85e8-cf9a08435831",
       "author": "S_BAHN_MUC",
@@ -781,15 +688,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 5 Giesing ↔ Perlach: Reparatur an einem Signal",
-      "summary": "Zwischen Giesing und Perlach kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfälle.",
+      "summary": "Zwischen Giesing und Perlach kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "09.06.2026",
       "durationEnd": "09.06.2026",
       "mapHref": "https://karte.bahn.de/detail/2b07e056-aaad-4395-85e8-cf9a08435831",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/1556d664-a9c9-456e-b189-88bd239a7177st%25C3%25B6rungskarte_20260609-095003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/1556d664-a9c9-456e-b189-88bd239a7177st%25C3%25B6rungskarte_20260609-095003.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/8c20fb83-8b13-436d-a36f-2fddf3191d02st%25C3%25B6rungskarte_20260609-095003.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/8c20fb83-8b13-436d-a36f-2fddf3191d02st%25C3%25B6rungskarte_20260609-095003.png",
           "info": "",
           "alt": "Störungskarte 09.06.2026 09:50:03",
           "openInNewTab": true
@@ -810,12 +717,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 13:10",
+      "lastModified": "09.06.2026 17:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/3dad7a20-138f-4448-82a2-0b00d5660c7f",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+    },
+    {
+      "id": "2e2405b2-66fb-41e5-89a9-de9877734444",
+      "disruptionId": "79e6479e-6120-463b-9424-ca2d7b439e44",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 6 Starnberg ↔ Tutzing: Reparatur an einem Signal",
+      "summary": "Zwischen Starnberg und Tutzing sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Starnberg und Tutzing.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und 14 Großraumtaxen zwischen Starnberg und Tutzing eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "09.06.2026",
+      "durationEnd": "09.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/79e6479e-6120-463b-9424-ca2d7b439e44",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/4d10294f-b645-4961-983a-4ce28e7a801cst%25C3%25B6rungskarte_20260609-134627.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/4d10294f-b645-4961-983a-4ce28e7a801cst%25C3%25B6rungskarte_20260609-134627.png",
+          "info": "",
+          "alt": "Störungskarte 09.06.2026 13:46:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.06.2026 17:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2e2405b2-66fb-41e5-89a9-de9877734444",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -905,101 +857,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
       "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "43bc543f-01be-42c0-ae91-2fe49b6b3c67",
-      "disruptionId": "b1fbebbe-7000-4be1-99c2-24dec571b5fa",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Verkehrsmeldung für die Linie RE 4 - Pasewalk",
-      "summary": "Sonntag, 07.06.2026 10:12 Uhr bis vsl. Dienstag, 09.06.2026 23:50 Uhr",
-      "text": "<p><strong>RE4 Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p>Aufgrund einer Streckenstörung kommt es zu Fahrtausfällen zwischen Pasewalk – Szczecin. Es verkehrt ein Ersatzverkehr mit Bus.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
-      "durationBegin": "07.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/b1fbebbe-7000-4be1-99c2-24dec571b5fa",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.06.2026 08:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/43bc543f-01be-42c0-ae91-2fe49b6b3c67",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "0cfcccc0-ba8c-4280-b9c9-d464da832457",
-      "disruptionId": "df63a2a9-eb4c-4597-b6c1-9d63ac51fc8a",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Schönebeck(Elbe) ⇄ Schönebeck-Bad Salzelmen - Ggf. Verspätungen",
-      "summary": "Der Streckenabschnitt von Schönebeck(Elbe) bis Schönebeck-Bad Salzelmen ist wieder freigegeben.  Der Grund für die Sperrung war eine Reparatur an der Oberleitung.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund für die Sperrung war eine Reparatur an der Oberleitung.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kann noch zu Verspätungen kommen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "08.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/df63a2a9-eb4c-4597-b6c1-9d63ac51fc8a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/9ccfed06-7a92-430c-8c54-21814629cca3st%25C3%25B6rungskarte_20260608-142643.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/9ccfed06-7a92-430c-8c54-21814629cca3st%25C3%25B6rungskarte_20260608-142643.png",
-          "info": "",
-          "alt": "Störungskarte 08.06.2026 14:26:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.06.2026 13:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0cfcccc0-ba8c-4280-b9c9-d464da832457",
-      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1268,51 +1125,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c145775c-a6e2-4e38-817f-b93d33bd9941",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_technical_problem_vehicle"
-    },
-    {
-      "id": "98a2ec77-a4d8-48e9-8e84-0e9bce1aa3f5",
-      "disruptionId": "993a01aa-05fb-472c-ac4a-ce49a363590c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 7 Höllriegelskreuth: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Höllriegelskreuth kommt es noch zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
-      "durationBegin": "09.06.2026",
-      "durationEnd": "09.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/993a01aa-05fb-472c-ac4a-ce49a363590c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/821c9d32-6a26-4401-a563-28f53d4a1175st%25C3%25B6rungskarte_20260609-125410.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-09/821c9d32-6a26-4401-a563-28f53d4a1175st%25C3%25B6rungskarte_20260609-125410.png",
-          "info": "",
-          "alt": "Störungskarte 09.06.2026 12:54:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.06.2026 13:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/98a2ec77-a4d8-48e9-8e84-0e9bce1aa3f5",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
