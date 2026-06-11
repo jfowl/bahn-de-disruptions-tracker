@@ -16,8 +16,8 @@
       "mapHref": "https://karte.bahn.de/detail/bd1fb78c-c053-4a73-a275-ba4d384d9fe0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-10/c738bba4-f516-4a05-b0ad-f833a3895195st%25C3%25B6rungskarte_20260610-121702.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-10/c738bba4-f516-4a05-b0ad-f833a3895195st%25C3%25B6rungskarte_20260610-121702.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/9fc7dc52-8891-498e-bdb9-a515bf978ea4st%25C3%25B6rungskarte_20260610-121702.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/9fc7dc52-8891-498e-bdb9-a515bf978ea4st%25C3%25B6rungskarte_20260610-121702.png",
           "info": "",
           "alt": "Störungskarte 10.06.2026 12:17:02",
           "openInNewTab": true
@@ -30,8 +30,8 @@
       ],
       "states": [
         "ST",
-        "NI",
-        "SN"
+        "SN",
+        "NI"
       ],
       "lines": [
         {
@@ -40,7 +40,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "10.06.2026 22:43",
+      "lastModified": "11.06.2026 11:56",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0291d416-31a8-4efd-ae8b-e99188c55527",
@@ -370,22 +370,22 @@
       "mapHref": "https://karte.bahn.de/detail/c0710cf3-aaa6-4c6d-8958-a9523803c441",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/2a81b258-6bd7-4ede-a940-baf61411da19st%25C3%25B6rungskarte_20260609-070328.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/2a81b258-6bd7-4ede-a940-baf61411da19st%25C3%25B6rungskarte_20260609-070328.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-11/f305c0d6-8be9-4e64-a652-314aece99c5ast%25C3%25B6rungskarte_20260611-132007.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-11/f305c0d6-8be9-4e64-a652-314aece99c5ast%25C3%25B6rungskarte_20260611-132007.png",
           "info": "",
-          "alt": "Störungskarte 09.06.2026 07:03:28",
+          "alt": "Störungskarte 11.06.2026 13:20:07",
           "openInNewTab": true
         }
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/4a69533c-e8bc-4462-babe-f147c3c05c03Fahrplananpassungen%2BRE20%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-11/cf6d8f8d-bf96-4d7a-927e-070e28667a50Fahrplananpassungen%2BRE20%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
           "label": "Fahrplananpassungen RE20 vom 14.06 bis 10.07.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/9197796f-8bd5-4c5e-96d2-872f38cf8324Fahrplananpassungen%2BS1%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-11/b5e70561-1095-4bfe-aec1-0b132269fe42Fahrplananpassungen%2BS1%2Bvom%2B14.06%2Bbis%2B10.07.2026.pdf",
           "label": "Fahrplananpassungen S1 vom 14.06 bis 10.07.2026.pdf",
           "info": "",
           "openInNewTab": true
@@ -402,6 +402,11 @@
       ],
       "lines": [
         {
+          "name": "RB 20",
+          "filterName": "RB 20",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 20",
           "filterName": "RE 20",
           "property": "REGIONAL"
@@ -412,7 +417,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.06.2026 09:07",
+      "lastModified": "11.06.2026 13:21",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec99db28-13aa-4b50-a46b-fa958977665f",
@@ -617,6 +622,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "813a6dd3-5498-4ffd-a38d-3726f738756c",
+      "disruptionId": "f24b4593-c034-451a-bc64-ac1d7f286e57",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 6 Starnberg ↔ Tutzing: kurzfristige Bauarbeiten",
+      "summary": "Zwischen Starnberg und Tutzing ist weiterhin kein S-Bahnverkehr möglich.",
+      "text": "<p>Die S-Bahnen wenden in Starnberg.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Starnberg und Tutzing eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Die Gründe hierfür sind kurzfristige Bauarbeiten in diesem Streckenabschnitt.</p>",
+      "durationBegin": "11.06.2026",
+      "durationEnd": "11.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f24b4593-c034-451a-bc64-ac1d7f286e57",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-11/f9097c35-c4b5-4ccc-b5f2-2ac3a4c66805st%25C3%25B6rungskarte_20260611-102828.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-11/f9097c35-c4b5-4ccc-b5f2-2ac3a4c66805st%25C3%25B6rungskarte_20260611-102828.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 10:28:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.06.2026 14:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/813a6dd3-5498-4ffd-a38d-3726f738756c",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
+    },
+    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -666,6 +716,61 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "magnoliaPath": "/aktuell/bayern/impairment_construction"
+    },
+    {
+      "id": "a5b392d0-066e-4458-81c0-566cfa99e6c1",
+      "disruptionId": "7a02a66d-01a7-430c-95d4-b13f19460faf",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Teil- und Zugausfälle zwischen Buchenau(Lahn) - Marburg(Lahn)",
+      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB94: Marburg(Lahn) - Bad Laasphe - Erndtebrück (- Siegen)</li><li>RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>bis ca. 17:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Strecke zwischen Buchenau(Lahn) - Marburg(Lahn) und Wetter(Hessen) - Marburg(Lahn) ist derzeit gesperrt.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Auf dem jeweils ausfallenden Abschnitt haben wir für Sie einen Ersatzverkehr mit Bussen eingerichtet. Die Mitnahme von Fahrrädern im Bus ist ausgeschlossen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "11.06.2026",
+      "durationEnd": "11.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/7a02a66d-01a7-430c-95d4-b13f19460faf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-11/f20bec35-dc79-4883-ab97-e9528f8c2058st%25C3%25B6rungskarte_20260611-142256.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-11/f20bec35-dc79-4883-ab97-e9528f8c2058st%25C3%25B6rungskarte_20260611-142256.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 14:22:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 94",
+          "filterName": "RB 94",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 97",
+          "filterName": "RB 97",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 97",
+          "filterName": "RE 97",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.06.2026 14:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a5b392d0-066e-4458-81c0-566cfa99e6c1",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_police_activity"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -759,6 +864,56 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "6649fa4a-6dd7-49ce-b30e-30759dae513a",
+      "disruptionId": "8ab71aa1-d472-40b3-b4d4-e438b5480e2e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Mittersendling: Reparatur an einem Signal",
+      "summary": "Im Bereich Mittersendling kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "11.06.2026",
+      "durationEnd": "11.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/8ab71aa1-d472-40b3-b4d4-e438b5480e2e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-11/168ef7a3-1267-4b9b-acfe-b01699bace08st%25C3%25B6rungskarte_20260611-121518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-11/168ef7a3-1267-4b9b-acfe-b01699bace08st%25C3%25B6rungskarte_20260611-121518.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 12:15:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.06.2026 14:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6649fa4a-6dd7-49ce-b30e-30759dae513a",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
+    },
+    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
@@ -846,49 +1001,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f48a09e7-5161-4fe9-b3f3-ddb3d0729a66",
       "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "9795cbb2-26ce-4cbf-9246-dce9aa65a103",
-      "disruptionId": "da3e7e6e-8ff0-4f7a-b79d-49dc2737fca9",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung in Frankfurt(M) Hbf",
-      "summary": "Aufgrund der Reparatur einer Weiche in Frankfurt(M) Hbf ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die ICE-Züge der Relation München - Nürnberg - Würzburg - Frankfurt(M) - Köln - Düsseldorf - Essen - Dortmund werden im Raum Frankfurt(M) umgeleitet und halten nicht in Frankfurt(M) Hbf. Ersatzhalt für diese Züge ist Frankfurt(M) Süd.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Frankfurt(M) Hbf und Frankfurt(M) Süd nutzen Sie bitte die S-Bahnen der Linien S3, S4, S5 und S6 bzw. die Nahverkehrszüge.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/da3e7e6e-8ff0-4f7a-b79d-49dc2737fca9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/d26a2852-be92-4ddd-9186-31dd811b5f05st%25C3%25B6rungskarte_20260610-125003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/d26a2852-be92-4ddd-9186-31dd811b5f05st%25C3%25B6rungskarte_20260610-125003.png",
-          "info": "",
-          "alt": "Störungskarte 10.06.2026 12:50:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "11.06.2026 00:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9795cbb2-26ce-4cbf-9246-dce9aa65a103",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
