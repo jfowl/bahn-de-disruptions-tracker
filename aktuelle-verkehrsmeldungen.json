@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5099d8df-101e-44e6-86b2-ad9dfb66a5ed",
+      "disruptionId": "3e797d40-477c-4c81-b92c-8df8f5b84454",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Bremen und Hannover",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Bremen und Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Hamburg - Bremen - Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis in die Vormittagsstunden. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/3e797d40-477c-4c81-b92c-8df8f5b84454",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/7601624c-6869-4198-b87e-ccca48329a0fst%25C3%25B6rungskarte_20260611-053214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-11/7601624c-6869-4198-b87e-ccca48329a0fst%25C3%25B6rungskarte_20260611-053214.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 05:32:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.06.2026 05:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/5099d8df-101e-44e6-86b2-ad9dfb66a5ed",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "0291d416-31a8-4efd-ae8b-e99188c55527",
       "disruptionId": "bd1fb78c-c053-4a73-a275-ba4d384d9fe0",
       "author": "FERNVERKEHR_AG",
@@ -194,9 +239,9 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Verkehrsmeldung für die Linie(n) RE2 und RE7\n zwischen Königs Wusterhausen und Brand Tropical Islands (mit Gegenrichtung)",
+      "headline": "Verkehrsmeldung für die Linien RE2 und RE7 zwischen Königs Wusterhausen und Brand Tropical Islands ",
       "summary": "Mittwoch, 10.06.2026 19:55 Uhr bis vsl. Samstag, 13.06.2026 05:30 Uhr",
-      "text": "<p>Aufgrund einer Baustelle kommt es zu Fahrtausfällen in den Nächten vom 02./03.06 bis 12./13.06 zwischen Königs Wusterhausen und Brand Tropical Islands (mit Gegenrichtung).</p><p>Betroffene Linien:</p><p><strong>RE7 </strong>Ost Berlin - Königs Wusterhausen - Lübbenau(Spreew) - Calau(NL) - Senftenberg</p><p><strong>RE2 </strong>Nauen - Berlin - Königs Wusterhausen - Lübbenau(Spreew) - Cottbus</p><p>Dafür ist ein Ersatzverkehr mit Busen eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "text": "<p>Aufgrund einer Baustelle kommt es zu Fahrtausfällen in den Nächten vom 02./03.06 bis 12./13.06 zwischen Königs Wusterhausen und Brand Tropical Islands.</p><p>Betroffene Linien:</p><p><strong>RE7 </strong>Ost Berlin - Königs Wusterhausen - Lübbenau(Spreew) - Calau(NL) - Senftenberg</p><p><strong>RE2 </strong>Nauen - Berlin - Königs Wusterhausen - Lübbenau(Spreew) - Cottbus</p><p>Dafür ist ein Ersatzverkehr mit Busen eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "10.06.2026",
       "durationEnd": "13.06.2026",
       "mapHref": "https://karte.bahn.de/detail/7b264d4d-d19f-44f4-943f-c3764442eaf6",
@@ -204,14 +249,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -225,12 +270,17 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.06.2026 20:06",
+      "lastModified": "11.06.2026 04:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -790,7 +840,7 @@
       },
       "headline": "Zugausfälle im Raum Frankfurt(Main)",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><strong>🗓️ Zeiträume:</strong><ul><li>Am 10.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li><li>Am 11.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 11.06.26 von ca. 14:00 Uhr bis voraussichtlich 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1, S2 und S5 verkehren im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "08.06.2026",
       "durationEnd": "11.06.2026",
       "mapHref": "https://karte.bahn.de/detail/82d24201-9380-4c8d-ae85-ebbb408b7eb7",
@@ -820,7 +870,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.06.2026 11:09",
+      "lastModified": "11.06.2026 06:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -974,95 +1024,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "afc070b0-a43c-475d-aa60-032a1cde9640",
-      "disruptionId": "eae47b93-49c2-4390-94b0-42c69d75841e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke Nächte 8./9. bis 11./12. Juni",
-      "summary": "wegen Bauarbeiten zur 2. Stammstrecke kommt es in den Nächten von Montag, den 08. Juni, bis Freitag, den 12. Juni 2026, jeweils von 21:20 Uhr bis 4:40 Uhr, zwischen Pasing ↔ Ostbahnhof/Riem/Giesing zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.\n",
-      "text": "<p></p><p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke), teilweise von/bis Moosach ohne Halt.</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden in Markt Schwaben. Zwischen Ostbahnhof und Markt Schwaben besteht Busersatzverkehr.</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor.</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus.</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11.</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing.</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus.</li></ul><p></p><p><strong>S6 Ebersberg ↔ Tutzing/ S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof.</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Harthaus. Zwischen Harthaus und Westkreuz besteht Busersatzverkehr.</li><li>Züge aus Richtung Tutzing fahren als S 8 zum Flughafen/Airport.</li><li>Züge vom Flughafen fahren ab Ostbahnhof als S 6 nach Tutzing.</li></ul><p></p><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen.</li></ul><p></p><p></p><p></p><p><strong>Hinweis:</strong></p><ul><li>Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof.</li><li>Zwischen Ostbahnhof und Pasing fährt nur eine Linie auf der Stammstrecke.</li><li>Die S 7 fährt planmäßig.</li></ul><p></p><p><strong>Nutzen Sie bitte für Ihre individuelle Reiseauskunft im oberen Bereich dieser Seite „Verbindung suchen“.</strong></p><p></p><p></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "08.06.2026",
-      "durationEnd": "12.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/eae47b93-49c2-4390-94b0-42c69d75841e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-10/795b0741-4c90-4b3d-b912-f35d32c34b27st%25C3%25B6rungskarte_20260516-004542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-10/795b0741-4c90-4b3d-b912-f35d32c34b27st%25C3%25B6rungskarte_20260516-004542.png",
-          "info": "",
-          "alt": "Störungskarte 16.05.2026 00:45:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-10/472dfed6-caec-495f-9e93-82dfef043675Fpl%252BS1-S%252B8%252BSEV%252B8-12%252BJuni.pdf",
-          "label": "Stammstrecke Fahrplan 8-12. Juni",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen/stammstrecke",
-          "label": "Bauarbeiten auf der Stammstrecke Nächte 8./9. bis 11./12. Juni",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.06.2026 20:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/afc070b0-a43c-475d-aa60-032a1cde9640",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
