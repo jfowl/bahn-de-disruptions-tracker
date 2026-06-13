@@ -447,41 +447,50 @@
       "magnoliaPath": "/aktuell/suedost/significant_delays_technical_problem_railway_section"
     },
     {
-      "id": "a35fa81c-d965-4558-90a2-352f3a910297",
-      "disruptionId": "c26fbf8d-c0e5-43e2-b471-227275001735",
-      "author": "REGIO_SUEDOST",
+      "id": "3d5e90e9-3e5c-4255-ac39-9721264e1856",
+      "disruptionId": "f1a3eb49-7fc6-4141-a054-66531e0cff32",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Magdeburg Hbf ⇄ Braunschweig Hbf - Verspätungen",
-      "summary": "Der Streckenabschnitt zwischen Magdeburg Hbf und Braunschweig Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.06.2026, ganztägig. Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 03601 799 4462 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "26.03.2026",
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Aschaffenburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Großauheim ist der Fernverkehr der Deutschen Bahn beeinträchtigt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge zwischen Frankfurt(M) und Aschaffenburg werden ab 06:00 in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende von/nach Hanau Hbf nutzen bitte die verbliebenen Fernverkehrs- und Nahverkehrszüge zwischen Frankfurt(M) und Hanau.</p><p>Das Stellwerk wird vsl. ab 18:00 Uhr wieder besetzt sein.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.06.2026",
       "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/c26fbf8d-c0e5-43e2-b471-227275001735",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/f1a3eb49-7fc6-4141-a054-66531e0cff32",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-14/7088ab20-5441-452e-80e9-9ac19fddc3d1st%25C3%25B6rungskarte_20260613-003543.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-14/7088ab20-5441-452e-80e9-9ac19fddc3d1st%25C3%25B6rungskarte_20260613-003543.png",
+          "info": "",
+          "alt": "Störungskarte 13.06.2026 00:35:43",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "ST",
-        "NI"
+        "BY",
+        "HE"
       ],
       "lines": [
         {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "30.03.2026 18:26",
+      "lastModified": "14.06.2026 00:38",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
-      "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3d5e90e9-3e5c-4255-ac39-9721264e1856",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -714,6 +723,51 @@
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
+      "id": "491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "disruptionId": "acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S5 Aying ↔ Kreuzstraße: Reparatur an einer Weiche",
+      "summary": "Zwischen Aying und Kreuzstraße sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Aying.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Aying und Kreuzstraße eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von 10 bis zu 15 Minuten und Teilausfällen sowie Umleitungen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "13.06.2026",
+      "durationEnd": "14.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
+          "info": "",
+          "alt": "Störungskarte 13.06.2026 11:07:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.06.2026 23:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -942,56 +996,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec99db28-13aa-4b50-a46b-fa958977665f",
       "magnoliaPath": "/aktuell/suedost/modified_service_other_cause"
-    },
-    {
-      "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
-      "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Generalsanierung Nürnberg - Regensburg vom 06. Februar bis 13. Juni 2026 ",
-      "summary": "Am 06. Februar ab ca. 21 Uhr startet die Generalsanierung der Strecke Nürnberg - Regensburg und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong></p><ul><li><strong>RE 2</strong></li><li><strong>RE 3</strong></li><li><strong>RE 22</strong></li><li><strong>RE 25</strong></li><li><strong>RB 33</strong></li><li><strong>S3</strong></li></ul><p>🚉 <strong>Auswirkungen auf weitere Linien: </strong></p><ul><li><strong>RE 1</strong></li><li><strong>RE 7 / RE 17</strong></li></ul><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p><p>Einen ausführlichen Überblick bietet die Internetseite<strong>:&nbsp;</strong></p><p><strong>www.bahn.de/ersatzverkehr-nuernberg-regensburg</strong></p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "13.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb18f875-86e7-4329-98e8-2dbfb0a253b5",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-03/1f2b82ed-e8d3-4aa8-b9f1-d639cc50e018Fahrplaninfo%2BGeneralsanierung%2B06.02-13.06.2026%2BRE3.pdf",
-          "label": "Kompakte Fahrplaninfo Generalsanierung 06.02-13.06.2026 ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Nuernberg-Regensburg#13487282",
-          "label": "Überblick über die Generalsanierung Nürnberg - Regensburg ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB S2",
-          "filterName": "RB S2 Nürnberg",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.06.2026 11:12",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
       "id": "21d91f0f-46f0-4606-bebd-937d3e540402",
