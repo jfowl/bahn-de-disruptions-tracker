@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c1909cc5-9c16-4dff-9fc1-94e0eda03703",
+      "disruptionId": "aad473bd-7def-489b-a18e-05bdf25c6dd2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Hamburg",
+      "summary": "Aufgrund von Bauarbeiten zwischen Nauen und Ludwigslust kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und RJ-Züge zwischen Berlin und Hamburg verspäten sich um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/aad473bd-7def-489b-a18e-05bdf25c6dd2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-14/28fd6c58-c5cc-4048-aa4e-acd0434c15a7st%25C3%25B6rungskarte_20260614-030831.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-14/28fd6c58-c5cc-4048-aa4e-acd0434c15a7st%25C3%25B6rungskarte_20260614-030831.png",
+          "info": "",
+          "alt": "Störungskarte 14.06.2026 03:08:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "MV",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.06.2026 03:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c1909cc5-9c16-4dff-9fc1-94e0eda03703",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction0"
+    },
+    {
       "id": "95c95bf2-75ea-42e5-bf32-2ff003e63775",
       "disruptionId": "aa0616ca-4b8c-4ef3-a068-46160688e532",
       "author": "FERNVERKEHR_AG",
@@ -184,62 +231,6 @@
       "magnoliaPath": "/aktuell/nordost/impairment_police_activity6"
     },
     {
-      "id": "8e5c3e3e-c3d9-4b29-be3b-a63ce97d609a",
-      "disruptionId": "7b264d4d-d19f-44f4-943f-c3764442eaf6",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Verkehrsmeldung für die Linien RE2 und RE7 zwischen Königs Wusterhausen und Brand Tropical Islands ",
-      "summary": "Mittwoch, 10.06.2026 21:00 Uhr bis vsl. Sonntag 14.06.2026 05:00",
-      "text": "<p>Aufgrund einer Baustelle kommt es in den Nächten vom 02./03.06 bis 13./14.06 in der Zeit von 21:00 - 05:00 Uhr zu Fahrtausfällen zwischen Königs Wusterhausen und Brand Tropical Islands.</p><p>Betroffene Linien:</p><p><strong>RE7 </strong>Berlin Ostbahnhof - Königs Wusterhausen - Lübbenau(Spreew) - Calau(NL) - Senftenberg</p><p><strong>RE2 </strong>Nauen - Berlin - Königs Wusterhausen - Lübbenau(Spreew) - Cottbus</p><p>Dafür ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "10.06.2026",
-      "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/7b264d4d-d19f-44f4-943f-c3764442eaf6",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2026 14:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8e5c3e3e-c3d9-4b29-be3b-a63ce97d609a",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_construction64"
-    },
-    {
       "id": "4405ad0c-8244-4219-a2e0-8c2c046aad4f",
       "disruptionId": "0c88e9da-0bec-4925-a6f8-8fe9af06237f",
       "author": "REGIO_NORDOST",
@@ -284,52 +275,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4405ad0c-8244-4219-a2e0-8c2c046aad4f",
       "magnoliaPath": "/aktuell/nordost/reduced_service_construction56"
-    },
-    {
-      "id": "4b431fc4-3d42-4de2-b863-92acce0a20ab",
-      "disruptionId": "80f6bed5-3965-454d-b391-bfc1a50b036b",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Eilenburg ⇄ Torgau - Ersatzverkehr",
-      "summary": "Der Streckenabschnitt von Eilenburg bis Torgau ist am 13.6. von 0 bis 6 Uhr und von 18 Uhr bis Sonntag, 14.6.2026, 6 Uhr beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.06., 6 Uhr. Der Grund ist eine kurzfristige Erkrankung von Stellwerkspersonal.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>🚧 <strong>Betroffene Stationen: </strong>Torgau Doberschütz Mockrehna Eilenburg Ost </p><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine kurzfristige Erkrankung von Stellwerkspersonal.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Eilenburg und Torgau aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet.</p>",
-      "durationBegin": "13.06.2026",
-      "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/80f6bed5-3965-454d-b391-bfc1a50b036b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-12/fedcc0bc-2df6-4c72-91d7-c7b0d4ae3aa9st%25C3%25B6rungskarte_20260612-172049.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-12/fedcc0bc-2df6-4c72-91d7-c7b0d4ae3aa9st%25C3%25B6rungskarte_20260612-172049.png",
-          "info": "",
-          "alt": "Störungskarte 12.06.2026 17:20:49",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BB",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.06.2026 17:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4b431fc4-3d42-4de2-b863-92acce0a20ab",
-      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section"
     },
     {
       "id": "8d0b39a1-5a6b-4ae8-8793-bb6aa65e1286",
@@ -723,6 +668,51 @@
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
+      "id": "491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "disruptionId": "acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S5 Aying ↔ Kreuzstraße: Reparatur an einer Weiche",
+      "summary": "Zwischen Aying und Kreuzstraße sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Aying.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Aying und Kreuzstraße eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von 5 bis zu 10 Minuten und Teilausfällen sowie Umleitungen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "13.06.2026",
+      "durationEnd": "14.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-14/6d5a95ae-5cd5-44b0-a66a-6963f59aacb9st%25C3%25B6rungskarte_20260613-110745.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-14/6d5a95ae-5cd5-44b0-a66a-6963f59aacb9st%25C3%25B6rungskarte_20260613-110745.png",
+          "info": "",
+          "alt": "Störungskarte 13.06.2026 11:07:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.06.2026 06:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "1ddbb562-f659-49dd-a7ef-75a53ffe9d73",
       "disruptionId": "ea45bc2d-1384-46d5-91db-66531403fa7f",
       "author": "FERNVERKEHR_AG",
@@ -765,51 +755,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1ddbb562-f659-49dd-a7ef-75a53ffe9d73",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "491df84d-7ba8-4750-964b-3b16bfd149ae",
-      "disruptionId": "acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S5 Aying ↔ Kreuzstraße: Reparatur an einer Weiche",
-      "summary": "Zwischen Aying und Kreuzstraße sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Aying.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Aying und Kreuzstraße eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von 10 bis zu 15 Minuten und Teilausfällen sowie Umleitungen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "13.06.2026",
-      "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
-          "info": "",
-          "alt": "Störungskarte 13.06.2026 11:07:45",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.06.2026 23:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/491df84d-7ba8-4750-964b-3b16bfd149ae",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1089,51 +1034,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
-    },
-    {
-      "id": "c1faa0a1-03e2-4839-8711-c64dc8f43dfe",
-      "disruptionId": "ae608acf-5000-409e-a5b9-99b461fc2c03",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 8 Daglfing ↔ Ostbahnhof: Reparatur an einer Weiche",
-      "summary": "Zwischen Daglfing und Ostbahnhof kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "13.06.2026",
-      "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/ae608acf-5000-409e-a5b9-99b461fc2c03",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/aee96625-3c6e-4dc1-a075-2705cd5ead95st%25C3%25B6rungskarte_20260613-095103.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/aee96625-3c6e-4dc1-a075-2705cd5ead95st%25C3%25B6rungskarte_20260613-095103.png",
-          "info": "",
-          "alt": "Störungskarte 13.06.2026 09:51:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.06.2026 20:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c1faa0a1-03e2-4839-8711-c64dc8f43dfe",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
