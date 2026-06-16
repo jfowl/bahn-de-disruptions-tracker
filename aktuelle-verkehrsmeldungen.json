@@ -2,6 +2,83 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "39219b87-2dab-4048-826e-c3abada571ba",
+      "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
+      "summary": " Für die Übersicht bitte die Meldung aufklappen:",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Ohlsdorf</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "durationBegin": "24.04.2026",
+      "durationEnd": "19.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "Bus S5EV",
+          "filterName": "Bus S5EV Hamburg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.06.2026 14:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
       "id": "cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "disruptionId": "b97dac1b-2e45-4a5b-be7e-ad475cf7ef61",
       "author": "REGIO_MITTE",
@@ -65,72 +142,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "7bb36d95-3b78-4c1d-ac0f-3c1678bf0aa7",
-      "disruptionId": "e677a72b-2ebb-424f-8fd2-7f16b0b5c0a2",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Verkehrsmeldung für die Linien RB20, RB21, RB22 und RB23 -  sowie der Bahnhof Potsdam Hbf",
-      "summary": "Dienstag, 16.06.2026 08:00 Uhr bis vsl. Dienstag, 16.06.2026 16:00 Uhr",
-      "text": "<p>Aufgrund der Entschärfung einer Fliegerbombe kommt es am Dienstag, 16.06.2026 zu Beeinträchtigungen auf folgenden Linien.</p><p><strong>RB20   Potsdam Griebnitzsee - Potsdam Hbf - Golm - Hennigsdorf(b Berlin) - Birkenwerder - Oranienburg</strong></p><p>Ausfall der Verkehrshalte Potsdam Griebnitzsee, Potsdam Hbf und Potsdam Charlottenhof</p><p><strong>RB21   Potsdam - Golm - Wustermark - Berlin-Spandau - Berlin-Charlottenburg</strong></p><p>Ausfall der Verkehrshalte Potsdam Hbf und Potsdam Charlottenhof </p><p><strong>RB22   Potsdam Griebnitzsee - Potsdam Hbf - Golm - Flughafen BER - Königs Wusterhausen</strong></p><p>Ausfall der Verkehrshalte Potsdam Griebnitzsee, Potsdam Hbf und Potsdam Charlottenhof</p><p><strong>RB23   Golm - Potsdam Hbf - Potsdam Griebnitzsee</strong></p><p>Ausfall der Verkehrshalte Golm, Potsdam Park Sanssouci, Potsdam Charlottenhof, Potsdam Hbf und Potsdam Griebnitzsee</p><p>Der Bahnhof Potsdam Hbf ist über den gesamten Zeitraum gesperrt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "16.06.2026",
-      "durationEnd": "16.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/e677a72b-2ebb-424f-8fd2-7f16b0b5c0a2",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RB 20",
-          "filterName": "RB 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 21",
-          "filterName": "RB 21",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 23",
-          "filterName": "RB 23",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2026 09:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7bb36d95-3b78-4c1d-ac0f-3c1678bf0aa7",
-      "magnoliaPath": "/aktuell/nordost/impairment_police_activity6"
-    },
-    {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "disruptionId": "a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "author": "REGIO_SUEDOST",
@@ -139,15 +150,15 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Leipzig Hbf ⇄ Magdeburg Hbf - Verspätungen durch vorübergehend verminderte Geschwindigkeit auf der Strecke",
-      "summary": "Die Linie RE13 zwischen Leipzig Hbf und Magdeburg ist beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 19.07.2026.\n",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig</li><li>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</li></ul><p>ℹ️ <strong>Grund:</strong> Aufgrund von Langsamfahrstellen im Streckenabschnitt Rodleben - Güterglück - Gommern kommt es ab Mittwoch, 27.05.2026 ab 12:00 Uhr bis auf Weiteres zu längerfristigen Verspätungen und Zugausfällen zwischen Biederitz und Magdeburg auf der Linie RE13/ RE14. Ursache hierfür ist der aktuell schlechte Infrastrukturzustand im Netz Magdeburg, welcher kurzfristige Geschwindigkeitsreduzierungen erforderlich macht.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen zwischen Biederitz und Magdeburg Hbf.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte beachten Sie, dass zwischen Magdeburg und Biederitz ein Ersatzverkehr mit Bus eingerichtet ist. Ebenfalls können Reisende zwischen Magdeburg und Leipzig im Streckenabschnitt Magdeburg und Halle (Saale) den RE30 sowie zwischen Halle (Saale) und Leipzig die Linien S5/S5X nutzen. Die Reisezeit verlängert sich dabei nur geringfügig.</p><p>Nutzen Sie alternativ auch die Züge der Linie RB40 zwischen Biederitz und Magdeburg Hbf.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
+      "summary": "Die Linie RE13 zwischen Leipzig Hbf und Magdeburg ist beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 19.07.2026.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 14 Magdeburg - Dessau - Lutherstadt Wittenberg - Falkenberg(Elster)</li></ul><p>ℹ️ <strong>Grund:</strong> Aufgrund von Langsamfahrstellen.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen zwischen Biederitz und Magdeburg Hbf.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte beachten Sie, dass zwischen Magdeburg und Biederitz ein Ersatzverkehr mit Bus eingerichtet ist. </p><p>Nutzen Sie alternativ auch die Züge der Linie RB40 zwischen Biederitz und Magdeburg Hbf.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
       "durationBegin": "27.05.2026",
       "durationEnd": "19.07.2026",
       "mapHref": "https://karte.bahn.de/detail/a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/da35ed55-0d80-46ce-8264-892dbef4f41fst%25C3%25B6rungskarte_20260527-123332.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/da35ed55-0d80-46ce-8264-892dbef4f41fst%25C3%25B6rungskarte_20260527-123332.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-16/741fd513-11a4-4e6e-998a-5708b6f79e99st%25C3%25B6rungskarte_20260527-123332.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-16/741fd513-11a4-4e6e-998a-5708b6f79e99st%25C3%25B6rungskarte_20260527-123332.png",
           "info": "",
           "alt": "Störungskarte 27.05.2026 12:33:32",
           "openInNewTab": true
@@ -155,7 +166,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-09/8c2f9927-12e2-4999-b91d-9a8c4994d91fRE%2B13.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-16/c66d86d4-4d8b-4c28-a2c3-53cc6b9436e3RE%2B13.pdf",
           "label": "Ersatzfahrplan RE 13",
           "info": "",
           "openInNewTab": true
@@ -181,88 +192,11 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.06.2026 13:26",
+      "lastModified": "16.06.2026 15:08",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "magnoliaPath": "/aktuell/suedost/significant_delays_technical_problem_railway_section"
-    },
-    {
-      "id": "39219b87-2dab-4048-826e-c3abada571ba",
-      "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
-      "summary": " Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Ohlsdorf</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
-      "durationBegin": "24.04.2026",
-      "durationEnd": "19.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "Bus S5EV",
-          "filterName": "Bus S5EV Hamburg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.06.2026 13:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -396,6 +330,81 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d23cc65f-f243-424f-b55b-fbab514b9f6d",
+      "disruptionId": "be24f93b-64e2-40db-bf04-3ed1e0243044",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": " Stammstrecke: Unbefugte Personen auf der Strecke",
+      "summary": "Auf der Stammstrecke fahren die Züge wieder.",
+      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Verspätungen von bis zu 15 Minuten und zu Teilausfällen.&nbsp;</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "16.06.2026",
+      "durationEnd": "16.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/be24f93b-64e2-40db-bf04-3ed1e0243044",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-16/14d2979b-8495-4f5f-8cf3-fbed37d30139st%25C3%25B6rungskarte_20260616-171558.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-16/14d2979b-8495-4f5f-8cf3-fbed37d30139st%25C3%25B6rungskarte_20260616-171558.png",
+          "info": "",
+          "alt": "Störungskarte 16.06.2026 17:15:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.06.2026 17:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d23cc65f-f243-424f-b55b-fbab514b9f6d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "b044bfbd-235f-4c38-b7c6-4aadabc9cea9",
       "disruptionId": "b1c1b245-be66-4670-b878-aaa161a0af7f",
       "author": "REGIO_BW",
@@ -439,6 +448,49 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b044bfbd-235f-4c38-b7c6-4aadabc9cea9",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
+    },
+    {
+      "id": "d84b735f-48d8-4c08-9a6f-1a3c30af5932",
+      "disruptionId": "f7c5c48d-a551-45f9-bacc-7739e4c78a2c",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Dresden-Neustadt ⇄ Dresden Hbf - Haltausfälle",
+      "summary": "Der Bahnhof Dresden-Neustadt ist im Moment beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 50 Leipzig – Riesa – Dresden</li><li>S 1 Meißen Triebischtal – Coswig (b Dresden) – Dresden – Pirna – Schöna</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein defektes Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kommt zu Verspätungen sowie Ausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "16.06.2026",
+      "durationEnd": "16.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f7c5c48d-a551-45f9-bacc-7739e4c78a2c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Dresden",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.06.2026 16:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d84b735f-48d8-4c08-9a6f-1a3c30af5932",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -544,6 +596,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "737a81ed-2859-4964-a22f-05597d054e4b",
+      "disruptionId": "f1c1571f-2b58-49cf-862f-1e85c74cafce",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt(Main)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht 16./17. Juni von 20 Uhr bis 6 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge fallen aus zwischen Hofheim(Taunus) - Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1 und S2 zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf bzw. die Züge der S2 sowie ab 21 Uhr die Busse der Baustellen-Ersatzverkehre für die S2 zwischen Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "16.06.2026",
+      "durationEnd": "17.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f1c1571f-2b58-49cf-862f-1e85c74cafce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-16/431f1540-205b-473a-bf82-1bf9cea8e4d3st%25C3%25B6rungskarte_20260616-165808.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-16/431f1540-205b-473a-bf82-1bf9cea8e4d3st%25C3%25B6rungskarte_20260616-165808.png",
+          "info": "",
+          "alt": "Störungskarte 16.06.2026 16:58:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.06.2026 16:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/737a81ed-2859-4964-a22f-05597d054e4b",
+      "magnoliaPath": "/aktuell/hessen/modified_service_technical_problem_railway_section0"
     },
     {
       "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
