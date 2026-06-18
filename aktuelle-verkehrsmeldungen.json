@@ -245,6 +245,49 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "7999a719-2ea9-4248-a161-187d98d7e4b4",
+      "disruptionId": "211e5f66-6202-43f1-a312-31dbc6e7c511",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Rosenheim und Salzburg",
+      "summary": "Aufgrund eines defekten Stellwerks an der Strecke zwischen Traunstein und Rosenheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen aus oder verspäten sich um bis zu 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>München - Rosenheim - Salzburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/211e5f66-6202-43f1-a312-31dbc6e7c511",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-18/f08cf394-ca20-4545-a7eb-ac9e385f0339st%25C3%25B6rungskarte_20260618-044844.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-18/f08cf394-ca20-4545-a7eb-ac9e385f0339st%25C3%25B6rungskarte_20260618-044844.png",
+          "info": "",
+          "alt": "Störungskarte 18.06.2026 04:48:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.06.2026 05:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7999a719-2ea9-4248-a161-187d98d7e4b4",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -328,6 +371,138 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "8e428cb7-1477-4f7b-a747-e2719b9ac41c",
+      "disruptionId": "34b20bd9-3a72-4fc6-8598-be0a1d006d57",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 5 Peiß: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Peiß kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "18.06.2026",
+      "durationEnd": "18.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/34b20bd9-3a72-4fc6-8598-be0a1d006d57",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-18/2bff0b44-dc1e-4436-9eba-b3903fd92917st%25C3%25B6rungskarte_20260618-053621.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-18/2bff0b44-dc1e-4436-9eba-b3903fd92917st%25C3%25B6rungskarte_20260618-053621.png",
+          "info": "",
+          "alt": "Störungskarte 18.06.2026 05:36:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.06.2026 06:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8e428cb7-1477-4f7b-a747-e2719b9ac41c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "bbaa6b22-df9f-47ac-a3fc-36a0200e3acb",
+      "disruptionId": "bcc2d668-b4b8-4647-9256-8accd3e95574",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Ottenhofen: Reparatur an einem Signal",
+      "summary": "Im Bereich Ottenhofen kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "18.06.2026",
+      "durationEnd": "18.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/bcc2d668-b4b8-4647-9256-8accd3e95574",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-18/b5a14f82-2dee-4042-897d-a7a243bcbb66st%25C3%25B6rungskarte_20260618-053210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-18/b5a14f82-2dee-4042-897d-a7a243bcbb66st%25C3%25B6rungskarte_20260618-053210.png",
+          "info": "",
+          "alt": "Störungskarte 18.06.2026 05:32:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.06.2026 06:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bbaa6b22-df9f-47ac-a3fc-36a0200e3acb",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "93a1814a-12c7-4913-8240-4cb02489de6f",
+      "disruptionId": "40506c6e-4ba5-4a0d-aff3-9f7af22e3594",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Verspätungen und Teilausfälle im Raum Mainz-Kastel",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf der S8 kommt es zu Verspätungen.</li><li>Auf der S9 kommt es zu Teilausfällen zwischen Kelsterbach - Wiesbaden Hbf.</li><li>Einige Züge der S9 werden in beiden Richtungen zwischen Mainz-Bischofsheim - Wiesbaden Ost über Mainz Hbf umgeleitet. Diese Züge halten nicht in Mainz-Kastel.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S8 zwischen Kelsterbach und Wiesbaden Hbf bzw. die S1 zwischen Frankfurt Hbf (tief) - Mainz-Kastel - Wiesbaden Hbf.</li><li>Prüfen Sie in der Mainzer und Wiesbadener Innenstadt auch andere Verkehrsmittel wie beispielsweise Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "17.06.2026",
+      "durationEnd": "18.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/40506c6e-4ba5-4a0d-aff3-9f7af22e3594",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.06.2026 06:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/93a1814a-12c7-4913-8240-4cb02489de6f",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
       "id": "b044bfbd-235f-4c38-b7c6-4aadabc9cea9",
@@ -694,6 +869,55 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
+    },
+    {
+      "id": "94fb6cba-b81e-4411-9f4a-ef871489d0a7",
+      "disruptionId": "279d9048-e54e-43da-b585-74c4efcfb8a8",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Nordhausen ⇄ Wasserthaleben - Ersatzverkehr",
+      "summary": "Der Streckenabschnitt zwischen Nordhausen und Wasserthaleben ist beeinträchtigt.  Der Grund, ist ein kurzfristiger Ausfall von Stellwerkpersonal.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 55/RE 56 Erfurt - Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund, ist ein kurzfristiger Ausfall von Stellwerkpersonal.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> </p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte beachten Sie die Fahrpläne des Ersatzverkehrs.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "18.06.2026",
+      "durationEnd": "22.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/279d9048-e54e-43da-b585-74c4efcfb8a8",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-18/c1a99923-b432-4f84-8258-af92b1b111e2Ersatzverkehr%2BRE%2B56%2BNordhausen%2B-%2BWasserthaleben%2Bvom18%2Bbis%2B22.06.26.pdf",
+          "label": "Ersatzverkehr RE 56 Nordhausen - Wasserthaleben vom18 bis 22.06.26.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RB 56",
+          "filterName": "RB 56",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 56",
+          "filterName": "RE 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.06.2026 03:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/94fb6cba-b81e-4411-9f4a-ef871489d0a7",
+      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
