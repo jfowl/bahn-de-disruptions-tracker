@@ -188,52 +188,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "69c398c4-c87b-4dea-8cd7-3bb5972e5543",
-      "disruptionId": "4f606f43-fb37-48e7-a6a3-b65f7c84dd1c",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Halle-Nietleben ⇄ Halle Südstadt - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt von Halle-Nietleben bis Halle Südstadt ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 21:00 Uhr. Der Grund ist ein unbesetztes Stellwerk.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Borna - Geithain </li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein unbesetztes Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie S3 beginnen und enden außerplanmäßig in Halle Südstadt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "19.06.2026",
-      "durationEnd": "19.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/4f606f43-fb37-48e7-a6a3-b65f7c84dd1c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-19/5ada3334-ee2a-4e28-8ae7-8ff62c0e51ccst%25C3%25B6rungskarte_20260619-170808.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-19/5ada3334-ee2a-4e28-8ae7-8ff62c0e51ccst%25C3%25B6rungskarte_20260619-170808.png",
-          "info": "",
-          "alt": "Störungskarte 19.06.2026 17:08:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.06.2026 17:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/69c398c4-c87b-4dea-8cd7-3bb5972e5543",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "disruptionId": "a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "author": "REGIO_SUEDOST",
@@ -466,6 +420,186 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4b04ea04-e667-49f0-9622-4cb7221bb514",
+      "disruptionId": "2374022b-49e0-4f02-8067-da2fb2d91ce0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Markt Schwaben: Reparatur an einem Signal",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "19.06.2026",
+      "durationEnd": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/2374022b-49e0-4f02-8067-da2fb2d91ce0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/8f1eed37-247c-4cbd-b3b8-f532d301c456st%25C3%25B6rungskarte_20260619-141515.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/8f1eed37-247c-4cbd-b3b8-f532d301c456st%25C3%25B6rungskarte_20260619-141515.png",
+          "info": "",
+          "alt": "Störungskarte 19.06.2026 14:15:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.06.2026 21:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4b04ea04-e667-49f0-9622-4cb7221bb514",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
+    },
+    {
+      "id": "a60f0a95-f228-4c59-8b28-ba9835e2bb0f",
+      "disruptionId": "50f00fab-cecc-4489-aad6-bbe1481ed048",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 4 Geltendorf: Technischer Defekt an einem Bahnübergang beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "19.06.2026",
+      "durationEnd": "19.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/50f00fab-cecc-4489-aad6-bbe1481ed048",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/37df4cad-0e36-4ca2-ac45-86a087a3d828st%25C3%25B6rungskarte_20260619-193559.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/37df4cad-0e36-4ca2-ac45-86a087a3d828st%25C3%25B6rungskarte_20260619-193559.png",
+          "info": "",
+          "alt": "Störungskarte 19.06.2026 19:35:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.06.2026 21:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a60f0a95-f228-4c59-8b28-ba9835e2bb0f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section19"
+    },
+    {
+      "id": "7b26ad47-6da4-4ce7-ad5e-eab5ca6e199b",
+      "disruptionId": "303aa722-9ae5-401e-bbc5-bf703e85a884",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 7 Wolfratshausen: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "19.06.2026",
+      "durationEnd": "19.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/303aa722-9ae5-401e-bbc5-bf703e85a884",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/7b6bfea0-1512-4c4d-a01c-5d456c909b99st%25C3%25B6rungskarte_20260619-205942.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/7b6bfea0-1512-4c4d-a01c-5d456c909b99st%25C3%25B6rungskarte_20260619-205942.png",
+          "info": "",
+          "alt": "Störungskarte 19.06.2026 20:59:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.06.2026 21:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7b26ad47-6da4-4ce7-ad5e-eab5ca6e199b",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section21"
+    },
+    {
+      "id": "69fed4f7-1c45-4c0d-b1e4-d0b731bf443d",
+      "disruptionId": "4fceed27-8b21-4d19-b5fa-4aa5ee726b48",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 6 Starnberg: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "19.06.2026",
+      "durationEnd": "19.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/4fceed27-8b21-4d19-b5fa-4aa5ee726b48",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/13f42245-75fa-49be-b574-2a422b0e9fbfst%25C3%25B6rungskarte_20260619-204800.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/13f42245-75fa-49be-b574-2a422b0e9fbfst%25C3%25B6rungskarte_20260619-204800.png",
+          "info": "",
+          "alt": "Störungskarte 19.06.2026 20:48:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.06.2026 20:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/69fed4f7-1c45-4c0d-b1e4-d0b731bf443d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section20"
+    },
+    {
       "id": "68df41b7-bf2f-47bf-b40d-8a02e36f241d",
       "disruptionId": "3f046202-363c-40b4-89d1-ba189fc03636",
       "author": "S_BAHN_MUC",
@@ -566,51 +700,6 @@
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
     },
     {
-      "id": "4b04ea04-e667-49f0-9622-4cb7221bb514",
-      "disruptionId": "2374022b-49e0-4f02-8067-da2fb2d91ce0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "19.06.2026",
-      "durationEnd": "19.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/2374022b-49e0-4f02-8067-da2fb2d91ce0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/f5c76dd5-66b7-4b17-8b09-74255d2085e5st%25C3%25B6rungskarte_20260619-141515.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/f5c76dd5-66b7-4b17-8b09-74255d2085e5st%25C3%25B6rungskarte_20260619-141515.png",
-          "info": "",
-          "alt": "Störungskarte 19.06.2026 14:15:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.06.2026 18:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4b04ea04-e667-49f0-9622-4cb7221bb514",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
-    },
-    {
       "id": "019bc4f9-323d-4516-bbdf-ee0918ff142c",
       "disruptionId": "4b25d6da-b45c-43fa-9b84-c5e7be9dfea1",
       "author": "S_BAHN_MUC",
@@ -622,12 +711,12 @@
       "summary": "Aktuell entfallen bis auf Weiteres alle S-Bahnen der Linie S 5 zwischen Ostbahnhof ↔ Pasing / Germering-Unterpfaffenhofen.",
       "text": "<p>Nutzen Sie zwischen Ostbahnhof ↔ Pasing / Germering-Unterpfaffenhofen alternativ bitte die Linie S 8 von/nach Herrsching.</p><p>Grund hierfür ist eine Reparatur an der Strecke zwischen Ostbahnhof und Leuchtenbergring.</p>",
       "durationBegin": "19.06.2026",
-      "durationEnd": "19.06.2026",
+      "durationEnd": "20.06.2026",
       "mapHref": "https://karte.bahn.de/detail/4b25d6da-b45c-43fa-9b84-c5e7be9dfea1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/18f5b47b-9d2c-4b07-bb45-f7af5868108fst%25C3%25B6rungskarte_20260619-124837.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/18f5b47b-9d2c-4b07-bb45-f7af5868108fst%25C3%25B6rungskarte_20260619-124837.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/bac65748-cc39-40c1-b40c-04352b817a94st%25C3%25B6rungskarte_20260619-124837.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-19/bac65748-cc39-40c1-b40c-04352b817a94st%25C3%25B6rungskarte_20260619-124837.png",
           "info": "",
           "alt": "Störungskarte 19.06.2026 12:48:37",
           "openInNewTab": true
@@ -648,7 +737,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.06.2026 12:50",
+      "lastModified": "19.06.2026 20:58",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
