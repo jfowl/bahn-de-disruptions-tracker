@@ -2,43 +2,82 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "3eefdf85-3e53-439f-8613-d49db0c27e0e",
-      "disruptionId": "864685fb-b95c-4acc-b0ba-d0da2423129d",
-      "author": "REGIO_SUEDOST",
+      "id": "f03f3ec2-11f8-4ad6-954d-0bc820380fe6",
+      "disruptionId": "8f776dcc-a300-4a5a-9d8e-108b543706e8",
+      "author": "REGIO_NORD",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
       },
-      "headline": "Leipzig Hbf (tief) ⇄ Eilenburg - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Eilenburg ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 18 Uhr. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist zwischen Leipzig und Eilenburg eingerichtet, ohne Halt in Leipzig Nord und Leipzig Mockauer Straße.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "headline": "Beeinträchtigungen zwischen Emden und Norddeich",
+      "summary": "Aufgrund eines Baumes im Gleis kommt es derzeit zu Beeinträchtigungen im Regionalverkehr der Deutschen Bahn zwischen Marienhafe und Norddeich.\n",
+      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p><ul><li>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Kein Zugverkehr zwischen Marienhafe und Norddeich.</li></ul><p>Ein Ersatzverkehr mit Bussen im Pendel zwischen Marienhafe und Norddeich ist eingerichtet.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "20.06.2026",
       "durationEnd": "20.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/864685fb-b95c-4acc-b0ba-d0da2423129d",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/8f776dcc-a300-4a5a-9d8e-108b543706e8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-20/7fbe1385-8cc0-43d8-9e87-93490ea8ffe2st%25C3%25B6rungskarte_20260620-133541.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-20/7fbe1385-8cc0-43d8-9e87-93490ea8ffe2st%25C3%25B6rungskarte_20260620-133541.png",
+          "info": "",
+          "alt": "Störungskarte 20.06.2026 13:35:41",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "ST",
-        "TH",
-        "SN"
+        "HH",
+        "HB",
+        "NI"
       ],
       "lines": [
         {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.06.2026 06:48",
+      "lastModified": "20.06.2026 13:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3eefdf85-3e53-439f-8613-d49db0c27e0e",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_other_cause"
+      "detailPagePath": "/service/fahrplaene/f03f3ec2-11f8-4ad6-954d-0bc820380fe6",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -501,51 +540,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_weather_storm"
     },
     {
-      "id": "53b0a5b2-d10e-44d1-aa0d-7b4c4838a81b",
-      "disruptionId": "754e3543-02e3-4c17-80be-41dde48bdbe6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S2 Riem -Feldkirchen: Reparatur an einem Signal ",
-      "summary": "Derzeit kommt es auf der Linie S2 in beide Richtungen zu Verspätungen von 20 bis 25 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>ℹ️<strong> Bis auf weiteres fahren die S-Bahnen von Riem in Richtung Markt Schwaben abweichend von Gleis 3 </strong>❕</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einem Signal in Riem.</p>",
-      "durationBegin": "20.06.2026",
-      "durationEnd": "20.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/754e3543-02e3-4c17-80be-41dde48bdbe6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/1d6473fc-6a3c-49eb-a5b3-e7abf4133dbest%25C3%25B6rungskarte_20260620-110819.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/1d6473fc-6a3c-49eb-a5b3-e7abf4133dbest%25C3%25B6rungskarte_20260620-110819.png",
-          "info": "",
-          "alt": "Störungskarte 20.06.2026 11:08:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.06.2026 11:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/53b0a5b2-d10e-44d1-aa0d-7b4c4838a81b",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section22"
-    },
-    {
       "id": "dc4d7ff8-1dcd-43a9-87ef-1ee580450989",
       "disruptionId": "2bffe28b-bdc8-46c8-a78f-c97c604de60e",
       "author": "REGIO_SUEDOST",
@@ -589,51 +583,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/dc4d7ff8-1dcd-43a9-87ef-1ee580450989",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_vehicle"
-    },
-    {
-      "id": "f8148d60-2d73-4b82-9a36-7556fd1dc496",
-      "disruptionId": "a8129828-8c61-445c-9025-6205c9d6ee29",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S4 Grafrath - Geltendorf: Reparatur an der Strecke ",
-      "summary": "Ab sofort verkehren die S-Bahnen der Linie S4 bis auf weiteres im Stundentakt zwischen Buchenau und Geltendorf. Zusätzlich kann es zu Verspätungen von bis zu 10 Minuten kommen. ",
-      "text": "<p><strong>Erster Zug beginnend im Stundentakt:</strong></p><p>🔴Abfahrt Pasing 08:11 Uhr (+11) - Abfahrt Buchenau 08:32 Uhr (+12) - Ankunft Geltendorf 08:53 Uhr (+5) </p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                        ist eine Reparatur an der Strecke       zwischen Grafrath und Geltendorf.</p><p></p>",
-      "durationBegin": "20.06.2026",
-      "durationEnd": "20.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a8129828-8c61-445c-9025-6205c9d6ee29",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/9a1840e2-bdb8-48e0-860a-37a080cff776st%25C3%25B6rungskarte_20260620-082218.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/9a1840e2-bdb8-48e0-860a-37a080cff776st%25C3%25B6rungskarte_20260620-082218.png",
-          "info": "",
-          "alt": "Störungskarte 20.06.2026 08:22:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.06.2026 08:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f8148d60-2d73-4b82-9a36-7556fd1dc496",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section4"
     },
     {
       "id": "b044bfbd-235f-4c38-b7c6-4aadabc9cea9",
