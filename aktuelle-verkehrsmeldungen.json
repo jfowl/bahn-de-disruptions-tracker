@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3eefdf85-3e53-439f-8613-d49db0c27e0e",
+      "disruptionId": "864685fb-b95c-4acc-b0ba-d0da2423129d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Leipzig Hbf (tief) ⇄ Eilenburg - Fahrtausfälle",
+      "summary": "Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Eilenburg ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 18 Uhr. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist zwischen Leipzig und Eilenburg eingerichtet, ohne Halt in Leipzig Nord und Leipzig Mockauer Straße.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "20.06.2026",
+      "durationEnd": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/864685fb-b95c-4acc-b0ba-d0da2423129d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.06.2026 06:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3eefdf85-3e53-439f-8613-d49db0c27e0e",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_other_cause"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -140,6 +179,169 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "9a7e3a01-27cd-4447-998a-7bc6e752d818",
+      "disruptionId": "7e8a39bd-f00c-47d2-b063-1327975401e6",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Heide(Holst) und Husum behoben.",
+      "summary": "Umgestürzter Baum im Gleis zwischen Heide(Holst) und Husum beseitigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Züge verkehren wieder zwischen Hamburg-Altona und Westerland(Sylt). Die ersten durchfahrenden Züge sind RE 11004 um 08:01 Uhr ab Heide(Holst) und RE 11011 um 08:11 Uhr ab Husum. In Folge der Störung kann es noch zu Verspätungen kommen.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "20.06.2026",
+      "durationEnd": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/7e8a39bd-f00c-47d2-b063-1327975401e6",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6x",
+          "filterName": "RE 6x",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.06.2026 08:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9a7e3a01-27cd-4447-998a-7bc6e752d818",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "0a89eb23-b21c-4e8b-8e1c-a446f18d2b0b",
+      "disruptionId": "cbda1d53-78b9-4837-a076-a09892bef021",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Berlin und Warschau",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung im Netz der polnischen Bahn kommt es derzeit zu Beeinträchtigungen und Zugausfällen im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Einzelne EC Züge der Verbindung Berlin - Frankfurt/Oder - Rzepin - Warschau entfallen zwischen Berlin und Rzepin.</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/cbda1d53-78b9-4837-a076-a09892bef021",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/5934a12a-50a5-48bb-8eee-38a8a56b450est%25C3%25B6rungskarte_20260620-034923.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/5934a12a-50a5-48bb-8eee-38a8a56b450est%25C3%25B6rungskarte_20260620-034923.png",
+          "info": "",
+          "alt": "Störungskarte 20.06.2026 03:49:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.06.2026 03:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0a89eb23-b21c-4e8b-8e1c-a446f18d2b0b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "6ecae672-2505-4937-b605-6b68bf56576e",
+      "disruptionId": "b7170b94-4bf6-4432-bc16-cb854218fc4c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Fahrtausfälle zwischen Gotha und Gera",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls entfallen am heutigen Samstag, 20.06.2026 leider die Verbindungen des Fernverkehrs zwischen Gotha und Gera.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>IC-Züge Gotha - Gera</li></ul><p>Bitte nutzen Sie die auf dieser Strecke verkehrenden Züge des Regionalverkehrs.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/b7170b94-4bf6-4432-bc16-cb854218fc4c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/64972fea-c9dd-45fa-98d2-44ba33503365st%25C3%25B6rungskarte_20260620-074735.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/64972fea-c9dd-45fa-98d2-44ba33503365st%25C3%25B6rungskarte_20260620-074735.png",
+          "info": "",
+          "alt": "Störungskarte 20.06.2026 07:47:35",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/7a8b5a11-ea0f-46d1-a4ee-8c5be4edb5f8st%25C3%25B6rungskarte_20260620-073953.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-20/7a8b5a11-ea0f-46d1-a4ee-8c5be4edb5f8st%25C3%25B6rungskarte_20260620-073953.png",
+          "info": "",
+          "alt": "Störungskarte 20.06.2026 07:39:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.06.2026 08:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/6ecae672-2505-4937-b605-6b68bf56576e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
@@ -330,6 +532,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "78aa0d50-50a5-4e15-abe1-9253a87c8c18",
+      "disruptionId": "2851aa16-9d88-409a-9938-ab62638c584b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "S5: Witterungsbedingte Beeinträchtigungen",
+      "summary": "S5. Start/Ziel erst ab Diebsteich",
+      "text": "<p>S5: Aktuell fahren Züge mit Start beziehungsweise Ziel in Elbgaustraße nur bis beziehungsweise erst ab Diebsteich. Grund: Witterungsbedingte Beeinträchtigungen.</p>",
+      "durationBegin": "20.06.2026",
+      "durationEnd": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/2851aa16-9d88-409a-9938-ab62638c584b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.06.2026 08:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/78aa0d50-50a5-4e15-abe1-9253a87c8c18",
+      "magnoliaPath": "/aktuell/nord/impairment_weather_storm"
+    },
+    {
       "id": "4b04ea04-e667-49f0-9622-4cb7221bb514",
       "disruptionId": "2374022b-49e0-4f02-8067-da2fb2d91ce0",
       "author": "S_BAHN_MUC",
@@ -373,6 +612,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4b04ea04-e667-49f0-9622-4cb7221bb514",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
+    },
+    {
+      "id": "f8148d60-2d73-4b82-9a36-7556fd1dc496",
+      "disruptionId": "a8129828-8c61-445c-9025-6205c9d6ee29",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S4 Grafrath - Geltendorf: Reparatur an der Strecke ",
+      "summary": "Ab sofort verkehren die S-Bahnen der Linie S4 bis auf weiteres im Stundentakt zwischen Buchenau und Geltendorf. Zusätzlich kann es zu Verspätungen von bis zu 10 Minuten kommen. ",
+      "text": "<p><strong>Erster Zug beginnend im Stundentakt:</strong></p><p>🔴Abfahrt Pasing 08:11 Uhr (+11) - Abfahrt Buchenau 08:32 Uhr (+12) - Ankunft Geltendorf 08:53 Uhr (+5) </p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                        ist eine Reparatur an der Strecke       zwischen Grafrath und Geltendorf.</p><p></p>",
+      "durationBegin": "20.06.2026",
+      "durationEnd": "20.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a8129828-8c61-445c-9025-6205c9d6ee29",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/9a1840e2-bdb8-48e0-860a-37a080cff776st%25C3%25B6rungskarte_20260620-082218.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/9a1840e2-bdb8-48e0-860a-37a080cff776st%25C3%25B6rungskarte_20260620-082218.png",
+          "info": "",
+          "alt": "Störungskarte 20.06.2026 08:22:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.06.2026 08:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f8148d60-2d73-4b82-9a36-7556fd1dc496",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section4"
     },
     {
       "id": "b044bfbd-235f-4c38-b7c6-4aadabc9cea9",
@@ -532,16 +816,16 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Baustelleninformation zur Stammstrecke am 20. und 21.06. 2026",
-      "summary": "wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es von Samstag, den 20. Juni und Sonntag, den 21. Juni 2026, jeweils von 4:00 Uhr bis 16:00 Uhr, zwischen Pasing ◄►Riem/Trudering/Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 und halten nicht an der Hackerbrücke</li></ul><p><strong>S2:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof Gleis 6-13 und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Ostbahnhof</li></ul><p><strong>S3:</strong></p><ul><li>Züge fahren planmäßig zwischen Ostbahnhof und Mammendorf. Zeitgleich finden Bauarbeiten im Bereich Giesing statt. Es besteht ein Bus-Ersatzverkehr zwischen Ostbahnhof und Deisenhofen. (Beachten Sie hierzu die gesonderten Informationen)</li></ul><p><strong>S4:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus. Es besteht ein Bus-Ersatzverkehr zwischen Trudering und Ostbahnhof</li></ul><p><strong>S5:</strong></p><ul><li>Züge fahren planmäßig zwischen Giesing und Kreuzstraße. Es besteht ein Bus-Ersatzverkehr zwischen Ostbahnhof und Giesing mit den Bussen der S3. (Beachten Sie hierzu die gesonderten Informationen)</li></ul><p><strong>S6:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht ein Bus-Ersatzverkehr zwischen Trudering und Ostbahnhof</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p><strong>S7:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p><strong>S8:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "headline": "KORREKTUR Baustelleninformation zur Stammstrecke am 20. und 21.06. 2026",
+      "summary": "wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es am Samstag, den 20. Juni und Sonntag, den 21. Juni 2026, jeweils von 4:00 Uhr bis 16:00 Uhr, zwischen Pasing ◄►Riem/Trudering/Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 und halten nicht an der Hackerbrücke</li></ul><p><strong>S2:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof Gleis 6-13 und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Ostbahnhof</li></ul><p><strong>S3:</strong></p><ul><li>Die S-Bahnen der Linie S3 Mammendorf fahren planmäßig zwischen Ostbahnhof und Mammendorf. Zeitgleich finden Bauarbeiten im Bereich Giesing statt. Es besteht ein Bus-Ersatzverkehr zwischen Ostbahnhof und Deisenhofen. (Beachten Sie hierzu die gesonderten Informationen).</li><li><strong>KORREKTUR S3 Holzkirchen:</strong> Die S-Bahnen fahren <strong>zwischen Pasing und Holzkirchen OHNE HALT in der Stammstrecke </strong>über Heimeranplatz, Mittersendling, Siemenswerke, Solln, Deisenhofen, Sauerlach, Otterfing und Holzkirchen ❗</li></ul><p><strong>S4:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus. Es besteht ein Bus-Ersatzverkehr zwischen Trudering und Ostbahnhof</li></ul><p><strong>S5:</strong></p><ul><li>Züge fahren planmäßig zwischen Giesing und Kreuzstraße. Es besteht ein Bus-Ersatzverkehr zwischen Ostbahnhof und Giesing mit den Bussen der S3. (Beachten Sie hierzu die gesonderten Informationen)</li></ul><p><strong>S6:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht ein Bus-Ersatzverkehr zwischen Trudering und Ostbahnhof</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p><strong>S7:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p><strong>S8:</strong></p><ul><li>Züge fahren planmäßig</li></ul><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "20.06.2026",
       "durationEnd": "21.06.2026",
       "mapHref": "https://karte.bahn.de/detail/d47c42e1-09b8-4e21-9aa3-d37b8e99eeaa",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/a822f576-53a5-4535-a98f-e8ef81d5888bst%25C3%25B6rungskarte_20260609-223441.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/a822f576-53a5-4535-a98f-e8ef81d5888bst%25C3%25B6rungskarte_20260609-223441.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/80910e98-f8e0-4f09-85ff-f71973778f4bst%25C3%25B6rungskarte_20260609-223441.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/80910e98-f8e0-4f09-85ff-f71973778f4bst%25C3%25B6rungskarte_20260609-223441.png",
           "info": "",
           "alt": "Störungskarte 09.06.2026 22:34:41",
           "openInNewTab": true
@@ -549,7 +833,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/0af5ed9b-441f-4f82-b5a3-3a5887b59572Fpl%252BS%252B1%252BS%252B2%252BS%252B4%252BS%252B6%252BSEV%252B20%252B21%252BJun.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/08a16084-f59d-462a-b17a-ce253024108eFpl%252BS%252B1%252BS%252B2%252BS%252B4%252BS%252B6%252BSEV%252B20%252B21%252BJun.pdf",
           "label": "Stammstrecke+EV+20+21.Juni 26",
           "info": "",
           "openInNewTab": true
@@ -594,7 +878,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.06.2026 03:31",
+      "lastModified": "20.06.2026 06:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
