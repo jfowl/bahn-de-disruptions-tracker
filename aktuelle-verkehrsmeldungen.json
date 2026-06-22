@@ -79,44 +79,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "2a6c391b-8b50-4117-af6d-3c5f1e00182b",
-      "disruptionId": "c57984a2-afef-4227-aa0a-856a051c054e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5: Technische Störung an der Strecke",
-      "summary": "Bitte nutzen Sie alternativ den eingerichteten Ersatzverkehr mit Bussen.",
-      "text": "<p>Aufgrund von betrieblichen Anpassungen wird die <strong>Linie S3 in Richtung Pinneberg vorübergehend über die Verbindungsbahn umgeleitet</strong>.</p><ul><li><strong>Die Haltestelle Altona wird von der S3 in Richtung Pinneberg nicht angefahren.</strong></li><li>Die <strong>Linie S5 entfällt</strong> in diesem Zeitraum.</li></ul><p><strong>Hinweise für Fahrgäste:</strong></p><ul><li><strong>Fahrgäste in Richtung Pinneberg</strong> nutzen bitte zunächst die <strong>S7 bis Holstenstraße</strong>.</li><li>An der <strong>Station Holstenstraße</strong> besteht <strong>Anschluss an die S3</strong> in Richtung Pinneberg.</li></ul><p>Bitte planen Sie ggf. etwas mehr Zeit ein und beachten Sie die geänderten Reisewege.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/c57984a2-afef-4227-aa0a-856a051c054e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.06.2026 22:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2a6c391b-8b50-4117-af6d-3c5f1e00182b",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
       "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
       "author": "REGIO_MITTE",
@@ -636,6 +598,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f11dbe0e-4850-4664-9be1-67c17312d778",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "550b91ea-2655-45f9-b81d-91b56b678af5",
+      "disruptionId": "f3006232-edd5-4ba6-933d-655691dee4c5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 2 Dachau ↔ Ostbahnhof: Technische Störung an einem Zug",
+      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Markt Schwaben Abfahrt 06:32 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 06:52 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 07:32 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f3006232-edd5-4ba6-933d-655691dee4c5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 01:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/550b91ea-2655-45f9-b81d-91b56b678af5",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
