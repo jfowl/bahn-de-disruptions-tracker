@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "931c5e26-6c3a-46d5-a18d-5b75b7dd9b95",
-      "disruptionId": "db0444c7-1f66-47e3-848f-f9617d2b0c79",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Osnabrück und Münster (W)",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Osnabrück und Münster (W) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge werden umgeleitet. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Osnabrück und Münster (W) verspäten sich um ca. 30 Minuten (Fahrtrichtung Münster (W) - Osnabrück sind nicht betroffen.</li><li>ICE Sprinter Züge zwischen Hannover und Köln werden in beiden Fahrrichtungen umgeleitet. Die Halt in Münster (W) und Osnabrück entfallen.</li></ul><p> Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/db0444c7-1f66-47e3-848f-f9617d2b0c79",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/36d7ea5d-bdae-41b9-ad55-a3b77e04de33st%25C3%25B6rungskarte_20260623-131532.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/36d7ea5d-bdae-41b9-ad55-a3b77e04de33st%25C3%25B6rungskarte_20260623-131532.png",
-          "info": "",
-          "alt": "Störungskarte 23.06.2026 13:15:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.06.2026 13:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/931c5e26-6c3a-46d5-a18d-5b75b7dd9b95",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -122,6 +77,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "908d30a0-70e3-40ad-a81d-c81932bdc17d",
+      "disruptionId": "dbe7ed52-9881-4f1d-a0bc-e53edc0b22e7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Leipzig und Dresden ",
+      "summary": "Aufgrund einer technischen Störung an der Strecke im Raum Riesa kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge entfallen zwischen Leipzig und Dresden.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Leipzig und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/dbe7ed52-9881-4f1d-a0bc-e53edc0b22e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/e7dd4274-bcf2-49d4-95f3-7103b65d06b0st%25C3%25B6rungskarte_20260623-135726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/e7dd4274-bcf2-49d4-95f3-7103b65d06b0st%25C3%25B6rungskarte_20260623-135726.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 13:57:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.06.2026 13:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/908d30a0-70e3-40ad-a81d-c81932bdc17d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
@@ -239,14 +238,14 @@
       },
       "headline": "Beeinträchtigung zwischen Niebüll und Westerland(Sylt) ",
       "summary": "Aufgrund einer Reparatur an der Weiche in Klanxbüll ist der Zugverkehr zwischen Niebüll und Westerland(Sylt) beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Hamburg-Altona - Westerland(Sylt)): Der Streckenabschnitt zwischen Klanxbüll und Westerland (Sylt) ist bis vsl. Donnerstagmorgen nur eingleisig befahrbar. Es kommt zu Verspätungen und Ausfällen sowie Teilausfällen. Folgenden Züge entfallen am 23. Juni:<ul><li>RE 11098 ab Niebüll 05:30 Uhr,</li><li>RE 11050 ab Husum 06:00 Uhr,</li><li>RE 11011 ab Westerland(Sylt) 06:19 Uhr bis Niebüll,</li><li>RE 11061 ab Westerland(Sylt) 06:50,</li><li>RE 11052 ab Husum 07:00 Uhr,</li><li>RE 11063 ab Westerland(Sylt) 07:50 Uhr,</li><li>RE 11054 ab Niebüll 08:30 Uhr,</li><li>RE 11065 ab Westerland(Sylt) 08:50 Uhr,</li><li>RE 11056 ab Niebüll 09:30 Uhr,</li><li>RE 11058 ab Niebüll 10:30 Uhr,</li><li>RE 11073 ab Westerland(Sylt) 12:50 Uhr,</li><li>RE 11066 ab Bredstedt 13:56 Uhr,</li><li>RE 11077 ab Westerland(Sylt) 14:50 Uhr,</li><li>RE 11068 ab Niebüll 15:30 Uhr,</li><li>RE 11079 ab Westerland(Sylt) 15:50 Uhr,</li><li>RE 11081 ab Westerland(Sylt) 16:50 Uhr,</li><li>RE 11072 ab Bredstedt 17:12 Uhr,</li><li>RE 11083 ab Westerland(Sylt) 17:50 Uhr,</li><li>RE 11085 ab Westerland(Sylt) 18:50 Uhr.</li></ul></li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Hamburg-Altona - Westerland(Sylt)): Der Streckenabschnitt zwischen Klanxbüll und Westerland (Sylt) ist bis vsl. Donnerstagmorgen nur eingleisig befahrbar. Es kommt zu Verspätungen und Ausfällen sowie Teilausfällen. Folgenden Züge entfallen am 23. und 24. Juni:<ul><li>RE 11098 ab Niebüll 05:30 Uhr,</li><li>RE 11050 ab Husum 06:00 Uhr,</li><li>RE 11011 ab Westerland(Sylt) 06:19 Uhr bis Niebüll,</li><li>RE 11061 ab Westerland(Sylt) 06:50,</li><li>RE 11052 ab Husum 07:00 Uhr,</li><li>RE 11063 ab Westerland(Sylt) 07:50 Uhr,</li><li>RE 11054 ab Niebüll 08:30 Uhr,</li><li>RE 11065 ab Westerland(Sylt) 08:50 Uhr,</li><li>RE 11056 ab Niebüll 09:30 Uhr,</li><li>RE 11058 ab Niebüll 10:30 Uhr,</li><li>RE 11073 ab Westerland(Sylt) 12:50 Uhr,</li><li>RE 11066 ab Bredstedt 13:56 Uhr,</li><li>RE 11077 ab Westerland(Sylt) 14:50 Uhr,</li><li>RE 11068 ab Niebüll 15:30 Uhr,</li><li>RE 11079 ab Westerland(Sylt) 15:50 Uhr,</li><li>RE 11081 ab Westerland(Sylt) 16:50 Uhr,</li><li>RE 11072 ab Bredstedt 17:12 Uhr,</li><li>RE 11083 ab Westerland(Sylt) 17:50 Uhr,</li><li>RE 11085 ab Westerland(Sylt) 18:50 Uhr.</li></ul></li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "21.06.2026",
-      "durationEnd": "24.06.2026",
+      "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/2a0c9b09-9c1e-47b1-ba0f-8ee0fa4f1a43",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-22/87239710-c8b3-4cdf-acd2-ae87628a04a5st%25C3%25B6rungskarte_20260621-041729.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-22/87239710-c8b3-4cdf-acd2-ae87628a04a5st%25C3%25B6rungskarte_20260621-041729.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-23/ce24737f-09bd-4cf0-b24a-1ed337a0732est%25C3%25B6rungskarte_20260621-041729.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-23/ce24737f-09bd-4cf0-b24a-1ed337a0732est%25C3%25B6rungskarte_20260621-041729.png",
           "info": "",
           "alt": "Störungskarte 21.06.2026 04:17:29",
           "openInNewTab": true
@@ -255,8 +254,8 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         },
@@ -267,8 +266,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "Fahrgastrechte ",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
           "info": "",
           "openInNewTab": true
         },
@@ -298,12 +297,50 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.06.2026 19:40",
+      "lastModified": "23.06.2026 15:37",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1e68395d-7cce-4d76-8333-e32ff1612b2e",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "b29819a3-2834-4703-a4f4-08724cb8a635",
+      "disruptionId": "f099f44a-50cc-496b-b6c0-bab1cd9a411d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "⚠️🔵 S5: Aktuell fahren Züge mit Start / Ziel Buxtehude nur bis / erst ab Neugraben",
+      "summary": "Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. Grund: Weichenstörung. Nutzen Sie zwischen Neugraben und Buxtehude ersatzweise die Züge von und nach Stade. Sowie ggf. bereits ab Hamburg-Harburg den RE 5. ",
+      "text": "<p>...</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f099f44a-50cc-496b-b6c0-bab1cd9a411d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 15:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b29819a3-2834-4703-a4f4-08724cb8a635",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "9e5710fa-89ee-4bbe-af58-4269b2cd725c",
@@ -455,94 +492,65 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
-      "disruptionId": "a9de4fe0-2626-449c-9bdf-ddb12c546e42",
-      "author": "S_BAHN_MUC",
+      "id": "1a30b0cf-5ab9-42c5-8d37-a7e3b4fe3047",
+      "disruptionId": "6dba109d-7874-4021-a9f3-87f75f51bd8a",
+      "author": "S_BAHN_RM",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "S1  Freising/Flughafen ↔ Leuchtenbergring: Defektes Stellwerk",
-      "summary": "Zwischen Freising/Flughafen und Leuchtenbergring fahren bis auf Weiteres keine S-Bahnen.",
-      "text": "<p>Wir haben einen Ersatzverkehr mit Bus und Taxis zwischen Laim ↔ Freising sowie zwischen Neufahrn ↔ Flughafen für Sie eingerichtet. Nutzen Sie bitte nur die speziell gekennzeichneten Fahrzeuge.</p><p>Für Reisende zum Flughafen ist in Neufahrn ein Umstieg in den Ersatzverkehr zum Flughafen notwendig.</p><p>Durch die verlängerten Fahrzeiten des Ersatzverkehrs nutzen Sie bitte überwiegend die S-Bahnen der Linie S 8 von / zum Flughafen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "headline": "Hohe Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt(Main)West - Bad Vilbel - Friedberg(Hess) - Gießen sowie Bad Vilbel - Nidderau",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li><li>RB48 (DB Regio): Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecken sind derzeit gesperrt.</li><li>Die S6 verkehrt im 30-MinutenTakt zwischen Darmstadt Hbf - Langen(Hess) - Frankfurt Hbf (tief) - Frankfurt(Main)West - Frankfurt-Rödelheim. Die S6 fällt aus zwischen Frankfurt(Main)West - Bad Vilbel - Friedberg(Hess).</li><li>Auf der RE30, RB34 und RB48 (DB Regio) kommt es zu hohen Verspätungen sowie zu Teil- und Zugausfällen.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Wir arbeiten an der Einrichtung von Ersatzverkehren, warten aber noch auf die Bestätigung unserer Partner.</li><li>Beziehen Sie auch andere Verkehrsmittel mit ein, um an Ihr Reiseziel zu gelangen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a9de4fe0-2626-449c-9bdf-ddb12c546e42",
+      "mapHref": "https://karte.bahn.de/detail/6dba109d-7874-4021-a9f3-87f75f51bd8a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/72b93b74-6ae2-48c4-83e3-1239dcf04e08st%25C3%25B6rungskarte_20260623-113631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/72b93b74-6ae2-48c4-83e3-1239dcf04e08st%25C3%25B6rungskarte_20260623-113631.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/4656592a-caf6-48a1-ab84-250496e7ee0est%25C3%25B6rungskarte_20260623-152818.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/4656592a-caf6-48a1-ab84-250496e7ee0est%25C3%25B6rungskarte_20260623-152818.png",
           "info": "",
-          "alt": "Störungskarte 23.06.2026 11:36:31",
+          "alt": "Störungskarte 23.06.2026 15:28:18",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "HE"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "RB 34",
+          "filterName": "RB 34",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 48",
+          "filterName": "RB 48",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 12:35",
-      "expand": true,
+      "lastModified": "23.06.2026 15:44",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
-    },
-    {
-      "id": "be0765db-7d93-4aba-90bd-b6aeda0267a0",
-      "disruptionId": "7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 8 Herrsching: Reparatur an einer Weiche ",
-      "summary": "Zwischen Seefeld-Hechendorf ↔ Herrsching finden weiterhin keine Zugfahrten statt.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Seefeld-Hechendorf ↔ Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte informieren Sie sich vor Fahrtantritt über Ihre Reiseverbindung auf: www.s-bahn-muenchen.de/de</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/fb00f603-1805-4f35-b0ff-d76a08d35af3st%25C3%25B6rungskarte_20260622-144703.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/fb00f603-1805-4f35-b0ff-d76a08d35af3st%25C3%25B6rungskarte_20260622-144703.png",
-          "info": "",
-          "alt": "Störungskarte 22.06.2026 14:47:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2026 11:58",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/be0765db-7d93-4aba-90bd-b6aeda0267a0",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/1a30b0cf-5ab9-42c5-8d37-a7e3b4fe3047",
+      "magnoliaPath": "/aktuell/hessen/impairment_police_activity"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -630,6 +638,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "9fec8472-379d-4cf5-ae31-c392f8827177",
+      "disruptionId": "55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
+      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kann es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen kommen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke. Der technische Defekt an einem Bahnübergang ist behoben.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/45a2c5fb-ff47-4bbc-bf11-8efdcb9b6c7dst%25C3%25B6rungskarte_20260623-053518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/45a2c5fb-ff47-4bbc-bf11-8efdcb9b6c7dst%25C3%25B6rungskarte_20260623-053518.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 05:35:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 15:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9fec8472-379d-4cf5-ae31-c392f8827177",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "f11dbe0e-4850-4664-9be1-67c17312d778",
       "disruptionId": "3f26f112-e477-4169-a49f-d3e19b6ff643",
       "author": "REGIO_BW",
@@ -638,15 +691,15 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Aschaffenburg Hbf und Miltenberg",
-      "summary": "Der Streckenabschnitt zwischen Aschaffenburg Hbf und Miltenberg ist nach einer Störung an einem Stellwerk immer noch beeinträchtigt. Dauer der Beeinträchtigung ist voraussichtlich bis Mittwoch, 24.06 gegen Betriebsschluss. Die Züge der Linie RB 88 verkehren zwischen Obernburg-Elsenfeld und Miltenberg. Die Zugfahrten der Linie RE 87 zwischen Miltenberg und Aschaffenburg Hbf fallen aus. Ein Ersatzverkehr mit acht Bussen im Pendelbetrieb, zwischen Obernburg-Elsenfeld  und Aschaffenburg Hbf ist eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung vor Fahrtantritt.\n",
+      "summary": "Der Streckenabschnitt zwischen Aschaffenburg Hbf und Miltenberg, ist nach einem Kabelschaden in einem Stellwerk beeinträchtigt. Dauer der Beeinträchtigung ist voraussichtlich bis Mittwoch, 24.06 gegen Betriebsschluss. Die Züge der Linie RB 88 verkehren zwischen Obernburg-Elsenfeld und Miltenberg. Die Zugfahrten der Linie RE 87 zwischen Miltenberg und Aschaffenburg Hbf fallen aus. Ein Ersatzverkehr mit acht Bussen im Pendelbetrieb, zwischen Obernburg-Elsenfeld  und Aschaffenburg Hbf ist eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung vor Fahrtantritt.\n",
       "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p><p>Eine Fahrradmitnahme in den Bussen ist nicht möglich.</p>",
       "durationBegin": "22.06.2026",
       "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/3f26f112-e477-4169-a49f-d3e19b6ff643",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/9d3debb3-2a1c-48a1-9981-ca15670448a7st%25C3%25B6rungskarte_20260622-174921.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/9d3debb3-2a1c-48a1-9981-ca15670448a7st%25C3%25B6rungskarte_20260622-174921.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/fcb61ffa-9eaf-425d-83e0-e6af7e7105dfst%25C3%25B6rungskarte_20260622-174921.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/fcb61ffa-9eaf-425d-83e0-e6af7e7105dfst%25C3%25B6rungskarte_20260622-174921.png",
           "info": "",
           "alt": "Störungskarte 22.06.2026 17:49:21",
           "openInNewTab": true
@@ -682,7 +735,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.06.2026 12:54",
+      "lastModified": "23.06.2026 13:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -690,49 +743,49 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
     },
     {
-      "id": "9fec8472-379d-4cf5-ae31-c392f8827177",
-      "disruptionId": "55ad358a-dd70-4cc6-bb4e-191df9999681",
-      "author": "S_BAHN_MUC",
+      "id": "dcae83d5-4906-4369-8f41-58cb9b27064a",
+      "disruptionId": "b4953e19-feb9-4544-af43-cb5afde92de7",
+      "author": "REGIO_SUEDOST",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kann es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen kommen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke. Der technische Defekt an einem Bahnübergang ist behoben.</p>",
+      "headline": "Riesa ⇄ Priestewitz - Haltausfälle",
+      "summary": "Der Streckenabschnitt von Riesa bis Priestewitz ist im Moment gesperrt. Dauer der Sperrung bis vsl. 23.06.2026, 19 Uhr. Der Grund ist die Reparatur an einer Weiche.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 50 Leipzig – Riesa – Dresden</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Reparatur an einer Weiche.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge von Leipzig Hbf verkehren bis Riesa im Pendel.Der Abschnitt zwischen Riesa und Priestewitz wird durch einen Busnotverkehr ersetzt.Die Züge von Dresden Hbf verkehren bis Priestewitz im Pendel.</p><p>↪️&nbsp;<strong>Alternative:</strong> Nutzen Sie für den ausfallenden Abschnitt bitte den Busnotverkehr. Bitte haben Sie Verständnis dafür, dass diese keinen festen Fahrplan haben und pendeln.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "mapHref": "https://karte.bahn.de/detail/b4953e19-feb9-4544-af43-cb5afde92de7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/5514339b-3cf4-4683-ae57-566497541750st%25C3%25B6rungskarte_20260623-053518.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/5514339b-3cf4-4683-ae57-566497541750st%25C3%25B6rungskarte_20260623-053518.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-23/f4677362-a22e-4dd0-97ab-0cdb563ab2ecst%25C3%25B6rungskarte_20260623-144435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-23/f4677362-a22e-4dd0-97ab-0cdb563ab2ecst%25C3%25B6rungskarte_20260623-144435.png",
           "info": "",
-          "alt": "Störungskarte 23.06.2026 05:35:18",
+          "alt": "Störungskarte 23.06.2026 14:44:35",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "SN"
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.06.2026 12:35",
+      "lastModified": "23.06.2026 14:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9fec8472-379d-4cf5-ae31-c392f8827177",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/dcae83d5-4906-4369-8f41-58cb9b27064a",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1083,8 +1136,8 @@
       "mapHref": "https://karte.bahn.de/detail/58ab0578-b54a-4f95-bfd3-f40198591d80",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/718c3151-71b6-43a9-aa7b-4ede1c347933st%25C3%25B6rungskarte_20260623-100353.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/718c3151-71b6-43a9-aa7b-4ede1c347933st%25C3%25B6rungskarte_20260623-100353.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/19d002c2-756d-4280-ac99-34932dbece03st%25C3%25B6rungskarte_20260623-100353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/19d002c2-756d-4280-ac99-34932dbece03st%25C3%25B6rungskarte_20260623-100353.png",
           "info": "",
           "alt": "Störungskarte 23.06.2026 10:03:53",
           "openInNewTab": true
@@ -1105,7 +1158,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 12:34",
+      "lastModified": "23.06.2026 15:37",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
