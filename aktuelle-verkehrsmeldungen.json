@@ -261,52 +261,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
     },
     {
-      "id": "4dd5b03f-76e2-42b6-af30-e1f4f7b26bb6",
-      "disruptionId": "6adee334-e77e-4027-9e0a-2830a0d2d4bd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Westerland und Niebüll",
-      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Westerland(Sylt) und Niebüll kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 15 Minuten und einzelnen Zugausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE/IC Züge zwischen Westerland(Sylt) und Niebüll</li><li>DB Sylt Shuttle</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/6adee334-e77e-4027-9e0a-2830a0d2d4bd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-22/6173f382-66d6-45ea-8db2-7a6f0ae63d02st%25C3%25B6rungskarte_20260621-113756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-22/6173f382-66d6-45ea-8db2-7a6f0ae63d02st%25C3%25B6rungskarte_20260621-113756.png",
-          "info": "",
-          "alt": "Störungskarte 21.06.2026 11:37:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.06.2026 10:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4dd5b03f-76e2-42b6-af30-e1f4f7b26bb6",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "disruptionId": "a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "author": "REGIO_SUEDOST",
@@ -538,6 +492,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "9fec8472-379d-4cf5-ae31-c392f8827177",
+      "disruptionId": "55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
+      "summary": "Zwischen Baierbrunn und Höllriegelskreuth kommt es zu Verspätungen von 5 bis 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/907e2f72-991f-4aab-a014-cebb36c62bf3st%25C3%25B6rungskarte_20260623-053518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/907e2f72-991f-4aab-a014-cebb36c62bf3st%25C3%25B6rungskarte_20260623-053518.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 05:35:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 05:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9fec8472-379d-4cf5-ae31-c392f8827177",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "f11dbe0e-4850-4664-9be1-67c17312d778",
@@ -979,13 +978,13 @@
       },
       "headline": "Beeinträchtigungen zwischen Duisburg und Köln",
       "summary": "Aufgrund einer Reparatur an einem Signal zwischen Duisburg und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Düsseldorf Hbf, Düsseldorf Flughafen Köln Hbf und Köln Messe/Deutz zum Teil mit Ersatzhalten sowie Teil-Ausfällen und Umleitungen mit Zusatzverspätungen von bis zu 30 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC/ICE Züge zwischen Duisburg und Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC/ICE Züge zwischen Duisburg und Köln</li><li>ICE Sprinter Züge zwischen Berlin und Köln </li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "22.06.2026",
       "mapHref": "https://karte.bahn.de/detail/983cc01d-e282-4d59-95c9-8c14ee63a938",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-22/2127f95a-cac2-4331-b8a4-93ce8ee9d61cst%25C3%25B6rungskarte_20260622-164934.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-22/2127f95a-cac2-4331-b8a4-93ce8ee9d61cst%25C3%25B6rungskarte_20260622-164934.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/3f8a6a56-ab69-47d7-9db8-38d7cc8bc28fst%25C3%25B6rungskarte_20260622-164934.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/3f8a6a56-ab69-47d7-9db8-38d7cc8bc28fst%25C3%25B6rungskarte_20260622-164934.png",
           "info": "",
           "alt": "Störungskarte 22.06.2026 16:49:34",
           "openInNewTab": true
@@ -1006,9 +1005,10 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "22.06.2026 18:51",
+      "lastModified": "23.06.2026 05:54",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/232e63b6-a636-404f-96ee-bcc877788f47",
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section2"
     },
