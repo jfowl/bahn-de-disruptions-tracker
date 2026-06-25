@@ -19,8 +19,8 @@
       "downloads": [],
       "links": [
         {
-          "href": "http://www.bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
+          "href": "http://www.bahn.de/sonderkulanz",
+          "label": "Ausführliche Informationen zum Hitze-Kulanzstorno finden Sie hier",
           "info": "",
           "openInNewTab": true
         },
@@ -31,8 +31,8 @@
           "openInNewTab": true
         },
         {
-          "href": "http://www.bahn.de/sonderkulanz",
-          "label": "Ausführliche Informationen zu Reisen während der aktuellen Hitzesituation",
+          "href": "http://www.bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
           "info": "",
           "openInNewTab": true
         }
@@ -65,12 +65,61 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "25.06.2026 06:01",
+      "lastModified": "25.06.2026 09:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1efcc57a-931e-4f4c-b59e-4378ef3ce647",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_heat"
+    },
+    {
+      "id": "d812d5e2-72ad-4f5b-b526-8d42233340e6",
+      "disruptionId": "bda0a963-be60-4188-b7da-e7ac1e800861",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Zugausfälle aufgrund Fahrzeugstörungen.",
+      "summary": "Aufgrund von Fahrzeugstörungen fallen Züge zwischen Dortmund und Gera aus.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>IC 2151 / IC 2155 / IC 1747 / IC 1746 / IC 2157 / IC 2156 / IC 2152 und IC 2150</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/bda0a963-be60-4188-b7da-e7ac1e800861",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-25/a1b83101-b49d-427b-af87-67ff136b21bcst%25C3%25B6rungskarte_20260625-081214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-25/a1b83101-b49d-427b-af87-67ff136b21bcst%25C3%25B6rungskarte_20260625-081214.png",
+          "info": "",
+          "alt": "Störungskarte 25.06.2026 08:12:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "NW",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.06.2026 08:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d812d5e2-72ad-4f5b-b526-8d42233340e6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_vehicle"
     },
     {
       "id": "88b31576-d0dd-44b2-9f9f-618a400da781",
@@ -195,6 +244,95 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "c97d9aa0-7ae5-4781-b805-bf668b86c4f3",
+      "disruptionId": "3402e51c-817a-4c7a-b739-24d397194ab0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S2 und S7: Streckensperrung",
+      "summary": "S2 und S7: Aktuell hält keine S2 und S7 zwischen Berliner Tor und Billwerder-Moorfleet. Grund: Feuerwehreinsatz. Fahrgäste mit dem Ziel Tiefstack und Rothenburgsort nutzen bitte den eingerichteten Ersatzverkehr.",
+      "text": "<p> </p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/3402e51c-817a-4c7a-b739-24d397194ab0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 09:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c97d9aa0-7ae5-4781-b805-bf668b86c4f3",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity0"
+    },
+    {
+      "id": "a7973221-3ae9-4079-a7ac-dde9f731acf9",
+      "disruptionId": "0796edb4-bcc3-4a2a-82d0-55cf590e2b73",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Die Strecke zwischen Worms Hbf und Biblis ist eingestellt.",
+      "summary": "Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Worms Hbf &lt;&gt; Biblis</p><p>🕜<strong>Im Zeitraum vom 25.06.26 bis vsl. 26.06.26, zwischen den Uhrzeiten 08:30 Uhr bis 15:15 Uhr eingestellt.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB62 - Worms &lt;&gt; Hofheim &lt;&gt; Biblis </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zugverkehr auf der Linie RB 62 ist von 08:30 bis 15:15 Uhr zwischen Worms Hbf und Biblis eingestellt.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Worms Hbf und Biblis eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "26.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/0796edb4-bcc3-4a2a-82d0-55cf590e2b73",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-06-25/445d6a07-8fc1-4afa-984f-da9fe721a63ast%25C3%25B6rungskarte_20260625-084924.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-06-25/445d6a07-8fc1-4afa-984f-da9fe721a63ast%25C3%25B6rungskarte_20260625-084924.png",
+          "info": "",
+          "alt": "Störungskarte 25.06.2026 08:49:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 62",
+          "filterName": "RB 62",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.06.2026 08:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a7973221-3ae9-4079-a7ac-dde9f731acf9",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
       "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
       "author": "REGIO_MITTE",
@@ -299,50 +437,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "de58fea3-95df-4f02-8398-3a0f5db1a759",
-      "disruptionId": "3ce9a50a-4724-44fd-a65c-b0da842732ff",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Köln und Koblenz",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Andernach ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt es zu Haltausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Köln und Koblenz werden in beiden Fahrtrichtungen rechtsrheinisch umgeleitet und verspäten sich dadurch um etwa 15 Minuten. Die Halte Bonn Hbf, Remagen und Andernach entfallen. Ersatzhalt in Bonn-Beuel.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Vormittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/3ce9a50a-4724-44fd-a65c-b0da842732ff",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-25/376a2aa1-526d-4999-937c-1f900a108908st%25C3%25B6rungskarte_20260624-201210.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-25/376a2aa1-526d-4999-937c-1f900a108908st%25C3%25B6rungskarte_20260624-201210.png",
-          "info": "",
-          "alt": "Störungskarte 24.06.2026 20:12:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "25.06.2026 04:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/de58fea3-95df-4f02-8398-3a0f5db1a759",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
@@ -502,7 +596,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 02:39",
+      "lastModified": "25.06.2026 07:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -665,18 +759,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 3 Deisenhofen: Weiterhin Reparatur an einem Signal",
+      "headline": "S 3 Deisenhofen - Holzkirchen",
       "summary": "Zwischen Ostbahnhof und Deisenhofen sind baustellenbedingt keine Zugfahrten möglich.",
-      "text": "<p>Die S 3 wird ab/von Holzkirchen ↔ Deisenhofen über Solln nach Pasing umgeleitet und verkehrt im 60-Minuten-Takt.</p><p>Es besteht ein baustellenbedingter Ersatzverkehr mit Bussen zwischen Deisenhofen und Ostbahnhof. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p><strong>Einige S-Bahnen des 10-Minuten-Takts der Linien S 3 entfallen.</strong></p><p>Bitte rechnen Sie mit Verspätungen .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "text": "<p>Es besteht ein baustellenbedingter Ersatzverkehr mit Bussen zwischen Deisenhofen und Ostbahnhof. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Die S 3 wird ab/von Holzkirchen ↔ Deisenhofen über Solln nach Pasing umgeleitet und verkehrt bis ca. 9:30 im 40-Minuten-Takt.</p><p>❗<strong>Ab ca. 9:30 Uhr gilt der Baustellenfahrplan: Die S3 fährt zwischen Holzkirchen, Deisenhofen und Pasing über Solln im 30-Minuten-Takt.</strong></p><p>Erste nach Baustellenfahrplan verkehrende S-Bahnen sind:</p><p><strong>S 3 Holzkirchen ↔ Pasing</strong></p><p><strong>Korrektur:</strong> S 3 Holzkirchen Abfahrt 09:38 Uhr → Deisenhofen 09:52 Uhr → Solln 09:58 Uhr → Pasing Ankunft 10:12 Uhr</p><p><strong>S3 Pasing ↔ Holzkirchen</strong></p><p>S 3 Pasing Abfahrt 10:20 Uhr → Solln 10:34 Uhr → Deisenhofen 10:40 Uhr → Holzkirchen Ankunft 10:54 Uhr</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür war eine Reparatur an einem Signal.</p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/c7b131d2-c0ac-4072-938c-f03dbfde1e0a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/a4640bd4-3dfb-4964-9788-1e02e1a46168st%25C3%25B6rungskarte_20260625-023248.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/a4640bd4-3dfb-4964-9788-1e02e1a46168st%25C3%25B6rungskarte_20260625-023248.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/5e69665f-600a-4b1c-a8b5-37ca802cb9d1st%25C3%25B6rungskarte_20260625-092242.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/5e69665f-600a-4b1c-a8b5-37ca802cb9d1st%25C3%25B6rungskarte_20260625-092242.png",
           "info": "",
-          "alt": "Störungskarte 25.06.2026 02:32:48",
+          "alt": "Störungskarte 25.06.2026 09:22:42",
           "openInNewTab": true
         }
       ],
@@ -695,12 +789,124 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 04:32",
+      "lastModified": "25.06.2026 09:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/caae2b22-ffb6-4474-8518-a6d09e38d6f4",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section27"
+    },
+    {
+      "id": "8de1ff89-f996-43a8-abb5-3f98bf9bee7a",
+      "disruptionId": "b422f2db-c479-4e4f-9cc0-4bfd037e576f",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart Hbf und Böblingen",
+      "summary": "Der Streckenabschnitt zwischen Stuttgart Hbf und Böblingen ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. Freitag, 26. Juni, 06:00 Uhr. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es zu Verspätungen und Teilausfällen, sowie auch zu Umleitungen. Nutzen Sie alternativ auch die Züge der Linie S1 und RE IC87 zwischen Stuttgart Hbf und Böblingen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "26.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/b422f2db-c479-4e4f-9cc0-4bfd037e576f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-25/114e0a8a-d865-496f-a04f-1b7426d8664ast%25C3%25B6rungskarte_20260625-063736.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-25/114e0a8a-d865-496f-a04f-1b7426d8664ast%25C3%25B6rungskarte_20260625-063736.png",
+          "info": "",
+          "alt": "Störungskarte 25.06.2026 06:37:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 14a",
+          "filterName": "RB 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 14a",
+          "filterName": "RB 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14a",
+          "filterName": "RE 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14a",
+          "filterName": "RE 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14b",
+          "filterName": "RE 14b",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.06.2026 06:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8de1ff89-f996-43a8-abb5-3f98bf9bee7a",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "a8fe5cf0-a20e-4e3c-8da3-69eeb8762b76",
+      "disruptionId": "00e1497d-a904-4b84-a7e7-eec2fb524f65",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>vom 25.06.2026, ab 13:45 Uhr bis vsl. 25.06.2026 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/00e1497d-a904-4b84-a7e7-eec2fb524f65",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 08:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a8fe5cf0-a20e-4e3c-8da3-69eeb8762b76",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "86e87868-38b0-4791-b68f-d9fbe158476c",
@@ -1073,43 +1279,6 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
     },
     {
-      "id": "00517fd9-8f2c-4365-874d-f08d32f80973",
-      "disruptionId": "9bf46c30-a3ab-4dd0-b75a-c7ed4fe5e1fd",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 4: Bauarbeiten",
-      "summary": "Die S-Bahnen der Linie S 4 in Richtung Ebersberg enden und beginnen am Leuchtenbergring.",
-      "text": "<p>Fahrgäste mit Ziel in Richtung Ebersberg nutzen bitte die Linie S6.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "25.06.2026",
-      "durationEnd": "25.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/9bf46c30-a3ab-4dd0-b75a-c7ed4fe5e1fd",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.06.2026 05:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/00517fd9-8f2c-4365-874d-f08d32f80973",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
-    },
-    {
       "id": "20a5b30d-872a-4fdc-bddf-80b80ef3540c",
       "disruptionId": "97798d07-b6a1-489f-abdc-cce8351e9478",
       "author": "S_BAHN_MUC",
@@ -1118,7 +1287,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 7: Reparatur an der Strecke",
-      "summary": "Auf der Linie S 7 kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "summary": "Auf der Linie S 7 kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
       "text": "<p><strong>De S-Bahnen fahren im Bereich </strong><strong>Höllriegelskreuth&nbsp;</strong><strong> bis auf weiteres mit verminderter Geschwindigkeit.</strong></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "25.06.2026",
@@ -1139,12 +1308,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 04:01",
+      "lastModified": "25.06.2026 09:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/20a5b30d-872a-4fdc-bddf-80b80ef3540c",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
+      "id": "00517fd9-8f2c-4365-874d-f08d32f80973",
+      "disruptionId": "9bf46c30-a3ab-4dd0-b75a-c7ed4fe5e1fd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 4: Bauarbeiten",
+      "summary": "Die S-Bahnen der Linie S 4 in Richtung Ebersberg enden und beginnen am Leuchtenbergring.",
+      "text": "<p><strong>Fahrgäste mit Ziel in Richtung Ebersberg nutzen bitte die Linie S6.</strong></p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/9bf46c30-a3ab-4dd0-b75a-c7ed4fe5e1fd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 06:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/00517fd9-8f2c-4365-874d-f08d32f80973",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
     },
     {
       "id": "c8a209fb-31ca-4376-8f91-1a99174dd534",
