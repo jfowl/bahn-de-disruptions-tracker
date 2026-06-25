@@ -167,6 +167,65 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4df1dc30-e30c-406e-91d2-cc7779fe5aa5",
+      "disruptionId": "b645f676-9885-46db-9343-439ac59a1769",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Alle Linien: Vorangegangener Feuerwehreinsatz",
+      "summary": "Alle Linien: Aktuell kommt  es auf allen Linien zu Verspätungen, sowie S-Bahnen die schon vor ihrem eigentlichen Ziel wenden müssen.\n🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.\nGrund: Feuerwehreinsatz",
+      "text": "<p></p><p></p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/b645f676-9885-46db-9343-439ac59a1769",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 17:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4df1dc30-e30c-406e-91d2-cc7779fe5aa5",
+      "magnoliaPath": "/aktuell/nord/modified_service_police_activity"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -244,47 +303,85 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "21cad0ca-3f5a-4686-881b-34e757aa85d9",
-      "disruptionId": "f2c01a73-501e-4e56-8bdd-2e985e92b6f3",
+      "id": "520aa609-5849-411f-9aa4-845452917c88",
+      "disruptionId": "1ce22db7-a2e1-45b2-9090-1dcb89121305",
       "author": "S_BAHN_HH",
       "cause": {
         "category": "police_activity",
         "label": "Feuerwehreinsatz auf der Strecke"
       },
-      "headline": "S3 und S5: Feuerwehreinsatz",
-      "summary": "Aktuell fahren keine S-Bahnen zwischen Altona und Stellingen. Der Grund ist 🚒 ein Feuerwehreinsatz. Bitte achten Sie auch auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
-      "text": "<p>🟣Die Linie S3 verkehrt zwischen Pinneberg und Stellingen sowie zwischen Altona und Neugraben.</p><p>🔵Die Linie S5 verkehrt zwischen Sternschanze und Buxtehude / Stade.</p><p>Ein Ersatzverkehr mit Bussen kann aktuell nicht eingerichtet werden. </p>",
+      "headline": "S3 und S5: Feuerwehreinsatz beendet",
+      "summary": "S3 und S5: Der Betrieb wird wieder aufgenommen. Die Linien S3 und S5 fahren wieder auf der gesamten Strecke. ",
+      "text": "<p> </p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "25.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/f2c01a73-501e-4e56-8bdd-2e985e92b6f3",
+      "mapHref": "https://karte.bahn.de/detail/1ce22db7-a2e1-45b2-9090-1dcb89121305",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
         "HH",
-        "SH"
+        "NI"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "25.06.2026 15:10",
+      "lastModified": "25.06.2026 17:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/21cad0ca-3f5a-4686-881b-34e757aa85d9",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity1"
+      "detailPagePath": "/service/fahrplaene/520aa609-5849-411f-9aa4-845452917c88",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity2"
+    },
+    {
+      "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
+      "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Die Strecke zwischen Nassau(Lahn) und Laurenburg(Lahn) ist im Moment gesperrt.",
+      "summary": "Der Grund sind Unwetterauswirkungen.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Nassau(Lahn) &lt;&gt; Laurenburg(Lahn)</p><p>🕜<strong>Dauer der Sperrung bis vsl. 29.06.2026 ca.09:00 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RE25 - Koblenz &lt;&gt; Bad Ems &lt;&gt; Limburg &lt;&gt; Wetzlar &lt;&gt; Gießen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Limburg(Lahn) und Nassau(Lahn) ebenso von Limburg(Lahn) bis Koblenz Hbf eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "22.06.2026",
+      "durationEnd": "29.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/fc442d55-3284-40b3-b667-c64735e86834",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 25",
+          "filterName": "RE 25",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.06.2026 16:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
+      "magnoliaPath": "/aktuell/mitte/no_service_weather_storm"
     },
     {
       "id": "a7973221-3ae9-4079-a7ac-dde9f731acf9",
@@ -331,49 +428,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a7973221-3ae9-4079-a7ac-dde9f731acf9",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_vehicle"
-    },
-    {
-      "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
-      "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
-      },
-      "headline": "Die Strecke zwischen Nassau(Lahn) und Laurenburg(Lahn) ist im Moment gesperrt.",
-      "summary": "Der Grund sind Unwetterauswirkungen.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Nassau(Lahn) &lt;&gt; Laurenburg(Lahn)</p><p>🕜<strong>Dauer der Sperrung bis vsl. 26.06.2026 ca.04:00 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RE25 - Koblenz &lt;&gt; Bad Ems &lt;&gt; Limburg &lt;&gt; Wetzlar &lt;&gt; Gießen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Limburg(Lahn) und Nassau(Lahn) ebenso von Limburg(Lahn) bis Koblenz Hbf eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "26.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/fc442d55-3284-40b3-b667-c64735e86834",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 23",
-          "filterName": "RB 23",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 25",
-          "filterName": "RE 25",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "23.06.2026 16:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
-      "magnoliaPath": "/aktuell/mitte/no_service_weather_storm"
     },
     {
       "id": "cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
@@ -437,6 +491,82 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "bb2fc180-658e-4f32-9379-1f266b051b18",
+      "disruptionId": "6a409bdc-141f-4937-9eaf-9a3f70575587",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "ℹ️🟢S1: vorherige technische Störung am Zug",
+      "summary": "Die S1 fährt aktuell mit allen sechs Wagen von und zum Hamburger Airport. Es ist ein Umstieg in Ohlsdorf erforderlich.",
+      "text": "<p>Aktuell fährt die S1 mit allen Wagen von und zum Hamburger Airport. Fahrgäste aus und in Richtung Wellingsbüttel und Poppenbüttel müssen leider in Ohlsdorf umsteigen.</p><p>Zusätzlich kommt es auf der gesamten Linie S1 zu Verspätungen und einzelnen Ausfällen.</p><p></p><p>Grund: vorherige technische Störung am Zug</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/6a409bdc-141f-4937-9eaf-9a3f70575587",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 17:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bb2fc180-658e-4f32-9379-1f266b051b18",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle2"
+    },
+    {
+      "id": "1819e8c6-6305-4262-9a69-fb603bc1eecb",
+      "disruptionId": "e681d24b-9cfa-41b7-ab67-ae23998f48c6",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "⚠️ 🔴 S2/ 🟠 S7: Ausfall der Linie S2",
+      "summary": "Aktuell fahren die S-Bahnen zwischen Bergedorf und Innenstadt nur alle zehn Minuten. Grund: vorangegangener Feuerwehreinsatz.",
+      "text": "<p>Bitte nutzen Sie zwischen Bergedorf und der Innenstadt die S7. Zwischen Hauptbahnhof und Diebsteich weichen Sie bitte auf die S5 aus.</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e681d24b-9cfa-41b7-ab67-ae23998f48c6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 17:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1819e8c6-6305-4262-9a69-fb603bc1eecb",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity0"
     },
     {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
@@ -542,25 +672,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "ccbd7437-efee-4054-bb42-8c741fe9d9fe",
-      "disruptionId": "8c6f3fda-d422-4413-896e-acc2f48bdf55",
+      "id": "0d5b6112-58cb-4598-b13d-cee3ff4171f3",
+      "disruptionId": "d43ac9a6-c734-4ba6-87c1-04edb7cf2567",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 8 Herrsching: Reparatur an der Strecke",
-      "summary": "Aktuell ist kein Zugverkehr zwischen Germering-Unterpfaffenhofen und Pasing möglich.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Taxis und Bussen zwischen Pasing und Germering-Unterpfaffenhofen eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "headline": "S 2 Altomünster: Reparatur an der Strecke",
+      "summary": "Aktuell kein Zugverkehr zwischen Dachau Bahnhof und Altomünster.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Dachau Bahnhof und Altomünster eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen, Ausfällen und Teilausfällen.</p><p>Der Grund dafür ist eine Reparatur an der Strecke.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "25.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/8c6f3fda-d422-4413-896e-acc2f48bdf55",
+      "mapHref": "https://karte.bahn.de/detail/d43ac9a6-c734-4ba6-87c1-04edb7cf2567",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/91eba0b7-2888-4387-b950-048d882c609bst%25C3%25B6rungskarte_20260625-145841.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/91eba0b7-2888-4387-b950-048d882c609bst%25C3%25B6rungskarte_20260625-145841.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/d2f6ba7b-4035-4b02-a848-41580d1567fast%25C3%25B6rungskarte_20260625-173835.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/d2f6ba7b-4035-4b02-a848-41580d1567fast%25C3%25B6rungskarte_20260625-173835.png",
           "info": "",
-          "alt": "Störungskarte 25.06.2026 14:58:41",
+          "alt": "Störungskarte 25.06.2026 17:38:35",
           "openInNewTab": true
         }
       ],
@@ -574,17 +704,17 @@
       ],
       "lines": [
         {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 15:00",
+      "lastModified": "25.06.2026 17:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ccbd7437-efee-4054-bb42-8c741fe9d9fe",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/0d5b6112-58cb-4598-b13d-cee3ff4171f3",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section6"
     },
     {
       "id": "4bf4aa16-f512-4e56-8fbf-5f9b4d334ed0",
@@ -677,6 +807,83 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_vehicle0"
     },
     {
+      "id": "5e57c973-0c9c-41c6-80c1-d2f56e0b9dbb",
+      "disruptionId": "91ae59d8-1474-4ba4-b0bd-99d59e1bbd38",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Massive Beeinträchtigungen im Raum Frankfurt am Main",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 25.06.26, die genaue Dauer der Beeinträchtigungen ist derzeit noch nicht absehbar.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf allen Linien kommt es zu teils hohen Verspätungen, Umleitungen, Teil- und Zugausfällen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Wählen Sie gegebenenfalls eine frühere Zugverbindung, um Ihre Anschlüsse an Ihren Umsteigebahnhöfen erreichen zu können.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/91ae59d8-1474-4ba4-b0bd-99d59e1bbd38",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 17:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5e57c973-0c9c-41c6-80c1-d2f56e0b9dbb",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
       "disruptionId": "37a0807a-1949-4557-80b1-47b9787817a4",
       "author": "S_BAHN_RM",
@@ -686,14 +893,14 @@
       },
       "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt(Main) - Bad Vilbel - Friedberg(Hess) - Gießen",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB48 (DB Regio): Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke zwischen (Gießen -) Butzbach - Friedberg(Hess) - Bad Vilbel ist gesperrt.</li><li>Die S6 verkehrt im 30-Minuten-Takt zwischen Darmstadt Hbf - Bad Vilbel. Es kommt zu Teilausfällen zwischen Bad Vilbel - Friedberg(Hess).</li><li>Auf der RE30 kommt es zu Teilausfällen zwischen Gießen - Frankfurt(Main)Hbf.</li><li>Die Züge der RB48 (DB Regio) fallen aus.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p>Wir haben für Sie die folgenden Ersatzverkehre eingerichtet:</p><ul><li>Für die S6 Bussen zwischen Bad Vilbel - Friedberg(Hess) mit Halt auf allen Stationen. </li><li>Für die RE30 mit Bussen zwischen den Stationen Frankfurt(Main)Hbf - Frankfurt(Main)West - Friedberg(Hess) - Bad Nauheim - Butzbach - Gießen ohne weiteren Zwischenhalt.</li></ul><p> </p><p> </p><ul><li>Die Busse verkehren im Pendel ohne feste Fahrzeiten.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB48 (DB Regio): Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke zwischen (Gießen -) Butzbach - Friedberg(Hess) - Bad Vilbel ist gesperrt.</li><li>Die S6 verkehrt im 30-Minuten-Takt zwischen Darmstadt Hbf - Bad Vilbel. Es kommt zu Teilausfällen zwischen Bad Vilbel - Friedberg(Hess).</li><li>Auf der RE30 kommt es zu Teilausfällen zwischen Gießen - Frankfurt(Main)Hbf, ab dem 26.06.26 zwischen Friedberg(Hess) - Frankfurt(Main)Hbf.</li><li>Die Züge der RB48 (DB Regio) fallen aus.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p>Wir haben für Sie die folgenden Ersatzverkehre eingerichtet:</p><ul><li>Für die S6 Bussen zwischen Bad Vilbel - Friedberg(Hess) mit Halt auf allen Stationen. </li><li>Für die RE30 mit Bussen zwischen den Stationen Frankfurt(Main)Hbf - Frankfurt(Main)West - Friedberg(Hess) - Bad Nauheim - Butzbach - Gießen ohne weiteren Zwischenhalt.</li></ul><p> </p><p> </p><ul><li>Die Busse verkehren im Pendel ohne feste Fahrzeiten.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "23.06.2026",
-      "durationEnd": "25.06.2026",
+      "durationEnd": "26.06.2026",
       "mapHref": "https://karte.bahn.de/detail/37a0807a-1949-4557-80b1-47b9787817a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-25/449c40fa-d36c-407a-a658-93120658ba1est%25C3%25B6rungskarte_20260623-192235.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-25/449c40fa-d36c-407a-a658-93120658ba1est%25C3%25B6rungskarte_20260623-192235.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-25/fff5ab58-3615-4fed-8bf5-f15a8ccd7e56st%25C3%25B6rungskarte_20260623-192235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-25/fff5ab58-3615-4fed-8bf5-f15a8ccd7e56st%25C3%25B6rungskarte_20260623-192235.png",
           "info": "",
           "alt": "Störungskarte 23.06.2026 19:22:35",
           "openInNewTab": true
@@ -732,7 +939,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 10:57",
+      "lastModified": "25.06.2026 17:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -887,51 +1094,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "9b0b3df3-77fa-4aee-a623-b6aebc9cdf0d",
-      "disruptionId": "ceed16ec-1fff-4112-96dc-b01e5461817e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "25.06.2026",
-      "durationEnd": "25.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/ceed16ec-1fff-4112-96dc-b01e5461817e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/b259e242-9884-47e5-a149-47b1a3c8e259st%25C3%25B6rungskarte_20260625-143438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-25/b259e242-9884-47e5-a149-47b1a3c8e259st%25C3%25B6rungskarte_20260625-143438.png",
-          "info": "",
-          "alt": "Störungskarte 25.06.2026 14:34:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.06.2026 14:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9b0b3df3-77fa-4aee-a623-b6aebc9cdf0d",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section28"
-    },
-    {
       "id": "16868f25-964e-4785-84c1-e47b0534f3af",
       "disruptionId": "df307d86-c42f-49b9-a3fd-66c0e2c6fb8a",
       "author": "REGIO_BW",
@@ -1064,7 +1226,7 @@
       },
       "headline": "Zugausfälle im Raum Frankfurt(Main)",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>vom 25.06.2026, ab 13:45 Uhr bis vsl. 25.06.2026 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>vom 25.06.2026, ab 13:45 Uhr bis vsl. 25.06.2026 22:15 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1, S2 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/00e1497d-a904-4b84-a7e7-eec2fb524f65",
@@ -1094,7 +1256,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 08:17",
+      "lastModified": "25.06.2026 15:57",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1501,7 +1663,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.06.2026 13:59",
+      "lastModified": "25.06.2026 16:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
