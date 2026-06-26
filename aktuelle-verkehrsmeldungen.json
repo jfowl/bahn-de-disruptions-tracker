@@ -2,58 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f8bc43f9-dcef-4dce-bd68-e927acbad8b3",
-      "disruptionId": "b137be4c-d5df-4a02-80a9-9d60a5f608d1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Offenburg und Freiburg",
-      "summary": "Ein [Gegenstand] auf der Strecke beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen [Ort1] und [Ort2]. Es kommt zu [Auswirkung].\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>[Betroffene Verbindung 1]</li><li>[Betroffene Verbindung 2]</li><li>...</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: [Reisealternative]. Die Behebung der Störung soll vsl. bis [Prognose] erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Die nächste Aktualisierung dieser Meldung erfolgt spätestens am [AktualisierungszeitpunktMeldung].</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.06.2026",
-      "durationEnd": "27.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/b137be4c-d5df-4a02-80a9-9d60a5f608d1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "26.06.2026 22:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f8bc43f9-dcef-4dce-bd68-e927acbad8b3",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
-    },
-    {
       "id": "1efcc57a-931e-4f4c-b59e-4378ef3ce647",
       "disruptionId": "f1b0c7b5-3544-4559-b523-4e9aa55a4531",
       "author": "FERNVERKEHR_AG",
@@ -123,6 +71,56 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1efcc57a-931e-4f4c-b59e-4378ef3ce647",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_heat"
+    },
+    {
+      "id": "d9e092b8-2edb-438a-a02e-ca9e570ebb69",
+      "disruptionId": "ec44870d-8c94-4ee2-8872-bfdfccdb0ff9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Offenburg und Freiburg",
+      "summary": "Aufgrund eines Baumes in der Oberleitung ist die Strecke zwischen Offenburg und Freiburg derzeit gesperrt. Dadurch kommt es zu Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC- / ICE- und ECE - Züge zwischen Basel und Karlsruhe</li><li>Nachtzugverkehr aus  der Schweiz</li></ul><p>Die Behebung der Störung soll vsl. bis zum Vormittag des 27.06.2026 erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec44870d-8c94-4ee2-8872-bfdfccdb0ff9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-26/af4c8e2e-3663-41f1-b3c4-35aa72036e32st%25C3%25B6rungskarte_20260626-230357.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-26/af4c8e2e-3663-41f1-b3c4-35aa72036e32st%25C3%25B6rungskarte_20260626-230357.png",
+          "info": "",
+          "alt": "Störungskarte 26.06.2026 23:03:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "ST",
+        "BE",
+        "BW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.06.2026 23:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d9e092b8-2edb-438a-a02e-ca9e570ebb69",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
     },
     {
       "id": "88b31576-d0dd-44b2-9f9f-618a400da781",
@@ -522,61 +520,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "1b4f7b86-2a12-4c5f-ba60-906110c828e8",
-      "disruptionId": "edf8eb98-1503-4c1c-8588-46397f9c972f",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Kurzfristiger Fahrzeugausfall"
-      },
-      "headline": "Die Strecke zwischen Bad Bergzabern und Winden(Pfalz) ist eingestellt.",
-      "summary": "Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Bad Bergzabern &lt;&gt; Winden(Pfalz)</p><p>🕜<strong>Dauer bis Betriebsschluss.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB54 - Winden &lt;&gt; Bad Bergzabern </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zugverkehr auf der Linie RB54 ist bis Betriebsschluss zwischen Bad Bergzabern und Winden(Pfalz) eingestellt.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Bad Bergzabern und Winden(Pfalz) eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "26.06.2026",
-      "durationEnd": "26.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/edf8eb98-1503-4c1c-8588-46397f9c972f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-06-26/f4287d6a-54b8-4058-8651-a798a12f73c7st%25C3%25B6rungskarte_20260625-101031.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-06-26/f4287d6a-54b8-4058-8651-a798a12f73c7st%25C3%25B6rungskarte_20260625-101031.png",
-          "info": "",
-          "alt": "Störungskarte 25.06.2026 10:10:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 54",
-          "filterName": "RB 54",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 54",
-          "filterName": "RB 54",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.06.2026 05:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1b4f7b86-2a12-4c5f-ba60-906110c828e8",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_vehicle0"
-    },
-    {
       "id": "ea3e1e26-8340-463c-9cec-a4757ecf72d6",
       "disruptionId": "c31270e5-33c1-4764-bf01-9fefbd056e99",
       "author": "S_BAHN_RM",
@@ -790,58 +733,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "5cfed208-e131-443b-a183-afe438d3c727",
-      "disruptionId": "5793fd09-f184-486b-b1e5-a6ca4594b184",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Reparatur an der Strecke zwischen Konstanz-Petershausen und Konstanz",
-      "summary": "Der Streckenabschnitt zwischen Konstanz-Petershausen und Konstanz ist im Moment gesperrt. Die Beeinträchtigungen werden vsl. noch den ganzen Tag bis Betriebsschluss andauern. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es zu Verspätungen und Teilausfällen. Die Züge der Linie RE 2 beginnen und enden in Radolfzell. Wir haben hierfür einen Ersatzverkehr mit einem Bus zwischen Radolfzell und Konstanz im Pendelverkehr für Sie eingerichtet dieser endet um 18:00 Uhr. Bitte nutzen Sie alternativ die Züge der Linie SBB S6 zwischen Radolfzell und Konstanz-Petershausen und prüfen Sie alternative Reisemöglichkeiten mit anderen Verkehrsmitteln zwischen Konstanz-Petershausen und Konstanz. \nEin Ersatzverkehr mit zwei Bussen zwischen Konstanz-Petershausen und Konstanz durch die SBB GmbH ist eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 2 (Karlsruhe – Konstanz) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "25.06.2026",
-      "durationEnd": "26.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/5793fd09-f184-486b-b1e5-a6ca4594b184",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-26/37b885d0-9196-4fd3-9b92-fdf37a4ec418st%25C3%25B6rungskarte_20260625-205838.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-26/37b885d0-9196-4fd3-9b92-fdf37a4ec418st%25C3%25B6rungskarte_20260625-205838.png",
-          "info": "",
-          "alt": "Störungskarte 25.06.2026 20:58:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.06.2026 17:28",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5cfed208-e131-443b-a183-afe438d3c727",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section7"
     },
     {
       "id": "8de1ff89-f996-43a8-abb5-3f98bf9bee7a",
@@ -1065,43 +956,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/reduced_service_unknown_cause0"
     },
     {
-      "id": "86e87868-38b0-4791-b68f-d9fbe158476c",
-      "disruptionId": "6e47c3fd-30cf-44c0-affc-1e8bc282c3ff",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 5 Weßling/Pasing - München Ost: Ausfall wegen Bauarbeiten in Giesing",
-      "summary": "Am Donnerstag und Freitag, 25. und 26. Juni 2026, fallen alle S-Bahnen der Linie S 5 zwischen Weßling/Germering-Unterpfaffenhofen ↔ Ostbahnhof aus ⛔.",
-      "text": "<p>Nutzen Sie bitte zwischen Weßling / Germering-Unterpfaffenhofen ↔ Ostbahnhof die S-Bahnen der Linie S 8.</p><p>Der Grund dafür sind die Bauarbeiten im Bereich Giesing.</p>",
-      "durationBegin": "23.06.2026",
-      "durationEnd": "26.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/6e47c3fd-30cf-44c0-affc-1e8bc282c3ff",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.06.2026 23:21",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/86e87868-38b0-4791-b68f-d9fbe158476c",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
-    },
-    {
       "id": "05437049-bef0-41df-9176-94f853198aef",
       "disruptionId": "89421e3d-0010-482e-895c-b833045fdaef",
       "author": "REGIO_NORDOST",
@@ -1249,48 +1103,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "0e0437a0-7178-4b00-bfe4-6d6157b3d08b",
-      "disruptionId": "752aeb8c-4aff-489f-9997-d61714af1470",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S5 und S7: Personen im Gleis",
-      "summary": "S5 und S7: Aktuell fahren keine Züge über Dammtor.\n\nAktuell werden alle Züge über Jungfernstieg umgeleitet. Grund: Polizeieinsatz",
-      "text": "<p>Sie erreichen Ihr Fahrtziel mit den folgenden Verbindungen:</p><p></p><p><strong>Holstenstraße</strong></p><ul><li>Ab Altona mit Bus 20 in Richtung S Rübenkamp bis Holstenstraße</li><li>Ab Altona mit Bus 25 in Richtung U Burgstraße bis Holstenstraße</li></ul><p></p><p><strong>Sternschanze</strong></p><ul><li>Ab Landungsbrücken mit der U3 in Richtung Schlump / Barmbek bis Sternschanze</li><li></li></ul><p><strong>Dammtor</strong></p><ul><li>Ab Jungfernstieg mit der U1 in Richtung Ohlsdorf / Norderstedt Mitte bis Stephansplatz (Dammtor)</li></ul><p></p><p>Zwischen Holstenstraße und Hauptbahnhof fährt zudem die Buslinie 3 (Schenefeld &lt;&gt; Tiefstack) mit Halt unter Anderem in S Holstenstraße, Bernstorffstraße und Sternbrücke (Nähe Sternschanze), U Rödingsmarkt (Übergang zur U3) sowie Hauptbahnhof.</p><p>Ebenfalls fährt die Buslinie X3 (Schenefeld &lt;&gt; U Meßberg) mit Halt in S Holstenstraße und S Jungfernstieg (Übergang zu allen U-Bahn Linien). </p><p></p><p>Bitte beachten Sie die reduzierte Kapazität in den Linienbussen.</p>",
-      "durationBegin": "26.06.2026",
-      "durationEnd": "26.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/752aeb8c-4aff-489f-9997-d61714af1470",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.06.2026 22:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0e0437a0-7178-4b00-bfe4-6d6157b3d08b",
-      "magnoliaPath": "/aktuell/nord/modified_service_police_activity1"
     },
     {
       "id": "ec99db28-13aa-4b50-a46b-fa958977665f",
