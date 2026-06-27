@@ -81,17 +81,17 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen BERLIN und HAMBURG",
-      "summary": "Aufgrund diverser Störungen an der Strecke zwischen Berlin und Hamburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/ECE/RJ Züge Fahrtrichtung Berlin - Hamburg werden zwischen Berlin und Wittenberge umgeleitet und verspäten sich um etwa 30 Min</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen HAMBURG und BERLIN/ROSTOCK",
+      "summary": "Aufgrund diverser Störungen an der Strecke zwischen Hamburg und Berlin sowie Hamburg und Rostock sind die Strecken derzeit nicht für den Fernverkehr der Deutschen Bahn nutzbar. \nZüge entfallen zwischen Berlin und Hamburg sowie zwischen Hamburg und Rostock.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/ECE/RJ Züge entfallen zwischen Berlin und Hamburg in beiden Fahrtrichtungen</li><li>ICE Züge entfallen zwischen Hamburg und Rostock in beiden Fahrtrichtungen</li></ul><p></p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "27.06.2026",
       "mapHref": "https://karte.bahn.de/detail/5e8f4ccd-f9e4-493a-9f17-62146ae9726a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/52ba093c-7fa1-44d1-984e-0693dc265b85st%25C3%25B6rungskarte_20260627-150423.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/52ba093c-7fa1-44d1-984e-0693dc265b85st%25C3%25B6rungskarte_20260627-150423.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/e9830107-7493-4e4b-bc0e-c76ebbdc8229st%25C3%25B6rungskarte_20260627-171448.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/e9830107-7493-4e4b-bc0e-c76ebbdc8229st%25C3%25B6rungskarte_20260627-171448.png",
           "info": "",
-          "alt": "Störungskarte 27.06.2026 15:04:23",
+          "alt": "Störungskarte 27.06.2026 17:14:48",
           "openInNewTab": true
         }
       ],
@@ -125,8 +125,8 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "27.06.2026 15:06",
-      "expand": false,
+      "lastModified": "27.06.2026 17:16",
+      "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5c9d9868-aadc-458c-b60c-46ed92e1fce7",
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section1"
@@ -694,6 +694,139 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "cce28a09-87e1-49ec-a794-c7b3b76733e1",
+      "disruptionId": "bee10af8-06db-48d4-86ae-0a5f24ed1f65",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "weather_heat",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Reisewarnung für den 27. und 28.06.2026 wegen Extrem-Wetter in  Schleswig-Holstein und Hamburg",
+      "summary": "Bitte vermeiden Sie am Samstag und Sonntag alle nicht dringend notwendigen Reisen im Fern- und Regionalverkehr.",
+      "text": "<p>Informieren Sie sich bitte weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "27.06.2026",
+      "durationEnd": "28.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/bee10af8-06db-48d4-86ae-0a5f24ed1f65",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "Bus X85",
+          "filterName": "Bus X85",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 6",
+          "filterName": "RB 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 62",
+          "filterName": "RB 62",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 7",
+          "filterName": "RB 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 85",
+          "filterName": "RB 85",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 86",
+          "filterName": "RB 86",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6x",
+          "filterName": "RE 6x",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 86",
+          "filterName": "RE 86",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.06.2026 16:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cce28a09-87e1-49ec-a794-c7b3b76733e1",
+      "magnoliaPath": "/aktuell/nord/impairment_weather_heat"
+    },
+    {
       "id": "33e532d0-d04d-4714-aef9-f23d2c84a00c",
       "disruptionId": "0a22f48e-7cb3-49b7-846a-c7369df4dd83",
       "author": "REGIO_NORD",
@@ -857,134 +990,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/33e532d0-d04d-4714-aef9-f23d2c84a00c",
       "magnoliaPath": "/aktuell/nord/impairment_weather_heat0"
-    },
-    {
-      "id": "cce28a09-87e1-49ec-a794-c7b3b76733e1",
-      "disruptionId": "bee10af8-06db-48d4-86ae-0a5f24ed1f65",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "weather_heat",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Reisewarnung für den 27. und 28.06.2026 wegen Extrem-Wetter in  Schleswig-Holstein und Hamburg",
-      "summary": "Bitte vermeiden Sie am Samstag und Sonntag alle nicht dringend notwendigen Reisen im Fern- und Regionalverkehr.",
-      "text": "<p>Informieren Sie sich bitte weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "28.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/bee10af8-06db-48d4-86ae-0a5f24ed1f65",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RB 6",
-          "filterName": "RB 6",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 62",
-          "filterName": "RB 62",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 7",
-          "filterName": "RB 7",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 81",
-          "filterName": "RB 81",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 85",
-          "filterName": "RB 85",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 86",
-          "filterName": "RB 86",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 6x",
-          "filterName": "RE 6x",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 70",
-          "filterName": "RE 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 80",
-          "filterName": "RE 80",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 86",
-          "filterName": "RE 86",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8X",
-          "filterName": "RE 8X",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.06.2026 13:44",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cce28a09-87e1-49ec-a794-c7b3b76733e1",
-      "magnoliaPath": "/aktuell/nord/impairment_weather_heat"
     },
     {
       "id": "d4b1837e-632d-4901-87bf-085507459aac",
@@ -2009,6 +2014,95 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
     },
     {
+      "id": "a599650d-3d7f-415f-ade4-d6f5825337c2",
+      "disruptionId": "c2e1347b-21d8-4186-bda4-b94cc131dc7c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einer Weiche",
+      "summary": "Zwischen Markt Schwaben und Erding sind aktuell keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen in Richtung Erding fahren bis Markt Schwaben und wenden dort vorzeitig.</p><p>Nutzen Sie bitte alternativ die Ersatzverkehr Busse zwischen Markt Schwaben und Erding. Achten Sie auf die Ersatzverkehr - Beschilderung.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "27.06.2026",
+      "durationEnd": "27.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/c2e1347b-21d8-4186-bda4-b94cc131dc7c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.06.2026 16:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a599650d-3d7f-415f-ade4-d6f5825337c2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section25"
+    },
+    {
+      "id": "b3fca10c-3f7c-4725-9c14-8ce9817d9f9e",
+      "disruptionId": "4da519d6-5c4b-4494-81cf-1d3b8bcade0c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Korrektur S5  Kreuzstraße ↔ Giesing: Defektes Stellwerk repariert",
+      "summary": "Zwischen Kreuzstraße und Giesing  sind wieder Zugfahrten möglich und der Zugverkehr wird mit erheblichen Verspätungen aufgenommen. .",
+      "text": "<p>Der Ersatzverkehr mit Taxi zwischen Kreuzstraße ↔ Giesing fährt weiterhin parallel zu den Zugfahrten. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Das defekte Stellwerk konnte repariert werden.</p>",
+      "durationBegin": "27.06.2026",
+      "durationEnd": "27.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/4da519d6-5c4b-4494-81cf-1d3b8bcade0c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/e32bd45a-00ff-4427-a39e-b223e50e9b1ast%25C3%25B6rungskarte_20260627-160736.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/e32bd45a-00ff-4427-a39e-b223e50e9b1ast%25C3%25B6rungskarte_20260627-160736.png",
+          "info": "",
+          "alt": "Störungskarte 27.06.2026 16:07:36",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/f1eb67dd-f0e8-4ac6-91e5-7279f93346e3st%25C3%25B6rungskarte_20260627-140218.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/f1eb67dd-f0e8-4ac6-91e5-7279f93346e3st%25C3%25B6rungskarte_20260627-140218.png",
+          "info": "",
+          "alt": "Störungskarte 27.06.2026 14:02:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.06.2026 16:40",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b3fca10c-3f7c-4725-9c14-8ce9817d9f9e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section22"
+    },
+    {
       "id": "c4c68e99-383d-4faf-a732-f007897a2816",
       "disruptionId": "b6adc318-704d-40b6-9059-d3bc5f00b64f",
       "author": "S_BAHN_MUC",
@@ -2017,15 +2111,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "Stammstrecke: Reparatur an einer Weiche",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten, Umleitungen, Zugausfällen und vorzeitigen Zugwenden.",
-      "text": "<p><strong>NEU: </strong><strong>&nbsp;</strong><strong>S 1&nbsp;Freising/Flughafen</strong>  &nbsp;</p><ul><li>Die Linie S1&nbsp;→&nbsp;Richtung Ostbahnhof / Leuchtenbergring&nbsp;fährt&nbsp;zum Hauptbahnhof (Gleise 27-36)&nbsp;und hält nicht zwischen&nbsp;Moosach und Hauptbahnhof.  &nbsp;</li><li>Die Linie S1&nbsp;→&nbsp;Richtung Freising/Flughafen&nbsp;fährt&nbsp;ab&nbsp;Hauptbahnhof (Gleise 27-36) und&nbsp;hält nicht an der&nbsp;an der Hackerbrücke.  &nbsp;</li></ul><p><strong>Alternativen</strong>:</p><ul><li>Moosach&nbsp;↔&nbsp;Marienplatz:&nbsp;<strong>U3</strong> </li><li>Feldmoching&nbsp;↔&nbsp;Hauptbahnhof:&nbsp;<strong>U2</strong> </li></ul><p><strong>S 2 Petershausen&nbsp;→&nbsp;Erding</strong>&nbsp;</p><ul><li>Die S-Bahnen werden zwischen Obermenzing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren. Die Halte Leuchtenbergring und Berg am Laim entfallen.</li></ul><p><strong>S 2 Erding&nbsp;→&nbsp;Petershausen</strong>&nbsp;</p><ul><li>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>Die anderen S-Bahnen verkehren wie folgt:</strong></p><p></p><p><strong>S3 Mammendorf ↔ Ostbahnhof </strong></p><ul><li>Die S-Bahnen fahren aktuell nur zwischen Pasing ↔ Mammendorf</li></ul><p><strong>S3 Holzkirchen ↔ Pasing</strong></p><ul><li>Die S-Bahnen fahren nur zwischen Holzkirchen ↔ Siemenswerke</li></ul><p><strong>S4 Geltendorf ↔ Ostbahnhof/Trudering</strong></p><p>Die S-Bahnen fahren nur zwischen Pasing ↔ Geltendorf</p><p><strong>S 6 Tutzing&nbsp;→&nbsp;Ebersberg</strong></p><ul><li>Die S-Bahnen werden zwischen Pasing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren. Die Halte Leuchtenbergring und Berg am Laim entfallen.</li></ul><p><strong>S 6 Ebersberg&nbsp;→&nbsp;Tutzing </strong></p><ul><li>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>S 8 Herrsching&nbsp;→&nbsp;Flughafen </strong></p><ul><li>Die S-Bahnen werden zwischen Pasing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren. Der Halt am Leuchtenbergring entfällt.</li></ul><p><strong>S 8 Flughafen&nbsp;→&nbsp;Herrsching </strong></p><ul><li>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>Alternativen</strong></p><p>Ostbahnhof&nbsp;↔&nbsp;Leuchtenbergring&nbsp;(Haltestelle&nbsp;Ampfingstr.):&nbsp;<strong>Tram&nbsp;21</strong></p><p>Ostbahnhof&nbsp;↔&nbsp;Berg am Laim:&nbsp;<strong>Bus 190/191</strong></p><p>Leuchtenbergring&nbsp;↔&nbsp;Berg am Laim:&nbsp;<strong>Tram 19</strong></p><p><strong>Alternativen zwischen Pasing und München Ostbahnhof für beide Richtungen:</strong>&nbsp;</p><ul><li><strong>Tram 16 mit Halten</strong>: Donnersberger Brücke&nbsp;↔&nbsp;Hackerbrücke&nbsp;↔&nbsp;Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Isartor&nbsp;</li><li><strong>Tram 17 mit Halten</strong>: Donnersberger Brücke&nbsp;↔&nbsp;Hackerbrücke&nbsp;↔&nbsp;Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;</li><li><strong>Tram 18 mit Halten</strong>:&nbsp;Hirschgarten(Lautensackstraße)&nbsp;↔&nbsp;Donnersbergerbrücke(Trappentreustraße)&nbsp;↔&nbsp;</li><li>Hackerbrücke(Holzapfelstraße)&nbsp;↔&nbsp;Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Giesing&nbsp;</li><li><strong>Tram 19 mit Halten</strong>: Pasing&nbsp;↔&nbsp;Laim(Fürstenrieder Straße)&nbsp;↔&nbsp;Hirschgarten(Lautensackstraße)&nbsp;↔&nbsp;Donnersbergerbrücke(Trappentreustraße)&nbsp;↔&nbsp;</li><li>Hackerbrücke(Holzapfelstraße)&nbsp;↔&nbsp;Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Marienplatz&nbsp;↔&nbsp;</li><li>Leuchtenbergring(Einsteinstraße)&nbsp;↔&nbsp;Berg am Laim&nbsp;</li><li><strong>Tram 20 mit Halten</strong>: Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Marienplatz&nbsp;↔&nbsp;Ostbahnhof&nbsp;↔&nbsp;Leuchtenbergring(Ampfingstraße)&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Ostbahnhof&nbsp;↔&nbsp;Wörthstraße;&nbsp;<strong>Tram 25 mit Halten</strong>:&nbsp;Wörthstraße&nbsp;↔&nbsp;Rosenheimer Platz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Marienplatz&nbsp;↔&nbsp;Wörthstraße;&nbsp;<strong>Tram 25 mit Halten</strong>:&nbsp;Wörthstraße&nbsp;↔&nbsp;Rosenheimer Platz&nbsp;</li><li><strong>U5 mit Halten</strong>: Ostbahnhof&nbsp;↔&nbsp;Karlsplatz&nbsp;↔&nbsp;Hauptbahnhof&nbsp;↔&nbsp;Heimeranplatz&nbsp;↔&nbsp;Laimer Platz;&nbsp;<strong>Bus 57:</strong>&nbsp;Laimer Platz&nbsp;↔&nbsp;Pasing&nbsp;</li><li><strong>Bus 130/157 mit Halten</strong>: Pasing&nbsp;↔&nbsp;Laim&nbsp;↔&nbsp;Heimeranplatz&nbsp;</li></ul><p></p><p><strong>Informieren Sie sich wegen Beeinträchtigungen und aktuellen Baustellen bei den alternativen Reisemöglichkeiten unter mvg.de.</strong></p><p></p><p></p><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche in Laim.</p>",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten, S3, S4, S6 und S8 verkehren wieder durch die Stammstrecke. Umleitungen S1 und S2, Zugausfällen und vorzeitigen Zugwenden.",
+      "text": "<p><strong>NEU:</strong></p><p><strong>S3 Mammendorf ↔ Ostbahnhof:</strong></p><ul><li>Die S-Bahnen verkehren wieder auf dem Regelweg durch die Stammstrecke.</li></ul><p><strong>S3 Holzkirchen ↔ Pasing</strong></p><ul><li>Die S-Bahnen verkehren wieder auf dem Regelweg durch die Stammstrecke.</li></ul><p><strong>S4 Geltendorf ↔ Ostbahnhof/Trudering</strong></p><ul><li>Die S-Bahnen verkehren wieder auf dem Regelweg durch die Stammstrecke.</li></ul><p><strong>S 6 Tutzing&nbsp;↔ Ebersberg</strong></p><ul><li>Die S-Bahnen verkehren wieder auf dem Regelweg durch die Stammstrecke.</li></ul><p><strong>S 8 Herrsching&nbsp;↔ Flughafen </strong></p><ul><li>Die S-Bahnen verkehren wieder auf dem Regelweg durch die Stammstrecke.</li></ul><p></p><p><strong>Die anderen S-Bahnen verkehren wie folgt:</strong></p><p><strong>S 1&nbsp;Freising/Flughafen</strong>&nbsp;</p><ul><li>Die Linie S1&nbsp;→&nbsp;Richtung Ostbahnhof / Leuchtenbergring&nbsp;fährt&nbsp;zum Hauptbahnhof (Gleise 27-36)&nbsp;und hält nicht zwischen&nbsp;Moosach und Hauptbahnhof.&nbsp;</li><li>Die Linie S1&nbsp;→&nbsp;Richtung Freising/Flughafen&nbsp;fährt&nbsp;ab&nbsp;Hauptbahnhof (Gleise 27-36) und&nbsp;hält nicht an der&nbsp;an der Hackerbrücke.&nbsp;</li></ul><p><strong>Alternativen</strong>:</p><ul><li>Moosach&nbsp;↔&nbsp;Marienplatz:&nbsp;<strong>U3</strong></li><li>Feldmoching&nbsp;↔&nbsp;Hauptbahnhof:&nbsp;<strong>U2</strong></li></ul><p><strong>S 2 Petershausen&nbsp;→&nbsp;Erding</strong>&nbsp;</p><ul><li>Die S-Bahnen werden zwischen Obermenzing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren.</li><li>Die Halte Leuchtenbergring und Berg am Laim entfallen.</li></ul><p><strong>S 2 Erding&nbsp;→&nbsp;Petershausen</strong>&nbsp;</p><ul><li>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Der Grund hierfür ist die Reparatur an einer Weiche in Laim.</p>",
       "durationBegin": "27.06.2026",
       "durationEnd": "27.06.2026",
       "mapHref": "https://karte.bahn.de/detail/b6adc318-704d-40b6-9059-d3bc5f00b64f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/d84ea2e4-64fd-4756-a4cf-be3344634c00st%25C3%25B6rungskarte_20260627-142733.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/d84ea2e4-64fd-4756-a4cf-be3344634c00st%25C3%25B6rungskarte_20260627-142733.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/20c970a8-aab2-4c3d-b34b-90b8e082fec3st%25C3%25B6rungskarte_20260627-142733.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/20c970a8-aab2-4c3d-b34b-90b8e082fec3st%25C3%25B6rungskarte_20260627-142733.png",
           "info": "",
           "alt": "Störungskarte 27.06.2026 14:27:33",
           "openInNewTab": true
@@ -2061,94 +2155,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.06.2026 15:47",
+      "lastModified": "27.06.2026 16:26",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c4c68e99-383d-4faf-a732-f007897a2816",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section24"
-    },
-    {
-      "id": "a599650d-3d7f-415f-ade4-d6f5825337c2",
-      "disruptionId": "c2e1347b-21d8-4186-bda4-b94cc131dc7c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einer Weiche",
-      "summary": "Zwischen Markt Schwaben und Erding sind aktuell keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Erding fahren bis Markt Schwaben und wenden dort vorzeitig.</p><p>Nutzen Sie bitte alternativ die Ersatzverkehr Busse zwischen Markt Schwaben und Erding. Achten Sie auf die Ersatzverkehr - Beschilderung.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "27.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/c2e1347b-21d8-4186-bda4-b94cc131dc7c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.06.2026 15:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a599650d-3d7f-415f-ade4-d6f5825337c2",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section25"
-    },
-    {
-      "id": "b3fca10c-3f7c-4725-9c14-8ce9817d9f9e",
-      "disruptionId": "4da519d6-5c4b-4494-81cf-1d3b8bcade0c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S5  Aying ↔ Hohenbrunn: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Aying und Hohenbrunn kommt es zu Verspätungen von bis zu 70 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang im Bereich Höhenkirchen.</p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "27.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/4da519d6-5c4b-4494-81cf-1d3b8bcade0c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/e0781648-3981-4fe8-b0a3-fd736edb7fb1st%25C3%25B6rungskarte_20260627-140218.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-27/e0781648-3981-4fe8-b0a3-fd736edb7fb1st%25C3%25B6rungskarte_20260627-140218.png",
-          "info": "",
-          "alt": "Störungskarte 27.06.2026 14:02:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.06.2026 15:15",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b3fca10c-3f7c-4725-9c14-8ce9817d9f9e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section22"
     },
     {
       "id": "c8a209fb-31ca-4376-8f91-1a99174dd534",
