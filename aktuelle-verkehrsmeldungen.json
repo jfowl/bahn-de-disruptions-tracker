@@ -1,16 +1,17 @@
 {
-  "topDisruptions": [
+  "topDisruptions": [],
+  "disruptions": [
     {
       "id": "1efcc57a-931e-4f4c-b59e-4378ef3ce647",
       "disruptionId": "f1b0c7b5-3544-4559-b523-4e9aa55a4531",
-      "author": "DEUTSCHE_BAHN_AG",
+      "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "weather_heat",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Reisewarnung für 27. und 28.06. wegen Extrem-Wetter",
-      "summary": "Bitte vermeiden Sie Samstag und Sonntag alle nicht dringend notwendigen Reisen im Fern- und Regionalverkehr. Es kommt zu Verzögerungen und Zugausfällen im Bahnverkehr.",
-      "text": "<p>Wir empfehlen weiterhin, die Hitze-Sonderkulanz im DB Fernverkehr zu nutzen: Fahrgäste, die bis einschließlich <strong>23.06.2026</strong> ein Ticket für eine Reise im Zeitraum vom <strong>25.06.2026 bis 30.06.2026</strong> gebucht haben und aufgrund der zunehmenden Hitze-Belastung auf ihre Reise verzichten möchten, können ihr Ticket im Rahmen einer Sonderkulanz kostenfrei stornieren.</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "DB Fernverkehr bietet Hitzestorno",
+      "summary": "Aufgrund der andauernden Hitzesituation bietet die DB Fernverkehr im Zeitraum vom 25.06.2026 bis 30.06.2026 eine Sonderkulanz.",
+      "text": "<p>Alle Fahrgäste, die bis einschließlich <strong>23.06.2026</strong> ein Ticket für eine Reise im Zeitraum vom <strong>25.06.2026 bis 30.06.2026</strong> gebucht haben und aufgrund der zunehmenden Hitze-Belastung auf ihre Reise verzichten möchten, können ihr Ticket im Rahmen einer Sonderkulanz kostenfrei stornieren.</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.06.2026",
       "durationEnd": "30.06.2026",
       "mapHref": "https://karte.bahn.de/detail/f1b0c7b5-3544-4559-b523-4e9aa55a4531",
@@ -24,14 +25,14 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung",
-          "label": "In diesen Fällen ist Ihre Zugbindung aufgehoben",
+          "href": "http://www.bahn.de/sonderkulanz",
+          "label": "Ausführliche Informationen zum Hitze-Kulanzstorno finden Sie hier",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "http://www.bahn.de/sonderkulanz",
-          "label": "Ausführliche Informationen zum Hitze-Kulanzstorno finden Sie hier",
+          "href": "https://www.bahn.de/faq/zugbindung-aufgehoben-bedeutung",
+          "label": "In diesen Fällen ist Ihre Zugbindung aufgehoben",
           "info": "",
           "openInNewTab": true
         }
@@ -64,15 +65,13 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "27.06.2026 15:10",
+      "lastModified": "28.06.2026 20:32",
       "expand": false,
-      "topDisruption": true,
+      "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1efcc57a-931e-4f4c-b59e-4378ef3ce647",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_heat"
-    }
-  ],
-  "disruptions": [
+    },
     {
       "id": "88b31576-d0dd-44b2-9f9f-618a400da781",
       "disruptionId": "210ce3ca-9ad6-4aec-b091-a45f07a6cf10",
@@ -519,7 +518,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.06.2026 18:48",
+      "lastModified": "28.06.2026 20:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -687,7 +686,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S1: Technische Störung an der Strecke",
-      "summary": "S1: Wegen einer technischen Störung an der Strecke besteht zur Zeit kein Zugverkehr Zwischen Blankenese und Sülldorf. Ein Ersatzverkehr ist eingerichtet. S1: Wegen einer technischen Störung an der Strecke besteht zur Zeit kein Zugverkehr Zwischen Blankenese und Sülldorf. Ein Ersatzverkehr ist eingerichtet. Die Haltestelle des SEV Richtung Blankenese befindet sich an der Nachtbushaltestelle Sülldorfer Kirchweg.",
+      "summary": "S1: Wegen einer technischen Störung an der Strecke besteht zur Zeit kein Zugverkehr Zwischen Blankenese und Sülldorf. Ein Ersatzverkehr ist eingerichtet. Die Haltestelle des SEV Richtung Blankenese befindet sich an der Nachtbushaltestelle Sülldorfer Kirchweg. Die Störung bleibt voraussichtlich bis zum 29.06.206 (Betriebsschluss) bestehen.",
       "text": "<p> </p>",
       "durationBegin": "28.06.2026",
       "durationEnd": "29.06.2026",
@@ -709,7 +708,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.06.2026 19:44",
+      "lastModified": "28.06.2026 21:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1375,7 +1374,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.06.2026 18:38",
+      "lastModified": "28.06.2026 20:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1412,7 +1411,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.06.2026 18:38",
+      "lastModified": "28.06.2026 20:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1449,7 +1448,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.06.2026 18:37",
+      "lastModified": "28.06.2026 20:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1561,62 +1560,6 @@
       "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
     },
     {
-      "id": "f15095f6-f1e4-403d-9bf3-51ff6ed78681",
-      "disruptionId": "1d516e57-9bae-4da4-bc0f-9da8816d7b91",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Böschungsbrand Magdeburg-Rothensee  - Massive Beeinträchtigung",
-      "summary": "Raum Magdeburg - Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist ein Feuerwehreinsatz auf der Strecke.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RB 36 Magdeburg - Wolfsburg</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Feuerwehreinsatz auf der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zugverkehr wurde vorübergehend eingestellt.</p><p>↪️&nbsp;<strong>Alternative:</strong> Leider können wir keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "28.06.2026",
-      "durationEnd": "28.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/1d516e57-9bae-4da4-bc0f-9da8816d7b91",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/f230a2ba-a846-49fe-ad88-a15473718e9dst%25C3%25B6rungskarte_20260628-191254.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/f230a2ba-a846-49fe-ad88-a15473718e9dst%25C3%25B6rungskarte_20260628-191254.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 19:12:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.06.2026 19:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f15095f6-f1e4-403d-9bf3-51ff6ed78681",
-      "magnoliaPath": "/aktuell/suedost/massive_impairment_police_activity"
-    },
-    {
       "id": "01d0a783-b948-40a0-b46e-766a6f31d127",
       "disruptionId": "a6df454a-d643-47f0-8ea7-ef6c6f985422",
       "author": "REGIO_SUEDOST",
@@ -1626,14 +1569,14 @@
       },
       "headline": "Kamenz(Sachs) ⇄ Radeberg - Massive Beeinträchtigung",
       "summary": "Der Streckenabschnitt von Kamenz(Sachs) bis Radeberg ist im Moment gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 8 Dresden – Radeberg – Kamenz</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 8 Dresden – Radeberg – Kamenz</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Leider können wir keinen Ersatzverkehr anbieten, da keine Busse zur Verfügung stehen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
       "durationBegin": "28.06.2026",
       "durationEnd": "29.06.2026",
       "mapHref": "https://karte.bahn.de/detail/a6df454a-d643-47f0-8ea7-ef6c6f985422",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/a3a635a3-8310-490d-9ffe-76847918ea4dst%25C3%25B6rungskarte_20260628-193253.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/a3a635a3-8310-490d-9ffe-76847918ea4dst%25C3%25B6rungskarte_20260628-193253.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/98bfbf31-5b42-4c43-92f3-058e6a9c72f9st%25C3%25B6rungskarte_20260628-193253.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-28/98bfbf31-5b42-4c43-92f3-058e6a9c72f9st%25C3%25B6rungskarte_20260628-193253.png",
           "info": "",
           "alt": "Störungskarte 28.06.2026 19:32:53",
           "openInNewTab": true
@@ -1654,74 +1597,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.06.2026 19:37",
+      "lastModified": "28.06.2026 21:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/01d0a783-b948-40a0-b46e-766a6f31d127",
       "magnoliaPath": "/aktuell/suedost/massive_impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "22c9c507-0e7c-4327-800a-94becba3ffc4",
-      "disruptionId": "266b0b7c-8ece-4bcc-8f65-711631b49c5b",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Horb und Nagold beendet",
-      "summary": "Der Streckenabschnitt zwischen Horb und Nagold ist nicht mehr beeinträchtigt.  Der Grund war eine Reparatur an der Strecke. In Kürze fahren die Züge auf dem Streckenabschnitt wieder ohne Einschränkungen. Bitte rechnen Sie noch mit Verspätungen, bis sich der Zugverkehr vollständig normalisiert hat. Der Ersatzverkehr mit Bussen zwischen Horb und Nagold endet in Kürze. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "28.06.2026",
-      "durationEnd": "28.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/266b0b7c-8ece-4bcc-8f65-711631b49c5b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-28/b4c91376-74d9-411e-b230-a7f4caa91c6cst%25C3%25B6rungskarte_20260628-183554.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-28/b4c91376-74d9-411e-b230-a7f4caa91c6cst%25C3%25B6rungskarte_20260628-183554.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 18:35:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 74",
-          "filterName": "RB 74",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14a",
-          "filterName": "RE 14a",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 14b",
-          "filterName": "RE 14b",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.06.2026 19:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/22c9c507-0e7c-4327-800a-94becba3ffc4",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
@@ -2208,51 +2089,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/reduced_service_unknown_cause0"
     },
     {
-      "id": "35ac492e-2c75-46e4-8540-11ab30b0ce02",
-      "disruptionId": "1e54825e-14cb-4e4e-be76-83fc4fac32a1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Grafrath ↔ Geltendorf: Reparatur an der Strecke",
-      "summary": "Zwischen Grafrath und Geltendorf ist die Strecke gesperrt. ",
-      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "28.06.2026",
-      "durationEnd": "28.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/1e54825e-14cb-4e4e-be76-83fc4fac32a1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/88f1ec6b-a17b-4e9c-87b4-2e8b35bdf3f0st%25C3%25B6rungskarte_20260628-193925.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/88f1ec6b-a17b-4e9c-87b4-2e8b35bdf3f0st%25C3%25B6rungskarte_20260628-193925.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 19:39:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.06.2026 19:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/35ac492e-2c75-46e4-8540-11ab30b0ce02",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section0"
-    },
-    {
       "id": "05437049-bef0-41df-9176-94f853198aef",
       "disruptionId": "89421e3d-0010-482e-895c-b833045fdaef",
       "author": "REGIO_NORDOST",
@@ -2645,8 +2481,8 @@
       "mapHref": "https://karte.bahn.de/detail/344a8343-613a-4e53-b51a-bcdb80843cc3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/47679837-474a-4d53-8ca8-de322e4378abst%25C3%25B6rungskarte_20260628-190430.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/47679837-474a-4d53-8ca8-de322e4378abst%25C3%25B6rungskarte_20260628-190430.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/90995627-e561-45d5-9369-800c189a5c48st%25C3%25B6rungskarte_20260628-190430.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-28/90995627-e561-45d5-9369-800c189a5c48st%25C3%25B6rungskarte_20260628-190430.png",
           "info": "",
           "alt": "Störungskarte 28.06.2026 19:04:30",
           "openInNewTab": true
@@ -2667,7 +2503,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.06.2026 19:31",
+      "lastModified": "28.06.2026 21:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
