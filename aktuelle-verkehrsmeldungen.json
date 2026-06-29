@@ -273,8 +273,8 @@
       "mapHref": "https://karte.bahn.de/detail/3233d347-d77d-42dd-90e1-073d898cf047",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-28/bc9b0b03-3bf5-4591-8a92-b20796ccaaa7st%25C3%25B6rungskarte_20260628-165408.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-28/bc9b0b03-3bf5-4591-8a92-b20796ccaaa7st%25C3%25B6rungskarte_20260628-165408.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-29/82ed0590-aff1-4a4f-a6ce-35f4c87febe3st%25C3%25B6rungskarte_20260628-165408.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-06-29/82ed0590-aff1-4a4f-a6ce-35f4c87febe3st%25C3%25B6rungskarte_20260628-165408.png",
           "info": "",
           "alt": "Störungskarte 28.06.2026 16:54:08",
           "openInNewTab": true
@@ -283,14 +283,20 @@
       "downloads": [],
       "links": [
         {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
           "label": "bahn.de/fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs ",
           "info": "",
           "openInNewTab": true
         },
@@ -303,12 +309,6 @@
         {
           "href": "https://bahn.de",
           "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs ",
           "info": "",
           "openInNewTab": true
         }
@@ -332,7 +332,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "29.06.2026 00:00",
+      "lastModified": "29.06.2026 04:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -626,51 +626,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section1"
     },
     {
-      "id": "01d0a783-b948-40a0-b46e-766a6f31d127",
-      "disruptionId": "a6df454a-d643-47f0-8ea7-ef6c6f985422",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Pulsnitz ⇄  Arnsdorf - Massive Beeinträchtigung",
-      "summary": "Der Streckenabschnitt von Pulsnitz bis Arnsdorf ist im Moment gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 8 Dresden – Radeberg – Kamenz</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Zugausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "28.06.2026",
-      "durationEnd": "29.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a6df454a-d643-47f0-8ea7-ef6c6f985422",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/d3f404d2-9514-49cb-b776-48460e8aa851st%25C3%25B6rungskarte_20260628-193253.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/d3f404d2-9514-49cb-b776-48460e8aa851st%25C3%25B6rungskarte_20260628-193253.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 19:32:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.06.2026 01:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/01d0a783-b948-40a0-b46e-766a6f31d127",
-      "magnoliaPath": "/aktuell/suedost/massive_impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
       "disruptionId": "37a0807a-1949-4557-80b1-47b9787817a4",
       "author": "S_BAHN_RM",
@@ -686,8 +641,8 @@
       "mapHref": "https://karte.bahn.de/detail/37a0807a-1949-4557-80b1-47b9787817a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-28/96188263-5212-4558-af7d-3fe4c656ea6bst%25C3%25B6rungskarte_20260626-134526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-28/96188263-5212-4558-af7d-3fe4c656ea6bst%25C3%25B6rungskarte_20260626-134526.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-29/84221590-5523-492e-abab-91f324efb22fst%25C3%25B6rungskarte_20260626-134526.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-29/84221590-5523-492e-abab-91f324efb22fst%25C3%25B6rungskarte_20260626-134526.png",
           "info": "",
           "alt": "Störungskarte 26.06.2026 13:45:26",
           "openInNewTab": true
@@ -721,12 +676,102 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.06.2026 14:02",
+      "lastModified": "29.06.2026 06:24",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d56675d2-78e5-4887-a14a-4a8caf8c3477",
       "magnoliaPath": "/aktuell/hessen/massive_impairment_police_activity"
+    },
+    {
+      "id": "4c660416-c58e-4793-bfd9-482ca926caf7",
+      "disruptionId": "e1371dfe-d172-4873-a71f-1d111f134d4e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Priestewitz ⇄ Riesa - Massive Beeinträchtigung",
+      "summary": "Der Streckenabschnitt von Priestewitz bis Riesa ist im Moment beeinträchtigt. Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein defektes Stellwerk.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 50 Leipzig – Riesa – Dresden</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein defektes Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge fallen im Abschnitt Priestewitz - Riesa aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "29.06.2026",
+      "durationEnd": "29.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e1371dfe-d172-4873-a71f-1d111f134d4e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/348650bf-7992-4431-aec1-d6d725d0ef37st%25C3%25B6rungskarte_20260629-055523.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/348650bf-7992-4431-aec1-d6d725d0ef37st%25C3%25B6rungskarte_20260629-055523.png",
+          "info": "",
+          "alt": "Störungskarte 29.06.2026 05:55:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.06.2026 06:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4c660416-c58e-4793-bfd9-482ca926caf7",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_weather_storm"
+    },
+    {
+      "id": "01d0a783-b948-40a0-b46e-766a6f31d127",
+      "disruptionId": "a6df454a-d643-47f0-8ea7-ef6c6f985422",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Pulsnitz ⇄  Arnsdorf - Massive Beeinträchtigung",
+      "summary": "Der Streckenabschnitt von Pulsnitz bis Arnsdorf ist im Moment gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 8 Dresden – Radeberg – Kamenz</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Zugausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> 1 Busnotverkehr pendelt ab 05:30 Uhr  zwischen Pulsnitz und Radeberg.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "28.06.2026",
+      "durationEnd": "29.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a6df454a-d643-47f0-8ea7-ef6c6f985422",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/8bad612b-34fa-4c9f-a832-a1a9b9a48cc8st%25C3%25B6rungskarte_20260628-193253.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-29/8bad612b-34fa-4c9f-a832-a1a9b9a48cc8st%25C3%25B6rungskarte_20260628-193253.png",
+          "info": "",
+          "alt": "Störungskarte 28.06.2026 19:32:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.06.2026 04:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/01d0a783-b948-40a0-b46e-766a6f31d127",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -812,51 +857,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "f782d9fa-aa50-4831-81c2-c0f5d0d62d6d",
-      "disruptionId": "8f5e09fc-70eb-4560-a8d6-0ef9dffef9de",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Leipzig und Dresden",
-      "summary": "Aufgrund einer Reparatur an der Weiche in Riesa, zwischen Leipzig und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kann es zu Teilausfällen und zu Ersatzzügen zwischen Leipzig und Dresden kommen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Wiesbaden - Frankfurt - Leipzig - Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis zum 29.06.2026 um 06:30 Uhr erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "29.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/8f5e09fc-70eb-4560-a8d6-0ef9dffef9de",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/e2f62256-0708-42f2-b2ae-5ff5699a8ed4st%25C3%25B6rungskarte_20260627-004526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-27/e2f62256-0708-42f2-b2ae-5ff5699a8ed4st%25C3%25B6rungskarte_20260627-004526.png",
-          "info": "",
-          "alt": "Störungskarte 27.06.2026 00:45:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.06.2026 01:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f782d9fa-aa50-4831-81c2-c0f5d0d62d6d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section5"
     },
     {
       "id": "8de1ff89-f996-43a8-abb5-3f98bf9bee7a",
@@ -985,6 +985,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/16868f25-964e-4785-84c1-e47b0534f3af",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_vehicle1"
+    },
+    {
+      "id": "724d2344-5798-4b54-ac1d-7b9a968864d2",
+      "disruptionId": "7262f23c-76a7-45bc-bdc1-16499c6cc97f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 3 am 29.06.2026",
+      "summary": "Der benötigte Bauzustand in Giesing für das Konzept der S3 zwischen München-Ostbahnhof und Holzkirchen ab Montag wird nicht rechtzeitig erreicht. Aus diesem Grund verkehren wir ab Betriebsbeginn mit einem Pendel zwischen Holzkirchen und Deisenhofen. Zwischen Deisenhofen und Ostbahnhof wird ein Ersatzverkehr mit Bussen bereitgestellt. Achten Sie auf die Ersatzverkehr - Beschilderung und nutzen Sie nur entsprechend gekennzeichnete Fahrzeuge.\nDie Prognose zur Behebung der Baumaßnahmen liegt aktuell bei 14:00 Uhr.\n",
+      "text": "<p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "29.06.2026",
+      "durationEnd": "29.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/7262f23c-76a7-45bc-bdc1-16499c6cc97f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-29/d3cc11c8-7ab8-4e26-ba38-e91f10044b92st%25C3%25B6rungskarte_20260628-212831.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-29/d3cc11c8-7ab8-4e26-ba38-e91f10044b92st%25C3%25B6rungskarte_20260628-212831.png",
+          "info": "",
+          "alt": "Störungskarte 28.06.2026 21:28:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.06.2026 04:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/724d2344-5798-4b54-ac1d-7b9a968864d2",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction1"
     },
     {
       "id": "c7d1a5b0-8dbf-4e0d-be59-4b2c19a5612a",
@@ -1405,6 +1450,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
+    },
+    {
+      "id": "1a842f31-8726-40ee-93a0-b6750886049e",
+      "disruptionId": "3128fb6e-b438-4a8f-9b06-bb060618bb70",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Feldmoching ↔ Oberschleißheim: Reparatur an einem Signal",
+      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es zu größeren Verspätungen  und vorzeitige Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "29.06.2026",
+      "durationEnd": "29.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/3128fb6e-b438-4a8f-9b06-bb060618bb70",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-29/dfebd4ca-0e18-40f2-8155-527a90af8a7ast%25C3%25B6rungskarte_20260629-051901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-29/dfebd4ca-0e18-40f2-8155-527a90af8a7ast%25C3%25B6rungskarte_20260629-051901.png",
+          "info": "",
+          "alt": "Störungskarte 29.06.2026 05:19:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.06.2026 06:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1a842f31-8726-40ee-93a0-b6750886049e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section29"
     },
     {
       "id": "c8a209fb-31ca-4376-8f91-1a99174dd534",
