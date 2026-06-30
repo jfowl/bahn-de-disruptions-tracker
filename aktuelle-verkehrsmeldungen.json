@@ -1065,74 +1065,98 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "9e561e34-9fbd-4a46-b09e-cd7d146b252a",
-      "disruptionId": "8c848242-4bc4-4bb1-bc0e-fd83591f26b7",
-      "author": "S_BAHN_MUC",
+      "id": "02eea2b2-f840-4099-88c9-16b41c415a7f",
+      "disruptionId": "6a15e83d-9d54-421d-bd26-7c63906e5d3a",
+      "author": "S_BAHN_RM",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einem Signal beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen, Umleitungen, Ausfällen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal.</p>",
-      "durationBegin": "30.06.2026",
-      "durationEnd": "30.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/8c848242-4bc4-4bb1-bc0e-fd83591f26b7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/72571b78-269b-43a1-befa-451c4de4b3a9st%25C3%25B6rungskarte_20260630-180458.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/72571b78-269b-43a1-befa-451c4de4b3a9st%25C3%25B6rungskarte_20260630-180458.png",
-          "info": "",
-          "alt": "Störungskarte 30.06.2026 18:04:58",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Beeinträchtigungen zwischen Rüsselsheim - Frankfurt am Main - Stadion",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kann auch zu kurzfristigen Teilausfällen kommen.</li><li>Die S9 wird in Richtung Hanau Hbf von Raunheim bis Frankfurt am Main - Stadion mit Halt in Frankfurt(M) Flughafen Fernbf umgeleitet. Diese Züge halten nicht in Kelsterbach, Frankfurt(M) Flughafen Regionalbf und Frankfurt(Main)-Gateway Gardens.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Bitte nutzen Sie die Züge der S8, um die ausfallenden Halte zu erreichen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "29.06.2026",
+      "durationEnd": "01.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6a15e83d-9d54-421d-bd26-7c63906e5d3a",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HE"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
           "property": "SBAHN"
         },
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Main",
           "property": "SBAHN"
-        },
+        }
+      ],
+      "lastModified": "30.06.2026 20:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/02eea2b2-f840-4099-88c9-16b41c415a7f",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "492e3d3f-9e4d-4ccf-8546-c5eb4e917573",
+      "disruptionId": "776aa7ad-1dcd-459f-8840-617485ff9261",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M)Galluswarte - Frankfurt(Main)West",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Die S4 wird in Richtung Frankfurt(Main)Süd von Frankfurt-Rödelheim bis Frankfurt Hbf (tief) ohne Halt umgeleitet. Diese Züge halten nicht in Frankfurt(Main)West, Frankfurt(Main)Messe und Frankfurt(M)Galluswarte.</li><li>Die S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Zum Erreichen der entfallenden Halte bleiben Sie bitte bis Frankfurt Hbf tief im Zug. Hier können Sie in die Züge der Gegenrichtung umsteigen. Diese halten an den entsprechenden Stationen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "29.06.2026",
+      "durationEnd": "01.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/776aa7ad-1dcd-459f-8840-617485ff9261",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
         {
           "name": "S 3",
-          "filterName": "S 3 München",
+          "filterName": "S 3 Rhein-Main",
           "property": "SBAHN"
         },
         {
           "name": "S 4",
-          "filterName": "S 4 München",
+          "filterName": "S 4 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
           "property": "SBAHN"
         },
         {
           "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "filterName": "S 6 Rhein-Main",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.06.2026 18:23",
+      "lastModified": "30.06.2026 20:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9e561e34-9fbd-4a46-b09e-cd7d146b252a",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+      "detailPagePath": "/service/fahrplaene/492e3d3f-9e4d-4ccf-8546-c5eb4e917573",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
     },
     {
       "id": "73b241e0-798b-49af-a33e-68849ba67d9e",
@@ -1176,100 +1200,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73b241e0-798b-49af-a33e-68849ba67d9e",
       "magnoliaPath": "/aktuell/impairment_construction"
-    },
-    {
-      "id": "492e3d3f-9e4d-4ccf-8546-c5eb4e917573",
-      "disruptionId": "776aa7ad-1dcd-459f-8840-617485ff9261",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M)Galluswarte - Frankfurt(Main)West",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Die S4 wird in Richtung Frankfurt(Main)Süd von Frankfurt-Rödelheim bis Frankfurt Hbf (tief) ohne Halt umgeleitet. Diese Züge halten nicht in Frankfurt(Main)West, Frankfurt(Main)Messe und Frankfurt(M)Galluswarte.</li><li>Die S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Zum Erreichen der entfallenden Halte bleiben Sie bitte bis Frankfurt Hbf tief im Zug. Hier können Sie in die Züge der Gegenrichtung umsteigen. Diese halten an den entsprechenden Stationen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "29.06.2026",
-      "durationEnd": "30.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/776aa7ad-1dcd-459f-8840-617485ff9261",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.06.2026 12:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/492e3d3f-9e4d-4ccf-8546-c5eb4e917573",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "02eea2b2-f840-4099-88c9-16b41c415a7f",
-      "disruptionId": "6a15e83d-9d54-421d-bd26-7c63906e5d3a",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Rüsselsheim - Frankfurt am Main - Stadion",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kann auch zu kurzfristigen Teilausfällen kommen.</li><li>Die S9 wird in Richtung Hanau Hbf von Raunheim bis Frankfurt am Main - Stadion mit Halt in Frankfurt(M) Flughafen Fernbf umgeleitet. Diese Züge halten nicht in Kelsterbach, Frankfurt(M) Flughafen Regionalbf und Frankfurt(Main)-Gateway Gardens.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Bitte nutzen Sie die Züge der S8, um die ausfallenden Halte zu erreichen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "29.06.2026",
-      "durationEnd": "30.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/6a15e83d-9d54-421d-bd26-7c63906e5d3a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.06.2026 09:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/02eea2b2-f840-4099-88c9-16b41c415a7f",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
     },
     {
       "id": "8de1ff89-f996-43a8-abb5-3f98bf9bee7a",
@@ -1445,51 +1375,6 @@
       "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
     },
     {
-      "id": "c7d1a5b0-8dbf-4e0d-be59-4b2c19a5612a",
-      "disruptionId": "31f1df6c-bf84-4064-b00c-cb53226f1943",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 3 Maisach ↔ Ostbahnhof: Bauarbeiten",
-      "summary": "Am Dienstag, den 30. Juni 2026, entfallen ganztägig die S-Bahnen des 10-Minuten-Takts auf der Linie S 3.\nBeachten Sie zudem die bestehenden Bauarbeiten auf den Linien S 3 und S 5. Informationen hierzu finden Sie unter: https://www.s-bahn-muenchen.de/de/fahren/baustellen",
-      "text": "<p><strong>S 3 Ostbahnhof → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Ostbahnhof Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr&nbsp;</li></ul><p></p><ul><li>S 3&nbsp;Ostbahnhof Abfahrt 15:17 Uhr → Maisach Ankunft 15:58&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 15:37 Uhr → Maisach Ankunft 16:18&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 15:57 Uhr → Maisach Ankunft 16:38&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 16:37 Uhr → Maisach Ankunft 17:18&nbsp;Uhr</li><li>S 3&nbsp; Ostbahnhof Abfahrt 16:57 Uhr → Maisach Ankunft 17:38&nbsp;Uhr</li><li>S 3&nbsp; Ostbahnhof Abfahrt 17:17 Uhr → Maisach Ankunft 17:58&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 17:37 Uhr → Maisach Ankunft 18:18&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 17:57 Uhr → Maisach Ankunft 18:38&nbsp;Uhr</li><li>S 3&nbsp;&nbsp;Ostbahnhof Abfahrt 18:17 Uhr → Maisach Ankunft 18:58&nbsp;Uhr</li><li>S 3&nbsp;Ostbahnhof Abfahrt 18:37 Uhr → Maisach Ankunft 19:18&nbsp;Uhr</li><li>S 3&nbsp; Ostbahnhof Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr</li></ul><p></p><p><strong>S 3 Maisach → Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr</li><li>S 3 <strong> </strong>Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li></ul><p></p><ul><li>S 3&nbsp;Pasing Abfahrt 15:40 Uhr → Ostbahnhof Ankunft 15:59 Uhr</li><li>S 3&nbsp;Pasing Abfahrt 16:00 Uhr → Ostbahnhof Ankunft 16:19 Uhr</li><li> S 3&nbsp;Pasing&nbsp;Abfahrt 16:20&nbsp;Uhr → Ostbahnhof Ankunft 16:39 Uhr </li><li>S 3&nbsp;Maisach Abfahrt 16:20&nbsp;Uhr → Ostbahnhof Ankunft 16:59 Uhr </li><li>S 3&nbsp;Maisach Abfahrt 16:40&nbsp;Uhr → Ostbahnhof Ankunft 17:19 Uhr </li><li>S 3&nbsp;Maisach Abfahrt 17:00&nbsp;Uhr → Ostbahnhof Ankunft 17:39 Uhr</li><li>S 3&nbsp;Maisach Abfahrt 17:20&nbsp;Uhr → Ostbahnhof Ankunft 17:59 Uhr</li><li>S 3&nbsp;Maisach Abfahrt 17:40&nbsp;Uhr → Ostbahnhof Ankunft 18:19 Uhr </li><li>S 3&nbsp;Maisach Abfahrt 18:00&nbsp;Uhr → Ostbahnhof Ankunft 18:39 Uhr</li><li>S 3&nbsp;Maisach Abfahrt 18:20&nbsp;Uhr → Ostbahnhof Ankunft 18:59 Uhr </li></ul><p></p><p></p><p></p><p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "29.06.2026",
-      "durationEnd": "30.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/31f1df6c-bf84-4064-b00c-cb53226f1943",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/d720764e-34a0-4646-9192-2b50e9484b30st%25C3%25B6rungskarte_20260628-072314.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/d720764e-34a0-4646-9192-2b50e9484b30st%25C3%25B6rungskarte_20260628-072314.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 07:23:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.06.2026 01:41",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7d1a5b0-8dbf-4e0d-be59-4b2c19a5612a",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_construction0"
-    },
-    {
       "id": "4a945732-b404-4747-b48b-8f27f3904f44",
       "disruptionId": "9ca8b27a-f997-4cb7-a320-73b35009325f",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1635,6 +1520,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "70703b69-e2d8-4d50-b636-901b80b67d17",
+      "disruptionId": "0ffeb901-7e12-452f-b62c-51be0153c949",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke in den Nächte Dienstag/Mittwoch, 30.6./1.7. bis Donnerstag/Freitag, 2./3.7.2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es in den Nächten von Dienstag/Mittwoch, 30.6./1.7. bis Donnerstag/Freitag, 2./3.7.2026, jeweils von 22:15 bis 5 Uhr, zwischen Pasing ↔ Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>‼️Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt.</strong></p><p>S1:</p><ul><li><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am <strong>Hauptbahnhof Gleis 27-35, kein Halt an der Hackerbrücke</strong></li></ul></li></ul><p>S2:</p><ul><li><ul><li>Züge in/aus Richtung Petershausen beginnen/enden am <strong>Heimeranplatz Gleis 11 </strong>und fahren von/bis <strong>Obermenzing ohne Halt im 30-Minuten-Takt</strong></li><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof Gleis 4</li></ul></li></ul><p>S3:</p><ul><li><ul><li>Züge in/aus Richtung Mammendorf beginnen/enden am <strong>Ostbahnhof und fahren im 30-Minuten-Takt als einzige Linie auf der Stammstrecke</strong></li><li>Zwischen Ostbahnhof und Deisenhofen/Holzkirchen bestehen Bauarbeiten mit 40-Minuten-Takt <strong>(siehe gesonderte Plakate) 🚧</strong></li></ul></li></ul><p>S4:</p><ul><li><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in <strong>Pasing</strong></li><li>Züge in/aus Richtung Trudering <strong>fallen zwischen Trudering und Pasing aus</strong></li></ul></li></ul><p>S5:</p><ul><li><ul><li>Zwischen Ostbahnhof und Kreuzstraße bestehen Bauarbeiten <strong>(siehe gesonderte Plakate) 🚧</strong></li><li>Züge in/aus Richtung Pasing <strong>fallen zwischen Pasing und Ostbahnhof aus</strong></li></ul></li></ul><p>S6:</p><ul><li><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am <strong>Ostbahnhof Gleis 2</strong></li><li>Züge in/aus Richtung Hauptbahnhof beginnen/enden am <strong>Hauptbahnhof Gleis 27-36 und fahren von/bis Pasing ohne Halt</strong></li></ul></li></ul><p>S8:</p><ul><li><ul><li>Züge in Richtung Flughafen/Airport fahren ab <strong>Pasing ohne Halt zum Ostbahnhof und weiter ohne Halt am Leuchtenbergring </strong>zum Flughafen/Airport</li><li>Züge in Richtung Herrsching fahren ab <strong>Daglfing ohne Halt am Leuchtenbergring zum Ostbahnhof und weiter ohne Halt bis Pasing</strong> nach Herrsching</li></ul></li></ul><p></p><p>➡️Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "30.06.2026",
+      "durationEnd": "03.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/0ffeb901-7e12-452f-b62c-51be0153c949",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/9b1a329a-72fc-46e6-9aad-69a2c17eebb2st%25C3%25B6rungskarte_20260611-001607.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/9b1a329a-72fc-46e6-9aad-69a2c17eebb2st%25C3%25B6rungskarte_20260611-001607.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 00:16:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-30/9c5034e5-40dc-4ad4-adb6-80eddda2f868Fpl%252BESTW%252Beingl%252BMOP-MP%252BS%252B1-S%252B8%252B23%252BJuni-17%252BJuli%252B2026.pdf",
+          "label": "Stammstrecke S1-S8+23+Juni-17+Juli+2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.06.2026 20:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70703b69-e2d8-4d50-b636-901b80b67d17",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction3"
     },
     {
       "id": "ec99db28-13aa-4b50-a46b-fa958977665f",
