@@ -2,57 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "59501522-ed08-4093-a0b5-42755db85084",
-      "disruptionId": "be7e5793-e8cb-4496-8b2f-71795417ed9e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Kassel-Wilhelmshöhe und Fulda",
-      "summary": "Aufgrund eines defekten Güterzuges ist die Strecke zwischen Kassel-Wilhelmshöhe und Fulda aktuell nur eingeschränkt befahrbar. Dadurch kommt es zu Verspätungen und Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Göttingen, Kassel-Wilhelmshöhe und Fulda verspäten sich um bis zu 60 Minuten</li><li>ICE-Sprinter-Züge zwischen Frankfurt(M) und Hannover bzw. Frankfurt(M) und Berlin fallen bis Tagesende aus</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.07.2026",
-      "durationEnd": "03.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/be7e5793-e8cb-4496-8b2f-71795417ed9e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-02/42d4d120-0cc9-48b6-8cc9-16c164568d32st%25C3%25B6rungskarte_20260702-103418.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-02/42d4d120-0cc9-48b6-8cc9-16c164568d32st%25C3%25B6rungskarte_20260702-103418.png",
-          "info": "",
-          "alt": "Störungskarte 02.07.2026 10:34:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "BW",
-        "BY",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "02.07.2026 18:21",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/59501522-ed08-4093-a0b5-42755db85084",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "8fd72351-5698-4b5b-b9e2-77848d1bdfde",
       "disruptionId": "5663ab58-8078-450b-8b1c-c40ced018ce6",
       "author": "FERNVERKEHR_AG",
@@ -99,6 +48,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8fd72351-5698-4b5b-b9e2-77848d1bdfde",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
+    },
+    {
+      "id": "8e09be69-e9cc-437b-8615-aa3edf48f897",
+      "disruptionId": "3b125b73-d42c-4083-8e89-418085acdf62",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Kassel und Würzburg bzw. Aschaffenburg und Würzburg",
+      "summary": "Aufgrund mehrerer Störungen am 02.07.2026 kommt es noch zu Rückstaueffekten im Güterverkehr. Dadurch kann es auch im Fernverkehr der Deutschen Bahn zu einzelnen Zugfolgeverspätungen bis zu 60 Minuten kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Einzelne ICE-Züge der Verbindung Hamburg - Hannover - Kassel-Wilhelmshöhe - Würzburg - München</li><li>Einzelne ICE-Züge der Verbindung Frankfurt(M) - Würzburg - Nürnberg - München / Passau</li><li>Einzelne ICE-/TGV-Züge der Verbindung Frankfurt(M) - Würzburg - Erfurt - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/3b125b73-d42c-4083-8e89-418085acdf62",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/94cc6aeb-f995-477a-b64a-962d7e9447f5st%25C3%25B6rungskarte_20260703-014851.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/94cc6aeb-f995-477a-b64a-962d7e9447f5st%25C3%25B6rungskarte_20260703-014851.png",
+          "info": "",
+          "alt": "Störungskarte 03.07.2026 01:48:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BE",
+        "TH",
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.07.2026 01:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8e09be69-e9cc-437b-8615-aa3edf48f897",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
     },
     {
       "id": "77c65ba4-3ebd-4f74-b634-7090ff887a5c",
@@ -151,51 +146,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/77c65ba4-3ebd-4f74-b634-7090ff887a5c",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "88b31576-d0dd-44b2-9f9f-618a400da781",
-      "disruptionId": "210ce3ca-9ad6-4aec-b091-a45f07a6cf10",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt (Main) und Gießen",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Frankfurt (Main) und Gießen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Die ICE-Züge zwischen Hannover und Karlsruhe, die planmäßig über Marburg, Gießen, Frankfurt(M), Darmstadt, Weinheim und Heidelberg verkehren, fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen&nbsp;Frankfurt(Main)Hbf,&nbsp;Friedberg(Hess), Gießen,&nbsp;Marburg(Lahn), Treysa,&nbsp;Wabern(Bz Kassel) und Kassel-Wilhelmshöhe&nbsp;nutzen Sie bitte die Nahverkehrszüge der Linien RE 30 und RE 98.&nbsp;Bitte haben Sie Verständnis dafür, dass die noch verkehrenden Regionalzüge teilweise ein sehr hohes&nbsp;Reisendenaufkommen&nbsp;zu verzeichnen haben.</li><li>Zwischen Frankfurt(M) Hbf, Darmstadt Hbf, Bensheim, Weinheim(Bergstr.), Heidelberg Hbf und Karlsruhe Hbf nutzen Sie bitte die Nahverkehrszüge.</li><li>Zwischen Hannover und Kassel-Wilhelmshöhe nutzen Sie bitte die verbliebenen ICE-Züge.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/210ce3ca-9ad6-4aec-b091-a45f07a6cf10",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-24/46bfd694-a76e-4a28-97f7-4d32c7b37fa0st%25C3%25B6rungskarte_20260623-164802.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-24/46bfd694-a76e-4a28-97f7-4d32c7b37fa0st%25C3%25B6rungskarte_20260623-164802.png",
-          "info": "",
-          "alt": "Störungskarte 23.06.2026 16:48:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.06.2026 01:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/88b31576-d0dd-44b2-9f9f-618a400da781",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
