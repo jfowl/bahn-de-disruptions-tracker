@@ -58,14 +58,14 @@
         "label": "Streckensperrung"
       },
       "headline": "Beeinträchtigungen zwischen Kassel und Würzburg bzw. Aschaffenburg und Würzburg",
-      "summary": "Aufgrund mehrerer Störungen am 02.07.2026 kommt es noch zu Rückstaueffekten im Güterverkehr. Dadurch kann es auch im Fernverkehr der Deutschen Bahn zu einzelnen Zugfolgeverspätungen bis zu 60 Minuten kommen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Einzelne ICE-Züge der Verbindung Hamburg - Hannover - Kassel-Wilhelmshöhe - Würzburg - München</li><li>Einzelne ICE-Züge der Verbindung Frankfurt(M) - Würzburg - Nürnberg - München / Passau</li><li>Einzelne ICE-/TGV-Züge der Verbindung Frankfurt(M) - Würzburg - Erfurt - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund mehrerer Störungen am 02.07.2026 kommt es noch zu Rückstaueffekten im Güterverkehr. Dadurch kann es auch im Fernverkehr der Deutschen Bahn zu einzelnen Zugfolgeverspätungen bis zu 30 Minuten kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Einzelne ICE-Züge der Verbindung Hamburg - Hannover - Kassel-Wilhelmshöhe - Würzburg - München</li><li>Einzelne ICE-Züge der Verbindung Frankfurt(M) - Würzburg - Nürnberg - München / Passau</li><li>Einzelne ICE-/TGV-Züge der Verbindung Frankfurt(M) - Aschaffenburg - Erfurt - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "03.07.2026",
       "mapHref": "https://karte.bahn.de/detail/3b125b73-d42c-4083-8e89-418085acdf62",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/94cc6aeb-f995-477a-b64a-962d7e9447f5st%25C3%25B6rungskarte_20260703-014851.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/94cc6aeb-f995-477a-b64a-962d7e9447f5st%25C3%25B6rungskarte_20260703-014851.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/9e2d759c-ae73-4123-b1c2-2e7529aefd54st%25C3%25B6rungskarte_20260703-014851.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-03/9e2d759c-ae73-4123-b1c2-2e7529aefd54st%25C3%25B6rungskarte_20260703-014851.png",
           "info": "",
           "alt": "Störungskarte 03.07.2026 01:48:51",
           "openInNewTab": true
@@ -89,7 +89,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "03.07.2026 01:51",
+      "lastModified": "03.07.2026 18:03",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8e09be69-e9cc-437b-8615-aa3edf48f897",
@@ -734,6 +734,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "70657e72-1d06-46cf-bb65-b88bdeb1db7e",
+      "disruptionId": "fea38765-e285-4311-a8c3-99f9870287e6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Reparatur an einer Weiche",
+      "summary": "Zwischen Feldkirchen und Markt Schwaben kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "03.07.2026",
+      "durationEnd": "03.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/fea38765-e285-4311-a8c3-99f9870287e6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-03/8bb10a25-689c-4869-b256-9979759b0d4fst%25C3%25B6rungskarte_20260703-185800.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-03/8bb10a25-689c-4869-b256-9979759b0d4fst%25C3%25B6rungskarte_20260703-185800.png",
+          "info": "",
+          "alt": "Störungskarte 03.07.2026 18:58:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.07.2026 18:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70657e72-1d06-46cf-bb65-b88bdeb1db7e",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section16"
     },
     {
       "id": "c9e7e65a-0d11-4e51-9fe7-a1cd0a563752",
