@@ -820,6 +820,43 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_vehicle1"
     },
     {
+      "id": "9c928836-5f11-4d3b-83d4-9894bc370e35",
+      "disruptionId": "b78f113f-91b8-4083-9b2b-bdae5d5f5a69",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Derzeit keine S5 zw. Diebsteich u. Elbgaustraße",
+      "summary": "Derzeit fährt keine S5 zwischen Diebsteich und Elbgaustraße. Voraussichtliches Störungsende: 08.07., 03:00 Uhr. Grund: Stellwerksstörung. Nutzen Sie alternativ die S3.",
+      "text": "<p> </p>",
+      "durationBegin": "07.07.2026",
+      "durationEnd": "08.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/b78f113f-91b8-4083-9b2b-bdae5d5f5a69",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.07.2026 18:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c928836-5f11-4d3b-83d4-9894bc370e35",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "38955f17-52a3-4eb7-8e9b-fd9cc8fdc680",
       "disruptionId": "56112d06-c165-4678-8e02-aaef46c87761",
       "author": "S_BAHN_MUC",
@@ -967,6 +1004,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "e7307730-6eb3-4779-a19f-fb09c6e93551",
+      "disruptionId": "7e8f6a13-6c6f-4233-881b-715d4debd0d3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit innerhalb der Innenstadt auch die U-Bahnen und Linienbusse. Grund: Polizeieinsatz ",
+      "text": "<p> </p>",
+      "durationBegin": "07.07.2026",
+      "durationEnd": "07.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/7e8f6a13-6c6f-4233-881b-715d4debd0d3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.07.2026 20:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e7307730-6eb3-4779-a19f-fb09c6e93551",
+      "magnoliaPath": "/aktuell/nord/modified_service_police_activity"
     },
     {
       "id": "ec99db28-13aa-4b50-a46b-fa958977665f",
