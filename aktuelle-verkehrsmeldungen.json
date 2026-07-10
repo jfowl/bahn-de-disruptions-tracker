@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "fefb5c42-5827-47fa-8945-9d1c0437a924",
+      "disruptionId": "bd38acfd-ef8b-4250-babd-54c4352c08d1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Verminderte Geschwindigkeit zwischen Hagen und Wuppertal durch Bauarbeiten",
+      "summary": "Aufgrund von Bauarbeiten zwischen Hagen und Wuppertal kommt es bis voraussichtlich 12.07.2026 Betriebsschluss zu verminderten Geschwindigkeiten in diesem Streckenabschnitt. Verspätungen von ca. 10 Minuten sind möglich. ",
+      "text": "<strong><strong>Folgende Verbindungen im Fernverkehr erhalten Verspätungen von ca. 10 Minuten: </strong></strong><ul><li>ICE-Züge zwischen Berlin&nbsp;– Hannover – Hamm (Westf) – Wuppertal - Köln</li><li>ICE-Züge zwischen Berlin – Hannover – Hagen – Wuppertal – Köln</li><li>ICE-Züge zwischen Hamburg – Bremen – Münster (Westf) – Köln –&nbsp;Frankfurt (M) Flughafen – Mannheim – Stuttgart – München</li><li>IC-Züge zwischen Münster (Westf)&nbsp;– Dortmund – Köln – Koblenz –&nbsp;Mannheim –&nbsp;Karlsruhe</li><li>ICE-Züge zwischen Nürnberg - Würzburg – Frankfurt (M) – Koblenz – Köln – Dortmund</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.07.2026",
+      "durationEnd": "12.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/bd38acfd-ef8b-4250-babd-54c4352c08d1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.07.2026 12:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fefb5c42-5827-47fa-8945-9d1c0437a924",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
+    },
+    {
       "id": "8fd72351-5698-4b5b-b9e2-77848d1bdfde",
       "disruptionId": "5663ab58-8078-450b-8b1c-c40ced018ce6",
       "author": "FERNVERKEHR_AG",
@@ -48,6 +100,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8fd72351-5698-4b5b-b9e2-77848d1bdfde",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
+    },
+    {
+      "id": "178a52b3-850e-456a-a2f4-98b1b0cbe84d",
+      "disruptionId": "12b33907-d2b7-4759-af35-c3e43345702a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Düsseldorf und Köln",
+      "summary": "Aufgrund eines Böschungsbrandes ist die Strecke zwischen Düsseldorf und Köln derzeit gesperrt. Dadurch müssen alle Züge im Fernverkehr der Deutschen Bahn umgeleitet werden und verspäten sich um etwa 30 Minuten. Vereinzelt kann es zu Zug- oder Haltausfällen kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Köln - Düsseldorf - Dortmund</li><li>Köln - Düsseldorf - Recklinghausen - Münster/W</li><li>Köln - Düsseldorf - Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/12b33907-d2b7-4759-af35-c3e43345702a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-10/84501408-5a8e-436c-8fbd-eb7064b61f03st%25C3%25B6rungskarte_20260710-125103.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-10/84501408-5a8e-436c-8fbd-eb7064b61f03st%25C3%25B6rungskarte_20260710-125103.png",
+          "info": "",
+          "alt": "Störungskarte 10.07.2026 12:51:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.07.2026 12:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/178a52b3-850e-456a-a2f4-98b1b0cbe84d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -127,6 +225,49 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "f9953d50-cbb8-4f21-8092-eeab5d9dbb19",
+      "disruptionId": "c59b1643-d00c-4126-829e-3e4ee3e87130",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Die Strecke zwischen Andernach und Mayen Ost ist gesperrt.",
+      "summary": "Der Grund sind Unwetterschäden.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Andernach &lt;&gt; Mayen Ost</p><p>🕜<strong>Dauer der Sperrung bis vsl. 10.07.26, ganztägig.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RB38 - Kaisersesch &lt;&gt; Mayen &lt;&gt; Mendig &lt;&gt; Andernach </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Züge der Linie RB23 entfallen zwischen Andernach und Mayen Ost.Linie RB38 entfällt auf dem gesamten Laufweg.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Mayen Ost und Andernach sowie zwischen Andernach und Kaisersesch für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Information zu den Ersatzverkehrbussen: Aufgrund einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr. Es kann zu Abweichungen in den Abfahrtzeiten kommen. Bitte rechnen Sie mit Verspätungen und Busausfällen.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "27.06.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/c59b1643-d00c-4126-829e-3e4ee3e87130",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.07.2026 11:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f9953d50-cbb8-4f21-8092-eeab5d9dbb19",
+      "magnoliaPath": "/aktuell/mitte/massive_impairment_weather_storm"
+    },
+    {
       "id": "cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "disruptionId": "b97dac1b-2e45-4a5b-be7e-ad475cf7ef61",
       "author": "REGIO_MITTE",
@@ -136,9 +277,9 @@
       },
       "headline": "Die Strecke zwischen Ludwigshafen(Rh)Hbf und Mannheim Hbf ist beeinträchtigt.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🕜<strong>Dauer der Beeinträchtigung: Täglich von 06:30 Uhr bis 22:00 Uhr, voraussichtlich bis zum 13.07.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen: S1, S2, S5 und S6: Zur Entlastung der Strecke halten die Züge von Ludwigshafen(Rh)Hbf in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte. Es kann zu Verspätungen kommen.</strong></p><p><strong>S3 und S4: enden und beginnen jeweils in Ludwigshafen(Rh)Hbf und Heidelberg Hbf.</strong></p><p><strong>RE14: Die Züge aus Richtung Mainz Hbf beginnen und enden außerplanmäßig in Ludwigshafen(Rh)Hbf.</strong></p><p>🚍&nbsp;<strong>Alternative: Reisende nach Ludwigshafen(Rhein) Mitte fahren bis Mannheim Hbf und steigen dort um. Unsere Empfehlung: Nutzen Sie auch die Straßenbahnen und Busse der VRN.</strong></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Mannheim Hbf</p><p>🕜<strong>Dauer der Beeinträchtigung: bis zum 14.07.2026, 05 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li> Gesamtes S-Bahn Netz RheinNeckar</li></ul><p>❌<strong>&nbsp;Einschränkungen: S1, S2, S5 und S6: Zur Entlastung der Strecke halten die Züge von Ludwigshafen(Rh)Hbf in Richtung Mannheim Hbf nicht in Ludwigshafen(Rhein) Mitte. Es kann zu Verspätungen kommen.</strong></p><p><strong>S3 und S4: enden und beginnen jeweils in Ludwigshafen(Rh)Hbf und Heidelberg Hbf.</strong></p><p><strong>RE14: Die Züge aus Richtung Mainz Hbf beginnen und enden außerplanmäßig in Ludwigshafen(Rh)Hbf.</strong></p><p>🚍&nbsp;<strong>Alternative: Reisende nach Ludwigshafen(Rhein) Mitte fahren bis Mannheim Hbf und steigen dort um. Unsere Empfehlung: Nutzen Sie auch die Straßenbahnen und Busse der VRN.</strong></p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "02.06.2026",
-      "durationEnd": "13.07.2026",
+      "durationEnd": "14.07.2026",
       "mapHref": "https://karte.bahn.de/detail/b97dac1b-2e45-4a5b-be7e-ad475cf7ef61",
       "images": [],
       "downloads": [],
@@ -188,7 +329,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.07.2026 10:34",
+      "lastModified": "10.07.2026 11:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -196,47 +337,48 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "f9953d50-cbb8-4f21-8092-eeab5d9dbb19",
-      "disruptionId": "c59b1643-d00c-4126-829e-3e4ee3e87130",
-      "author": "REGIO_MITTE",
+      "id": "ec0ee99b-9c1d-4913-b8c1-fd2282160cfb",
+      "disruptionId": "6fdcb3b0-bb06-40ad-b21d-89b3f73e4651",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Die Strecke zwischen Andernach und Mayen Ost ist gesperrt.",
-      "summary": "Der Grund sind Unwetterschäden.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Andernach &lt;&gt; Mayen Ost</p><p>🕜<strong>Dauer der Sperrung bis vsl. 10.07.26. Im Laufe des Tages vom 10.07.26 wird der Zugverkehr wieder aufgenommen.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RB38 - Kaisersesch &lt;&gt; Mayen &lt;&gt; Mendig &lt;&gt; Andernach </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Züge der Linie RB23 und RB38 zwischen Andernach und Mayen Ost.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen Mayen Ost und Andernach für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Information zu den Ersatzverkehrbussen: Aufgrund einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr. Es kann zu Abweichungen in den Abfahrtzeiten kommen. Bitte rechnen Sie mit Verspätungen und Busausfällen.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "10.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/c59b1643-d00c-4126-829e-3e4ee3e87130",
-      "images": [],
+      "headline": "Beeinträchtigungen zwischen Mannheim und Ludwigshafen",
+      "summary": "Aufgrund von Bauarbeiten zwischen Mannheim und Ludwigshafen kommt es vom 11.07.2026 bis 13.07.2026 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätung von ca. 15 Minuten. Der Halt in Mannheim kann entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE Züge Frankfurt - Saarbrücken - Paris</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6fdcb3b0-bb06-40ad-b21d-89b3f73e4651",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-10/6e63c81b-4d27-4da4-a6bf-d511fe436e1bst%25C3%25B6rungskarte_20260710-111249.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-10/6e63c81b-4d27-4da4-a6bf-d511fe436e1bst%25C3%25B6rungskarte_20260710-111249.png",
+          "info": "",
+          "alt": "Störungskarte 10.07.2026 11:12:49",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HE",
+        "BW",
         "RP"
       ],
       "lines": [
         {
-          "name": "RB 23",
-          "filterName": "RB 23",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 38",
-          "filterName": "RB 38",
-          "property": "REGIONAL"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "10.07.2026 08:13",
+      "lastModified": "10.07.2026 11:16",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f9953d50-cbb8-4f21-8092-eeab5d9dbb19",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_weather_storm"
+      "detailPagePath": "/service/fahrplaene/ec0ee99b-9c1d-4913-b8c1-fd2282160cfb",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction0"
     },
     {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
@@ -580,6 +722,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d46dfc90-2174-4e83-ae8c-ede1acfcc3aa",
+      "disruptionId": "eb6587e1-3a6b-45cd-96e5-a0f08c6bc638",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li> Am 10.07.2026 ganztägig</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "10.07.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/eb6587e1-3a6b-45cd-96e5-a0f08c6bc638",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.07.2026 11:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d46dfc90-2174-4e83-ae8c-ede1acfcc3aa",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "8beed848-9f8b-4be9-a9e2-33a268d47ed8",
       "disruptionId": "a9182ea3-4f9e-4ded-8674-785180c65700",
       "author": "FERNVERKEHR_AG",
@@ -809,15 +988,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigungen zwischen Wertheim und Bad Mergentheim",
-      "summary": "Der Streckenabschnitt zwischen Tauberbischofsheim und Bad Mergentheim ist beeinträchtigt. Dauer der Beeinträchtigung bis vsl. Freitag, den 10. Juli, 11:00 Uhr. Der Grund sind Bauarbeiten. Derzeit ist kein Zugverkehr auf dem Streckenabschnitt möglich. In der Folge kommt es zu Teil- und Zugausfällen. Ab dem 10.07.26 um 04:45 Uhr verkehrt der Ersatzverkehr mit 4 Bussen im Pendelverkehr. Beachten Sie die längere Fahrzeit von dem Bus. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "summary": "Der Streckenabschnitt zwischen Tauberbischofsheim und Bad Mergentheim ist beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Der Grund sind Bauarbeiten. Derzeit ist kein Zugverkehr auf dem Streckenabschnitt möglich. In der Folge kommt es zu Teil- und Zugausfällen. Ein Ersatzverkehr mit 4 Bussen im Pendelverkehr ist eingerichtet. Beachten Sie die längere Fahrzeit von dem Bus. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "09.07.2026",
       "durationEnd": "10.07.2026",
       "mapHref": "https://karte.bahn.de/detail/c99c0f38-b5a4-47bb-b9fa-c7350e834137",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-10/c037bb7b-bec1-415b-b3ed-e09684a1c3ebst%25C3%25B6rungskarte_20260709-084221.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-10/c037bb7b-bec1-415b-b3ed-e09684a1c3ebst%25C3%25B6rungskarte_20260709-084221.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-10/725a228f-1deb-4ae0-8196-716a1643a7b3st%25C3%25B6rungskarte_20260709-084221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-10/725a228f-1deb-4ae0-8196-716a1643a7b3st%25C3%25B6rungskarte_20260709-084221.png",
           "info": "",
           "alt": "Störungskarte 09.07.2026 08:42:21",
           "openInNewTab": true
@@ -853,7 +1032,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.07.2026 00:34",
+      "lastModified": "10.07.2026 12:12",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
