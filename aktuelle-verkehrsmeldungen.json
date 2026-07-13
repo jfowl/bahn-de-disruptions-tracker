@@ -757,51 +757,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "ca78e698-4607-4040-81a4-258ef8533689",
-      "disruptionId": "6881a724-ce6a-4a23-b764-ef0b3ce3dcf6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S6 Haar - Kirchseeon: Reparatur an einem Signal",
-      "summary": "Auf der S6 kommt es in Richtung Ebersberg zu Verspätungen von bis zu 20 Minuten. Die S-Bahnen können zwischen Haar und Kirchseeon nur mit verminderter Geschwindigkeit fahren. ",
-      "text": "<p>Zusätzlich kommt es zu vorzeitigen Zugwenden.</p><p>Grund ist die Reparatur an einem Signal.</p>",
-      "durationBegin": "13.07.2026",
-      "durationEnd": "13.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6881a724-ce6a-4a23-b764-ef0b3ce3dcf6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-13/ac8c1d4e-d5d9-43b6-9ab9-c78b79c86094st%25C3%25B6rungskarte_20260713-212038.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-13/ac8c1d4e-d5d9-43b6-9ab9-c78b79c86094st%25C3%25B6rungskarte_20260713-212038.png",
-          "info": "",
-          "alt": "Störungskarte 13.07.2026 21:20:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.07.2026 21:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ca78e698-4607-4040-81a4-258ef8533689",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
       "id": "aa048324-26e0-4cef-9058-66ad312cc739",
       "disruptionId": "e0e0fafe-f735-46b9-9faf-1bd26de17c46",
       "author": "S_BAHN_MUC",
@@ -1328,6 +1283,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "348e1928-c68c-4e63-a66c-d1cf011e4955",
+      "disruptionId": "7bd55ab5-ac0f-476b-a110-5f773c0c2a98",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "S 1 Feldmoching ↔ Oberschleißheim: Technischer Defekt an einem anderen Zug",
+      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es zu Verspätungen von bis zu 25 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "13.07.2026",
+      "durationEnd": "13.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/7bd55ab5-ac0f-476b-a110-5f773c0c2a98",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-13/dd9ea190-41d1-4f09-bcc6-076fee4b2a6bst%25C3%25B6rungskarte_20260713-222747.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-13/dd9ea190-41d1-4f09-bcc6-076fee4b2a6bst%25C3%25B6rungskarte_20260713-222747.png",
+          "info": "",
+          "alt": "Störungskarte 13.07.2026 22:27:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.07.2026 22:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/348e1928-c68c-4e63-a66c-d1cf011e4955",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
