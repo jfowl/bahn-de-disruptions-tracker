@@ -418,51 +418,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "235bbec4-efbc-4ef2-98c8-17742dbda4fb",
-      "disruptionId": "ee35d0d6-9f08-4209-819f-7bd0cec754dd",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S6 Tutzing - Starnberg: Reparatur an der Oberleitung ",
-      "summary": "Zwischen Tutzing und Starnberg sind bis auf weiteres keine Zugfahrten möglich. ",
-      "text": "<p><strong>Wir haben einen Ersatzverkehr mit Taxis / Großraumtaxis für Sie eingerichtet.</strong></p><p>Zusätzlich kommt es zu Verspätungen von 15 bis 20 Minuten.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Oberleitung zwischen Tutzing und Starnberg.</p>",
-      "durationBegin": "16.07.2026",
-      "durationEnd": "17.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/ee35d0d6-9f08-4209-819f-7bd0cec754dd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/487c22df-ff6c-4b5e-9d95-8ac30da2cf5est%25C3%25B6rungskarte_20260716-223002.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/487c22df-ff6c-4b5e-9d95-8ac30da2cf5est%25C3%25B6rungskarte_20260716-223002.png",
-          "info": "",
-          "alt": "Störungskarte 16.07.2026 22:30:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.07.2026 00:20",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/235bbec4-efbc-4ef2-98c8-17742dbda4fb",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
-    },
-    {
       "id": "8a9204e7-785b-4185-aee7-75aba3587a87",
       "disruptionId": "0a186a35-c5d6-4364-b8c7-34707468ae0c",
       "author": "REGIO_BW",
@@ -799,8 +754,8 @@
       "mapHref": "https://karte.bahn.de/detail/e3845940-15b3-4f7e-b993-d9c76333ee17",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/1528fcf4-9f8e-4f18-8daf-91f79384ee6cst%25C3%25B6rungskarte_20260716-224430.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/1528fcf4-9f8e-4f18-8daf-91f79384ee6cst%25C3%25B6rungskarte_20260716-224430.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/dc8fb673-02bb-4eef-afa4-e3d48b724b60st%25C3%25B6rungskarte_20260716-224430.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/dc8fb673-02bb-4eef-afa4-e3d48b724b60st%25C3%25B6rungskarte_20260716-224430.png",
           "info": "",
           "alt": "Störungskarte 16.07.2026 22:44:30",
           "openInNewTab": true
@@ -816,12 +771,17 @@
       ],
       "lines": [
         {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.07.2026 23:27",
+      "lastModified": "17.07.2026 00:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
