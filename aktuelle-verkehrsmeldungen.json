@@ -68,8 +68,8 @@
         "label": "Technischer Defekt an einem anderen Zug"
       },
       "headline": "Beeinträchtigungen zwischen Hannover/Hildesheim und Göttingen",
-      "summary": "Aufgrund eines defekten Güterzuges, ist die Strecke zwischen Hannover/Hildesheim und Göttingen derzeit sehr ausgelastet. Dadurch kommt es zu Verspätungen von bis zu 30 min im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Verbindungen Hildesheim - Göttingen</li><li>ICE/ECE Verbindungen Hannover - Göttingen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines defekten Güterzuges, ist die Strecke zwischen Hannover/Hildesheim und Göttingen derzeit sehr ausgelastet. Dadurch kommt es zu Ausfällen und Verspätungen von bis zu 30 min im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin - Kassel-Wilhelmshöhe - Frankfurt (Main) - Mannheim - Basel - Schweiz/Stuttgart - München</li><li>ICE- und ECE-Züge zwischen Hamburg - Hannover - Kassel-Wilhelmshöhe - Frankfurt (Main) - Basel - Schweiz</li><li>ICE-Züge zwischen Hamburg - Hannover - Kassel-Wilhelmshöhe - Fulda - Nürnberg - München - Österreich</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "16.07.2026",
       "mapHref": "https://karte.bahn.de/detail/2f80eded-a00f-4feb-8008-0b3a957281d0",
       "images": [],
@@ -79,11 +79,22 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "HH",
         "BW",
         "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
         "NI",
-        "HE"
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
       ],
       "lines": [
         {
@@ -92,8 +103,8 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "16.07.2026 18:02",
-      "expand": false,
+      "lastModified": "16.07.2026 20:32",
+      "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a38cc52f-431d-4b9f-b89c-64dafe5191ff",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_vehicle"
@@ -186,14 +197,14 @@
       },
       "headline": "Streckensperrung zwischen Göttingen und Elze(Han) bis vsl. in die Abendstunden",
       "summary": "Aufgrund eines technischen Defektes an einem Güterzug ist auf der Strecke zwischen Göttingen und Elze(Han) heute bis voraussichtlich in die späten Abendstunden kein Zugverkehr möglich. Es kommt in beide Richtungen zu Verspätungen, Zugausfällen und einem Ersatzverkehr mit Bussen.",
-      "text": "<p>Betroffene Linien:&nbsp;</p><ul><li><strong>RE 2 (Göttingen - Hannover Hbf - Uelzen): </strong>Die Züge der Linie RE 2 fallen zwischen Göttingen und Elze(Han) aus. Folgende Züge fahren ohne Unterwegshalt: RE 82837 um 22:36 Uhr ab Hannover Hbf nach Göttingen. RE 82848 um 23:11 Uhr ab Göttingen nach Hannover Hbf.</li><li><strong>RB 80/81 (Göttingen/Bodenfelde – Nordhausen):</strong> Es kommt zu Verspätungen in beide Richtungen.</li><li><strong>RB 82 (Göttingen – Kreiensen – Bad Harzburg):</strong> Es kommt zu Verspätungen in beide Richtungen.</li><li><strong>RB 86 (Einbeck Mitte – Göttingen): </strong>Es kommt zu Verspätungen in beide Richtungen. Zugausfälle sind möglich.</li></ul><p>Ein Ersatzverkehr mit Bussen im Pendel zwischen Göttingen und Elze(Han) ist für Sie eingerichtet. Bitte beachten Sie, dass sich die Fahrzeiten der Busse je nach der aktuellen Verkehrslage verlängern können.</p><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 90 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf&nbsp;bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "text": "<p>Betroffene Linien:&nbsp;</p><ul><li><strong>RE 2 (Göttingen - Hannover Hbf - Uelzen): </strong>Die Züge der Linie RE 2 fallen zwischen Göttingen und Elze(Han) aus. Folgende Züge fahren ohne Unterwegshalt: RE 82837 um 22:36 Uhr ab Hannover Hbf nach Göttingen. RE 82848 um 23:11 Uhr ab Göttingen nach Hannover Hbf. RE 70212 ab Göttingen um 23:11 Uhr nach Hannover Hbf. </li><li><strong>RB 80/81 (Göttingen/Bodenfelde – Nordhausen):</strong> Es kommt zu Verspätungen in beide Richtungen.</li><li><strong>RB 82 (Göttingen – Kreiensen – Bad Harzburg):</strong> Es kommt zu Verspätungen in beide Richtungen.</li><li><strong>RB 86 (Einbeck Mitte – Göttingen): </strong>Es kommt zu Verspätungen in beide Richtungen. Zugausfälle sind möglich.</li></ul><p>Ein Ersatzverkehr mit Bussen im Pendel zwischen Göttingen und Elze(Han) ist für Sie eingerichtet. Bitte beachten Sie, dass sich die Fahrzeiten der Busse je nach der aktuellen Verkehrslage verlängern können.</p><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 90 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf&nbsp;bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "16.07.2026",
       "durationEnd": "17.07.2026",
       "mapHref": "https://karte.bahn.de/detail/37780059-115d-426e-acec-16bb9538c0d2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-16/e4311428-55d2-482f-812c-eb563e059db6st%25C3%25B6rungskarte_20260716-061148.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-16/e4311428-55d2-482f-812c-eb563e059db6st%25C3%25B6rungskarte_20260716-061148.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-16/f32bf2cc-d8eb-4df9-bd18-3dd61e8f4080st%25C3%25B6rungskarte_20260716-061148.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-16/f32bf2cc-d8eb-4df9-bd18-3dd61e8f4080st%25C3%25B6rungskarte_20260716-061148.png",
           "info": "",
           "alt": "Störungskarte 16.07.2026 06:11:48",
           "openInNewTab": true
@@ -202,14 +213,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         },
@@ -226,8 +237,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "http://bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -246,7 +257,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.07.2026 19:51",
+      "lastModified": "16.07.2026 21:30",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -461,114 +472,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8a9204e7-785b-4185-aee7-75aba3587a87",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_police_activity"
-    },
-    {
-      "id": "2f052e87-27b4-444c-ad4d-40893cc71182",
-      "disruptionId": "80f0b06f-77ff-4a50-92cd-e7943453bbdc",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Die Strecke zwischen Karlsruhe Hbf und Heidelberg Hbf ist im Moment gesperrt.",
-      "summary": "Der Grund ist ein Bombenfund.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Karlsruhe Hbf &lt;&gt; Heidelberg Hbf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE73 - Karlsruhe &lt;&gt; Bruchsal &lt;&gt; Heidelberg &lt;&gt; (Mannheim)</li><li>S3 - (Wörth(Rhein) &lt;&gt;) Germersheim &lt;&gt; Speyer &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Karlsruhe </li><li>S33 - Germersheim &lt;&gt; Graben-Neudorf &lt;&gt; Bruchsal</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge beginnen außerplanmäßig in Wiesloch-Walldorf.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Karlsruhe Hbf und Wiesloch-Walldorf für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "16.07.2026",
-      "durationEnd": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/80f0b06f-77ff-4a50-92cd-e7943453bbdc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-16/38b03880-1637-42ee-a8a1-0283ef538511st%25C3%25B6rungskarte_20260716-174454.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-16/38b03880-1637-42ee-a8a1-0283ef538511st%25C3%25B6rungskarte_20260716-174454.png",
-          "info": "",
-          "alt": "Störungskarte 16.07.2026 17:44:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 45",
-          "filterName": "RE 45",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 73",
-          "filterName": "RE 73",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Neckar",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Neckar",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Rhein-Neckar",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 33",
-          "filterName": "S 33 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.07.2026 19:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2f052e87-27b4-444c-ad4d-40893cc71182",
-      "magnoliaPath": "/aktuell/mitte/no_service_police_activity0"
-    },
-    {
-      "id": "e9eb18b7-3031-49f8-9ae9-2a0288acd3ad",
-      "disruptionId": "edaf5332-852e-41d0-a59f-6d5427429c77",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "Die Strecke zwischen Bruchsal und Graben-Neudorf ist im Moment gesperrt.",
-      "summary": "Der Grund ist ein Bombenfund.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Bruchsal &lt;&gt; Graben-Neudorf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S33 - Germersheim &lt;&gt; Graben-Neudorf &lt;&gt; Bruchsal</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zug endet außerplanmäßig in Graben-Neudorf.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "16.07.2026",
-      "durationEnd": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/edaf5332-852e-41d0-a59f-6d5427429c77",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 33",
-          "filterName": "S 33 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.07.2026 19:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e9eb18b7-3031-49f8-9ae9-2a0288acd3ad",
-      "magnoliaPath": "/aktuell/mitte/no_service_police_activity1"
     },
     {
       "id": "6e629893-41a7-4acc-ae2d-097596c53d92",
@@ -838,41 +741,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "67d79ca9-b728-432c-9bd3-15d5daa5794d",
-      "disruptionId": "3299d9e4-89c9-4c79-96e2-d36c808e6769",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Entschärfung einer Weltkriegsbombe in Bruchsal",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Bruchsal zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV Verbindungen zwischen Stuttgart und Karlsruhe werden umgeleitet, es entsteht eine Verspätung von ca 15 Minuten.</li><li>IC Verbindungen zwischen Mannheim und Karlsruhe werden umgeleitet. Die Halte Heidelberg Hbf, Wiesloch - Walldorf und Bruchsal entfallen. Die Umleitung erfolgt Verspätungsneutral.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/3299d9e4-89c9-4c79-96e2-d36c808e6769",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.07.2026 17:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/67d79ca9-b728-432c-9bd3-15d5daa5794d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
-    },
-    {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
       "disruptionId": "44d9c7db-81fe-4ea2-a54a-2ad74d10b0e5",
       "author": "REGIO_BW",
@@ -1063,6 +931,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "b34622c3-b6b0-468b-a484-9967815d54c9",
+      "disruptionId": "cb747bbb-a291-43ea-a250-251f835568b5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation Linie Stammstrecke Nächte Dienstag/Mittwoch, 14./15.7. bis Donnerstag/Freitag, 16./17.7.2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es in den Nächten von Nächste Dienstag/Mittwoch, 14./15.7. bis Donnerstag/Freitag, 16./17.7.2026, jeweils von 22:15 bis 5 Uhr, zwischen Pasing ↔ Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p></p><p><strong>‼️Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt.</strong></p><p>S1:</p><ul><li><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am&nbsp;<strong>Hauptbahnhof Gleis 27-35, kein Halt an der Hackerbrücke</strong></li></ul></li></ul><p>S2/S5:</p><ul><li><ul><li>Züge in/aus Richtung Petershausen beginnen/enden am<strong>&nbsp;Heimeranplatz Gleis 11</strong>&nbsp;und fahren von/bis&nbsp;<strong>Obermenzing ohne Halt im 30-Minuten-Takt</strong></li><li>Züge aus Richtung&nbsp;<strong>Erding</strong>&nbsp;fahren als&nbsp;<strong>S 5 zur Kreuzstraße</strong></li><li>Züge aus Richtung&nbsp;<strong>Kreuzstraße</strong>&nbsp;fahren als&nbsp;<strong>S 2 nach Erding</strong></li></ul></li></ul><p>S3:</p><ul><li><ul><li>Züge in/aus Richtung Mammendorf beginnen/enden am&nbsp;<strong>Ostbahnhof und fahren im 30-Minuten-Takt als einzige Linie auf der Stammstrecke</strong></li><li>Züge in/aus Richtung Holzkirchen beginnen/enden am&nbsp;<strong>Ostbahnhof Gleis 3/4</strong></li></ul></li></ul><p>S4:</p><ul><li><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in&nbsp;<strong>Pasing</strong></li><li>Züge in/aus Richtung Trudering&nbsp;<strong>fallen zwischen Trudering und Pasing aus</strong></li></ul></li></ul><p>S6:</p><p></p><ul><li><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am&nbsp;<strong>Ostbahnhof Gleis 2</strong></li><li>Züge in/aus Richtung Hauptbahnhof beginnen/enden am&nbsp;<strong>Hauptbahnhof Gleis 27-36 und fahren von/bis Pasing ohne Halt</strong></li></ul></li></ul><p>S8:</p><ul><li><ul><li>Züge in Richtung Flughafen/Airport fahren ab&nbsp;<strong>Pasing ohne Halt zum Ostbahnhof und weiter ohne Halt am Leuchtenbergring</strong>&nbsp;zum Flughafen/Airport</li><li>Züge in Richtung Herrsching fahren ab&nbsp;<strong>Daglfing ohne Halt am Leuchtenbergring zum Ostbahnhof und weiter ohne Halt bis Pasing&nbsp;</strong>nach Herrsching</li></ul></li></ul><p>➡️Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "14.07.2026",
+      "durationEnd": "17.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/cb747bbb-a291-43ea-a250-251f835568b5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d99f60d6-b2eb-4441-ac8f-98dfddfcbc73st%25C3%25B6rungskarte_20260611-003852.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d99f60d6-b2eb-4441-ac8f-98dfddfcbc73st%25C3%25B6rungskarte_20260611-003852.png",
+          "info": "",
+          "alt": "Störungskarte 11.06.2026 00:38:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/16dd05e2-a80c-430b-9ebc-a19c667c41bdFpl%252BESTW%252Beingl%252BMOP-MP%252BS%252B1-S%252B8%252B23%252BJuni-17%252BJuli%252B2026.pdf",
+          "label": "Stammstrecke S1-S8+23+Juni-17+Juli+2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.07.2026 20:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b34622c3-b6b0-468b-a484-9967815d54c9",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "71378a73-fd5f-4129-9b5f-9da39c3ccb72",
@@ -1287,25 +1237,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "d8b0a193-d559-4ce3-97a7-69a0b155d41f",
-      "disruptionId": "86744cb0-97d4-4dc8-bb2d-077bc908c349",
+      "id": "75deeb5a-a918-4902-b89b-cbb437729bcb",
+      "disruptionId": "57953328-8493-49a6-81b5-8e5bffeea62d",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 4, S 6 Grafing Bahnhof",
-      "summary": "Im Bereich Grafing Bahnhof kommt es noch zu Folgeverspätungen von 5 bis 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
+      "headline": "S 4, S 6 Trudering: Reparatur an einem Signal",
+      "summary": "Die Linie S4 wendet bis auf Weiteres am Leuchtenbergring.\nIm Bereich Trudering kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen, sowie vorzeitigen Wenden. ",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "16.07.2026",
       "durationEnd": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/86744cb0-97d4-4dc8-bb2d-077bc908c349",
+      "mapHref": "https://karte.bahn.de/detail/57953328-8493-49a6-81b5-8e5bffeea62d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/abf0c668-f512-43ba-b4a7-3a22a229eecdst%25C3%25B6rungskarte_20260716-192951.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/abf0c668-f512-43ba-b4a7-3a22a229eecdst%25C3%25B6rungskarte_20260716-192951.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d8f9669b-16c6-4c7a-8d80-744a409339cast%25C3%25B6rungskarte_20260716-204035.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d8f9669b-16c6-4c7a-8d80-744a409339cast%25C3%25B6rungskarte_20260716-204035.png",
           "info": "",
-          "alt": "Störungskarte 16.07.2026 19:29:51",
+          "alt": "Störungskarte 16.07.2026 20:40:35",
           "openInNewTab": true
         }
       ],
@@ -1319,17 +1269,22 @@
       ],
       "lines": [
         {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.07.2026 19:55",
+      "lastModified": "16.07.2026 20:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d8b0a193-d559-4ce3-97a7-69a0b155d41f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle0"
+      "detailPagePath": "/service/fahrplaene/75deeb5a-a918-4902-b89b-cbb437729bcb",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section17"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
