@@ -418,37 +418,75 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "8a9204e7-785b-4185-aee7-75aba3587a87",
-      "disruptionId": "0a186a35-c5d6-4364-b8c7-34707468ae0c",
-      "author": "REGIO_BW",
+      "id": "235bbec4-efbc-4ef2-98c8-17742dbda4fb",
+      "disruptionId": "ee35d0d6-9f08-4209-819f-7bd0cec754dd",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Die Strecke zwischen Bretten und Bruchsal ist im Moment gesperrt",
-      "summary": "Der Grund ist der Fund einer Weltkriegsbombe in Bruchsal.",
-      "text": "<p>Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Die Züge aus Richtung Mühlacker enden und beginnen in Bretten. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. </p><p><strong>Betroffene Linien: </strong></p><ul><li>RE 71 (Heidelberg – Bruchsal – Bretten – Mühlacker)</li><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li></ul><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Bretten Bahnhof &lt;&gt; Bruchsal Tunnelstraße<ul><li>mit Halt in Diedelsheim, Gondelsheim, Helmsheim, Heidelsheim</li></ul></li></ul><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan. Die erste Abfahrt in Bruchsal ist ca. um 19:45 Uhr</p><p></p><p>Bitte beachten Sie, dass auch die Linien RE 73, S1, S2, S3, S33 zwischen Heidelberg und Karlsruhe betroffen sind. Nähere Informationen zu den Auswirkungen finden Sie im beigefügten Link.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "S6 Tutzing - Starnberg: Reparatur an der Oberleitung ",
+      "summary": "Zwischen Tutzing und Starnberg sind bis auf weiteres keine Zugfahrten möglich. ",
+      "text": "<p>Zusätzlich kommt es zu Verspätungen von 15 bis 20 Minuten.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                        ist eine Reparatur an der Oberleitung       zwischen Tutzing und Starnberg.</p>",
       "durationBegin": "16.07.2026",
-      "durationEnd": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a186a35-c5d6-4364-b8c7-34707468ae0c",
+      "durationEnd": "17.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/ee35d0d6-9f08-4209-819f-7bd0cec754dd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/689ed2bd-7808-457a-b235-953871fc2de6st%25C3%25B6rungskarte_20260716-190647.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/689ed2bd-7808-457a-b235-953871fc2de6st%25C3%25B6rungskarte_20260716-190647.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/e0f9a850-d38a-40d9-bca6-c596b369e9dfst%25C3%25B6rungskarte_20260716-223002.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/e0f9a850-d38a-40d9-bca6-c596b369e9dfst%25C3%25B6rungskarte_20260716-223002.png",
           "info": "",
-          "alt": "Störungskarte 16.07.2026 19:06:47",
+          "alt": "Störungskarte 16.07.2026 22:30:02",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
         {
-          "href": "https://www.bahn.de/service/fahrplaene/2f052e87-27b4-444c-ad4d-40893cc71182",
-          "label": "Informationen zu den Linien RE 73, S1, S2, S3, S33",
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.07.2026 22:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/235bbec4-efbc-4ef2-98c8-17742dbda4fb",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
+    },
+    {
+      "id": "8a9204e7-785b-4185-aee7-75aba3587a87",
+      "disruptionId": "0a186a35-c5d6-4364-b8c7-34707468ae0c",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Die Strecke zwischen Bruchsal und Mühlacker ist im Moment gesperrt",
+      "summary": "Unwetterschäden in Bretten und Maulbronn West",
+      "text": "<p>Die Weltkriegsbombe in Bruchsal wurde entschärft und der Bahnhof wird wieder freigegeben. Die Strecke von Bruchsal nach Mühlacker bleibt aber aufgrund von Unwetterschäden weiterhin bis mindestens 17. Juli vormittags gesperrt. </p><p>Über die genaue Dauer der Beeinträchtigung liegen uns noch keine Informationen vor.  Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. </p><p><strong>Betroffene Linien: </strong></p><ul><li>RE 71 (Heidelberg – Bruchsal – Bretten – Mühlacker)</li><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li><li>MEX 17c (Bruchsal – Stuttgart)</li></ul><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Bruchsal &lt;&gt; Maulbronn West &lt;&gt; Mühlacker<ul><li>mit Halt in Heidelsheim, Helmsheim, Gondelsheim, Diedelsheim, Bretten</li></ul></li></ul><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.07.2026",
+      "durationEnd": "17.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/0a186a35-c5d6-4364-b8c7-34707468ae0c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/a6f2cdfc-9cdb-4190-a6d3-4c819bbf3327st%25C3%25B6rungskarte_20260716-210142.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/a6f2cdfc-9cdb-4190-a6d3-4c819bbf3327st%25C3%25B6rungskarte_20260716-210142.png",
           "info": "",
+          "alt": "Störungskarte 16.07.2026 21:01:42",
           "openInNewTab": true
         }
       ],
+      "downloads": [],
+      "links": [],
       "properties": [
         "REGIONAL"
       ],
@@ -465,9 +503,14 @@
           "name": "RE 71",
           "filterName": "RE 71",
           "property": "REGIONAL"
+        },
+        {
+          "name": "RE MEX17c",
+          "filterName": "RE MEX17c",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.07.2026 19:48",
+      "lastModified": "16.07.2026 21:57",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8a9204e7-785b-4185-aee7-75aba3587a87",
@@ -1235,56 +1278,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
-    },
-    {
-      "id": "75deeb5a-a918-4902-b89b-cbb437729bcb",
-      "disruptionId": "57953328-8493-49a6-81b5-8e5bffeea62d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 4, S 6 Trudering: Reparatur an einem Signal",
-      "summary": "Die Linie S4 wendet bis auf Weiteres am Leuchtenbergring.\nIm Bereich Trudering kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen, sowie vorzeitigen Wenden. ",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "16.07.2026",
-      "durationEnd": "16.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/57953328-8493-49a6-81b5-8e5bffeea62d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d8f9669b-16c6-4c7a-8d80-744a409339cast%25C3%25B6rungskarte_20260716-204035.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-16/d8f9669b-16c6-4c7a-8d80-744a409339cast%25C3%25B6rungskarte_20260716-204035.png",
-          "info": "",
-          "alt": "Störungskarte 16.07.2026 20:40:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.07.2026 20:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/75deeb5a-a918-4902-b89b-cbb437729bcb",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section17"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
