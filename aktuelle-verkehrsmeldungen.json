@@ -202,8 +202,8 @@
       "mapHref": "https://karte.bahn.de/detail/37780059-115d-426e-acec-16bb9538c0d2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-17/a6cb1e70-f7b1-4f27-abb8-94e9c0c4454ast%25C3%25B6rungskarte_20260716-061148.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-17/a6cb1e70-f7b1-4f27-abb8-94e9c0c4454ast%25C3%25B6rungskarte_20260716-061148.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-17/b01f2de1-385d-455a-97c8-f0d8068d0875st%25C3%25B6rungskarte_20260716-061148.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-17/b01f2de1-385d-455a-97c8-f0d8068d0875st%25C3%25B6rungskarte_20260716-061148.png",
           "info": "",
           "alt": "Störungskarte 16.07.2026 06:11:48",
           "openInNewTab": true
@@ -212,20 +212,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://www.bahnhof.de",
           "label": "Lageplan des Ersatzverkehrs",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         },
@@ -240,6 +234,12 @@
           "label": "bahn.de",
           "info": "",
           "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
         }
       ],
       "properties": [
@@ -251,12 +251,12 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 2",
+          "filterName": "RE 2",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.07.2026 10:56",
+      "lastModified": "17.07.2026 12:34",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -495,6 +495,56 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
+      "disruptionId": "9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Die Strecke zwischen Andernach und Kaisersesch ist bis auf Weiteres stark beeinträchtigt.",
+      "summary": "Der Grund ist eine Reparatur an der Strecke, bedingt durch den Ausfall der analogen Zugfunkanlage des Streckenbetreibers DB InfraGO.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Andernach &lt;&gt; Kaisersesch</p><p>🕜<strong>Über die Dauer der Beeinträchtigung können wir zum jetzigen Zeitpunkt leider keine zuverlässige Prognose treffen.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RB38 - Kaisersesch &lt;&gt; Mayen &lt;&gt; Mendig &lt;&gt; Andernach </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zugverkehr auf der Linie RB 38 wird ab dem 18.07.26 wieder aufgenommen. Um die Strecke zu entlasten entfallen weiterhin die Züge der Linie RB 23 zwischen Mayen Ost und Andernach.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr für die RB 23 ist mit Bussen zwischen Andernach und Mayen Ost eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "14.07.2026",
+      "durationEnd": "20.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-17/72d59540-d474-43fd-b122-0e2271434843st%25C3%25B6rungskarte_20260714-102813.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-17/72d59540-d474-43fd-b122-0e2271434843st%25C3%25B6rungskarte_20260714-102813.png",
+          "info": "",
+          "alt": "Störungskarte 14.07.2026 10:28:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 23",
+          "filterName": "RB 23",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.07.2026 12:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/98c6c1e7-6457-4f53-97e3-e98b28f6a826",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
+    },
+    {
       "id": "8a9204e7-785b-4185-aee7-75aba3587a87",
       "disruptionId": "0a186a35-c5d6-4364-b8c7-34707468ae0c",
       "author": "REGIO_BW",
@@ -503,15 +553,15 @@
         "label": "Witterungsbedingte Beeinträchtigungen"
       },
       "headline": "Die Strecke zwischen Bretten und Mühlacker ist im Moment gesperrt",
-      "summary": "Die Strecke von Bretten nach Mühlacker bleibt aufgrund von Unwetterschäden in Maulbronn West weiterhin bis mindestens 18. Juli, 10:00 Uhr gesperrt. ",
-      "text": "<p>Die Züge aus Richtung Heidelberg Hbf/Bruchsal enden und beginnen in Bretten. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. Die Busse fahren in Bretten und Mühlacker jeweils zur Minute 10 und 40 ab. Den Busfahrplan finden Sie weiter unten im Anhang.</p><p><strong>Betroffene Linien: </strong></p><ul><li>RE 71 (Heidelberg – Bruchsal – Bretten – Mühlacker)</li><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li><li>MEX 17c (Bruchsal – Stuttgart)</li></ul><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Bretten &lt;&gt; Maulbronn West &lt;&gt; Mühlacker</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "summary": "Die Strecke von Bretten nach Mühlacker bleibt aufgrund von Unwetterschäden in Maulbronn West weiterhin bis 17. Juli, Tagesende gesperrt. Ab dem 18. Juli finden auf dieser Strecke reguläre Bauarbeiten mit Ersatzverkehr statt. ",
+      "text": "<p>Die Züge aus Richtung Heidelberg Hbf/Bruchsal enden und beginnen in Bretten. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. Die Busse fahren in Bretten und Mühlacker jeweils zur Minute 10 und 40 ab. Den Busfahrplan finden Sie weiter unten im Anhang.</p><p><strong>Betroffene Linien: </strong></p><ul><li>RE 71 (Heidelberg – Bruchsal – Bretten – Mühlacker)</li><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li><li>MEX 17c (Bruchsal – Stuttgart)</li></ul><p><strong>Ersatzverkehr mit Bussen:</strong></p><ul><li>Bretten &lt;&gt; Maulbronn West &lt;&gt; Mühlacker mit allen Unterwegshalten</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "16.07.2026",
-      "durationEnd": "18.07.2026",
+      "durationEnd": "17.07.2026",
       "mapHref": "https://karte.bahn.de/detail/0a186a35-c5d6-4364-b8c7-34707468ae0c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/655cc0e4-dc6c-4a0c-8c71-75ed6a73bfa9st%25C3%25B6rungskarte_20260716-210142.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/655cc0e4-dc6c-4a0c-8c71-75ed6a73bfa9st%25C3%25B6rungskarte_20260716-210142.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/08b4d7db-6ab8-47b9-9897-7de0992a8100st%25C3%25B6rungskarte_20260716-210142.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/08b4d7db-6ab8-47b9-9897-7de0992a8100st%25C3%25B6rungskarte_20260716-210142.png",
           "info": "",
           "alt": "Störungskarte 16.07.2026 21:01:42",
           "openInNewTab": true
@@ -519,13 +569,20 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/cb495806-7cdd-4485-9c2f-aa91cdd70edfKundenfahrplan_SEV_RB71_Bretten_Muehlacker_Mo-Fr%2B1.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-17/3c29b32b-96ef-469f-8f86-9e4c86b0698fKundenfahrplan_SEV_RB71_Bretten_Muehlacker_Mo-Fr%2B1.pdf",
           "label": "Kundenfahrplan_SEV_RB71_Bretten_Muehlacker_Mo-Fr 1.pdf",
           "info": "",
           "openInNewTab": true
         }
       ],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/20a5dd4a-8fb4-4640-90a5-2d2847da56f0",
+          "label": "Bauarbeiten Bretten - Mühlacker",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -549,7 +606,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.07.2026 11:12",
+      "lastModified": "17.07.2026 11:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -629,56 +686,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/6e629893-41a7-4acc-ae2d-097596c53d92",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
-      "disruptionId": "9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Die Strecke zwischen Andernach und Kaisersesch ist bis auf Weiteres stark beeinträchtigt.",
-      "summary": "Der Grund ist eine Reparatur an der Strecke, bedingt durch den Ausfall der analogen Zugfunkanlage des Streckenbetreibers DB InfraGO.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Andernach &lt;&gt; Kaisersesch</p><p>🕜<strong>Über die Dauer der Beeinträchtigung können wir zum jetzigen Zeitpunkt leider keine zuverlässige Prognose treffen.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RB38 - Kaisersesch &lt;&gt; Mayen &lt;&gt; Mendig &lt;&gt; Andernach </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Um die Strecke zu entlasten entfallen die Züge der Linie RB 23 zwischen Mayen Ost und Andernach. Die Züge der Linie RB 38 verkehren nur zwischen Mayen Ost und Andernach und entfallen zwischen Mayen Ost und Kaisersesch.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr für die RB 23 ist mit Bussen zwischen Andernach und Mayen Ost eingerichtet. Für die RB 38 ist ebenfalls ein Ersatzverkehr mit Bussen zwischen Mayen Ost und Kaisersesch eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "14.07.2026",
-      "durationEnd": "17.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-15/e035b578-3a81-4392-8a0b-e911a120683bst%25C3%25B6rungskarte_20260714-102813.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-15/e035b578-3a81-4392-8a0b-e911a120683bst%25C3%25B6rungskarte_20260714-102813.png",
-          "info": "",
-          "alt": "Störungskarte 14.07.2026 10:28:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 23",
-          "filterName": "RB 23",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 38",
-          "filterName": "RB 38",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.07.2026 07:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/98c6c1e7-6457-4f53-97e3-e98b28f6a826",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
     },
     {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
@@ -1128,6 +1135,70 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "bd111434-17fa-448c-b4ae-c00b775c40a3",
+      "disruptionId": "ea45155a-4d14-4829-af6c-7a5dff6930e6",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Magdeburg Hbf ⇄ Stendal Hbf - Ersatzverkehr",
+      "summary": "Verlängerte Baumaßnahme! \n\nDatum: Sonntag, 12.07.2026, 06:00 Uhr bis Montag, 20.07.2026, 18:00 Uhr",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li><strong>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</strong></li><li><strong>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</strong></li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge fallen zwischen Magdeburg Hbf und Zielitz / Stendal Hbf aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Es fährt ein Ersatzverkehr mit Bus. </p><p>Für die <strong>S1</strong> verkehrt zwischen Stendal und Zielitz ein Ersatzverkehr mit allen Unterwegs Halten.</p><p>Für den <strong>RE20</strong> verkehrt zwischen Stendal und Magdeburg Hbf ein Ersatzverkehr ohne Zwischenhalte.</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "12.07.2026",
+      "durationEnd": "20.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/ea45155a-4d14-4829-af6c-7a5dff6930e6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-17/9ce76ffa-cbef-4fb6-89e5-dbb0626ab26ast%25C3%25B6rungskarte_20260707-230912.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-17/9ce76ffa-cbef-4fb6-89e5-dbb0626ab26ast%25C3%25B6rungskarte_20260707-230912.png",
+          "info": "",
+          "alt": "Störungskarte 07.07.2026 23:09:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-17/da3cbacf-5d6e-42cf-b7e7-ff20f2958c8cErsatzfahrplan%2BS1%252CRE%2B20%2Bg%25C3%25BCltig%2B12.Juli%2Bbis%2B17.Juli%2B2026%2BRichtung%2BZielitz-Magdeburg.pdf",
+          "label": "Ersatzfahrplan S1,RE 20 gültig 12.Juli bis 17.Juli 2026 Richtung Zielitz-Magdeburg.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-17/51456fb3-e886-4290-9d72-ccf05c1cfc3cErsatzfahrplan%2BS1%252CRE%2B20%2Bg%25C3%25BCltig%2B12.Juli%2Bbis%2B17.Juli%2B2026%2BRichtung%2BStendal.pdf",
+          "label": "Ersatzfahrplan S1,RE 20 gültig 12.Juli bis 17.Juli 2026 Richtung Stendal.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.07.2026 12:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bd111434-17fa-448c-b4ae-c00b775c40a3",
+      "magnoliaPath": "/aktuell/suedost/additional_service_construction4"
+    },
+    {
       "id": "10bec4fb-6393-42d9-97b6-b230bf7f8602",
       "disruptionId": "07476eab-255a-44fb-9042-ae35d7328953",
       "author": "REGIO_SUEDOST",
@@ -1234,6 +1305,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "82472012-92ba-4b00-9d88-ad9133202869",
+      "disruptionId": "485a3ced-d5c8-430b-8e9a-15c5a8fb923a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Icking: Reparatur an einem Signal",
+      "summary": "Zwischen Ebenhausen-Schäftlarn und Icking kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>In diesem Bereich verkehren die Züge der Linie S 7 mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "17.07.2026",
+      "durationEnd": "17.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/485a3ced-d5c8-430b-8e9a-15c5a8fb923a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/5fa23674-7bb3-40a5-b12b-f095bbab2805st%25C3%25B6rungskarte_20260717-115858.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-17/5fa23674-7bb3-40a5-b12b-f095bbab2805st%25C3%25B6rungskarte_20260717-115858.png",
+          "info": "",
+          "alt": "Störungskarte 17.07.2026 11:58:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.07.2026 12:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/82472012-92ba-4b00-9d88-ad9133202869",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section20"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
