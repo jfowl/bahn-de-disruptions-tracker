@@ -297,51 +297,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "10b975b4-9fb9-488d-afc4-a9c7d328e334",
-      "disruptionId": "ec41948d-39e1-4e45-be8c-aada21d112c2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S7 Höllriegelskreuth - Hauptbahnhof: Reparatur an der Weiche",
-      "summary": "Zwischen Höllriegelskreuth und Hauptbahnhof sind bis auf weiteres keine Zugfahrten möglich. ",
-      "text": "<p>Wir haben einen Ersatzverkehr mit Taxis für Sie eingerichtet.</p><p>Bitte nutzen Sie nur die Taxis (Großraumtaxis) mit speziell gekennzeichneter \"Ersatzverkehr\"- Beschilderung.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Weiche am Heimeranplatz.</p><p></p>",
-      "durationBegin": "19.07.2026",
-      "durationEnd": "19.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/ec41948d-39e1-4e45-be8c-aada21d112c2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-19/d2d421f3-ca99-40cc-bd6d-36e8e84e3918st%25C3%25B6rungskarte_20260719-053713.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-19/d2d421f3-ca99-40cc-bd6d-36e8e84e3918st%25C3%25B6rungskarte_20260719-053713.png",
-          "info": "",
-          "alt": "Störungskarte 19.07.2026 05:37:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.07.2026 05:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/10b975b4-9fb9-488d-afc4-a9c7d328e334",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section12"
-    },
-    {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
       "disruptionId": "9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
       "author": "REGIO_MITTE",
@@ -605,6 +560,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "10b975b4-9fb9-488d-afc4-a9c7d328e334",
+      "disruptionId": "ec41948d-39e1-4e45-be8c-aada21d112c2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S7 Höllriegelskreuth: Reparatur Signal",
+      "summary": "Zwischen Höllriegelskreuth und Hauptbahnhof ist der Zugverkehr wieder aufgenommen.",
+      "text": "<p>Es kommt weiterhin zu Verspätungen von bis zu 10 Minuten.</p><p>Die Reparatur an einem Signal in Höllriegelskreuth dauert an.</p>",
+      "durationBegin": "19.07.2026",
+      "durationEnd": "19.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec41948d-39e1-4e45-be8c-aada21d112c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-19/41e65b23-8bb8-4462-9723-fa1ac73a1340st%25C3%25B6rungskarte_20260719-080932.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-19/41e65b23-8bb8-4462-9723-fa1ac73a1340st%25C3%25B6rungskarte_20260719-080932.png",
+          "info": "",
+          "alt": "Störungskarte 19.07.2026 08:09:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.07.2026 08:11",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/10b975b4-9fb9-488d-afc4-a9c7d328e334",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section12"
     },
     {
       "id": "4dd0c1c0-9753-4252-8793-439fae1b8f0a",
