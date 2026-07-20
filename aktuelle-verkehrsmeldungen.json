@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5149a4a5-b292-4a35-970b-572d76ee7c24",
+      "disruptionId": "b14ac4d2-c9cf-45fe-a8d8-becbf793984f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover  und Göttingen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Sind Züge von Hannover richtung Göttingen. </li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/b14ac4d2-c9cf-45fe-a8d8-becbf793984f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-20/3bb8fead-2bfb-4a1c-b5b6-ba8c212a313cst%25C3%25B6rungskarte_20260720-171410.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-20/3bb8fead-2bfb-4a1c-b5b6-ba8c212a313cst%25C3%25B6rungskarte_20260720-171410.png",
+          "info": "",
+          "alt": "Störungskarte 20.07.2026 17:14:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "HB",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.07.2026 17:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/5149a4a5-b292-4a35-970b-572d76ee7c24",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "641d3bc8-82df-4958-9df2-3e96a8df4164",
       "disruptionId": "e552d3ad-a876-47d0-b000-3a3e95b9f03f",
       "author": "FERNVERKEHR_AG",
@@ -1031,70 +1077,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "6e2c62b0-3d4b-4e00-b7a2-9f43ceebca6f",
-      "disruptionId": "876b8873-b23e-487f-9d5d-86944d4d0176",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Erdweg ↔ Dachau: Reparatur an einem Signal",
-      "summary": "Zwischen Erdweg und Dachau kommt es zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "20.07.2026",
-      "durationEnd": "20.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/876b8873-b23e-487f-9d5d-86944d4d0176",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/5231d2d8-fc73-4a78-9db6-0886906e19f4st%25C3%25B6rungskarte_20260720-142816.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/5231d2d8-fc73-4a78-9db6-0886906e19f4st%25C3%25B6rungskarte_20260720-142816.png",
-          "info": "",
-          "alt": "Störungskarte 20.07.2026 14:28:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.07.2026 14:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6e2c62b0-3d4b-4e00-b7a2-9f43ceebca6f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "c3f7061b-e4da-4e5f-8a59-8ec19751a71a",
       "disruptionId": "abd302be-b2c8-4c7d-9193-857906899eb2",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Defektes Stellwerk"
       },
-      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Icking: Reparatur an einem Signal",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Icking kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit. </p><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Icking: Defektes Stellwerk",
+      "summary": "Zwischen Ebenhausen-Schäftlarn und Icking sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Baierbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Großraumtaxis zwischen Baierbrunn und Wolfratshausen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
       "durationBegin": "20.07.2026",
       "durationEnd": "20.07.2026",
       "mapHref": "https://karte.bahn.de/detail/abd302be-b2c8-4c7d-9193-857906899eb2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/718968e4-f77e-451d-9d8f-b0650dca7868st%25C3%25B6rungskarte_20260720-103239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/718968e4-f77e-451d-9d8f-b0650dca7868st%25C3%25B6rungskarte_20260720-103239.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/2441cdcb-7de1-4dd2-9503-75f9890b8c4dst%25C3%25B6rungskarte_20260720-160038.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-20/2441cdcb-7de1-4dd2-9503-75f9890b8c4dst%25C3%25B6rungskarte_20260720-160038.png",
           "info": "",
-          "alt": "Störungskarte 20.07.2026 10:32:39",
+          "alt": "Störungskarte 20.07.2026 16:00:38",
           "openInNewTab": true
         }
       ],
@@ -1113,8 +1114,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.07.2026 14:17",
-      "expand": false,
+      "lastModified": "20.07.2026 17:04",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c3f7061b-e4da-4e5f-8a59-8ec19751a71a",
