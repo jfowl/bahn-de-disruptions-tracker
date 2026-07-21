@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "disruptionId": "6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "⚠️🟣🔵S3 S5: technische Störung an der Strecke",
-      "summary": "Auf den Linien 🟣S3 und 🔵S5 kommt es aktuell aufgrund einer technischen Störung an der Strecke im Bereich Wilhelmsburg zu Ausfällen und Verspätungen. ⚠️Die Linie S5 fährt nur zwischen Neugraben und Buxtehude / Stade.",
-      "text": "<p>.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 19:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -297,25 +253,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "5832f7aa-03e2-4b95-9d64-7326f139a810",
-      "disruptionId": "0cac63a9-1699-48a2-a5e8-9864b5ec993c",
+      "id": "1f6dbda8-6962-44ba-9f72-a361eacd7a0c",
+      "disruptionId": "76c7a78d-e839-4e27-a5a1-ab5b621d03fc",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Beschädigung einer Brücke"
       },
-      "headline": "Endmeldung: S 1 Moosach ↔ Laim",
-      "summary": "Zwischen Moosach und Laim, sowie zwischen Neufahrn und Freising ist die Strecke wieder freigegeben.",
-      "text": "<p>Der Ersatzverkehr mit Bussen zwischen Neufahrn und Freising wird um 20:00 Uhr eingestellt.</p><p>Es kommt noch zu Verspätungen und vorzeitigen Wenden.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "headline": "Endmeldung: S 6 Planegg ↔ Gauting",
+      "summary": "Zwischen Planegg und Gauting ist die Strecke wieder freigegeben.",
+      "text": "<p>Der Ersatzverkehr mit einem Bus und Großraumtaxis wird um 22:10 Uhr eingestellt.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die Brücke wurde begutachtet und ist wieder uneingeschränkt befahrbar.</p>",
       "durationBegin": "21.07.2026",
       "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/0cac63a9-1699-48a2-a5e8-9864b5ec993c",
+      "mapHref": "https://karte.bahn.de/detail/76c7a78d-e839-4e27-a5a1-ab5b621d03fc",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/be723c01-3f2c-434a-b9f6-bd4639fc2cdfst%25C3%25B6rungskarte_20260721-180639.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/be723c01-3f2c-434a-b9f6-bd4639fc2cdfst%25C3%25B6rungskarte_20260721-180639.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/1d05a191-7a98-4da9-863b-49e102fb4d9fst%25C3%25B6rungskarte_20260721-202514.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/1d05a191-7a98-4da9-863b-49e102fb4d9fst%25C3%25B6rungskarte_20260721-202514.png",
           "info": "",
-          "alt": "Störungskarte 21.07.2026 18:06:39",
+          "alt": "Störungskarte 21.07.2026 20:25:14",
           "openInNewTab": true
         }
       ],
@@ -329,17 +285,22 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 18:43",
+      "lastModified": "21.07.2026 21:49",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5832f7aa-03e2-4b95-9d64-7326f139a810",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
+      "detailPagePath": "/service/fahrplaene/1f6dbda8-6962-44ba-9f72-a361eacd7a0c",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section12"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -460,6 +421,91 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
     },
     {
+      "id": "0f4d9298-6d61-4146-b640-b08d93108714",
+      "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Nürnberg Hbf - Hersbruck(r Pegnitz) - Pegnitz - Bayreuth Hbf",
+      "summary": "Technische Überprüfungen an mehreren Brücken im Pegnitztal erforderlich / Streckensperrung / Ersatzverkehr mit Bussen / Beeinträchtigungen",
+      "text": "<p>Der Infrastrukturbetreiber DB InfraGo hat uns mitgeteilt, <strong>dass weiterhin, aufgrund technischer Überprüfungen und Schäden an mehreren Brücken im Pegnitztal, die Strecke zwischen Hersbruck(r) und Neuhaus(Pegnitz) bis 14. September 2026 gesperrt bleibt.</strong></p><p><strong>Sie finden das Fahrplankonzept in der Fahrplanauskunft auf Bahn.de und im DB Navigator.</strong></p><p><strong>Die Züge der Linien:</strong></p><ul><li><strong>RE 30 / RE 32 / RE 38 </strong>enden von Norden kommend im <strong>Halbstundentakt in Neuhaus(Pegnitz)</strong>. Die Züge entfallen zwischen Neuhaus(Pegnitz) - Nürnberg Hbf<strong>. </strong></li><li><strong>RB 30 </strong>endet von Nürnberg Hbf kommend in Hersbruck(r Pegnitz). Die Züge entfallen zwischen Hersbruck(r Pegnitz) - Neuhaus (Pegnitz).</li><li><strong>RE 31: </strong>Im 2- bzw. 3-Stundentakt, durchgehende Verbindungen zwischen Hof Hbf und Nürnberg Hbf, die über Marktredwitz umgeleitet werden.</li></ul><p><strong>**! Vom 31.08. - 06.09.26 enden die Züge </strong>von Norden kommend aufgrund von zusätzlichen Sanierungen<strong> in Pegnitz !**</strong></p><p><strong>Zwischen Hersbruck(r) und Nürnberg</strong> verkehren auf der rechten Pegnitzstrecke die Züge der RE-Linie 40/41 und die RB-Züge der Mittelfrankenbahn, auf der linken Pegnitzstrecke die Züge der S-Bahn Nürnberg.</p><p>Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:</p><ul><li>Zwischen <strong>Neuhaus(Pegnitz) und Hersbruck(r Pegnitz) </strong>verkehren stündlich Busse <strong>mit allen Unterwegshalten.</strong></li><li><strong>Im Zeitraum vom 31. August - 06. September 2026 verkehren anschließende Pendelbusse zwischen Pegnitz -  Neuhaus(Pegnitz)</strong></li></ul><p>** Bitte beachten Sie, die Ersatzverkehr-Haltestelle in Rupprechtstegen in Fahrtrichtung Hersbruck wurde verlegt. Die neue Ersatzhaltestelle befindet sich in der Ortsmitte, am Schlauchturm. **</p><p></p><ul><li>Zwischen <strong>Bayreuth Hbf - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen<strong> Pegnitz - Nürnberg Hbf</strong> verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen <strong>Neuhaus(Pegnitz) - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li></ul><p><strong>Bitte informieren Sie sich in den Onlinemedien www.bahn.de und im DB Navigator über Zugausfälle und mögliche Verbindungen.</strong></p><p>Den Fahrplan der Ersatzbusse und den Fahrplan für die Umleiterzüge finden Sie im Anhang als PDF.</p>",
+      "durationBegin": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/faefed97-5b46-4f8a-a8ec-d691d4e8e4b0Br%25C3%25BCckensperrung%2BPegnitztal%2B4.5.%2B-%2B14.9.2026%2B%2BAnpassung.pdf",
+          "label": "Brückensperrung Pegnitztal 4.5. - 14.9.2026  Anpassung.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-Zugverkehr-wird-stufenweise-aufgenommen-13772780",
+          "label": "Pressemeldung 17.03.2026",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-dauert-voraussichtlich-bis-Mitte-naechsten-Jahres-13601882#",
+          "label": "Pressemeldung 05.11.2025",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 30",
+          "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 31",
+          "filterName": "RE 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 33",
+          "filterName": "RE 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 38",
+          "filterName": "RE 38",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.07.2026 20:22",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "disruptionId": "8e9951f8-cc45-466f-ab7f-a61724e18fce",
       "author": "REGIO_BY",
@@ -516,91 +562,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "0f4d9298-6d61-4146-b640-b08d93108714",
-      "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Nürnberg Hbf - Hersbruck(r Pegnitz) - Pegnitz - Bayreuth Hbf",
-      "summary": "Technische Überprüfungen an mehreren Brücken im Pegnitztal erforderlich / Streckensperrung / Ersatzverkehr mit Bussen / Beeinträchtigungen",
-      "text": "<p>Der Infrastrukturbetreiber DB InfraGo hat uns mitgeteilt, <strong>dass weiterhin, aufgrund technischer Überprüfungen und Schäden an mehreren Brücken im Pegnitztal, die Strecke zwischen Hersbruck(r) und Neuhaus(Pegnitz) bis 14. September 2026 gesperrt bleibt.</strong></p><p><strong>Ab sofort finden Sie das neue Fahrplankonzept in der Fahrplanauskunft auf Bahn.de und im DB Navigator.</strong></p><p><strong>Die Züge der Linien:</strong></p><ul><li><strong>RE 30 / RE 32 / RE 38 </strong>enden von Norden kommend im <strong>Halbstundentakt in Neuhaus(Pegnitz)</strong>. Die Züge entfallen zwischen Neuhaus(Pegnitz) - Nürnberg Hbf.</li><li><strong>RB 30 </strong>endet von Nürnberg Hbf kommend in Hersbruck(r Pegnitz). Die Züge entfallen zwischen Hersbruck(r Pegnitz) - Neuhaus (Pegnitz).</li><li><strong>RE 31: </strong>Im 2- bzw. 3-Stundentakt, durchgehende Verbindungen zwischen Hof Hbf und Nürnberg Hbf, die über Marktredwitz umgeleitet werden.</li></ul><p><strong>Zwischen Hersbruck(r) und Nürnberg</strong> verkehren auf der rechten Pegnitzstrecke die Züge der RE-Linie 40/41 und die RB-Züge der Mittelfrankenbahn, auf der linken Pegnitzstrecke die Züge der S-Bahn Nürnberg.</p><p>Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:</p><ul><li>Zwischen <strong>Neuhaus(Pegnitz) und Hersbruck(r Pegnitz) </strong>verkehren stündlich Busse <strong>mit allen Unterwegshalten.</strong></li></ul><p>** Bitte beachten Sie, die Ersatzverkehr-Haltestelle in Rupprechtstegen in Fahrtrichtung Hersbruck wurde verlegt. Die neue Ersatzhaltestelle befindet sich in der Ortsmitte, am Schlauchturm. **</p><ul><li>Zwischen <strong>Bayreuth Hbf - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen<strong> Pegnitz - Nürnberg Hbf</strong> verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen <strong>Neuhaus(Pegnitz) - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li></ul><p><strong>Bitte informieren Sie sich in den Onlinemedien www.bahn.de und im DB Navigator über Zugausfälle und mögliche Verbindungen.</strong></p><p>Den Fahrplan der Ersatzbusse und den Fahrplan für die Umleiterzüge finden Sie im Anhang als PDF.</p>",
-      "durationBegin": "18.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-15/c6f5ce78-7a3b-4fdd-9269-6dc17dfbbf62Br%25C3%25BCckensperrung%2BPegnitztal%2B4.5.%2B-%2B14.9.2026.pdf",
-          "label": "Brückensperrung Pegnitztal 4.5. - 14.9.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-dauert-voraussichtlich-bis-Mitte-naechsten-Jahres-13601882#",
-          "label": "Pressemeldung 05.11.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-Zugverkehr-wird-stufenweise-aufgenommen-13772780",
-          "label": "Pressemeldung 17.03.2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 30",
-          "filterName": "RB 30 Nürnberg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 31",
-          "filterName": "RE 31",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 32",
-          "filterName": "RE 32",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 33",
-          "filterName": "RE 33",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 38",
-          "filterName": "RE 38",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2026 06:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
@@ -981,131 +942,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "27f5c90e-479f-4bb0-be51-c3f313ecab85",
-      "disruptionId": "9f454214-eb3e-49ae-9d74-712807e8043a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist die vorangegangene Zugfolgeverspätung in Verbindung mit der Streckensperrung zwischen Laim und Moosach.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/9f454214-eb3e-49ae-9d74-712807e8043a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/fcdef694-7823-4307-87ba-dfd6e7ed6f6est%25C3%25B6rungskarte_20260721-172817.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/fcdef694-7823-4307-87ba-dfd6e7ed6f6est%25C3%25B6rungskarte_20260721-172817.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 17:28:17",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 19:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/27f5c90e-479f-4bb0-be51-c3f313ecab85",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
-    },
-    {
-      "id": "ec937734-3af3-4942-8747-a21d3114245f",
-      "disruptionId": "cc8c0597-4271-46b4-b19a-f689ecfe5ce2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 3 Unterhaching ↔ Ostbahnhof: Reparatur an einem Signal",
-      "summary": "Zwischen Unterhaching und Ostbahnhof kommt es zu Verspätungen von 15 bis 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/cc8c0597-4271-46b4-b19a-f689ecfe5ce2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a18ccd0c-d429-4b90-8db3-5b11ef3cfd30st%25C3%25B6rungskarte_20260721-174632.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a18ccd0c-d429-4b90-8db3-5b11ef3cfd30st%25C3%25B6rungskarte_20260721-174632.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 17:46:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 19:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ec937734-3af3-4942-8747-a21d3114245f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
-    },
-    {
       "id": "725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
       "disruptionId": "6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "author": "S_BAHN_MUC",
@@ -1117,12 +953,12 @@
       "summary": "Zwischen München Hbf und Donnersbergerbrücke kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
       "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit. </p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Hauptbahnhof.</p>",
       "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
+      "durationEnd": "22.07.2026",
       "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/1c91e0d3-da2e-4b9e-b2cf-2c163e8af00est%25C3%25B6rungskarte_20260721-100954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/1c91e0d3-da2e-4b9e-b2cf-2c163e8af00est%25C3%25B6rungskarte_20260721-100954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/44bbdcd8-4c60-4ec4-977e-48b56f5aa9b0st%25C3%25B6rungskarte_20260721-100954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/44bbdcd8-4c60-4ec4-977e-48b56f5aa9b0st%25C3%25B6rungskarte_20260721-100954.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 10:09:54",
           "openInNewTab": true
@@ -1143,7 +979,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 19:35",
+      "lastModified": "21.07.2026 20:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1166,8 +1002,8 @@
       "mapHref": "https://karte.bahn.de/detail/1c31880a-476b-4723-bdc7-f32af88d201f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/08758672-4640-42f9-9eef-565cac34aea2st%25C3%25B6rungskarte_20260721-184450.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/08758672-4640-42f9-9eef-565cac34aea2st%25C3%25B6rungskarte_20260721-184450.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a21b6fca-fde8-455a-a746-31d3827b7846st%25C3%25B6rungskarte_20260721-184450.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a21b6fca-fde8-455a-a746-31d3827b7846st%25C3%25B6rungskarte_20260721-184450.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 18:44:50",
           "openInNewTab": true
@@ -1188,57 +1024,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 19:35",
+      "lastModified": "21.07.2026 20:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/e4504fcb-328c-4e4c-a89b-405d72e30528",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
-    },
-    {
-      "id": "bbb908c3-8ae8-49c9-acf5-dc4f4265c47b",
-      "disruptionId": "d5368786-c172-4c65-82c2-69dea352f109",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Mittersendling ↔ Höllriegelskreuth: Reparatur an einem Signal",
-      "summary": "Zwischen Mittersendling und Höllriegelskreuth kommt es zu Verspätungen von 10 bis 15 Minuten. Bitte beachten Sie außerdem die planmäßigen Bauarbeiten auf der Linie zwischen Höllriegelskreuth und Wolfratshausen. ",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/d5368786-c172-4c65-82c2-69dea352f109",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/62450368-acb8-4d8b-a9c9-cee65446d7bast%25C3%25B6rungskarte_20260721-192258.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/62450368-acb8-4d8b-a9c9-cee65446d7bast%25C3%25B6rungskarte_20260721-192258.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 19:22:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 19:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bbb908c3-8ae8-49c9-acf5-dc4f4265c47b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
