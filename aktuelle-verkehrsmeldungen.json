@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3014c4fa-b909-4246-a366-fd8ae18b4f2e",
+      "disruptionId": "6e78f15c-49ec-4568-8b21-eeb7cc077879",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S3 S5: S5 fährt wieder zwischen Elbagustraße und Stade",
+      "summary": "Die technische Störung an der Strecke ist behoben. Die S5 fährt wieder zwischen Elbgaustraße und Stade. Es kann auf den Linien S3 und S5 noch weiterhin zu Verspätungen kommen.",
+      "text": "<p>.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6e78f15c-49ec-4568-8b21-eeb7cc077879",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.07.2026 14:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3014c4fa-b909-4246-a366-fd8ae18b4f2e",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -77,49 +121,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "disruptionId": "6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S3 S5: S5 fährt aktuell nur zwischen Neugraben und Stade",
-      "summary": "Die S5 fährt aktuell nur zwischen Neugraben und Buxtehude/Stade. Auf der S3 kann es zu Verspätungen kommen. Der Grund ist eine technische Störung an der Strecke.",
-      "text": "<p>.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 13:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "5e7f65b0-d69b-4a81-938a-8fba4d4103c3",
@@ -311,8 +312,8 @@
       "mapHref": "https://karte.bahn.de/detail/ae554284-22a9-4625-a466-407117e124a1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/ccd33c51-01ee-4ee3-8f35-51ad89de6c56st%25C3%25B6rungskarte_20260721-110047.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/ccd33c51-01ee-4ee3-8f35-51ad89de6c56st%25C3%25B6rungskarte_20260721-110047.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/cbc3cd48-06c5-4caf-8d66-b1f671fd9a29st%25C3%25B6rungskarte_20260721-110047.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/cbc3cd48-06c5-4caf-8d66-b1f671fd9a29st%25C3%25B6rungskarte_20260721-110047.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 11:00:47",
           "openInNewTab": true
@@ -333,7 +334,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 12:58",
+      "lastModified": "21.07.2026 14:34",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1040,8 +1041,8 @@
       "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/5b942c56-5bcb-4a05-9394-8cc944be9f81st%25C3%25B6rungskarte_20260721-100954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/5b942c56-5bcb-4a05-9394-8cc944be9f81st%25C3%25B6rungskarte_20260721-100954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 10:09:54",
           "openInNewTab": true
@@ -1062,7 +1063,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 13:03",
+      "lastModified": "21.07.2026 14:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
