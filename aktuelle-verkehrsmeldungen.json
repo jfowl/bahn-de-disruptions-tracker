@@ -11,7 +11,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Ottensen</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juli 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juli 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "31.07.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
@@ -19,14 +19,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -72,7 +72,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.07.2026 10:35",
+      "lastModified": "21.07.2026 09:36",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
@@ -251,6 +251,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "f4917cf5-2739-4ed7-952e-289b09064cf5",
+      "disruptionId": "ae554284-22a9-4625-a466-407117e124a1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Reparatur an der Strecke",
+      "summary": "Zwischen Deisenhofen und Holzkirchen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Deisenhofen.</p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Großraumtaxis zwischen Deisenhofen und Holzkirchen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/ae554284-22a9-4625-a466-407117e124a1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/cbdc2e70-6244-46aa-9388-367d6a22f961st%25C3%25B6rungskarte_20260721-110047.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/cbdc2e70-6244-46aa-9388-367d6a22f961st%25C3%25B6rungskarte_20260721-110047.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 11:00:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.07.2026 11:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f4917cf5-2739-4ed7-952e-289b09064cf5",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section2"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -512,51 +557,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "59790fae-9b4d-469c-b291-4e678dedf1b8",
-      "disruptionId": "5a247307-8b69-4f75-b416-6c83623614fa",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 5 Aying: Reparatur an einem Signal",
-      "summary": "Im Bereich Aying kommt es zu Verspätungen von bis zu 10 bis 15 Minuten und vorzeitigen Zugwenden Minuten.",
-      "text": "<p> In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/5a247307-8b69-4f75-b416-6c83623614fa",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/3645ec89-21c9-448d-a4ba-754fe47baa1dst%25C3%25B6rungskarte_20260721-040012.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/3645ec89-21c9-448d-a4ba-754fe47baa1dst%25C3%25B6rungskarte_20260721-040012.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 04:00:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 08:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/59790fae-9b4d-469c-b291-4e678dedf1b8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
@@ -937,25 +937,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "892259d3-cbac-4918-9659-e1f11a251a2b",
-      "disruptionId": "08f9f9d5-4ebb-436f-aa4e-8d276ad7f969",
+      "id": "725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
+      "disruptionId": "6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Reparatur an einem Signal",
-      "summary": "Die Linie S 8, sowie S 1 verkehren wieder auf Regelweg mit allen Halten durch die Stammstrecke. Bitte rechnen Sie mit Folgeverspätungen von bis zu 20 Minuten und vorzeitige Zugwenden auf den Außenästen vereinzelten Ausfällen.",
-      "text": "<p>Ab den folgenden Fahrten verkehren die S8 aus Herrsching sowie die S1 aus Freising/Flughafen kommend durch die Stammstrecke mit allen Halten.</p><p><strong>S 8 Herrsching → Flughafen</strong></p><ul><li>S 8 Herrsching Abfahrt 07:45 Uhr → Pasing 08:23 Uhr → Leuchtenbergring 08:46 Uhr → Flughafen Ankunft 09:15 Uhr</li></ul><p></p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>S 1 Flughafen Abfahrt<strong> </strong> 08:11 Uhr → Moosach 08:44 Uhr → Leuchtenbergring Ankunft 09:06 Uhr</li></ul><p></p><p>Der Grund hierfür war eine Reparatur an einem Signal.</p>",
+      "headline": "S 7 München Hbf ↔ Donnersbergerbrücke: Reparatur an einer Weiche",
+      "summary": "Zwischen München Hbf und Donnersbergerbrücke kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit. </p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Hauptbahnhof.</p>",
       "durationBegin": "21.07.2026",
       "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/08f9f9d5-4ebb-436f-aa4e-8d276ad7f969",
+      "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/97963811-f0ba-4f11-9bc0-11444baf90f3st%25C3%25B6rungskarte_20260721-061404.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/97963811-f0ba-4f11-9bc0-11444baf90f3st%25C3%25B6rungskarte_20260721-061404.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/568b0688-ff70-43f3-aa9b-780a5e0f550ast%25C3%25B6rungskarte_20260721-100954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/568b0688-ff70-43f3-aa9b-780a5e0f550ast%25C3%25B6rungskarte_20260721-100954.png",
           "info": "",
-          "alt": "Störungskarte 21.07.2026 06:14:04",
+          "alt": "Störungskarte 21.07.2026 10:09:54",
           "openInNewTab": true
         }
       ],
@@ -969,47 +969,62 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
-        },
+        }
+      ],
+      "lastModified": "21.07.2026 11:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+    },
+    {
+      "id": "9cda60db-9425-43f8-892f-db966d6df644",
+      "disruptionId": "33a5f376-e0d3-47d2-b841-0c7a8eaa4843",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Technischer Defekt an einem anderen Zug",
+      "summary": "Die Züge können wieder zwischen Feldkirchen und Markt Schwaben fahren.",
+      "text": "<p>ab den folgenden Fahrten verkehren die Züge der Linie S 2 wieder planmäßig von/nach Erding.</p><p>S2 Petershausen/Altomünster ↔ Erding</p><ul><li>S 2 Petershausen Abfahrt 09:32 Uhr → Riem 10:29 Uhr → Erding Ankunft 11:02 Uhr</li></ul><p>Der Ersatzverkehr mit Bussen und Großraumtaxis wird um 11:30 Uhr eingestellt. Bitte rechnen Sie mit Folgeverspätungen und Teilausfällen</p><p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/33a5f376-e0d3-47d2-b841-0c7a8eaa4843",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/167806c3-8d15-4984-9d5a-789311a31e21st%25C3%25B6rungskarte_20260721-105345.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/167806c3-8d15-4984-9d5a-789311a31e21st%25C3%25B6rungskarte_20260721-105345.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 10:53:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
         {
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 08:59",
+      "lastModified": "21.07.2026 10:55",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/892259d3-cbac-4918-9659-e1f11a251a2b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/9cda60db-9425-43f8-892f-db966d6df644",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_vehicle0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
