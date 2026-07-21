@@ -297,80 +297,6 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
     },
     {
-      "id": "6e629893-41a7-4acc-ae2d-097596c53d92",
-      "disruptionId": "885dfcdc-b67d-4bdb-a953-f470444f0ac6",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Himmelreich - Titisee | Kurzfristige Hangsicherung",
-      "summary": "Der Streckenabschnitt zwischen Himmelreich und Titisee ist vom 15.07 - 21.07.26 gesperrt. Der Grund ist eine kurzfristige Hangsicherung entlang der Strecke.  In der Folge kommt es zu Zugausfällen und Ersatzverkehr mit Bussen zwischen Himmelreich und Titisee bzw. Neustadt(Schwarzw.) Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </li><li>S 11 (Endingen – Freiburg – Titisee – Neustadt(Schwarzw)) </li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong></p><ul><li>Himmelreich - Titisee (stündlich)</li><li>Himmelreich - Titisee - Neustadt(Schwarzw.) (stündlich)</li></ul><p>Die Züge der Linie S 10 fahren stündlich zwischen Titisee, Neustadt(Schwarzw.) und Löffingen.</p><p><strong>Aktualisierung in der Reiseauskunft:</strong></p><ul><li>Mittwoch, 15. Juli ✅</li><li>Donnerstag, 16. Juli ✅</li><li>ab Freitag, 17. Juli ❌ Die Fahrplandaten werden am 17. Juli aktualisiert</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "14.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/885dfcdc-b67d-4bdb-a953-f470444f0ac6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/7bfb7688-4c8c-4aed-934e-4283fc572a6est%25C3%25B6rungskarte_20260714-122554.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/7bfb7688-4c8c-4aed-934e-4283fc572a6est%25C3%25B6rungskarte_20260714-122554.png",
-          "info": "",
-          "alt": "Störungskarte 14.07.2026 12:25:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/7b9279a8-54b9-4c2d-b832-4e28a92d3973Bus%2BErsatzfahrplan%2BNeustadt_Titisee%2B%25E2%2580%2593%2BHimmereich%2B15.-21.7.2026.pdf",
-          "label": "Bus Ersatzfahrplan Neustadt_Titisee – Himmereich 15.-21.7.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-16/a998a658-7547-463f-859c-7b1b442d3f80Fahrgastinfo%2BBreisgau%2BS-Bahn%2B15.%2Bbis%2B21.%2BJuli%2B2026.pdf",
-          "label": "Fahrgastinfo Breisgau S-Bahn 15. bis 21. Juli 2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE S1",
-          "filterName": "RE S1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 10",
-          "filterName": "S 10",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 11",
-          "filterName": "S 11",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.07.2026 06:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6e629893-41a7-4acc-ae2d-097596c53d92",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -512,6 +438,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
+    },
+    {
+      "id": "dc143be1-dd8f-4914-88b5-dea455402b97",
+      "disruptionId": "b2571a59-6e9c-4d40-832e-126ff20e7681",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 3 Deisenhofen↔ Ostbahnhof: Vorübergehend verminderte Geschwindigkeit auf der Strecke",
+      "summary": "Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 3 Deisenhofen → Ostbahnhof</strong></p><ul><li>S 3 <strong>(8350)</strong> Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof</li><li>S 3 <strong>(8352)</strong> Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof</li><li>S 3 <strong>(8354)</strong> Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof</li><li>S 3 <strong>(8356)</strong> Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof</li><li>S 3 <strong>(8358)</strong> Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof</li><li>S 3 <strong>(8360)</strong> Deisenhofen Abfahrt 08:00 Uhr → Ostbahnhof</li><li>S 3 <strong>(8362)</strong> Deisenhofen Abfahrt 08:20 Uhr → Ostbahnhof</li><li>S 3 <strong>(8364)</strong> Deisenhofen Abfahrt 08:40 Uhr → Ostbahnhof</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine vorübergehende verminderte Geschwindigkeit auf der Strecke.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/b2571a59-6e9c-4d40-832e-126ff20e7681",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/ec552d75-5646-479b-81bc-a26aab3e437fst%25C3%25B6rungskarte_20260721-235402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/ec552d75-5646-479b-81bc-a26aab3e437fst%25C3%25B6rungskarte_20260721-235402.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 23:54:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 00:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc143be1-dd8f-4914-88b5-dea455402b97",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "1e62d4be-9a08-42d1-85d8-1a0cf9c72e00",
+      "disruptionId": "8360aaef-f03f-4787-8866-2a608ab52600",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 8 Germering-Unterpfaffenhofen ↔ Neugilching: Polizeieinsatz",
+      "summary": "Zwischen Germering-Unterpfaffenhofen und Neugilching kommt es zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/8360aaef-f03f-4787-8866-2a608ab52600",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a1de4595-3648-44e4-96e5-2e37840be157st%25C3%25B6rungskarte_20260721-235841.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/a1de4595-3648-44e4-96e5-2e37840be157st%25C3%25B6rungskarte_20260721-235841.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 23:58:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 00:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e62d4be-9a08-42d1-85d8-1a0cf9c72e00",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
