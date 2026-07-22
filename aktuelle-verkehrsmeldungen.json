@@ -79,6 +79,49 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "f0bd8eee-52a7-4a36-bf56-344f3e6cee71",
+      "disruptionId": "36007abc-633d-46a3-844d-3ac201bd9c8d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "⚠️ S5: Aktuell fahren Züge mit Start / Ziel Buxtehude nur bis / erst ab Neugraben",
+      "summary": "Aktuell fahren alle Züge mit Start oder Ziel Buxtehude erst ab oder nur bis Neugraben. Grund: technische Störung an der Strecke. Nutzen Sie zwischen Neugraben und Buxtehude ersatzweise die Züge von und nach Stade. ",
+      "text": "<p>...</p>",
+      "durationBegin": "22.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/36007abc-633d-46a3-844d-3ac201bd9c8d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 16:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f0bd8eee-52a7-4a36-bf56-344f3e6cee71",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "5e7f65b0-d69b-4a81-938a-8fba4d4103c3",
       "disruptionId": "d5f6bf9e-5342-48ea-9dba-1c6709c494f7",
       "author": "REGIO_NORD",
@@ -438,6 +481,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
+    },
+    {
+      "id": "6e6487eb-d058-4cc6-b9d4-779439364441",
+      "disruptionId": "edca52af-124f-4dac-abfa-9e6fbcbcd7ee",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S3 Holzkirchen: Reparatur an einem Signal ",
+      "summary": "Derzeit kommt es auf der Linie S3 in beide Richtungen zu Verspätungen von 30 bis 35 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist die Reparatur an einem Signal       in Holzkirchen.</p>",
+      "durationBegin": "22.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/edca52af-124f-4dac-abfa-9e6fbcbcd7ee",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/ecc381a4-b137-4f83-94d4-db00bde77013st%25C3%25B6rungskarte_20260722-161239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/ecc381a4-b137-4f83-94d4-db00bde77013st%25C3%25B6rungskarte_20260722-161239.png",
+          "info": "",
+          "alt": "Störungskarte 22.07.2026 16:12:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 16:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6e6487eb-d058-4cc6-b9d4-779439364441",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
@@ -816,261 +904,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
-    },
-    {
-      "id": "a8e386ad-d466-4fd2-ae0b-527ae132b180",
-      "disruptionId": "53e2641c-b910-434b-9fcb-18f4f67404ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 7 Höllriegelskreuth: Polizeieinsatz",
-      "summary": "Im Bereich Höllriegelskreuth kommt es zu Verspätungen und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/53e2641c-b910-434b-9fcb-18f4f67404ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/57e47606-92eb-416a-aae9-733de7b06996st%25C3%25B6rungskarte_20260722-135223.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/57e47606-92eb-416a-aae9-733de7b06996st%25C3%25B6rungskarte_20260722-135223.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 13:52:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 13:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a8e386ad-d466-4fd2-ae0b-527ae132b180",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity2"
-    },
-    {
-      "id": "725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
-      "disruptionId": "6167aba4-6b97-4c67-95ad-fc1c338f77a4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 7 München Hbf ↔ Donnersbergerbrücke: Reparatur an einer Weiche",
-      "summary": "Zwischen München Hbf und Donnersbergerbrücke kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit. </p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Hauptbahnhof.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/89917b18-b467-47fb-a99d-4152c3d9245ast%25C3%25B6rungskarte_20260721-100954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/89917b18-b467-47fb-a99d-4152c3d9245ast%25C3%25B6rungskarte_20260721-100954.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 10:09:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 13:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
-    },
-    {
-      "id": "042b23b5-dbe7-40c7-b51c-78eb3cf2546b",
-      "disruptionId": "2ed090af-2d21-482e-b66b-102bad97cab5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Technischer Defekt an einem anderen Zug",
-      "summary": "Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing zu Folgeverspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden auf den Außenästen.",
-      "text": "<p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug am Hirschgarten.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/2ed090af-2d21-482e-b66b-102bad97cab5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/e5b87834-a53f-49e9-b2d6-f240313bba36st%25C3%25B6rungskarte_20260722-132743.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/e5b87834-a53f-49e9-b2d6-f240313bba36st%25C3%25B6rungskarte_20260722-132743.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 13:27:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 13:35",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/042b23b5-dbe7-40c7-b51c-78eb3cf2546b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
-    },
-    {
-      "id": "591ad33c-fc25-40d5-81e0-b366f436e91e",
-      "disruptionId": "cbd3524e-e13d-4cdf-97d5-e11c52fe89c6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 1 Besucherpark → Neufahrn: Reparatur an einem Signal",
-      "summary": "Zwischen Besucherpark und Neufahrn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/cbd3524e-e13d-4cdf-97d5-e11c52fe89c6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/23963835-c483-4ac6-ab7f-16a9e8fc4f90st%25C3%25B6rungskarte_20260722-124154.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/23963835-c483-4ac6-ab7f-16a9e8fc4f90st%25C3%25B6rungskarte_20260722-124154.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 12:41:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 13:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/591ad33c-fc25-40d5-81e0-b366f436e91e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
-    },
-    {
-      "id": "c260812a-13a8-4028-a580-cd62262e06b6",
-      "disruptionId": "a67face1-2013-45f1-a3b6-03edaa41fc3e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 3  Giesing ↔ Holzkirchen: Reparatur an der Strecke",
-      "summary": "Auf der Linie S3  kommt es zu vereinzelten Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>An mehreren Stellen zwischen Holzkirchen ↔ Giesing fahren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke zwischen Holzkirchen ↔ Giesing.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/a67face1-2013-45f1-a3b6-03edaa41fc3e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/db527fce-4f90-4102-a156-101434bb8124st%25C3%25B6rungskarte_20260722-104421.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/db527fce-4f90-4102-a156-101434bb8124st%25C3%25B6rungskarte_20260722-104421.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 10:44:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 13:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c260812a-13a8-4028-a580-cd62262e06b6",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
