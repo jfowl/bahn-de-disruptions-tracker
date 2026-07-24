@@ -130,6 +130,105 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "987b2080-61b3-40a6-aec5-56ee8baa0475",
+      "disruptionId": "6d45d19e-6c2d-4d97-bfc5-5914869d1bcf",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Reparatur an der Strecke zwischen Hamburg Hbf und Ahrensburg",
+      "summary": "Aufgrund der Reparatur an der Strecke zwischen Hamburg Hbf und Ahrensburg steht von Montag, den 27.07.2026, 22:00 Uhr bis Donnerstag, den 30.07.2026, 04:00 Uhr nur ein Gleis zur Verfügung. In der Nacht von Sonntag, den 26.07.2026 , ab 22:00 Uhr auf Montag, den 27.07.2026, wird diese Baustelle eingerichtet, daher kommt es zu einzelnen Ausfällen.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Die Züge verkehren planmäßig zwischen Lübeck Hbf und Hamburg Hbf. Die Züge der Linie RE 8 verkehren mit drei Zugteilen (außer in den Tagesrandlagen).</li><li>RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Die Züge verkehren zwischen Lübeck Hbf und Ahrensburg. Die Züge der Linie RE 80 verkehren mit einem Zugteil, daher kann es zu verringerten Sitzplatzkapazitäten kommen.</li><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Die Züge verkehren planmäßig zwischen Bad Oldesloe und Hamburg Hbf.</li><li>RB 81 (Bargteheide – Hamburg Hbf): Die Züge zwischen Bargteheide und Hamburg Hbf entfallen.</li></ul><p>Zusätzlich ist ein Ersatzverkehr mit Bussen zwischen Bargteheide und Hamburg Hasselbroock eingerichtet, ab dort besteht Anschluss an die S1 nach Hamburg Hbf. Ebenfalls ist ein Ersatzverkehr mit Bussen zwischen Ahrensburg und Ahrensburg West eingerichtet, dort besteht Anschluss an die U1 nach Hamburg Hbf. Den Ersatzfahrplan für den Ersatzverkehr mit Bus entnehmen Sie bitte der angehängten Datei. Die digitalen Reiseauskunftsmedien der deutschen Bahn werden sukzessive aktualisiert.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "24.07.2026",
+      "durationEnd": "30.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6d45d19e-6c2d-4d97-bfc5-5914869d1bcf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-24/8bd7fc11-cf03-479c-9413-a5c03cc189d8st%25C3%25B6rungskarte_20260724-093122.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-24/8bd7fc11-cf03-479c-9413-a5c03cc189d8st%25C3%25B6rungskarte_20260724-093122.png",
+          "info": "",
+          "alt": "Störungskarte 24.07.2026 09:31:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-24/5665972a-3e63-4349-95af-b3a090ae8c4bErsatzfahrplan%2B27.07.-03.08.2026%2BV6.pdf",
+          "label": "Ersatzfahrplan als PDF",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8X",
+          "filterName": "RE 8X",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.07.2026 11:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/987b2080-61b3-40a6-aec5-56ee8baa0475",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "63623e97-540b-4687-afb6-00e14f5fab25",
       "disruptionId": "56d2acb9-afbd-4da5-962d-64e49f722d67",
       "author": "REGIO_NORD",
@@ -224,51 +323,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "413030be-07f4-4607-a3f0-a6b93b169207",
-      "disruptionId": "6d80a3a4-32fc-46f9-bdb6-3a5ce16ca28e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 8 Gilching-Argelsried ↔ Weßling: Reparatur an der Strecke",
-      "summary": "Zwischen Gilching-Argelsried und Weßling sind keine Zugfahrten möglich.",
-      "text": "<p>Von München aus kann Weßling nicht mehr angefahren werden.&nbsp;</p><p>Deswegen wendet die S8 schon in Germering.</p><p>Zwischen Weßling und Herrsching sind 2 Pendelzüge eingerichtet.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Germering-Unterpfaffenhofen und Weßling eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "24.07.2026",
-      "durationEnd": "24.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6d80a3a4-32fc-46f9-bdb6-3a5ce16ca28e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/e45d4535-df78-4f07-a866-91c6ab497acast%25C3%25B6rungskarte_20260724-085135.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/e45d4535-df78-4f07-a866-91c6ab497acast%25C3%25B6rungskarte_20260724-085135.png",
-          "info": "",
-          "alt": "Störungskarte 24.07.2026 08:51:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.07.2026 08:59",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/413030be-07f4-4607-a3f0-a6b93b169207",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section15"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -558,15 +612,15 @@
         "label": "Unfall an einem Bahnübergang"
       },
       "headline": "Zielitz ⇄ Stendal - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt von Zielitz bis Stendal ist im Moment beeinträchtigt.  Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor. Der Grund ist ein Unfall an einem Bahnübergang.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Unfall an einem Bahnübergang.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Busnotverkehr verkehrt ab Stendal Hbf ca. zur vollen Stunde und ab Zielitz ca. zur Minute 35 Uhr im Stundentakt.Wir arbeiten weiter an der Räumung der Strecke. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "summary": "Der Streckenabschnitt von Zielitz bis Stendal ist im Moment beeinträchtigt.  Die Störung ist behoben Der Grund war ein Unfall an einem Bahnübergang.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund war ein Unfall an einem Bahnübergang.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Die Strecke ist wieder frei und befahrbar. Infolge der Sperrung kann es aber weiterhin zu Verspätungen und Teilausfällen kommen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
       "durationBegin": "24.07.2026",
       "durationEnd": "24.07.2026",
       "mapHref": "https://karte.bahn.de/detail/48503609-fc10-4665-9593-adc1812c0ff9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-24/6570f320-da2d-4dbe-82eb-9a67bc1046a0st%25C3%25B6rungskarte_20260724-031115.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-24/6570f320-da2d-4dbe-82eb-9a67bc1046a0st%25C3%25B6rungskarte_20260724-031115.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-24/af04a698-3647-4851-a680-71ba1ebea5d2st%25C3%25B6rungskarte_20260724-031115.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-24/af04a698-3647-4851-a680-71ba1ebea5d2st%25C3%25B6rungskarte_20260724-031115.png",
           "info": "",
           "alt": "Störungskarte 24.07.2026 03:11:15",
           "openInNewTab": true
@@ -593,7 +647,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.07.2026 08:22",
+      "lastModified": "24.07.2026 11:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1021,6 +1075,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "689ee825-fdf5-4d67-ba8a-4d99a52f48d0",
+      "disruptionId": "b64ef9fa-9a20-487b-b02e-7db01526fb1c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 7 München Hbf ↔ Donnersbergerbrücke: Reparatur an einer Weiche",
+      "summary": "Zwischen München Hbf und Donnersbergerbrücke kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Wendungen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche am Hauptbahnhof.</p>",
+      "durationBegin": "24.07.2026",
+      "durationEnd": "24.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/b64ef9fa-9a20-487b-b02e-7db01526fb1c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/81145994-e5d5-47a4-a876-46722e635637st%25C3%25B6rungskarte_20260724-101023.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/81145994-e5d5-47a4-a876-46722e635637st%25C3%25B6rungskarte_20260724-101023.png",
+          "info": "",
+          "alt": "Störungskarte 24.07.2026 10:10:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2026 11:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/689ee825-fdf5-4d67-ba8a-4d99a52f48d0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section16"
+    },
+    {
+      "id": "852e2b82-eec5-491c-aeae-eb2f27b5ecc3",
+      "disruptionId": "e38bd90a-937b-41ad-8714-6b41a36fccac",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Holzkirchen ↔ Deisenhofen: Reparatur an der Strecke",
+      "summary": "Zwischen Holzkirchen und Deisenhofen kommt es in Richtung stadteinwärts zu vereinzelten Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "24.07.2026",
+      "durationEnd": "24.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/e38bd90a-937b-41ad-8714-6b41a36fccac",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/ff869da8-9908-407c-9e29-f76c4ffa0e6fst%25C3%25B6rungskarte_20260724-095530.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/ff869da8-9908-407c-9e29-f76c4ffa0e6fst%25C3%25B6rungskarte_20260724-095530.png",
+          "info": "",
+          "alt": "Störungskarte 24.07.2026 09:55:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2026 11:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/852e2b82-eec5-491c-aeae-eb2f27b5ecc3",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
