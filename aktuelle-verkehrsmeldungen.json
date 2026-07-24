@@ -699,25 +699,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
-      "id": "76e27a9e-53d4-4a2d-add8-87793eeaed2b",
-      "disruptionId": "9a4531e2-e33c-4b04-847e-4a33a09dfbda",
+      "id": "55d53679-f065-4deb-a456-41f74d430a35",
+      "disruptionId": "dc6859c4-2363-440b-9381-fb5470055991",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 2 Dachau◄►Ostbahnhof: Ausfall einiger Züge des 10-Minuten-Takts",
-      "summary": "Aufgrund einer technischen Störung an einem Fahrzeug zwischen entfallen heute Nachmittag auf der Linie S2 folgende S-Bahnen des 10-Minuten-Takts:",
-      "text": "<ul><li>S2 Dachau Bahnhof Abfahrt 16:39 Uhr - München Ost Ankunft 17:10 Uhr</li><li>S2 Dachau Bahnhof Abfahrt 18:39 Uhr - München Ost Ankunft 19:10 Uhr</li></ul><p></p><ul><li>S2 München Ost Abfahrt 15:46 Uhr - Dachau Bahnhof Ankunft 16:21 Uhr</li><li>S2 München Ost Abfahrt 17:46 Uhr - Dachau Bahnhof Ankunft 18:21 Uhr </li></ul><p></p><p><strong>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</strong></p><p></p>",
+      "headline": "S7 / S20 Mittersendling - Hauptbahnhof: Reparatur an der Strecke",
+      "summary": "Die S-Bahnen der Line S7 fahren zwischen Heimeranplatz und Mittersendling bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist eine Reparatur an der Strecke       zwischen Heimeranplatz und Mittersendling.</p>",
       "durationBegin": "24.07.2026",
       "durationEnd": "24.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/9a4531e2-e33c-4b04-847e-4a33a09dfbda",
+      "mapHref": "https://karte.bahn.de/detail/dc6859c4-2363-440b-9381-fb5470055991",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/ff4c87ce-6022-4ed7-9ca3-a980b9f30c06st%25C3%25B6rungskarte_20260724-144123.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/ff4c87ce-6022-4ed7-9ca3-a980b9f30c06st%25C3%25B6rungskarte_20260724-144123.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/f5634c1b-9ec2-450c-9535-9fe4143f5c9dst%25C3%25B6rungskarte_20260724-152230.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/f5634c1b-9ec2-450c-9535-9fe4143f5c9dst%25C3%25B6rungskarte_20260724-152230.png",
           "info": "",
-          "alt": "Störungskarte 24.07.2026 14:41:23",
+          "alt": "Störungskarte 24.07.2026 15:22:30",
           "openInNewTab": true
         }
       ],
@@ -731,17 +731,22 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.07.2026 14:43",
-      "expand": true,
+      "lastModified": "24.07.2026 18:53",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/76e27a9e-53d4-4a2d-add8-87793eeaed2b",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
+      "detailPagePath": "/service/fahrplaene/55d53679-f065-4deb-a456-41f74d430a35",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
@@ -898,6 +903,94 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "dfba7484-46c1-411d-a2ed-70d85cbb59a1",
+      "disruptionId": "c1fa4b5c-f8d4-43a3-aeb5-1f135fb28347",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die Stammstrecke vom Freitag, den 24.Juli bis 27. Juli 2026",
+      "summary": "Wegen Gleisbauarbeiten in Pasing kommt es zwischen Lochhausen/Pasing ↔ Ostbahnhof von Freitag, den 24.Juli, ab 21:50 Uhr, durchgehend bis 27. Juli 2026, 5 Uhr zu Fahrplanänderungen mit früheren Abfahrten der ersten beiden Züge, Umleitungen, Haltausfällen und Ersatzverkehr mit Bussen.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S 1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li><strong>Frühere Abfahrten</strong>&nbsp;der ersten beiden Züge von Ostbahnhof bis Moosach.</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge fahren planmäßig.</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li><strong>Züge</strong>&nbsp;in/aus Richtung&nbsp;<strong>Holzkirchen&nbsp;</strong>beginnen/enden an der&nbsp;<strong>Hackerbrücke.</strong></li><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Mammendorf</strong>&nbsp;beginnen/enden in&nbsp;<strong>Lochhausen</strong>. Zwischen&nbsp;<strong>Pasing&nbsp;</strong>und&nbsp;<strong>Lochhausen&nbsp;</strong>besteht&nbsp;<strong>Ersatzverkehr&nbsp;</strong>mit&nbsp;<strong>Bussen</strong>.</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Geltendorf&nbsp;</strong>beginnen/enden in&nbsp;<strong>Pasing</strong>.</li><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Trudering fallen&nbsp;</strong>zwischen Trudering und Pasing&nbsp;<strong>aus</strong>.</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Pasing</strong>&nbsp;<strong>fallen&nbsp;</strong>zwischen Pasing und Ostbahnhof&nbsp;<strong>aus</strong>.</li><li>Die&nbsp;<strong>S5 verkehrt&nbsp;</strong>zwischen&nbsp;<strong>Ostbahnhof&nbsp;</strong>und&nbsp;<strong>Aying</strong>. Zwischen&nbsp;<strong>Aying&nbsp;</strong>und&nbsp;<strong>Kreuzstraße&nbsp;</strong>bestehen Bauarbeiten mit&nbsp;<strong>Bus-Ersatzverkehr</strong>&nbsp;(siehe gesonderte Plakate).</li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li><strong>Züge&nbsp;</strong>in Richtung&nbsp;<strong>Tutzing&nbsp;</strong>erhalten ab Ostbahnhof und Pasing jeweils&nbsp;<strong>10 Minuten Verspätung.</strong></li><li><strong>Züge&nbsp;</strong>in Richtung&nbsp;<strong>Ebersberg&nbsp;</strong>fahren&nbsp;<strong>planmäßig</strong>.</li></ul><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li>Züge fahren planmäßig.</li></ul><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Flughafen/Airport</strong>&nbsp;beginnen/enden am&nbsp;<strong>Ostbahnhof.</strong></li><li><strong>Züge&nbsp;</strong>in/aus Richtung&nbsp;<strong>Herrsching</strong>&nbsp;beginnen/enden am&nbsp;<strong>Hauptbahnhof Gl. 27</strong>-<strong>34&nbsp;</strong>und fahren von/bis&nbsp;<strong>Pasing ohne Halt.</strong></li></ul><p><strong>Hinweis:</strong></p><ul><li>Zwischen&nbsp;<strong>Pasing&nbsp;</strong>und&nbsp;<strong>Ostbahnhof&nbsp;</strong>fährt&nbsp;<strong>nur&nbsp;</strong>die&nbsp;<strong>S6</strong>. Bitte beachten Sie dazu die gesonderten Plakate.</li></ul><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p>",
+      "durationBegin": "24.07.2026",
+      "durationEnd": "27.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/c1fa4b5c-f8d4-43a3-aeb5-1f135fb28347",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/3148b3ac-cec9-46ba-b969-0d6d1c24fe24st%25C3%25B6rungskarte_20260709-005040.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/3148b3ac-cec9-46ba-b969-0d6d1c24fe24st%25C3%25B6rungskarte_20260709-005040.png",
+          "info": "",
+          "alt": "Störungskarte 09.07.2026 00:50:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/3c203ddd-2ebf-4749-8fe0-c9d534c3ce66Fpl%2BWE%2BMP%2BS%2B1-S%2B8%2B24-27%2BJuli%2B2026%2B%25281%2529.pdf",
+          "label": "Stammstrecke Fahrplan  24-27 Juli 2026 ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-24/fe7466b0-5538-4f2d-bfe0-4ad5869bd8b5Fpl%2BS3%2BEV%2BMP-MLO%2B24.07.-27.07%2B%25281%2529.pdf",
+          "label": "S3 Fahrplan EV 24.07.-27.07",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.07.2026 20:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dfba7484-46c1-411d-a2ed-70d85cbb59a1",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction5"
     },
     {
       "id": "6f20942f-f0b1-4ca2-b695-473618a05d02",
