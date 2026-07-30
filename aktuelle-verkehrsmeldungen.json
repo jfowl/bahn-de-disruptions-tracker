@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8715c600-7f2c-4119-b7e9-f38e63bd7728",
+      "disruptionId": "b23cc32a-2955-4b4d-abbb-cfb96a86bdc1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
+      "summary": "Aufgrund von Oberleitungsstörung ist die Strecke zwischen Hamburg und Hannover derzeit gesperrt. Dadurch kommt es zu Umleitungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>Alle Züge zwischen Hamburg und Hannover</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/b23cc32a-2955-4b4d-abbb-cfb96a86bdc1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-30/a6eac261-15ab-4fc1-846f-874b335baf6bst%25C3%25B6rungskarte_20260730-194634.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-30/a6eac261-15ab-4fc1-846f-874b335baf6bst%25C3%25B6rungskarte_20260730-194634.png",
+          "info": "",
+          "alt": "Störungskarte 30.07.2026 19:46:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.07.2026 19:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8715c600-7f2c-4119-b7e9-f38e63bd7728",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section1"
+    },
+    {
       "id": "8bf95474-13e5-4a98-8d07-d8f2a99391b1",
       "disruptionId": "9959d965-c53c-432e-a124-a7e456100cf4",
       "author": "FERNVERKEHR_AG",
@@ -326,6 +384,62 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
     },
     {
+      "id": "7f95ea81-48ad-466c-9c4a-5b5212d93e59",
+      "disruptionId": "991d3d4a-c104-473c-b714-2ac75a892747",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Darmstadt Hbf - Bickenbach(Bergstr)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu teilweise hohen Verspätungen. Es kommt auch zu Teil- und Zugausfällen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "30.07.2026",
+      "durationEnd": "31.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/991d3d4a-c104-473c-b714-2ac75a892747",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-07-30/684cbc56-32fb-4094-9f28-827e05676ef9st%25C3%25B6rungskarte_20260730-193835.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-07-30/684cbc56-32fb-4094-9f28-827e05676ef9st%25C3%25B6rungskarte_20260730-193835.png",
+          "info": "",
+          "alt": "Störungskarte 30.07.2026 19:38:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 67",
+          "filterName": "RB 67",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 68",
+          "filterName": "RB 68",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 60",
+          "filterName": "RE 60",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.07.2026 20:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7f95ea81-48ad-466c-9c4a-5b5212d93e59",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
+    },
+    {
       "id": "3b16609b-a6b2-49ff-81fd-8a27614d11b4",
       "disruptionId": "03ecc211-0ebb-4553-ba15-e90a8321e2fc",
       "author": "REGIO_NORD",
@@ -631,49 +745,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "9ddc5cbc-eb78-49fa-bde2-a510fed49d57",
-      "disruptionId": "65692345-6936-4aa6-b290-07a7e5755ee8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Augsburg",
-      "summary": "Aufgrund einer technischen Störung in Treuchtlingen an der Strecke zwischen Nürnberg und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden über Ingolstadt umgeleitet die Halte Augsburg und Donauwörth entfallen. Ersatzhalt Ingolstadt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Nürnberg, Donauwörth und Augsburg </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/65692345-6936-4aa6-b290-07a7e5755ee8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-30/bb51bff2-9d53-469c-aab5-b6e1985b46c1st%25C3%25B6rungskarte_20260730-141948.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-30/bb51bff2-9d53-469c-aab5-b6e1985b46c1st%25C3%25B6rungskarte_20260730-141948.png",
-          "info": "",
-          "alt": "Störungskarte 30.07.2026 14:19:48",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.07.2026 14:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9ddc5cbc-eb78-49fa-bde2-a510fed49d57",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
       "disruptionId": "9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
       "author": "REGIO_MITTE",
@@ -960,54 +1031,116 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
-      "id": "7f95ea81-48ad-466c-9c4a-5b5212d93e59",
-      "disruptionId": "991d3d4a-c104-473c-b714-2ac75a892747",
-      "author": "S_BAHN_RM",
+      "id": "1371802c-17f5-4e6b-9641-fc9d1d8fd4c8",
+      "disruptionId": "9b0760b7-e93e-4df3-88d9-d8064c0544db",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Darmstadt Hbf - Bickenbach(Bergstr)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit.</li><li>Es kommt zu teilweise hohen Verspätungen. Es kommt auch zu Teil- und Zugausfällen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Stammstrecke/Gesamtnetz: Abweichende Linienführung S3/S5 - Reparatur an einer Weiche",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von aktuell bis zu 30 Minuten, vereinzelt auch höher. Zusätzlich kommt es auf den Außenbereichen zu vorzeitigen Zugwenden.",
+      "text": "<p>Die Linien S 3 und S 5 fahren mit abweichender Linienführung wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Pasing</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Giesing</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Aying </strong>↔ <strong>Giesing</strong>. (zwischen Kreuzstraße und Aying besteht planmäßiger Baustellen-Ersatzverkehr)</li></ul><p><strong>Alternativen:</strong></p><ul><li>Hauptbahnhof ↔ Giesing: <strong>U 2</strong></li><li>Hauptbahnhof ↔ Karlsplatz ↔ Ostbahnhof ↔ Innsbrucker Ring: <strong>U 5;</strong> Innsbrucker Ring ↔ Giesing: <strong>U 2</strong>&nbsp;</li><li>Ostbahnhof ↔ Giesing: <strong>Bus 54</strong></li></ul><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Ostbahnhof.</p>",
       "durationBegin": "30.07.2026",
       "durationEnd": "30.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/991d3d4a-c104-473c-b714-2ac75a892747",
+      "mapHref": "https://karte.bahn.de/detail/9b0760b7-e93e-4df3-88d9-d8064c0544db",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-07-30/84847352-f92b-475f-bfb6-e6275861667fst%25C3%25B6rungskarte_20260730-193835.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-07-30/84847352-f92b-475f-bfb6-e6275861667fst%25C3%25B6rungskarte_20260730-193835.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/7f500262-0373-4f4e-ba1a-6b6592acda59st%25C3%25B6rungskarte_20260730-181702.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/7f500262-0373-4f4e-ba1a-6b6592acda59st%25C3%25B6rungskarte_20260730-181702.png",
           "info": "",
-          "alt": "Störungskarte 30.07.2026 19:38:35",
+          "alt": "Störungskarte 30.07.2026 18:17:02",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB 68",
-          "filterName": "RB 68",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
         },
         {
-          "name": "RE 60",
-          "filterName": "RE 60",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "30.07.2026 19:40",
+      "lastModified": "30.07.2026 19:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7f95ea81-48ad-466c-9c4a-5b5212d93e59",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/1371802c-17f5-4e6b-9641-fc9d1d8fd4c8",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
+    },
+    {
+      "id": "05e30d6d-3385-47c5-9e3a-7129bcecc5e8",
+      "disruptionId": "26e29e42-6736-4cb5-a352-7efd52c94102",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Höllriegelskreuth: Reparatur an der Strecke",
+      "summary": "Auf der S 7 kommt es weiterhin zu Verspätungen aktuell von bis zu 30 Minuten und zu vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "30.07.2026",
+      "durationEnd": "30.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/26e29e42-6736-4cb5-a352-7efd52c94102",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2026 19:51",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05e30d6d-3385-47c5-9e3a-7129bcecc5e8",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
     },
     {
       "id": "c9d3519d-ab5a-4c01-825e-da59de0de0b9",
@@ -1060,123 +1193,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c9d3519d-ab5a-4c01-825e-da59de0de0b9",
       "magnoliaPath": "/aktuell/hessen/impairment_police_activity"
-    },
-    {
-      "id": "1371802c-17f5-4e6b-9641-fc9d1d8fd4c8",
-      "disruptionId": "9b0760b7-e93e-4df3-88d9-d8064c0544db",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Stammstrecke/Gesamtnetz: Abweichende Linienführung S3/S5 - Reparatur an einer Weiche",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von aktuell bis zu 30 Minuten, vereinzelt auch höher. Zusätzlich kommt es auf den Außenbereichen zu vorzeitigen Zugwenden.",
-      "text": "<p>Die Linien S 3 und S 5 fahren mit abweichender Linienführung wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Pasing</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Giesing</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Aying </strong>↔ <strong>Giesing</strong>. (zwischen Kreuzstraße und Aying besteht planmäßiger Baustellen-Ersatzverkehr)</li></ul><p><strong>Alternativen:</strong></p><ul><li>Hauptbahnhof ↔ Giesing: <strong>U 2</strong></li><li>Hauptbahnhof ↔ Karlsplatz ↔ Ostbahnhof ↔ Innsbrucker Ring: <strong>U 5;</strong> Innsbrucker Ring ↔ Giesing: <strong>U 2</strong>&nbsp;</li><li>Ostbahnhof ↔ Giesing: <strong>Bus 54</strong></li></ul><p></p><p>Der Grund hierfür ist die Reparatur an einer Weiche am Ostbahnhof.</p>",
-      "durationBegin": "30.07.2026",
-      "durationEnd": "30.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/9b0760b7-e93e-4df3-88d9-d8064c0544db",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/0d0ddca2-4fba-439b-837e-ce30129b6822st%25C3%25B6rungskarte_20260730-181702.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/0d0ddca2-4fba-439b-837e-ce30129b6822st%25C3%25B6rungskarte_20260730-181702.png",
-          "info": "",
-          "alt": "Störungskarte 30.07.2026 18:17:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.07.2026 19:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1371802c-17f5-4e6b-9641-fc9d1d8fd4c8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
-      "id": "05e30d6d-3385-47c5-9e3a-7129bcecc5e8",
-      "disruptionId": "26e29e42-6736-4cb5-a352-7efd52c94102",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 7 Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Auf der S 7 kommt es weiterhin zu Verspätungen aktuell von bis zu 30 Minuten und zu vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>Grund ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "30.07.2026",
-      "durationEnd": "30.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/26e29e42-6736-4cb5-a352-7efd52c94102",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.07.2026 19:19",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/05e30d6d-3385-47c5-9e3a-7129bcecc5e8",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1282,6 +1298,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "6c7d1719-a360-456e-b6a1-e96b0b7c430a",
+      "disruptionId": "f26a8103-8268-4261-b775-c005b8a0d13a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die Stammstrecke in den Nächten Mittwoch auf Donnerstag, 29./30. Juli bis Donnerstag auf Freitag, 30./31.7.2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten Mittwoch auf Donnerstag, 29./30. Juli bis Donnerstag auf Freitag, 30./31.7.2026, jeweils von 22:20 Uhr bis 5 Uhr zwischen Pasing ◄► Ostbahnhof zu Fahrplanänderungen mit Umleitungen und Haltausfällen.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung beginnen/enden am <strong>Hauptbahnhof </strong>oben und fahren von/bis <strong>Moosach</strong> <strong>ohne Halt.</strong></li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Petershausen</strong> beginnen/enden am <strong>Heimeranplatz Gleis 11</strong> und fahren von/bis <strong>Obermenzing ohne Halt </strong>im <strong>30-Minuten-Takt</strong>.</li><li><strong>Züge</strong> in/aus Richtung <strong>Erding</strong> beginnen/enden an der <strong>Hackerbrücke.</strong></li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li><strong>Züge </strong>fahren <strong>planmäßig</strong> zwischen <strong>Holzkirchen</strong> und <strong>Mammendorf</strong> im <strong>20-Minuten-Takt.</strong></li><li>Züge fahren planmäßig zwischen Holzkirchen und Mammendorf im 20-Minuten-Takt (in <strong>Laim </strong>in <strong>beide Richtungen</strong> auf<strong> Gl. 1</strong>)</li></ul><p></p><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Geltendorf </strong>beginnen/enden in <strong>Pasing</strong>.</li><li><strong>Züge </strong>in/aus Richtung <strong>Trudering fallen </strong>zwischen <strong>Pasing </strong>und <strong>Trudering</strong> <strong>aus</strong>.</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Kreuzstraße </strong>beginnen/enden am <strong>Ostbahnhof</strong>.</li><li><strong>Züge </strong>in/aus Richtung <strong>Pasing</strong> <strong>fallen </strong>zwischen <strong>Ostbahnhof </strong>und <strong>Pasing aus.</strong></li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Ebersberg </strong>beginnen/enden am <strong>Ostbahnhof Gleis 2.</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Tutzing </strong>beginnen/enden am <strong>Hauptbahnhof oben</strong> und fahren von/bis <strong>Pasing ohne Halt.</strong></li></ul><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li><strong>Züge </strong>aus Richtung <strong>Herrsching </strong>fahren ab <strong>Pasing ohne Halt </strong>bis zum <strong>Ostbahnhof</strong> und weiter <strong>ohne Halt</strong> am <strong>Leuchtenbergring</strong> zum <strong>Flughafen/Airpor</strong>t.</li><li><strong>Züge </strong>aus Richtung <strong>Flughafen/Airport</strong> fahren <strong>ab Daglfing ohne Halt</strong> am <strong>Leuchtenbergring </strong>zum <strong>Ostbahnhof </strong>und weiter <strong>ohne Halt bis Pasing</strong> nach <strong>Herrsching</strong>.<strong>​​​​​​</strong></li></ul><p><strong>Hinweis:</strong></p><ul><li><strong>Zwischen Ostbahnhof und Pasing fährt nur die S 3 als einzige Linie</strong></li></ul><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p>",
+      "durationBegin": "29.07.2026",
+      "durationEnd": "31.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/f26a8103-8268-4261-b775-c005b8a0d13a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/41f79e4d-c04d-4e02-b05d-6b5d1026d7d1st%25C3%25B6rungskarte_20260709-013000.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/41f79e4d-c04d-4e02-b05d-6b5d1026d7d1st%25C3%25B6rungskarte_20260709-013000.png",
+          "info": "",
+          "alt": "Störungskarte 09.07.2026 01:30:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-30/4927a660-b0ca-4210-a726-9601263a80b6Fpl%2Beingl%2BMOP-MP%2BS%2B1-S%2B8%2B29-31%2BJuli%2B2026.pdf",
+          "label": "Stammstrecke Fahrplan 29-31 Juli 2026.",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2026 20:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6c7d1719-a360-456e-b6a1-e96b0b7c430a",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "71378a73-fd5f-4129-9b5f-9da39c3ccb72",
