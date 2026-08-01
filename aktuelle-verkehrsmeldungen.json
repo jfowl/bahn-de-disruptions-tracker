@@ -131,6 +131,49 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "b3ec3746-2c66-44c6-afa4-c74ce631e764",
+      "disruptionId": "f5498c93-cbc3-44c1-b433-d0aacfff713b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S3/S5: Technische Störung an der Strecke",
+      "summary": "Aktuell fährt keine S3/S5 zwischen Hammerbrook und Wilhelmsburg. Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis.",
+      "text": "<p> </p>",
+      "durationBegin": "01.08.2026",
+      "durationEnd": "02.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/f5498c93-cbc3-44c1-b433-d0aacfff713b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.08.2026 23:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b3ec3746-2c66-44c6-afa4-c74ce631e764",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "d66b9aac-c83d-4a24-bdce-c57090fc0ec8",
       "disruptionId": "7ec0e387-d290-4945-9677-bb770f43a4ff",
       "author": "REGIO_NORD",
@@ -464,51 +507,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "ef585ec7-86a4-4d18-8d0c-ccfcb3a5bb9b",
-      "disruptionId": "24acfbe5-6f2c-4e95-a65f-aa49cd0f8911",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 7 Höllriegelskreuth ↔ Baierbrunn",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es noch zu Verspätungen von 5 bis 10 Minuten.\nDie S-Bahnen fahren im Regelverkehr und der BNV endet mit 24:00 Uhr. ",
-      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
-      "durationBegin": "01.08.2026",
-      "durationEnd": "01.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/24acfbe5-6f2c-4e95-a65f-aa49cd0f8911",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-01/ad8b3aa4-85ab-487f-82a8-1265559d9b5fst%25C3%25B6rungskarte_20260801-001358.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-01/ad8b3aa4-85ab-487f-82a8-1265559d9b5fst%25C3%25B6rungskarte_20260801-001358.png",
-          "info": "",
-          "alt": "Störungskarte 01.08.2026 00:13:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.08.2026 22:40",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ef585ec7-86a4-4d18-8d0c-ccfcb3a5bb9b",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section10"
     },
     {
       "id": "c961d450-7b2d-4e6d-8675-ce38e30d6e2e",
