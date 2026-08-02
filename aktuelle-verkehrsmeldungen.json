@@ -514,6 +514,48 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "9a23668d-e859-4d82-9a48-80d73e7e346c",
+      "disruptionId": "1ce4ee34-66c1-48b6-91b2-98c0d3063c29",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Defektes Stellwerk",
+      "summary": "Die Strecke ist zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen und Teilausfällen. Der Grund hierfür ist ein defektes Stellwerk.",
+      "text": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>Alternativen</strong>:</p><ul><li><ul><li>Hauptbahnhof ↔ Deisenhofen: <strong>Züge der BRB </strong></li><li>Deisenhofen ↔ Neuperlach Süd: <strong>Bus 222</strong> Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li><li>Die S5 verkehrt nur <strong>Pasing </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul></li></ul><p><strong></strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
+      "durationBegin": "02.08.2026",
+      "durationEnd": "02.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/1ce4ee34-66c1-48b6-91b2-98c0d3063c29",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.08.2026 20:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9a23668d-e859-4d82-9a48-80d73e7e346c",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section13"
+    },
+    {
       "id": "c961d450-7b2d-4e6d-8675-ce38e30d6e2e",
       "disruptionId": "03472766-ade4-4b95-a32d-4b5443b3b761",
       "author": "REGIO_MITTE",
@@ -791,51 +833,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "540f0711-a95a-4820-bb98-69bb3f3d5f71",
-      "disruptionId": "3a24812f-2758-4ec3-a0d2-44c69af335d4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 7 Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "02.08.2026",
-      "durationEnd": "02.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/3a24812f-2758-4ec3-a0d2-44c69af335d4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-02/78f54afe-0647-4646-a7ae-a4fe9221b746st%25C3%25B6rungskarte_20260802-144345.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-02/78f54afe-0647-4646-a7ae-a4fe9221b746st%25C3%25B6rungskarte_20260802-144345.png",
-          "info": "",
-          "alt": "Störungskarte 02.08.2026 14:43:45",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.08.2026 14:45",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/540f0711-a95a-4820-bb98-69bb3f3d5f71",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section20"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
