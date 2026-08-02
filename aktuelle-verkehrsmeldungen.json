@@ -54,6 +54,55 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
     },
     {
+      "id": "09a735a6-837e-4c5f-be5a-65f8214d066b",
+      "disruptionId": "007e2566-d59d-4dca-a81b-af0fb2b2adfb",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Alle Linien: Citytunnel gesperrt",
+      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
+      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Wedel/Blankenese und Othmarschen/ Airport/Poppenbüttel und Ohlsdorf.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Neugraben und  Hammerbrook und Diebsteich und Pinneberg</p><p><strong>Linie 🔵 S5:</strong> Aktuell Neugraben und Stade.</p><p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Personenunfall</strong></p>",
+      "durationBegin": "02.08.2026",
+      "durationEnd": "02.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/007e2566-d59d-4dca-a81b-af0fb2b2adfb",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.08.2026 16:05",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/09a735a6-837e-4c5f-be5a-65f8214d066b",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -744,6 +793,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "540f0711-a95a-4820-bb98-69bb3f3d5f71",
+      "disruptionId": "3a24812f-2758-4ec3-a0d2-44c69af335d4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Höllriegelskreuth: Reparatur an der Strecke",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "02.08.2026",
+      "durationEnd": "02.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/3a24812f-2758-4ec3-a0d2-44c69af335d4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-02/78f54afe-0647-4646-a7ae-a4fe9221b746st%25C3%25B6rungskarte_20260802-144345.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-02/78f54afe-0647-4646-a7ae-a4fe9221b746st%25C3%25B6rungskarte_20260802-144345.png",
+          "info": "",
+          "alt": "Störungskarte 02.08.2026 14:43:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.08.2026 14:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/540f0711-a95a-4820-bb98-69bb3f3d5f71",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section20"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
