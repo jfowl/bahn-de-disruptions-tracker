@@ -2,6 +2,51 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f1a77c44-982e-4733-998c-a1185254953f",
+      "disruptionId": "60b308de-038e-49b2-8ef7-254e2719a2bc",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Bonn ",
+      "summary": "Aufgrund einer technischen Störung an einem Güterzug zwischen Bonn und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen leider aus.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC - Züge Dortmund - Köln - Bonn - Mainz - Mannheim - Stuttgart/ Karlsruhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/60b308de-038e-49b2-8ef7-254e2719a2bc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/e23e3771-1bdd-497f-8304-d93bfac4860dst%25C3%25B6rungskarte_20260803-110627.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/e23e3771-1bdd-497f-8304-d93bfac4860dst%25C3%25B6rungskarte_20260803-110627.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 11:06:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.08.2026 12:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f1a77c44-982e-4733-998c-a1185254953f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -292,7 +337,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.08.2026 07:24",
+      "lastModified": "03.08.2026 11:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -625,51 +670,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "99969d4d-89de-4018-ac11-d57523fafabb",
-      "disruptionId": "e33b4d68-b0e1-4fc0-b556-d377b58d9af9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S8 Neuaubing: Technischer Defekt an einem Bahnübergang",
-      "summary": "Auf der S8 kommt es aktuell zu Verspätungen von bis zu 10 Minuten und zu vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Neuaubing.</p>",
-      "durationBegin": "03.08.2026",
-      "durationEnd": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/e33b4d68-b0e1-4fc0-b556-d377b58d9af9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/324e2eac-a3cc-4330-af5b-093055473612st%25C3%25B6rungskarte_20260803-081208.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/324e2eac-a3cc-4330-af5b-093055473612st%25C3%25B6rungskarte_20260803-081208.png",
-          "info": "",
-          "alt": "Störungskarte 03.08.2026 08:12:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.08.2026 09:54",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/99969d4d-89de-4018-ac11-d57523fafabb",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "a778d961-053f-45ab-8d8b-e827f55919c8",
       "disruptionId": "730b9725-50ab-4543-9cf1-8f41eb267045",
       "author": "REGIO_BW",
@@ -924,6 +924,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "83d4aa3b-5c29-41ae-ab68-5744acdfef1e",
+      "disruptionId": "0f22b033-6fd9-4613-a513-dd290ee8e92d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamm (Westf) und Dortmund",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Hamm (Westf) und Dortmund Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hamm (West) und Dortmund Hbf</li><li>IC-Züge zwischen Hamm (Westf) und Dortmund Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/0f22b033-6fd9-4613-a513-dd290ee8e92d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/5cc2c5bf-8cc8-47a2-b866-13bdb8a979bcst%25C3%25B6rungskarte_20260803-130608.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/5cc2c5bf-8cc8-47a2-b866-13bdb8a979bcst%25C3%25B6rungskarte_20260803-130608.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 13:06:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.08.2026 13:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/83d4aa3b-5c29-41ae-ab68-5744acdfef1e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
