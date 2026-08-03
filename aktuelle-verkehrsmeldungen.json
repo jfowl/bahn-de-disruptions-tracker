@@ -11,7 +11,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌Stadthausbrücke</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Mitte August 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌Stadthausbrücke</p><p></p><p>❌Landungsbrücken</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Mitte August 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "14.08.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
@@ -19,14 +19,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -72,7 +72,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2026 14:03",
+      "lastModified": "03.08.2026 08:32",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
@@ -245,6 +245,59 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/00fa0915-34b7-483e-880c-be8a1bebc64c",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
+    },
+    {
+      "id": "82a0044e-455a-468c-819f-232c722a4bc9",
+      "disruptionId": "56d2acb9-afbd-4da5-962d-64e49f722d67",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "unknown_cause",
+        "label": "Unbekannte Ursache"
+      },
+      "headline": "Wichtige Information: Integration der Regionalverkehre Start Deutschland GmbH in die DB Regio AG",
+      "summary": "Zum 1. August 2026 werden die Regionalverkehre Start Niedersachsen Mitte und Start Unterelbe in die DB Regio AG, Region Niedersachsen & Bremen, integriert. \nMit der Verschmelzung bündeln beide Unternehmen ihre Kräfte mit dem Ziel, den Nahverkehr in der Region langfristig stabiler und leistungsfähiger zu gestalten.",
+      "text": "<p>Das bedeutet für Sie, dass im <strong>Netz Niedersachsen Mitte </strong>die Linien:</p><ul><li>RB 37 (Bremen – Soltau – Uelzen)</li><li>RB 38 (Hannover – Soltau – Buchholz(Nordheide) - (Hamburg-Harburg))</li><li>RB 77 (Bünde – Hameln – Hildesheim)</li><li>RB 79 (Hildesheim – Bodenburg)</li></ul><p>und im <strong>Netz Start Unterelbe </strong>die Linie:</p><ul><li>RE 5 (Cuxhaven – Hamburg Hbf)</li></ul><p>ab dem 01.08.2026 durch die DB Regio betrieben werden.</p><p><strong>Die Integration ist mehr als ein Namenswechsel: </strong>DB Regio investiert bereits heute in die Verbesserung des Betriebs, unter anderem durch zusätzliches Personal und die schrittweise Einführung gemeinsamer Qualitätsstandards. Dazu gehört unter anderem auch der Einsatz von zweistöckigen Wagons.</p><p>Für allgemeine Fragen zur Integration und zum Übergang wenden Sie sich bitte direkt an das Team des regionalen Kundendialog der <strong>Start Niedersachsen Mitte </strong>unter 05191 8030904&nbsp;bzw. an das Team der <strong>Start Unterelbe </strong>unter 04721 2049724 oder den regionalen Kundendialog der <strong>DB Regio AG in Niedersachsen und Bremen </strong>unter&nbsp;0511 45901645<strong>.&nbsp;</strong></p>",
+      "durationBegin": "06.07.2026",
+      "durationEnd": "07.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/56d2acb9-afbd-4da5-962d-64e49f722d67",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 37",
+          "filterName": "RB 37",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 77",
+          "filterName": "RB 77",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 79",
+          "filterName": "RB 79",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.08.2026 07:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/82a0044e-455a-468c-819f-232c722a4bc9",
+      "magnoliaPath": "/aktuell/nord/unknown_effect_unknown_cause"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -572,20 +625,28 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "6ce7097e-3546-4a42-b9a9-95d4ee392056",
-      "disruptionId": "dc1b8c39-f882-4396-9b34-81959ec4e918",
+      "id": "99969d4d-89de-4018-ac11-d57523fafabb",
+      "disruptionId": "e33b4d68-b0e1-4fc0-b556-d377b58d9af9",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S 1 Freising/Flughafen verkehrt heute ausschließlich als Vollzug\n\nS 2 Dachau ↔ Ostbahnhof: Technische Störung an einem Zug",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "S8 Neuaubing: Technischer Defekt an einem Bahnübergang",
+      "summary": "Auf der S8 kommt es aktuell zu Verspätungen von bis zu 10 Minuten und zu vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Neuaubing.</p>",
       "durationBegin": "03.08.2026",
       "durationEnd": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/dc1b8c39-f882-4396-9b34-81959ec4e918",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/e33b4d68-b0e1-4fc0-b556-d377b58d9af9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/324e2eac-a3cc-4330-af5b-093055473612st%25C3%25B6rungskarte_20260803-081208.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/324e2eac-a3cc-4330-af5b-093055473612st%25C3%25B6rungskarte_20260803-081208.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 08:12:08",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -596,17 +657,17 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.08.2026 06:09",
+      "lastModified": "03.08.2026 09:54",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6ce7097e-3546-4a42-b9a9-95d4ee392056",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle6"
+      "detailPagePath": "/service/fahrplaene/99969d4d-89de-4018-ac11-d57523fafabb",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "a778d961-053f-45ab-8d8b-e827f55919c8",
