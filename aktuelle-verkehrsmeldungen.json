@@ -2,55 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "c83adc62-7d01-4bf9-9840-8a7801f05820",
-      "disruptionId": "73b8c753-16e4-4e52-8c17-f3ddeecbdc3f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Stuttgart und Crailsheim",
-      "summary": "Aufgrund von Bauarbeiten zwischen Stuttgart und Crailsheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit 30 Min Verspätung.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Karlsruhe – Stuttgart – Nürnberg/Regensburg&nbsp;– Saalfeld (Saale) – Leipzig)</li><li>ICE-Züge (Berlin - Halle (S) - Erfurt - Nürnberg - Crailsheim - Stuttgart)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.08.2026",
-      "durationEnd": "23.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/73b8c753-16e4-4e52-8c17-f3ddeecbdc3f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/5d97b67f-f547-43bb-9660-c52dd575b04fst%25C3%25B6rungskarte_20260805-172059.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/5d97b67f-f547-43bb-9660-c52dd575b04fst%25C3%25B6rungskarte_20260805-172059.png",
-          "info": "",
-          "alt": "Störungskarte 05.08.2026 17:20:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "TH",
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.08.2026 18:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/c83adc62-7d01-4bf9-9840-8a7801f05820",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_construction"
-    },
-    {
       "id": "e82a59d0-90b9-4da5-8bad-dfd4b0687cda",
       "disruptionId": "819798f0-0011-485b-8e02-9b4ace1cf06d",
       "author": "FERNVERKEHR_AG",
@@ -173,6 +124,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "c83adc62-7d01-4bf9-9840-8a7801f05820",
+      "disruptionId": "73b8c753-16e4-4e52-8c17-f3ddeecbdc3f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Crailsheim",
+      "summary": "Aufgrund von Bauarbeiten zwischen Stuttgart und Crailsheim ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen von bis zu 30 Minuten..",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Karlsruhe – Stuttgart – Nürnberg/Regensburg&nbsp;– Saalfeld (Saale) – Leipzig)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "23.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/73b8c753-16e4-4e52-8c17-f3ddeecbdc3f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/d2c8420b-ee06-44bc-b177-b2a2a6f91985st%25C3%25B6rungskarte_20260805-210212.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/d2c8420b-ee06-44bc-b177-b2a2a6f91985st%25C3%25B6rungskarte_20260805-210212.png",
+          "info": "",
+          "alt": "Störungskarte 05.08.2026 21:02:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.08.2026 21:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c83adc62-7d01-4bf9-9840-8a7801f05820",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_construction"
     },
     {
       "id": "d66b9aac-c83d-4a24-bdce-c57090fc0ec8",
