@@ -2,6 +2,57 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ca051dcb-310c-4183-b08a-35d4d930310e",
+      "disruptionId": "9959d965-c53c-432e-a124-a7e456100cf4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Reparatur an der Strecke zwischen Köln und Aachen",
+      "summary": "Aufgrund einer Reparatur bei Horrem ist die Strecke zwischen Aachen und Köln beeinträchtigt. Dadurch kommt es zu Umleitungen und Teilausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Linie (Brüssel– Aachen – Köln – Frankfurt (M))</li></ul><p>Die Züge werden zwischen Köln und Aachen umgeleitet und erhalten eine Verspätung von ca. 60 Minuten</p><p>In der Folge kann es zu Teilausfällen im restlichen Fahrtverlauf zwischen Brüssel und Frankfurt kommen.</p><p>Die Dauer der Störung soll vsl. bis 10.08.2026 04:00 andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/9959d965-c53c-432e-a124-a7e456100cf4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.08.2026 00:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ca051dcb-310c-4183-b08a-35d4d930310e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "e82a59d0-90b9-4da5-8bad-dfd4b0687cda",
       "disruptionId": "819798f0-0011-485b-8e02-9b4ace1cf06d",
       "author": "FERNVERKEHR_AG",
@@ -483,6 +534,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "13539fa9-9bce-411b-8822-168c7bd750f4",
+      "disruptionId": "d9c41f75-945a-4cab-a1c7-d9c23c7ec435",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "S2 Altomünster - Erdweg: Reparatur an der Oberleitung ",
+      "summary": "Zwischen Erdweg und Altomünster sind bis auf weiteres keine Zugfahrten möglich. ",
+      "text": "<p><strong>Wir haben einen Ersatzverkehr mit Taxis / Großraumtaxis 🚕 für Sie eingerichtet.</strong></p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Oberleitung in Kleinberghofen.</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "06.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/d9c41f75-945a-4cab-a1c7-d9c23c7ec435",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-05/519d73f1-fbb1-4b37-b378-114d0cef6542st%25C3%25B6rungskarte_20260805-234614.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-05/519d73f1-fbb1-4b37-b378-114d0cef6542st%25C3%25B6rungskarte_20260805-234614.png",
+          "info": "",
+          "alt": "Störungskarte 05.08.2026 23:46:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.08.2026 23:49",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/13539fa9-9bce-411b-8822-168c7bd750f4",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section8"
+    },
+    {
       "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "author": "REGIO_BW",
@@ -537,43 +633,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section2"
-    },
-    {
-      "id": "c961d450-7b2d-4e6d-8675-ce38e30d6e2e",
-      "disruptionId": "03472766-ade4-4b95-a32d-4b5443b3b761",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_heat",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Die Linie RE 18 zwischen Saarbrücken Hbf und Metz Ville ist aktuell eingestellt.",
-      "summary": "Der Grund sind Unwetterauswirkungen.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Saarbrücken Hbf &lt;&gt; Metz Ville</p><p>🕜<strong>Am 05.08.2026, ganztägig.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE18 - Saarbrücken &lt;&gt; Forbach &lt;&gt; MetzVille</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zug fällt aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Metz Ville und Saarbrücken Hbf für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "04.08.2026",
-      "durationEnd": "05.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/03472766-ade4-4b95-a32d-4b5443b3b761",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL"
-      ],
-      "lines": [
-        {
-          "name": "RE 18",
-          "filterName": "RE 18",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.08.2026 13:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c961d450-7b2d-4e6d-8675-ce38e30d6e2e",
-      "magnoliaPath": "/aktuell/mitte/no_service_weather_heat"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
