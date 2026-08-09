@@ -53,53 +53,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
     },
     {
-      "id": "e3f9efb0-0465-42c3-848d-df0713c71d5b",
-      "disruptionId": "4364f239-47b5-4e9d-8ca6-7d4adea1aa61",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Beeinträchtigung durch Vandalismus"
-      },
-      "headline": "Beeinträchtigungen zwischen Lutherstadt Wittenberg und Bitterfeld",
-      "summary": "Aufgrund von Vandalismusschäden zwischen Lutherstadt Wittenberg und Bitterfeld kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und TGV- Züge zwischen Berlin - Halle/Leipzig - Nürnberg/Frankfurt (Main)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/4364f239-47b5-4e9d-8ca6-7d4adea1aa61",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-09/11035add-73f5-4261-8af5-6e72de489cedst%25C3%25B6rungskarte_20260809-073639.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-09/11035add-73f5-4261-8af5-6e72de489cedst%25C3%25B6rungskarte_20260809-073639.png",
-          "info": "",
-          "alt": "Störungskarte 09.08.2026 07:36:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "TH",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.08.2026 07:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/e3f9efb0-0465-42c3-848d-df0713c71d5b",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_other_cause"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -685,6 +638,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "b011af10-09d8-4586-b8fe-768b1325e35a",
+      "disruptionId": "d66ea5b7-e409-4048-a8e8-6c97b0a7f025",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Rosenheim",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen München und Rosenheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu (Teil-) Ausfällen und Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-, IC-, EC- und RJ-Züge zwischen München - Rosenheim - Salzburg/Kufstein - Österreich/Ungarn/Italien</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/d66ea5b7-e409-4048-a8e8-6c97b0a7f025",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-09/44522069-4d7a-4bb2-a2aa-13bcf992cb4bst%25C3%25B6rungskarte_20260809-150510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-09/44522069-4d7a-4bb2-a2aa-13bcf992cb4bst%25C3%25B6rungskarte_20260809-150510.png",
+          "info": "",
+          "alt": "Störungskarte 09.08.2026 15:05:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.08.2026 15:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/b011af10-09d8-4586-b8fe-768b1325e35a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "d4df8373-6a35-424e-8981-184bb3a93d7c",
