@@ -481,6 +481,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f81f5a83-c21b-4ef7-ba63-00060f3ea586",
+      "disruptionId": "b64a7cdb-a299-46d7-9ef1-5e0724e2a7b2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 1 Freising/Flughafen: Technische Störung an einem Zug",
+      "summary": "Derzeit kommt es auf der Linie S1 in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Bis auf weiteres verkehren die S-Bahnen ab Neufahrn im 40-Minuten-Takt abwechselnd nach Freising und zum Flughafen.</p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Als Alternative empfehlen wir auf die S-Bahnen der Linie S8 Flughafen/Airport auszuweichen.</p><p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "10.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/b64a7cdb-a299-46d7-9ef1-5e0724e2a7b2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/35c95916-5084-4b02-aed5-4de5cd84861bst%25C3%25B6rungskarte_20260810-184048.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/35c95916-5084-4b02-aed5-4de5cd84861bst%25C3%25B6rungskarte_20260810-184048.png",
+          "info": "",
+          "alt": "Störungskarte 10.08.2026 18:40:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.08.2026 18:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f81f5a83-c21b-4ef7-ba63-00060f3ea586",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "056d9795-3bff-4082-abc3-86c53021535c",
       "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
       "author": "FERNVERKEHR_AG",
@@ -698,6 +743,58 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "650ed3ed-e260-4a26-8649-b2f982a339f4",
+      "disruptionId": "a11c0911-adc6-41c6-bee1-d4ba3f1f1091",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Derzeit kein Halt der S1, S2, S3 und S5 in Hamburg Hbf am Gleis 1 und 2.",
+      "summary": "Derzeit halten keine S1, S2, S3 und S5  in Hamburg Hbf am Gleis 1 und 2. Grund: Polizeieinsatz.",
+      "text": "<p></p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "10.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/a11c0911-adc6-41c6-bee1-d4ba3f1f1091",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.08.2026 19:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/650ed3ed-e260-4a26-8649-b2f982a339f4",
+      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity"
+    },
+    {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -803,6 +900,73 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "ece13578-6257-4795-83dd-8424d9cc999c",
+      "disruptionId": "b2931ff5-23f1-4ddb-a933-6a2d4613ea84",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die Linien S 1, S 2, S 4, S 6 in der Nacht  Montag/Dienstag, 10./11.08.2026 ",
+      "summary": "wegen Bauarbeiten zur 2. Stammstrecke kommt es zwischen Pasing und Ostbahnhof/Riem/Trudering  in der Nacht von  Montag/Dienstag, 10./11.08.2026  von 21:20 Uhr bis 04:40 Uhr zu Fahrplanänderungen mit Ersatzverkehr.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>Ersatzverkehr zwischen Ostbahnhof und Trudering</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke)</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Ostbahnhof</li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge fahren planmäßig zwischen Holzkirchen und Mammendorf</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge fahren zwischen Pasing und Aying</li><li>Zwischen Aying und Kreuzstraße besteht Ersatzverkehr aufgrund anderer Bauarbeiten</li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Ersatzverkehr mit Bussen zwischen Trudering und Ostbahnhof</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Gauting. Es besteht Ersatzverkehr mit Bussen zwischen Pasing und Gauting aufgrund anderer Bauarbeiten</li><li>Zwischen Trudering und Gauting entfallen die Züge der S6</li></ul><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li>Züge fahren zwischen Hauptbahnhof und Icking</li><li>Zwischen Icking und Wolfratshausen besteht Ersatzverkehr aufgrund anderer Bauarbeiten</li></ul><p></p><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge fahren ab 3 Uhr planmäßig zwischen Herrsching und Flughafen/Airport (Bis 3 Uhr besteht Ersatzverkehr mit Bussen zwischen Pasing und Harthaus aufgrund anderer Bauarbeiten). Beachten Sie, dass die Züge aus Richtung Flughafen nach Herrsching am Leuchtenbergring über Gleis 4 fahren</li></ul><p></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "11.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/b2931ff5-23f1-4ddb-a933-6a2d4613ea84",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/3ca70e35-9cb4-4abb-bf67-cf0b0e746168st%25C3%25B6rungskarte_20260725-142215.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/3ca70e35-9cb4-4abb-bf67-cf0b0e746168st%25C3%25B6rungskarte_20260725-142215.png",
+          "info": "",
+          "alt": "Störungskarte 25.07.2026 14:22:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/07bd966a-a506-460d-b628-d7de78b60d50Fpl%2BS1%252BS%2B2%252BS%2B4%252BS%2B6%252BSEV%2B10-11%2BAug.pdf",
+          "label": "S1+S 2+S 4+S 6+SEV 10-11 Aug.",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.08.2026 19:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ece13578-6257-4795-83dd-8424d9cc999c",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
       "id": "17205db8-e27a-4219-9c44-9a0eafff3f9b",
       "disruptionId": "a8d2b96f-6d0b-409a-ad0e-6169231e39f7",
       "author": "S_BAHN_MUC",
@@ -902,6 +1066,51 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "7c1bd940-a5bc-4b0c-b5eb-3f0415d797f2",
+      "disruptionId": "fa0c9540-5ef4-440d-ab6b-76e3b5f6fa5b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 2 Riem ↔ Heimstetten",
+      "summary": "Zwischen Riem und Heimstetten kommt es noch zu vereinzelten Folgeverspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Die Reparatur an einem Signal in Feldkirchen wurde beendet.</p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "10.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/fa0c9540-5ef4-440d-ab6b-76e3b5f6fa5b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/5c9a09b5-8587-4652-ac77-4c33d07f0501st%25C3%25B6rungskarte_20260810-190356.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/5c9a09b5-8587-4652-ac77-4c33d07f0501st%25C3%25B6rungskarte_20260810-190356.png",
+          "info": "",
+          "alt": "Störungskarte 10.08.2026 19:03:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.08.2026 19:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7c1bd940-a5bc-4b0c-b5eb-3f0415d797f2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "dafc8d74-35eb-43e2-ad64-9ffe002627df",
       "disruptionId": "0a306572-2e08-40d2-8828-0e4134eba369",
       "author": "S_BAHN_MUC",
@@ -909,16 +1118,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Reparatur an einem Signal",
-      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten .",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 3 Deisenhofen ↔ Holzkirchen",
+      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es noch zu vereinzelten Folgeverspätungen von bis zu 10 Minuten .",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "10.08.2026",
       "durationEnd": "10.08.2026",
       "mapHref": "https://karte.bahn.de/detail/0a306572-2e08-40d2-8828-0e4134eba369",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/29f8edd9-fc05-4629-bdfb-542edaa15135st%25C3%25B6rungskarte_20260810-182402.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/29f8edd9-fc05-4629-bdfb-542edaa15135st%25C3%25B6rungskarte_20260810-182402.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/0594b900-262c-412d-94da-5b9a40e97769st%25C3%25B6rungskarte_20260810-182402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-10/0594b900-262c-412d-94da-5b9a40e97769st%25C3%25B6rungskarte_20260810-182402.png",
           "info": "",
           "alt": "Störungskarte 10.08.2026 18:24:02",
           "openInNewTab": true
@@ -939,7 +1148,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.08.2026 18:25",
+      "lastModified": "10.08.2026 19:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
