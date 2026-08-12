@@ -79,35 +79,20 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "291d0417-5019-420c-b241-9ad51f244948",
-      "disruptionId": "81b0b26b-aa1b-4fa5-89b7-5e1890ea4cf6",
+      "id": "0c6849d7-c36c-40bb-86d9-38fae2d1b2a5",
+      "disruptionId": "51e96ee1-fcfe-4eca-837e-818739d338cd",
       "author": "REGIO_NORD",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Beeinträchtigungen im Regionalverkehr zwischen  Elmshorn und Hamburg",
-      "summary": "Aufgrund einer Reparatur an einer Weiche in Hamburg-Eidelstedt ist der Regionalverkehr zwischen Elmshorn und Pinneberg bis voraussichtlich morgen Vormittag beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 7 (Flensburg/Kiel Hbf – Pinneberg): Die Züge enden/beginnen in Neumünster, zur Weiterfahrt nutzen Sie bitte die Züge der Linie RE 70 bis Pinneberg. Zwischen Pinneberg und Hamburg Hbf verkehren die Züge der S-Bahn Linie 3.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "headline": "Beeinträchtigungen im Regionalverkehr zwischen Pinneberg und Hamburg-Altona",
+      "summary": "Aufgrund eines Stellwerkausfalls in Hamburg-Altona ist der Regionalverkehr zwischen Pinneberg und Hamburg-Altona beeinträchtigt. In der Folge kommt es zu Verspätungen und (Teil-) Ausfällen.\n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge von/nach Westerland(Sylt) bzw. Husum enden/beginnen in Elmshorn. Zur Weiterfahrt nutzen Sie bitte die Züge der Linie RE 70 und RE 7 bis Pinneberg. Zwischen Pinneberg und Hamburg Hbf verkehren die Züge der S-Bahn Linie 3.</li><li>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf): Die Züge von/nach Flensburg/Kiel Hbf enden/beginnen in Pinneberg. Zwischen Pinneberg und Hamburg Hbf verkehren die Züge der S-Bahn Linie 3.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "12.08.2026",
       "durationEnd": "13.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/81b0b26b-aa1b-4fa5-89b7-5e1890ea4cf6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/576ee25e-5eaf-439e-b10f-860fe95f3e50st%25C3%25B6rungskarte_20260812-154625.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/576ee25e-5eaf-439e-b10f-860fe95f3e50st%25C3%25B6rungskarte_20260812-154625.png",
-          "info": "",
-          "alt": "Störungskarte 12.08.2026 15:46:25",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/60ded36b-5308-4c35-9cdb-4e248e60d784st%25C3%25B6rungskarte_20260812-163524.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/60ded36b-5308-4c35-9cdb-4e248e60d784st%25C3%25B6rungskarte_20260812-163524.png",
-          "info": "",
-          "alt": "Störungskarte 12.08.2026 16:35:24",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/51e96ee1-fcfe-4eca-837e-818739d338cd",
+      "images": [],
       "downloads": [],
       "links": [
         {
@@ -130,7 +115,7 @@
         },
         {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
+          "label": "Fahrgastrechte ",
           "info": "",
           "openInNewTab": true
         }
@@ -144,17 +129,27 @@
       ],
       "lines": [
         {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 7",
           "filterName": "RE 7",
           "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.08.2026 18:01",
+      "lastModified": "12.08.2026 22:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/291d0417-5019-420c-b241-9ad51f244948",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/0c6849d7-c36c-40bb-86d9-38fae2d1b2a5",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section4"
     },
     {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
