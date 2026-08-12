@@ -194,6 +194,90 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "36f888ce-51f4-4992-93af-6a9f54fe10dc",
+      "disruptionId": "c059c0ab-259b-4744-9504-98bdaf7fb61a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Derzeit keine S1 zw. Hamburg-Blankenese u. Wedel",
+      "summary": "Derzeit fährt keine S1 zwischen Hamburg-Blankenese und Wedel. Grund: Umgestürzter Baum auf der Strecke. Nutzen Sie alternativ den eingerichteten Ersatzverkehr mit Bussen.",
+      "text": "<p></p>",
+      "durationBegin": "12.08.2026",
+      "durationEnd": "12.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/c059c0ab-259b-4744-9504-98bdaf7fb61a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.08.2026 06:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/36f888ce-51f4-4992-93af-6a9f54fe10dc",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "df976894-126a-4315-b77c-f2ec65ea474d",
+      "disruptionId": "6548d7cc-e372-4a88-bd89-3b32f42150fe",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Die Strecke zwischen Ensdorf(Saar) und Saarlouis Hbf ist im Moment gesperrt.",
+      "summary": "Der Grund ist ein Feuerwehreinsatz auf der Strecke.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ensdorf(Saar) &lt;&gt; Saarlouis Hbf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge aus Richtung Dillingen(Saar) enden und beginnen in Völklingen. Aus Richtung Saarbrücken Hbf enden und beginnen die Züge in Völklingen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bussen, warten aber noch auf die Bestätigung unserer Partner.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "12.08.2026",
+      "durationEnd": "12.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/6548d7cc-e372-4a88-bd89-3b32f42150fe",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lines": [
+        {
+          "name": "RB 70",
+          "filterName": "RB 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 71",
+          "filterName": "RB 71",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.08.2026 06:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/df976894-126a-4315-b77c-f2ec65ea474d",
+      "magnoliaPath": "/aktuell/mitte/no_service_police_activity"
+    },
+    {
       "id": "2e99451f-720a-4cb8-9351-2663b897c10e",
       "disruptionId": "64f05e48-5442-4e97-93ee-200d6dbe83e0",
       "author": "REGIO_MITTE",
@@ -661,11 +745,12 @@
       "summary": "Aufgrund einer Störung an der Strecke zwischen Frankfurt(M) und Gießen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Kassel-Wilhelmshöhe und Frankfurt(M) mit planmäßigen Halt in Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) werden in beiden Fahrtrichtungen umgeleitet. Die Halte Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Gäste von/nach Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) nutzen bitte die Züge des Nahverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Mittagsstunden am Mi, 12.08.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "11.08.2026",
+      "durationEnd": "12.08.2026",
       "mapHref": "https://karte.bahn.de/detail/b6fd4416-8c4d-4652-b633-f6ed6d1ed78a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-11/6264c8e5-7c43-41f7-99ad-2ca1b6752921st%25C3%25B6rungskarte_20260811-132233.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-11/6264c8e5-7c43-41f7-99ad-2ca1b6752921st%25C3%25B6rungskarte_20260811-132233.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/efecfa51-259d-4613-855f-64fd6725bc23st%25C3%25B6rungskarte_20260811-132233.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/efecfa51-259d-4613-855f-64fd6725bc23st%25C3%25B6rungskarte_20260811-132233.png",
           "info": "",
           "alt": "Störungskarte 11.08.2026 13:22:33",
           "openInNewTab": true
@@ -686,9 +771,10 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.08.2026 13:27",
+      "lastModified": "12.08.2026 05:50",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1d024550-11b9-4095-830d-81dafac6f3be",
       "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
     },
