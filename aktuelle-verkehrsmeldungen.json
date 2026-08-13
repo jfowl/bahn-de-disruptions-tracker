@@ -183,77 +183,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "7d07c30a-7b7f-49fe-b2c1-731fcf16ee61",
-      "disruptionId": "0d6a0265-6a2d-462b-9985-8603eca21f23",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Streckensperrung zwischen Celle und Eschede aufgehoben",
-      "summary": "Nach einem Gefahrengutaustritts ist die Streckensperrung wieder aufgehoben. Die Züge könne wieder planmäßig verkehren.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 (Uelzen-Göttingen): Die Züge verkehren wieder planmäßig. Erster durchfahrender Zug ab Uelzen ist der RE 82829 um 17:14 Uhr. Erster durchfahrender Zug ab Hannover Hbf Richtung Uelzen ist RE 82836 um 18:23 Uhr.</li></ul><p>Der Ersatzverkehr mit Bus läuft in Kürze aus.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "13.08.2026",
-      "durationEnd": "13.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/0d6a0265-6a2d-462b-9985-8603eca21f23",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-13/89c437b8-abf9-4c08-b687-dc73f65e0b35st%25C3%25B6rungskarte_20260813-170513.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-13/89c437b8-abf9-4c08-b687-dc73f65e0b35st%25C3%25B6rungskarte_20260813-170513.png",
-          "info": "",
-          "alt": "Störungskarte 13.08.2026 17:05:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen  ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "13.08.2026 17:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7d07c30a-7b7f-49fe-b2c1-731fcf16ee61",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
       "disruptionId": "a75f082d-89b1-4f21-9222-c18b2f0aa8ac",
       "author": "REGIO_NORD",
@@ -1391,6 +1320,48 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cbb4cc99-e8c5-4f3d-80f0-53d7ddb72ff9",
       "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_vehicle0"
+    },
+    {
+      "id": "d14aa52a-4c31-46c1-b8ed-bc11be716873",
+      "disruptionId": "d15b3027-b75e-4833-8e3e-cf9f37d4f02b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen und Ausfällen. Grund: Technische Störung an der Strecke.",
+      "text": "<p></p>",
+      "durationBegin": "13.08.2026",
+      "durationEnd": "13.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/d15b3027-b75e-4833-8e3e-cf9f37d4f02b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.08.2026 18:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d14aa52a-4c31-46c1-b8ed-bc11be716873",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
