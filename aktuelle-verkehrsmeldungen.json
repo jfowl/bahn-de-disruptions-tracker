@@ -79,52 +79,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "6dee1738-9195-4955-8615-93670066f884",
-      "disruptionId": "cbf6e915-102d-4cbe-9a50-4688fcd23b80",
-      "author": "REGIO_MITTE",
+      "id": "d0492daf-f468-4da7-a682-83a337adb3b4",
+      "disruptionId": "0baddd94-0a52-4c02-a9e8-e6c855e50ee1",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Die Reparatur an der Oberleitung zwischen Dillingen(Saar) und Merzig(Saar) Hbf ist beendet.",
-      "summary": "Die Reparatur an der Oberleitung zwischen Dillingen(Saar) und Merzig(Saar) Hbf ist beendet. Bis sich der Bahnverkehr wieder normalisiert hat muss noch mit Folgeverspätungen und kurzfristigen Fahrtausfällen gerechnet werden.",
-      "text": "<p>🚉 <strong>Betroffene Linien waren:</strong></p><ul><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "headline": "Derzeit keine S5 zw. Buxtehude u. Horneburg",
+      "summary": "Derzeit fährt keine S5 zwischen Buxtehude und Horneburg. Voraussichtliches Störungsende: 14.08.2026, 12:00 Uhr. Grund: Weichenstörung. Nutzen Sie alternativ den Ersatzverkehr mit Bussen zwischen Buxtehude und Horneburg. Zwischen Horneburg und Stade pendelt eine S-Bahn. Der RE5 hält zusätzlich in Neukloster.",
+      "text": "<p></p>",
       "durationBegin": "14.08.2026",
       "durationEnd": "14.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/cbf6e915-102d-4cbe-9a50-4688fcd23b80",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/0baddd94-0a52-4c02-a9e8-e6c855e50ee1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-08-14/4b3ce1e6-a0ad-4242-a8d2-4e96c25dc8c6st%25C3%25B6rungskarte_20260814-080809.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-08-14/4b3ce1e6-a0ad-4242-a8d2-4e96c25dc8c6st%25C3%25B6rungskarte_20260814-080809.png",
+          "info": "",
+          "alt": "Störungskarte 14.08.2026 08:08:09",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "SL",
-        "RP"
+        "HH",
+        "NI"
       ],
       "lines": [
         {
-          "name": "RB 70",
-          "filterName": "RB 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 71",
-          "filterName": "RB 71",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "14.08.2026 07:39",
+      "lastModified": "14.08.2026 08:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6dee1738-9195-4955-8615-93670066f884",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/d0492daf-f468-4da7-a682-83a337adb3b4",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section3"
     },
     {
       "id": "ae792026-c497-4182-8a9a-241df9929ff8",
@@ -134,16 +132,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "Beeinträchtigungen im Regionalverkehr zwischen Elmshorn und Hamburg",
-      "summary": "Aufgrund der Reparatur an einer Weiche in Hamburg-Eidelstedt ist der Regionalverkehr zwischen Elmshorn und Hamburg-Altona bis voraussichtlich Freitag, den 14.08.2026, bis in die Vormittagsstunden beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge von/nach Westerland(Sylt) enden/beginnen in Elmshorn. Zur Weiterfahrt nutzen Sie bitte die Züge der Linie RE 70 bis Pinneberg. Zwischen Pinneberg und Hamburg verkehren die Züge der S-Bahn Linie S 3.</li><li>RE 7 (Flensburg/Kiel Hbf – Hamburg-Altona): Die Züge von/nach Flensburg bzw. Kiel Hbf enden/beginnen in Neumünster Zur Weiterfahrt nutzen Sie bitte die Züge der Linie RE 70 bis Pinneberg. Zwischen Pinneberg und Hamburg verkehren die Züge der S-Bahn Linie S 3.</li><li>RE 70 (Kiel Hbf – Hamburg-Altona): Die Züge von/nach Kiel Hbf enden/beginnen in Pinneberg. Zur Weiterfahrt Richtung Hamburg nutzen Sie bitte die Züge der S-Bahn Linie S 3.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "headline": "Beeinträchtigungen im Regionalverkehr zwischen Elmshorn und Hamburg behoben",
+      "summary": "Die Reparatur an einer Weiche in Hamburg-Eidelstedt ist beendet. Es kommt noch zu Verspätungen.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge verkehren auf dem Regelfahrweg.</li><li>RE 7 (Flensburg/Kiel Hbf – Hamburg-Altona): Die Züge verkehren auf dem Regelfahrweg.</li><li>RE 70 (Kiel Hbf – Hamburg-Altona): Die Züge verkehren auf dem Regelfahrweg.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "14.08.2026",
       "durationEnd": "14.08.2026",
       "mapHref": "https://karte.bahn.de/detail/a0f99c1b-57e0-4f82-97b9-66034aaa6ddb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-14/8a18be07-f89c-4502-b688-6b42d7522c6dst%25C3%25B6rungskarte_20260814-032621.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-14/8a18be07-f89c-4502-b688-6b42d7522c6dst%25C3%25B6rungskarte_20260814-032621.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-14/1246cde0-6490-4a16-83e3-d7d74c404777st%25C3%25B6rungskarte_20260814-032621.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-14/1246cde0-6490-4a16-83e3-d7d74c404777st%25C3%25B6rungskarte_20260814-032621.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 03:26:21",
           "openInNewTab": true
@@ -152,26 +150,26 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://www.bahn.de/service/mobile/db-navigator",
           "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
         {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
           "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
           "info": "",
           "openInNewTab": true
         }
@@ -205,7 +203,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.08.2026 03:28",
+      "lastModified": "14.08.2026 09:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -328,49 +326,66 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "2597e207-8d75-45be-a1a8-e8e1a6cc140c",
-      "disruptionId": "41cf5f48-24b0-4528-a5bb-b393cc74d2a3",
-      "author": "S_BAHN_MUC",
+      "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
+      "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
+      "author": "REGIO_BW",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S1 Neufahrn - Flughafen: Reparatur an einem Signal",
-      "summary": "Zwischen Neufahrn und Flughafen sind bis auf weiteres keine Zugfahrten möglich ❗",
-      "text": "<p><strong>Wir haben einen Ersatzverkehr mit Taxis / Großraumtaxis und Bus für Sie eingerichtet.</strong></p><p>ℹ️ Bitte nutzen Sie nur die Taxis (Großraumtaxis) mit speziell gekennzeichneter „Ersatzverkehr“- Beschilderung.</p><p><strong>👉🏼Fahrgäste direkt zum/vom Flughafen nutzen bitte auch die S-Bahnen der Linie S8 </strong></p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einem Signal am Flughafen.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor ❕</p>",
-      "durationBegin": "14.08.2026",
-      "durationEnd": "14.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/41cf5f48-24b0-4528-a5bb-b393cc74d2a3",
+      "headline": "Streckensperrung zwischen Schwäbisch Hall-Hessental und Gaildorf West",
+      "summary": "Der Streckenabschnitt von Schwäbisch Hall-Hessental bis Gaildorf West ist im Moment gesperrt. Dauer der Sperrung bis vsl. Montag, 31. August, 04:00 Uhr. Ab 31. August bis 11. September fallen die Züge der Linie MEX 90 weiterhin auf dem Streckenabschnitt aus. Bitte nutzen Sie die übrigen Züge der Linie RE 90 oder den erweiterten Ersatzverkehr mit Bussen. Dieser ist ab 19. August in der Reiseauskunft ersichtlich. Der Grund ist eine kurzfristige Reparatur an der Strecke. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. Die Abfahrtszeiten der Ersatzbusse der Linie MEX 90 sind in der Reiseauskunft bis 30. August ersichtlich. Berücksichtigen Sie bitte die längeren Fahrzeiten der Busse bei Ihrer Reiseplanung.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "07.08.2026",
+      "durationEnd": "11.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/79dddda9-a444-4656-bcfa-8a2f4d72e7east%25C3%25B6rungskarte_20260814-072233.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/79dddda9-a444-4656-bcfa-8a2f4d72e7east%25C3%25B6rungskarte_20260814-072233.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-14/cbde34cf-3a89-46ce-aea0-356b8da3fc63st%25C3%25B6rungskarte_20260725-121600.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-14/cbde34cf-3a89-46ce-aea0-356b8da3fc63st%25C3%25B6rungskarte_20260725-121600.png",
           "info": "",
-          "alt": "Störungskarte 14.08.2026 07:22:33",
+          "alt": "Störungskarte 25.07.2026 12:16:00",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-14/14287a71-6b77-4a10-952f-8dae00a41e50Fahrplan%2BErsatzverkehr%2B31.08.-11.09..pdf",
+          "label": "Bus Ersatzfahrplan Gaildorf West_Schw.Hall-Hessental bis 31.8. bis 11.09.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-14/8f4397f4-0e27-44fc-9b42-300edf616561Bus%2BErsatzfahrplan%2BGaildorf%2BWest_Schw.Hall-Hessental%2Bbis%2B30.8.2026.pdf",
+          "label": "Bus Ersatzfahrplan Gaildorf West_Schw.Hall-Hessental bis 30.8.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
+          "name": "RB MEX90",
+          "filterName": "RB MEX90",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE MEX90",
+          "filterName": "RE MEX90",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.08.2026 07:30",
-      "expand": true,
+      "lastModified": "14.08.2026 08:25",
+      "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2597e207-8d75-45be-a1a8-e8e1a6cc140c",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
+      "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section2"
     },
     {
       "id": "2e99451f-720a-4cb8-9351-2663b897c10e",
@@ -421,62 +436,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/2e99451f-720a-4cb8-9351-2663b897c10e",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
-      "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Schwäbisch Hall-Hessental und Gaildorf West",
-      "summary": "Der Streckenabschnitt von Schwäbisch Hall-Hessental bis Gaildorf West ist im Moment gesperrt. Dauer der Sperrung bis vsl. Montag, 31. August, 04:00 Uhr. Ab 31. August bis 11. September fallen die Züge der Linie MEX 90 weiterhin auf dem Streckenabschnitt aus. Bitte nutzen Sie die übrigen Züge der Linie RE 90 oder den erweiterten Ersatzverkehr mit Bussen. Dieser ist ab 19. August in der Reiseauskunft ersichtlich. Der Grund ist eine kurzfristige Reparatur an der Strecke. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. Die Abfahrtszeiten der Ersatzbusse der Linie MEX 90 sind in der Reiseauskunft bis 30. August ersichtlich. Berücksichtigen Sie bitte die längeren Fahrzeiten der Busse bei Ihrer Reiseplanung.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "07.08.2026",
-      "durationEnd": "31.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/66056b81-f746-4d06-9cd9-9a74772ce0f6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-13/bdc35b99-f376-4942-a8c6-9ea3f0ff85fcst%25C3%25B6rungskarte_20260725-121600.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-13/bdc35b99-f376-4942-a8c6-9ea3f0ff85fcst%25C3%25B6rungskarte_20260725-121600.png",
-          "info": "",
-          "alt": "Störungskarte 25.07.2026 12:16:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-13/528e2ce2-78f2-4366-8d40-759503bdf41aBus%2BErsatzfahrplan%2BGaildorf%2BWest_Schw.Hall-Hessental%2Bbis%2B30.8.2026.pdf",
-          "label": "Bus Ersatzfahrplan Gaildorf West_Schw.Hall-Hessental bis 30.8.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB MEX90",
-          "filterName": "RB MEX90",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE MEX90",
-          "filterName": "RE MEX90",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "13.08.2026 11:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section2"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -1223,8 +1182,8 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "80e6ef3b-e979-4581-a7af-96e858eb5173",
-      "disruptionId": "d84b10f1-ea4f-417f-8bc8-4f66959c21ab",
+      "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
+      "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
@@ -1234,14 +1193,14 @@
       "summary": "Zwischen Altomünster und Erdweg kommt es ab dem 01.09.2026 zu Anpassungen im Fahrplan.",
       "text": "<p>Die S-Bahnen in Richtung Dachau Bahnhof fahren in Altomünster und Kleinberghofen jeweils 2 Minuten früher ab. Die S-Bahnen in Richtung Altomünster kommen in Kleinberghofen und Altomünster jeweils 2 Minuten später an.</p><p>Die angepassten Fahrzeiten werden in der Fahrplanauskunft angezeigt und können dort jederzeit abgerufen werden. Die Fahrplananpassungen gelten voraussichtlich bis Dezember 2026.</p><p>Grund hierfür ist die verminderte Geschwindigkeit auf der Strecke.</p>",
       "durationBegin": "01.09.2026",
-      "durationEnd": "01.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/d84b10f1-ea4f-417f-8bc8-4f66959c21ab",
+      "durationEnd": "30.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/7937faf1-ac44-4ccc-92f8-7347834a601ast%25C3%25B6rungskarte_20260810-134923.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/7937faf1-ac44-4ccc-92f8-7347834a601ast%25C3%25B6rungskarte_20260810-134923.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/c0dda604-a19a-44de-ac73-fb074461ed22st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/c0dda604-a19a-44de-ac73-fb074461ed22st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
-          "alt": "Störungskarte 10.08.2026 13:49:23",
+          "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
         }
       ],
@@ -1260,55 +1219,11 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.08.2026 00:02",
+      "lastModified": "14.08.2026 09:35",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/80e6ef3b-e979-4581-a7af-96e858eb5173",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "5a3bd546-bcda-4ec2-a04a-6808237474b7",
-      "disruptionId": "d84b10f1-ea4f-417f-8bc8-4f66959c21ab",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 2 Altomünster ↔ Erdweg: Verminderte Geschwindigkeit auf der Strecke",
-      "summary": "Zwischen Altomünster und Erdweg kommt es ab dem 01.09.2026 zu Anpassungen im Fahrplan.",
-      "text": "<p>Die S-Bahnen in Richtung Dachau Bahnhof fahren in Altomünster und Kleinberghofen jeweils 2 Minuten früher ab. Die S-Bahnen in Richtung Altomünster kommen in Kleinberghofen und Altomünster jeweils 2 Minuten später an.</p><p>Die angepassten Fahrzeiten werden in der Fahrplanauskunft angezeigt und können dort jederzeit abgerufen werden. Die Fahrplananpassungen gelten voraussichtlich bis Dezember 2026.</p><p>Grund hierfür ist die verminderte Geschwindigkeit auf der Strecke.</p>",
-      "durationBegin": "01.09.2026",
-      "durationEnd": "01.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/d84b10f1-ea4f-417f-8bc8-4f66959c21ab",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/7937faf1-ac44-4ccc-92f8-7347834a601ast%25C3%25B6rungskarte_20260810-134923.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-14/7937faf1-ac44-4ccc-92f8-7347834a601ast%25C3%25B6rungskarte_20260810-134923.png",
-          "info": "",
-          "alt": "Störungskarte 10.08.2026 13:49:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.08.2026 00:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5a3bd546-bcda-4ec2-a04a-6808237474b7",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
+      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
     },
     {
       "id": "17205db8-e27a-4219-9c44-9a0eafff3f9b",
