@@ -191,9 +191,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Stammstrecke Hauptbahnhof : Polizeieinsatz",
-      "summary": "Die S-Bahnen halten derzeit nicht Hauptbahnhof.\nBitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz (Stachus), München.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "headline": "Endmeldung: Stammstrecke Hauptbahnhof",
+      "summary": "Die S-Bahnen halten wieder Hauptbahnhof.",
+      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
       "durationBegin": "15.08.2026",
       "durationEnd": "15.08.2026",
       "mapHref": "https://karte.bahn.de/detail/1666b4ea-218e-4c31-9fca-fcfa2c29cdf5",
@@ -243,7 +243,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.08.2026 09:58",
+      "lastModified": "15.08.2026 10:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -447,6 +447,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "34346b3a-4037-4130-8ebc-e58f9aab7fa1",
+      "disruptionId": "f26ba2c6-9b90-48dd-b291-8c346fba97b7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Reparatur an einem Signal",
+      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "15.08.2026",
+      "durationEnd": "15.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/f26ba2c6-9b90-48dd-b291-8c346fba97b7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.08.2026 10:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/34346b3a-4037-4130-8ebc-e58f9aab7fa1",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "ea329581-d22e-4591-a223-6d50aa0a301e",
