@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "b311a24c-6abc-406c-9e46-a88236a3377f",
+      "disruptionId": "4ed9b3b9-7d20-45f3-84f2-1410fbcc0246",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamm/W und Hannover",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Weetzen und Springe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 60 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Köln/ Düsseldorf - Dortmund - Hamm/ W - Hannover - Berlin</li><li>Amsterdam - Hannover - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/4ed9b3b9-7d20-45f3-84f2-1410fbcc0246",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-15/935330f2-9da9-4121-8d41-3c002d077511st%25C3%25B6rungskarte_20260815-170221.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-15/935330f2-9da9-4121-8d41-3c002d077511st%25C3%25B6rungskarte_20260815-170221.png",
+          "info": "",
+          "alt": "Störungskarte 15.08.2026 17:02:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.08.2026 17:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/b311a24c-6abc-406c-9e46-a88236a3377f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "354f38bc-40e9-484c-8341-1b31fe4b8a2b",
       "disruptionId": "94aac36a-1f5e-402b-8dac-c7dc5e3c611a",
       "author": "REGIO_SUEDOST",
@@ -58,7 +104,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.08.2026 16:31",
+      "lastModified": "15.08.2026 17:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
