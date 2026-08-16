@@ -115,52 +115,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
-      "id": "45e22b30-7742-4b3b-8515-039dfc740010",
-      "disruptionId": "df210d2f-a94c-4339-87f3-f3ca15eb2c88",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Stendal Hbf ⇄ Uelzen - Beeinträchtigung",
-      "summary": "Der Streckenabschnitt zwischen Stendal und Uelzen ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 20:00 Uhr. Der Grund ist ein Notarzteinsatz auf der Strecke.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Notarzteinsatz auf der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "16.08.2026",
-      "durationEnd": "16.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/df210d2f-a94c-4339-87f3-f3ca15eb2c88",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-08-16/9d81e28f-0e71-4e77-a226-6be6da6cc9f6st%25C3%25B6rungskarte_20260816-182912.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-08-16/9d81e28f-0e71-4e77-a226-6be6da6cc9f6st%25C3%25B6rungskarte_20260816-182912.png",
-          "info": "",
-          "alt": "Störungskarte 16.08.2026 18:29:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.08.2026 18:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/45e22b30-7742-4b3b-8515-039dfc740010",
-      "magnoliaPath": "/aktuell/suedost/impairment_medical_emergency0"
-    },
-    {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
       "disruptionId": "a75f082d-89b1-4f21-9222-c18b2f0aa8ac",
       "author": "REGIO_NORD",
@@ -274,6 +228,81 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "b811aed1-4162-4859-a165-2450d01db384",
+      "disruptionId": "3cc100f9-6e29-469c-926e-7a2de07c2aa2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Zwischenmeldung: Stammstrecke ",
+      "summary": "Die Züge können wieder im Bereich Hackerbrücke fahren.",
+      "text": "<p>Es&nbsp;kommt&nbsp;noch&nbsp;zu&nbsp;Folgeverspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.&nbsp;</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "16.08.2026",
+      "durationEnd": "16.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/3cc100f9-6e29-469c-926e-7a2de07c2aa2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-16/12f488bb-35c7-4e17-bda0-9787c5652b87st%25C3%25B6rungskarte_20260816-201207.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-16/12f488bb-35c7-4e17-bda0-9787c5652b87st%25C3%25B6rungskarte_20260816-201207.png",
+          "info": "",
+          "alt": "Störungskarte 16.08.2026 20:12:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.08.2026 20:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b811aed1-4162-4859-a165-2450d01db384",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section10"
     },
     {
       "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
