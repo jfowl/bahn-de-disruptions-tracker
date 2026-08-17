@@ -412,56 +412,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "424319c8-5fce-4889-aea0-b947a9a87e18",
-      "disruptionId": "859e623b-8ef4-45a4-b15a-aa526d406f6e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "S 5 / S 8 Freiham: Technischer Defekt an einem anderen Zug beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war ein technischer Defekt an einem anderen Zug.</p>",
-      "durationBegin": "17.08.2026",
-      "durationEnd": "17.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/859e623b-8ef4-45a4-b15a-aa526d406f6e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-17/da20bd1c-1b31-47cb-8cb9-d90d38b36ea2st%25C3%25B6rungskarte_20260817-165810.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-17/da20bd1c-1b31-47cb-8cb9-d90d38b36ea2st%25C3%25B6rungskarte_20260817-165810.png",
-          "info": "",
-          "alt": "Störungskarte 17.08.2026 16:58:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.08.2026 17:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/424319c8-5fce-4889-aea0-b947a9a87e18",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
-    },
-    {
       "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
       "disruptionId": "14f44b67-80a2-41fb-a8e0-13740f59c8ef",
       "author": "S_BAHN_RM",
@@ -957,49 +907,46 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
-      "id": "65bd9a0c-f241-4503-8bc7-3664c71d19ea",
-      "disruptionId": "832f59c5-27fb-421c-8f40-39865584d407",
-      "author": "S_BAHN_MUC",
+      "id": "c45bb83a-0584-4adc-adbb-b784a3fd618d",
+      "disruptionId": "235fcfaa-5709-4b74-b2ed-8453024490a2",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "S7 Baierbrunn - Höllriegelskreuth: Reparatur an der Strecke beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine Reparatur an der Strecke in Buchenhain.</p>",
+      "headline": "Derzeit Verspätungen auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen. Grund: Technische Störung am Zug.",
+      "text": "<p></p>",
       "durationBegin": "17.08.2026",
       "durationEnd": "17.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/832f59c5-27fb-421c-8f40-39865584d407",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-17/33891b9a-bee0-40a4-bc35-d1b879cbc937st%25C3%25B6rungskarte_20260817-103653.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-17/33891b9a-bee0-40a4-bc35-d1b879cbc937st%25C3%25B6rungskarte_20260817-103653.png",
-          "info": "",
-          "alt": "Störungskarte 17.08.2026 10:36:53",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/235fcfaa-5709-4b74-b2ed-8453024490a2",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.08.2026 16:18",
+      "lastModified": "17.08.2026 18:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/65bd9a0c-f241-4503-8bc7-3664c71d19ea",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/c45bb83a-0584-4adc-adbb-b784a3fd618d",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
