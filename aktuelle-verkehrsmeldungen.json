@@ -132,6 +132,51 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
+      "id": "056d9795-3bff-4082-abc3-86c53021535c",
+      "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Stuttgart Hbf und Nürnberg Hbf",
+      "summary": "Aufgrund hitzebedingter Streckenschäden zwischen Stuttgart Hbf und Nürnberg Hbf kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Schorndorf, Schwäbisch Gmünd, Aalen Hbf, Ellwangen und Crailsheim sowie zu Verspätungen von etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge, die zwischen Stuttgart Hbf und Nürnberg Hbf verkehren</li></ul><p>Unser Personal vor Ort arbeitet an der Beseitigung der Schäden. Die Behebung soll vsl. bis 30.08.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "30.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/825b76dc-286e-42fc-8292-73353bafbef8st%25C3%25B6rungskarte_20260807-105707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/825b76dc-286e-42fc-8292-73353bafbef8st%25C3%25B6rungskarte_20260807-105707.png",
+          "info": "",
+          "alt": "Störungskarte 07.08.2026 10:57:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.08.2026 15:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/056d9795-3bff-4082-abc3-86c53021535c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
       "disruptionId": "a75f082d-89b1-4f21-9222-c18b2f0aa8ac",
       "author": "REGIO_NORD",
@@ -475,66 +520,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "678f9f14-9c91-49d8-bfa4-a96ba87796cd",
-      "disruptionId": "0408d2fc-61a8-4d44-bf11-066a58f60657",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Donnersbergerbrücke ↔ Hackerbrücke: Unbefugte Personen auf der Strecke",
-      "summary": "Die Züge können wieder zwischen Donnersbergerbrücke und Hackerbrücke fahren.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen von 10 bis 15 Minuten und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "19.08.2026",
-      "durationEnd": "19.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/0408d2fc-61a8-4d44-bf11-066a58f60657",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-19/aa65b6be-62f0-4e2c-bfd1-3f1963ebc4b7st%25C3%25B6rungskarte_20260819-144817.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-19/aa65b6be-62f0-4e2c-bfd1-3f1963ebc4b7st%25C3%25B6rungskarte_20260819-144817.png",
-          "info": "",
-          "alt": "Störungskarte 19.08.2026 14:48:17",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.08.2026 14:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/678f9f14-9c91-49d8-bfa4-a96ba87796cd",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
-    },
-    {
       "id": "7dfa165a-f0b7-45d8-b571-4565690a3d32",
       "disruptionId": "e6660f19-5457-41f9-b89e-912dfbca651c",
       "author": "S_BAHN_MUC",
@@ -632,50 +617,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7dfa165a-f0b7-45d8-b571-4565690a3d32",
       "magnoliaPath": "/aktuell/bayern/impairment_construction"
-    },
-    {
-      "id": "056d9795-3bff-4082-abc3-86c53021535c",
-      "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Stuttgart Hbf und Nürnberg Hbf",
-      "summary": "Aufgrund hitzebedingter Streckenschäden zwischen Stuttgart Hbf und Nürnberg Hbf kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Crailsheim, Ellwangen, Schwäbisch Gmünd und Aalen und Verspätungen von etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe Hbf - Stuttgart Hbf - Nürnberg Hbf - Saalfeld(Saale) - Leipzig Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 30.08.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.08.2026",
-      "durationEnd": "30.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/be350bd1-326e-4483-91df-19f0fcee25best%25C3%25B6rungskarte_20260807-105707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/be350bd1-326e-4483-91df-19f0fcee25best%25C3%25B6rungskarte_20260807-105707.png",
-          "info": "",
-          "alt": "Störungskarte 07.08.2026 10:57:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "19.08.2026 05:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/056d9795-3bff-4082-abc3-86c53021535c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
     },
     {
       "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
