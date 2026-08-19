@@ -206,6 +206,49 @@
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
     },
     {
+      "id": "1cb3f5cb-4c26-44cb-ab3b-40fde984e3e1",
+      "disruptionId": "6bddf15b-b56d-41fa-8077-ea17f8f09c38",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Derzeit Verspätungen auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es in Richtung Elbgaustraße/Pinneberg zu Verspätungen. Grund: Technische Störung an der Strecke. ",
+      "text": "<p></p>",
+      "durationBegin": "19.08.2026",
+      "durationEnd": "19.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/6bddf15b-b56d-41fa-8077-ea17f8f09c38",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.08.2026 05:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1cb3f5cb-4c26-44cb-ab3b-40fde984e3e1",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -480,6 +523,50 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "056d9795-3bff-4082-abc3-86c53021535c",
+      "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Stuttgart Hbf und Nürnberg Hbf",
+      "summary": "Aufgrund hitzebedingter Streckenschäden zwischen Stuttgart Hbf und Nürnberg Hbf kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Crailsheim, Ellwangen, Schwäbisch Gmünd und Aalen und Verspätungen von etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe Hbf - Stuttgart Hbf - Nürnberg Hbf - Saalfeld(Saale) - Leipzig Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 30.08.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.08.2026",
+      "durationEnd": "30.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/be350bd1-326e-4483-91df-19f0fcee25best%25C3%25B6rungskarte_20260807-105707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-19/be350bd1-326e-4483-91df-19f0fcee25best%25C3%25B6rungskarte_20260807-105707.png",
+          "info": "",
+          "alt": "Störungskarte 07.08.2026 10:57:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.08.2026 05:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/056d9795-3bff-4082-abc3-86c53021535c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "9c54c64b-c5aa-4c37-b660-e3ddb8584438",
       "disruptionId": "2ba52c3b-61b9-4de7-9024-aeecd85a1128",
       "author": "S_BAHN_RM",
@@ -720,50 +807,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
-    },
-    {
-      "id": "056d9795-3bff-4082-abc3-86c53021535c",
-      "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Stuttgart Hbf und Nürnberg Hbf",
-      "summary": "Aufgrund hitzebedingter Streckenschäden zwischen Stuttgart Hbf und Nürnberg Hbf kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Crailsheim, Ellwangen und Schwäbisch Gmünd und Verspätungen von etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe Hbf - Stuttgart Hbf - Nürnberg Hbf - Saalfeld(Saale) - Leipzig Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 30.08.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.08.2026",
-      "durationEnd": "30.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-07/ddd2aae2-5e15-48c3-8ac4-4a4396235f79st%25C3%25B6rungskarte_20260807-105707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-07/ddd2aae2-5e15-48c3-8ac4-4a4396235f79st%25C3%25B6rungskarte_20260807-105707.png",
-          "info": "",
-          "alt": "Störungskarte 07.08.2026 10:57:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.08.2026 10:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/056d9795-3bff-4082-abc3-86c53021535c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
