@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "42c37bbb-912d-4732-aaa8-c03e32e3110c",
+      "disruptionId": "3215367f-b8c2-4c86-9778-89090375b80e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen [Siegburg/Bonn] und [Montabaur]",
+      "summary": "Aufgrund einer [Streckenstörung] ist die Strecke zwischen [Siegburg/Bonn] und [Frankfurt Flughafen] derzeit gesperrt. Es kommt es zu [Ausfällen und Verspätungen] im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Verbindungen zwischen KÖLN und FRANKFURT&nbsp;</li><li>ICE Verbindung Frankfurt - Brüssel verkehren zwischen Köln - Brüssel </li><li>ICE Verbindung Frankfurt - Amsterdam verkehren zwischen Köln - Amsterdam</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/3215367f-b8c2-4c86-9778-89090375b80e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.08.2026 06:48",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/42c37bbb-912d-4732-aaa8-c03e32e3110c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "4e4a75e5-ddc5-4c12-b9fe-38089f790806",
       "disruptionId": "caff3ae9-8918-4080-a4b6-a88e089152b1",
       "author": "S_BAHN_HH",
@@ -236,16 +274,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 5 / S 7 Hohenbrunn ↔ Höhenkirchen-Siegertsbrunn: Reparatur an einem Signal",
-      "summary": "Zwischen Hohenbrunn und Höhenkirchen-Siegertsbrunn sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Hohenbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Hohenbrunn und Aying eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 5 / S 7 Hohenbrunn ↔ Höhenkirchen-Siegertsbrunn",
+      "summary": "Die Züge können wieder zwischen Hohenbrunn und Höhenkirchen-Siegertsbrunn fahren.",
+      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird um 07:00 Uhr eingestellt.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "20.08.2026",
       "durationEnd": "20.08.2026",
       "mapHref": "https://karte.bahn.de/detail/257f4595-7673-4ef2-87bb-cd7791cba5af",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/9a4acfed-4b24-40dd-bbf7-8c41ccb374f4st%25C3%25B6rungskarte_20260820-055505.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/9a4acfed-4b24-40dd-bbf7-8c41ccb374f4st%25C3%25B6rungskarte_20260820-055505.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/d584e4f3-3827-42f3-bc58-c9a73639c13est%25C3%25B6rungskarte_20260820-055505.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/d584e4f3-3827-42f3-bc58-c9a73639c13est%25C3%25B6rungskarte_20260820-055505.png",
           "info": "",
           "alt": "Störungskarte 20.08.2026 05:55:05",
           "openInNewTab": true
@@ -271,7 +309,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.08.2026 05:57",
+      "lastModified": "20.08.2026 06:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
