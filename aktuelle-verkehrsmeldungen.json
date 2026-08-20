@@ -229,6 +229,49 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "f7988459-5ed0-496d-a175-d57da74dff31",
+      "disruptionId": "4bd5cc6f-0d93-443d-8b32-ffb701859b2b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Zugausfälle aufgrund Fahrzeugstörungen.",
+      "summary": "Aufgrund von Fahrzeugstörungen fallen Züge zwischen Jena-Göschwitz und Gera Hbf aus.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>IC 2151 / IC 2155 / IC 1747 / IC 1746 / IC 2157 / IC 2156 / IC 2152 und IC 2150</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p><p></p>",
+      "durationBegin": "20.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/4bd5cc6f-0d93-443d-8b32-ffb701859b2b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-20/22a76e4d-e870-4990-b8ea-8669c9935d51st%25C3%25B6rungskarte_20260820-044005.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-20/22a76e4d-e870-4990-b8ea-8669c9935d51st%25C3%25B6rungskarte_20260820-044005.png",
+          "info": "",
+          "alt": "Störungskarte 20.08.2026 04:40:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.08.2026 04:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f7988459-5ed0-496d-a175-d57da74dff31",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "author": "REGIO_BW",
@@ -319,53 +362,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ac5c5ed4-6317-4206-ae0d-16146e4a45f4",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "c6acbaff-1491-4069-bd7a-ed808e58d506",
-      "disruptionId": "37f6c19d-b1bd-4f9a-b88b-a78bd6510f7c",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt-Rödelheim",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf der S3, S4 und S5 ist kein Betrieb möglich.</li></ul><p></p><strong>↪️ Empfehlungen und 🚍 Ersatzverkehr:</strong><ul><li>Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</li><li>Nutzen Sie auch die Busse des Baustellenersatzverkehrs der S3 und S4 zwischen  Frankfurt-Rödelheim - Bad Soden(Taunus) / Kronberg(Taunus).</li><li>Wir arbeiten an der Einrichtung eines Ersatzverkehrs für die S5, warten aber noch auf die Bestätigung unserer Partner.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "19.08.2026",
-      "durationEnd": "20.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/37f6c19d-b1bd-4f9a-b88b-a78bd6510f7c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.08.2026 22:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c6acbaff-1491-4069-bd7a-ed808e58d506",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
@@ -502,72 +498,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "4b5b6b3a-17bb-4cfd-92f9-7d7df1d3e434",
-      "disruptionId": "778a7127-4bb4-43b9-bd96-7591c28107de",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke ist derzeit gesperrt.</li><li>Die S1 verkehrt derzeit nur zwischen Frankfurt Hbf (tief) - Rödermark-Ober Roden.</li><li>Die S2 verkehrt derzeit nur zwischen Offenbach(Main)Ost - Dietzenbach Bahnhof.</li><li>Es kommt auf der RE4, RE20 und RB22 zu Teil- und Zugausfällen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Prüfen Sie auch andere Verkehrsmittel wie U-Bahnen, Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen. Nutzen Sie zum Beispiel die Straßenbahnlinien 11 und 21 zwischen Nied Kirche (für Frankfurt-Nied) - Frankfurt(Main)Hbf. Nutzen Sie auch die Buslinie 59 zwischen Griesheim Bahnhof, Frankfurt a.M. - Nied Bahnhof/Lotzstraße, Frankfurt a.M. - Höchst Bahnhof, Frankfurt a.M..</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "19.08.2026",
-      "durationEnd": "20.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/778a7127-4bb4-43b9-bd96-7591c28107de",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-19/3972a447-80f1-4a58-92e4-9ff6b78a7166st%25C3%25B6rungskarte_20260819-213439.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-19/3972a447-80f1-4a58-92e4-9ff6b78a7166st%25C3%25B6rungskarte_20260819-213439.png",
-          "info": "",
-          "alt": "Störungskarte 19.08.2026 21:34:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.08.2026 22:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4b5b6b3a-17bb-4cfd-92f9-7d7df1d3e434",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
     },
     {
       "id": "7dfa165a-f0b7-45d8-b571-4565690a3d32",
@@ -1082,15 +1012,15 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Verspätungen und Teil- sowie Zugausfälle in Frankfurt-Griesheim",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Da auch die Alternativstrecke gesperrt ist, kommt es auf der S1 und S2 zu Teil- und Zugausfällen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Prüfen Sie auch andere Verkehrsmittel wie U-Bahnen, Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen. Nutzen Sie zum Beispiel die Straßenbahnlinien 11 und 21 zwischen Nied Kirche (für Frankfurt-Nied) - Frankfurt(Main)Hbf. Nutzen Sie auch die Buslinie 59 zwischen Griesheim Bahnhof, Frankfurt a.M. - Nied Bahnhof/Lotzstraße, Frankfurt a.M. - Höchst Bahnhof, Frankfurt a.M..</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "summary": "kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE4: Frankfurt(Main)Hbf - Mainz Hbf (- Worms Hbf - Karlsruhe Hbf)</li><li>RE14: Frankfurt(Main)Hbf - Mainz Hbf - Worms Hbf - Mannheim Hbf</li><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der S1 und S2 werden zwischen Frankfurt Hbf (tief) - Frankfurt-Höchst in beiden Richtungen ohne Zwischenhalt umgeleitet. Die Halte Frankfurt-Griesheim und Frankfurt-Nied entfallen.</li><li>Aufgrund der hohen Streckenauslastung, durch umgeleitete Züge von einer anderen Strecke, kommt es auch auf der RE4, RE14, RE20 und RB22 zu Verspätungen.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Prüfen Sie auch andere Verkehrsmittel wie U-Bahnen, Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen. Nutzen Sie zum Beispiel die Straßenbahnlinien 11 und 21 zwischen Nied Kirche (für Frankfurt-Nied) - Frankfurt(Main)Hbf. Nutzen Sie auch die Buslinie 59 zwischen Griesheim Bahnhof, Frankfurt a.M. - Nied Bahnhof/Lotzstraße, Frankfurt a.M. - Höchst Bahnhof, Frankfurt a.M..</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "19.08.2026",
       "durationEnd": "20.08.2026",
       "mapHref": "https://karte.bahn.de/detail/eb533af0-546e-4c7a-88f8-b7a24291f7e2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-19/5d58846f-b51f-4aeb-bc34-960b80620880st%25C3%25B6rungskarte_20260819-214448.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-19/5d58846f-b51f-4aeb-bc34-960b80620880st%25C3%25B6rungskarte_20260819-214448.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-20/ec96849a-dda5-4ef2-b369-e9a14d20d345st%25C3%25B6rungskarte_20260819-214448.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-20/ec96849a-dda5-4ef2-b369-e9a14d20d345st%25C3%25B6rungskarte_20260819-214448.png",
           "info": "",
           "alt": "Störungskarte 19.08.2026 21:44:48",
           "openInNewTab": true
@@ -1099,12 +1029,33 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "HE"
       ],
       "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        },
         {
           "name": "S 1",
           "filterName": "S 1 Rhein-Main",
@@ -1116,7 +1067,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.08.2026 21:46",
+      "lastModified": "20.08.2026 04:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
