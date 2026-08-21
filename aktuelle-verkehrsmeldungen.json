@@ -252,6 +252,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "30eaf904-6592-453b-ad03-dc0ab32f317d",
+      "disruptionId": "9b1a5c53-bddf-48e0-a48f-7971ba82c1f2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 3 Lochhausen ↔ Lochhausen: Bauarbeiten",
+      "summary": "Zwischen Lochhausen und Lochhausen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen in Richtung Innenstadt wenden in Lochhausen.</p><p>Betroffen sind folgende S-Bahnen:</p><p>S3 Pasing Abfahrt 02:07 → Lochhausen Ankunft 02:14 Uhr</p><p>S3 Pasing Abfahrt 03:07 → Lochhausen Ankunft 03:14 Uhr</p><p>S3 Lochhausen Abfahrt 02:04 Uhr → Pasing Ankunft 02:13 Uhr</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Lochhausen und Pasing eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von 10 bis 15 Minuten.</p><p><strong>Beachten Sie bitte zusätzlich die bestehenden Bauarbeiten auf der S-Bahn Stammstrecke.</strong></p><p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "durationBegin": "21.08.2026",
+      "durationEnd": "22.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/9b1a5c53-bddf-48e0-a48f-7971ba82c1f2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2026 23:13",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/30eaf904-6592-453b-ad03-dc0ab32f317d",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction"
+    },
+    {
       "id": "426b1f1d-58f1-46fa-a19a-5614f4c89843",
       "disruptionId": "64f05e48-5442-4e97-93ee-200d6dbe83e0",
       "author": "REGIO_MITTE",
@@ -1031,6 +1068,51 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "143c5a2b-3789-4505-b4b0-735ad40226e2",
+      "disruptionId": "2cd2886a-733b-46ae-8dd0-ba35d91f9524",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S7  Höllriegelskreuth ↔ Baierbrunn: Reparatur an einem Signal",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "21.08.2026",
+      "durationEnd": "21.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/2cd2886a-733b-46ae-8dd0-ba35d91f9524",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/e1a32be5-40b9-4084-a1a0-5a374c3438e7st%25C3%25B6rungskarte_20260821-231910.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/e1a32be5-40b9-4084-a1a0-5a374c3438e7st%25C3%25B6rungskarte_20260821-231910.png",
+          "info": "",
+          "alt": "Störungskarte 21.08.2026 23:19:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2026 23:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/143c5a2b-3789-4505-b4b0-735ad40226e2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
       "id": "54b21ee2-b7d2-4aaf-b241-3833f9338456",
       "disruptionId": "52919249-6f43-4a6b-aa78-808e67103d5c",
       "author": "S_BAHN_MUC",
@@ -1074,43 +1156,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/54b21ee2-b7d2-4aaf-b241-3833f9338456",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
-    },
-    {
-      "id": "143c5a2b-3789-4505-b4b0-735ad40226e2",
-      "disruptionId": "2cd2886a-733b-46ae-8dd0-ba35d91f9524",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S7  Ebenhausen-Schäftlarn ↔ Baierbrunn: Reparatur an einem Signal",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Baierbrunn kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "21.08.2026",
-      "durationEnd": "21.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/2cd2886a-733b-46ae-8dd0-ba35d91f9524",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.08.2026 22:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/143c5a2b-3789-4505-b4b0-735ad40226e2",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
