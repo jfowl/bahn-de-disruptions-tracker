@@ -302,6 +302,58 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section1"
     },
     {
+      "id": "d7a0bd87-60ea-4e33-ad12-9bdbf3aef07c",
+      "disruptionId": "52197146-5db1-4b07-b5b3-828dfe02f3d7",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "RE 1: München Hbf - Ingolstadt Hbf - Nürnberg Hbf",
+      "summary": "Technischer Defekt an einem anderen Zug behoben / Zugverkehr wieder aufgenommen / Folgebeeinträchtigungen",
+      "text": "<p>Die Störung aufgrund eines technischen Defektes an einem anderen Zug ist behoben.</p><p><strong>Der Zugverkehr zwischen Ingolstadt Nord - Kinding(Altmühltal) wurde wieder durchgehend aufgenommen.</strong></p><p>Bitte rechnen Sie noch mit Folgeverspätungen.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "22.08.2026",
+      "durationEnd": "22.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/52197146-5db1-4b07-b5b3-828dfe02f3d7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-08-22/61e6d526-dcee-4ed4-ba6f-45ddcab4987fst%25C3%25B6rungskarte_20260822-123635.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-08-22/61e6d526-dcee-4ed4-ba6f-45ddcab4987fst%25C3%25B6rungskarte_20260822-123635.png",
+          "info": "",
+          "alt": "Störungskarte 22.08.2026 12:36:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/de/region/DB_Regio_Bayern?f=0!mp36bwg0!mp4lrr3z!1!1!1!0!nx!251i9q!ad3p16",
+          "label": "Störungskarte und Baustellen DB Regio Bayern",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.08.2026 13:06",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d7a0bd87-60ea-4e33-ad12-9bdbf3aef07c",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle0"
+    },
+    {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "disruptionId": "8e9951f8-cc45-466f-ab7f-a61724e18fce",
       "author": "REGIO_BY",
@@ -884,56 +936,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
-    },
-    {
-      "id": "a59e477a-6ef2-4e80-882b-07adbb23a071",
-      "disruptionId": "6ed6bef5-050c-486a-8de1-261a2ba8c7dc",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 7 / S 5 Höllriegelskreuth ↔ Baierbrunn",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Ein kurzzeitiger technischer Defekt an einem Bahnübergang in Höllriegelskreuth wurde behoben.</p>",
-      "durationBegin": "22.08.2026",
-      "durationEnd": "22.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/6ed6bef5-050c-486a-8de1-261a2ba8c7dc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-22/c2145eaa-162f-45a9-8cab-3bddd3150783st%25C3%25B6rungskarte_20260822-124313.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-22/c2145eaa-162f-45a9-8cab-3bddd3150783st%25C3%25B6rungskarte_20260822-124313.png",
-          "info": "",
-          "alt": "Störungskarte 22.08.2026 12:43:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.08.2026 12:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a59e477a-6ef2-4e80-882b-07adbb23a071",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
