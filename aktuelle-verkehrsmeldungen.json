@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "383a29e9-7076-49f6-a3ad-ecc2ac02320d",
+      "disruptionId": "84bcd0e9-dc41-4ac9-be43-31424eb78885",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Erfurt",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Erfurt und Gotha ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zug- und Haltausfällen, sowie Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Frankfurt(M) und Erfurt werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 45 Minuten. Die Halte Fulda, Bad Hersfeld, Eisenach und Gotha entfallen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/84bcd0e9-dc41-4ac9-be43-31424eb78885",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-24/7bcb259c-b179-49b4-b2f3-6d4a2665d6f3st%25C3%25B6rungskarte_20260824-125028.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-24/7bcb259c-b179-49b4-b2f3-6d4a2665d6f3st%25C3%25B6rungskarte_20260824-125028.png",
+          "info": "",
+          "alt": "Störungskarte 24.08.2026 12:50:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.08.2026 12:54",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/383a29e9-7076-49f6-a3ad-ecc2ac02320d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "4e4a75e5-ddc5-4c12-b9fe-38089f790806",
       "disruptionId": "caff3ae9-8918-4080-a4b6-a88e089152b1",
       "author": "S_BAHN_HH",
@@ -385,6 +431,88 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
+      "disruptionId": "14f44b67-80a2-41fb-a8e0-13740f59c8ef",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Teilausfälle zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB12: Königstein(Taunus) - Kelkheim - Frankfurt-Höchst - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Dauer der Beeinträchtigung bis vsl. 27. August, Betriebsende.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RB12 kommt es zu Teilausfällen zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1, S2 und die übrigen Züge des Regionalverkehrs zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "17.08.2026",
+      "durationEnd": "28.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/14f44b67-80a2-41fb-a8e0-13740f59c8ef",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 12",
+          "filterName": "RB 12",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.08.2026 12:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5c748b1a-bb40-40c8-bc28-2e966ad3984c",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "b451f8a5-6ca4-43e8-9398-ddb2ea13ff46",
+      "disruptionId": "69cf79a1-2c2e-4039-b510-4ab70ee29138",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Reparatur an der Oberleitung zwischen Gingen(Fils) und Süßen ",
+      "summary": "Der Streckenabschnitt von Süßen bis Gingen(Fils) ist im Moment gesperrt. Dauer der Sperrung. ist noch nicht bekannt. Der Grund ist eine Reparatur an der Oberleitung. In der Folge kommt es zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit drei Bussen zwischen Göppingen und Geislingen(Steige) für Sie eingerichtet. Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Bitte beachten Sie die längere Fahrzeit von den Bussen.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "24.08.2026",
+      "durationEnd": "24.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/69cf79a1-2c2e-4039-b510-4ab70ee29138",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-24/bbb17e6c-53b4-442b-a622-48e2106f6b6ast%25C3%25B6rungskarte_20260824-110012.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-24/bbb17e6c-53b4-442b-a622-48e2106f6b6ast%25C3%25B6rungskarte_20260824-110012.png",
+          "info": "",
+          "alt": "Störungskarte 24.08.2026 11:00:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.08.2026 12:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b451f8a5-6ca4-43e8-9398-ddb2ea13ff46",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "a56c0e55-0386-4920-9ac2-47f795528e66",
       "disruptionId": "ff085903-72e9-40b7-ac36-b728a5ec9f80",
       "author": "S_BAHN_MUC",
@@ -392,16 +520,16 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Ostbahnhof - Leuchtenbergring: Polizeieinsatz",
-      "summary": "Es kommt zu Verspätungen bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein Polizeieinsatz auf der Strecke zwischen Ostbahnhof und Leuchtenbergring.</p>",
+      "headline": "Ostbahnhof - Leuchtenbergring: Polizeieinsatz beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war ein Polizeieinsatz auf der Strecke zwischen Ostbahnhof und Leuchtenbergring.</p>",
       "durationBegin": "24.08.2026",
       "durationEnd": "24.08.2026",
       "mapHref": "https://karte.bahn.de/detail/ff085903-72e9-40b7-ac36-b728a5ec9f80",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-24/ee144bcf-39f5-4ebd-8d52-0297fc784d96st%25C3%25B6rungskarte_20260824-113428.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-24/ee144bcf-39f5-4ebd-8d52-0297fc784d96st%25C3%25B6rungskarte_20260824-113428.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-24/877706e4-0b46-45ab-80c2-03ebbc6653f6st%25C3%25B6rungskarte_20260824-113428.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-24/877706e4-0b46-45ab-80c2-03ebbc6653f6st%25C3%25B6rungskarte_20260824-113428.png",
           "info": "",
           "alt": "Störungskarte 24.08.2026 11:34:28",
           "openInNewTab": true
@@ -432,49 +560,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.08.2026 11:44",
+      "lastModified": "24.08.2026 12:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a56c0e55-0386-4920-9ac2-47f795528e66",
       "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
-    },
-    {
-      "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
-      "disruptionId": "14f44b67-80a2-41fb-a8e0-13740f59c8ef",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Teilausfälle zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB12: Königstein(Taunus) - Kelkheim - Frankfurt-Höchst - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Dauer der Beeinträchtigung bis vsl. 24. August.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RB12 kommt es zu Teilausfällen zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1, S2 und die übrigen Züge des Regionalverkehrs zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "17.08.2026",
-      "durationEnd": "24.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/14f44b67-80a2-41fb-a8e0-13740f59c8ef",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 12",
-          "filterName": "RB 12",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.08.2026 06:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5c748b1a-bb40-40c8-bc28-2e966ad3984c",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
       "id": "7dfa165a-f0b7-45d8-b571-4565690a3d32",
