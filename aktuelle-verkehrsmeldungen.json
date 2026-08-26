@@ -4,7 +4,7 @@
     {
       "id": "4e4a75e5-ddc5-4c12-b9fe-38089f790806",
       "disruptionId": "caff3ae9-8918-4080-a4b6-a88e089152b1",
-      "author": "S_BAHN_HH",
+      "author": "s_bahn_hh",
       "cause": {
         "category": "technical_problem_other",
         "label": "Technischer Defekt am Bahnhof"
@@ -73,9 +73,92 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
+      "id": "bd968c73-5134-4ac0-999e-018e46cd3c84",
+      "disruptionId": "0cf206de-3972-4ee3-ba4e-1ff3a15e2671",
+      "author": "regio_nord",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Neumünster und Hamburg-Altona",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Neumünster und Hamburg-Altona ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf): Aktuell kommt es zu Teilausfällen auf den Linien RE 7 und RE 70 zwischen Neumünster und Hamburg-Altona. Bitte Reiseverbindung vor Fahrtantritt prüfen.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "26.08.2026",
+      "durationEnd": "26.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/0cf206de-3972-4ee3-ba4e-1ff3a15e2671",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-26/2ef6b623-a82a-4763-8712-01925fd2472fst%25C3%25B6rungskarte_20260826-102005.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-26/2ef6b623-a82a-4763-8712-01925fd2472fst%25C3%25B6rungskarte_20260826-102005.png",
+          "info": "",
+          "alt": "Störungskarte 26.08.2026 10:20:05",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-26/0f249939-e925-4fea-b712-ca946d6dbf44st%25C3%25B6rungskarte_20260826-102215.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-26/0f249939-e925-4fea-b712-ca946d6dbf44st%25C3%25B6rungskarte_20260826-102215.png",
+          "info": "",
+          "alt": "Störungskarte 26.08.2026 10:22:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.08.2026 10:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bd968c73-5134-4ac0-999e-018e46cd3c84",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "056d9795-3bff-4082-abc3-86c53021535c",
       "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
-      "author": "FERNVERKEHR_AG",
+      "author": "fernverkehr_ag",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -121,7 +204,7 @@
     {
       "id": "0bd7f3f0-80ca-45b9-9458-1fa8ca678068",
       "disruptionId": "9879a942-a437-4e03-995a-e394e4cb5558",
-      "author": "FERNVERKEHR_AG",
+      "author": "fernverkehr_ag",
       "cause": {
         "category": "technical_problem_vehicle",
         "label": "Kurzfristiger Fahrzeugausfall"
@@ -164,7 +247,7 @@
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
-      "author": "REGIO_NORDOST",
+      "author": "regio_nordost",
       "cause": {
         "category": "additional_service",
         "label": "Service"
@@ -211,7 +294,7 @@
     {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
-      "author": "REGIO_MITTE",
+      "author": "regio_mitte",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -252,7 +335,7 @@
     {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "disruptionId": "8e9951f8-cc45-466f-ab7f-a61724e18fce",
-      "author": "REGIO_BY",
+      "author": "regio_by",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -303,7 +386,7 @@
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
-      "author": "REGIO_BY",
+      "author": "regio_by",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -388,7 +471,7 @@
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
       "disruptionId": "1c7e99cb-c81e-43e4-b2ec-7452fc7cc888",
-      "author": "FERNVERKEHR_AG",
+      "author": "fernverkehr_ag",
       "cause": {
         "category": "police_activity",
         "label": "Entschärfung einer Fliegerbombe"
@@ -432,7 +515,7 @@
     {
       "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
       "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
-      "author": "REGIO_BW",
+      "author": "regio_bw",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -476,7 +559,7 @@
     {
       "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
       "disruptionId": "14f44b67-80a2-41fb-a8e0-13740f59c8ef",
-      "author": "S_BAHN_RM",
+      "author": "s_bahn_rm",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -513,7 +596,7 @@
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
       "disruptionId": "c288b98a-5ffc-4a4e-8718-3018c0ca2af3",
-      "author": "REGIO_BW",
+      "author": "regio_bw",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -577,7 +660,7 @@
     {
       "id": "fd599380-a8cf-4072-8747-4850d2b2c425",
       "disruptionId": "9661a181-3805-4dff-816b-7731ee9c921c",
-      "author": "S_BAHN_MUC",
+      "author": "s_bahn_muc",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
@@ -652,7 +735,7 @@
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
-      "author": "S_BAHN_MUC",
+      "author": "s_bahn_muc",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -710,7 +793,7 @@
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
-      "author": "REGIO_SUEDOST",
+      "author": "regio_suedost",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
@@ -757,7 +840,7 @@
     {
       "id": "f609c2ea-b9d9-433b-94b6-0f3c14fa1b99",
       "disruptionId": "2363adfd-b117-4602-a557-1277c8fef2bc",
-      "author": "S_BAHN_MUC",
+      "author": "s_bahn_muc",
       "cause": {
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
@@ -802,7 +885,7 @@
     {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
       "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
-      "author": "S_BAHN_MUC",
+      "author": "s_bahn_muc",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
@@ -846,7 +929,7 @@
     {
       "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
+      "author": "regio_by",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
@@ -899,54 +982,9 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
-      "id": "c06a0a19-4b6f-49ee-ab07-0c810ca46ca5",
-      "disruptionId": "d5f62396-ab9a-4f62-a395-9b01c87f8cf6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 1 Regelweg",
-      "summary": "Die Linie S 1 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke beginnend mit folgenden S-Bahnen:",
-      "text": "<p>S 1 Ostbahnhof Abfahrt 10:13 Uhr → Freising Ankunft 11:04 / Flughafen Ankunft 11:08 Uhr</p><p>S 1 Flughafen Abfahrt 09:51 Uhr / Freising Abfahrt 09:55 Uhr → München Ost Ankunft 10:44 Uhr</p><p>Der technische Defekt an einem Bahnübergang besteht jedoch weiterhin.</p>",
-      "durationBegin": "26.08.2026",
-      "durationEnd": "26.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/d5f62396-ab9a-4f62-a395-9b01c87f8cf6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-26/98d2b300-97a4-4d67-855a-7814fbee7fddst%25C3%25B6rungskarte_20260826-051303.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-26/98d2b300-97a4-4d67-855a-7814fbee7fddst%25C3%25B6rungskarte_20260826-051303.png",
-          "info": "",
-          "alt": "Störungskarte 26.08.2026 05:13:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.08.2026 09:54",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c06a0a19-4b6f-49ee-ab07-0c810ca46ca5",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
-    },
-    {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
       "disruptionId": "74c9b994-2cda-4621-ab38-06a0a85bb821",
-      "author": "REGIO_BW",
+      "author": "regio_bw",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -992,7 +1030,7 @@
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
       "disruptionId": "c01b9a41-2405-40d0-8e76-b02a2b688ba8",
-      "author": "REGIO_BW",
+      "author": "regio_bw",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -1036,7 +1074,7 @@
     {
       "id": "eb4b635a-d54f-41e2-af3d-3ffa230e2e28",
       "disruptionId": "bd194d17-b32d-44ed-a273-1661bac95c70",
-      "author": "REGIO_BW",
+      "author": "regio_bw",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
@@ -1095,7 +1133,7 @@
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
       "disruptionId": "25fce3bd-9e35-4be4-abe5-c967a7e1bfb9",
-      "author": "REGIO_NORDOST",
+      "author": "regio_nordost",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
@@ -1150,7 +1188,7 @@
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
-      "author": "REGIO_NW",
+      "author": "regio_nw",
       "cause": {
         "category": "additional_service",
         "label": "Service"
@@ -1190,7 +1228,7 @@
     },
     {
       "id": "8b6d4897-7904-47c8-8875-c436dddf8b59",
-      "author": "REGIO_BY",
+      "author": "regio_by",
       "cause": {
         "category": "additional_service",
         "label": "Service"
@@ -1265,7 +1303,7 @@
     },
     {
       "id": "670862e6-30ac-4529-a4f8-9729039ed230",
-      "author": "SUEDOSTBAYERNBAHN",
+      "author": "suedostbayernbahn",
       "cause": {
         "category": "additional_service",
         "label": "Service"
