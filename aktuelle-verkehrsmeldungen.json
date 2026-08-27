@@ -73,24 +73,24 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
-      "id": "0bd7f3f0-80ca-45b9-9458-1fa8ca678068",
-      "disruptionId": "9879a942-a437-4e03-995a-e394e4cb5558",
+      "id": "7543f98d-ede5-4ca7-903e-fcbd41bdc1ed",
+      "disruptionId": "e16c099f-d6ce-4600-9b0b-ad403583b686",
       "author": "fernverkehr_ag",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Kurzfristiger Fahrzeugausfall"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Zugausfälle zwischen Jena-Göschwitz und Gera Hbf",
-      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es zu Umleitungen und Teilausfällen zwischen Weimar, Jena-Göschwitz und Gera Hbf.",
-      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>IC-Züge, die zwischen Gotha, Erfurt, Weimar, Jena und Gera verkehren</li></ul><p>Die Züge werden zwischen Weimar und Jena-Göschwitz umgeleitet. Der Halt in Jena West entfällt, ersatzweise halten die Züge in Jena Paradies.</p><p>Zwischen Jena-Göschwitz und Gera Hbf müssen die Züge leider entfallen.</p><p><strong>Wir empfehlen folgende Reisealternativen:</strong> Nutzen Sie zwischen Jena-Göschwitz, Stadtroda, Hermsdorf-Klosterlausnitz und Gera Hbf bitte die Züge der Regionalverkehrslinien RE 1, RE 3 sowie RB 21.</p><p>Ab <strong>Donnerstag, 27.08.2026 </strong>verkehren die IC-Züge wieder planmäßig bis und von Gera Hbf.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/9879a942-a437-4e03-995a-e394e4cb5558",
+      "headline": "Beeinträchtigungen zwischen Göttingen und Kassel",
+      "summary": "Aufgrund einer Reparatur an den Signalanlagen zwischen Göttingen und Kassel kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 20 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge, die zwischen Hannover und Würzburg verkehren</li><li>ICE-Züge, die zwischen Hannover und Frankfurt(Main) verkehren</li><li>ICE-Züge, die zwischen Berlin und Frankfurt(Main) über Wolfsburg verkehren</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis in die Mittagsstunden am heutigen Donnerstag, 27.08.2026. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/e16c099f-d6ce-4600-9b0b-ad403583b686",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-26/a44ba3a0-e198-4a03-9d1d-68ddc56f1a94st%25C3%25B6rungskarte_20260820-182759.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-26/a44ba3a0-e198-4a03-9d1d-68ddc56f1a94st%25C3%25B6rungskarte_20260820-182759.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-27/07e13fce-44d7-4cd0-9db7-26f7653ba5bast%25C3%25B6rungskarte_20260827-024352.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-27/07e13fce-44d7-4cd0-9db7-26f7653ba5bast%25C3%25B6rungskarte_20260827-024352.png",
           "info": "",
-          "alt": "Störungskarte 20.08.2026 18:27:59",
+          "alt": "Störungskarte 27.08.2026 02:43:52",
           "openInNewTab": true
         }
       ],
@@ -100,8 +100,8 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "TH",
-        "SN"
+        "NI",
+        "HE"
       ],
       "lines": [
         {
@@ -110,11 +110,55 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "26.08.2026 19:41",
+      "lastModified": "27.08.2026 02:45",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0bd7f3f0-80ca-45b9-9458-1fa8ca678068",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
+      "detailPagePath": "/service/fahrplaene/7543f98d-ede5-4ca7-903e-fcbd41bdc1ed",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "41a75567-be81-466e-aae0-b25e61ac8d67",
+      "disruptionId": "35fd640f-9d7d-4c08-b6d9-555480a08398",
+      "author": "fernverkehr_ag",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Nürnberg",
+      "summary": "Aufgrund von Reparaturarbeiten ist die Strecke zwischen Crailsheim und Ansbach derzeit gesperrt. Dadurch kommt es zu Umleitungen und Haltausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 1162 Stuttgart - Nürnberg - Berlin verspätet sich um etwa 45 Minuten.</li><li>IC-Züge Stuttgart - Nürnberg verspäten sich um etwa 45 Minuten. Der Halt in Ansbach muss leider entfallen. Ersatzweise halten die Züge in Donauwörth und Treuchtlingen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: <strong>Ansbach</strong> erreichen Sie ab Treuchtlingen mit den Zügen der Regionalverkehrslinie RE80, sowie ab Nürnberg Hbf mit den Zügen der S-Bahnlinie S4.</p><p>Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden am heutigen Donnerstag, 27.08.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/35fd640f-9d7d-4c08-b6d9-555480a08398",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-27/d4650f2a-3a1e-4727-b253-7707aae4e9f3st%25C3%25B6rungskarte_20260827-004803.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-27/d4650f2a-3a1e-4727-b253-7707aae4e9f3st%25C3%25B6rungskarte_20260827-004803.png",
+          "info": "",
+          "alt": "Störungskarte 27.08.2026 00:48:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.08.2026 00:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/41a75567-be81-466e-aae0-b25e61ac8d67",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -1075,62 +1119,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/eb4b635a-d54f-41e2-af3d-3ffa230e2e28",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
-    },
-    {
-      "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
-      "disruptionId": "25fce3bd-9e35-4be4-abe5-c967a7e1bfb9",
-      "author": "regio_nordost",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Störung auf den Linien RE10 und RB43  - Umleitung und Ersatzverkehr zwischen Cottbus Hbf <> Falkenberg(Elster)",
-      "summary": "Montag, 27.07.2026, 23:00 Uhr bis Donnerstag, 27.08.2026, 03:00 Uhr",
-      "text": "<p><strong>RE10  Leipzig - Falkenberg(Elster) - Calau(NL) - Cottbus - Frankfurt(Oder)</strong></p><p>Zug RE10 (18398) Abfahrt Falkenberg(Elster) 0.36 Uhr wird vom 28.07.26 bis 27.08.26 jeweils Di-Do zwischen Falkenber(Elster) und Cottbus Hbf umgeleitet. Reisende nutzen bitte den Ersatzverkehr zwischen Falkenberg(Elster) und Cottbus Hbf.</p><p><strong>RB43   Falkenberg(Elster) - Calau(NL) - Cottbus - Frankfurt(Oder)</strong></p><p>Zug RB43 (18365) Abfahrt Cottbus Hbf 23.02 Uhr wird vom 27.07.26 bis 26.08.26 jeweils Mo-Mi zwischen Cottbus Hbf und Falkenber(Elster) umgeleitet. Reisende nutzen bitte den Ersatzverkehr zwischen Cottbus Hbf und Falkenberg(Elster).</p><p>Bitte achten Sie auf die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Bitte beachten Sie außerdem, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅ Die geänderten Fahrpläne sind ab 31.07.26 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
-      "durationBegin": "27.07.2026",
-      "durationEnd": "27.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/25fce3bd-9e35-4be4-abe5-c967a7e1bfb9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-07-27/69ec21d0-c6ab-4990-9f67-3d0ce42d9925st%25C3%25B6rungskarte_20260727-094851.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-07-27/69ec21d0-c6ab-4990-9f67-3d0ce42d9925st%25C3%25B6rungskarte_20260727-094851.png",
-          "info": "",
-          "alt": "Störungskarte 27.07.2026 09:48:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-07-27/4ab71564-5535-47c8-9ee1-ad1868094523Ersatzfpl%2BBCS-LF%2B%2528RE10%252BRB43%2529%2B27.07.-27.08.2026.pdf",
-          "label": "Ersatzfpl Cottbus Hbf - Falkenberg(Elster) (RE10+RB43) 27.07.-27.08.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB"
-      ],
-      "lines": [
-        {
-          "name": "RB 43",
-          "filterName": "RB 43",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 10",
-          "filterName": "RE 10",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.07.2026 10:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/9557f595-595f-460a-8c4e-8004b438a7ce",
-      "magnoliaPath": "/aktuell/nordost/detour_technical_problem_railway_section"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
