@@ -19,14 +19,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -66,10 +66,9 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.08.2026 13:59",
+      "lastModified": "28.08.2026 11:11",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/4e4a75e5-ddc5-4c12-b9fe-38089f790806",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
@@ -162,6 +161,76 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "c8da1ff3-0975-4d9b-82b2-07a45fcc4b4e",
+      "disruptionId": "8df75d0e-ab3c-4509-bfdc-e65509adc538",
+      "author": "regio_bw",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Witterungsbedingte Einschränkungen: Beeinträchtigungen im Regionalverkehr in Baden-Württemberg",
+      "summary": "Aufgrund von witterungsbedingten Einschränkungen kommt es am Freitag, den 28. August auf einigen Strecken der DB Regio Baden-Württemberg zu großen Beeinträchtigungen. Bitte rechnen Sie mit Verspätungen und Zugausfällen.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li><strong>RE 2 (Karlsruhe – Konstanz) </strong></li><li><strong> SBB S6 (Engen - Konstanz)</strong></li></ul><p>Streckensperrung zwischen Singen(Hohentwiel) und Konstanz. Die Züge enden und beginnen in Singen(Hohentwiel) / Ersatzverkehr mit einem Bus zwischen Singen(Hohentwiel) und Konstanz ist eingerichtet / Weitere Busse sind angefragt - wir warten auf die Bestätigung unserer Partner</p><ul><li><strong>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </strong></li><li><strong>RB 31 (Radolfzell – Friedrichshafen)</strong></li><li><strong>SBB S62 (Schaffhausen - Singen(Hohentwiel))</strong></li></ul><p>Streckensperrung zwischen Schaffhausen und Singen(Hohentwiel)/Radolfzell sowie zwischen Überlingen und Überlingen(Nußdorf) / Ersatzverkehr mit Bus ist zwischen Schaffhausen und Singen(Hohentwiel) eingerichtet. Ein Ersatzverkehr mit Bus ist zwischen Radolfzell und Überlingen angefragt - wir warten auf die Bestätigung unserer Partner</p><ul><li><strong>RE 50 (Aalen – Ulm) </strong></li></ul><p>Streckensperrung zwischen Giengen(Brenz) und Langenau(Württ) / Züge werden an geeigneter Stelle zurückgehalten</p><ul><li><strong>RE 55 (Donaueschingen – Ulm)</strong></li></ul><p>Streckensperrung zwischen Sigmaringen und Beuron / Ersatzverkehr mit Bus ist zwischen Sigmaringen und Fridingen(b Tuttlingen) eingerichtet</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "28.08.2026",
+      "durationEnd": "28.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/8df75d0e-ab3c-4509-bfdc-e65509adc538",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/5eb75367-2b9a-4d3b-9976-80872dc6a9d5st%25C3%25B6rungskarte_20260828-123052.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/5eb75367-2b9a-4d3b-9976-80872dc6a9d5st%25C3%25B6rungskarte_20260828-123052.png",
+          "info": "",
+          "alt": "Störungskarte 28.08.2026 12:30:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 31",
+          "filterName": "RB 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6a",
+          "filterName": "RE 6a",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.08.2026 13:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c8da1ff3-0975-4d9b-82b2-07a45fcc4b4e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_weather_storm"
     },
     {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
@@ -341,6 +410,82 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "c448a2aa-06b7-4dc7-afee-eb436dedc7b7",
+      "disruptionId": "fbf33261-5b73-4be7-9606-d8b0245a8032",
+      "author": "regio_nord",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Beeinträchtigung zwischen Herzberg(Harz) und Salzgitter-Bad",
+      "summary": "Aufgrund einer Reparatur an einem Zug kann es am Samstag, den 29. August 2026 auf der Strecke zwischen Herzberg(Harz) und Salzgitter-Bad zu Verspätungen und Zugausfällen kommen.\n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 46 (Braunschweig Hbf – Herzberg(Harz): Es kann ggf. zu (Teil-)Ausfällen zwischen Herzberg(Harz) und Salzgitter-Bad kommen. Für ausfallende Züge wird ein Ersatzverkehr mit Bussen eingerichtet.</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von vsl. bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "28.08.2026",
+      "durationEnd": "29.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/fbf33261-5b73-4be7-9606-d8b0245a8032",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-28/5c7e6573-955f-4adb-9f2a-f82e14436eadst%25C3%25B6rungskarte_20260828-111926.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-28/5c7e6573-955f-4adb-9f2a-f82e14436eadst%25C3%25B6rungskarte_20260828-111926.png",
+          "info": "",
+          "alt": "Störungskarte 28.08.2026 11:19:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte  ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.08.2026 12:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c448a2aa-06b7-4dc7-afee-eb436dedc7b7",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle0"
+    },
+    {
       "id": "bd70cefe-f9e1-4472-9385-6c1b05665671",
       "disruptionId": "7651f46b-17f4-49e5-8c1b-9e38416966b1",
       "author": "regio_bw",
@@ -348,16 +493,16 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "Beeinträchtigungen im Bahnhof Eutingen im Gäu",
-      "summary": "Der Bahnhof Eutingen im Gäu ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. Mittwoch, den 02.09.2026. Grund ist eine Reparatur an der Strecke. Der Zugverkehr im Bahnhof Eutingen im Gäu ist aktuell nur über Gleis 1 und 3 möglich. Das Gleis 2 ist derzeit gesperrt. In der Folge kommt es zu Verspätungen und vereinzelt auch zu Zugteilausfällen. Sobald uns weitere Informationen vorliegen, werden wir Sie umgehend informieren. Bitte achten Sie auf Lautsprecheransagen im Zug und am Bahnhof.",
+      "headline": "Beeinträchtigungen im Bahnhof Eutingen im Gäu aufgehoben",
+      "summary": "Der Bahnhof Eutingen im Gäu ist nicht mehr beeinträchtigt und alle Gleise im Bahnhof sind wieder für den Zugverkehr freigegeben.  Der Grund war eine Reparatur an der Strecke. Da die Züge den Bahnhof noch mit einer verminderten Geschwindigkeit befahren müssen, kann es weiterhin noch zu Verspätungen und vereinzelten Teilausfällen kommen. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "26.08.2026",
-      "durationEnd": "02.09.2026",
+      "durationEnd": "26.08.2026",
       "mapHref": "https://karte.bahn.de/detail/7651f46b-17f4-49e5-8c1b-9e38416966b1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-26/64d77c0d-0557-4214-9ca1-9199a14bc2afst%25C3%25B6rungskarte_20260826-045157.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-26/64d77c0d-0557-4214-9ca1-9199a14bc2afst%25C3%25B6rungskarte_20260826-045157.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/607b8bde-4182-46c5-aaad-d098fdad5686st%25C3%25B6rungskarte_20260826-045157.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/607b8bde-4182-46c5-aaad-d098fdad5686st%25C3%25B6rungskarte_20260826-045157.png",
           "info": "",
           "alt": "Störungskarte 26.08.2026 04:51:57",
           "openInNewTab": true
@@ -378,16 +523,6 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RB 14a",
-          "filterName": "RB 14a",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 14b",
-          "filterName": "RB 14b",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RB 74",
           "filterName": "RB 74",
           "property": "REGIONAL"
@@ -401,19 +536,64 @@
           "name": "RE 14b",
           "filterName": "RE 14b",
           "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.08.2026 16:25",
+      "lastModified": "28.08.2026 11:15",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/bd70cefe-f9e1-4472-9385-6c1b05665671",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_vehicle"
+    },
+    {
+      "id": "ad3ad411-567a-4ec3-9d0e-79cd936c9462",
+      "disruptionId": "77f70631-25b1-4bc5-94eb-e7a97aef49a7",
+      "author": "regio_bw",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Heilbronn Hbf und Crailsheim am 28.08.26",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Schwäbisch Hall-Hessental und Crailsheim kommt es heute auf den Linien RE 80 und RB 83 zu Beeinträchtigungen. Dauer der Beeinträchtigung bis vsl. Tagesende.  Die Züge fallen auf dem Streckenabschnitt zwischen Heilbronn Hbf und Öhringen Hbf aus. Bitte nutzen SIe alternativ die Züge der Linie S4, sowie auch andere Verkehrsmittel. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 80 (Heilbronn – Crailsheim)</li><li>RB 83 (Heilbronn – Schwäbisch Hall-Hessental)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "28.08.2026",
+      "durationEnd": "28.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/77f70631-25b1-4bc5-94eb-e7a97aef49a7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/60296b42-e86b-45ed-b3d9-b53a2bc0a8b6st%25C3%25B6rungskarte_20260828-105750.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-28/60296b42-e86b-45ed-b3d9-b53a2bc0a8b6st%25C3%25B6rungskarte_20260828-105750.png",
+          "info": "",
+          "alt": "Störungskarte 28.08.2026 10:57:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 83",
+          "filterName": "RB 83",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.08.2026 11:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ad3ad411-567a-4ec3-9d0e-79cd936c9462",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section7"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
@@ -504,43 +684,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
     },
     {
-      "id": "5c748b1a-bb40-40c8-bc28-2e966ad3984c",
-      "disruptionId": "14f44b67-80a2-41fb-a8e0-13740f59c8ef",
-      "author": "s_bahn_rm",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Teilausfälle zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB12: Königstein(Taunus) - Kelkheim - Frankfurt-Höchst - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Dauer der Beeinträchtigung bis vsl. 28. August, 5:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RB12 kommt es zu Teilausfällen zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1, S2 und die übrigen Züge des Regionalverkehrs zwischen Frankfurt(Main)Hbf - Frankfurt-Höchst.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "17.08.2026",
-      "durationEnd": "28.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/14f44b67-80a2-41fb-a8e0-13740f59c8ef",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 12",
-          "filterName": "RB 12",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.08.2026 08:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5c748b1a-bb40-40c8-bc28-2e966ad3984c",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
       "disruptionId": "c288b98a-5ffc-4a4e-8718-3018c0ca2af3",
       "author": "regio_bw",
@@ -603,43 +746,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "dc3c1f77-0f9c-4aca-88d0-3fdb6e124385",
-      "disruptionId": "879438db-a6ce-437f-a174-3504e8f2abfb",
-      "author": "regio_suedost",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Torgau  ⇄ Falkenberg(Elster) - Fahrtausfälle",
-      "summary": "Der Streckenabschnitt zwischen Torgau und Falkenberg(Elster) ist vom 27.08.2026, 22.00 Uhr bis vsl. 28.08.2026, 6.00 Uhr beeinträchtigt. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Torgau und Falkenberg(Elster) aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "27.08.2026",
-      "durationEnd": "28.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/879438db-a6ce-437f-a174-3504e8f2abfb",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 Mitteldeutschland",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.08.2026 16:07",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dc3c1f77-0f9c-4aca-88d0-3fdb6e124385",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "fd599380-a8cf-4072-8747-4850d2b2c425",
