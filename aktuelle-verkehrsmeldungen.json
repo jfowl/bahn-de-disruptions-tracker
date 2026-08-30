@@ -2,24 +2,24 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bce5b6ef-989e-4346-ac28-ccec8325b496",
-      "disruptionId": "703754e2-695c-431f-9099-24b657c22f46",
+      "id": "72c677e3-e426-4d32-9f84-68cb751bcb21",
+      "disruptionId": "246d7470-1321-454f-84c1-5027cc254c1f",
       "author": "fernverkehr_ag",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Fulda/Kassel",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Wächtersbach zwischen Hanau und Fulda kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Hannover und Frankfurt(M) werden in beiden Fahrtrichtungen zwischen Kassel-Wilhelmshöhe und Frankfurt(M) umgeleitet und verspäten sich um etwa 30 Minuten. Die Halte Fulda und Hanau entfallen.</li><li>Alle ICE-Züge zwischen Berlin und Frankfurt(M) werden in beiden Fahrtrichtungen zwischen Fulda und Hanau umgeleitet und verspäten sich um etwa 30 Minuten.</li><li>Alle ICE-Züge zwischen Leipzig und Frankfurt(M) werden in beiden Fahrtrichtungen zwischen Fulda und Hanau umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/703754e2-695c-431f-9099-24b657c22f46",
+      "headline": "Beeinträchtigungen zwischen Siegburg und Frankfurt(M) Flughafen",
+      "summary": "Aufgrund einer technischen Störung in Willroth an der Strecke zwischen Siegburg und Montabaur kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Teilausfällen und Umleitungen und verspäten sich dadurch um etwa 90 Minuten .",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge von Köln über Siegburg, Montabaur und Limburg Süd</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/246d7470-1321-454f-84c1-5027cc254c1f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-29/825df98c-8b4d-444c-81b9-91faeb492c8ast%25C3%25B6rungskarte_20260829-202111.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-29/825df98c-8b4d-444c-81b9-91faeb492c8ast%25C3%25B6rungskarte_20260829-202111.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-30/e4fa5783-51dd-489a-a665-f423e9e260f0st%25C3%25B6rungskarte_20260830-085036.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-30/e4fa5783-51dd-489a-a665-f423e9e260f0st%25C3%25B6rungskarte_20260830-085036.png",
           "info": "",
-          "alt": "Störungskarte 29.08.2026 20:21:11",
+          "alt": "Störungskarte 30.08.2026 08:50:36",
           "openInNewTab": true
         }
       ],
@@ -29,12 +29,9 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "ST",
-        "BE",
-        "TH",
         "BW",
-        "NI",
-        "SN",
+        "BY",
+        "NW",
         "HE",
         "RP"
       ],
@@ -45,11 +42,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.08.2026 20:43",
+      "lastModified": "30.08.2026 08:53",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/bce5b6ef-989e-4346-ac28-ccec8325b496",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_other_cause"
+      "detailPagePath": "/service/fahrplaene/72c677e3-e426-4d32-9f84-68cb751bcb21",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "da8ce3e4-2e26-40b5-9b2b-3cdf3ddbc682",
@@ -480,56 +477,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "38b9826a-0f0d-468a-9c47-4b610f8d00ca",
-      "disruptionId": "6cab04c7-cf2d-4ac3-8f8f-5490529a53bb",
-      "author": "s_bahn_rm",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Verspätungen und Teilausfälle zwischen Wirtheim - Steinau(Straße)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda  (- Bad Hersfeld - Bebra)</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Bis 30. August 06:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge verkehren zwischen Offenbach(Main)Hbf - Wirtheim und zwischen Fulda - Steinau(Straße).</li><li>Die Halte Wächtersbach und Bad Soden-Salmünster entfallen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie ab ca. 21:30 Uhr einen Ersatzverkehr mit 10 Bussen der Firma Holiday Reisen zwischen Wirtheim - Steinau(Straße) eingerichtet, die im Pendel verkehren.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "29.08.2026",
-      "durationEnd": "30.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/6cab04c7-cf2d-4ac3-8f8f-5490529a53bb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-29/d2949d79-77b4-4451-9e98-a4fe0be0e8d3st%25C3%25B6rungskarte_20260829-205000.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-29/d2949d79-77b4-4451-9e98-a4fe0be0e8d3st%25C3%25B6rungskarte_20260829-205000.png",
-          "info": "",
-          "alt": "Störungskarte 29.08.2026 20:50:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 51",
-          "filterName": "RB 51",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.08.2026 20:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/38b9826a-0f0d-468a-9c47-4b610f8d00ca",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
