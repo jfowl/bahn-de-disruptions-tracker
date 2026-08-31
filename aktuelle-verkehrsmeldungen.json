@@ -2,52 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "36298132-5041-4147-b317-064ee044e528",
-      "disruptionId": "ac650a88-7f27-405f-9d91-ae573d68b46d",
-      "author": "fernverkehr_ag",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen [Ort1] und [Ort2]",
-      "summary": "Aufgrund von Bauarbeiten zwischen Hannover und  Minden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge von Amsterdam nach Berlin werden über Bremen umgeleitet. Verspätung ca. 60 Minuten</li><li>Züge von Hannover nach Dortmund werden über Altenbecken umgeleitet </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/ac650a88-7f27-405f-9d91-ae573d68b46d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-30/623f587a-74e1-4ca8-9476-110f1f1a5776st%25C3%25B6rungskarte_20260830-114940.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-30/623f587a-74e1-4ca8-9476-110f1f1a5776st%25C3%25B6rungskarte_20260830-114940.png",
-          "info": "",
-          "alt": "Störungskarte 30.08.2026 11:49:40",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.08.2026 11:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/36298132-5041-4147-b317-064ee044e528",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_construction"
-    },
-    {
       "id": "da8ce3e4-2e26-40b5-9b2b-3cdf3ddbc682",
       "disruptionId": "90ee32fc-fec4-4cbf-8623-236b94872a3e",
       "author": "fernverkehr_ag",
@@ -253,6 +207,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/96069030-b108-461e-9139-037c8a40b14b",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "79c08eab-1fa0-4547-ab7b-d3f5b0150ab1",
+      "disruptionId": "1e528641-eab2-4e22-8a07-6593d67e048e",
+      "author": "s_bahn_hh",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Derzeit Verspätungen auf der S5 und S7.",
+      "summary": "Auf der S5 und S7  kommt es derzeit zu Verspätungen. Grund: Signalstörung. Nutzen Sie im Innenstadtbereich alternativ auch die U-Bahnen und Linienbusse.",
+      "text": "<p></p>",
+      "durationBegin": "31.08.2026",
+      "durationEnd": "31.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/1e528641-eab2-4e22-8a07-6593d67e048e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.08.2026 08:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/79c08eab-1fa0-4547-ab7b-d3f5b0150ab1",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -716,6 +713,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/38e25481-55d8-4134-84cf-605c44903df8",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "d0927b31-0124-4c29-947d-b71985e393a9",
+      "disruptionId": "96c0d48a-39a7-4163-a209-975677cf4ba0",
+      "author": "fernverkehr_ag",
+      "cause": {
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Essen",
+      "summary": "Aufgrund von Vandalismusschäden bei Bochum ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Dortmund und Essen mit planmäßigen Halt in Bochum Hbf werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 15 Minuten. Der Halt Bochum Hbf entfällt bei diesen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die heutigen Mittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/96c0d48a-39a7-4163-a209-975677cf4ba0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-31/638c9fdd-61ea-4c4c-ba7d-db69d293a6dfst%25C3%25B6rungskarte_20260831-031406.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-31/638c9fdd-61ea-4c4c-ba7d-db69d293a6dfst%25C3%25B6rungskarte_20260831-031406.png",
+          "info": "",
+          "alt": "Störungskarte 31.08.2026 03:14:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.08.2026 03:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d0927b31-0124-4c29-947d-b71985e393a9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_other_cause"
     },
     {
       "id": "fd599380-a8cf-4072-8747-4850d2b2c425",
