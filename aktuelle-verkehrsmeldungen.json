@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "de56844d-c389-46bf-a3ef-2f5e46258b36",
+      "disruptionId": "090a5d68-e4d7-4aa2-8202-15097f0df35d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung in Ingolstadt",
+      "summary": "Aufgrund der Reparatur an einer Weiche in Ingolstadt kommt es derzeit zu Beeinträchtigungen und Zugausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Berlin - Leipzig - Erfurt - Nürnberg - München fallen zwischen Leipzig und München aus</li><li>ICE-Züge der Verbindung Frankfurt(M) - Würzburg - Nürnberg - München fallen zwischen Nürnberg und München aus</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Reisende zwischen Leipzig und München nutzen bitte die alternativen Verbindungen des Fernverkehrs, ggf. auch mit Umstieg in Halle(Saale) Hbf</li><li>Reisende zwischen Nürnberg und München nutzen bitte die alternativen Verbindungen des Fernverkehrs mit Umstieg in Nürnberg Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/090a5d68-e4d7-4aa2-8202-15097f0df35d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-02/d4505ef6-fa49-4e70-988d-e23a1c53214fst%25C3%25B6rungskarte_20260901-174328.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-02/d4505ef6-fa49-4e70-988d-e23a1c53214fst%25C3%25B6rungskarte_20260901-174328.png",
+          "info": "",
+          "alt": "Störungskarte 01.09.2026 17:43:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.09.2026 00:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/de56844d-c389-46bf-a3ef-2f5e46258b36",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "da8ce3e4-2e26-40b5-9b2b-3cdf3ddbc682",
       "disruptionId": "90ee32fc-fec4-4cbf-8623-236b94872a3e",
       "author": "FERNVERKEHR_AG",
@@ -46,97 +104,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/da8ce3e4-2e26-40b5-9b2b-3cdf3ddbc682",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "ad9924cb-9fa2-4c52-a30f-0d4f67df65b6",
-      "disruptionId": "ad9876c3-3992-4d2b-833f-95e15a162b07",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
-      },
-      "headline": "Hinweis zur Linie S5 der S-Bahn Rhein-Neckar",
-      "summary": "Aufgrundeines technischen Fehlers werden die Züge der Linie S5 derzeit nicht in den elektronischen Auskunftsmedien angezeigt.\n\nDie Züge verkehren planmäßig. Bitte orientieren Sie sich an den Fahrplanaushängen an den Bahnhöfen.\n\nBitte beachten Sie: Aufgrund von Bauarbeiten werden einzelne S-Bahnen zwischen Worms Hbf und Mainz Hbf durch Busse ersetzt. Die entsprechenden Ersatzverkehre werden in den elektronischen Auskunftsmedien angezeigt.\n\nWir arbeiten daran, die Züge wieder in den elektronischen Auskunftsmedien anzuzeigen.\n\nEin Link zum Download des Fahrplans wird in Kürze bereitgestellt.",
-      "text": "<p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "28.08.2026",
-      "durationEnd": "02.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ad9876c3-3992-4d2b-833f-95e15a162b07",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-28/6ba6d615-9136-417d-b650-a6904bcb958fFahrplan%2BMainz%2B-%2BMannheim%2B-%2BBensheim.pdf",
-          "label": "Fahrplan Mainz <> Mannheim <> Bensheim.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.08.2026 15:21",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ad9924cb-9fa2-4c52-a30f-0d4f67df65b6",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_it"
-    },
-    {
-      "id": "f355e9c8-a20c-4af2-af43-7d88abb8b89b",
-      "disruptionId": "116b34fa-2858-444e-8390-c1605bd3f484",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung in Ingolstadt",
-      "summary": "Aufgrund der Reparatur an einer Weiche in Ingolstadt kommt es derzeit zu Umleitungen und Verspätungen von ca. 45 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Berlin - Erfurt - Nürnberg - München in Fahrtrichtung Nürnberg - München</li><li>ICE-Züge der Verbindung Hamburg - Hannover - Kassel-Wilhelmshöhe - Würzburg - München in Fahrtrichtung Würzburg - München</li><li>ICE-Züge der Verbindung Frankfurt(M) - Nürnberg - München in Fahrtrichtung Nürnberg - München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/116b34fa-2858-444e-8390-c1605bd3f484",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-01/afb0a65b-6773-43bc-9aae-cdc9992a439dst%25C3%25B6rungskarte_20260901-154858.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-01/afb0a65b-6773-43bc-9aae-cdc9992a439dst%25C3%25B6rungskarte_20260901-154858.png",
-          "info": "",
-          "alt": "Störungskarte 01.09.2026 15:48:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.09.2026 16:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f355e9c8-a20c-4af2-af43-7d88abb8b89b",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "b3cf13dd-1b71-4f17-bafd-427fb75eb111",
@@ -494,131 +461,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "01b8d191-b599-4dbd-98e5-1af2e1495d4b",
-      "disruptionId": "a036da1f-4a0f-4661-8998-15b721a46e41",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Stammstrecke: Feuerwehreinsatz am Marienplatz",
-      "summary": "Die S-Bahnen halten derzeit nicht am Marienplatz.",
-      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Isartor.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Marienplatz.</p>",
-      "durationBegin": "01.09.2026",
-      "durationEnd": "01.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/a036da1f-4a0f-4661-8998-15b721a46e41",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/8c8b7c12-d6a9-4168-8138-997596a73e97st%25C3%25B6rungskarte_20260901-224414.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/8c8b7c12-d6a9-4168-8138-997596a73e97st%25C3%25B6rungskarte_20260901-224414.png",
-          "info": "",
-          "alt": "Störungskarte 01.09.2026 22:44:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.09.2026 22:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/01b8d191-b599-4dbd-98e5-1af2e1495d4b",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
-    },
-    {
-      "id": "8957e620-cde6-4c74-938f-600207734a36",
-      "disruptionId": "cf2b5afe-12d9-4ebb-b1db-262d4367ebe8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 4, S 6 Trudering: Reparatur an einem Signal",
-      "summary": "Im Bereich Trudering kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "01.09.2026",
-      "durationEnd": "01.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/cf2b5afe-12d9-4ebb-b1db-262d4367ebe8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/82324ef0-5173-45ce-b8ca-8d49ea4ade42st%25C3%25B6rungskarte_20260901-223400.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/82324ef0-5173-45ce-b8ca-8d49ea4ade42st%25C3%25B6rungskarte_20260901-223400.png",
-          "info": "",
-          "alt": "Störungskarte 01.09.2026 22:34:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.09.2026 22:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8957e620-cde6-4c74-938f-600207734a36",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
