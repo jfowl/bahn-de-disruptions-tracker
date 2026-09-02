@@ -106,6 +106,76 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "b3cf13dd-1b71-4f17-bafd-427fb75eb111",
+      "disruptionId": "015a4fe9-167d-454d-bffc-a444ffc7cf81",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bombenentschärfung auf den Linien RB 20, RB 32 und RE 5 - Haltausfälle und Ersatzverkehr zwischen Oranienburg - Hennigsdorf (b Berlin)/ Berlin Südkreuz/ Berlin-Lichtenberg",
+      "summary": "Mittwoch, 02.09.2026, 07:00 Uhr bis Mittwoch, 02.09.2026, 23:59 Uhr",
+      "text": "<p><strong>RE5    Rostock/Stralsund – Neustrelitz – Berlin </strong></p><ul><li>Mehrere Züge dieser Linie fallen am <strong>02.09.26</strong> zwischen Oranienburg &lt;&gt; Berlin-Südkreuz aus</li><li>Reisende nutzen bitte den Ersatzverkehr zwischen Oranienburg &lt;&gt; S-Bahnhof Birkenwerder</li></ul><p><strong>RB20   Potsdam Griebnitzsee - Potsdam Hbf - Golm - Hennigsdorf(b Berlin) - Birkenwerder - Oranienburg</strong></p><ul><li>Mehrere Züge dieser Linie fallen am <strong>02.09.26 </strong>zwischen Oranienburg &lt;&gt; Hennigsdorf (b Berlin) aus</li><li>Reisende nutzen bitte den Ersatzverkehr zwischen Hennigsdorf (b Berlin) &lt;&gt; S-Bahnhof Hohen Neuendorf</li></ul><p><strong>RB32   Oranienburg - Berlin Ostkreuz - Flughafen BER - Ludwigsfelde</strong></p><ul><li>Mehrere Züge dieser Linie fallen am <strong>02.09.26 </strong>zwischen Oranienburg &lt;&gt; Berlin-Lichtenberg aus</li><li>Als Ersatz nutzen Sie bitte alternative Verbindungen</li></ul><p>Bitte achten Sie auf die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Bitte beachten Sie außerdem, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen. In den Bussen des Ersatzverkehrs ist die Beförderung von Fahrrädern, Rollstühlen und Kinderwagen nur eingeschränkt möglich, wobei Fahrräder Nachrang haben – das Buspersonal entscheidet im Einzelfall über die Fahrradmitnahme.</p><p>✅ Die geänderten Fahrpläne sind in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.</p>",
+      "durationBegin": "02.09.2026",
+      "durationEnd": "02.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/015a4fe9-167d-454d-bffc-a444ffc7cf81",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-02/11693d1c-14ce-4137-96f5-d6f6a96e4ac2st%25C3%25B6rungskarte_20260828-151455.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-02/11693d1c-14ce-4137-96f5-d6f6a96e4ac2st%25C3%25B6rungskarte_20260828-151455.png",
+          "info": "",
+          "alt": "Störungskarte 28.08.2026 15:14:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-02/b74ea597-a6c8-407a-9cf2-656329c3b70aBaufpl%2B11540%2BHennigsdorf%2B%2528b%2BBerlin%2529%2B-%2BS%2BHohen%2BNeuendorf%2B%2528RB20%2529%2B02.09.2026.pdf",
+          "label": "Baufpl Hennigsdorf (b Berlin) - S Hohen Neuendorf (RB20) 02.09.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-02/15a0f3fd-dde3-4732-a226-9f4192d12975Baufpl%2B11540%2BOranienburg%2B-%2BBIrkenwerder%2B%2528b%2BBerlin%2529%2B%2528RE5%2529%2B02.09.2026.pdf",
+          "label": "Baufpl Oranienburg - BIrkenwerder (b Berlin) (RE5) 02.09.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 20",
+          "filterName": "RB 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 32",
+          "filterName": "RB 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.09.2026 19:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b3cf13dd-1b71-4f17-bafd-427fb75eb111",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction13"
+    },
+    {
       "id": "4e4a75e5-ddc5-4c12-b9fe-38089f790806",
       "disruptionId": "caff3ae9-8918-4080-a4b6-a88e089152b1",
       "author": "S_BAHN_HH",
@@ -219,44 +289,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/96069030-b108-461e-9139-037c8a40b14b",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section1"
-    },
-    {
-      "id": "288aa008-cdb1-458f-b51b-5b11b28d548d",
-      "disruptionId": "d165d452-ecbb-4b39-8863-c929e91d54ff",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S1: Signalstörung im Bereich Blankenese",
-      "summary": "Aufgrund einer Signalstörung im Bereich Blankenese kommt es auf der Linie S1 aktuell zu Verspätungen und einzelnen Ausfällen. ",
-      "text": "<p> </p>",
-      "durationBegin": "02.09.2026",
-      "durationEnd": "02.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/d165d452-ecbb-4b39-8863-c929e91d54ff",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.09.2026 16:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/288aa008-cdb1-458f-b51b-5b11b28d548d",
-      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -431,6 +463,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "9173aca3-c266-42b3-8313-cd3af7dca420",
+      "disruptionId": "ed2d7d1c-c183-4950-91d0-2c417fd0eab1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S 2 Riem: Unbefugte Personen auf der Strecke beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür waren unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "02.09.2026",
+      "durationEnd": "02.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/ed2d7d1c-c183-4950-91d0-2c417fd0eab1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/74edfcb8-ad30-4a36-837e-4de5b46b9e3est%25C3%25B6rungskarte_20260902-185819.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/74edfcb8-ad30-4a36-837e-4de5b46b9e3est%25C3%25B6rungskarte_20260902-185819.png",
+          "info": "",
+          "alt": "Störungskarte 02.09.2026 18:58:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.09.2026 19:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9173aca3-c266-42b3-8313-cd3af7dca420",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section17"
+    },
+    {
       "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
       "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
       "author": "REGIO_BW",
@@ -537,43 +614,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "9ad23b97-80b0-4921-92fa-a410220087c8",
-      "disruptionId": "ebd13da5-2ed6-4c13-aa65-0bf2bc27a373",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1 heute zw. Othmarschen und Blankenese alle 10 Minuten",
-      "summary": "Die S1 fährt heute im Zeitraum von 15:00 Uhr bis 18:30 Uhr zwischen Othmarschen und Blankenese nur alle 10 Minuten. Grund: Dringende Reparaturarbeiten an der Strecke.",
-      "text": "<p> </p>",
-      "durationBegin": "02.09.2026",
-      "durationEnd": "02.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ebd13da5-2ed6-4c13-aa65-0bf2bc27a373",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.09.2026 14:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9ad23b97-80b0-4921-92fa-a410220087c8",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "633ab29d-32bc-44c8-83aa-fde49d93f01d",
