@@ -521,25 +521,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "dd961d09-3a30-4693-b034-49e9b2aef9b7",
-      "disruptionId": "76989467-f50d-4dff-9fdd-9c4ff236fe8a",
+      "id": "77fe91ef-3ee9-46d5-b282-8e1376606aa0",
+      "disruptionId": "08439e3a-bffb-4702-82f2-1d2a0d8c10b3",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "Stamm: Zwischen Hackerbrücke und Donnersbergerbrücke. Unbefugte Personen auf der Strecke",
-      "summary": "Zwischen Pasing und Ostbahnhof in beiden Richtungen kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p> Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "S 1 Feldmoching: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Feldmoching ↔ Neufahrn kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "02.09.2026",
       "durationEnd": "02.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/76989467-f50d-4dff-9fdd-9c4ff236fe8a",
+      "mapHref": "https://karte.bahn.de/detail/08439e3a-bffb-4702-82f2-1d2a0d8c10b3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/ef70f8c2-1497-4278-8e81-7d525663e273st%25C3%25B6rungskarte_20260902-073402.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/ef70f8c2-1497-4278-8e81-7d525663e273st%25C3%25B6rungskarte_20260902-073402.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/dc9f34d9-69f8-4665-948e-502337fa42bcst%25C3%25B6rungskarte_20260902-121402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/dc9f34d9-69f8-4665-948e-502337fa42bcst%25C3%25B6rungskarte_20260902-121402.png",
           "info": "",
-          "alt": "Störungskarte 02.09.2026 07:34:02",
+          "alt": "Störungskarte 02.09.2026 12:14:02",
           "openInNewTab": true
         }
       ],
@@ -556,44 +556,58 @@
           "name": "S 1",
           "filterName": "S 1 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.09.2026 07:36",
+      "lastModified": "02.09.2026 12:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dd961d09-3a30-4693-b034-49e9b2aef9b7",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
+      "detailPagePath": "/service/fahrplaene/77fe91ef-3ee9-46d5-b282-8e1376606aa0",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section16"
+    },
+    {
+      "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
+      "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Weiterhin Beeinträchtigungen zwischen Giengen(Brenz) und Ulm Hbf bis vsl. 15. September 2026",
+      "summary": "Der Streckenabschnitt zwischen Giengen(Brenz) und Ulm Hbf ist weiterhin beeinträchtigt. Dauer der Beeinträchtigung bis vsl. mindestens 15.09.2026 Der Grund ist eine Reparatur an der Strecke. Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen von 5 bis 10 Minuten. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 50 (Aalen – Ulm) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "09.08.2026",
+      "durationEnd": "15.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/0eedd2e6-3350-43e1-bf76-c6b537a48554",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-02/0d4a00a4-c74c-49f5-b40f-adbd52ad9f84st%25C3%25B6rungskarte_20260809-094819.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-02/0d4a00a4-c74c-49f5-b40f-adbd52ad9f84st%25C3%25B6rungskarte_20260809-094819.png",
+          "info": "",
+          "alt": "Störungskarte 09.08.2026 09:48:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.09.2026 09:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
@@ -638,50 +652,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
-    },
-    {
-      "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
-      "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Giengen(Brenz) und Ulm Hbf bis vsl. 02. September 2026",
-      "summary": "Der Streckenabschnitt zwischen Giengen(Brenz) und Ulm Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. mindestens 02.09.2026. Der Grund ist eine Reparatur an der Strecke. Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen von 5 bis 10 Minuten. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 50 (Aalen – Ulm) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "09.08.2026",
-      "durationEnd": "02.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/0eedd2e6-3350-43e1-bf76-c6b537a48554",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-25/75350508-ba43-4d30-b670-6496c43b41aast%25C3%25B6rungskarte_20260809-094819.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-25/75350508-ba43-4d30-b670-6496c43b41aast%25C3%25B6rungskarte_20260809-094819.png",
-          "info": "",
-          "alt": "Störungskarte 09.08.2026 09:48:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.08.2026 17:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
@@ -764,16 +734,28 @@
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-01/4d0b7335-e72a-4b41-86bf-e853b0250b91Fahrplan-RB91-Polregio_ab20260901.pdf",
-          "label": "Fahrplan-RB91 (POLRregio) ab 20260901.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-09-02/01ae2175-b7af-450c-8f2b-d513153fef41Fahrplan-RB91-Polregio_ab20260901.pdf",
+          "label": "Fahrplan-RB91 (POLRegio) ab 20260901.pdf",
           "info": "",
           "openInNewTab": true
         }
       ],
       "links": [
         {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://polregio.pl/pl/dla-podroznych/informacje/stala-zastepcza-komunikacja-autobusowa-zka-od-30-sierpnia-2026-r/",
           "label": "Weitere Information in polnischer Sprache von POLREGIO",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.google.com/maps/place/52%C2%B021'01.0%22N+14%C2%B037'50.3%22E/@52.3504731,14.6304899,18.26z/data=!4m4!3m3!8m2!3d52.350272!4d14.630643?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+          "label": "Ersatzverkehrshaltestelle Kunowice Ri. Rzepin",
           "info": "",
           "openInNewTab": true
         },
@@ -786,18 +768,6 @@
         {
           "href": "https://www.google.com/maps/search/52.351091,+14.632753?entry=tts&g_ep=EgoyMDI2MDgyNS4wIPu8ASoASAFQAw%3D%3D&skid=76027952-baba-4482-8c1a-a4db250bb193",
           "label": "Ersatzverkehrshaltestelle Kunowice Ri. Frankfurt(O)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.google.com/maps/place/52%C2%B021'01.0%22N+14%C2%B037'50.3%22E/@52.3504731,14.6304899,18.26z/data=!4m4!3m3!8m2!3d52.350272!4d14.630643?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
-          "label": "Ersatzverkehrshaltestelle Kunowice Ri. Rzepin",
           "info": "",
           "openInNewTab": true
         }
@@ -815,7 +785,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "01.09.2026 15:11",
+      "lastModified": "02.09.2026 08:40",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/633ab29d-32bc-44c8-83aa-fde49d93f01d",
@@ -918,22 +888,29 @@
         "label": "Bauarbeiten"
       },
       "headline": "Baustelleninformation für die S3, S4, S6 und S8 vom Dienstag, 25. August bis voraussichtlich Mitte 2028",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke  kommt es in Laim von Dienstag, 25. August, ab 05:00 Uhr, durchgehend bis voraussichtlich Mitte 2028, zu Fahrplanänderungen mit Haltausfall in Laim.",
-      "text": "<ul><li>Die Linien S3, S4, S6 und S8 aus Richtung <strong>Pasing </strong>fahren <strong>stadteinwärts ohne Halt in Laim direkt zum Hirschgarten</strong>. Bitte fahren Sie bis Hirschgarten oder weiter und nutzen Sie von dort eine Verbindung zurück nach Laim. <strong>Stadtauswärts vom Hirschgarten kommend halten alle Linien planmäßig in Laim</strong>.</li><li>Die Linien S1 aus Richtung Freising/Flughafen und S2 aus Richtung Petershausen/Altomünster fahren <strong>planmäßig </strong>und halten nach wie vor in Laim.</li><li>Die Linie S5 fährt <strong>planmäßig </strong>über Pasing mit Halt in Laim.</li></ul><p><strong>Hinweis:</strong></p><p>Für einen komfortableren bzw. barrierefreien Umstieg<strong>&nbsp;</strong>greift eine&nbsp;<strong>tarifliche Sonderregelung</strong>&nbsp;für Einzelfahrkarten, Kurzstrecken und&nbsp;Streifenkarte: Bei Nachweis eines gültigen Tickets bis zum Zielbahnhof (z.B. Einzelfahrkarte, Kurzstrecken, Streifenkarte) sind auch Fahrten in die entgegengesetzte Richtung erlaubt. Dies gilt auch für den Kurzstreckentarif.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke  kommt es in Laim seit Dienstag, 25. August durchgehend bis voraussichtlich Mitte 2028, zu Fahrplanänderungen mit Haltausfall in Laim.",
+      "text": "<ul><li>Die Linien S3, S4, S6 und S8 aus Richtung <strong>Pasing </strong>fahren <strong>stadteinwärts ohne Halt in Laim direkt zum Hirschgarten</strong>. Bitte fahren Sie bis Hirschgarten oder weiter und nutzen Sie von dort eine Verbindung zurück nach Laim. <strong>Stadtauswärts vom Hirschgarten kommend halten alle Linien planmäßig in Laim</strong>.</li><li>Die Linien S1 aus Richtung Freising/Flughafen und S2 aus Richtung Petershausen/Altomünster fahren <strong>planmäßig </strong>und halten nach wie vor in Laim.</li><li>Die Linie S5 fährt <strong>planmäßig </strong>über Pasing mit Halt in Laim.</li></ul><p><strong>Hinweis:</strong></p><p>Für einen komfortableren bzw. barrierefreien Umstieg<strong>&nbsp;</strong>greift eine&nbsp;<strong>tarifliche Sonderregelung</strong>&nbsp;für Einzelfahrkarten, Kurzstrecken und&nbsp;Streifenkarte: Bei Nachweis eines gültigen Tickets bis zum Zielbahnhof (z.B. Einzelfahrkarte, Kurzstrecken, Streifenkarte) sind auch Fahrten in die entgegengesetzte Richtung erlaubt. Dies gilt auch für den Kurzstreckentarif.</p>",
       "durationBegin": "20.08.2026",
-      "durationEnd": "26.08.2026",
+      "durationEnd": "06.09.2026",
       "mapHref": "https://karte.bahn.de/detail/9661a181-3805-4dff-816b-7731ee9c921c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/57e1671e-1c64-456d-9397-2fb8733b6d7fst%25C3%25B6rungskarte_20260807-134052.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/57e1671e-1c64-456d-9397-2fb8733b6d7fst%25C3%25B6rungskarte_20260807-134052.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/64e39795-8206-47fc-9e0e-1934d532a4d9st%25C3%25B6rungskarte_20260807-134052.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/64e39795-8206-47fc-9e0e-1934d532a4d9st%25C3%25B6rungskarte_20260807-134052.png",
           "info": "",
           "alt": "Störungskarte 07.08.2026 13:40:52",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "http://www.s-bahn-muenchen.de/baustellen",
+          "label": "Baustellen der S-Bahn München",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "SBAHN"
       ],
@@ -977,7 +954,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.09.2026 09:44",
+      "lastModified": "02.09.2026 12:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
