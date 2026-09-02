@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "55cfdf73-dee4-45bf-89d4-100079a1b86c",
+      "disruptionId": "5db75409-583c-4fe5-8285-4fa7abaab251",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Berlin und Wolfsburg",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Berlin und Wolfsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen bis zu 30 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin - Hannover - Amsterdam</li><li>ICE-Züge zwischen Berlin - Hannover - Ruhrgebiet</li><li>ICE-Züge zwischen Berlin - Kassel - Frankfurt (Main) - Karlsruhe/Schweiz</li><li>ICE-Züge zwischen Berlin - Kassel - Frankfurt (Main) - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/5db75409-583c-4fe5-8285-4fa7abaab251",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-02/4d8c332d-f27c-49de-aaaa-d488e72803a3st%25C3%25B6rungskarte_20260902-040647.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-02/4d8c332d-f27c-49de-aaaa-d488e72803a3st%25C3%25B6rungskarte_20260902-040647.png",
+          "info": "",
+          "alt": "Störungskarte 02.09.2026 04:06:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.09.2026 04:15",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/55cfdf73-dee4-45bf-89d4-100079a1b86c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "de56844d-c389-46bf-a3ef-2f5e46258b36",
       "disruptionId": "090a5d68-e4d7-4aa2-8202-15097f0df35d",
       "author": "FERNVERKEHR_AG",
@@ -461,6 +519,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "dd961d09-3a30-4693-b034-49e9b2aef9b7",
+      "disruptionId": "76989467-f50d-4dff-9fdd-9c4ff236fe8a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Stamm: Zwischen Hackerbrücke und Donnersbergerbrücke. Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Pasing und Ostbahnhof in beiden Richtungen kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p> Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "02.09.2026",
+      "durationEnd": "02.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/76989467-f50d-4dff-9fdd-9c4ff236fe8a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/ef70f8c2-1497-4278-8e81-7d525663e273st%25C3%25B6rungskarte_20260902-073402.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-02/ef70f8c2-1497-4278-8e81-7d525663e273st%25C3%25B6rungskarte_20260902-073402.png",
+          "info": "",
+          "alt": "Störungskarte 02.09.2026 07:34:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.09.2026 07:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dd961d09-3a30-4693-b034-49e9b2aef9b7",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
