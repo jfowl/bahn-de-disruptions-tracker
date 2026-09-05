@@ -216,57 +216,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
-      "id": "ad7008c9-be60-4e28-ae03-fc4052c71c42",
-      "disruptionId": "4e61728c-e3a7-4146-9e91-156588fa0bd8",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Verkehrsmeldung für die Linie RE 3 - zwischen Schwedt(Oder) und Angermünde",
-      "summary": "Donnerstag, 03.09.2026 15:29 Uhr bis vsl. Samstag, 05.09.2026 07:30 Uhr",
-      "text": "<p>Wegen Personalausfall beim Infrastrukturbetreiber fallen am <strong>03.09</strong>. RE3358, am <strong>04.09. </strong>RE3358, RE3341 und am <strong>05.09.</strong> RE3340, RE3341, RE3343, RE3360 und RE3361 zwischen Schwedt(Oder) und Angermünde (mit Gegenrichtung) aus.</p><p>Ein Bus-Ersatzverkehr wurde eingerichtet. Bitte informieren Sie sich vor Fahrtantritt.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "03.09.2026",
-      "durationEnd": "05.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/4e61728c-e3a7-4146-9e91-156588fa0bd8",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.09.2026 15:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ad7008c9-be60-4e28-ae03-fc4052c71c42",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_other_cause"
-    },
-    {
       "id": "f3cabc80-a116-425e-83a8-2b4611856099",
       "disruptionId": "7f743e3f-d4d9-46e2-abde-2793e3430b0f",
       "author": "REGIO_SUEDOST",
@@ -375,6 +324,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "8c6d720a-fb7f-4abf-8c45-6a21b4a5ff04",
+      "disruptionId": "604927c7-5c21-45c7-9162-71ab0f391bfb",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 4 Puchheim ↔ Buchenau",
+      "summary": "Zwischen Puchheim und Buchenau ist die Strecke wieder freigegeben.",
+      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird um 08:00 Uhr  eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "05.09.2026",
+      "durationEnd": "05.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/604927c7-5c21-45c7-9162-71ab0f391bfb",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-05/e6f63aa8-0cce-4f53-923f-d78e29e8c18bst%25C3%25B6rungskarte_20260905-071235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-05/e6f63aa8-0cce-4f53-923f-d78e29e8c18bst%25C3%25B6rungskarte_20260905-071235.png",
+          "info": "",
+          "alt": "Störungskarte 05.09.2026 07:12:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.09.2026 07:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8c6d720a-fb7f-4abf-8c45-6a21b4a5ff04",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section12"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -1020,14 +1014,14 @@
       },
       "headline": "Beeinträchtigungen in Frankfurt-Höchst",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RB12: Königstein(Taunus) - Kelkheim - Frankfurt-Höchst - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Vom 2. bis einschließlich zum 4. September.</li><li>Vom 7. bis einschließlich zum 11. September.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die Züge der RB12 fallen aus zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1 und S2 sowie die anderen Züge des Regionalverkehrs zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RB12: Königstein(Taunus) - Kelkheim - Frankfurt-Höchst - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Vom 7. bis einschließlich zum 11. September.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die Züge der RB12 fallen aus zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie alternativ die S1 und S2 sowie die anderen Züge des Regionalverkehrs zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "02.09.2026",
       "durationEnd": "12.09.2026",
       "mapHref": "https://karte.bahn.de/detail/39f2b8ae-dd76-4ef5-a3f9-f9a4a830ca46",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-02/1830e5d5-97d0-4723-b63a-97d81089c42fst%25C3%25B6rungskarte_20260901-170224.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-02/1830e5d5-97d0-4723-b63a-97d81089c42fst%25C3%25B6rungskarte_20260901-170224.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-05/e8ee05d1-1504-4adb-9b83-74bdbae74b68st%25C3%25B6rungskarte_20260901-170224.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-05/e8ee05d1-1504-4adb-9b83-74bdbae74b68st%25C3%25B6rungskarte_20260901-170224.png",
           "info": "",
           "alt": "Störungskarte 01.09.2026 17:02:24",
           "openInNewTab": true
@@ -1054,9 +1048,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.09.2026 14:40",
+      "lastModified": "05.09.2026 06:55",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8fa67df3-1dbd-4295-9400-426ed2fa65c3",
       "magnoliaPath": "/aktuell/hessen/modified_service_technical_problem_railway_section"
     },
