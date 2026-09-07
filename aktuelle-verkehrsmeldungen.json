@@ -1042,25 +1042,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "a249c43d-6d14-4589-83ec-904164dcd18d",
-      "disruptionId": "c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "id": "3e50b80f-9b3e-4c14-943e-7138de7f2c38",
+      "disruptionId": "472c37a6-e792-42da-811e-4d8c9345712a",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7: Signalstörung",
-      "summary": "Auf der Linie S 7 kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Im Bereich Mittersendling verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal im Bereich Mittersendling.</p>",
+      "headline": "S 8 / S 5 Freiham ↔ Neuaubing: Reparatur an einem Signal",
+      "summary": "Zwischen Freiham und Neuaubing kommt es noch zu Folgeverspätungen von 5 bis 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "07.09.2026",
       "durationEnd": "07.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "mapHref": "https://karte.bahn.de/detail/472c37a6-e792-42da-811e-4d8c9345712a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/d3c93336-ce0c-4946-900c-0d883d2b1e59st%25C3%25B6rungskarte_20260907-103723.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/d3c93336-ce0c-4946-900c-0d883d2b1e59st%25C3%25B6rungskarte_20260907-103723.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/47b8bf21-4288-4bd9-9414-dbac52dcf7e5st%25C3%25B6rungskarte_20260907-172023.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/47b8bf21-4288-4bd9-9414-dbac52dcf7e5st%25C3%25B6rungskarte_20260907-172023.png",
           "info": "",
-          "alt": "Störungskarte 07.09.2026 10:37:23",
+          "alt": "Störungskarte 07.09.2026 17:20:23",
           "openInNewTab": true
         }
       ],
@@ -1074,62 +1074,22 @@
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.09.2026 11:51",
+      "lastModified": "07.09.2026 17:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a249c43d-6d14-4589-83ec-904164dcd18d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section11"
-    },
-    {
-      "id": "51f70b9f-f83c-450e-b9db-0f2754a9798a",
-      "disruptionId": "bc5a0d01-7daf-45a7-a30e-0fb3403724d1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 2 Schwabhausen ↔ Niederroth: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Schwabhausen und Niederroth kommt es zu Verspätungen von 15 bis 20 Minuten, vereinzelt höher und Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "07.09.2026",
-      "durationEnd": "07.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/bc5a0d01-7daf-45a7-a30e-0fb3403724d1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/fca2d5bd-a2ec-4612-b0b8-4b75e25e58b7st%25C3%25B6rungskarte_20260907-113334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/fca2d5bd-a2ec-4612-b0b8-4b75e25e58b7st%25C3%25B6rungskarte_20260907-113334.png",
-          "info": "",
-          "alt": "Störungskarte 07.09.2026 11:33:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.09.2026 11:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/51f70b9f-f83c-450e-b9db-0f2754a9798a",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section12"
+      "detailPagePath": "/service/fahrplaene/3e50b80f-9b3e-4c14-943e-7138de7f2c38",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section13"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
