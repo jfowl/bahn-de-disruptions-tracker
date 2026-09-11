@@ -2,6 +2,59 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3436b34c-4958-4de0-a4e8-11fd489abf00",
+      "disruptionId": "a78c8ca5-d1dc-42f5-b1ab-722455d141f5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "⚠️ Fahrplanänderung zw. Blankenese u. Othmarschen",
+      "summary": "5-Minuten-Takt",
+      "text": "<p>Von Montag, 14.09. bis Mittwoch, 16.10. kommt es auf der S1 zwischen Othmarschen und Blankenese zu Fahrplanänderungen. In diesem Zeitraum entfällt montags bis freitags während der Hauptverkehrszeiten der 5-Minuten-Takt. Fahrgäste werden gebeten, dies bei ihrer Reiseplanung zu berücksichtigen und gegebenenfalls mehr Zeit einzuplanen.</p>",
+      "durationBegin": "14.09.2026",
+      "durationEnd": "16.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/a78c8ca5-d1dc-42f5-b1ab-722455d141f5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-11/dbfa33ff-3975-47b1-a317-46b7d86ebdb7st%25C3%25B6rungskarte_20260908-114219.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-11/dbfa33ff-3975-47b1-a317-46b7d86ebdb7st%25C3%25B6rungskarte_20260908-114219.png",
+          "info": "",
+          "alt": "Störungskarte 08.09.2026 11:42:19",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-11/970e0649-2fcc-4e67-b85f-88829c2c52f5st%25C3%25B6rungskarte_20260909-102229.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-11/970e0649-2fcc-4e67-b85f-88829c2c52f5st%25C3%25B6rungskarte_20260909-102229.png",
+          "info": "",
+          "alt": "Störungskarte 09.09.2026 10:22:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.09.2026 17:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3436b34c-4958-4de0-a4e8-11fd489abf00",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_vehicle"
+    },
+    {
       "id": "8ea365c9-43fb-4539-90c8-8b4ec02bbad8",
       "disruptionId": "b8acc824-feff-4b3a-a545-7fda2f5ea41a",
       "author": "S_BAHN_HH",
@@ -49,45 +102,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8ea365c9-43fb-4539-90c8-8b4ec02bbad8",
       "magnoliaPath": "/aktuell/nord/modified_service_construction0"
-    },
-    {
-      "id": "a3b37833-9000-4bf0-85fd-1022af0af04a",
-      "disruptionId": "ee21c7d9-ef21-493f-8cc9-d20ac1aa9cd8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
-      },
-      "headline": "Verspätungen im Verkehr von und nach Polen",
-      "summary": "Wegen einer Reduzierung der Geschwindigkeit im Bereich der polnischen Bahn kann es zu Verspätungen kommen.",
-      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>EC Züge zwischen Berlin und Warszawa</li><li>EC Züge zwischen Leipzig und Wroclaw</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.09.2026",
-      "durationEnd": "12.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ee21c7d9-ef21-493f-8cc9-d20ac1aa9cd8",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "11.09.2026 05:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a3b37833-9000-4bf0-85fd-1022af0af04a",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_unknown_cause"
     },
     {
       "id": "4e4a75e5-ddc5-4c12-b9fe-38089f790806",
@@ -324,6 +338,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "16a4b145-65a8-4e3b-ad74-5ecbe5f0b76b",
+      "disruptionId": "56b5ad52-ec02-40de-bb2f-e135dd084984",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Bad Wimpfen und Bad Friedrichshall Hbf",
+      "summary": "Der Streckenabschnitt zwischen Bad Wimpfen und Bad Friedrichshall Hbf ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 22:00 Uhr. Der Grund ist die Reparatur an einer Weiche. Derzeit sind keine Zugfahrten der Linie RE 10b auf dem betroffenen Streckenabschnitt möglich und werden umgeleitet. Dadurch kommt es zu Haltausfällen zwischen Bad Friedrichshall Hbf und Neckargemünd. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 10b (Mannheim – Heidelberg – Sinsheim(Elsenz) – Heilbronn)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "11.09.2026",
+      "durationEnd": "11.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/56b5ad52-ec02-40de-bb2f-e135dd084984",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/b8cdec2b-2f57-49e5-9898-10a2a21957f6st%25C3%25B6rungskarte_20260911-180656.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/b8cdec2b-2f57-49e5-9898-10a2a21957f6st%25C3%25B6rungskarte_20260911-180656.png",
+          "info": "",
+          "alt": "Störungskarte 11.09.2026 18:06:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 10b",
+          "filterName": "RE 10b",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.09.2026 18:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/16a4b145-65a8-4e3b-ad74-5ecbe5f0b76b",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -464,6 +523,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f8c0133f-f1d7-4149-a288-4aa407759565",
+      "disruptionId": "827dfc77-f47c-46c3-9e74-facd9d66d664",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen und Ausfällen. Grund: Weichenstörung.",
+      "text": "<p></p>",
+      "durationBegin": "11.09.2026",
+      "durationEnd": "11.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/827dfc77-f47c-46c3-9e74-facd9d66d664",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.09.2026 20:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f8c0133f-f1d7-4149-a288-4aa407759565",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section8"
+    },
+    {
       "id": "754b0c91-1ab2-44d0-a770-ea2db1e009d4",
       "disruptionId": "b1717a1a-19f8-43b8-8abc-4f715e383744",
       "author": "REGIO_BW",
@@ -552,43 +648,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
-    },
-    {
-      "id": "2ad9a6d8-8830-4675-a95b-3a6489da6f0b",
-      "disruptionId": "cda34c9a-4302-42a1-ae5b-c2d6215cf5dc",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Verspätungen, Umleitungen und Teilausfälle im Raum Mainz-Gustavsburg",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge der S8 in Richtung Wiesbaden Hbf werden von Frankfurt Hbf (tief) bis Wiesbaden Ost umgeleitet und fahren wie die Züge der S1, unter anderem über Frankfurt-Höchst und Hochheim(Main). Die Halte zwischen Frankfurt-Niederrad und Mainz Nord entfallen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit Bussen der Firma Holiday Reisen GmbH ist zwischen Kelsterbach - Wiesbaden Hbf eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "11.09.2026",
-      "durationEnd": "11.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/cda34c9a-4302-42a1-ae5b-c2d6215cf5dc",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.09.2026 11:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2ad9a6d8-8830-4675-a95b-3a6489da6f0b",
-      "magnoliaPath": "/aktuell/hessen/impairment_construction"
     },
     {
       "id": "8b0dcb8b-02d0-49e4-9858-a7e859398ca1",
@@ -919,6 +978,56 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "f495039a-12cb-4bb4-ae19-4c1b05ee7ad0",
+      "disruptionId": "fdae772a-1d5c-49f1-b44d-3d2ba699663f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "⚠️ ÄNDERUNG zur Baustelleninformation für die Linie S 7/S 5, 13./14.9.26",
+      "summary": "Wegen Hangsanierungsarbeiten bei Icking kommt es zwischen Höllriegelskreuth und Wolfratshausen in der Nacht von Sonntag/Montag, 13./14. September 2026, von 17:20 Uhr bis 03:00 Uhr, zu Fahrplanänderungen und Ersatzverkehr mit Bussen.",
+      "text": "<p>ℹ️ <strong>Bitte beachten Sie:</strong> Am Sonntag, 13. September 2026, <strong>beginnt</strong> der <strong>Ersatzverkehr in Höllriegelskreuth </strong>statt um 18:00 Uhr schon <strong>um 16:00 Uhr ❗</strong></p><p></p><p><strong>Hinweis:</strong></p><ul><li>Die S7 und S5 werden durchgebunden.</li><li>Es finden gleichzeitig Bauarbeiten auf der Stammstrecke statt. Bitte beachten Sie dazu auch die gesonderten Informationen.</li></ul><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "11.09.2026",
+      "durationEnd": "13.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/fdae772a-1d5c-49f1-b44d-3d2ba699663f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/e0f9b14e-af63-48db-9317-61982afeb072st%25C3%25B6rungskarte_20260911-190034.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/e0f9b14e-af63-48db-9317-61982afeb072st%25C3%25B6rungskarte_20260911-190034.png",
+          "info": "",
+          "alt": "Störungskarte 11.09.2026 19:00:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.09.2026 19:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f495039a-12cb-4bb4-ae19-4c1b05ee7ad0",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction3"
+    },
+    {
       "id": "f2f2021e-cefe-42b6-ab47-e325e12e87db",
       "disruptionId": "b7bd25f9-9449-4ed2-b382-804ac2e14d8e",
       "author": "S_BAHN_MUC",
@@ -928,14 +1037,14 @@
       },
       "headline": "Baustelleninformation für die Linien S 1, S 2, S 3, S 4, S 5 / S 7,  S 6, S 8 vom Dienstag, 08.9. 2026 bis Montag, 14.9.2026 ",
       "summary": "wegen Bauarbeiten kommt es zwischen Lochhausen/Gauting/Pasing  ↔ München Ost von Dienstag, 08.9. 2026, ab ca. 22:40 Uhr, durchgehend bis Montag, 14.9.2026 , 3:00 Uhr zu Fahrplanänderungen mit Haltausfällen und Ersatzverkehr.\n",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof (Gl. 27-36) und fahren von/bis Moosach ohne Halt</li><li>Die Züge fahren zwischen Moosach und Hauptbahnhof zu bestimmten Uhrzeiten nur 40-Minuten-Takt. <strong>Prüfen Sie vor Abfahrt Ihre Reiseverbindung ❕ </strong></li></ul><p></p><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><p><strong>❗Mittwoch bis Freitag❗</strong></p><ul><li>Die Züge zwischen Petershausen und Erding fahren planmäßig</li><li>Züge in/aus Richtung Altomünster beginnen/enden in Dachau. In Dachau ist ein Umstieg in/aus Richtung Innenstadt notwendig.</li><li>Ausfall der Taktverstärkerzüge zwischen Dachau und Ostbahnhof</li></ul><p><strong>❗Samstag und Sonntag ❗</strong></p><ul><li>Alle Züge der Linie S2 fahren planmäßig</li></ul><p></p><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Lochhausen</li><li><strong>Zwischen Pasing und Lochhausen besteht Ersatzverkehr mit Bussen</strong></li><li>Die Taktverstärkerzüge fahren nur zwischen Deisenhofen und Ostbahnhof</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden am Hauptbahnhof oben und fahren von/bis Pasing (Gl. 2-4) ohne Halt</li><li>Züge in/aus Richtung Trudering fallen zwischen Hauptbahnhof und Trudering aus</li></ul><p><strong>S5/S7: Die beiden Linien werden miteinander verbunden&nbsp;</strong></p><ul><li>Züge aus Richtung Aying fahren als S7 nach Icking</li><li>Züge aus Richtung Icking fahren als S5 nach Aying</li><li>Züge der S5 in/aus Richtung Pasing fallen zwischen Donnersbergerbrücke und Pasing aus</li></ul><p></p><ul><li><strong>Zwischen Wolfratshausen und Icking besteht Ersatzverkehr mit Bussen.</strong></li><li><strong>Nächte Mi/Do, 9./10.9. bis Do/Fr, 10./11.9. 2026 (jeweils 20:30 bis 4 Uhr ) - Ersatzverkehr mit Bussen zwischen Ostbahnhof (Friedenstraße) und Kreuzstraße.</strong></li></ul><p><strong>S6 Ebersberg ↔ Tutzing</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof (Gl. 2)</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Gauting</li><li><strong>Zwischen Gauting und Pasing besteht Ersatzverkehr mit Bussen</strong></li></ul><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in beide Fahrtrichtungen halten zusätzlich in Laim (Gl. 2)</li><li>Züge in beide Fahrtrichtungen fahren in Pasing von Gleis 5 ab</li></ul><p><strong>S20 Höllriegelskreuth ↔ Pasing/Geltendorf</strong></p><ul><li>Züge der Linie S20 entfallen in diesem Zeitraum</li></ul><p></p><p><strong>Besondere Hinweise:</strong></p><ul><li>Bitte beachten Sie die dauerhaft verlegten Ersatzhaltestellen in Lochham und am Westkreuz</li></ul><p></p><ul><li>Barrierefreiheit in Pasing:</li><li><strong>Das Gleis 2 ist nicht barrierefrei</strong> ❗ Beachten Sie beim Ein- und Aussteigen den Höhenunterschied zwischen Zug und Bahnsteig. Es gibt <strong>keinen Aufzug</strong> und<strong> keine Rolltreppen.</strong></li><li><strong>Gleis 3-4: </strong>Ebenfalls Höhenunterschied zwischen Zug und Bahnsteig Beachten ❗</li></ul><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof (Gl. 27-36) und fahren von/bis Moosach ohne Halt</li><li>Die Züge fahren zwischen Moosach und Hauptbahnhof zu bestimmten Uhrzeiten nur 40-Minuten-Takt. <strong>Prüfen Sie vor Abfahrt Ihre Reiseverbindung ❕ </strong></li></ul><p></p><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><p><strong>❗Mittwoch bis Freitag❗</strong></p><ul><li>Die Züge zwischen Petershausen und Erding fahren planmäßig</li><li>Züge in/aus Richtung Altomünster beginnen/enden in Dachau. In Dachau ist ein Umstieg in/aus Richtung Innenstadt notwendig.</li><li>Ausfall der Taktverstärkerzüge zwischen Dachau und Ostbahnhof</li></ul><p><strong>❗Samstag ❗</strong></p><ul><li>Alle Züge der Linie S2 fahren planmäßig</li></ul><p><strong>⚠️ SONNTAG ZWISCHEN 03:00 UHR UND 07:00 UHR</strong> - verkehren die S-Bahnen der Linie <strong>S2 abweichend der regulären Linienführung </strong>wie folgt: von<strong> Obermenzing bis Ostbahnhof Gleis 7 - 13 (Fernbahn)</strong> werden die Züge <strong>umgeleitet </strong>und die <strong>Stammstrecke nicht</strong> <strong>angefahren</strong>. Die Halte <strong>Leuchtenbergring und Berg am Laim entfallen ‼️</strong></p><p>ℹ️ Ab ca. 07:00 Uhr fahren die S-Bahnen der Linie S2 wieder auf Regelweg.</p><p></p><p></p><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Lochhausen</li><li><strong>Zwischen Pasing und Lochhausen besteht Ersatzverkehr mit Bussen</strong></li><li>Die Taktverstärkerzüge fahren nur zwischen Deisenhofen und Ostbahnhof</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden am Hauptbahnhof oben und fahren von/bis Pasing (Gl. 2-4) ohne Halt</li><li>Züge in/aus Richtung Trudering fallen zwischen Hauptbahnhof und Trudering aus</li></ul><p><strong>S5/S7: Die beiden Linien werden miteinander verbunden&nbsp;</strong></p><ul><li>Züge aus Richtung Aying fahren als S7 nach Icking</li><li>Züge aus Richtung Icking fahren als S5 nach Aying</li><li>Züge der S5 in/aus Richtung Pasing fallen zwischen Donnersbergerbrücke und Pasing aus</li></ul><p></p><ul><li><strong>Zwischen Wolfratshausen und Icking besteht Ersatzverkehr mit Bussen.</strong></li><li><strong>Nächte Mi/Do, 9./10.9. bis Do/Fr, 10./11.9. 2026 (jeweils 20:30 bis 4 Uhr ) - Ersatzverkehr mit Bussen zwischen Ostbahnhof (Friedenstraße) und Kreuzstraße.</strong></li></ul><p><strong>S6 Ebersberg ↔ Tutzing</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof (Gl. 2)</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Gauting</li><li><strong>Zwischen Gauting und Pasing besteht Ersatzverkehr mit Bussen</strong></li></ul><p></p><p><strong>S8 Flughafen ↔ Herrsching:</strong></p><ul><li>Züge in beide Fahrtrichtungen halten zusätzlich in Laim (Gl. 2) ⚠️ <strong>AUßER SONNTAG, DEN 13.09.2026, von 03:00 Uhr bis 07:00 Uhr - Die S-Bahnen in Richtung Flughafen HALTEN NICHT IN LAIM ❗Die S-Bahnen in Richtung Herrsching </strong>werden von <strong>Daglfing bis Pasing über den Ostbahnhof Gleis 7-13 (Fernbahn) umgeleitet </strong>und die <strong>Stammstrecke nicht angefahren.</strong> Der<strong> Halt</strong> am <strong>Leuchtenbergring entfällt ❗</strong></li><li>Züge in beide Fahrtrichtungen fahren in Pasing von Gleis 5 ab</li></ul><p></p><p><strong>S20 Höllriegelskreuth ↔ Pasing/Geltendorf</strong></p><ul><li>Züge der Linie S20 entfallen in diesem Zeitraum</li></ul><p></p><p><strong>Besondere Hinweise:</strong></p><ul><li>Bitte beachten Sie die dauerhaft verlegten Ersatzhaltestellen in Lochham und am Westkreuz</li></ul><p></p><ul><li>Barrierefreiheit in Pasing:</li><li><strong>Das Gleis 2 ist nicht barrierefrei</strong> ❗ Beachten Sie beim Ein- und Aussteigen den Höhenunterschied zwischen Zug und Bahnsteig. Es gibt <strong>keinen Aufzug</strong> und<strong> keine Rolltreppen.</strong></li><li><strong>Gleis 3-4: </strong>Ebenfalls Höhenunterschied zwischen Zug und Bahnsteig Beachten ❗</li></ul><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "08.09.2026",
       "durationEnd": "14.09.2026",
       "mapHref": "https://karte.bahn.de/detail/b7bd25f9-9449-4ed2-b382-804ac2e14d8e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/62131033-4b01-4f4f-99fc-62ff43a5c677st%25C3%25B6rungskarte_20260825-084013.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/62131033-4b01-4f4f-99fc-62ff43a5c677st%25C3%25B6rungskarte_20260825-084013.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/afbb0906-c459-4270-bf16-0e8558c3a5bbst%25C3%25B6rungskarte_20260825-084013.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/afbb0906-c459-4270-bf16-0e8558c3a5bbst%25C3%25B6rungskarte_20260825-084013.png",
           "info": "",
           "alt": "Störungskarte 25.08.2026 08:40:13",
           "openInNewTab": true
@@ -943,38 +1052,38 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/255a3eac-35db-48e2-9e5d-55e9b186181cFpl%2BS1%2B08.09.-14.09.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/ca0e3b1e-012c-4891-978d-a9c5cfcbd356Fpl%2BS1%2B08.09.-14.09.2026.pdf",
           "label": "S1 08.09.-14.09.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/433d4623-3310-4c12-b8a6-20073dd468fdFpl%2BS6%2BWest%2BEV%2BMP-MGT%2B08.09.-14.09.2026.pdf",
-          "label": "S6 West Ersatzverkehr MP-MGT 08.09.-14.09.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/614015db-f43f-432e-af14-11be07c2afddLochham%2BLochhamer%2BStr.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/545dd30f-5bf6-4104-85f3-cf223617b635Lochham%2BLochhamer%2BStr.pdf",
           "label": "Lochham Lochhamer Str.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/c2b84c25-686a-491b-b098-5f81183dfbd9Fpl%2BS3%2BWest%2BEV%2BMP-MLO%2B08.09.-14.09.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/69cae69e-697d-4d83-8622-fc31b5a6412cFpl%2BS3%2BWest%2BEV%2BMP-MLO%2B08.09.-14.09.2026.pdf",
           "label": "S3 West Ersatzverkehr MP-MLO 08.09.-14.09.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/110b7170-14e4-42c2-b489-58919ad446f4Fpl%2BS4%2B08.09.-14.09.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/724f387b-f9f8-4946-923c-ce3db824a12aWestkreuz%2BHeimburgstr.pdf",
+          "label": "Westkreuz Heimburgstr.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/f1f9a60b-22e1-49c4-a354-b3b0cebd074dFpl%2BS4%2B08.09.-14.09.2026.pdf",
           "label": "S4 08.09.-14.09.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/871a8bd9-63bf-4031-954b-ed38a124fed5Westkreuz%2BHeimburgstr.pdf",
-          "label": "Westkreuz Heimburgstr.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-11/937f3bd5-1ab2-4a63-9563-556c209c5b2cFpl%2BS6%2BWest%2BEV%2BMP-MGT%2B08.09.-14.09.2026.pdf",
+          "label": "S6 West Ersatzverkehr MP-MGT 08.09.-14.09.2026.pdf",
           "info": "",
           "openInNewTab": true
         }
@@ -1033,7 +1142,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.09.2026 20:40",
+      "lastModified": "11.09.2026 18:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
