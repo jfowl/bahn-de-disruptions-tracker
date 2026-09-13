@@ -331,54 +331,47 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "6a209851-c0c1-4c8b-8639-afe3d0c4313e",
-      "disruptionId": "2dfdca3b-d809-4021-9404-59296b1d50d6",
-      "author": "REGIO_BW",
+      "id": "65b9573b-8bf5-4f7e-899c-bdc206ba94bf",
+      "disruptionId": "46bfb883-1c94-4e93-8240-9873f3e1e8aa",
+      "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Umgestürzter Baum auf der Strecke"
       },
-      "headline": "Streckensperrung Immendingen - Engen",
-      "summary": "Der Streckenabschnitt zwischen Immendingen und Engen ist aktuell gesperrt. Grund ist ein Baum im Gleisbereich. Die Dauer der Sperrung ist noch nicht bekannt. In der Folge kommt es zu Verspätungen und Zugteilausfällen. Ein Ersatzverkehr mit Bus im Pendelbetrieb zwischen Immendingen und Engen ist gegen 08:30 Uhr eingerichtet. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und am Bahnsteig.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 2 (Karlsruhe – Konstanz) </li><li>RE 4 (Stuttgart – Konstanz) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Beeinträchtigungen zwischen Tuttlingen und Singen (Hohentwiel)",
+      "summary": "Aufgrund eines umgestürzten Baums im Gleis ist die Strecke zwischen Tuttlingen und Singen (Hohentwiel) derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Zugausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Stuttgart - Singen (Hohentwiel) - Zürich</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "13.09.2026",
-      "durationEnd": "13.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/2dfdca3b-d809-4021-9404-59296b1d50d6",
+      "mapHref": "https://karte.bahn.de/detail/46bfb883-1c94-4e93-8240-9873f3e1e8aa",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/d8732f37-9506-4b72-bd29-c0863af14ed7st%25C3%25B6rungskarte_20260913-073323.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/d8732f37-9506-4b72-bd29-c0863af14ed7st%25C3%25B6rungskarte_20260913-073323.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-13/e3c5f903-af11-4ce9-9054-9038534fb582st%25C3%25B6rungskarte_20260913-104757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-13/e3c5f903-af11-4ce9-9054-9038534fb582st%25C3%25B6rungskarte_20260913-104757.png",
           "info": "",
-          "alt": "Störungskarte 13.09.2026 07:33:23",
+          "alt": "Störungskarte 13.09.2026 10:47:57",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
         "BW"
       ],
       "lines": [
         {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "13.09.2026 08:11",
-      "expand": true,
+      "lastModified": "13.09.2026 10:49",
+      "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6a209851-c0c1-4c8b-8639-afe3d0c4313e",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/65b9573b-8bf5-4f7e-899c-bdc206ba94bf",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "30da165a-c790-4590-8b94-8b8d9ed28626",
@@ -563,6 +556,96 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "7a7bd7ee-8a91-447a-876f-18283d13f863",
+      "disruptionId": "9737c849-0eb6-454c-a6e2-89fded065016",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten dauern bis voraussichtlich 13.09.26 zum Betriebsschluss an",
+      "summary": "Der Streckenabschnitt von Giengen(Brenz) bis Königsbronn ist durch Bauarbeiten beeinträchtigt. Die Züge der Linie RE 50 fallen zwischen Giengen(Brenz) und Aalen aus. Einzelne Züge ab/bis Ulm Hbf. Die Züge der SWEG Linie RS 5 aus Richtung Ulm starten und enden in Giengen (Brenz). Züge aus Richtung Aalen starten und enden in Königsbronn. Ein Ersatzverkehr mit Bussen ist zwischen Giengen(Brenz) und Königsbronn eingerichtet. ",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 50 (Aalen – Ulm) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "13.09.2026",
+      "durationEnd": "13.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/9737c849-0eb6-454c-a6e2-89fded065016",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/a0c60eaa-cef1-4c7b-8e09-b1fe6034957bst%25C3%25B6rungskarte_20260913-123025.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/a0c60eaa-cef1-4c7b-8e09-b1fe6034957bst%25C3%25B6rungskarte_20260913-123025.png",
+          "info": "",
+          "alt": "Störungskarte 13.09.2026 12:30:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.09.2026 13:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7a7bd7ee-8a91-447a-876f-18283d13f863",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_construction22"
+    },
+    {
+      "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
+      "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Weiterhin Beeinträchtigungen zwischen Aalen/Giengen(Brenz) und Ulm Hbf bis einschließlich 17. September 2026",
+      "summary": "Wegen einer Reparatur an der Strecke fahren die Züge zwischen Aalen/Giengen (Brenz) und Ulm Hbf derzeit langsamer. Dadurch kommt es bis einschließlich 17. September zu Verspätungen. Zur Stabilisierung des Zugverkehrs fallen von 13. bis 17. September einzelne Züge der Linie RE 50 ganz oder teilweise aus. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 50 (Aalen – Ulm) </li></ul><p><strong>Zugausfälle Aalen ⇄ Ulm Hbf:</strong></p><ul><li>ab Aalen um 11:07 Uhr (RE 22909) und 17:07 Uhr (RE 22915)</li><li>ab Ulm Hbf um 10:02 Uhr (RE 22908) und 16:02 Uhr (RE 22914)</li></ul><p><strong>Zugausfälle Langenau(Württ) ⇄ Ulm Hbf:</strong></p><ul><li>ab Langenau um 13:46 Uhr (RE 22911) und 19:46 Uhr (RE 22917)</li><li>ab Ulm Hbf um 8:04 Uhr (RE 22906 nur Mo-Fr), 14:02 Uhr (RE 22912) und 20:02 Uhr (RE 22918)</li></ul><p><strong>🚍 Zusätzlicher Ersatzbus (nur Mo-Fr):</strong></p><ul><li>Aalen ZOB (17:00 Uhr) mit Halt in Oberkochen Bahnhof (17:15 Uhr), Heidenheim Bahnhof/ZOB (17:40 Uhr), Ankunft in Giengen an der Brenz (18:00 Uhr).</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "14.09.2026",
+      "durationEnd": "17.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/0eedd2e6-3350-43e1-bf76-c6b537a48554",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/92851b85-d12f-4e2e-b009-69f216de07d8st%25C3%25B6rungskarte_20260911-141341.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-13/92851b85-d12f-4e2e-b009-69f216de07d8st%25C3%25B6rungskarte_20260911-141341.png",
+          "info": "",
+          "alt": "Störungskarte 11.09.2026 14:13:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.09.2026 12:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "754b0c91-1ab2-44d0-a770-ea2db1e009d4",
       "disruptionId": "b1717a1a-19f8-43b8-8abc-4f715e383744",
       "author": "REGIO_BW",
@@ -606,51 +689,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/754b0c91-1ab2-44d0-a770-ea2db1e009d4",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "c017861e-d52f-447f-9e4a-d6f0a70101a4",
-      "disruptionId": "0eedd2e6-3350-43e1-bf76-c6b537a48554",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Weiterhin Beeinträchtigungen zwischen Aalen/Giengen(Brenz) und Ulm Hbf bis einschließlich 17. September 2026",
-      "summary": "Wegen einer Reparatur an der Strecke fahren die Züge zwischen Aalen/Giengen (Brenz) und Ulm Hbf derzeit langsamer. Dadurch kommt es bis einschließlich 17. September zu Verspätungen. Zur Stabilisierung des Zugverkehrs fallen von 13. bis 17. September einzelne Züge der Linie RE 50 ganz oder teilweise aus. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 50 (Aalen – Ulm) </li></ul><p><strong>Zugausfälle Aalen ⇄ Ulm Hbf:</strong></p><ul><li>ab Aalen um 11:07 Uhr (RE 22909) und 17:07 Uhr (RE 22915)</li><li>ab Ulm Hbf um 10:02 Uhr (RE 22908) und 16:02 Uhr (RE 22914)</li></ul><p><strong>Zugausfälle Langenau(Württ) ⇄ Ulm Hbf:</strong></p><ul><li>ab Langenau um 13:46 Uhr (RE 22911) und 19:46 Uhr (RE 22917)</li><li>ab Ulm Hbf um 8:04 Uhr (RE 22906 nur Mo-Fr), 14:02 Uhr (RE 22912) und 20:02 Uhr (RE 22918)</li></ul><p><strong>🚍 Zusätzlicher Ersatzbus (nur Mo-Fr):</strong></p><ul><li>Aalen ZOB (17:00 Uhr) mit Halt in Oberkochen Bahnhof (17:15 Uhr), Heidenheim Bahnhof/ZOB (17:40 Uhr), Ankunft in Giengen an der Brenz (18:00 Uhr).</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "09.08.2026",
-      "durationEnd": "17.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/0eedd2e6-3350-43e1-bf76-c6b537a48554",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/4490a6b5-1633-482a-b0c7-c209f4e7fae7st%25C3%25B6rungskarte_20260911-141341.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/4490a6b5-1633-482a-b0c7-c209f4e7fae7st%25C3%25B6rungskarte_20260911-141341.png",
-          "info": "",
-          "alt": "Störungskarte 11.09.2026 14:13:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.09.2026 14:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
