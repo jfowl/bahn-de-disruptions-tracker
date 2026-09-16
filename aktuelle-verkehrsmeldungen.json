@@ -521,32 +521,76 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "b0914156-3509-4828-9c35-5def09c1ff27",
-      "disruptionId": "8fbae5da-2bce-4d71-adc4-279882ac31eb",
-      "author": "REGIO_BW",
+      "id": "0c0eb529-b7f3-4eba-acf3-7195b010bb95",
+      "disruptionId": "1099e550-a38d-4746-b70b-b8596eb60253",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen in Überlingen Therme",
-      "summary": "Der Bahnhof Überlingen Therme ist aktuell beeinträchtigt. Dauer der Beeinträchtigung bis vsl. Donnerstag, 17.09.26, vormittags. Der Grund ist die Reparatur an einer Weiche. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung nochmals vor Fahrtantritt.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RB 31 (Radolfzell – Friedrichshafen)</li><li>S 61 (Radolfzell – Stockach) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "S7 Solln - Mittersendling: Reparatur an der Strecke",
+      "summary": "Auf der S7 kommt es teilweise zu Verspätungen von bis zu 15 Minuten. Es kommt vereinzelt zu vorzeitigen Zugwenden.",
+      "text": "<p>Im Bereich Solln - Mittersendling ist die Verfügbarkeit der Gleise eingeschränkt.</p><p>Grund ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "16.09.2026",
-      "durationEnd": "17.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/8fbae5da-2bce-4d71-adc4-279882ac31eb",
+      "durationEnd": "16.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1099e550-a38d-4746-b70b-b8596eb60253",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-16/0456f296-84f5-4fba-870f-ca7404e960fast%25C3%25B6rungskarte_20260916-055450.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-16/0456f296-84f5-4fba-870f-ca7404e960fast%25C3%25B6rungskarte_20260916-055450.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/7ea97892-50dc-473a-b8e0-7f10f2c62de8st%25C3%25B6rungskarte_20260916-202724.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/7ea97892-50dc-473a-b8e0-7f10f2c62de8st%25C3%25B6rungskarte_20260916-202724.png",
           "info": "",
-          "alt": "Störungskarte 16.09.2026 05:54:50",
+          "alt": "Störungskarte 16.09.2026 20:27:24",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN",
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.09.2026 20:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0c0eb529-b7f3-4eba-acf3-7195b010bb95",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section49"
+    },
+    {
+      "id": "1bd0bd36-2a1d-4f07-afeb-f7be16598b19",
+      "disruptionId": "76962e5f-39b6-4de2-be0b-376cb7d90d5b",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Gaildorf West und Schwäbisch Hall-Hessental",
+      "summary": "Der Streckenabschnitt zwischen Gaildorf West und Schwäbisch Hall-Hessental ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. Donnerstag, 17.09.26, vormittags. Der Grund ist die Reparatur an einer Weiche. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Für die Zugausfälle zwischen Gaildorf West und Schwäbisch Hall-Hessental, ist ein Ersatzverkehr mit Bussen im Pendelverkehr eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>MEX 19 (Stuttgart – Gaildorf West)</li><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.09.2026",
+      "durationEnd": "17.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/76962e5f-39b6-4de2-be0b-376cb7d90d5b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-16/1d479d35-6c26-4cca-b3f1-a9b3227e3615st%25C3%25B6rungskarte_20260916-193739.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-16/1d479d35-6c26-4cca-b3f1-a9b3227e3615st%25C3%25B6rungskarte_20260916-193739.png",
+          "info": "",
+          "alt": "Störungskarte 16.09.2026 19:37:39",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
         "REGIONAL"
       ],
       "states": [
@@ -554,37 +598,27 @@
       ],
       "lines": [
         {
-          "name": "RB 3",
-          "filterName": "RB 3",
+          "name": "RB MEX19",
+          "filterName": "RB MEX19",
           "property": "REGIONAL"
         },
         {
-          "name": "RB 31",
-          "filterName": "RB 31",
+          "name": "RB MEX90",
+          "filterName": "RB MEX90",
           "property": "REGIONAL"
         },
         {
-          "name": "RE 3",
-          "filterName": "RE 3",
+          "name": "RE MEX90",
+          "filterName": "RE MEX90",
           "property": "REGIONAL"
-        },
-        {
-          "name": "RE 31",
-          "filterName": "RE 31",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 61",
-          "filterName": "S 61",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "16.09.2026 16:05",
+      "lastModified": "16.09.2026 19:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b0914156-3509-4828-9c35-5def09c1ff27",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section14"
+      "detailPagePath": "/service/fahrplaene/1bd0bd36-2a1d-4f07-afeb-f7be16598b19",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section17"
     },
     {
       "id": "7a7bd7ee-8a91-447a-876f-18283d13f863",
@@ -705,94 +739,56 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
     },
     {
-      "id": "e6ef14dd-da31-4cc1-8116-6c10cec1c89c",
-      "disruptionId": "91814a5e-f280-4549-acff-d6518ceeda95",
-      "author": "S_BAHN_MUC",
+      "id": "28fa7949-389d-4c84-81ad-d540b6282846",
+      "disruptionId": "f3d0f6f7-c4d1-4ffc-94de-5e3813576c24",
+      "author": "REGIO_BW",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
       },
-      "headline": "S 3 Maisach ↔ Deisenhofen: Weitere Einschränkungen durch Ergänzung zu den Bauarbeiten in Pasing",
-      "summary": "Ergänzend zu den Bauarbeiten in Pasing kommt es zu weiteren Einschränkungen. Am Mittwoch 16. September 2026 fallen folgende S-Bahnen des 10-Minuten-Takts auf der Linie S 3 zwischen Ostbahnhof ↔ Pasing / Maisach aus.",
-      "text": "<p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr&nbsp;</li></ul><p><strong>S 3 Maisach → Deisenhofen</strong>&nbsp;</p><ul><li>S 3 Pasing Abfahrt 15:41 Uhr → Ostbahnhof Ankunft 15:59 Uhr / Abfahrt 16:02 Uhr → Deisenhofen Ankunft 16:21 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:01 Uhr → Ostbahnhof Ankunft 16:19 Uhr / Abfahrt 16:22 Uhr → Deisenhofen Ankunft 16:41 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:21 Uhr → Ostbahnhof Ankunft 16:39 Uhr / Abfahrt 16:42 Uhr → Deisenhofen Ankunft 17:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:59 Uhr / Abfahrt 17:02 Uhr → Deisenhofen Ankunft 17:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 17:19 Uhr / Abfahrt 17:22 Uhr → Deisenhofen Ankunft 17:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:39 Uhr / Abfahrt 17:42 Uhr → Deisenhofen Ankunft 18:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:59 Uhr / Abfahrt 18:02 Uhr → Deisenhofen Ankunft 18:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 18:19 Uhr / Abfahrt 18:22 Uhr → Deisenhofen Ankunft 18:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:39 Uhr / Abfahrt 18:42 Uhr → Deisenhofen Ankunft 19:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:59 Uhr</li></ul><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Ostbahnhof Abfahrt 15:17 Uhr → Maisach Ankunft 15:58 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:37 Uhr → Maisach Ankunft 16:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:57 Uhr → Maisach Ankunft 16:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:35 Uhr / Abfahrt 16:37 Uhr → Maisach Ankunft 17:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 16:55 Uhr / Abfahrt 16:57 Uhr → Maisach Ankunft 17:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:15 Uhr / Abfahrt 17:17 Uhr → Maisach Ankunft 17:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:35 Uhr / Abfahrt 17:37 Uhr → Maisach Ankunft 18:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 17:55 Uhr</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:15 Uhr</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:35 Uhr</li><li>S 3 Deisenhofen Abfahrt 18:40 Uhr → Ostbahnhof Ankunft 18:55 Uhr / Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr&nbsp;</li></ul><p></p><p>Der Grund hierfür sind Bauarbeiten in Laim.</p>",
-      "durationBegin": "14.09.2026",
+      "headline": "Streckensperrung zwischen Ulm Hbf und Erbach (Württ) ist aufgehoben",
+      "summary": "Der Streckenabschnitt von Ulm Hbf bis Erbach (Württ) ist nicht mehr gesperrt.  Der Grund war die Beschädigung einer Brücke. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen, bis sich der Zugverkehr wieder stabilisiert hat. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen. Bitte prüfen sie Ihre Reiseverbindung kurz vor der Abfahrt.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RS 2 / RS 21 (Ulm – Biberach(Riß)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "16.09.2026",
       "durationEnd": "16.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/91814a5e-f280-4549-acff-d6518ceeda95",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/0a6cc7cb-4575-488d-b834-11334d6fa52dst%25C3%25B6rungskarte_20260913-073312.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/0a6cc7cb-4575-488d-b834-11334d6fa52dst%25C3%25B6rungskarte_20260913-073312.png",
-          "info": "",
-          "alt": "Störungskarte 13.09.2026 07:33:12",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/f3d0f6f7-c4d1-4ffc-94de-5e3813576c24",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
+          "name": "RB RS2",
+          "filterName": "RB RS2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB RS21",
+          "filterName": "RB RS21",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.09.2026 13:12",
+      "lastModified": "16.09.2026 19:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e6ef14dd-da31-4cc1-8116-6c10cec1c89c",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_construction4"
-    },
-    {
-      "id": "2841dba5-b2ae-4ae3-a6a4-ca9c3cb5bbee",
-      "disruptionId": "665b4924-a8c9-4fef-a6f7-a9dcd910e9c1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 2 Dachau ↔ Ostbahnhof: Weitere Einschränkungen durch Ergänzung zu den Bauarbeiten in Pasing",
-      "summary": "Ergänzend zu den Bauarbeiten in Pasing kommt es zu weiteren Einschränkungen. Am Mittwoch 16. September 2026 fallen folgende S-Bahnen des 10-Minuten-Takts auf der Linie S 2 aus.",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 16:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 16:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 17:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 17:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 18:06 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:41 Uhr</li></ul><p></p><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 06:19 Uhr → Ostbahnhof Ankunft 06:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 06:39 Uhr → Ostbahnhof Ankunft 07:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;<strong> </strong></li><li>S 2 Dachau Bahnhof Abfahrt 16:19 Uhr <strong>→ </strong>München Ost Ankunft 16:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:19 Uhr <strong>→ </strong>München Ost Ankunft 17:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 17:39 Uhr <strong>→ </strong>München Ost Ankunft 18:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:19 Uhr <strong>→ </strong>München Ost Ankunft 18:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p></p>",
-      "durationBegin": "15.09.2026",
-      "durationEnd": "16.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/665b4924-a8c9-4fef-a6f7-a9dcd910e9c1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/a9b61109-7bba-4187-8718-34a1d9a441cast%25C3%25B6rungskarte_20260915-235528.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-16/a9b61109-7bba-4187-8718-34a1d9a441cast%25C3%25B6rungskarte_20260915-235528.png",
-          "info": "",
-          "alt": "Störungskarte 15.09.2026 23:55:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.09.2026 00:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2841dba5-b2ae-4ae3-a6a4-ca9c3cb5bbee",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_construction8"
+      "detailPagePath": "/service/fahrplaene/28fa7949-389d-4c84-81ad-d540b6282846",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "ad37eca4-08cc-4f9c-b65b-d5e211edcdc7",
