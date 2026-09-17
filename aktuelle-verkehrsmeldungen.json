@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "1e12d79c-5eb8-4e27-93ec-d99e53f86ad9",
+      "disruptionId": "ee13c73c-782a-499d-bbbf-53acbdb91537",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Koblenz und Mainz",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Koblenz und Mainz kommt es derzeit zu Beeinträchtigungen und einzelnen Zugausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Dortmund - Köln - Koblenz - Frankfurt(M) / Stuttgart / Karlsruhe</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/ee13c73c-782a-499d-bbbf-53acbdb91537",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-17/22f627cd-f4ab-430b-a0e6-0ed56a06642dst%25C3%25B6rungskarte_20260917-182417.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-17/22f627cd-f4ab-430b-a0e6-0ed56a06642dst%25C3%25B6rungskarte_20260917-182417.png",
+          "info": "",
+          "alt": "Störungskarte 17.09.2026 18:24:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "17.09.2026 18:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1e12d79c-5eb8-4e27-93ec-d99e53f86ad9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section8"
+    },
+    {
       "id": "87c498ad-ce85-435c-a053-ad365c3b4c39",
       "disruptionId": "cea61a1a-a25e-4b08-8a2e-e1a633b2b49c",
       "author": "S_BAHN_HH",
@@ -413,14 +459,14 @@
       },
       "headline": "S 7 Solln: Reparatur an der Strecke",
       "summary": "Im Bereich Solln kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Die S-Bahnen der Linie S 20 entfallen heute Nachmittag komplett.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "17.09.2026",
       "durationEnd": "17.09.2026",
       "mapHref": "https://karte.bahn.de/detail/f324da28-ae29-418a-abec-3da8d698d01e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-17/c2ca3520-a5d4-431a-a9a0-21105c58c762st%25C3%25B6rungskarte_20260917-022044.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-17/c2ca3520-a5d4-431a-a9a0-21105c58c762st%25C3%25B6rungskarte_20260917-022044.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-17/974da38b-2059-4d5c-821c-34e4f3a7061bst%25C3%25B6rungskarte_20260917-022044.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-17/974da38b-2059-4d5c-821c-34e4f3a7061bst%25C3%25B6rungskarte_20260917-022044.png",
           "info": "",
           "alt": "Störungskarte 17.09.2026 02:20:44",
           "openInNewTab": true
@@ -436,17 +482,12 @@
       ],
       "lines": [
         {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 7",
           "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.09.2026 13:01",
+      "lastModified": "17.09.2026 19:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -681,6 +722,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/633ab29d-32bc-44c8-83aa-fde49d93f01d",
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_vehicle"
+    },
+    {
+      "id": "fe43c049-9849-499a-8586-0d0ec03a2840",
+      "disruptionId": "a5855334-5091-4f5a-bd41-897ec72b497f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "unknown_cause",
+        "label": "Unbekannte Ursache"
+      },
+      "headline": "Derzeit kein Halt der S3 und S5 in Elbgaustraße (S), Hamburg. ",
+      "summary": "Derzeit halten keine S3 und S5 in beide Richtungen in Elbgaustraße (S), Hamburg. Grund: Ausfall Bahnsteigbeleuchtung. ",
+      "text": "<p></p>",
+      "durationBegin": "17.09.2026",
+      "durationEnd": "17.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/a5855334-5091-4f5a-bd41-897ec72b497f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.09.2026 20:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fe43c049-9849-499a-8586-0d0ec03a2840",
+      "magnoliaPath": "/aktuell/nord/stop_moved_unknown_cause"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
