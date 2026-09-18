@@ -48,51 +48,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section8"
     },
     {
-      "id": "6aa22bd0-3668-430d-9f0b-6bbebfd8b616",
-      "disruptionId": "559d7582-4a5d-409e-b331-e9ac3119cfe8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover und Göttingen",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Hannover und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von bis zu 10 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ECE/ICE-Züge zwischen Hamburg - Hannover- Kassel- Frankfurt (Main)/München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "18.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/559d7582-4a5d-409e-b331-e9ac3119cfe8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-18/9d841682-2f26-4fda-ab5d-d7a7215bd4d9st%25C3%25B6rungskarte_20260918-120441.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-18/9d841682-2f26-4fda-ab5d-d7a7215bd4d9st%25C3%25B6rungskarte_20260918-120441.png",
-          "info": "",
-          "alt": "Störungskarte 18.09.2026 12:04:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "18.09.2026 17:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/6aa22bd0-3668-430d-9f0b-6bbebfd8b616",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section4"
-    },
-    {
       "id": "d0c00c84-b73a-4a0a-86d7-cb8f9a8bb360",
       "disruptionId": "99c61f13-8cbf-4075-8b82-5f87fee5f99c",
       "author": "REGIO_SUEDOST",
@@ -294,6 +249,49 @@
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section11"
     },
     {
+      "id": "efe72717-af49-436c-8366-b53f6b9ce43d",
+      "disruptionId": "2295c5a2-8bcd-4a1b-97d1-4f1c55f3bbcd",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Derzeit keine S5 zw. Neugraben (S), Hamburg u. Stade",
+      "summary": "Derzeit fährt keine S5 zwischen Neugraben (S), Hamburg und Stade. Grund: Bauarbeiten. Nutzen Sie alternativ den eingerichteten Ersatzverkehr mit Bussen.",
+      "text": "<p></p>",
+      "durationBegin": "18.09.2026",
+      "durationEnd": "19.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/2295c5a2-8bcd-4a1b-97d1-4f1c55f3bbcd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2026 23:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/efe72717-af49-436c-8366-b53f6b9ce43d",
+      "magnoliaPath": "/aktuell/nord/modified_service_construction1"
+    },
+    {
       "id": "f3cabc80-a116-425e-83a8-2b4611856099",
       "disruptionId": "7f743e3f-d4d9-46e2-abde-2793e3430b0f",
       "author": "REGIO_SUEDOST",
@@ -446,51 +444,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "247423a9-6edc-422e-b0bd-0e20c62ca300",
-      "disruptionId": "16a035bb-43f0-419f-b70b-556084a314fc",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Die Strecke zwischen Bingen(Rhein) Hbf und Armsheim ist im Moment beeinträchtigt. Züge fahren langsamer.",
-      "summary": "Der Grund ist eine verminderte Geschwindigkeit.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Bingen(Rhein) Hbf &lt;&gt; Armsheim</p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB35 - Worms &lt;&gt; Alzey &lt;&gt; Bingen </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen. Kurzfristige Zugausfälle sind möglich. </p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "18.09.2026",
-      "durationEnd": "18.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/16a035bb-43f0-419f-b70b-556084a314fc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-18/7f886d9c-21bd-4d60-abf7-b0cc9e6b2364st%25C3%25B6rungskarte_20260918-143129.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-18/7f886d9c-21bd-4d60-abf7-b0cc9e6b2364st%25C3%25B6rungskarte_20260918-143129.png",
-          "info": "",
-          "alt": "Störungskarte 18.09.2026 14:31:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 35",
-          "filterName": "RB 35",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.09.2026 14:32",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/247423a9-6edc-422e-b0bd-0e20c62ca300",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
@@ -1183,18 +1136,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an einem Signal",
-      "summary": "Die Stammstrecke ist zwischen Pasing und Ostbahnhof gesperrt und die Züge verkehren abweichend der Linienführung. Es kommt zu Verspätungen von 20 bis 30 Minuten und vorzeitigen Wenden bzw. Teilausfällen. Der Grund hierfür ist eine Reparatur an einem Signal.",
-      "text": "<p>Die S-Bahnen fahren wie folgt:&nbsp;</p><p><strong>Die S-Bahnen der Linie S 8, S 4 und S 2 verkehren auf dem Regelweg mit allen Halten durch die Stammstrecke.</strong></p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p>&nbsp;<strong>Alternativen: </strong>&nbsp;</p><ul><li><ul><li>Moosach ↔ Marienplatz: <strong>U3</strong>&nbsp;</li><li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong>&nbsp;</li><li>Moosach ↔ Pasing: <strong>Bus 162</strong>&nbsp;</li><li>Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: <strong>U5</strong>; Ostbahnhof ↔ Flughafen: <strong>S8</strong>&nbsp;</li></ul></li></ul><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Pasing</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S5 Kreuzstraße:</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 verkehrt nur <strong>Tutzing</strong> ↔ <strong>Pasing</strong>.</li><li>Die S6 verkehrt nur <strong>Ebersberg </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S7 Wolfratshausen:&nbsp;</strong>&nbsp;</p><ul><li>Die S7 verkehrt auf dem Regelweg <strong>Icking ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>Alternativen zwischen Pasing und Ostbahnhof für beide Richtungen:</strong>&nbsp;</p><ul><li><ul><li><strong>Tram 16 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor&nbsp;</li><li><strong>Tram 17 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 18 mit Halten</strong>: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Giesing&nbsp;</li><li><strong>Tram 19 mit Halten</strong>: Pasing ↔ Laim(Fürstenrieder Straße) ↔ Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Leuchtenbergring(Einsteinstraße) ↔ Berg am Laim&nbsp;</li><li><strong>Tram 20 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Ostbahnhof ↔ Leuchtenbergring(Ampfingstraße)&nbsp;</li><li><strong>U5 mit Halten</strong>: Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof ↔ Heimeranplatz ↔ Laimer Platz; <strong>Bus 57 </strong>oder <strong>Tram 14:</strong> Laimer Platz ↔ Pasing&nbsp;</li><li><strong>Bus 130/157 mit Halten</strong>: Pasing ↔ Laim ↔ Heimeranplatz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Ostbahnhof ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li><li><strong>Tram 21 mit Halten</strong>: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Wörthstraße; <strong>Tram 25 mit Halten</strong>: Wörthstraße ↔ Rosenheimer Platz&nbsp;</li></ul></li></ul><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</p><p>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</p><p>DB-Fahrscheine werden für die Dauer der Störung auch in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.&nbsp;</p>",
+      "headline": "ENDE Ersatzprogramm Stammstrecke/Gesamtnetz / Zwischenmeldung: Reparatur an einem Signal beendet / Weiterhin defektes Stellwerk",
+      "summary": "Auf der Stammstrecke sind zwischen Pasing und Ostbahnhof wieder Zugfahrten möglich und der Zugverkehr wird allmählich wieder aufgenommen. Es kommt zu Folgeverspätungen von 15 bis 20 Minuten und Teilausfällen. Die Reparatur an einem Signal ist beendet. Die Reparaturarbeiten am defekten Stellwerk in Giesing dauern noch an.",
+      "text": "<p><strong>Die S-Bahnen der Linien S 1, S 2, S 4, S 6 und S 8 verkehren wieder auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten. </strong></p><p>Die S-Bahnen der Linien S3 und S5 verkehren weiterhin wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Deisenhofen</strong>.</li></ul><p><strong>NEU: Ein Ersatzverkehr mit Bus und Taxis zwischen Ostbahnhof (Friedenstraße) und Deisenhofen wurde eingerichtet. Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</strong></p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Perlach</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li>Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: <strong>U5</strong></li></ul><p><strong>NEU: Ein Ersatzverkehr mit einem Taxis zwischen Ostbahnhof (Friedenstraße) und Perlach wurde eingerichtet. Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung . </strong></p><p>Der Grund hierfür ist ein weiterhin defektes Stellwerk in Giesing.</p><p>&nbsp;</p>",
       "durationBegin": "18.09.2026",
-      "durationEnd": "18.09.2026",
+      "durationEnd": "19.09.2026",
       "mapHref": "https://karte.bahn.de/detail/f5ee5105-867e-4c42-9c99-561e86ee1dd9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/9714aa4e-cc1f-4741-ae10-c9a880392b5bst%25C3%25B6rungskarte_20260918-164141.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/9714aa4e-cc1f-4741-ae10-c9a880392b5bst%25C3%25B6rungskarte_20260918-164141.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-19/5ce89d5a-2267-4c48-80c2-c949d8733015st%25C3%25B6rungskarte_20260919-001325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-19/5ce89d5a-2267-4c48-80c2-c949d8733015st%25C3%25B6rungskarte_20260919-001325.png",
           "info": "",
-          "alt": "Störungskarte 18.09.2026 16:41:41",
+          "alt": "Störungskarte 19.09.2026 00:13:25",
           "openInNewTab": true
         }
       ],
@@ -1243,7 +1196,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.09.2026 21:02",
+      "lastModified": "19.09.2026 00:24",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
