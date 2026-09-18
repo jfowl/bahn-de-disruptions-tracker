@@ -211,58 +211,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
-      "id": "3b9569af-f6f2-4196-9118-4e8afc6731a8",
-      "disruptionId": "804bba91-d666-4c62-aaa1-1a607ad5b37b",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Tiere auf der Strecke"
-      },
-      "headline": "Wittenberge ⇄ Stendal Hbf - Beeinträchtigung",
-      "summary": "Der Streckenabschnitt von Wittenberge bis Stendal ist im Moment beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund sind Tiere auf der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "18.09.2026",
-      "durationEnd": "18.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/804bba91-d666-4c62-aaa1-1a607ad5b37b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-18/7816f589-d59f-4c4d-b16c-3dbd71affa22st%25C3%25B6rungskarte_20260918-065256.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-18/7816f589-d59f-4c4d-b16c-3dbd71affa22st%25C3%25B6rungskarte_20260918-065256.png",
-          "info": "",
-          "alt": "Störungskarte 18.09.2026 06:52:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.09.2026 06:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3b9569af-f6f2-4196-9118-4e8afc6731a8",
-      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section4"
-    },
-    {
       "id": "f3cabc80-a116-425e-83a8-2b4611856099",
       "disruptionId": "7f743e3f-d4d9-46e2-abde-2793e3430b0f",
       "author": "REGIO_SUEDOST",
@@ -508,6 +456,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "8b4ddcd2-36c1-4cd6-bba7-2132b64cf5f0",
+      "disruptionId": "c0367d3f-1a82-4a5e-b032-06cb6f854fa9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 7 Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
+      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.\n",
+      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
+      "durationBegin": "18.09.2026",
+      "durationEnd": "21.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/c0367d3f-1a82-4a5e-b032-06cb6f854fa9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/0426a437-aeed-4286-a657-c0b9555387e9st%25C3%25B6rungskarte_20260918-103229.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/0426a437-aeed-4286-a657-c0b9555387e9st%25C3%25B6rungskarte_20260918-103229.png",
+          "info": "",
+          "alt": "Störungskarte 18.09.2026 10:32:29",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2026 10:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b4ddcd2-36c1-4cd6-bba7-2132b64cf5f0",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction"
     },
     {
       "id": "a8b9b6cb-2991-496a-bc46-75dd2b941f40",
