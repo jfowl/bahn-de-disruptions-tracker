@@ -415,81 +415,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "d3a8e718-bd22-4a88-957d-e51864ee6b6d",
-      "disruptionId": "233e6a4c-38a6-480b-b514-0b6ba26dc714",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Stammstrecke / gesamtnetz: Reparatur an einem Signal beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen, Umleitungen und Teilausfällen.",
-      "text": "<p>Die S 5 fährt wieder auf dem Regelweg.</p><p>Der Grund dafür war eine Reparatur an einem Signal.</p>",
-      "durationBegin": "19.09.2026",
-      "durationEnd": "19.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/233e6a4c-38a6-480b-b514-0b6ba26dc714",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-19/648c988f-05c7-4b14-8b4f-8444d7245c9ast%25C3%25B6rungskarte_20260919-102309.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-19/648c988f-05c7-4b14-8b4f-8444d7245c9ast%25C3%25B6rungskarte_20260919-102309.png",
-          "info": "",
-          "alt": "Störungskarte 19.09.2026 10:23:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.09.2026 10:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d3a8e718-bd22-4a88-957d-e51864ee6b6d",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section53"
-    },
-    {
       "id": "a8b9b6cb-2991-496a-bc46-75dd2b941f40",
       "disruptionId": "f324da28-ae29-418a-abec-3da8d698d01e",
       "author": "S_BAHN_MUC",
@@ -856,6 +781,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/633ab29d-32bc-44c8-83aa-fde49d93f01d",
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_vehicle"
+    },
+    {
+      "id": "6fdec67a-5438-46dc-be60-deb70dbbe28f",
+      "disruptionId": "b813de7c-c924-49e4-b2ef-69d539e13c3b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Vom 19. September, 13 Uhr bis  19. September, 20 Uhr keine S5 zw. Diebsteich u. Hamburg Elbgaustraße.",
+      "summary": "Vom 19. September, 13 Uhr bis 19. September, 20 Uhr fahren keine S5 zwischen Diebsteich und Hamburg Elbgaustraße. Grund: Signalstörung. Alternativ bitte S3 nutzen.",
+      "text": "<p>//weitere_Informationen_für_website</p>",
+      "durationBegin": "19.09.2026",
+      "durationEnd": "19.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/b813de7c-c924-49e4-b2ef-69d539e13c3b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.09.2026 12:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6fdec67a-5438-46dc-be60-deb70dbbe28f",
+      "magnoliaPath": "/aktuell/nord/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
