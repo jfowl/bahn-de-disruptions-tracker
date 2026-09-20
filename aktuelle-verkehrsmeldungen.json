@@ -2,24 +2,24 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "1e12d79c-5eb8-4e27-93ec-d99e53f86ad9",
-      "disruptionId": "ee13c73c-782a-499d-bbbf-53acbdb91537",
+      "id": "a124ef1b-a507-4f53-91e7-9a3bea512fa5",
+      "disruptionId": "a0b36997-1a4b-4505-a2f2-1ca85cc37580",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
       },
-      "headline": "Beeinträchtigung zwischen Koblenz und Mainz",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Koblenz und Mainz kommt es derzeit zu Beeinträchtigungen und einzelnen Zugausfällen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Dortmund - Köln - Koblenz - Frankfurt(M) / Stuttgart / Karlsruhe</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ee13c73c-782a-499d-bbbf-53acbdb91537",
+      "headline": "Beeinträchtigungen zwischen Koblenz und Mainz",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Uhlerborn und Ingelheim ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Köln und Mainz mit planmäßigen Halt in Koblenz fallen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die frühen Morgenstunden am 21.09.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/a0b36997-1a4b-4505-a2f2-1ca85cc37580",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-17/22f627cd-f4ab-430b-a0e6-0ed56a06642dst%25C3%25B6rungskarte_20260917-182417.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-17/22f627cd-f4ab-430b-a0e6-0ed56a06642dst%25C3%25B6rungskarte_20260917-182417.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-20/004ca394-d80f-4f2e-aa90-7a79dff70a7dst%25C3%25B6rungskarte_20260920-162934.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-20/004ca394-d80f-4f2e-aa90-7a79dff70a7dst%25C3%25B6rungskarte_20260920-162934.png",
           "info": "",
-          "alt": "Störungskarte 17.09.2026 18:24:17",
+          "alt": "Störungskarte 20.09.2026 16:29:34",
           "openInNewTab": true
         }
       ],
@@ -41,11 +41,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "17.09.2026 18:27",
+      "lastModified": "20.09.2026 16:31",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/1e12d79c-5eb8-4e27-93ec-d99e53f86ad9",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section8"
+      "detailPagePath": "/service/fahrplaene/a124ef1b-a507-4f53-91e7-9a3bea512fa5",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section2"
     },
     {
       "id": "0c06be22-cc17-4479-b33c-d91a2fc925ef",
@@ -311,6 +311,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "6ac3e927-2b88-403b-b553-f008b01df364",
+      "disruptionId": "a4554fc1-a54c-461c-8e3d-e40d2bf20a59",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 1 / S 8 Flughafen: Polizeieinsatz beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war ein Polizeieinsatz.</p>",
+      "durationBegin": "20.09.2026",
+      "durationEnd": "20.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/a4554fc1-a54c-461c-8e3d-e40d2bf20a59",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-20/e394eab7-4009-472b-bba6-0d606695e276st%25C3%25B6rungskarte_20260920-170256.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-20/e394eab7-4009-472b-bba6-0d606695e276st%25C3%25B6rungskarte_20260920-170256.png",
+          "info": "",
+          "alt": "Störungskarte 20.09.2026 17:02:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.09.2026 17:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6ac3e927-2b88-403b-b553-f008b01df364",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity3"
     },
     {
       "id": "a8b9b6cb-2991-496a-bc46-75dd2b941f40",
