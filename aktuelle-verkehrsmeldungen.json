@@ -63,8 +63,8 @@
       "mapHref": "https://karte.bahn.de/detail/99c61f13-8cbf-4075-8b82-5f87fee5f99c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-21/d7588452-cefd-43d1-add2-d4f69d2f2c43st%25C3%25B6rungskarte_20260917-214433.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-21/d7588452-cefd-43d1-add2-d4f69d2f2c43st%25C3%25B6rungskarte_20260917-214433.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-21/e0df5e29-c258-4f16-973e-e15be95aab51st%25C3%25B6rungskarte_20260917-214433.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-21/e0df5e29-c258-4f16-973e-e15be95aab51st%25C3%25B6rungskarte_20260917-214433.png",
           "info": "",
           "alt": "Störungskarte 17.09.2026 21:44:33",
           "openInNewTab": true
@@ -92,7 +92,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.09.2026 07:55",
+      "lastModified": "21.09.2026 13:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -218,56 +218,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "301b3190-e9e9-481d-b7d5-d626ea059ccd",
-      "disruptionId": "df6faeff-9798-4e11-b54e-7c3b4ad8926a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "S 8 Germering-Unterpfaffenhofen ↔ Gilching-Argelsried: Notarzteinsatz auf der Strecke",
-      "summary": "Zwischen Germering-Unterpfaffenhofen und Gilching-Argelsried sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Herrsching wenden in Germering-Unterpfaffenhofen und die S-Bahnen aus Richtung Herrsching wenden in Gilching-Argelsried.</p><p>Ein Ersatzverkehr mit Bus zwischen Germering-Unterpfaffenhofen und Gilching-Argelsried ist für Sie eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\"- Beschilderung.</p><p>Die S-Bahnen der Linie S 5 in Richtung Weßling fahren bis Pasing und wenden dort.</p><p>Genaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
-      "durationBegin": "21.09.2026",
-      "durationEnd": "21.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/df6faeff-9798-4e11-b54e-7c3b4ad8926a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-21/c53caa8f-2df2-4f30-bfc9-c9bce3ce1388st%25C3%25B6rungskarte_20260921-075037.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-21/c53caa8f-2df2-4f30-bfc9-c9bce3ce1388st%25C3%25B6rungskarte_20260921-075037.png",
-          "info": "",
-          "alt": "Störungskarte 21.09.2026 07:50:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.09.2026 08:58",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/301b3190-e9e9-481d-b7d5-d626ea059ccd",
-      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency5"
-    },
-    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -315,6 +265,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "c3c11a4f-108a-4887-af9f-a1ef88358e23",
+      "disruptionId": "4c56593c-b025-4a24-bc49-600ba4175d93",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Gegenstände auf der Strecke"
+      },
+      "headline": "Gegenstände im Gleis zwischen Triberg und Hornberg ",
+      "summary": "Der Streckenabschnitt von Triberg bis Hornberg(Schwarzw) ist nicht mehr gesperrt aber nur eingleisig befahrbar. Dauer der Beeinträchtigung bis vsl. 21.09.26, ganztägig. Der Grund waren Gegenstände auf der Strecke. Bitte rechnen Sie weiterhin mit Verspätungen und Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 2 (Karlsruhe – Konstanz) </li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "21.09.2026",
+      "durationEnd": "21.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/4c56593c-b025-4a24-bc49-600ba4175d93",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-21/b50b7b4b-3f09-497f-a8d0-dbf136e3df95st%25C3%25B6rungskarte_20260921-075406.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-21/b50b7b4b-3f09-497f-a8d0-dbf136e3df95st%25C3%25B6rungskarte_20260921-075406.png",
+          "info": "",
+          "alt": "Störungskarte 21.09.2026 07:54:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.09.2026 11:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c3c11a4f-108a-4887-af9f-a1ef88358e23",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section21"
+    },
+    {
+      "id": "b8018de6-c8e6-4f57-8d6a-9c8bc82b5019",
+      "disruptionId": "bdb78106-c195-4b19-bbf6-5da1b1046ed2",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen und Langsamfahrstellen auf der Brenzbahn ",
+      "summary": "Der Streckenabschnitt zwischen Giengen(Brenz) und Ulm Hbf ist weiterhin beeinträchtigt. Dauer der Beeinträchtigung bis vsl. mindestens 25.09.2026 Der Grund ist eine Reparatur an der Strecke. ",
+      "text": "<p>Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen von 5 bis 10 Minuten. </p>",
+      "durationBegin": "21.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/bdb78106-c195-4b19-bbf6-5da1b1046ed2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.09.2026 11:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b8018de6-c8e6-4f57-8d6a-9c8bc82b5019",
+      "magnoliaPath": "/aktuell/impairment_technical_problem_railway_section0"
     },
     {
       "id": "b505bccf-4d68-4ecc-989e-ca36cd1f8490",
@@ -410,51 +442,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a8b9b6cb-2991-496a-bc46-75dd2b941f40",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section50"
-    },
-    {
-      "id": "8b4ddcd2-36c1-4cd6-bba7-2132b64cf5f0",
-      "disruptionId": "c0367d3f-1a82-4a5e-b032-06cb6f854fa9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 7 Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
-      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.\n",
-      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
-      "durationBegin": "18.09.2026",
-      "durationEnd": "21.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/c0367d3f-1a82-4a5e-b032-06cb6f854fa9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/0426a437-aeed-4286-a657-c0b9555387e9st%25C3%25B6rungskarte_20260918-103229.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-18/0426a437-aeed-4286-a657-c0b9555387e9st%25C3%25B6rungskarte_20260918-103229.png",
-          "info": "",
-          "alt": "Störungskarte 18.09.2026 10:32:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.09.2026 10:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8b4ddcd2-36c1-4cd6-bba7-2132b64cf5f0",
-      "magnoliaPath": "/aktuell/bayern/impairment_construction"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
