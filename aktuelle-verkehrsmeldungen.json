@@ -178,75 +178,47 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
     },
     {
-      "id": "69764d9e-cd38-406d-986c-7a72965a1034",
-      "disruptionId": "774b08bc-fe99-42ae-a394-7a51ff9d0729",
-      "author": "REGIO_NORD",
+      "id": "ca482a8c-66b8-464b-aea8-5256d88e6363",
+      "disruptionId": "1de95b30-f023-434f-b8e3-dc212cf06aec",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigungen auf der Strecke zwischen Hannover Hbf und Bremen Hbf",
-      "summary": "Der Feuerwehreinsatz auf der Strecke zwischen Wunstorf und Nienburg(Weser) ist beendet.",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Die Züge verkehren wieder auf dem Regelweg. In der Folge kann es jedoch noch zu Verspätungen und Teilausfällen kommen.</li><li>RE 8 (Bremerhaven-Lehe – Hannover Hbf): Die Züge verkehren wieder auf dem Regelweg. Der erste durchfahrende Zug ab Bremerhaven-Lehe ist RE 4425 um 15:23 Uhr. Der erste durchfahrende Zug ab Hannover Hbf ist RE 4428 um 18:20 Uhr. In der Folge kann es jedoch noch zu Verspätungen und Teilausfällen kommen.</li></ul><p>Bitte rechnen Sie aktuell noch mit einer Reisezeitverlängerung von bis zu 30 Minuten.</p><p>Der Ersatzverkehr mit Bus zwischen Nienburg(Weser) und Wunstorf wird in Kürze eingestellt.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "23.09.2026",
+      "headline": "Derzeit Verspätungen auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen. Grund: Signalstörung.",
+      "text": "<p>Es kommt derzeit zu Verspätungen von bis zu 30 Minuten. Kurzfristig kann es auch zu abweichenden Wendungen in Hammerbrook oder Harburg Rathaus kommen.</p>",
+      "durationBegin": "25.09.2026",
       "durationEnd": "25.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/774b08bc-fe99-42ae-a394-7a51ff9d0729",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-25/6a0a86a0-213b-4918-a205-bfdf2897f667st%25C3%25B6rungskarte_20260923-103459.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-25/6a0a86a0-213b-4918-a205-bfdf2897f667st%25C3%25B6rungskarte_20260923-103459.png",
-          "info": "",
-          "alt": "Störungskarte 23.09.2026 10:34:59",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/1de95b30-f023-434f-b8e3-dc212cf06aec",
+      "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "Reiseauskunft  ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "Fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen  ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "HB",
+        "HH",
         "NI"
       ],
       "lines": [
         {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "25.09.2026 16:37",
-      "expand": false,
+      "lastModified": "25.09.2026 20:49",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/69764d9e-cd38-406d-986c-7a72965a1034",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity1"
+      "detailPagePath": "/service/fahrplaene/ca482a8c-66b8-464b-aea8-5256d88e6363",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -293,51 +265,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "fbd56400-91fc-4c29-9f75-8dfcaca93fa9",
-      "disruptionId": "96b332bb-1ebc-4bba-8c00-0b882b1d46ea",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Die Strecke zwischen Wörth(Rhein) und Lauterbourg ist eingestellt.",
-      "summary": "Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong> &lt;&gt; Lauterbourg</p><p>🕜<strong>Dauer der Störung bis vsl. 25.09.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB52 - Wörth &lt;&gt; Hagenbach &lt;&gt; Lauterbourg</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge der Linie RB52 fallen zwischen Wörth(Rhein) und Lauterbourg aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Wörth(Rhein) und Lauterbourg für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "24.09.2026",
-      "durationEnd": "25.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/96b332bb-1ebc-4bba-8c00-0b882b1d46ea",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-25/4b79efb7-3821-4a1f-8307-d1aaef763203st%25C3%25B6rungskarte_20260924-122707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-25/4b79efb7-3821-4a1f-8307-d1aaef763203st%25C3%25B6rungskarte_20260924-122707.png",
-          "info": "",
-          "alt": "Störungskarte 24.09.2026 12:27:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 52",
-          "filterName": "RB 52",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.09.2026 05:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fbd56400-91fc-4c29-9f75-8dfcaca93fa9",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section1"
     },
     {
       "id": "d26c2977-8474-460f-8680-e1836927da2a",
@@ -714,15 +641,15 @@
         "label": "Bauarbeiten"
       },
       "headline": "Haltausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund sind Unregelmäßigkeiten bei Bauarbeiten.",
       "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Alle Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In den Nächten halten einzelne Züge der S2 in Richtung Dietzenbach Bahnhof nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie auch die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "25.09.2026",
       "durationEnd": "28.09.2026",
       "mapHref": "https://karte.bahn.de/detail/1c71cb5c-fefa-4189-a0af-33337a0fdc21",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/a9565593-4ef7-4ffe-9d17-4d4f2a9a205cst%25C3%25B6rungskarte_20260924-164325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/a9565593-4ef7-4ffe-9d17-4d4f2a9a205cst%25C3%25B6rungskarte_20260924-164325.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/2916d18f-fa70-4b99-bce9-74b346bc9541st%25C3%25B6rungskarte_20260924-164325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/2916d18f-fa70-4b99-bce9-74b346bc9541st%25C3%25B6rungskarte_20260924-164325.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 16:43:25",
           "openInNewTab": true
@@ -753,12 +680,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.09.2026 16:18",
+      "lastModified": "25.09.2026 20:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f7457b0e-57b8-4c85-b26d-5a3b083c2f24",
       "magnoliaPath": "/aktuell/hessen/stop_moved_construction"
+    },
+    {
+      "id": "325e21a1-cc8e-4a95-be8e-93d964d84aa8",
+      "disruptionId": "7563e4a9-5087-4a6e-9dea-890c4ba5fff7",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "🛑  Kein Halt in Wellingsbüttel (Fahrtrichtung Poppenbüttel)",
+      "summary": "Aktuell dürfen die S-Bahnen der 🟢 S1 in Fahrtrichtung Poppenbüttel nicht in Wellingsbüttel halten.",
+      "text": "<p>↪️ Fahrgäste mit Ziel Wellingsbüttel bitte bis Poppenbüttel fahren und von dort mit der S-Bahn in Richtung Othmarschen, Blankenese oder Wedel eine Station zurück fahren.</p><p>↪️ Fahrgäste die von Wellingsbüttel nach Poppenbüttel fahren möchten bitte bis Hoheneichen fahren und dort in die Gegenrichtung nach Poppenbüttel steigen.</p><p>ℹ️ Grund: Mängel an der Infrastruktur</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "26.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/7563e4a9-5087-4a6e-9dea-890c4ba5fff7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2026 17:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/325e21a1-cc8e-4a95-be8e-93d964d84aa8",
+      "magnoliaPath": "/aktuell/nord/stop_moved_technical_problem_other"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1014,81 +978,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
-    },
-    {
-      "id": "7b70e0d2-622f-4cb3-854e-1461bbd1798b",
-      "disruptionId": "db185e62-b5c3-40c6-a88b-a0f30c94bd66",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von 15 bis 20 Minuten, Zugausfällen und vorzeitigen Zugwenden.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "25.09.2026",
-      "durationEnd": "25.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/db185e62-b5c3-40c6-a88b-a0f30c94bd66",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-25/65feda1e-10b0-4626-b7ef-3b13fa4fb521st%25C3%25B6rungskarte_20260925-164430.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-25/65feda1e-10b0-4626-b7ef-3b13fa4fb521st%25C3%25B6rungskarte_20260925-164430.png",
-          "info": "",
-          "alt": "Störungskarte 25.09.2026 16:44:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.09.2026 16:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7b70e0d2-622f-4cb3-854e-1461bbd1798b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle5"
     },
     {
       "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
