@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "70ebf67c-4faa-4984-accc-a2fdd4ae3326",
+      "disruptionId": "66811573-d74b-45e1-a105-531a7e7f6561",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung im Bereich Hannover Hbf",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung im Bereich Hannover Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Relation Amsterdam - Osnabrück - Hannover - Berlin werden umgeleitet. Die Halte Osnabrück Hbf bis Hannover entfallen, Ersatzhalte in Hannover-Linden/Fischerhof und Lehrte. Es kommt zu Verspätungen von bis zu 75 Minuten.</li><li>Einige ICE-Züge der Relation NRW - Bielefeld - Hannover - Berlin werden umgeleitet. Die Halte zwischen Hamm(Westf)Hbf und Hannover Hbf entfallen, Ersatzhalte in Hannover-Linden/Fischerhof und Lehrte. Es kommt zu Verspätungen von bis zu 75 Minuten.</li><li>ICE-Züge der Relation Hamburg - Hannover - Kassel-Wilhelmshöhe - Nürnberg - München werden umgeleitet. Der Halt Hannover Hbf entfällt, Ersatzhalt in Celle und Hannover Messe/Laatzen.</li><li>Bei ICE- und IC-Zügen, die weiterhin Hannover Hbf anfahren, kommt es zu Verspätungen von bis zu 30 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/66811573-d74b-45e1-a105-531a7e7f6561",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.09.2026 11:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70ebf67c-4faa-4984-accc-a2fdd4ae3326",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section12"
+    },
+    {
       "id": "cf025588-5a6a-4f9a-83df-b3e8b47fb784",
       "disruptionId": "8adbb59b-3821-434d-b86c-a117453ea156",
       "author": "FERNVERKEHR_AG",
@@ -247,44 +299,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section10"
     },
     {
-      "id": "92d4a1b1-f883-4e53-a024-bf29bd7aba73",
-      "disruptionId": "5e5f4747-7aec-40c0-9bb6-f2947fbc40ab",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Derzeit keine S3 zw. Pinneberg u. Elbgaustraße",
-      "summary": "Derzeit fährt keine S3 zwischen Pinneberg und Elbgaustraße. Grund: Personenunfall. Nutzen Sie alternativ die BR61 und RB71, sowie den Ersatzverkehr mit Bussen und Taxis.",
-      "text": "<p>Weitere informationen werden ermittelt.</p>",
-      "durationBegin": "25.09.2026",
-      "durationEnd": "25.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/5e5f4747-7aec-40c0-9bb6-f2947fbc40ab",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.09.2026 06:19",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/92d4a1b1-f883-4e53-a024-bf29bd7aba73",
-      "magnoliaPath": "/aktuell/nord/additional_service_medical_emergency"
-    },
-    {
       "id": "e3fd95c1-56b2-4b40-9125-ef65d526e637",
       "disruptionId": "117a4997-d17a-4c2b-be56-7d982926032d",
       "author": "FERNVERKEHR_AG",
@@ -420,6 +434,56 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section1"
     },
     {
+      "id": "d26c2977-8474-460f-8680-e1836927da2a",
+      "disruptionId": "09df24f1-b9d3-496f-94e2-4714519e22a8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Schwäbisch Hall-Hessental und Öhringen Hbf",
+      "summary": "Der Streckenabschnitt zwischen Schwäbisch Hall-Hessental und Öhringen Hbf ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 25.09., ganztägig. Der Grund sind Bauarbeiten. In der Folge kommt es zu Teilausfällen. Ein Ersatzverkehr mit einem Bus zwischen Schwäbisch Hall-Hessental und Öhringen Hbf ist eingerichtet. Reisende zwischen Öhringen Hbf und Heilbronn Hbf nutzen bitte die Züge der AVG. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges und achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 80 (Heilbronn – Crailsheim)</li><li>RB 83 (Heilbronn – Schwäbisch Hall-Hessental)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/09df24f1-b9d3-496f-94e2-4714519e22a8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-25/0d8e0099-beb8-4869-b805-b73de3ca87f2st%25C3%25B6rungskarte_20260925-095321.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-25/0d8e0099-beb8-4869-b805-b73de3ca87f2st%25C3%25B6rungskarte_20260925-095321.png",
+          "info": "",
+          "alt": "Störungskarte 25.09.2026 09:53:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 83",
+          "filterName": "RB 83",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.09.2026 09:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d26c2977-8474-460f-8680-e1836927da2a",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -467,6 +531,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "a45cd3ad-1d58-420b-bd3d-efe1fb46053a",
+      "disruptionId": "1bb1a5ab-207b-4fbf-a9a6-4e0d492ccf4d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle im Raum Neustadt(Kr Marburg)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Der Bahnhof ist derzeit gesperrt.</li><li>Die Halte zwischen Kirchhain(Bz Kassel) und Treysa entfallen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><p></p><ul><li>Wir haben für Sie einen Ersatzverkehr mit 5 Bussen zwischen Kirchhain(Bz Kassel) - Treysa eingerichtet, der im Pendel verkehrt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1bb1a5ab-207b-4fbf-a9a6-4e0d492ccf4d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/53f16461-3dbe-43cd-87d6-bdadb95523eest%25C3%25B6rungskarte_20260925-080141.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/53f16461-3dbe-43cd-87d6-bdadb95523eest%25C3%25B6rungskarte_20260925-080141.png",
+          "info": "",
+          "alt": "Störungskarte 25.09.2026 08:01:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.09.2026 10:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a45cd3ad-1d58-420b-bd3d-efe1fb46053a",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section4"
     },
     {
       "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
@@ -745,14 +854,14 @@
       },
       "headline": "Haltausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Vom 25. September., 14 Uhr bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In der Nacht halten die S1 und S2 in beiden Richtungen nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li><li>Nutzen Sie die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied (Nied Kirche, Frankfurt a.M.) - Frankfurt(M)Galluswarte - Frankfurt(Main)Hbf. Am 26. und 27.09. verkehrt ein Ersatzverkehr mit Bussen für die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied - Frankfurt(M)Galluswarte.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Vom 25. September., 14 Uhr bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Alle Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In der Nacht halten die S1 und S2 in beiden Richtungen nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie auch die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "25.09.2026",
       "durationEnd": "28.09.2026",
       "mapHref": "https://karte.bahn.de/detail/1c71cb5c-fefa-4189-a0af-33337a0fdc21",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3ce6867c-6c83-4c37-a579-9acdca04c458st%25C3%25B6rungskarte_20260924-164325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3ce6867c-6c83-4c37-a579-9acdca04c458st%25C3%25B6rungskarte_20260924-164325.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3d4590e9-5ac6-4b8a-8643-2a096f703acfst%25C3%25B6rungskarte_20260924-164325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3d4590e9-5ac6-4b8a-8643-2a096f703acfst%25C3%25B6rungskarte_20260924-164325.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 16:43:25",
           "openInNewTab": true
@@ -783,7 +892,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "25.09.2026 06:22",
+      "lastModified": "25.09.2026 09:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1133,50 +1242,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2157e527-9f54-4fa6-b96c-d5135a35325c",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section0"
-    },
-    {
-      "id": "23164493-dbef-4c33-a222-83e6dd801e31",
-      "disruptionId": "d5a2f810-f0fe-46d0-85c1-f15a5247e7c9",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Schorndorf: Unterführung wegen Bauarbeiten gesperrt",
-      "summary": "Zugang zu Gleisen 1 und 2/3 über Rosenstraße möglich, zu Gleis 5 bitte Wegeleitung folgen.",
-      "text": "<p>Kein Durchgang zur der Grabenstraße möglich wegen Bauarbeiten in der Unterführung. Der Zugang zu Gleis 1 und Gleis 2/3 ist über die Rosenstraße weiterhin möglich. Zum Zugverkehr nach Rudersberg an Gleis 5 bitte der Wegeleitung folgen.</p>",
-      "durationBegin": "03.08.2026",
-      "durationEnd": "25.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/d5a2f810-f0fe-46d0-85c1-f15a5247e7c9",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
-          "label": "Weiterführende Informationen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.09.2026 08:40",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/23164493-dbef-4c33-a222-83e6dd801e31",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_construction"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
