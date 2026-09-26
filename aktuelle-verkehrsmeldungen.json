@@ -172,61 +172,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "523f19ed-be46-45c4-98ee-bfe7ed312781",
-      "disruptionId": "fb0a3626-319b-40f3-ad9c-3184dbdd58dd",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Personen haben das Gleis im Bereich Bad Cannstatt verlassen",
-      "summary": "Folgeabweichungen auf den Linien S1, S2 und S3",
-      "text": "Die unbefugten Personen haben das Gleis im Bereich Bad Cannstatt verlassen. Die Linien S1, S2 und S3 können wieder regulär verkehren. Es kommt noch zu Folgeabweichungen auf den Linien S1, S2 und S3. Bitte prüfen Sie vor Fahrtantritt Ihre Verbindung online.",
-      "durationBegin": "26.09.2026",
-      "durationEnd": "26.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/fb0a3626-319b-40f3-ad9c-3184dbdd58dd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-26/c7fb63c2-4a03-4cfd-8353-6ac95df9b290st%25C3%25B6rungskarte_20260926-192030.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-26/c7fb63c2-4a03-4cfd-8353-6ac95df9b290st%25C3%25B6rungskarte_20260926-192030.png",
-          "info": "",
-          "alt": "Störungskarte 26.09.2026 19:20:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.09.2026 19:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/523f19ed-be46-45c4-98ee-bfe7ed312781",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section10"
-    },
-    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -820,6 +765,43 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "99d41e56-7380-4c7e-8b38-eee79a3de7b2",
+      "disruptionId": "ec18fcce-de9e-4425-88b1-a5ca6c4f3f59",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Nächtliche Bauarbeiten zwischen Engen und Singen",
+      "summary": "Aufgrund von Bauarbeiten kommt es in der Nacht am 27.09.2026, sowie in der Nacht vom 01.10.2026 auf den 02.10.2026, jeweils im Zeitraum von 23:00 Uhr bis 00:30 Uhr zu Teilausfällen zwischen Singen Hbf und Engen.",
+      "text": "<p>Es kommt in der Nacht am 27.09.2026, sowie in der Nacht vom 01.10.2026 auf den 02.10.2026, jeweils im Zeitraum von 23:00 Uhr bis 00:30 Uhr zu Teilausfällen zwischen Singen Hbf und Engen. Ein Schienenersatzverkehr (SEV) mit Bussen ist auf dem ebengenannten Streckenabschnitt eingerichtet. </p>",
+      "durationBegin": "26.09.2026",
+      "durationEnd": "02.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec18fcce-de9e-4425-88b1-a5ca6c4f3f59",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "Bus S6",
+          "filterName": "Bus S6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.09.2026 23:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/99d41e56-7380-4c7e-8b38-eee79a3de7b2",
+      "magnoliaPath": "/aktuell/additional_service_construction"
+    },
+    {
       "id": "035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "disruptionId": "f0886bd7-c420-4458-a1ba-6637d62f6aff",
       "author": "REGIO_SUEDOST",
@@ -871,25 +853,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "60ffa981-f6dc-4dd6-aebd-3d5d57fcada7",
-      "disruptionId": "33a988e3-cc8f-4d2a-8573-50883fc6e6d5",
+      "id": "95eb1f68-c1c4-4700-8eb0-491e40680e28",
+      "disruptionId": "5aa8df6d-868e-4d5a-b166-35f718be5156",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "Endmeldung: Stammstrecke Ostbahnhof ↔ Pasing",
-      "summary": "Zwischen Ostbahnhof und Pasing kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "headline": "S 5 Höhenkirchen-Siegertsbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Höhenkirchen-Siegertsbrunn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "26.09.2026",
-      "durationEnd": "26.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/33a988e3-cc8f-4d2a-8573-50883fc6e6d5",
+      "durationEnd": "27.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/5aa8df6d-868e-4d5a-b166-35f718be5156",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/2bdd5099-a66b-450e-902f-0d661cce9853st%25C3%25B6rungskarte_20260926-194324.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/2bdd5099-a66b-450e-902f-0d661cce9853st%25C3%25B6rungskarte_20260926-194324.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
           "info": "",
-          "alt": "Störungskarte 26.09.2026 19:43:24",
+          "alt": "Störungskarte 26.09.2026 22:05:19",
           "openInNewTab": true
         }
       ],
@@ -902,69 +884,39 @@
         "BY"
       ],
       "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
         {
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2026 20:25",
+      "lastModified": "26.09.2026 23:16",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/60ffa981-f6dc-4dd6-aebd-3d5d57fcada7",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section42"
+      "detailPagePath": "/service/fahrplaene/95eb1f68-c1c4-4700-8eb0-491e40680e28",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section44"
     },
     {
-      "id": "795dd4d1-fc4f-4ecd-831c-2d7e7ef1fabf",
-      "disruptionId": "ce69806d-4426-40e4-8b59-85891e5ee6b4",
+      "id": "52eb6183-ef93-4981-a01f-4910bb260913",
+      "disruptionId": "f10c31d7-a52c-4d2c-99f5-61e9ef9852c2",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 7 Großhesselohe-Isartalbahnhof ↔ Baierbrunn: Behördliche Maßnahme",
-      "summary": "Zwischen Großhesselohe-Isartalbahnhof und Baierbrunn kommt es zu höheren Verspätungen und vorzeitigen Zugwenden.",
-      "text": "<p>In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür sind behördliche Maßnahmen.</p>",
+      "headline": "S 6 Haar: Reparatur an einem Signal",
+      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p><strong>Ab den folgenden Fahrten verkehren die S-Bahnen der Linie S4 planmäßig von/nach Ostbahnhof.</strong></p><p><strong>S 4 Geltendorf ↔ Ostbahnhof/Trudering:</strong></p><ul><li>S 4 Buchenau Abfahrt 22:04 Uhr → Ostbahnhof Ankunft 22:46 Uhr</li></ul><p><strong>S4 Ostbahnhof/Trudering ↔ Geltendorf:</strong></p><ul><li>S 4 Ostbahnhof Abfahrt 23:11 Uhr → Geltendorf Ankunft 00:13 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal in Haar.</p>",
       "durationBegin": "26.09.2026",
       "durationEnd": "26.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ce69806d-4426-40e4-8b59-85891e5ee6b4",
+      "mapHref": "https://karte.bahn.de/detail/f10c31d7-a52c-4d2c-99f5-61e9ef9852c2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/1d462969-4e9a-4585-a0de-a6830f4e04d6st%25C3%25B6rungskarte_20260926-201052.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/1d462969-4e9a-4585-a0de-a6830f4e04d6st%25C3%25B6rungskarte_20260926-201052.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/23f54607-f7f7-479a-8b95-81de5ff606a9st%25C3%25B6rungskarte_20260926-194622.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/23f54607-f7f7-479a-8b95-81de5ff606a9st%25C3%25B6rungskarte_20260926-194622.png",
           "info": "",
-          "alt": "Störungskarte 26.09.2026 20:10:52",
+          "alt": "Störungskarte 26.09.2026 19:46:22",
           "openInNewTab": true
         }
       ],
@@ -978,17 +930,17 @@
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2026 20:20",
+      "lastModified": "26.09.2026 22:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/795dd4d1-fc4f-4ecd-831c-2d7e7ef1fabf",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
+      "detailPagePath": "/service/fahrplaene/52eb6183-ef93-4981-a01f-4910bb260913",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section43"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
