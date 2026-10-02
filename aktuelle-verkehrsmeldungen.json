@@ -140,6 +140,53 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "d17dc4f3-018a-431f-9bdc-eb503762def9",
+      "disruptionId": "73b9ba33-8356-42f0-90cf-81f5270d8673",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Ludwigsfelde und Berlin",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Ludwigsfelde und Birkengrund  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfälle, Teilausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge auf der Relation BERLIN - Leipzig/Halle (S.) - Erfurt - Frankfurt/München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis [Prognose] erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/73b9ba33-8356-42f0-90cf-81f5270d8673",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-02/45e05fca-fb98-4360-abbd-1eb5db0d6d98st%25C3%25B6rungskarte_20261002-204443.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-02/45e05fca-fb98-4360-abbd-1eb5db0d6d98st%25C3%25B6rungskarte_20261002-204443.png",
+          "info": "",
+          "alt": "Störungskarte 02.10.2026 20:44:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "TH",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.10.2026 21:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d17dc4f3-018a-431f-9bdc-eb503762def9",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section7"
+    },
+    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
@@ -352,58 +399,6 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
     },
     {
-      "id": "3dff4c91-1740-4f93-a553-6354a2126960",
-      "disruptionId": "c1a935b0-4c23-4d87-a43b-7c1d9c760a6e",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Folgeverspätungen und es kann zu Umleitungen, Teil- sowie Zugausfällen kommen zwischen Frankfurt(M)Ostendstraße - Offenbach(Main) Kaiserlei",
-      "summary": "Bei der S-Bahn Rhein-Main normalisiert sich der Bahnbetrieb wieder.",
-      "text": "<strong>🚆 Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><p><strong>✅ Auf der S1, S2, S8 und S9 kommt es zu Folgeverspätungen und es kommt zu einzelnen Umleitungen, Teil- sowie Zugausfällen.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "02.10.2026",
-      "durationEnd": "02.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/c1a935b0-4c23-4d87-a43b-7c1d9c760a6e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.10.2026 15:43",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3dff4c91-1740-4f93-a553-6354a2126960",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_medical_emergency"
-    },
-    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -453,49 +448,41 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "e7371570-18fa-45f1-8dc1-0e80aa5108e5",
-      "disruptionId": "ea0d8b35-fdc7-46b2-93fd-466f1d5cd02f",
+      "id": "2ca9ad16-366c-4f9b-8b50-a0793c311798",
+      "disruptionId": "2da4f554-902b-4cda-9d79-8de4e8a97a82",
       "author": "S_BAHN_RM",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Teilausfälle im Raum Marburg(Lahn)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor.</li></ul><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke ist derzeit gesperrt.</li><li>Auf dem RE30 kommt es zu Teilausfällen zwischen Gießen und Marburg(Lahn).</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 8 Bussen der Firma Holiday Reisen zwischen Gießen und Marburg(Lahn) eingerichtet.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Verspätungen und Teilausfälle im Raum Erzhausen",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen von bis zu 20 Minuten.</li><li>Die S6 mit ursprünglichem Fahrtziel- und beginn in Langen(Hess) fällt aus zwischen Frankfurt(Main)Süd - Langen(Hess).</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "02.10.2026",
       "durationEnd": "02.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/ea0d8b35-fdc7-46b2-93fd-466f1d5cd02f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-10-02/dd6eff09-37ae-4832-af04-8b3c68c5a2ecst%25C3%25B6rungskarte_20261002-151708.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-10-02/dd6eff09-37ae-4832-af04-8b3c68c5a2ecst%25C3%25B6rungskarte_20261002-151708.png",
-          "info": "",
-          "alt": "Störungskarte 02.10.2026 15:17:08",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/2da4f554-902b-4cda-9d79-8de4e8a97a82",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HE"
       ],
       "lines": [
         {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.10.2026 15:18",
+      "lastModified": "02.10.2026 16:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7371570-18fa-45f1-8dc1-0e80aa5108e5",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section6"
+      "detailPagePath": "/service/fahrplaene/2ca9ad16-366c-4f9b-8b50-a0793c311798",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section7"
     },
     {
       "id": "83828b56-38ef-4bf4-b47f-586ec4c1eb70",
@@ -1230,6 +1217,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
+    },
+    {
+      "id": "6a2cb8a8-d641-4f62-ab8b-1dfdb209a3de",
+      "disruptionId": "995364b8-589d-4325-820c-16ed243c9837",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 5 Perlach ↔ Giesing: Reparatur an einem Signal",
+      "summary": "Zwischen Perlach und Giesing kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "02.10.2026",
+      "durationEnd": "02.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/995364b8-589d-4325-820c-16ed243c9837",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-02/7c8f0940-1125-4806-add1-25dddc81d450st%25C3%25B6rungskarte_20261002-195717.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-02/7c8f0940-1125-4806-add1-25dddc81d450st%25C3%25B6rungskarte_20261002-195717.png",
+          "info": "",
+          "alt": "Störungskarte 02.10.2026 19:57:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.10.2026 20:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6a2cb8a8-d641-4f62-ab8b-1dfdb209a3de",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section63"
+    },
+    {
+      "id": "2d9de31a-3d78-4fab-8fdb-c7dbd9d82222",
+      "disruptionId": "ec88a961-612c-40be-b907-6d29156046b7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Neuaubing: Reparatur an einem Signal",
+      "summary": "Im Bereich Neuaubing kommt es zu Verspätungen von 10 bis 15 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "02.10.2026",
+      "durationEnd": "02.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec88a961-612c-40be-b907-6d29156046b7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-02/0e4ebddd-ca51-4761-9e60-3f54fd96c716st%25C3%25B6rungskarte_20261002-201605.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-02/0e4ebddd-ca51-4761-9e60-3f54fd96c716st%25C3%25B6rungskarte_20261002-201605.png",
+          "info": "",
+          "alt": "Störungskarte 02.10.2026 20:16:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.10.2026 20:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2d9de31a-3d78-4fab-8fdb-c7dbd9d82222",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section64"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
