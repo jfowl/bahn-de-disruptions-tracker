@@ -218,50 +218,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
     {
-      "id": "ca573db0-1f1b-4440-8e13-73af1188b1b7",
-      "disruptionId": "cba9eecc-476f-4633-a053-6795c8150f8e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Neumünster",
-      "summary": "Aufgrund einer Kabelbeschädigung ist die Strecke zwischen Hamburg und Kiel bzw. Hamburg und Flensburg / Padborg derzeit nicht befahrbar. Dadurch kommt es zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/RJ-Züge der Verbindung Hamburg - Kiel</li><li>ICE-/RJ-Züge der Verbindung Kopenhagen - Padborg - Flensburg - Hamburg</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende zwischen Hamburg und Kiel bzw. Hamburg und Flensburg / Padborg nutzen bitte die Ersatzverkehre des Nahverkehrs</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/cba9eecc-476f-4633-a053-6795c8150f8e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-06/d7edcd62-cf7a-491c-93c8-057d116739ffst%25C3%25B6rungskarte_20261006-150212.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-06/d7edcd62-cf7a-491c-93c8-057d116739ffst%25C3%25B6rungskarte_20261006-150212.png",
-          "info": "",
-          "alt": "Störungskarte 06.10.2026 15:02:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.10.2026 15:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ca573db0-1f1b-4440-8e13-73af1188b1b7",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section15"
-    },
-    {
       "id": "eed4b99a-22e5-445c-9cce-de6d6d2d4fef",
       "disruptionId": "a150f200-8c35-4025-b5e9-21e62af2d60e",
       "author": "REGIO_NORD",
@@ -351,6 +307,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/eed4b99a-22e5-445c-9cce-de6d6d2d4fef",
       "magnoliaPath": "/aktuell/nord/reduced_service_police_activity0"
+    },
+    {
+      "id": "86694968-f158-4804-9fe2-07a143b86431",
+      "disruptionId": "f4d75e37-88b3-4cde-9b29-76ad60ad3314",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Derzeit Verspätungen auf der S2 und S7.",
+      "summary": "Auf der S2 und S7  kommt es derzeit zu Verspätungen. Grund: Dringende Reparaturarbeiten an der Strecke.",
+      "text": "<p></p>",
+      "durationBegin": "08.10.2026",
+      "durationEnd": "08.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/f4d75e37-88b3-4cde-9b29-76ad60ad3314",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.10.2026 07:28",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/86694968-f158-4804-9fe2-07a143b86431",
+      "magnoliaPath": "/aktuell/nord/modified_service_construction3"
     },
     {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
@@ -490,6 +484,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "9ba7796e-024f-4f6f-851e-63c97933f9b2",
+      "disruptionId": "16697a4b-57e6-4986-9bb4-8b57a1004cc5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S2 Markt Schwaben- Erding: Technischer Defekt an einem Bahnübergang",
+      "summary": "Auf der S2 kommt es zu Verspätungen von bis zu 10 Minuten sowie teilweise zu vorzeitigen Zugwenden.",
+      "text": "<p>Grund ist ein technischer Defekt an einem Bahnübergang in Altenerding.\t</p>",
+      "durationBegin": "08.10.2026",
+      "durationEnd": "08.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/16697a4b-57e6-4986-9bb4-8b57a1004cc5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-08/74631da9-22f0-4800-bcff-13acf2621f0ast%25C3%25B6rungskarte_20261008-073921.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-08/74631da9-22f0-4800-bcff-13acf2621f0ast%25C3%25B6rungskarte_20261008-073921.png",
+          "info": "",
+          "alt": "Störungskarte 08.10.2026 07:39:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "08.10.2026 07:42",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9ba7796e-024f-4f6f-851e-63c97933f9b2",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section87"
     },
     {
       "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
@@ -1016,6 +1055,70 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+    },
+    {
+      "id": "42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
+      "disruptionId": "408978e9-234a-40a2-b7cd-d4832a447d17",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Laupheim West ⇄ Laupheim Stadt:                                                              \nZugausfälle und Ersatzverkehr mit Bus",
+      "summary": "📅 Mittwoch, 04. November 2026, 22:30 Uhr bis Donnerstag, 05. November 2026, 02:00 Uhr",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RS 2 / RS 21</li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong> Laupheim West ⇄ Laupheim Stadt</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Laupheim West Westbahnhof, Laupheim ZOB Stadtbahnhof, </p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong></p><p><strong>Grund der Bauarbeiten: </strong>Gleisarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p><p>*67063</p>",
+      "durationBegin": "04.11.2026",
+      "durationEnd": "05.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/408978e9-234a-40a2-b7cd-d4832a447d17",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/c9bbf792-c302-4bee-9933-045ee8f1260ast%25C3%25B6rungskarte_20261008-073105.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/c9bbf792-c302-4bee-9933-045ee8f1260ast%25C3%25B6rungskarte_20261008-073105.png",
+          "info": "",
+          "alt": "Störungskarte 08.10.2026 07:31:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/e9084f5f-8d79-436e-b94a-2e5bb2f950e4%25F0%259F%259A%258C%2BBus-Ersatzfahrplan%2B.pdf",
+          "label": "🚌 Bus-Ersatzfahrplan",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB RS21",
+          "filterName": "RB RS21",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.10.2026 07:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction2"
     },
     {
       "id": "d9d65a68-d14a-48a6-8c9a-535791357ac8",
