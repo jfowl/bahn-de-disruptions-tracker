@@ -270,54 +270,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
     {
-      "id": "2422503d-91d3-46b4-8b44-b7aa7a8d26e3",
-      "disruptionId": "a97ebb4b-ff64-42f8-9827-c4a47b5da97d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "📢 S-Bahnen zw. Bergedorf u. Hauptbahnhof derzeit alle 10 Minuten",
-      "summary": "Die S-Bahnen fahren derzeit zwischen Bergedorf und Hauptbahnhof alle 10 Minuten. Grund: Kurzfristige Bauarbeiten.",
-      "text": "<p>Derzeit fahren die S-Bahnen aus und in Richtung Bergedorf sowie Aumühle wie folgt:</p><p></p><p><strong>🔴 S2:</strong> Derzeit keine Fahrten, bitte <strong>weichen Sie</strong> zwischen Bergedorf und Hauptbahnhof <strong>auf die S7</strong> und zwischen Hauptbahnhof und Diebsteich <strong>auf die S5 aus.</strong></p><p></p><p><strong>🟠 S7</strong>: Die S7 fährt zwischen Aumühle und Altona via Jungfernstieg sowie zwischen Altona und Aumühle via Dammtor.</p><p></p><p>⚠️ Zwischen Bergedorf und Aumühle fahren die S-Bahnen nur alle 40 Minuten. Bitte achten Sie auf die Ansagen und Anzeigen an den Bahnsteigen sowie an und in den Zügen.</p><p></p><p>🕐 S-Bahnen von Hauptbahnhof nach Diebsteich (via Dammtor) fahren alle 10 Minuten.</p><p></p><p>🚧 Ab 21:00 Uhr keine S-Bahnen zwischen Bergedorf und Aumühle.</p>",
-      "durationBegin": "09.10.2026",
-      "durationEnd": "09.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/a97ebb4b-ff64-42f8-9827-c4a47b5da97d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.10.2026 14:36",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2422503d-91d3-46b4-8b44-b7aa7a8d26e3",
-      "magnoliaPath": "/aktuell/nord/impairment_construction1"
-    },
-    {
       "id": "db1009be-fc7e-4339-9c9d-03c31937164b",
       "disruptionId": "3e99dda8-0553-47f2-868a-e8388a7ef90f",
       "author": "FERNVERKEHR_AG",
@@ -579,12 +531,87 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "09.10.2026 12:56",
+      "lastModified": "09.10.2026 16:12",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/13892d18-8da0-443f-bc10-a6416d1e8e5a",
       "magnoliaPath": "/aktuell/no_service_construction"
+    },
+    {
+      "id": "065aa0f3-4f2e-4a98-920f-4ecaccfcb482",
+      "disruptionId": "86c36690-c783-48fd-9c04-5ceabd9a23d4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Ostbahnhof: Reparatur an der Oberleitung ",
+      "summary": "Das Gleis 1 am Ostbahnhof ist gesperrt. Die S-Bahnen der Linie S8 verkehren abweichend der regulären Linienführung wie folgt:\n",
+      "text": "<p><strong>Flughafen → Herrsching:</strong> wird zwischen Daglfing und Pasing über den Ostbahnhof Gleis 7-13 (Fernbahn) umgeleitet und die Stammstrecke nicht angefahren. Der Halt am Leuchtenbergring entfällt.</p><p></p><p><strong>Alternativen:</strong></p><p></p><p>Ostbahnhof ↔ Leuchtenbergring: S4, S6</p><p>Es kommt auf der Stammstrecke zu Verspätungen von 5 bis zu 10 Minuten. Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Oberleitung am Ostbahnhof.</p>",
+      "durationBegin": "09.10.2026",
+      "durationEnd": "09.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/86c36690-c783-48fd-9c04-5ceabd9a23d4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-09/69ead27f-d8dc-4e38-9699-c8d3ed07c521st%25C3%25B6rungskarte_20261009-194447.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-09/69ead27f-d8dc-4e38-9699-c8d3ed07c521st%25C3%25B6rungskarte_20261009-194447.png",
+          "info": "",
+          "alt": "Störungskarte 09.10.2026 19:44:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.10.2026 20:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/065aa0f3-4f2e-4a98-920f-4ecaccfcb482",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section31"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
@@ -853,51 +880,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "81309ab1-7725-4ef3-ac14-fdd83a0da0cf",
-      "disruptionId": "d2aeede2-e788-4b89-bf5a-86056f8c1397",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S4/S6 Zorneding - Haar: Reparatur an der Strecke ",
-      "summary": "Bis auf weiteres verkehren die S-Bahnen der Linie S4 nur bis zum Leuchtenbergring.",
-      "text": "<p>Am Leuchtenbergring können Sie die S-Bahnen der Linien S2, S6 und S8 nutzen.</p><p>Es kann zu Verspätungen und zu weiteren Fahrtausfällen kommen.</p><p>Bitte rechnen Sie für die Dauer der Störung mit mehr Reisezeit und überprüfen Sie Ihre Verbindung vor Abfahrt auf www.s-bahn-muenchen.de oder in der App München Navigator.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine Reparatur an der Strecke in Haar. Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
-      "durationBegin": "09.10.2026",
-      "durationEnd": "09.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/d2aeede2-e788-4b89-bf5a-86056f8c1397",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-09/ad86dfd4-8414-4e24-b288-5fccf303781fst%25C3%25B6rungskarte_20261009-140430.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-09/ad86dfd4-8414-4e24-b288-5fccf303781fst%25C3%25B6rungskarte_20261009-140430.png",
-          "info": "",
-          "alt": "Störungskarte 09.10.2026 14:04:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.10.2026 14:47",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/81309ab1-7725-4ef3-ac14-fdd83a0da0cf",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section7"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
