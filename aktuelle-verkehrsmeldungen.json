@@ -241,41 +241,129 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "a6375cfc-0649-4236-9971-d640b5363378",
-      "disruptionId": "bda7605d-f9f3-49f0-b3b2-75f3c3861027",
-      "author": "DEUTSCHE_BAHN",
+      "id": "bf246dcd-f15f-4314-8183-a82d0eff5628",
+      "disruptionId": "4c9c9a0f-5a1d-4459-bd9e-2d34b9d50d0d",
+      "author": "REGIO_MITTE",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Bauarbeiten im Vorfeld der Großbauarbeiten",
-      "summary": "Nächtliche Streckensperrung Riehen - Zell",
-      "text": "<p>Aufgrund von Bauarbeiten ist im Zeitraum  Montag, 19. Oktober 2026, 23:59 Uhr bis Freitag, 23. Oktober 2026, 04:00 Uhr (Jeweils montags bis freitags von 23:59 Uhr bis 04:00 Uhr) mit Einschränkungen auf den folgender Linie zu rechnen:</p><p></p><p>S6 Wiesentalbahn ( Basel SBB - Basel Bad - Lörrach - Zell i. Wiesental)</p><p></p><p>Betroffene Stationen:  SBBS6</p><p></p><p>Bitte prüfen Sie Ihre Verbindung vor Fahrtantritt auf Änderungen und rechnen Sie mit Reisezeitverlängerung. Bitte beachten Sie die Fahrpläne des Ersatzverkehrs.</p>",
-      "durationBegin": "19.10.2026",
+      "headline": "Die Strecke zwischen Alzey und Monsheim ist im Moment gesperrt.",
+      "summary": "Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Alzey &lt;&gt; Monsheim</p><p>🕜<strong>Dauer der Störung bis vsl. 12:00 Uhr</strong></p><p>🚉 <strong>Betroffene Linie:</strong></p><ul><li>RB35 - Worms &lt;&gt; Alzey &lt;&gt; Bingen </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge aus Richtung Worms enden und beginnen in Monsheim. Aus Richtung Bingen Stadt enden und beginnen die Züge in Alzey. Die Züge fallen zwischen Alzey und Monsheim aus</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit 4 Bussen ist zwischen Alzey und Monsheim eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "23.10.2026",
       "durationEnd": "23.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/bda7605d-f9f3-49f0-b3b2-75f3c3861027",
+      "mapHref": "https://karte.bahn.de/detail/4c9c9a0f-5a1d-4459-bd9e-2d34b9d50d0d",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "REGIONAL"
       ],
       "states": [
-        "BW"
+        "RP"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "RB 35",
+          "filterName": "RB 35",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "19.10.2026 23:59",
+      "lastModified": "23.10.2026 07:01",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a6375cfc-0649-4236-9971-d640b5363378",
-      "magnoliaPath": "/aktuell/no_service_construction0"
+      "detailPagePath": "/service/fahrplaene/bf246dcd-f15f-4314-8183-a82d0eff5628",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section8"
+    },
+    {
+      "id": "595da47b-52b6-446b-b4df-bbc79021c021",
+      "disruptionId": "e097c691-58b5-4572-87b6-e02ef83d3cb2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 2 vom 09. Oktober bis 30. November 2026",
+      "summary": "Zwischen Markt Schwaben und Erding entfallen vom 09. Oktober, ab 21:30 Uhr, durchgehend bis 30. November, 03:30 alle S-Bahnen.",
+      "text": "<p>Es verkehren ersatzweise Busse, deren Fahrzeiten auf die Ankünfte und Abfahrten der S-Bahnen in Markt Schwaben abgestimmt sind. An Wochentagen sind die Busse während der morgendlichen Hauptverkehrszeit im 10-Minuten-Takt unterwegs, sonst fahren sie alle 20 Minuten.</p><p>‼️ NEU: <strong>Ab Montag, 26.10.2026:</strong></p><p><strong>Montag bis Freitag</strong> wird es ab <strong>Markt Schwaben</strong> folgende zusätzliche Leistungen auf dem SEV Markt Schwaben-Erding geben:</p><ul><li>Abfahrt Markt Schwaben um 4:53 Uhr, Ankunft Erding um 5:41 Uhr</li><li>Abfahrt Markt Schwaben um 5:13 Uhr, Ankunft Erding um 6:01 Uhr ‼️</li></ul><p>Bitte beachten Sie, dass wegen unterschiedlicher Bahnübergangssperrungen die Busse zwischen Ottenhofen und Erding eine Umleitung fahren und es dadurch zu&nbsp;längeren Fahrzeiten&nbsp;kommt.&nbsp;</p><p>In einigen Nächten wird wegen gleichzeitig stattfindender Bauarbeiten auf der Stammstrecke der Ersatzverkehr bis nach Ostbahnhof/Riem ausgeweitet. Bitte beachten Sie die Baustelleninformationen zur Stammstrecke.</p><p>NEU: ‼️ <strong>Verlegung Ersatzhaltestelle Altenerding: </strong>Die Ersatzhaltestellen für Altenerding werden beidseitig in die Münchner Str. (Bushaltestelle \"H-Tassilo Realschule\") verlegt. ‼️</p><p></p><p>Mit dem Abschluss der Bauarbeiten am 30.11. können die S-Bahnen wieder mit voller Geschwindigkeit verkehren und die S 2 hält wieder in St. Koloman und Aufhausen.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "09.10.2026",
+      "durationEnd": "30.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/e097c691-58b5-4572-87b6-e02ef83d3cb2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/082776bd-d95b-452d-8934-7be1f613dc71st%25C3%25B6rungskarte_20261022-133443.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/082776bd-d95b-452d-8934-7be1f613dc71st%25C3%25B6rungskarte_20261022-133443.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 13:34:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/0a9bff13-2a90-480d-8ae9-d31ee87db864S2%2BFahrplan%2BErsatzverkehr%2BOktober%2B%25282%2529.pdf",
+          "label": "S2 Fahrplan Ersatzverkehr Oktober ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/e0599f3a-3643-426c-a6a5-783de0581777Altenerding%2BH-Tassilo%2BRealschule%2B%25281%2529.pdf",
+          "label": "Altenerding H-Tassilo Realschule (1).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/3766b536-2d6d-45f2-8a52-22a38037da8dS2%2BFahrplan%2BErsatzverkehr%2BNovember%2B%25281%2529.pdf",
+          "label": "S2 Fahrplan Ersatzverkehr November ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-23/2b5a56e0-938d-4b6e-b505-eb0243bea2b9Altenerding%2BH-Tassilo%2BRealschule%2B%25281%2529.pdf",
+          "label": "Umgebungsplan Ersatzhaltestelle Altenerding H-Tassilo Realschule ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/s2",
+          "label": " S2 Bauarbeiten",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/DB-InfraGO-modernisiert-Strecke-zwischen-Markt-Schwaben-und-Erding-14014848",
+          "label": "DB InfraGO modernisiert Strecke zwischen Markt Schwaben und Erding",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://karte.bahn.de/detail/b3b00c21-5eb5-401b-9db1-1efd95cf49cd",
+          "label": "S2 Bauarbeiten MSB ↔ MER",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.10.2026 06:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/595da47b-52b6-446b-b4df-bbc79021c021",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction3"
     },
     {
       "id": "08becbe7-814a-42ef-8e7c-5f5a4d772ab5",
@@ -816,83 +904,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "64b774cd-1cf2-4ec6-ad95-b0288ffa3982",
-      "disruptionId": "b7a395d9-8c92-46cc-a401-c4dfa24df5b0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Stammstrecke Baustelleninformation Pasing ↔ Ostbahnhof/Riem/ Trudering  Nächte 21./22. und 22./23. Oktober",
-      "summary": "Wegen Oberleitungsarbeiten kommt es in den Nächten Mittwoch/Donnerstag, 21./22.10. und Donnerstag/Freitag, 22./23.10.2026 bis Freitag, 22./23.10.2026, jeweils von 23:15  bis 5 Uhr zwischen Pasing ↔ Ostbahnhof/Riem/ Trudering  zu Fahrplanänderungen mit Umleitungen und Haltausfällen .",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt.</strong></p><p><strong>S1:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung<strong> Freising/Flughafen</strong> beginnen/enden am <strong>Hauptbahnhof</strong> <strong>(oben)</strong> und fahren von/bis <strong>Moosach ohne Halt.</strong></li></ul><p><strong>S2/S5:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung<strong> Petershausen</strong> beginnen/enden am <strong>Heimeranplatz Gl.</strong> <strong>11 </strong>und fahren von/bis <strong>Obermenzing ohne Halt</strong> im <strong>30-Minuten-Takt.</strong></li><li><strong>Züge </strong>aus Richtung <strong>Ostbahnhof/Riem</strong> fahren als <strong>S5 </strong>nach <strong>Aying.</strong></li><li><strong>Züge </strong>aus Richtung <strong>Aying </strong>fahren als<strong> S2</strong> zum <strong>Ostbahnhof/Riem.</strong></li><li><strong>Zwischen Ostbahnhof/Riem und Erding besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten&nbsp;- bitte beachten Sie die gesonderten Plakate. </strong></li><li><strong>Zwischen Aying und Kreuzstraße besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten </strong><strong>&nbsp;- bitte beachten Sie die gesonderten Plakate</strong><strong>.</strong></li></ul><p></p><p><strong>S3:</strong></p><ul><li><strong>Züge </strong>fahren zwischen <strong>Holzkirchen </strong>und <strong>Mammendorf </strong>im <strong>30-Minuten-Takt.</strong></li></ul><p><strong>S4:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Geltendorf</strong> beginnen/enden in <strong>Pasing Gl. 7.</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Trudering fallen</strong> zwischen <strong>Trudering</strong> und <strong>Pasing aus.</strong></li></ul><p><strong>S6:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Ebersberg </strong>beginnen/enden am <strong>Ostbahnhof Gl. 2.</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Tutzing </strong>beginnen/enden am<strong> Hauptbahnhof (oben)</strong> und fahren von/bis <strong>Pasing ohne Halt.</strong></li></ul><p><strong>S8:</strong></p><ul><li><strong>Züge </strong>aus Richtung <strong>Herrsching </strong>fahren <strong>ab</strong> <strong>Pasing Gl. 5 ohne Halt</strong> bis <strong>Ostbahnhof Gl. 6-13 </strong>und weiter <strong>ohne Halt </strong>bis <strong>Daglfing</strong> zum <strong>Flughafen/Airport.</strong></li><li><strong>Züge</strong> aus Richtung<strong> Flughafen/Airport </strong>fahren ab <strong>Daglfing ohne Halt</strong> bis <strong>Ostbahnhof Gl. 6-13</strong> und weiter <strong>ohne Halt </strong>bis <strong>Pasing Gl. 2</strong> nach <strong>Herrsching.</strong></li></ul><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p>",
-      "durationBegin": "21.10.2026",
-      "durationEnd": "23.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/b7a395d9-8c92-46cc-a401-c4dfa24df5b0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-22/0915a380-0e4d-4aaa-a718-dede2440b111st%25C3%25B6rungskarte_20261017-072800.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-22/0915a380-0e4d-4aaa-a718-dede2440b111st%25C3%25B6rungskarte_20261017-072800.png",
-          "info": "",
-          "alt": "Störungskarte 17.10.2026 07:28:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-22/d3249353-534e-4efa-a4cc-48638f61f81fFpl%2BOL%2Beingl%2BMIT-MHAB%2BS%2B1-S%2B8%2B21-23%2BOkt%2B2026.pdf",
-          "label": "Stammstrecke Fahrplan 21-23 Okt 2026.",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.10.2026 21:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/64b774cd-1cf2-4ec6-ad95-b0288ffa3982",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction7"
-    },
-    {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
       "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "author": "S_BAHN_MUC",
@@ -908,8 +919,8 @@
       "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
@@ -930,11 +941,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.10.2026 17:39",
-      "expand": true,
+      "lastModified": "21.10.2026 12:10",
+      "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
+      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
+      "durationBegin": "15.06.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-21/bbcc5982-47dd-4fab-84e1-d676f4e62723EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
+          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
+          "label": "Korridorsanierung Obertraubling - Passau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus RE3",
+          "filterName": "Bus RE3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -971,61 +1037,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3c0d4b2-cad6-450d-af62-e52f10d041fe",
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
-    },
-    {
-      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
-      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
-      "durationBegin": "15.06.2026",
-      "durationEnd": "12.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-17/93e92c92-633e-4af7-a352-cb35cce4f039EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
-          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
-          "label": "Korridorsanierung Obertraubling - Passau",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus RE3",
-          "filterName": "Bus RE3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2026 17:52",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
@@ -1648,6 +1659,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction2"
+    },
+    {
+      "id": "922c2fd5-6c80-43b9-ab6d-cf3ff0874591",
+      "disruptionId": "c8b24081-a05c-4ee6-8628-98d17ecca97f",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "Störung auf der Strecke",
+      "summary": "Aufgrund einer Bahnübergangsstörung kommt es auf der Strecke rund um Sontheim-Brenz zu Verspätungen.",
+      "text": "<p>Aufgrund einer Störung auf der Strecke kann es derzeit zu Verspätungen kommen. Bitte informieren Sie sich vor Fahrantritt über die aktuellen Verbindungen und beachten Sie hierzu die Durchsagen und Anzeigen vor Ort.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "23.10.2026",
+      "durationEnd": "23.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/c8b24081-a05c-4ee6-8628-98d17ecca97f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.10.2026 07:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/922c2fd5-6c80-43b9-ab6d-cf3ff0874591",
+      "magnoliaPath": "/aktuell/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
