@@ -196,58 +196,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "7c71185e-6d9e-4cf3-aa4a-f6ad748737cc",
-      "disruptionId": "4d1a45f7-f145-42ce-9580-f9f29765d048",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Störung im Bereich Grunbach - Schorndorf beendet, vorübergehende Folgeabweichungen möglich",
-      "summary": "S2 können wieder regulär verkehren",
-      "text": "<p><strong>Die Störung zwischen Grunbach und Schorndorf ist behoben</strong>. Von den Auswirkungen betroffen waren die S-Bahnen der Linie S2.</p><p></p><p>Es kommt noch zu Folgeabweichungen auf der Linie S2. Bitte prüfen Sie vor Fahrtantritt Ihre Verbindung in der Reiseauskunft. Vielen Dank für Ihre Geduld.</p>",
-      "durationBegin": "24.10.2026",
-      "durationEnd": "24.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/4d1a45f7-f145-42ce-9580-f9f29765d048",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/c8dc7932-cb5c-4992-8fac-e74398ca9a34st%25C3%25B6rungskarte_20261024-144524.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/c8dc7932-cb5c-4992-8fac-e74398ca9a34st%25C3%25B6rungskarte_20261024-144524.png",
-          "info": "",
-          "alt": "Störungskarte 24.10.2026 14:45:24",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-stuttgart.de/aktuell",
-          "label": "Betriebslage der S-Bahn Stuttgart für Informationen im Detail",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.10.2026 15:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7c71185e-6d9e-4cf3-aa4a-f6ad748737cc",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle5"
-    },
-    {
       "id": "b7166840-71c3-4573-8455-0b527f4a8517",
       "disruptionId": "061565cd-f483-4892-b976-3787c35f10d3",
       "author": "S_BAHN_MUC",
@@ -310,6 +258,63 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7166840-71c3-4573-8455-0b527f4a8517",
       "magnoliaPath": "/aktuell/bayern/no_service_construction4"
+    },
+    {
+      "id": "aa92675a-712e-4697-85c0-868cb83fa900",
+      "disruptionId": "209251cb-1e2b-4430-b7ef-d9906514602e",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Störung im Bereich Renningen - Weil der Stadt/Böblingen beendet, vorübergehende Folgeabweichungen möglich",
+      "summary": "S6 und S60 können wieder regulär verkehren ",
+      "text": "<p><strong>Die Störung zwischen Renningen und Weil der Stadt/Böblingen ist behoben</strong>. Von den Auswirkungen betroffen waren die S-Bahnen der Linie S6 und S60.</p><p></p><p>Bitte prüfen Sie Ihre Fahrt online und achten Sie auf die Anzeigen und Durchsagen am Bahnsteig. Vielen Dank für Ihre Geduld.</p>",
+      "durationBegin": "24.10.2026",
+      "durationEnd": "24.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/209251cb-1e2b-4430-b7ef-d9906514602e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/e95b287f-deb5-4c58-b8ca-68731c4f929est%25C3%25B6rungskarte_20261024-172023.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/e95b287f-deb5-4c58-b8ca-68731c4f929est%25C3%25B6rungskarte_20261024-172023.png",
+          "info": "",
+          "alt": "Störungskarte 24.10.2026 17:20:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/aktuell",
+          "label": "Betriebslage der S-Bahn Stuttgart für Informationen im Detail",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2026 17:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aa92675a-712e-4697-85c0-868cb83fa900",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section17"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
