@@ -259,6 +259,50 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
+      "id": "7c1b6866-8423-4efd-aa3c-5c93bdbc7695",
+      "disruptionId": "9864fc5c-4ac8-4a4e-8f11-d8b53197d4e6",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen zwischen Gelsenkirchen und Duisburg",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Gelsenkirchen und Duisburg derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Berlin - Hannover - Hamm(Westf) - Düsseldorf / Köln</li><li>ICE-Züge der Verbindung Hamburg - Dortmund / Essen - Köln - Frankfurt(M) </li><li>IC-Züge der Verbindung Norddeich - Emden - Münster(Westf) - Düsseldorf - Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/9864fc5c-4ac8-4a4e-8f11-d8b53197d4e6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-26/1f4b2d04-fd8b-406e-aa6d-d1dd1af93743st%25C3%25B6rungskarte_20261026-034838.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-26/1f4b2d04-fd8b-406e-aa6d-d1dd1af93743st%25C3%25B6rungskarte_20261026-034838.png",
+          "info": "",
+          "alt": "Störungskarte 26.10.2026 03:48:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.10.2026 03:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7c1b6866-8423-4efd-aa3c-5c93bdbc7695",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity3"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -367,58 +411,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7166840-71c3-4573-8455-0b527f4a8517",
       "magnoliaPath": "/aktuell/bayern/no_service_construction4"
-    },
-    {
-      "id": "9b95bb0a-0713-4704-88c7-2cb96cf324b2",
-      "disruptionId": "3a76b5f8-9648-4084-ae3e-edeb25ea7f79",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "RE3: Landshut(Bay)Hbf - Plattling  ",
-      "summary": "Stellwerk bei Wörth(Isar) wieder besetzt ",
-      "text": "<p>Das Stellwerk bei Wörth(Isar) ist wieder besetzt. </p><p><strong>Der Zugverkehr zwischen Landshut(Bay)Hbf - Dingolfing wurde wieder regulär aufgenommen.</strong></p><p>Bitte rechnen Sie noch mit Folgeverspätungen.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
-      "durationBegin": "25.10.2026",
-      "durationEnd": "26.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/3a76b5f8-9648-4084-ae3e-edeb25ea7f79",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-26/3da8a291-cc11-4398-8767-4e0169835af0st%25C3%25B6rungskarte_20261026-000134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-26/3da8a291-cc11-4398-8767-4e0169835af0st%25C3%25B6rungskarte_20261026-000134.png",
-          "info": "",
-          "alt": "Störungskarte 26.10.2026 00:01:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.10.2026 00:30",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9b95bb0a-0713-4704-88c7-2cb96cf324b2",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section61"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
@@ -540,14 +532,14 @@
       },
       "headline": "S3/S5: Stark erhöhtes Fahrgastaufkommen bis  22.11.2026 ",
       "summary": "Bis 22.11. 2026 finden zwischen Hauptbahnhof und Harburg umfangreiche Gleisbauarbeiten statt. In dieser Zeit entfallen fast alle RE- und RB-Züge sowie ein Großteil der Fernverkehrszüge. Wir erwarten in dieser Zeit ein stark erhöhtes Fahrgastaufkommen auf den Linien S3 und S5. Bitte planen Sie für ihre Fahrt zwischen Hauptbahnhof und Harburg entsprechend mehr Reisezeit ein und beachten Sie die folgenden Hinweise:",
-      "text": "<p>Die S3 und S5 fahren tagsüber alle 10 Minuten. Bitte nutzen Sie den ganzen Bahnsteig zum Ein- und Aussteigen. Verteilen Sie sich nach dem Einsteigen im ganzen Zug.</p><p></p><p>Rücken Sie nach dem Einsteigen vom Türbereich in die Gänge auf, verstauen Sie Hand- und Reisegepäck unter den Sitzen und vermeiden Sie das Blockieren von freien Plätzen mit Rucksäcken und / oder Taschen. Vermeiden Sie zudem einen Aufenthalt während des Haltens im Türbereich, sodass sich die Türen wieder selbstständig schließen und der Zug zeitnah weiterfahren kann. Informationen zur Länge des nächsten einfahrenden Zuges erhalten Sie an den Anzeigern am Bahnsteig.</p><p></p><p>Die Mitnahme von Fahrgästen mit orthopädischen Hilfsmitteln und Rollstühlen sowie Kinderwagen haben bei stark ausgelasteten Zügen Vorrang. Bitte verzichten Sie auf die Mitnahme von Fahrrädern, Scootern und Bollerwagen. Das Unterbringen von Gepäck und Fahrrädern ist nicht gestattet im ersten Türbereich sowie auf den entsprechend gekennzeichneten Fluchtwegen.</p><p></p><p>Vermeiden Sie bei ihrer Fahrt ein Ein- und Ausstieg am Hauptbahnhof und weichen Sie auf alternative Stationen aus. Die Hamburger Innenstadt erreichen Sie auch über die Stationen Jungfernstieg bzw. Dammtor sowie aus Richtung Harburg über die Station Elbbrücken mit Übergang zur U4.</p><p></p><p>Bitte achten Sie auf die Ansagen und Informationen und folgen Sie den Anweisungen unsere Betriebs- und Sicherheitspersonales.</p>",
+      "text": "<p>Die S3 und S5 fahren tagsüber alle 10 Minuten. Bitte nutzen Sie den ganzen Bahnsteig zum Ein- und Aussteigen. Verteilen Sie sich nach dem Einsteigen im ganzen Zug.</p><p></p><p>Rücken Sie nach dem Einsteigen vom Türbereich in die Gänge auf, verstauen Sie Hand- und Reisegepäck unter den Sitzen und vermeiden Sie das Blockieren von freien Plätzen mit Rucksäcken und / oder Taschen. Vermeiden Sie zudem einen Aufenthalt während des Haltens im Türbereich, sodass sich die Türen wieder selbstständig schließen und der Zug zeitnah weiterfahren kann. Informationen zur Länge des nächsten einfahrenden Zuges erhalten Sie an den Anzeigern am Bahnsteig.</p><p></p><p>Die Mitnahme von Fahrgästen mit orthopädischen Hilfsmitteln und Rollstühlen sowie Kinderwagen haben bei stark ausgelasteten Zügen Vorrang. Bitte verzichten Sie auf die Mitnahme von Fahrrädern, Scootern und Bollerwagen. Das Unterbringen von Gepäck und Fahrrädern ist nicht gestattet im ersten Türbereich sowie auf den entsprechend gekennzeichneten Fluchtwegen.</p><p></p><p>Vermeiden Sie bei ihrer Fahrt ein Ein- und Ausstieg am Hauptbahnhof und weichen Sie auf alternative Stationen aus. Die Hamburger Innenstadt erreichen Sie auch über die Stationen Jungfernstieg bzw. Dammtor sowie aus Richtung Harburg über die Station Elbbrücken mit Übergang zur U4.</p><p></p><p>Zusätzlich fahren jeweils von 6 bis 20 Uhr zwischen Wilhelmsburg sowie Veddel und dem Hauptbahnhof Busse. Die Abfahrt erfolgt in Wilhelmsburg von der Haltestelle \"Inselpark\", in Veddel vom ZOB, Abfahrtsbereich D sowie am Hauptbahnhof vom ZOB und der Haltestellt am Steintordamm.</p><p></p><p>Bitte achten Sie auf die Ansagen und Informationen und folgen Sie den Anweisungen unsere Betriebs- und Sicherheitspersonales.</p>",
       "durationBegin": "26.10.2026",
       "durationEnd": "22.11.2026",
       "mapHref": "https://karte.bahn.de/detail/a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/99ef7935-0899-4232-b918-68654e1e15e9st%25C3%25B6rungskarte_20261022-135432.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/99ef7935-0899-4232-b918-68654e1e15e9st%25C3%25B6rungskarte_20261022-135432.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/bb0775d2-5037-4171-a7b8-f60855abb9bast%25C3%25B6rungskarte_20261022-135432.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/bb0775d2-5037-4171-a7b8-f60855abb9bast%25C3%25B6rungskarte_20261022-135432.png",
           "info": "",
           "alt": "Störungskarte 22.10.2026 13:54:32",
           "openInNewTab": true
@@ -573,7 +565,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.10.2026 00:01",
+      "lastModified": "26.10.2026 05:26",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
@@ -767,6 +759,48 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e0315e3b-f7c2-47f4-820c-35e3be876f3f",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_construction13"
+    },
+    {
+      "id": "38d5d029-f50f-4d0e-ba7a-bcc09763bf90",
+      "disruptionId": "aac35298-ea1e-4232-b6cb-0ff9170c6a0a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Hochwasser"
+      },
+      "headline": "Derzeit kein Halt der S3 und S5 in Elbbrücken.",
+      "summary": "Derzeit halten keine S3 und S5 in beide Richtungen in Elbbrücken. Grund: Hochwasser. Nutzen Sie alternativ die U4.",
+      "text": "<p>Die S-Bahnen fahren ohne Halt in Elbbrücken durch, durch das Hochwasser kann die Station derzeit nicht betreten werden. Die U4 fährt regulär. Von und nach Elbbrücken bitte ab bzw. bis Jungfernstieg die U4 benutzen.</p>",
+      "durationBegin": "26.10.2026",
+      "durationEnd": "26.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/aac35298-ea1e-4232-b6cb-0ff9170c6a0a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.10.2026 05:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/38d5d029-f50f-4d0e-ba7a-bcc09763bf90",
+      "magnoliaPath": "/aktuell/nord/stop_moved_weather_storm"
     },
     {
       "id": "e974e517-b2c1-4359-825e-30042010c1a4",
