@@ -305,43 +305,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "2fdc5634-aa86-48d9-b67e-17dd4e311a9b",
-      "disruptionId": "eb078af0-81d4-4ef6-a221-7372f82bfaa2",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugverkehr zw. Neu-Edingen/Friedrichsfeld und Schwetzingen eingestellt",
-      "summary": "Zugverkehr zw. Neu-Edingen/Friedrichsfeld und Schwetzingen eingestellt",
-      "text": "<p>🕜<strong>Dauer bis Betriebsschluss.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S12 - (Hockenheim) &lt;&gt; Schwetzingen &lt;&gt; Neu-Edingen/Friedrichsfeld &lt;&gt; (Heidelberg Hbf)</li></ul><p>↔️ <strong>Betroffener Abschnitt: </strong>Neu-Edingen/Friedrichsfeld &lt;&gt; Schwetzingen</p><p>❌<strong>&nbsp;Einschränkungen:</strong> Es kommt zu Fahrtausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Taxi ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "25.10.2026",
-      "durationEnd": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb078af0-81d4-4ef6-a221-7372f82bfaa2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 12",
-          "filterName": "S 12 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.10.2026 14:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2fdc5634-aa86-48d9-b67e-17dd4e311a9b",
-      "magnoliaPath": "/aktuell/mitte/impairment_other_cause"
-    },
-    {
       "id": "b7166840-71c3-4573-8455-0b527f4a8517",
       "disruptionId": "061565cd-f483-4892-b976-3787c35f10d3",
       "author": "S_BAHN_MUC",
@@ -404,6 +367,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7166840-71c3-4573-8455-0b527f4a8517",
       "magnoliaPath": "/aktuell/bayern/no_service_construction4"
+    },
+    {
+      "id": "9b95bb0a-0713-4704-88c7-2cb96cf324b2",
+      "disruptionId": "3a76b5f8-9648-4084-ae3e-edeb25ea7f79",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "RE3: Landshut(Bay)Hbf - Plattling  ",
+      "summary": "Stellwerk bei Wörth(Isar) wieder besetzt ",
+      "text": "<p>Das Stellwerk bei Wörth(Isar) ist wieder besetzt. </p><p><strong>Der Zugverkehr zwischen Landshut(Bay)Hbf - Dingolfing wurde wieder regulär aufgenommen.</strong></p><p>Bitte rechnen Sie noch mit Folgeverspätungen.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "25.10.2026",
+      "durationEnd": "26.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/3a76b5f8-9648-4084-ae3e-edeb25ea7f79",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-26/3da8a291-cc11-4398-8767-4e0169835af0st%25C3%25B6rungskarte_20261026-000134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-26/3da8a291-cc11-4398-8767-4e0169835af0st%25C3%25B6rungskarte_20261026-000134.png",
+          "info": "",
+          "alt": "Störungskarte 26.10.2026 00:01:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.10.2026 00:30",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9b95bb0a-0713-4704-88c7-2cb96cf324b2",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section61"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
@@ -516,62 +531,25 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "3e3519ac-93a8-4ed0-b005-5d06c5135e8d",
-      "disruptionId": "62184cfc-2da7-44ed-a45e-b2d6c86f7ab1",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Update: Streckensperrung zwischen Bad Friedrichshall und Bad Wimpfen aufgehoben.",
-      "summary": "Der Streckenabschnitt zwischen Bad Friedrichshall und Bad Wimpfen ist wieder freigegeben.  Der Grund war ein umgestürzter Baum auf der Strecke. Die Züge der Linie RE 10 b werden weiterhin bis Betriebsschluss zwischen Neckergmünd und Bad Friedrichshall Hbf ohne Zwischenhalt umgeleitet. Der Ersatzverkehr mit Bussen wird eingestellt. Bitte nutzen Sie das verbleibende Angebot der S-Bahnen der AVG.  Bitte prüfen Sie Ihre Reiseverbindung und achten Sie bitte auf Lautsprecherdurchsagen in den Zügen und am Bahnsteig.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 10a (Mannheim – Heidelberg – Mosbach-Neckarelz – Heilbronn)</li><li>RE 10b (Mannheim – Heidelberg – Sinsheim(Elsenz) – Heilbronn)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "25.10.2026",
-      "durationEnd": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/62184cfc-2da7-44ed-a45e-b2d6c86f7ab1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 10b",
-          "filterName": "RE 10b",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.10.2026 16:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3e3519ac-93a8-4ed0-b005-5d06c5135e8d",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section71"
-    },
-    {
-      "id": "8c45cd73-5d63-466b-82fb-3c85c6ed98d9",
-      "disruptionId": "31ef7da8-1ba0-4aad-8c86-cc168a0b7274",
+      "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
+      "disruptionId": "a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "author": "S_BAHN_HH",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "S3/S5: Significantly increased ridership from October 26 to November 22, 2026 ",
-      "summary": "From October 26 to November 22, 2026, extensive track construction work will take place between the Central Station and Harburg. During this time, nearly all RE and RB trains, as well as the majority of long-distance trains, will be canceled. We expect a significant increase in ridership on the S3 and S5 lines during this time. Please allow extra travel time for your trip between the Central Station and Harburg and note the following information:",
-      "text": "<p>The S3 and S5 run every 10 minutes during the day. Please use the entire platform when boarding and exiting. After boarding, please spread out throughout the train.</p><p></p><p>After boarding, move from the door area into the aisles, stow your carry-on and checked luggage under the seats and avoid blocking empty seats with backpacks and/or bags. Also,please avoid standing near the doors while the train is stopped so that the doors can close automatically and the train can depart promptly. Information on the arrival time of the next train is displayed on the platform screens.</p><p></p><p>Passengers with orthopedic aids, wheelchairs, and strollers have priority on heavily crowded trains. Please refrain from bringing bicycles, scooters, and handcarts. Storing luggage and bicycles is not permitted in the first door area or on the appropriately marked emergency exits.</p><p></p><p>During your trip, please avoid boarding or exiting at the Central Station and use alternative stations instead. You can also reach downtown Hamburg via the Jungfernstieg or Dammtor stations, or from the direction of Harburg via the Elbbrücken station with a transfer to the U4.</p><p></p><p>Please pay attention to announcements and information, and follow the instructions of our operations and security staff.</p>",
-      "durationBegin": "22.10.2026",
-      "durationEnd": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/31ef7da8-1ba0-4aad-8c86-cc168a0b7274",
+      "headline": "S3/S5: Stark erhöhtes Fahrgastaufkommen bis  22.11.2026 ",
+      "summary": "Bis 22.11. 2026 finden zwischen Hauptbahnhof und Harburg umfangreiche Gleisbauarbeiten statt. In dieser Zeit entfallen fast alle RE- und RB-Züge sowie ein Großteil der Fernverkehrszüge. Wir erwarten in dieser Zeit ein stark erhöhtes Fahrgastaufkommen auf den Linien S3 und S5. Bitte planen Sie für ihre Fahrt zwischen Hauptbahnhof und Harburg entsprechend mehr Reisezeit ein und beachten Sie die folgenden Hinweise:",
+      "text": "<p>Die S3 und S5 fahren tagsüber alle 10 Minuten. Bitte nutzen Sie den ganzen Bahnsteig zum Ein- und Aussteigen. Verteilen Sie sich nach dem Einsteigen im ganzen Zug.</p><p></p><p>Rücken Sie nach dem Einsteigen vom Türbereich in die Gänge auf, verstauen Sie Hand- und Reisegepäck unter den Sitzen und vermeiden Sie das Blockieren von freien Plätzen mit Rucksäcken und / oder Taschen. Vermeiden Sie zudem einen Aufenthalt während des Haltens im Türbereich, sodass sich die Türen wieder selbstständig schließen und der Zug zeitnah weiterfahren kann. Informationen zur Länge des nächsten einfahrenden Zuges erhalten Sie an den Anzeigern am Bahnsteig.</p><p></p><p>Die Mitnahme von Fahrgästen mit orthopädischen Hilfsmitteln und Rollstühlen sowie Kinderwagen haben bei stark ausgelasteten Zügen Vorrang. Bitte verzichten Sie auf die Mitnahme von Fahrrädern, Scootern und Bollerwagen. Das Unterbringen von Gepäck und Fahrrädern ist nicht gestattet im ersten Türbereich sowie auf den entsprechend gekennzeichneten Fluchtwegen.</p><p></p><p>Vermeiden Sie bei ihrer Fahrt ein Ein- und Ausstieg am Hauptbahnhof und weichen Sie auf alternative Stationen aus. Die Hamburger Innenstadt erreichen Sie auch über die Stationen Jungfernstieg bzw. Dammtor sowie aus Richtung Harburg über die Station Elbbrücken mit Übergang zur U4.</p><p></p><p>Bitte achten Sie auf die Ansagen und Informationen und folgen Sie den Anweisungen unsere Betriebs- und Sicherheitspersonales.</p>",
+      "durationBegin": "26.10.2026",
+      "durationEnd": "22.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/0d52cc95-22d6-4b74-9be2-684442b29494st%25C3%25B6rungskarte_20261022-123038.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/0d52cc95-22d6-4b74-9be2-684442b29494st%25C3%25B6rungskarte_20261022-123038.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/99ef7935-0899-4232-b918-68654e1e15e9st%25C3%25B6rungskarte_20261022-135432.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/99ef7935-0899-4232-b918-68654e1e15e9st%25C3%25B6rungskarte_20261022-135432.png",
           "info": "",
-          "alt": "Störungskarte 22.10.2026 12:30:38",
+          "alt": "Störungskarte 22.10.2026 13:54:32",
           "openInNewTab": true
         }
       ],
@@ -595,12 +573,11 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.10.2026 12:31",
+      "lastModified": "26.10.2026 00:01",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8c45cd73-5d63-466b-82fb-3c85c6ed98d9",
-      "magnoliaPath": "/aktuell/nord/impairment_construction4"
+      "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
+      "magnoliaPath": "/aktuell/nord/impairment_construction5"
     },
     {
       "id": "c1a9c7cb-df4b-4107-976d-b5a35efeb67e",
@@ -1130,63 +1107,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction6"
-    },
-    {
-      "id": "050b5ef3-e22b-4821-b043-e0fb8b8e78eb",
-      "disruptionId": "7ff286b1-d7c6-4642-a8e1-14f866965e11",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Nordhausen ⇄ Erfurt Hbf - Ersatzverkehr",
-      "summary": "Der Streckenabschnitt von Nordhausen bis Erfurt Hbf ist im angegebenen Zeitraum beeinträchtigt. Dauer der Sperrung vom 23.10.2026, 16:14 Uhr bis 25.10.2026 , 23:59 Uhr. Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE55/RE 56 Erfurt - Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Am 23.10.2026 entfallen alle Leistungen der Linien RE 55 und RE 56 ab dem Fahrtenpaar 16579/16562 zwischen Wasserthaleben und Straußfurt; im Zeitraum 24. – 25.10.2026 schon ab dem Fahrtenpaar 16561/16578. Der Ersatzverkehr hält an allen Unterwegsstationen und bietet jeweils Übergang auf den Folgetakt. Abends kommt es zu leicht abweichenden Regelungen:</p><p></p><p>1.\tDas Fahrtenpaar 16585/16586 entfällt zwischen Straußfurt und Greußen, mit SEV auf diesem Abschnitt.</p><p></p><p>2.\tDie Fahrt 16567 entfällt ebenfalls zwischen Wasserthaleben und Straußfurt; im Sinne einer durchgehenden Reisekette besteht jedoch SEV bis Erfurt (Parallelverkehr Zug/Bus ab Straußfurt).</p><p></p><p>3.\tDie Fahrt 16584 entfällt wegen der einsetzenden Streckenruhe im Abschnitt Erfurt – Wasserthaleben. Zwischen Wasserthaleben und Nordhausen verkehrt die Fahrt in Planlage, als Abbringer für die Leistung 16566. Wegen des verlängerten Ausfallabschnitts und des fehlenden Abbringers wird diese Fahrt zwischen Erfurt und Nordhausen durch einen Bus ersetzt, mit allen Unterwegshalten. Hier kommt abweichend ein Kleinbus mit 19 Sitzplätzen zum Einsatz. Im Abschnitt Wasserthaleben – Nordhausen besteht demnach auch hier Parallelverkehr Zug/Bus.</p><p></p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte beachten Sie die Fahrpläne des Ersatzverkehrs.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "23.10.2026",
-      "durationEnd": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/7ff286b1-d7c6-4642-a8e1-14f866965e11",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-23/66a67c77-2992-48a4-9196-26b1dd946b25st%25C3%25B6rungskarte_20261022-123040.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-23/66a67c77-2992-48a4-9196-26b1dd946b25st%25C3%25B6rungskarte_20261022-123040.png",
-          "info": "",
-          "alt": "Störungskarte 22.10.2026 12:30:40",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-23/79bf64e2-261d-464c-bba8-f2a2666df7c6Ersatzverkehr%2BNordhausen%2B-%2BErfurt%2B23.10-25.10.2016.pdf",
-          "label": "Ersatzverkehr Nordhausen - Erfurt 23.10-25.10.2016",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 56",
-          "filterName": "RE 56",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "23.10.2026 00:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/050b5ef3-e22b-4821-b043-e0fb8b8e78eb",
-      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section2"
     },
     {
       "id": "bb6a2527-f2e0-416c-97a1-c7572c302839",
@@ -1873,25 +1793,25 @@
       "magnoliaPath": "/aktuell/nrw/other_effect_construction0"
     },
     {
-      "id": "246135ff-86ae-47a0-bd4d-25130bef3749",
-      "disruptionId": "aeb3dcd4-8d19-45d7-b214-600588f488a3",
+      "id": "d933aa47-be9c-43a7-bc78-aac594239c82",
+      "disruptionId": "dc3a4b66-99fa-49f7-b0c0-a1221cc7b83e",
       "author": "S_BAHN_HH",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "S3/S5: Stark erhöhtes Fahrgastaufkommen vom 26.10. bis  22.11.2026 ",
-      "summary": "Vom 26.10. bis 22.11. 2026 finden zwischen Hauptbahnhof und Harburg umfangreiche Gleisbauarbeiten statt. In dieser Zeit entfallen fast alle RE- und RB-Züge sowie ein Großteil der Fernverkehrszüge. Wir erwarten in dieser Zeit ein stark erhöhtes Fahrgastaufkommen auf den Linien S3 und S5. Bitte planen Sie für ihre Fahrt zwischen Hauptbahnhof und Harburg entsprechend mehr Reisezeit ein und beachten Sie die folgenden Hinweise:",
-      "text": "<p>Die S3 und S5 fahren tagsüber alle 10 Minuten. Bitte nutzen Sie den ganzen Bahnsteig zum Ein- und Aussteigen. Verteilen Sie sich nach dem Einsteigen im ganzen Zug.</p><p></p><p>Rücken Sie nach dem Einsteigen vom Türbereich in die Gänge auf, verstauen Sie Hand- und Reisegepäck unter den Sitzen und vermeiden Sie das Blockieren von freien Plätzen mit Rucksäcken und / oder Taschen. Vermeiden Sie zudem einen Aufenthalt während des Haltens im Türbereich, sodass sich die Türen wieder selbstständig schließen und der Zug zeitnah weiterfahren kann. Informationen zur Länge des nächsten einfahrenden Zuges erhalten Sie an den Anzeigern am Bahnsteig.</p><p></p><p>Die Mitnahme von Fahrgästen mit orthopädischen Hilfsmitteln und Rollstühlen sowie Kinderwagen haben bei stark ausgelasteten Zügen Vorrang. Bitte verzichten Sie auf die Mitnahme von Fahrrädern, Scootern und Bollerwagen. Das Unterbringen von Gepäck und Fahrrädern ist nicht gestattet im ersten Türbereich sowie auf den entsprechend gekennzeichneten Fluchtwegen.</p><p></p><p>Vermeiden Sie bei ihrer Fahrt ein Ein- und Ausstieg am Hauptbahnhof und weichen Sie auf alternative Stationen aus. Die Hamburger Innenstadt erreichen Sie auch über die Stationen Jungfernstieg bzw. Dammtor sowie aus Richtung Harburg über die Station Elbbrücken mit Übergang zur U4.</p><p></p><p>Bitte achten Sie auf die Ansagen und Informationen und folgen Sie den Anweisungen unsere Betriebs- und Sicherheitspersonales.</p>",
-      "durationBegin": "22.10.2026",
-      "durationEnd": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/aeb3dcd4-8d19-45d7-b214-600588f488a3",
+      "headline": "S3/S5: Significantly increased ridership until November 22, 2026 ",
+      "summary": "Until November 22, 2026, extensive track construction work will take place between the Central Station and Harburg. During this time, nearly all RE and RB trains, as well as the majority of long-distance trains, will be canceled. We expect a significant increase in ridership on the S3 and S5 lines during this time. Please allow extra travel time for your trip between the Central Station and Harburg and note the following information:",
+      "text": "<p>The S3 and S5 run every 10 minutes during the day. Please use the entire platform when boarding and exiting. After boarding, please spread out throughout the train.</p><p></p><p>After boarding, move from the door area into the aisles, stow your carry-on and checked luggage under the seats and avoid blocking empty seats with backpacks and/or bags. Also,please avoid standing near the doors while the train is stopped so that the doors can close automatically and the train can depart promptly. Information on the arrival time of the next train is displayed on the platform screens.</p><p></p><p>Passengers with orthopedic aids, wheelchairs, and strollers have priority on heavily crowded trains. Please refrain from bringing bicycles, scooters, and handcarts. Storing luggage and bicycles is not permitted in the first door area or on the appropriately marked emergency exits.</p><p></p><p>During your trip, please avoid boarding or exiting at the Central Station and use alternative stations instead. You can also reach downtown Hamburg via the Jungfernstieg or Dammtor stations, or from the direction of Harburg via the Elbbrücken station with a transfer to the U4.</p><p></p><p>Please pay attention to announcements and information, and follow the instructions of our operations and security staff.</p>",
+      "durationBegin": "26.10.2026",
+      "durationEnd": "22.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/dc3a4b66-99fa-49f7-b0c0-a1221cc7b83e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/e181c6cc-5f82-4d48-b295-f3f5911af119st%25C3%25B6rungskarte_20261022-120956.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/e181c6cc-5f82-4d48-b295-f3f5911af119st%25C3%25B6rungskarte_20261022-120956.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/237ad697-f7ff-4d99-a631-eae4a5c09516st%25C3%25B6rungskarte_20261022-140012.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-26/237ad697-f7ff-4d99-a631-eae4a5c09516st%25C3%25B6rungskarte_20261022-140012.png",
           "info": "",
-          "alt": "Störungskarte 22.10.2026 12:09:56",
+          "alt": "Störungskarte 22.10.2026 14:00:12",
           "openInNewTab": true
         }
       ],
@@ -1915,12 +1835,11 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.10.2026 14:16",
+      "lastModified": "26.10.2026 00:01",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/246135ff-86ae-47a0-bd4d-25130bef3749",
-      "magnoliaPath": "/aktuell/nord/unknown_effect_construction"
+      "detailPagePath": "/service/fahrplaene/d933aa47-be9c-43a7-bc78-aac594239c82",
+      "magnoliaPath": "/aktuell/nord/unknown_effect_construction0"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
