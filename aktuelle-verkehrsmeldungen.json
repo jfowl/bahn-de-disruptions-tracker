@@ -68,24 +68,24 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "2787d444-0cd2-4461-91a0-df3f0a11ca8c",
-      "disruptionId": "47443a01-08ad-4c0f-99c7-3f2dc200d145",
+      "id": "ed68a4a1-cab1-4ee2-860f-f9eb5fb725d3",
+      "disruptionId": "a1e7862e-f648-4dee-abdc-bf83c45bb09f",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Beeinträchtigungen aufgrund Unwetterauswirkungen zwischen Recklinghausen und Münster(Westf)",
-      "summary": "Aktuell kommt es zwischen Recklinghausen und Münster(Westf) aufgrund von Unwetterfolgen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge erhalten eine Verspätung von ca. 15 Minuten und der Halt Recklinghausen entfällt. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Berlin - Hamburg - Osnabrück - Emmerich - Amsterdam</li><li>ICE-Züge der Verbindung Hamburg - Köln - Frankfurt(M) - Passau / München</li><li>IC-Züge der Verbindung Norddeich - Emden - Münster(Westf) - Düsseldorf - Köln</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative: Reisende von und nach Recklinghausen nutzen bitte die RE und S-Bahnen des Nahverkehrs über Münster(Westf) bzw. Gelsenkirchen</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/47443a01-08ad-4c0f-99c7-3f2dc200d145",
+      "headline": "Entschärfung einer Weltkriegsbombe zwischen Hamburg und Berlin",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe bei Schwarzenbek kommt zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Hamburg und Berlin müssen entfallen</li><li>Alle ICE-Züge zwischen Hamburg und Rostock müssen entfallen</li><li>Alle ICE-Züge der Verbindung Berlin - Hamburg - Amsterdam werden zwischen Berlin und Osnabrück über Hannover umgeleitet. Die Halte in Hamburg-Bergedorf und Hamburg-Harburg entfallen. Ersatzweise halten die Züge in Hannover Hbf.</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen: </strong></p><p>Reisende <strong>zwischen Hamburg und Berlin</strong> nutzen bitte die verbleibenden Verbindungen mit Umstieg in Hannover Hbf.</p><p>Reisende <strong>zwischen Berlin und Ludwigslust </strong>nutzen bitte die Züge des Regionalerkehrs.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/a1e7862e-f648-4dee-abdc-bf83c45bb09f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-25/66f8595f-55f0-4fb4-b350-9c577bc19c15st%25C3%25B6rungskarte_20261025-031509.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-25/66f8595f-55f0-4fb4-b350-9c577bc19c15st%25C3%25B6rungskarte_20261025-031509.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/f1ea161b-70fa-4a4f-901b-fb566c5095f7st%25C3%25B6rungskarte_20261027-101947.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/f1ea161b-70fa-4a4f-901b-fb566c5095f7st%25C3%25B6rungskarte_20261027-101947.png",
           "info": "",
-          "alt": "Störungskarte 25.10.2026 03:15:09",
+          "alt": "Störungskarte 27.10.2026 10:19:47",
           "openInNewTab": true
         }
       ],
@@ -95,11 +95,11 @@
         "LONG_DISTANCE"
       ],
       "states": [
+        "BB",
         "HH",
-        "NW",
-        "NI",
-        "HE",
-        "RP"
+        "BE",
+        "MV",
+        "NI"
       ],
       "lines": [
         {
@@ -108,11 +108,58 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "25.10.2026 19:45",
+      "lastModified": "27.10.2026 10:21",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/2787d444-0cd2-4461-91a0-df3f0a11ca8c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_weather_storm0"
+      "detailPagePath": "/service/fahrplaene/ed68a4a1-cab1-4ee2-860f-f9eb5fb725d3",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_police_activity1"
+    },
+    {
+      "id": "57696b0d-5d79-4808-80da-8ba2f996fecd",
+      "disruptionId": "d9576bdf-3f93-413f-912c-d7bf5bbaac4c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Rostock / Berlin und Binz (Rügen)",
+      "summary": "Aufgrund einer Oberleitungsstörung sind im Bahnhof Stralsund derzeit keine Zugfahrten möglich. Dadurch kommt es zu Umleitungen sowie Teilausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin - Stralsund - Binz</li><li>Hamburg - Rostock - Stralsund - Binz</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/d9576bdf-3f93-413f-912c-d7bf5bbaac4c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/43af5aec-5aa9-4956-8806-e2bb32e22eedst%25C3%25B6rungskarte_20261027-132152.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/43af5aec-5aa9-4956-8806-e2bb32e22eedst%25C3%25B6rungskarte_20261027-132152.png",
+          "info": "",
+          "alt": "Störungskarte 27.10.2026 13:21:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "BE",
+        "MV",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.10.2026 13:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/57696b0d-5d79-4808-80da-8ba2f996fecd",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section12"
     },
     {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
@@ -305,6 +352,70 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "a854a05f-7713-46ab-a875-4faeda5f20d7",
+      "disruptionId": "ccbef5c7-a061-4bb2-8745-11bb256c6ad2",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) RB25, RE3, RE30, RE5 und RE51 - Stralsund Hbf",
+      "summary": " Dienstag, 27.10.2026 10:41 Uhr bis vsl. Dienstag, 27.10.2026 vsl. 18:00 Uhr ",
+      "text": "<p>Aufgrund einer Oberleitungsstörung kommt es zu massiven Einschränkungen im Raum Stralsund Hbf</p><p></p><p>RE3 Stralsund - Greifswald/Schwedt(Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg </p><p>Die Züge enden und beginnen in Stralsund Rügendamm, nutzen Sie bitte den ÖPNV Bus 1 oder Bus 30 </p><p>RE5 Rostock/Stralsund – Neustrelitz – Berlin </p><p>Die Züge enden und beginnen in Demmin/Grimmen, ein Busnotverkehr wurde eingerichtet </p><p>RE51 Stralsund - Neustrelitz </p><p>Die Züge enden und beginnen in Neubrandenburg, ein Busnotverkehr wurde eingerichtet </p><p>RB25 Barth – Velgast – Stralsund </p><p>Die Züge enden und beginnen in Martensdorf, nutzen Sie bitte den ÖPNV Rufbus 712 oder den Bus 308 </p><p>RE30 Stralsund - Greifswald - Pasewalk - Angermünde </p><p>Die Züge enden und beginnen in Stralsund Rügendamm, nutzen Sie bitte den ÖPNV Bus 1 oder Bus 30</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "27.10.2026",
+      "durationEnd": "27.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/ccbef5c7-a061-4bb2-8745-11bb256c6ad2",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 25",
+          "filterName": "RB 25",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 51",
+          "filterName": "RE 51",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.10.2026 11:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a854a05f-7713-46ab-a875-4faeda5f20d7",
+      "magnoliaPath": "/aktuell/nordost/no_service_technical_problem_railway_section13"
+    },
+    {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
       "disruptionId": "7f2cf13d-f7f2-4d14-9120-91ab92272a1d",
       "author": "DEUTSCHE_BAHN",
@@ -430,8 +541,8 @@
       "mapHref": "https://karte.bahn.de/detail/a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/df51e00e-e91f-4000-833a-6599513a3ce8st%25C3%25B6rungskarte_20261022-135432.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/df51e00e-e91f-4000-833a-6599513a3ce8st%25C3%25B6rungskarte_20261022-135432.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/21455e06-0114-4775-b92a-28adb08536e3st%25C3%25B6rungskarte_20261022-135432.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/21455e06-0114-4775-b92a-28adb08536e3st%25C3%25B6rungskarte_20261022-135432.png",
           "info": "",
           "alt": "Störungskarte 22.10.2026 13:54:32",
           "openInNewTab": true
@@ -457,7 +568,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.10.2026 06:05",
+      "lastModified": "27.10.2026 08:48",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
@@ -589,51 +700,6 @@
       "magnoliaPath": "/aktuell/impairment_construction0"
     },
     {
-      "id": "16988ad5-9c2f-4f51-99d4-f81957eecfaf",
-      "disruptionId": "39c89d41-a72e-46f4-b834-38aca7235f48",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt am Zug"
-      },
-      "headline": "S 20 Pasing - Höllriegelskreuth: Technische Störung an einem Zug",
-      "summary": "Heute Vormittag entfallen folgende Fahrten der S 20:",
-      "text": "<p><strong>S 20 Pasing → Höllriegelskreuth</strong></p><ul><li>Abfahrt Pasing 05:59 Uhr → Abfahrt Siemenswerke 06:10 Uhr → Ankunft Höllriegelskreuth 06:19 Uhr</li><li>Abfahrt Pasing 07:15 Uhr → Abfahrt Siemenswerke 07:36 Uhr → Ankunft Höllriegelskreuth 07:44 Uhr</li><li>Abfahrt Pasing 08:44 Uhr → Abfahrt Siemenswerke 08:55 Uhr → Ankunft Höllriegelskreuth 09:04 Uhr</li></ul><p><strong>S 20 Höllriegelskreuth → Pasing</strong></p><ul><li>Abfahrt Höllriegelskreuth 06:49 Uhr → Abfahrt Siemenswerke 06:57 Uhr → Ankunft Pasing 07:09 Uhr</li><li>Abfahrt Höllriegelskreuth 07:55 Uhr → Abfahrt Siemenswerke 08:03 Uhr → Ankunft Pasing 08:16 Uhr</li><li>Abfahrt Höllriegelskreuth 09:55 Uhr → Abfahrt Siemenswerke 10:03 Uhr → Ankunft Pasing 10:16 Uhr</li></ul><p>Für Fahrten zwischen Donnersbergerbrücke und Höllriegelskreuth nutzen sie die die S-Bahnen der S7.</p><p>Beachten sie, dass es kurzfristig zu weiteren Ausfällen auf der S 20 kommen kann.</p><p>Grund ist ein technischer Defekt an einem Zug.</p>",
-      "durationBegin": "27.10.2026",
-      "durationEnd": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/39c89d41-a72e-46f4-b834-38aca7235f48",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-27/f5e28ff3-cbd5-4de5-b611-d52ebe349096st%25C3%25B6rungskarte_20261027-043130.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-27/f5e28ff3-cbd5-4de5-b611-d52ebe349096st%25C3%25B6rungskarte_20261027-043130.png",
-          "info": "",
-          "alt": "Störungskarte 27.10.2026 04:31:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.10.2026 04:36",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/16988ad5-9c2f-4f51-99d4-f81957eecfaf",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle4"
-    },
-    {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
       "disruptionId": "79d4ffaf-1c0a-4df1-b75f-d574e1f48585",
       "author": "REGIO_BW",
@@ -745,43 +811,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "f23cb89f-4d75-4130-875b-b2e7f7bf5bce",
-      "disruptionId": "6d609ce3-9f96-4b0a-90f8-948ebace30ac",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Technische Störung am Zug",
-      "summary": "S1: Wegen einer technischen Störung am Zug verkehrt die Verstärkerlinie der S1 zur Zeit nur zwischen Poppenbüttel und Othmarschen.",
-      "text": "<p>Zwischen Othmarschen und Blankenese besteht ein 10 Minuten Takt.</p>",
-      "durationBegin": "27.10.2026",
-      "durationEnd": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/6d609ce3-9f96-4b0a-90f8-948ebace30ac",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.10.2026 06:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f23cb89f-4d75-4130-875b-b2e7f7bf5bce",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_vehicle0"
-    },
-    {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
       "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "author": "S_BAHN_MUC",
@@ -797,8 +826,8 @@
       "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
@@ -819,11 +848,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.10.2026 17:39",
-      "expand": true,
+      "lastModified": "21.10.2026 12:10",
+      "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
+      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
+      "durationBegin": "15.06.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-21/bbcc5982-47dd-4fab-84e1-d676f4e62723EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
+          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
+          "label": "Korridorsanierung Obertraubling - Passau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus RE3",
+          "filterName": "Bus RE3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -860,61 +944,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3c0d4b2-cad6-450d-af62-e52f10d041fe",
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
-    },
-    {
-      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
-      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
-      "durationBegin": "15.06.2026",
-      "durationEnd": "12.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-17/93e92c92-633e-4af7-a352-cb35cce4f039EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
-          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
-          "label": "Korridorsanierung Obertraubling - Passau",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus RE3",
-          "filterName": "Bus RE3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2026 17:52",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
@@ -966,75 +995,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction6"
-    },
-    {
-      "id": "bb6a2527-f2e0-416c-97a1-c7572c302839",
-      "disruptionId": "b9b353b2-9c2c-4a06-a0ef-6ecb5558afa2",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Ulm Hbf ⇄ Blaubeuren:                                                              \nZugausfälle und Ersatzverkehr mit Bus",
-      "summary": "📅 Freitag, 04. Dezember 2026, 23:30 Uhr bis Samstag, 05. Dezember 2026, 06:00 Uhr",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 55</li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong> Ulm Hbf ⇄ Blaubeuren</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Blaubeuren Bahnhof, Gerhausen Hauptstraße, Herrlingen Bahnhof Bussteig 3, Blaustein ZOB, Ulm Söflingen Jägerstraße, Ulm Hbf/ZOB Bussteig</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong></p><p><strong>Grund der Bauarbeiten: </strong>Schienenerneuerung</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p><p>*66709</p>",
-      "durationBegin": "04.12.2026",
-      "durationEnd": "05.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/b9b353b2-9c2c-4a06-a0ef-6ecb5558afa2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/6a112dec-69ce-4aa0-86ff-2945e1a0717fst%25C3%25B6rungskarte_20261022-081708.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/6a112dec-69ce-4aa0-86ff-2945e1a0717fst%25C3%25B6rungskarte_20261022-081708.png",
-          "info": "",
-          "alt": "Störungskarte 22.10.2026 08:17:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/33a9c272-a09b-4acc-ab26-a06f7a009878%25F0%259F%259A%258C%2B%2BBus%2B-%2BErsatzfahrplan.pdf",
-          "label": "🚌  Bus - Ersatzfahrplan",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 55",
-          "filterName": "RB 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.10.2026 13:28",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/bb6a2527-f2e0-416c-97a1-c7572c302839",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction7"
     },
     {
       "id": "36490717-c2af-48b7-b96e-d2143c8f830e",
