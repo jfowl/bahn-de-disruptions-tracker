@@ -260,50 +260,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
-      "id": "7a37f2da-ad65-406c-93b8-a4dc0c3b061d",
-      "disruptionId": "cbf5459d-373b-40f8-8f7c-d1fb93314899",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt Flughafen und Köln ",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Frankfurt Flughafen und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge fallen aus oder werden umgeleitet und verspäten sich dadurch um etwa 90 Minuten",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE LInie Dortmund - Köln - Frankfurt/ Flughafen - Frankfurt Hbf - München </li><li>ICE Linie Hamburg - Ruhrgebiet - Köln - Frankfurt Flughafen - Mannheim - München / Basel</li><li>ICE Linie Köln - Frankfurt</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/cbf5459d-373b-40f8-8f7c-d1fb93314899",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-30/6c1fa7b8-43b3-4763-a927-2ff5516929adst%25C3%25B6rungskarte_20261030-193847.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-30/6c1fa7b8-43b3-4763-a927-2ff5516929adst%25C3%25B6rungskarte_20261030-193847.png",
-          "info": "",
-          "alt": "Störungskarte 30.10.2026 19:38:47",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.10.2026 19:41",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7a37f2da-ad65-406c-93b8-a4dc0c3b061d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section28"
-    },
-    {
       "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "disruptionId": "a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "author": "S_BAHN_HH",
@@ -400,6 +356,58 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "ae1878bb-3a7d-4c86-8fc9-04ae78b122b8",
+      "disruptionId": "e785f711-4586-46fd-8bd6-01a6d7146109",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB61: Roth - Hilpoltstein",
+      "summary": "Reparatur an der Strecke beendet / Streckensperrung aufgehoben / Ersatzverkehr endet ",
+      "text": "<p>Die <strong>Streckensperrung zwischen Roth - Hilpoltstein wurde aufgehoben </strong>und der Zugverkehr wird ab 7.00 Uhr wieder durchgehend aufgenommen.</p><p>Bitte rechnen Sie noch mit Folgeverspätungen.</p><p>Der Ersatzverkehr endet in Kürze!</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "30.10.2026",
+      "durationEnd": "31.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/e785f711-4586-46fd-8bd6-01a6d7146109",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-31/0820fd46-a075-4742-9f2c-736475013010st%25C3%25B6rungskarte_20261029-232701.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-31/0820fd46-a075-4742-9f2c-736475013010st%25C3%25B6rungskarte_20261029-232701.png",
+          "info": "",
+          "alt": "Störungskarte 29.10.2026 23:27:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 61",
+          "filterName": "RB 61 Nürnberg",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "31.10.2026 03:44",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ae1878bb-3a7d-4c86-8fc9-04ae78b122b8",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section91"
+    },
+    {
       "id": "2977e0b9-dd65-4248-95a9-8b6ab533d318",
       "disruptionId": "4d53e78b-3344-4aa2-91b2-bc65e003bb20",
       "author": "DEUTSCHE_BAHN",
@@ -435,6 +443,49 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/2977e0b9-dd65-4248-95a9-8b6ab533d318",
       "magnoliaPath": "/aktuell/no_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "8d146148-76a6-4cf7-a09c-5dd56b8f859c",
+      "disruptionId": "fc1310c6-8beb-422d-81be-59ec1713891f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Duisburg und Essen",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen  Duisburg und Essen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von 10 bis 30 Min. Die Halte  Duisburg Hbf, Essen Hbf und Bochum Hbf können entfallen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge von Duisburg nach Essen.</li><li>ICE-Züge von Essen nach Duisburg sind nicht betroffen.</li><li>Die ICE und NJ-Züge nach Amsterdam sind von der Umleitung nicht betroffen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/fc1310c6-8beb-422d-81be-59ec1713891f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-31/0f34b363-75cd-46a8-b7d0-d919091a10f7st%25C3%25B6rungskarte_20261031-043507.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-31/0f34b363-75cd-46a8-b7d0-d919091a10f7st%25C3%25B6rungskarte_20261031-043507.png",
+          "info": "",
+          "alt": "Störungskarte 31.10.2026 04:35:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.10.2026 04:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8d146148-76a6-4cf7-a09c-5dd56b8f859c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section16"
     },
     {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
@@ -958,6 +1009,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3c0d4b2-cad6-450d-af62-e52f10d041fe",
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
+    },
+    {
+      "id": "ea53e601-59c3-400f-90c6-f3b3d3fcec26",
+      "disruptionId": "a647240e-1647-4ec9-8564-0c115bb9380a",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigung im Raum Zielitz  - Ersatzverkehr",
+      "summary": "Die Linien S1 und RE 20 sind im Raum Zielitz im Moment beeinträchtigt. Dauer der Beeinträchtigung am 31. Oktober 2026, in der Zeit von 2.00 Uhr bis 6.00 Uhr sowie von 18.00 Uhr bis 21.00 Uhr ",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li></li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein kurzfristiger Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es zu Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "31.10.2026",
+      "durationEnd": "31.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/a647240e-1647-4ec9-8564-0c115bb9380a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.10.2026 05:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ea53e601-59c3-400f-90c6-f3b3d3fcec26",
+      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section4"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
