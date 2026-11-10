@@ -329,44 +329,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
-      "id": "2ed04376-4b84-4091-8097-b0b6af968b79",
-      "disruptionId": "a4b38f0f-124a-440c-b46a-d244af6b3c42",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Sperrung aufgehoben, S1 fährt wieder zw. Ohlsdorf u. Poppenbüttel",
-      "summary": "Die Sperrung wurde aufgehoben, die S1 fährt wieder zwischen Ohlsdorf und Poppenbüttel. Es müssen keine anderen Verkehrsmittel mehr genutzt werden.",
-      "text": "<p></p><p></p>",
-      "durationBegin": "09.11.2026",
-      "durationEnd": "09.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/a4b38f0f-124a-440c-b46a-d244af6b3c42",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.11.2026 17:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2ed04376-4b84-4091-8097-b0b6af968b79",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "disruptionId": "a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "author": "S_BAHN_HH",
@@ -648,6 +610,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "b30e435f-2769-496b-8436-d66503a0e1bd",
+      "disruptionId": "43689a6c-86db-4490-b02a-32c025584f12",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Störung Infrastruktur",
+      "summary": "es kommt zu verspätungen und teilausfällen",
+      "text": "bitte prüfen sie ihre verbindung",
+      "durationBegin": "09.11.2026",
+      "durationEnd": "11.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/43689a6c-86db-4490-b02a-32c025584f12",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.11.2026 20:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b30e435f-2769-496b-8436-d66503a0e1bd",
+      "magnoliaPath": "/aktuell/reduced_service_construction"
     },
     {
       "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
