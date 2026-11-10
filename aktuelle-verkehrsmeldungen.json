@@ -194,9 +194,9 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Heimfeld =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Buxtehude Aufzug A (Personenunterführung &lt;-&gt; Bahnsteig S5, RE5 Ri. Stade/Cuxhaven - Gleis 1)</p><p></p><p>❌ Landungsbrücken</p><p></p><p>❌ Alte Wöhr (Stadtpark)</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Heimfeld =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Buxtehude Aufzug A (Personenunterführung &lt;-&gt; Bahnsteig S5, RE5 Ri. Stade/Cuxhaven - Gleis 1) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
-      "durationEnd": "13.11.2026",
+      "durationEnd": "20.11.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "images": [],
       "downloads": [],
@@ -225,13 +225,18 @@
       ],
       "lines": [
         {
-          "name": "Bus S5EV",
-          "filterName": "Bus S5EV Hamburg",
+          "name": "Bus S1EV",
+          "filterName": "Bus S1EV Hamburg",
           "property": "REGIONAL"
         },
         {
-          "name": "Bus S7EV",
-          "filterName": "Bus S7EV Hamburg",
+          "name": "Bus S2EV",
+          "filterName": "Bus S2EV Hamburg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus S5EV",
+          "filterName": "Bus S5EV Hamburg",
           "property": "REGIONAL"
         },
         {
@@ -260,7 +265,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.11.2026 14:43",
+      "lastModified": "10.11.2026 12:29",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
@@ -612,174 +617,39 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "e98913bf-10e4-4231-a443-423ed08a4613",
-      "disruptionId": "85a3f464-6123-49bc-8301-c6790e3c3434",
-      "author": "S_BAHN_MUC",
+      "id": "94fc79ef-8093-4dda-8cf1-31ed60bd2bb4",
+      "disruptionId": "f4df42e7-87a2-49eb-a44e-fbe414127165",
+      "author": "DEUTSCHE_BAHN",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "S1, S8 Flughafen Terminal: Polizeieinsatz",
-      "summary": "Die S1 und die S8 können im Bereich Flughafen  wieder ohne Geschwindigkeitsreduzierung fahren.",
-      "text": "<p>Es kommt jedoch noch zu Folgeverspätungen von bis zu 10 Minuten.</p><p>Der Polizeieinsatz ist beendet.</p>",
+      "headline": "Streckensperrung ",
+      "summary": "-",
+      "text": "-",
       "durationBegin": "10.11.2026",
-      "durationEnd": "10.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/85a3f464-6123-49bc-8301-c6790e3c3434",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/27cb1119-dac6-45fb-bf88-1799ea1d9ebcst%25C3%25B6rungskarte_20261110-072826.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/27cb1119-dac6-45fb-bf88-1799ea1d9ebcst%25C3%25B6rungskarte_20261110-072826.png",
-          "info": "",
-          "alt": "Störungskarte 10.11.2026 07:28:26",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/f4df42e7-87a2-49eb-a44e-fbe414127165",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
+          "name": "Bus S5",
+          "filterName": "Bus S5",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.11.2026 07:58",
-      "expand": true,
+      "lastModified": "10.11.2026 14:24",
+      "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e98913bf-10e4-4231-a443-423ed08a4613",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
-    },
-    {
-      "id": "4d382d16-f85b-4d17-ae46-7e9eb958d352",
-      "disruptionId": "1f8e89ae-eb0a-4b0f-b3d0-5b3d1d4e125d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing noch zu Folgeverspätungen von 15 bis zu 20 Minuten, sowie zu Teilausfällen.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
-      "durationBegin": "10.11.2026",
-      "durationEnd": "10.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/1f8e89ae-eb0a-4b0f-b3d0-5b3d1d4e125d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/d11dcee6-c4da-4c90-95ba-57696d78df5ast%25C3%25B6rungskarte_20261110-073756.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/d11dcee6-c4da-4c90-95ba-57696d78df5ast%25C3%25B6rungskarte_20261110-073756.png",
-          "info": "",
-          "alt": "Störungskarte 10.11.2026 07:37:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.11.2026 07:50",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4d382d16-f85b-4d17-ae46-7e9eb958d352",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
-    },
-    {
-      "id": "b69e2ad8-7b2d-496c-a6a8-1c43a53573b2",
-      "disruptionId": "bcd67036-9bb7-42f2-9b63-371e23bd92b3",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 3 Deisenhofen - Maisach / Pasing: Ausfall einiger S-Bahnen des 10-Minuten-Takts",
-      "summary": "Heute Früh entfallen aufgrund einer technischen Störung an einem Zug auf der Linie S3 folgende S-Bahnen des 10-Minuten-Takts:",
-      "text": "<ul><li>S3 Maisach Abfahrt 06:20 Uhr - Deisenhofen Ankunft 07:21 Uhr</li><li>S3 Maisach Abfahrt 09:00 Uhr - Ostbahnhof Ankunft 09:39 Uhr</li></ul><p></p><ul><li>S3 Deisenhofen Abfahrt 07:40 Uhr - Maisach Ankunft 08:38 Uhr</li></ul><p><strong>Bitte beachten Sie, dass es heute Früh auf der Linie S3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</strong></p><p></p><p><strong>&nbsp;</strong></p>",
-      "durationBegin": "10.11.2026",
-      "durationEnd": "10.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/bcd67036-9bb7-42f2-9b63-371e23bd92b3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/3ace2225-7bc0-44d2-a6c8-c16c6371f8c7st%25C3%25B6rungskarte_20261110-050702.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-10/3ace2225-7bc0-44d2-a6c8-c16c6371f8c7st%25C3%25B6rungskarte_20261110-050702.png",
-          "info": "",
-          "alt": "Störungskarte 10.11.2026 05:07:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.11.2026 05:08",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b69e2ad8-7b2d-496c-a6a8-1c43a53573b2",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
+      "detailPagePath": "/service/fahrplaene/94fc79ef-8093-4dda-8cf1-31ed60bd2bb4",
+      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "b30e435f-2769-496b-8436-d66503a0e1bd",
@@ -1045,43 +915,6 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
-      "id": "29107a4d-56e2-47e8-896b-67fef7c70f03",
-      "disruptionId": "2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten",
-      "summary": "Streckensperrung",
-      "text": "<p>Aufgrund von Bauarbeiten kommt es am 10. und 11. November 2026 zu einer Streckensperrung zwischen Giengen und Oberkochen.</p><p>Für den Zeitraum der Sperrung wurde ein Schienenersatzverkehr (SEV) mit Bussen eingerichtet. Bitte beachten Sie, dass die Züge auf diesem Streckenabschnitt durch Ersatzbusse ersetzt werden. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
-      "durationBegin": "08.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.11.2026 02:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/29107a4d-56e2-47e8-896b-67fef7c70f03",
-      "magnoliaPath": "/aktuell/additional_service_construction0"
-    },
-    {
       "id": "e9c6b410-a009-459c-b2b4-66944e49a1b4",
       "disruptionId": "08eb23c5-af1b-4035-97b2-5d9c0cb0a343",
       "author": "DEUTSCHE_BAHN",
@@ -1097,7 +930,14 @@
       "mapHref": "https://karte.bahn.de/detail/08eb23c5-af1b-4035-97b2-5d9c0cb0a343",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/ulm-ostalb/ulm-ostalb-2026/SEV_Baustellen_2026/sweg-sev-fahrplantabelle-donaubahn-2026-11-09.pdf?version=1793801782",
+          "label": "Fahrplantabelle",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -1116,11 +956,55 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.11.2026 12:14",
+      "lastModified": "10.11.2026 14:31",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e9c6b410-a009-459c-b2b4-66944e49a1b4",
       "magnoliaPath": "/aktuell/additional_service_construction"
+    },
+    {
+      "id": "29107a4d-56e2-47e8-896b-67fef7c70f03",
+      "disruptionId": "2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten",
+      "summary": "Streckensperrung",
+      "text": "<p>Aufgrund von Bauarbeiten kommt es am 10. und 11. November 2026 zu einer Streckensperrung zwischen Giengen und Oberkochen.</p><p>Für den Zeitraum der Sperrung wurde ein Schienenersatzverkehr (SEV) mit Bussen eingerichtet. Bitte beachten Sie, dass die Züge auf diesem Streckenabschnitt durch Ersatzbusse ersetzt werden. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "08.11.2026",
+      "durationEnd": "12.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/ulm-ostalb/ulm-ostalb-2026/SEV_Baustellen_2026/sweg-sev-fahrplantabelle-giengen-oberkochen-2026-11-10.pdf?version=1793964306",
+          "label": "Schienenersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.11.2026 11:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/29107a4d-56e2-47e8-896b-67fef7c70f03",
+      "magnoliaPath": "/aktuell/additional_service_construction0"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
