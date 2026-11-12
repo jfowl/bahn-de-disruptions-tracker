@@ -194,7 +194,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Heimfeld =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Buxtehude Aufzug A (Personenunterführung &lt;-&gt; Bahnsteig S5, RE5 Ri. Stade/Cuxhaven - Gleis 1) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Sternschanze</p><p></p><p>❌ Heimfeld =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Buxtehude Aufzug A (Personenunterführung &lt;-&gt; Bahnsteig S5, RE5 Ri. Stade/Cuxhaven - Gleis 1) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Mitte Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
       "durationEnd": "20.11.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
@@ -265,7 +265,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.11.2026 12:29",
+      "lastModified": "12.11.2026 14:45",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
@@ -382,6 +382,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "magnoliaPath": "/aktuell/nord/impairment_construction5"
+    },
+    {
+      "id": "e42f584d-11a2-4339-bd44-b60bfec16917",
+      "disruptionId": "33185e28-517a-4ac8-b07b-ff9a046620e4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S1.",
+      "summary": "Auf der S1 kommt es derzeit zu Verspätungen und Ausfällen. Grund: Vorangegangener Polizeieinsatz.",
+      "text": "<p></p>",
+      "durationBegin": "12.11.2026",
+      "durationEnd": "12.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/33185e28-517a-4ac8-b07b-ff9a046620e4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2026 19:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e42f584d-11a2-4339-bd44-b60bfec16917",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -525,57 +563,6 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
-      "id": "9f6539fc-8e18-4d18-bbc0-63aba50b5c11",
-      "disruptionId": "377dc1c6-e9cd-4320-aba3-a3f16c803c5d",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Teilausfälle in Riedstadt-Goddelau",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE70: Frankfurt(Main) Hbf - Riedstadt-Goddelau - Biblis - Mannheim Hbf</li><li>S7: Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Sperrung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Bahnhof ist weiterhin gesperrt.</li><li>Die Züge der S7 fallen aus zwischen Groß Gerau-Dornberg - Riedstadt-Goddelau.</li><li>Die Züge der RE70 fallen aus zwischen Frankfurt(Main)Hbf - Groß Gerau-Dornberg - Riedstadt-Goddelau - Biebesheim.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p>Wir haben für Sie die folgenden Ersatzverkehre eingerichtet:</p><ul><li>Auf der S7 mit vier Bussen der Firma Royal Busreisen zwischen Groß Gerau-Dornberg - Riedstadt-Goddelau, mit Halt an allen Stationen. Auf der RE70 mit insgesamt sechs Bussen der Firmen Royal Busreisen und BV GmbH zwischen den Stationen Groß Gerau-Dornberg - Riedstadt-Goddelau - Stockstadt(Rhein) - Biebesheim, ohne weiteren Zwischenhalt.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Eine Fahrradmitnahme im Bus ist nicht möglich.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "12.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/377dc1c6-e9cd-4320-aba3-a3f16c803c5d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-12/589af031-5771-490c-a05d-5a2a0628ba44st%25C3%25B6rungskarte_20261112-101018.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-12/589af031-5771-490c-a05d-5a2a0628ba44st%25C3%25B6rungskarte_20261112-101018.png",
-          "info": "",
-          "alt": "Störungskarte 12.11.2026 10:10:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE 70",
-          "filterName": "RE 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2026 11:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9f6539fc-8e18-4d18-bbc0-63aba50b5c11",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_medical_emergency"
-    },
-    {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "disruptionId": "c1d91fe2-8cac-4287-bf5c-2d391039b910",
       "author": "FERNVERKEHR_AG",
@@ -668,171 +655,49 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "01a18f15-e024-46ef-9574-4a0129b8fa21",
-      "disruptionId": "99ad4686-d73b-41f2-a30c-76cd050dd991",
-      "author": "S_BAHN_S",
+      "id": "902e5063-a5d1-424a-ab53-ac16b6673c29",
+      "disruptionId": "618c85a2-8623-41d3-846c-d9383c6829c9",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Störung im Bereich Stuttgart-Rohr - Böblingen beendet, vorübergehende Folgeabweichungen möglich",
-      "summary": "S1 können wieder regulär verkehren ",
-      "text": "<p><strong>Die Störung zwischen Stuttgart-Rohr und Böblingen ist behoben</strong>. Von den Auswirkungen betroffen waren die S-Bahnen der Linie S1.</p><p></p><p>Es kommt noch zu Folgeabweichungen auf der Linie S1.</p><p></p><p></p><p></p><p>Bitte prüfen Sie regelmäßig Ihre Verbindung online, um auch über kurzfristige Änderungen zu erfahren. Achten Sie auch auf Lautsprecheransagen und Anzeigen am Bahnsteig und in den Zügen.</p>",
+      "headline": "Endmeldung: S 3 Lochhausen in Richtung Mammendorf",
+      "summary": "Die Züge können wieder im Bereich Lochhausen in Richtung Mammendorf fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
       "durationBegin": "12.11.2026",
       "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/99ad4686-d73b-41f2-a30c-76cd050dd991",
+      "mapHref": "https://karte.bahn.de/detail/618c85a2-8623-41d3-846c-d9383c6829c9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-11-12/8036bf4c-b92f-484c-ac4b-fc0eb37898bfst%25C3%25B6rungskarte_20261112-104219.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-11-12/8036bf4c-b92f-484c-ac4b-fc0eb37898bfst%25C3%25B6rungskarte_20261112-104219.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-12/b617f6c7-698e-47c6-8b1c-b49ed15e0072st%25C3%25B6rungskarte_20261112-194626.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-12/b617f6c7-698e-47c6-8b1c-b49ed15e0072st%25C3%25B6rungskarte_20261112-194626.png",
           "info": "",
-          "alt": "Störungskarte 12.11.2026 10:42:19",
+          "alt": "Störungskarte 12.11.2026 19:46:26",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-stuttgart.de/aktuell",
-          "label": "Betriebslage der S-Bahn Stuttgart für Informationen im Detail",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2026 12:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/01a18f15-e024-46ef-9574-4a0129b8fa21",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "3be08d0c-bd6d-4781-8a0f-d9937d2f26cb",
-      "disruptionId": "de9aeb23-0b1b-4ad2-bbcb-e27943a17f88",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Derzeit Verspätungen auf der S3 und S5.",
-      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen. Grund: Signalstörung.",
-      "text": "<p></p>",
-      "durationBegin": "12.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/de9aeb23-0b1b-4ad2-bbcb-e27943a17f88",
-      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
           "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
+          "filterName": "S 3 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.11.2026 11:43",
+      "lastModified": "12.11.2026 19:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3be08d0c-bd6d-4781-8a0f-d9937d2f26cb",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "c46fd711-1351-446f-a62d-07362d44d4cb",
-      "disruptionId": "cdd7a1f5-d36e-464b-a088-1c3e3825c782",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Station Stuttgart-Zuffenhausen weiterhin nur mit verminderter Geschwindigkeit befahrbar, Fahrtabweichungen auf den Linien S4, S5, S6 und S60",
-      "summary": "Die Linien S4 und S5 verkehren im 30-Minuten-Takt.",
-      "text": "<p>Die nicht abgeschlossenen Bauarbeiten bei der Station <strong>Stuttgart-Zuffenhausen werden in der kommenden Nacht fortgeführt und der Streckenabschnitt </strong>ist dadurch  <strong>weiterhin nur mit verminderter Geschwindigkeit befahrbar. Es kommt zu Verspätungen und Ausfällen auf den Linien S4, S5, S6 und S60.</strong></p><p></p><p><strong>Betroffen sind die S-Bahnen der Linie S4, S5, S6 und S60</strong>. Um die Strecke zu entlasten verkehren die S-Bahnen der Linie</p><p></p><ul><li><strong>S4 im Halbstundentakt </strong></li><li><strong>S5 im Halbstundentakt</strong></li></ul><p></p><p>Aktuellen Informationen zufolge werden die Einschränkungen voraussichtlich bis zum heutigen Betriebsschluss um ca. 2 Uhr andauern.</p><p></p><p></p><p></p><p></p><p>Bitte prüfen Sie weiterhin Ihre Verbindung regelmäßig online, um auch über kurzfristige Änderungen zu erfahren. Achten Sie auch auf Lautsprecheransagen und Anzeigen am Bahnsteig und in den Zügen.</p>",
-      "durationBegin": "12.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/cdd7a1f5-d36e-464b-a088-1c3e3825c782",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-11-12/26c9d2b7-3bc5-446b-9a11-136525fb44c7st%25C3%25B6rungskarte_20261112-055845.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-11-12/26c9d2b7-3bc5-446b-9a11-136525fb44c7st%25C3%25B6rungskarte_20261112-055845.png",
-          "info": "",
-          "alt": "Störungskarte 12.11.2026 05:58:45",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.vvs.de/verbindungen-und-mobilitaet/haltestellenkarten",
-          "label": "Ersatzhaltestellen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-stuttgart.de/aktuell",
-          "label": "Betriebslage der S-Bahn Stuttgart für Informationen im Detail",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 60",
-          "filterName": "S 60 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.11.2026 07:46",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c46fd711-1351-446f-a62d-07362d44d4cb",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/902e5063-a5d1-424a-ab53-ac16b6673c29",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency1"
     },
     {
       "id": "b30e435f-2769-496b-8436-d66503a0e1bd",
@@ -843,14 +708,21 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Störung Infrastruktur",
-      "summary": "es kommt zu verspätungen und teilausfällen",
-      "text": "bitte prüfen sie ihre verbindung",
+      "summary": "es kommt zu Verspätungen und teilausfällen",
+      "text": "bitte prüfen sie ihre Verbindung",
       "durationBegin": "09.11.2026",
       "durationEnd": "14.11.2026",
       "mapHref": "https://karte.bahn.de/detail/43689a6c-86db-4490-b02a-32c025584f12",
       "images": [],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://www.sbb-deutschland.de",
+          "label": "Alle Infos unter ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -869,7 +741,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.11.2026 01:12",
+      "lastModified": "12.11.2026 13:09",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1013,25 +885,25 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "53452d9f-cd6a-4f3b-bf2c-62bcb2442b16",
-      "disruptionId": "acb29d60-45f8-4539-a759-6acc0a1440b8",
+      "id": "d09b5659-9e49-4cd9-a3f6-3bfe74f0fa53",
+      "disruptionId": "d87b912d-638f-4275-bdf5-42b867c9b1a4",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Vorabinformation zu kurzfristigen Bauarbeiten  Stammstrecke in der Nacht 12. auf 13. November 2026",
-      "summary": "wegen kurzfristigen Bauarbeiten am Herzstück einer Weiche an der Hackerbrücke kommt es zwischen Ostbahnhof und Pasing in der Nacht vom 12. auf 13. November 2026 von 00:30 Uhr bis 04:30 Uhr zu Fahrplanänderungen mit Änderungen in der Linienführung, Verspätungen und Teilausfällen.",
-      "text": "<p>Wir werden Ihnen umgehend mitteilen, wenn uns nähere Informationen vorliegen.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p><p></p>",
+      "headline": "Baustelleninformation für die Stammstrecke in der Nacht 12. auf 13. November 2026 ",
+      "summary": "Wegen kurzfristigen Bauarbeiten am Herzstück einer Weiche kommt es zwischen Ostbahnhof und Pasing in der Nacht vom 12. auf 13. November 2026 von 00:30 Uhr bis 04:30 zu Fahrplanänderungen mit Änderungen in der Linienführung und Verspätungen .",
+      "text": "<p><strong>Die Linie S 8 verkehrt als einzige Linie auf dem Regelweg durch die Stammstrecke (Pasing ↔ Ostbahnhof).</strong></p><p>Die S-Bahnen fahren wie folgt:&nbsp;</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul><li>Die S1 verkehrt nur <strong>Hauptbahnhof </strong>↔ <strong>Freising/Flughafen</strong>. Die Halte <strong>zwischen Hauptbahnhof ↔ Moosach </strong>entfallen.</li></ul><p><strong> 2 Petershausen/Altomünster ↔ Erding</strong></p><ul><li>Die S2 wird zwischen<strong> Obermenzing </strong>↔<strong> Ostbahnhof Gleis 7-13 (Fernbahn)</strong> in beide Richtungen umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li></ul><p><strong>Alternativen:</strong></p><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S6</strong></li></ul><p><strong>Information:</strong> Baustellenbedingter Ersatzverkehr mit Bussen zwischen Mark Schwaben und Erding</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Pasing</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 4 Geltendorf ↔ Trudering</strong></p><ul><li>Die S4 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Hauptbahnhof Gleise 27-36</strong>. Ohne Halt zwischen <strong>Pasing </strong>↔ <strong>Hauptbahnhof.</strong></li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 verkehrt nur <strong>Tutzing</strong> ↔ <strong>Pasing</strong>.</li><li>Die S6 verkehrt nur <strong>Ebersberg </strong>↔ <strong>Ostbahnhof </strong></li></ul><p><strong>Information: </strong>Baustellenbedingter Ersatzverkehr mit Bussen zwischen Pasing und Gauting</p><p><strong>S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></p><ul><li>Die S7 verkehrt auf dem Regelweg zwischen <strong>Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li><strong>Die S8 verkehrt auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</strong></li></ul><p></p><p>Informieren Sie sich wegen Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</p><p>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</p><p>&nbsp;DB-Fahrscheine werden für die Dauer der Störung in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.&nbsp;</p>",
       "durationBegin": "13.11.2026",
       "durationEnd": "13.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/acb29d60-45f8-4539-a759-6acc0a1440b8",
+      "mapHref": "https://karte.bahn.de/detail/d87b912d-638f-4275-bdf5-42b867c9b1a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/96ee71a8-c0cd-4c36-bccb-cec73ff3e993st%25C3%25B6rungskarte_20261111-165703.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/96ee71a8-c0cd-4c36-bccb-cec73ff3e993st%25C3%25B6rungskarte_20261111-165703.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-12/5f513749-5e7e-4b5d-84f6-272320bb6b57st%25C3%25B6rungskarte_20261112-145924.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-12/5f513749-5e7e-4b5d-84f6-272320bb6b57st%25C3%25B6rungskarte_20261112-145924.png",
           "info": "",
-          "alt": "Störungskarte 11.11.2026 16:57:03",
+          "alt": "Störungskarte 12.11.2026 14:59:24",
           "openInNewTab": true
         }
       ],
@@ -1080,12 +952,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.11.2026 17:03",
-      "expand": false,
+      "lastModified": "12.11.2026 20:01",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/53452d9f-cd6a-4f3b-bf2c-62bcb2442b16",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+      "detailPagePath": "/service/fahrplaene/d09b5659-9e49-4cd9-a3f6-3bfe74f0fa53",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -1177,6 +1049,71 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+    },
+    {
+      "id": "ec5e3bd2-1701-400d-b4bf-97285e8a1635",
+      "disruptionId": "163e4947-83c4-45db-ab61-5992be43b814",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚍 Ersatzverkehr mit Bus in den Abendstunden -\nHildesheim Hbf ⇄ Elze(Han)",
+      "summary": "🚉 Linie: RB 77 (Hildesheim ⇄ Herford)                                                                          \n📅 Datum: Donnerstag, 12.11.2026 20:00 Uhr bis Donnerstag, 12.11.2026 23:59 Uhr",
+      "text": "<p>🚧&nbsp;<strong>Betroffene Stationen:</strong> Hildesheim Hbf, Emmerke, Nordstemmen, Elze(Han)</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Im angegebenen Zeitraum entfallen die Züge der Linie RB 77 zwischen Hildesheim Hbf und Elze.</p><p>↪️<strong>&nbsp;Alternative:</strong> Bitte nutzen Sie den eingerichteten Ersatzverkehr mit Bus. Wir informieren Sie unter bahnhof.de zur genauen Lage der Ersatzhaltestellen.</p><p>📱Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>📧&nbsp;Bei Fragen erreichen Sie den Kundendialog von DB Regio Niedersachsen und Bremen über das Kontaktformular unter bahn.de/kontakt und unter der Rufnummer 0511 45901645.</p>",
+      "durationBegin": "12.11.2026",
+      "durationEnd": "12.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/163e4947-83c4-45db-ab61-5992be43b814",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-12/cd4424ce-ac72-41fa-a776-afd114266728st%25C3%25B6rungskarte_20261022-145126.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-12/cd4424ce-ac72-41fa-a776-afd114266728st%25C3%25B6rungskarte_20261022-145126.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 14:51:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-12/1d45a4e4-731a-4f40-9f64-ee04e02a25a0Ersatzfahrplan%2B12.11.2026%2B%2528RB%2B77%2529.pdf",
+          "label": "Ersatzfahrplan als PDF",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Noch Fragen? Unser Regionaler Kundendialog hilft gern weiter!",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de/",
+          "label": "nformationen zur Lage der Ersatzhaltestellen finden Sie in der Bahnhofssuche auf bahnhof.de in der Kachel \"Ersatzverkehr\"",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 77",
+          "filterName": "RB 77",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.11.2026 20:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ec5e3bd2-1701-400d-b4bf-97285e8a1635",
+      "magnoliaPath": "/aktuell/nord/additional_service_construction"
     },
     {
       "id": "d8b3d9bb-1a2b-4d50-b911-a296f65a4c04",
