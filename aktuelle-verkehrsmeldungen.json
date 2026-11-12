@@ -334,52 +334,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
-      "id": "e5460920-017d-45ad-9027-2fdde791481e",
-      "disruptionId": "a75aaa2e-b0f5-4afb-86da-1bc664770811",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Frellstedt ⇄  - Haltausfälle",
-      "summary": "Der Bahnhof Frellstedt ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis Tagesende. Der Grund ist eine Reparatur an einem Signal.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an einem Signal.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge Richtung Magdeburg können nicht in Frellstedt halten.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte nutzen Sie den Busnotverkehr zwischen Königslutter und Helmstedt mit Halt in Frellstedt.Erste Abfahrt Königslutter um 16:38 Uhr.</p><p>✅ Bitte informieren Sie sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator.</p>",
-      "durationBegin": "11.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/a75aaa2e-b0f5-4afb-86da-1bc664770811",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-11/8f1aa043-b08d-4d5c-bc19-902a2f223922st%25C3%25B6rungskarte_20261111-165746.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-11/8f1aa043-b08d-4d5c-bc19-902a2f223922st%25C3%25B6rungskarte_20261111-165746.png",
-          "info": "",
-          "alt": "Störungskarte 11.11.2026 16:57:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.11.2026 16:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e5460920-017d-45ad-9027-2fdde791481e",
-      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
-    },
-    {
       "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "disruptionId": "a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "author": "S_BAHN_HH",
@@ -663,6 +617,48 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
+      "id": "b30e435f-2769-496b-8436-d66503a0e1bd",
+      "disruptionId": "43689a6c-86db-4490-b02a-32c025584f12",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Störung Infrastruktur",
+      "summary": "es kommt zu verspätungen und teilausfällen",
+      "text": "bitte prüfen sie ihre verbindung",
+      "durationBegin": "09.11.2026",
+      "durationEnd": "14.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/43689a6c-86db-4490-b02a-32c025584f12",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "Bus S5",
+          "filterName": "Bus S5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus S6",
+          "filterName": "Bus S6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.11.2026 01:12",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b30e435f-2769-496b-8436-d66503a0e1bd",
+      "magnoliaPath": "/aktuell/reduced_service_construction"
+    },
+    {
       "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
       "disruptionId": "8c9e264a-d037-4a24-a0e3-f5a4173bafe6",
       "author": "REGIO_SUEDOST",
@@ -705,41 +701,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/af81edc9-c7be-452f-9b0e-c4543324059c",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "94fc79ef-8093-4dda-8cf1-31ed60bd2bb4",
-      "disruptionId": "f4df42e7-87a2-49eb-a44e-fbe414127165",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Streckensperrung ",
-      "summary": "-",
-      "text": "-",
-      "durationBegin": "10.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/f4df42e7-87a2-49eb-a44e-fbe414127165",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "Bus S5",
-          "filterName": "Bus S5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.11.2026 14:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/94fc79ef-8093-4dda-8cf1-31ed60bd2bb4",
-      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "95f196ee-eaaa-4f2e-97f2-50507f165c5f",
@@ -1157,50 +1118,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e9c6b410-a009-459c-b2b4-66944e49a1b4",
       "magnoliaPath": "/aktuell/additional_service_construction"
-    },
-    {
-      "id": "29107a4d-56e2-47e8-896b-67fef7c70f03",
-      "disruptionId": "2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten",
-      "summary": "Streckensperrung",
-      "text": "<p>Aufgrund von Bauarbeiten kommt es am 10. und 11. November 2026 zu einer Streckensperrung zwischen Giengen und Oberkochen.</p><p>Für den Zeitraum der Sperrung wurde ein Schienenersatzverkehr (SEV) mit Bussen eingerichtet. Bitte beachten Sie, dass die Züge auf diesem Streckenabschnitt durch Ersatzbusse ersetzt werden. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
-      "durationBegin": "08.11.2026",
-      "durationEnd": "12.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/2fbb2624-5f3b-4ca2-9484-ee7bda5dd179",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/ulm-ostalb/ulm-ostalb-2026/SEV_Baustellen_2026/sweg-sev-fahrplantabelle-giengen-oberkochen-2026-11-10.pdf?version=1793964306",
-          "label": "Schienenersatzverkehr ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.11.2026 11:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/29107a4d-56e2-47e8-896b-67fef7c70f03",
-      "magnoliaPath": "/aktuell/additional_service_construction0"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
