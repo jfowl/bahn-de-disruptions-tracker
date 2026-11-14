@@ -540,6 +540,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "87d02085-6635-4618-9787-6138a9db8f16",
+      "disruptionId": "0896d013-9105-4757-8ba1-587836dfecce",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Endmeldung: S 3 Giesing ↔ Deisenhofen",
+      "summary": "Die Züge können wieder zwischen Giesing und Deisenhofen fahren.",
+      "text": "<p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Die behördliche Maßnahme wurde beendet.</p>",
+      "durationBegin": "14.11.2026",
+      "durationEnd": "14.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/0896d013-9105-4757-8ba1-587836dfecce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-14/b314985e-d183-4592-b952-02e224ef2c63st%25C3%25B6rungskarte_20261114-210834.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-14/b314985e-d183-4592-b952-02e224ef2c63st%25C3%25B6rungskarte_20261114-210834.png",
+          "info": "",
+          "alt": "Störungskarte 14.11.2026 21:08:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.11.2026 21:33",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/87d02085-6635-4618-9787-6138a9db8f16",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity1"
+    },
+    {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "disruptionId": "c1d91fe2-8cac-4287-bf5c-2d391039b910",
       "author": "FERNVERKEHR_AG",
@@ -725,51 +770,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0e9400f3-9ae9-4d51-ae90-fe36dbd58bfe",
       "magnoliaPath": "/aktuell/hessen/reduced_service_construction"
-    },
-    {
-      "id": "74bdb6f4-bf92-4431-8849-3298a5cbc3d7",
-      "disruptionId": "3e4cae82-8754-4721-920d-2ca6411a9ed5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S1 Moosach - Neufahrn: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.",
-      "text": "<p><strong>Bis auf weiteres verkehren die S-Bahnen Richtung Ostbahnhof OHNE HALT an der Station Fasanerie ❗Fahrgäste mit Ziel Fasanerie steigen in Moosach (Gleis 4) in die S1 Richtung Flughafen/Freising um.</strong></p><p>Grund für diese Beeinträchtigungen ist ein technischer Defekt an einem Bahnübergang im Bereich Fasanerie.</p>",
-      "durationBegin": "14.11.2026",
-      "durationEnd": "14.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/3e4cae82-8754-4721-920d-2ca6411a9ed5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-14/4fecd6f2-7f55-4c8d-b2fe-7e825839b500st%25C3%25B6rungskarte_20261114-161311.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-14/4fecd6f2-7f55-4c8d-b2fe-7e825839b500st%25C3%25B6rungskarte_20261114-161311.png",
-          "info": "",
-          "alt": "Störungskarte 14.11.2026 16:13:11",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.11.2026 16:28",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/74bdb6f4-bf92-4431-8849-3298a5cbc3d7",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
