@@ -115,6 +115,52 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section27"
     },
     {
+      "id": "3080fca6-2a49-4386-b17c-c281c2c29a6b",
+      "disruptionId": "e0d9d354-291a-4fe8-b3e3-c6f32ff1a6bf",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Magdeburg und Helmstedt",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Magdeburg und Helmstedt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 40 bis 60 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin – Hannover</li><li>Magdeburg - Hannover</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/e0d9d354-291a-4fe8-b3e3-c6f32ff1a6bf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-16/630856e1-87bf-42ab-8d29-e836e10aa512st%25C3%25B6rungskarte_20261116-102138.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-16/630856e1-87bf-42ab-8d29-e836e10aa512st%25C3%25B6rungskarte_20261116-102138.png",
+          "info": "",
+          "alt": "Störungskarte 16.11.2026 10:21:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.11.2026 10:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3080fca6-2a49-4386-b17c-c281c2c29a6b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "aefbb769-b362-48fe-b564-e4a16171add4",
       "disruptionId": "b1d01f02-2f73-439e-a57e-3f59f9e4d4e6",
       "author": "REGIO_SUEDOST",
@@ -273,77 +319,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
     {
-      "id": "794250e1-3b1a-46c8-92fd-daaa09b0afed",
-      "disruptionId": "40c3f731-11c7-424b-99b6-6410e6df2704",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Verkehrsmeldung für die Linie(n) RB22, RB24, RB32, RE20 und FEX - Flughafen BER",
-      "summary": "Montag, 16.11.2026 06:18 Uhr bis vsl. Montag, 16.11.2026 08:00 Uhr ",
-      "text": "<p>Aufgrund von Personen auf der Strecke kommt es zu massiven Einschränkungen im Raum Flughafen BER</p><p>FEX Berlin Hbf - Berlin Südkreuz – Flughafen BER</p><p>RE20 Berlin Hbf – Berlin Südkreuz – Flughafen BER – Lübbenau(Spreew) (-Cottbus)</p><p>RB22 Potsdam Griebnitzsee - Potsdam Hbf - Golm - Flughafen BER - Königs Wusterhausen</p><p>RB24 Eberswalde - Bernau - Berlin Ostkreuz - Flughafen BER - Blankenfelde(Teltow-Fläming)</p><p>RB32 Oranienburg - Berlin Ostkreuz - Flughafen BER - Ludwigsfelde</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "16.11.2026",
-      "durationEnd": "16.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/40c3f731-11c7-424b-99b6-6410e6df2704",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 24",
-          "filterName": "RB 24",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 32",
-          "filterName": "RB 32",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE FEX",
-          "filterName": "RE FEX",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.11.2026 06:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/794250e1-3b1a-46c8-92fd-daaa09b0afed",
-      "magnoliaPath": "/aktuell/nordost/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "e832109c-11f8-4e4a-b87f-1397f2a317a7",
       "disruptionId": "d9b29daf-c95b-40bd-9c33-4ca75abd6992",
       "author": "REGIO_NORD",
@@ -406,50 +381,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
-      "id": "a574067c-35c3-4b29-bca1-c9601e67a71c",
-      "disruptionId": "eb1c6b8c-26f1-42e5-8dbd-5a3093551651",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover / Hamm (W) und Dortmund / Köln",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Hamm (W) und Dortmund kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge der Fahrtrichtung Hamm (W) - Dortmund verspäten sich dadurch um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC-Züge zwischen Hannover - Bielefeld - Hamm - Dortmund - Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb1c6b8c-26f1-42e5-8dbd-5a3093551651",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-16/7c8d8e67-8beb-452a-946d-ee4f0fbd63f7st%25C3%25B6rungskarte_20261116-024550.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-16/7c8d8e67-8beb-452a-946d-ee4f0fbd63f7st%25C3%25B6rungskarte_20261116-024550.png",
-          "info": "",
-          "alt": "Störungskarte 16.11.2026 02:45:50",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.11.2026 02:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a574067c-35c3-4b29-bca1-c9601e67a71c",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
-    },
-    {
       "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "disruptionId": "a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "author": "S_BAHN_HH",
@@ -465,8 +396,8 @@
       "mapHref": "https://karte.bahn.de/detail/a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-11-11/a371814c-0994-4d64-801d-4d232bfc1867st%25C3%25B6rungskarte_20261022-135432.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-11-11/a371814c-0994-4d64-801d-4d232bfc1867st%25C3%25B6rungskarte_20261022-135432.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-11-16/40f2a85e-6020-455e-a2f5-8e5dd3e1dc9bst%25C3%25B6rungskarte_20261022-135432.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-11-16/40f2a85e-6020-455e-a2f5-8e5dd3e1dc9bst%25C3%25B6rungskarte_20261022-135432.png",
           "info": "",
           "alt": "Störungskarte 22.10.2026 13:54:32",
           "openInNewTab": true
@@ -493,11 +424,50 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.11.2026 11:42",
+      "lastModified": "16.11.2026 16:20",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
       "magnoliaPath": "/aktuell/nord/impairment_construction5"
+    },
+    {
+      "id": "8a9889c7-aa4b-47c5-adf5-681ec8e5505d",
+      "disruptionId": "0c878ff3-bb09-49c4-80fe-ba66cb1d4bc4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1 heute nur zw. Poppenbüttel u. Othmarschen alle 5 Min.",
+      "summary": "Die S1 fährt heute nur zwischen Poppenbüttel und Othmarschen alle 5 Minuten.",
+      "text": "<p></p>",
+      "durationBegin": "16.11.2026",
+      "durationEnd": "16.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/0c878ff3-bb09-49c4-80fe-ba66cb1d4bc4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.11.2026 15:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8a9889c7-aa4b-47c5-adf5-681ec8e5505d",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -546,64 +516,52 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "e2260737-17a1-4c71-a3e3-1507f5db2b89",
-      "disruptionId": "d2061c1d-c078-4b7a-ba6e-32743094096c",
-      "author": "REGIO_BW",
+      "id": "adf0aa8d-088b-4e81-969b-b8ce20462fe1",
+      "disruptionId": "7dd417b4-e4a7-4e0a-a7c5-fc2e0b1e6a11",
+      "author": "S_BAHN_RM",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigungen in Offenburg",
-      "summary": "Der Bahnhof Offenburg ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. vormittags. Der Grund ist eine Reparatur an der Oberleitung. Die Gleise 6 und 7 können derzeit nicht befahren werden. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen, sowie auch zu Gleisänderungen. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 2 (Karlsruhe – Konstanz) </li><li>RE 7 (Karlsruhe – Basel) </li><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Eppstein - Lorsbach",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Streckenabschnitt ist eingleisig befahrbar.</li><li>Auf der RB22 kommt es zu Teilausfällen zwischen Niedernhausen(Taunus) - Frankfurt-Höchst. </li><li>Die Züge der S2 fahren wieder auf der geplanten Strecke mit allen geplanten Halten. Achten Sie auf Gleisänderungen zwischen Hofheim(Taunus) - Niedernhausen(Taunus).</li></ul><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Empefhlung für RB22: Nutzen Sie alternativ die S2 zwischen Frankfurt Hbf (tief) und Niedernhausen(Taunus).</li><li>Der Ersatzverkehr mit Bussen zwischen Hofheim(Taunus) und Niedernhausen(Taunus) endet in Kürze. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "16.11.2026",
       "durationEnd": "16.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/d2061c1d-c078-4b7a-ba6e-32743094096c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-11-16/d160ebcb-3398-4057-93d9-b072cb1efd6fst%25C3%25B6rungskarte_20261116-053621.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-11-16/d160ebcb-3398-4057-93d9-b072cb1efd6fst%25C3%25B6rungskarte_20261116-053621.png",
-          "info": "",
-          "alt": "Störungskarte 16.11.2026 05:36:21",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/7dd417b4-e4a7-4e0a-a7c5-fc2e0b1e6a11",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
-        "BW"
+        "HE"
       ],
       "lines": [
         {
-          "name": "RB 26",
-          "filterName": "RB 26",
+          "name": "RB 22",
+          "filterName": "RB 22",
           "property": "REGIONAL"
         },
         {
-          "name": "RB 27",
-          "filterName": "RB 27",
+          "name": "RE 20",
+          "filterName": "RE 20",
           "property": "REGIONAL"
         },
         {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "16.11.2026 06:53",
+      "lastModified": "16.11.2026 17:00",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e2260737-17a1-4c71-a3e3-1507f5db2b89",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section4"
+      "detailPagePath": "/service/fahrplaene/adf0aa8d-088b-4e81-969b-b8ce20462fe1",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
@@ -1163,6 +1121,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/36490717-c2af-48b7-b96e-d2143c8f830e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction8"
+    },
+    {
+      "id": "3f2e9091-1c31-4742-9593-c523dcdbba27",
+      "disruptionId": "55454c1f-f381-4bf8-9197-c9f58d0c4cf2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Oberschleißheim → Moosach: Reparatur an einem Signal",
+      "summary": "Zwischen Oberschleißheim und Moosach kommt es in Richtung stadteinwärts zu Verspätungen von 15 bis 20 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "16.11.2026",
+      "durationEnd": "16.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/55454c1f-f381-4bf8-9197-c9f58d0c4cf2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-16/37bced29-a106-4312-8d83-1140dc0ac7fdst%25C3%25B6rungskarte_20261116-165056.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-16/37bced29-a106-4312-8d83-1140dc0ac7fdst%25C3%25B6rungskarte_20261116-165056.png",
+          "info": "",
+          "alt": "Störungskarte 16.11.2026 16:50:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.11.2026 16:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3f2e9091-1c31-4742-9593-c523dcdbba27",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+    },
+    {
+      "id": "cea372ca-37e3-4e97-857a-f96fea3265e1",
+      "disruptionId": "948bfc32-a044-43a8-9891-2f1128e1e23d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Icking ↔ Wolfratshausen: Reparatur an einem Signal",
+      "summary": "Zwischen Icking und Wolfratshausen kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "16.11.2026",
+      "durationEnd": "16.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/948bfc32-a044-43a8-9891-2f1128e1e23d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-16/fe79344f-adce-40b2-9996-bbc719745729st%25C3%25B6rungskarte_20261116-163841.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-16/fe79344f-adce-40b2-9996-bbc719745729st%25C3%25B6rungskarte_20261116-163841.png",
+          "info": "",
+          "alt": "Störungskarte 16.11.2026 16:38:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.11.2026 16:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cea372ca-37e3-4e97-857a-f96fea3265e1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "51c493dd-5cf6-4689-9de3-9f24aabc98a3",
