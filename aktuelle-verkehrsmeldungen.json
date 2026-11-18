@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "6d8d0e63-6ccb-4d31-a35c-36e7aac15217",
+      "disruptionId": "9ea3c615-d18d-4e15-b5e2-d74ea59ae6c4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Nürnberg und Ansbach",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Nürnberg und Ansbach  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen bis zu 45 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin - Halle (Saale) - Erfurt - Nürnberg - Stuttgart</li><li>IC-Züge zwischen Karlsruhe - Stuttgart - Nürnberg - Saalfeld (Saale) - Leipzig</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/9ea3c615-d18d-4e15-b5e2-d74ea59ae6c4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.11.2026 22:29",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/6d8d0e63-6ccb-4d31-a35c-36e7aac15217",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+    },
+    {
       "id": "cf025588-5a6a-4f9a-83df-b3e8b47fb784",
       "disruptionId": "8adbb59b-3821-434d-b86c-a117453ea156",
       "author": "FERNVERKEHR_AG",
@@ -334,44 +384,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
     },
     {
-      "id": "c0871fc2-f586-475d-b276-8ee6f5cb6287",
-      "disruptionId": "820af9f0-3e91-4267-ba7a-de34a32fb91a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingt verminderte Geschwindigkeit"
-      },
-      "headline": "Derzeit Verspätungen und Ausfälle auf der S1.",
-      "summary": "Auf der S1  kommt es derzeit zu Verspätungen und Ausfällen. Grund: Wetterbedingte Beeinträchtigung.\n",
-      "text": "<p>.</p>",
-      "durationBegin": "18.11.2026",
-      "durationEnd": "18.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/820af9f0-3e91-4267-ba7a-de34a32fb91a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.11.2026 17:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c0871fc2-f586-475d-b276-8ee6f5cb6287",
-      "magnoliaPath": "/aktuell/nord/reduced_service_weather_storm0"
-    },
-    {
       "id": "35b6285e-13f8-48d2-a3b6-749983ee9e68",
       "disruptionId": "28a8c473-ccf0-43ee-92ec-05ab6c4a0b69",
       "author": "S_BAHN_HH",
@@ -675,41 +687,79 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "ea3837db-fd94-42a1-922d-7a4198aedfbd",
-      "disruptionId": "65847e82-da56-417c-b245-a04ca6ff2b9f",
-      "author": "DEUTSCHE_BAHN",
+      "id": "27679d25-683a-4d99-bd25-e9af115b6259",
+      "disruptionId": "6a36d0bf-6ba7-462b-9f9f-c78b0c06c184",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Behörden Einsatz",
-      "summary": "Verspätung",
-      "text": "<p>Aufgrund eines behördlichen Einsatz kommt es zu einer betrieblichen Verzögerung, wodurch sich die Abfahrt bzw. Ankunft des Zuges verspätet.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "headline": "Stammstrecke: Reparatur an der Strecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten sowie zu vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "18.11.2026",
-      "durationEnd": "18.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/65847e82-da56-417c-b245-a04ca6ff2b9f",
-      "images": [],
+      "durationEnd": "19.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/6a36d0bf-6ba7-462b-9f9f-c78b0c06c184",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-18/02a23ffd-d203-4b82-a52f-11cdec3306a5st%25C3%25B6rungskarte_20261118-232943.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-18/02a23ffd-d203-4b82-a52f-11cdec3306a5st%25C3%25B6rungskarte_20261118-232943.png",
+          "info": "",
+          "alt": "Störungskarte 18.11.2026 23:29:43",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RE 50",
-          "filterName": "RE 50",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "18.11.2026 16:43",
-      "expand": false,
+      "lastModified": "18.11.2026 23:39",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ea3837db-fd94-42a1-922d-7a4198aedfbd",
-      "magnoliaPath": "/aktuell/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/27679d25-683a-4d99-bd25-e9af115b6259",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section9"
     },
     {
       "id": "72d9c88d-18ed-4483-9ab6-b0a20cfad494",
@@ -720,15 +770,15 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen im Raum Northeim(Han)",
-      "summary": "Wegen eines defekten Stellwerks ist der Zugverkehr zwischen Northeim(Han) und Katlenburg in beide Richtungen voraussichtlich bis zum 19. November 2026 beeinträchtigt. ",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 80 (Göttingen– Nordhausen): Die Züge fallen zwischen Göttingen und Herzberg(Harz) aus. Ein Ersatzverkehr mit Bussen zwischen Göttingen und Herzberg(Harz) ist eingerichtet.</li><li>RB 81 (Bodenfelde – Nordhausen): Die Züge fallen zwischen Bodenfelde und Herzberg(Harz) aus. Ein Ersatzverkehr mit Bussen zwischen Bodenfelde und Herzberg(Harz) ist teilweise eingerichtet.</li><li>RB 82 (Göttingen – Kreiensen – Bad Harzburg): Die Züge fallen zwischen Göttingen und Einbeck aus. Ein Ersatzverkehr mit Bussen zwischen Göttingen und Kreiensen ist eingerichtet.</li><li>RB 86 (Göttingen – Einbeck Mitte): Die Züge fallen aus. Ein Ersatzverkehr mit Bussen ist eingerichtet.</li><li>RE 2 (Uelzen - Hannover Hbf - Göttingen Hbf): Die Züge verkehren ohne Halt in Nörten-Hardenberg und Northeim(Han). Ein Ersatzverkehr mit Bussen zwischen Göttingen und Einbeck-Salzderhelden eingerichtet.</li></ul><p>Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Fahrtzeiten können abweichen.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter db.info.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "summary": "Wegen eines defekten Stellwerks ist der Zugverkehr zwischen Northeim(Han) und Katlenburg in beide Richtungen am 18. und 19. November 2026 beeinträchtigt. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 80 (Göttingen– Nordhausen): Die Züge fallen zwischen Göttingen und Herzberg(Harz) aus. Ein Ersatzverkehr mit Bussen zwischen Göttingen und Herzberg(Harz) ist eingerichtet.</li><li>RB 81 (Bodenfelde – Nordhausen): Die Züge fallen zwischen Bodenfelde und Herzberg(Harz) aus. Ein Ersatzverkehr mit Bussen zwischen Bodenfelde und Herzberg(Harz) ist teilweise eingerichtet.</li><li>RB 82 (Göttingen – Kreiensen – Bad Harzburg): Die Züge fallen zwischen Göttingen und Kreiensen aus. Ein Ersatzverkehr mit Bussen zwischen Göttingen und Kreiensen ist eingerichtet.</li><li>RB 86 (Göttingen – Einbeck Mitte): Die Züge fallen aus. Ein Ersatzverkehr mit Bussen ist eingerichtet.</li><li>RE 2 (Uelzen - Hannover Hbf - Göttingen Hbf): Die Züge verkehren ohne Halt in Nörten-Hardenberg und Northeim(Han). Ein Ersatzverkehr mit Bussen zwischen Göttingen und Einbeck-Salzderhelden eingerichtet.</li></ul><p>Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Fahrtzeiten können abweichen.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter db.info.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "17.11.2026",
-      "durationEnd": "18.11.2026",
+      "durationEnd": "19.11.2026",
       "mapHref": "https://karte.bahn.de/detail/430a1551-6fa4-4513-995b-e46fce1f6c17",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-18/ce95f54f-7aea-4053-9b72-b1676f006885st%25C3%25B6rungskarte_20261118-123918.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-18/ce95f54f-7aea-4053-9b72-b1676f006885st%25C3%25B6rungskarte_20261118-123918.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-18/05449a8e-2b39-4a31-b14f-c96af6fd12eest%25C3%25B6rungskarte_20261118-123918.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-11-18/05449a8e-2b39-4a31-b14f-c96af6fd12eest%25C3%25B6rungskarte_20261118-123918.png",
           "info": "",
           "alt": "Störungskarte 18.11.2026 12:39:18",
           "openInNewTab": true
@@ -736,18 +786,6 @@
       ],
       "downloads": [],
       "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
         {
           "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
           "label": "Regionaler Kundendialog Niedersachsen und Bremen",
@@ -763,6 +801,18 @@
         {
           "href": "https://www.bahn.de/service/mobile/db-navigator",
           "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         }
@@ -800,47 +850,12 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.11.2026 13:21",
+      "lastModified": "18.11.2026 20:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/72d9c88d-18ed-4483-9ab6-b0a20cfad494",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "295388d4-04f4-4684-8c4c-fe5e3bb7b3fe",
-      "disruptionId": "0215efa6-3582-491e-9e34-77b918919b64",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Sulz am Neckar und Rottweil",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Sulz am Neckar und Rottweil kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die IC-Züge zwischen Stuttgart und Zürich verkehren nur zwischen Stuttgart Hbf und Sulz am Neckar sowie zwischen Rottweil und Zürich.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Sulz am Neckar und Rottweil wird ein Ersatzverkehr mit Bussen eingerichtet. Die Busse halten auch in Oberndorf (Neckar).</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/0215efa6-3582-491e-9e34-77b918919b64",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE IC87",
-          "filterName": "RE IC87",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.11.2026 05:23",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/295388d4-04f4-4684-8c4c-fe5e3bb7b3fe",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section1"
     },
     {
       "id": "c2dd105b-8bb5-42f7-8094-8d6d594d4564",
@@ -1044,6 +1059,43 @@
       "magnoliaPath": "/aktuell/hessen/reduced_service_construction"
     },
     {
+      "id": "fa0a29be-3dc1-43aa-829d-c349349a8bf1",
+      "disruptionId": "deb670cb-8684-49ad-a5e3-34c91dd7e270",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Biederitz ⇄  - Haltausfälle",
+      "summary": "Der Bahnhof Biederitz ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 19.11.2026, 13:00 Uhr. Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In Richtung Burg(Magdeburg) kann der Halt Biederitz nicht bedient werden.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte bis zur nächsten Station fahren und in die Gegenrichtung einsteigen um nach Biederitz zu gelangen.</p><p>✅ Bitte informieren Sie sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator.</p>",
+      "durationBegin": "18.11.2026",
+      "durationEnd": "19.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/deb670cb-8684-49ad-a5e3-34c91dd7e270",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.11.2026 22:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fa0a29be-3dc1-43aa-829d-c349349a8bf1",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section"
+    },
+    {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
       "author": "REGIO_SUEDOST",
@@ -1180,6 +1232,62 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+    },
+    {
+      "id": "52a20e8d-2339-4415-9769-5ebc18e1a22f",
+      "disruptionId": "4b6ff305-865d-4355-a462-95e0fb7ae6da",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Erfurt  ⇄ Nordhausen  - Ersatzverkehr",
+      "summary": "Die Linien RE55/56 sind zwischen Erfurt und Nordhausen beeinträchtigt. Dauer der Beeinträchtigung am 21.; 22. und 29. November 2026 sowie am 5.; 6. und 12. Dezember 2026, jeweils in der Zeit von 6.00 Uhr bis 12.30 Uhr sowie teilweise in den Abend-/Nachtstunden ab 22.00 Uhr.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE55 Erfurt - Nordhausen</li><li>RE56 Erfurt - Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein unbesetztes Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge fallen in der Zeit von 6.00 Uhr bis 12.30 Uhr zwischen Straußfurt und Sondershausen aus. Ab 22 Uhr kommt es teilweise zu Zugausfällen auf dem gesamten Laufweg.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist eingerichtet. Bitte planen Sie längere Fahr- und Umsteigezeiten ein.</p><p>✅ Bitte informieren Sie sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator.</p>",
+      "durationBegin": "21.11.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/4b6ff305-865d-4355-a462-95e0fb7ae6da",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/778027b4-4447-4106-af8a-3d978c612c3bst%25C3%25B6rungskarte_20261118-184755.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/778027b4-4447-4106-af8a-3d978c612c3bst%25C3%25B6rungskarte_20261118-184755.png",
+          "info": "",
+          "alt": "Störungskarte 18.11.2026 18:47:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/c3f16579-ca92-49c6-a240-6a2c1c9d27d9Ersatzverkehr%2BRE55%2Bund%2BRE56%2B-%2Bbeide%2BRichtungen%2B-%2Bg%25C3%25BCltig%2Ban%2Bden%2BWochenenden%2Bvom%2B21.11.%2Bbis%2B12.12.2026.pdf",
+          "label": "Ersatzverkehr RE55 und RE56 - beide Richtungen - gültig an den Wochenenden vom 21.11. bis 12.12.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 56",
+          "filterName": "RE 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.11.2026 18:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/52a20e8d-2339-4415-9769-5ebc18e1a22f",
+      "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section0"
     },
     {
       "id": "455edcd3-1234-4246-bce4-4c50729e544c",
