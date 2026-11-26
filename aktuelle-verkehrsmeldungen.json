@@ -194,7 +194,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌Landungsbrücken</p><p></p><p>❌ Rothenburgsort</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
       "durationEnd": "04.12.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
@@ -202,14 +202,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -265,7 +265,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.11.2026 16:11",
+      "lastModified": "26.11.2026 08:57",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
@@ -332,6 +332,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e832109c-11f8-4e4a-b87f-1397f2a317a7",
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "debaf183-4d8e-4f2e-a904-8c92bba1d879",
+      "disruptionId": "abd6305d-047f-4481-8931-71e225f1b0d4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S1 zw. Othmarschen u. Blankenese nur alle 10 Minuten.",
+      "summary": "Die S1 fährt heute zwischen Othmarschen und Blankenese nur alle 10 Minuten. Grund: Stellwerksstörung.",
+      "text": "<p></p>",
+      "durationBegin": "26.11.2026",
+      "durationEnd": "26.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/abd6305d-047f-4481-8931-71e225f1b0d4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/debaf183-4d8e-4f2e-a904-8c92bba1d879",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section0"
     },
     {
       "id": "9c2a34b5-145f-4669-a125-09e7c30c3037",
@@ -442,6 +480,44 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
     },
     {
+      "id": "601e9b21-a562-4752-ba46-5c5bb43200d7",
+      "disruptionId": "f1d8c81c-ad9b-465f-952e-82ce60074b00",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S1 .",
+      "summary": ".",
+      "text": "<p>Aufgrund einer Stellwerksstörung kommt es zurzeit auf der S1 zu Verspätungen.</p>",
+      "durationBegin": "26.11.2026",
+      "durationEnd": "26.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/f1d8c81c-ad9b-465f-952e-82ce60074b00",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/601e9b21-a562-4752-ba46-5c5bb43200d7",
+      "magnoliaPath": "/aktuell/nord/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -488,6 +564,706 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "df6ce20b-2fe3-4a10-9d4c-2a43ed771262",
+      "disruptionId": "ab23670f-db50-4d91-9c69-10c3782b82fa",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 7 in der Nacht vom 29. Januar auf 30. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>29. Januar auf 30. Januar von 23:00 Uhr bis 03:00 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 7</p><p>🚧 <strong>Streckenabschnitt:</strong> Donnersbergerbrücke ↔ Hauptbahnhof</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien und die U-Bahn U5 vom/zum Heimeranplatz, U6 vom/zum Harras und U3 von/nach Obersendling/Siemenswerke.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsarbeiten</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "29.01.2027",
+      "durationEnd": "30.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/ab23670f-db50-4d91-9c69-10c3782b82fa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/11c8f3b1-d687-4e09-820b-8a2106036b0ast%25C3%25B6rungskarte_20261126-151857.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/11c8f3b1-d687-4e09-820b-8a2106036b0ast%25C3%25B6rungskarte_20261126-151857.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 15:18:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/ec425caa-e2f8-43e4-bfe3-7aa8cc58b515Fpl%2BAusf%2BMH-MMDN%2B29.01.-30.01.2027.pdf",
+          "label": "Fahrplan Ausfälle Donnersbergerbrücke ↔ Hauptbahnhof 29.01.-30.01..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/df6ce20b-2fe3-4a10-9d4c-2a43ed771262",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction13"
+    },
+    {
+      "id": "2292c515-2bd0-4bf8-a88e-9e09eb5acda7",
+      "disruptionId": "c64650d6-da0b-442a-8363-8951e674376f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 in der Nacht vom 02. März auf 03. März",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>02. März auf 03. März von 22:00 Uhr bis 03:00 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Gilching-Argelsried ↔ Herrsching</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "02.03.2027",
+      "durationEnd": "03.03.2027",
+      "mapHref": "https://karte.bahn.de/detail/c64650d6-da0b-442a-8363-8951e674376f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/d4d23d1f-923c-4d0c-8416-d5dc7f377bcest%25C3%25B6rungskarte_20261126-145744.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/d4d23d1f-923c-4d0c-8416-d5dc7f377bcest%25C3%25B6rungskarte_20261126-145744.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:57:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3d43f2d1-f965-451f-a1fe-d1254e609421Fpl%2BEV%2BMGCH-MHI%2B02.03.-03.03.2027.pdf",
+          "label": "Fahrplan Ersatzverkehr Gilching-Argelsried ↔ Herrsching 02. auf 03. März.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2292c515-2bd0-4bf8-a88e-9e09eb5acda7",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction12"
+    },
+    {
+      "id": "8d70cded-0aaa-4dc9-a7c5-c82f2d29219e",
+      "disruptionId": "98fd3091-1e8a-447e-9938-88809f2d9e05",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 am 31. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>31. Januar von 06:50 Uhr bis 19:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen. Fahrgäste in Richtung Flughafen/Airport steigen bitte schon am Ostbahnhof in den Bus-Ersatzverkehr um.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "31.01.2027",
+      "durationEnd": "31.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/98fd3091-1e8a-447e-9938-88809f2d9e05",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/361ce519-53e1-41cc-863d-f98772ef4b18Fpl%2BS%2B8%2BSEV%2BMOP-MJK%2B30%252B31%2BJan%2B2027.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 30. und 31 Januar.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8d70cded-0aaa-4dc9-a7c5-c82f2d29219e",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction11"
+    },
+    {
+      "id": "19b525c4-375d-494c-9afc-3d70f7e27b99",
+      "disruptionId": "1f5a7c4c-89a9-42a7-b3d7-bea453b97380",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 am 30. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>30. Januar von 06:50 Uhr bis 20:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen. Fahrgäste in Richtung Flughafen/Airport steigen bitte schon am Ostbahnhof in den Bus-Ersatzverkehr um.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "30.01.2027",
+      "durationEnd": "30.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/1f5a7c4c-89a9-42a7-b3d7-bea453b97380",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/a0ae98d6-d74d-4b1b-82ef-bd015f2cfc87st%25C3%25B6rungskarte_20261126-144554.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/a0ae98d6-d74d-4b1b-82ef-bd015f2cfc87st%25C3%25B6rungskarte_20261126-144554.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:45:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/1a6ef62e-10ec-450b-be42-3702a2d2cc02Fpl%2BS%2B8%2BSEV%2BMOP-MJK%2B30%252B31%2BJan%2B2027.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 30. Januar.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/19b525c4-375d-494c-9afc-3d70f7e27b99",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction10"
+    },
+    {
+      "id": "64c32148-6cdf-47ac-8dcb-2bc07fb303ca",
+      "disruptionId": "0a19ae5b-cc6d-47f0-8ef7-4164e1a1bd3f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 1 am 31. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>31. Januar von 06:50 Uhr bis 19:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 1</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Leuchtenbergring</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "31.01.2027",
+      "durationEnd": "31.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/0a19ae5b-cc6d-47f0-8ef7-4164e1a1bd3f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b897638f-b1b1-4bb9-bd6a-78516bbb03c9st%25C3%25B6rungskarte_20261126-144113.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b897638f-b1b1-4bb9-bd6a-78516bbb03c9st%25C3%25B6rungskarte_20261126-144113.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:41:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/64c32148-6cdf-47ac-8dcb-2bc07fb303ca",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction9"
+    },
+    {
+      "id": "7c3e56b8-1031-489b-ac54-d67cdd23aac3",
+      "disruptionId": "670142cf-8f8e-44a6-84e6-3a93fdc10c8b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 1 am 30. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>30. Januar von 06:50 Uhr bis 20:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 1</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Leuchtenbergring</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "30.01.2027",
+      "durationEnd": "30.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/670142cf-8f8e-44a6-84e6-3a93fdc10c8b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/1239f258-48f9-4630-a264-df82bc1c564cst%25C3%25B6rungskarte_20261126-143614.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/1239f258-48f9-4630-a264-df82bc1c564cst%25C3%25B6rungskarte_20261126-143614.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:36:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7c3e56b8-1031-489b-ac54-d67cdd23aac3",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction8"
+    },
+    {
+      "id": "35893b44-b1e0-42f6-b24b-d15518a144a8",
+      "disruptionId": "899dc7a5-8b09-4e75-bab5-97c3ba8a212a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 am 24. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>24. Januar von 06:50 Uhr bis 19:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen. Fahrgäste in Richtung Flughafen/Airport steigen bitte schon am Ostbahnhof in den Bus-Ersatzverkehr um.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "24.01.2027",
+      "durationEnd": "24.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/899dc7a5-8b09-4e75-bab5-97c3ba8a212a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/fb14fb73-1531-45de-99d8-6e45c7c452c0st%25C3%25B6rungskarte_20261126-143154.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/fb14fb73-1531-45de-99d8-6e45c7c452c0st%25C3%25B6rungskarte_20261126-143154.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:31:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/fea6f06b-a641-43ff-97bf-d72bd87ba1dfFpl%2BS%2B8%2BSEV%2BMOP-MJK%2B23%252B24%2BJan%2B2027.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 23. und 24 Januar.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/35893b44-b1e0-42f6-b24b-d15518a144a8",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction7"
+    },
+    {
+      "id": "9426d74a-a299-40ed-9be4-b048f7ac5ffa",
+      "disruptionId": "d299b91c-db03-4739-b5e1-cd55cc4a6aad",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 am 23. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>23. Januar von 06:50 Uhr bis 20:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen mit Bussen zwischen Ostbahnhof und Johanneskirchen. Fahrgäste in Richtung Flughafen/Airport steigen bitte schon am Ostbahnhof in den Ersatzverkehr um.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "23.01.2027",
+      "durationEnd": "23.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/d299b91c-db03-4739-b5e1-cd55cc4a6aad",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b858eac7-cea0-4ba0-be84-099dcf8174bast%25C3%25B6rungskarte_20261126-142748.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b858eac7-cea0-4ba0-be84-099dcf8174bast%25C3%25B6rungskarte_20261126-142748.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:27:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/ee332234-d801-42cd-be99-66b6fd652c55Fpl%2BS%2B8%2BSEV%2BMOP-MJK%2B23%252B24%2BJan%2B2027.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 23. und 24 Januar.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/9426d74a-a299-40ed-9be4-b048f7ac5ffa",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction6"
+    },
+    {
+      "id": "661ec0a9-8a20-40aa-bcc7-2aeb94853f97",
+      "disruptionId": "745f9eb4-06c6-4987-be5d-342c24246939",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 1 am 23. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>23. Januar von 06:50 Uhr bis 20:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 1</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Leuchtenbergring</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr auf der S 1</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "23.01.2027",
+      "durationEnd": "23.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/745f9eb4-06c6-4987-be5d-342c24246939",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/874152be-0487-44ff-8232-409696102bb8st%25C3%25B6rungskarte_20261126-141435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/874152be-0487-44ff-8232-409696102bb8st%25C3%25B6rungskarte_20261126-141435.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:14:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/661ec0a9-8a20-40aa-bcc7-2aeb94853f97",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction4"
+    },
+    {
+      "id": "fac7d4d0-e8ba-49ec-a4fe-cb1decf391f9",
+      "disruptionId": "5d7a0791-14f6-4651-a4d5-51d0ade40a00",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 1 am 24. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>24. Januar von 06:50 Uhr bis 19:15 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 1</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Leuchtenbergring</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr auf der S 1</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "24.01.2027",
+      "durationEnd": "24.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/5d7a0791-14f6-4651-a4d5-51d0ade40a00",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/0f18f371-380b-4991-b916-a6a2467e6632st%25C3%25B6rungskarte_20261126-141935.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/0f18f371-380b-4991-b916-a6a2467e6632st%25C3%25B6rungskarte_20261126-141935.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:19:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 14:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/fac7d4d0-e8ba-49ec-a4fe-cb1decf391f9",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction5"
+    },
+    {
+      "id": "b108f38f-42bc-4b22-b355-cb26c38605bd",
+      "disruptionId": "e03e3250-5f6d-476a-a009-c098df0c129b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 1 vom 16. Januar bis 18. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>16. Januar, von 06:50 Uhr, durchgehend bis 18. Januar, 04:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 1</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Leuchtenbergring</p><p>❌ <strong>Einschränkungen: </strong>Ausfall der S-Bahnen der Linie S 1</p><p>↪️<strong>&nbsp;Alternative: </strong>Andere S-Bahn-Linien</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "16.01.2027",
+      "durationEnd": "18.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/e03e3250-5f6d-476a-a009-c098df0c129b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/fd970a89-a7bf-4382-9898-92254798af29st%25C3%25B6rungskarte_20261126-130645.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/fd970a89-a7bf-4382-9898-92254798af29st%25C3%25B6rungskarte_20261126-130645.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 13:06:45",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 13:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/b108f38f-42bc-4b22-b355-cb26c38605bd",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction3"
+    },
+    {
+      "id": "89a2bb00-b5be-4b2d-bea9-41a9748a744c",
+      "disruptionId": "07bfacee-f333-4044-b51b-aff6e29fc836",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 in der Nacht vom 17. Dezember auf 18. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>17. Dezember auf 18. Dezember von 22:10 Uhr bis 04:00 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "17.12.2026",
+      "durationEnd": "18.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/07bfacee-f333-4044-b51b-aff6e29fc836",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/1e2d1242-7150-497b-b15f-e9d936cd1da5Fpl%2BS%2B8%2BSEV%2BMOP-MJK%2B%2B17-18%2BDez%2B%25281%2529.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 17.12. auf 18.12..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 12:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/89a2bb00-b5be-4b2d-bea9-41a9748a744c",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction1"
+    },
+    {
+      "id": "e2b93ae9-fcc1-4d7b-862f-5104c5e544ed",
+      "disruptionId": "11594380-a2e4-4c27-8e7f-709424ed16e9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 vom 16. Januar bis 18. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>16. Januar, von 06:50 Uhr, durchgehend bis 18. Januar, 04:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Leuchtenbergring ↔ Johanneskirchen</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Ostbahnhof und Johanneskirchen. Fahrgäste in Richtung Flughafen/Airport steigen bitte schon am Ostbahnhof in den Ersatzverkehr um.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "16.01.2027",
+      "durationEnd": "18.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/11594380-a2e4-4c27-8e7f-709424ed16e9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/16857397-eb44-4634-b0d0-c9807c2383f5st%25C3%25B6rungskarte_20261126-125158.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/16857397-eb44-4634-b0d0-c9807c2383f5st%25C3%25B6rungskarte_20261126-125158.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 12:51:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/d808169e-9594-48d7-8c71-8d4d612042b4Fpl%2BS%2B8%2BSEV%2BMOP-MJK%2B16-18%2BJan%2B2027%2B%25281%2529.pdf",
+          "label": "Fahrplan Ersatzverkehr Ostbahnhof ↔ Johanneskirchen 16.01 bis 18.01..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 12:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e2b93ae9-fcc1-4d7b-862f-5104c5e544ed",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction2"
+    },
+    {
+      "id": "8c4f3934-1252-47a9-bfc2-6527958c2c0c",
+      "disruptionId": "c8a3a999-f8cc-4b1b-9b49-8f0e850c88cc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 in der Nacht vom 02. Dezember auf 03. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>02. Dezember auf 03. Dezember von 22:30 Uhr bis 02:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Pasing ↔ Gilching-Argelsried</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "02.12.2026",
+      "durationEnd": "03.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/c8a3a999-f8cc-4b1b-9b49-8f0e850c88cc",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/f30ccf86-dffd-427d-9469-5276ed33717aFpl%2BEV%2BMP-MGCH%2B02.12.-03.12.2026.pdf",
+          "label": "Fahrplan Ersatzverkehr Pasing ↔ Gilching-Argelsried 02.12. auf 03.12..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 12:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8c4f3934-1252-47a9-bfc2-6527958c2c0c",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction0"
+    },
+    {
+      "id": "7ecf43a6-ea8e-4c1f-9c59-5f77b9e048c8",
+      "disruptionId": "6532e942-7f86-4733-bf96-e3841aa179dd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 8 in der Nacht vom 01. Dezember auf 02. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>01. Dezember auf 02. Dezember von 22:00 Uhr bis 03:00 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 8</p><p>🚧 <strong>Streckenabschnitt:</strong> Gilching-Argelsried ↔ Herrsching</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "01.12.2026",
+      "durationEnd": "02.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/6532e942-7f86-4733-bf96-e3841aa179dd",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3eda1c14-bbc1-4493-968a-04ef8e265bc8Fpl%2BEV%2BMGCH-MHI%2B01.12.-02.12.2026.pdf",
+          "label": "Fahrplan Ersatzverkehr Gilching-Argelsried ↔ Herrsching 01.12 auf 02.12..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 11:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7ecf43a6-ea8e-4c1f-9c59-5f77b9e048c8",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction"
+    },
+    {
       "id": "c3a39f6a-e805-4789-8a39-5f04bfa21024",
       "disruptionId": "96776095-f200-404c-bcd9-399d744bf3db",
       "author": "S_BAHN_MUC",
@@ -503,8 +1279,8 @@
       "mapHref": "https://karte.bahn.de/detail/96776095-f200-404c-bcd9-399d744bf3db",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/092e921d-ba72-4f2e-92cb-cb3aa8cba686st%25C3%25B6rungskarte_20261119-024641.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/092e921d-ba72-4f2e-92cb-cb3aa8cba686st%25C3%25B6rungskarte_20261119-024641.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/a7fbaa12-9e13-42eb-8730-0ccdf0d17573st%25C3%25B6rungskarte_20261119-024641.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/a7fbaa12-9e13-42eb-8730-0ccdf0d17573st%25C3%25B6rungskarte_20261119-024641.png",
           "info": "",
           "alt": "Störungskarte 19.11.2026 02:46:41",
           "openInNewTab": true
@@ -512,37 +1288,19 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/5c67610d-71ff-4862-9f24-adf7ffbafdfaFpl%2BBNV%2BMEWG-MAMT%2B21.11.-22.11.2026%2B%25281%2529.pdf",
-          "label": "Fahrplan Altomünster - Erdweg 21.11.-22.11.2026 ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/52342c36-c46d-4352-b135-2a443cc4f1beFpl%2BBNV%2BMEWG-MAMT%2B23.11.2026.pdf",
-          "label": "Fahrplan Altomünster - Erdweg (Dachau) 23.11.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/b3cf9257-7c46-44bd-a10c-8b8c1d027e8dFpl%2BBNV%2BMEWG-MAMT%2B28.11.-29.11.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/cdd9bf40-1767-4632-b40b-1f30f0efd398Fpl%2BBNV%2BMEWG-MAMT%2B28.11.-29.11.2026.pdf",
           "label": "Fahrplan Altomünster - Erdweg 28.11.-29.11.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/daceaa0a-109a-4b9f-a5b0-59eac2c122bcFpl%2BBNV%2BMEWG-MAMT%2B16.11.-20.11.2026.pdf",
-          "label": "Fahrplan Altomünster - Erdweg 16.11.-20.11.2026.",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/19d0c74d-eeb5-4f4b-8694-faca6cc02119Fpl%2BBNV%2BMEWG-MAMT%2B24.11.-27.11.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/420a1189-d4db-4bc4-96b0-6205ab5fcb98Fpl%2BBNV%2BMEWG-MAMT%2B24.11.-27.11.2026.pdf",
           "label": "Fahrplan Altomünster - Erdweg 24.11.-27.11.2026.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-21/9cedcc44-e646-47eb-b9dd-1b1a52f8c4dbFpl%2BBNV%2BMEWG-MAMT%2B30.11.-03.12.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/4eb2f7ab-5314-415e-8eff-70136f7da94dFpl%2BBNV%2BMEWG-MAMT%2B30.11.-03.12.2026.pdf",
           "label": "Fahrplan Altomünster - Erdweg 30.11.-03.12.2026.pdf",
           "info": "",
           "openInNewTab": true
@@ -575,11 +1333,132 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.11.2026 17:19",
+      "lastModified": "26.11.2026 10:20",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c3a39f6a-e805-4789-8a39-5f04bfa21024",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "40f41550-c20e-49f9-9675-25e2e65ae335",
+      "disruptionId": "3bb8dfa6-7575-40d7-b407-96980e655ccc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S6 Grafing Bahnhof - Zorneding: Reparatur an einer Weiche ",
+      "summary": "Derzeit kommt es auf der Linie S6 in beide Richtungen zu vereinzelten Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
+      "text": "<p>Grund für diese Beeinträchtigungen                         ist die Reparatur an einer Weiche       zwischen Zorneding und Grafing Bahnhof.</p>",
+      "durationBegin": "26.11.2026",
+      "durationEnd": "26.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/3bb8dfa6-7575-40d7-b407-96980e655ccc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/44a88405-5594-4378-abf6-ac179b8ae56ast%25C3%25B6rungskarte_20261126-144107.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/44a88405-5594-4378-abf6-ac179b8ae56ast%25C3%25B6rungskarte_20261126-144107.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 14:41:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:26",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/40f41550-c20e-49f9-9675-25e2e65ae335",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section6"
+    },
+    {
+      "id": "dc23195a-3e52-4d36-971f-4b0929e818a6",
+      "disruptionId": "5dee6a1c-7479-4a86-af02-ac9b14ceb235",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an einer Weiche",
+      "summary": "am Ostbahnhof sind derzeit alle Gleise aufgrund einer Reparatur an einer Weiche gesperrt ‼️ Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten. Zudem kommt es zu Zugausfällen.\n \nDie S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:  \n",
+      "text": "<p><strong>S 1 Freising / Flughafen</strong></p><p>Züge beginnen/enden in Moosach. </p><p><strong>Alternative:</strong> </p><ul><li>U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und dort Umstieg zur S 1.&nbsp;Die Gegenrichtung gilt sinngemäß.</li><li>Bus 162 zwischen Pasing und Moosach.</li></ul><p></p><p><strong>S 2 Petershausen / Altomünster</strong></p><p>Züge beginnen/enden am Heimeranplatz Gleis 11.&nbsp;</p><p><strong>Alternativen:</strong> &nbsp;</p><ul><li>Von/nach Petershausen die U 5 ab Hauptbahnhof, Karlsplatz und Ostbahnhof bis Heimeranplatz nutzen. </li></ul><p><strong>S 2 Erding&nbsp;</strong></p><p>Züge fahren nur zwischen Erding und Berg am Laim.</p><p><strong>Alternative:</strong></p><ul><li>U2 ab Hauptbahnhof von/nach Messestadt West und dann Bus 190 / 263 von/nach Riem.</li><li>U2 zwischen Hauptbahnhof und Trudering, Bus 194 (Mo-Fr) zwischen Trudering und Riem.</li></ul><p></p><p><strong>S 3 Mammendorf</strong></p><p>Züge beginnen/enden am Isartor.</p><p><strong>S 3 Holzkirchen</strong></p><p>Züge beginnen/enden in Giesing.&nbsp;</p><p><strong>Alternativen:</strong></p><ul><li>Bus 54 vom/zum Ostbahnhof. </li><li>U 2 ab Hauptbahnhof.</li><li>U 5 ab Hauptbahnhof, Karlsplatz, Ostbahnhof bis Innsbrucker Ring und dann die U 2 bis Giesing.</li></ul><p></p><p><strong>S 4 Geltendorf&nbsp;</strong></p><p>Züge beginnen/enden am Hauptbahnhof Nord Gleis 27 - 36. Der Halt <strong>Hackerbrücke </strong>entfällt.</p><p></p><p><strong>S 5 Kreuzstraße – Pasing</strong></p><p>Züge fahren nur zwischen Kreuzstraße und Giesing.</p><p><strong>Alternativen:</strong></p><ul><li>U 2 zwischen Hauptbahnhof und Giesing.</li><li>U 5 zwischen Hauptbahnhof und Innsbrucker Ring, U 2 zwischen Innsbrucker Ring und Giesing.</li><li>Bus 54 zwischen Ostbahnhof und Giesing.</li></ul><p></p><p><strong>S 6 Tutzing</strong></p><p>Züge beginnen/enden an der Hackerbrücke.</p><p><strong>S 6 Ebersberg</strong></p><p>Züge beginnen/enden Trudering.&nbsp;</p><p><strong>Alternativen: </strong></p><ul><li>Vom/zum Hauptbahnhof auf die U 2 ausweichen. </li><li>Bus 185 von Trudering nach Berg am Laim.</li><li>Bus 190/191 zwischen Berg am Laim und Ostbahnhof.</li></ul><p></p><p><strong>S 7 Wolfratshausen </strong></p><p>Züge verkehren auf dem Regelweg.</p><p></p><p><strong>S 8 Herrsching</strong></p><p>Züge beginnen/enden in Pasing.&nbsp;</p><p>&nbsp;</p><p><strong>S 8 Flughafen</strong></p><p>Züge beginnen/enden am Leuchtenbergring.</p><p></p><p><strong>Die S-Bahnen des 10-Minuten-Takts entfallen auf allen Linien.&nbsp;</strong></p><p><strong>Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</strong></p><p></p><p><strong>Fahrgästen zwischen Pasing und Hauptbahnhof / Ostbahnhof empfehlen wir folgende Alternativen:</strong></p><p>&nbsp;</p><ul><li>Zwischen Pasing und Hauptbahnhof nutzen Sie die Züge des Regionalverkehrs von Gleis 3 und 9 (Pasing).</li><li>Fahrgäste ab Pasing in Richtung Innenstadt können den Bus 57 bis Laimer Platz und von dort die U 5 nutzen. Mit der U 5 können Sie weiter zum Ostbahnhof fahren.</li><li>Fahrgäste in/aus Richtung Laim und in/aus Richtung Sendling können auch den Bus 130 von/nach Harras nutzen. Am Harras fährt die U 6 Richtung Marienplatz oder Großhadern.</li></ul><p></p><p><strong>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</strong></p><p></p>",
+      "durationBegin": "26.11.2026",
+      "durationEnd": "26.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/5dee6a1c-7479-4a86-af02-ac9b14ceb235",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/0353e34a-b783-4b8d-bef6-379cf544111est%25C3%25B6rungskarte_20261126-162141.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/0353e34a-b783-4b8d-bef6-379cf544111est%25C3%25B6rungskarte_20261126-162141.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 16:21:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:23",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/dc23195a-3e52-4d36-971f-4b0929e818a6",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
     },
     {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
@@ -672,6 +1551,351 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "d5ae99bf-9e2c-4fbb-953d-619a1df42496",
+      "disruptionId": "d5ba3613-2c63-4e55-8062-378683991430",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 6 in der Nacht vom 03. Dezember auf 04. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>03. Dezember auf 04. Dezember von 21:20 Uhr bis 02:50 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 6</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Ebersberg</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle zwischen Ostbahnhof und Grafing Bahnhof, kein S-Bahn-Verkehr zwischen Grafing Bahnhof ↔ Ebersberg</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen zwischen Grafing Bahnhof und Ebersberg. Bitte nutzen Sie zwischen Ostbahnhof und Grafing Bahnhof die verkehrenden S-Bahnen der S 6.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "03.12.2026",
+      "durationEnd": "04.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/d5ba3613-2c63-4e55-8062-378683991430",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b13e4bdc-e63d-4e84-9f7b-6ea235b166dfst%25C3%25B6rungskarte_20261126-162050.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b13e4bdc-e63d-4e84-9f7b-6ea235b166dfst%25C3%25B6rungskarte_20261126-162050.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 16:20:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/ca914057-6d89-4758-ba2f-270e6da92537Fpl%2BAusf.%252BVersp.%252BSEV%2BMOP-MGB-MEG%2B30%2BNov-4%2BDez%2B2026.pdf",
+          "label": "Fahrplan Ausfälle und Verspätungen Ostbahnhof ↔ Grafing Bahnhof ↔ Ebersberg 30. November bis 04. Dezember.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d5ae99bf-9e2c-4fbb-953d-619a1df42496",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction4"
+    },
+    {
+      "id": "4002838a-fbf9-491e-8bfc-c1153ef19b8d",
+      "disruptionId": "061e1322-3e80-45fc-96be-d8023f96092c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 6 in der Nacht vom 02. Dezember auf 03. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>02. Dezember auf 03. Dezember von 22:00 Uhr bis 02:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 6</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Ebersberg</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle (40- bzw. 60-Minuten-Takt)</p><p>↪️<strong>&nbsp;Alternative: </strong>Bitte nutzen Sie die verkehrenden S-Bahnen der S 6.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "02.12.2026",
+      "durationEnd": "03.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/061e1322-3e80-45fc-96be-d8023f96092c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/6a0a152e-73b4-435b-8a90-2d85ccdeb4bcst%25C3%25B6rungskarte_20261126-160806.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/6a0a152e-73b4-435b-8a90-2d85ccdeb4bcst%25C3%25B6rungskarte_20261126-160806.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 16:08:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/b1ec63fb-92cf-4915-80c8-3668b74be4b8Fpl%2BAusf.%252BVersp.%252BSEV%2BMOP-MGB-MEG%2B30%2BNov-4%2BDez%2B2026.pdf",
+          "label": "Fahrplan Ausfälle und Verspätungen Ostbahnhof ↔ Grafing Bahnhof ↔ Ebersberg 30. November bis 04. Dezember.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4002838a-fbf9-491e-8bfc-c1153ef19b8d",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction3"
+    },
+    {
+      "id": "4b3820c6-a9ae-4d2a-8aba-d761d30f03f5",
+      "disruptionId": "5691feb1-e189-4b90-b07c-4a8c63198272",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 6 in der Nacht vom 01. Dezember auf 02. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>01. Dezember auf 02. Dezember von 22:00 Uhr bis 03:00 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 6</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Ebersberg</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle (60-Minuten-Takt)</p><p>↪️<strong>&nbsp;Alternative: </strong>Bitte nutzen Sie die verkehrenden S-Bahnen der S 6.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "01.12.2026",
+      "durationEnd": "02.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/5691feb1-e189-4b90-b07c-4a8c63198272",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/11dee154-603b-4562-9edf-33714db011e2st%25C3%25B6rungskarte_20261126-160421.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/11dee154-603b-4562-9edf-33714db011e2st%25C3%25B6rungskarte_20261126-160421.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 16:04:21",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/e737b067-f7e6-4ff3-8a00-6bf57dcbc8e0Fpl%2BAusf.%252BVersp.%252BSEV%2BMOP-MGB-MEG%2B30%2BNov-4%2BDez%2B2026.pdf",
+          "label": "Fahrplan Ausfälle und Verspätungen Ostbahnhof ↔ Grafing Bahnhof ↔ Ebersberg 30. November bis 04. Dezember.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4b3820c6-a9ae-4d2a-8aba-d761d30f03f5",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction2"
+    },
+    {
+      "id": "a8cba9fe-aa43-48bc-a390-38cd88ee50ea",
+      "disruptionId": "7e02017c-1ea7-46ce-aaa1-31e8e9ee3567",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 6 in der Nacht vom 30. November auf 01. Dezember",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>30. November auf 01. Dezember von 21:20 Uhr bis 04:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 6</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Grafing Bahnhof</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle (40- bzw. 60-Minuten-Takt)</p><p>↪️<strong>&nbsp;Alternative: </strong>Bitte nutzen Sie die verkehrenden S-Bahnen der S 6.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsbauarbeiten</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "30.11.2026",
+      "durationEnd": "01.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/7e02017c-1ea7-46ce-aaa1-31e8e9ee3567",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/6fcee739-f5a3-4070-988a-7775efc3bad0st%25C3%25B6rungskarte_20261126-155809.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/6fcee739-f5a3-4070-988a-7775efc3bad0st%25C3%25B6rungskarte_20261126-155809.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 15:58:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/f7f07520-4ebf-4651-ac53-f7152c8c6e28Fpl%2BAusf.%252BVersp.%252BSEV%2BMOP-MGB-MEG%2B30%2BNov-4%2BDez%2B2026.pdf",
+          "label": "Fahrplan Ausfälle und Verspätungen Ostbahnhof ↔ Grafing Bahnhof ↔ Ebersberg 30. November bis 04. Dezember.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 16:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a8cba9fe-aa43-48bc-a390-38cd88ee50ea",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction1"
+    },
+    {
+      "id": "208d2340-54e9-44f6-9b9b-6f1e94e206af",
+      "disruptionId": "b310678c-a8d3-4a91-8cdb-79c5ef7e907f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 7 in der Nacht vom 04. Februar auf 05. Februar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>04. Februar auf 05. Februar von 21:30 Uhr bis 02:40 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 7</p><p>🚧 <strong>Streckenabschnitt:</strong> Harras ↔ Höllriegelskreuth</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle (60-Minuten-Takt) zwischen Harras und Höllriegelskreuth, Gleisänderungen zwischen Solln und Höllriegelskreuth und geänderte Abfahrtszeiten der Züge zwischen Höllriegelskreuth und Wolfratshausen</p><p>↪️<strong>&nbsp;Alternative: </strong>Ergänzender Ersatzverkehr mit Bussen zwischen Harras und Höllriegelskreuth (Abfahrt der Busse am Harras von Halteposition Nr. 6)</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "04.02.2027",
+      "durationEnd": "05.02.2027",
+      "mapHref": "https://karte.bahn.de/detail/b310678c-a8d3-4a91-8cdb-79c5ef7e907f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3e550fa6-1799-485d-9d87-ece3b2db15c0st%25C3%25B6rungskarte_20261126-154348.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3e550fa6-1799-485d-9d87-ece3b2db15c0st%25C3%25B6rungskarte_20261126-154348.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 15:43:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/208d2340-54e9-44f6-9b9b-6f1e94e206af",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction0"
+    },
+    {
+      "id": "0cd51ba4-82dc-41b9-9120-8419c2b78bff",
+      "disruptionId": "4f5abe54-51bd-4c89-9d40-bb7f147fddc9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 7 in der Nacht vom 03. Februar auf 04. Februar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>03. Februar auf 04. Februar von 21:50 Uhr bis 02:20 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 7</p><p>🚧 <strong>Streckenabschnitt:</strong> Hauptbahnhof ↔ Wolfratshausen</p><p>❌ <strong>Einschränkungen: </strong>Fahrtausfälle (40-Minuten-Takt)</p><p>↪️<strong>&nbsp;Alternative: </strong>Bitte nutzen Sie die verkehrenden S-Bahnen der S 7.</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsarbeiten</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "03.02.2027",
+      "durationEnd": "04.02.2027",
+      "mapHref": "https://karte.bahn.de/detail/4f5abe54-51bd-4c89-9d40-bb7f147fddc9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3757e8bd-f857-4564-a87b-56acb5345401st%25C3%25B6rungskarte_20261126-153018.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/3757e8bd-f857-4564-a87b-56acb5345401st%25C3%25B6rungskarte_20261126-153018.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 15:30:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0cd51ba4-82dc-41b9-9120-8419c2b78bff",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
+    },
+    {
+      "id": "3ee337a4-cb24-4a15-9d94-3e9f66e09cc9",
+      "disruptionId": "9e3425ab-98eb-4dd4-9d2f-baab0a7d297b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S7/S20 Mittersendling - Höllriegelskreuth: Reparatur an einer Weiche ",
+      "summary": "Die S-Bahnen der Linie S20 entfallen heute Nachmittag ‼️",
+      "text": "<p>Zusätzlich kommt es auf der Linie S7 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen                         ist die Reparatur an einer Weiche       in Mittersendling.</p>",
+      "durationBegin": "26.11.2026",
+      "durationEnd": "26.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/9e3425ab-98eb-4dd4-9d2f-baab0a7d297b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/5f6024e5-db69-4788-bf17-fa5bf6745a35st%25C3%25B6rungskarte_20261126-152600.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/5f6024e5-db69-4788-bf17-fa5bf6745a35st%25C3%25B6rungskarte_20261126-152600.png",
+          "info": "",
+          "alt": "Störungskarte 26.11.2026 15:26:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.11.2026 15:27",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3ee337a4-cb24-4a15-9d94-3e9f66e09cc9",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "c3dde0bf-814a-4beb-8d84-fbc6c6c479ff",
